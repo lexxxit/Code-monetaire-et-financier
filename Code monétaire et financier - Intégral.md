@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-02-13
+Version Consolidée au 2004-03-27
 
 # Partie législative
 
@@ -18641,14 +18641,15 @@ public dont la France fait partie.
 Les interdictions d'émettre des valeurs mobilières ou de faire appel public à l'épargne sont édictées par les articles L.
 223-11, L. 227-2 et le premier alinéa de l'article L. 228-39 du code de commerce, reproduits ci-après :
 
-Art. L. 223-11 (premier alinéa). - A peine de nullité de l'émission, il est interdit à une société à responsabilité limitée
-d'émettre des valeurs mobilières.
+"Art. L. 223-11 (premier alinéa) : Une société à responsabilité limitée, tenue en vertu de l'article L. 223-35 de désigner un
+commissaire aux comptes et dont les comptes des trois derniers exercices de douze mois ont été régulièrement approuvés par
+les associés, peut, sans faire appel public à l'épargne, émettre des obligations nominatives."
 
-Art. L. 227-2. - La société par actions simplifiée ne peut faire publiquement appel à l'épargne.
+"Art. L. 227-2 - La société par actions simplifiée ne peut faire publiquement appel à l'épargne."
 
-Art. L. 228-39 (premier alinéa). - L'émission d'obligations par une société par actions n'ayant pas établi deux bilans
+"Art. L. 228-39 (premier alinéa). - L'émission d'obligations par une société par actions n'ayant pas établi deux bilans
 régulièrement approuvés par les actionnaires doit être précédée d'une vérification de l'actif et du passif dans les
-conditions prévues aux articles L. 225-8 et L. 225-10.
+conditions prévues aux articles L. 225-8 et L. 225-10."
 
 **Liens relatifs à cet article**
 
@@ -18658,7 +18659,7 @@ conditions prévues aux articles L. 225-8 et L. 225-10.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 102 () JORF 16 mai 2001
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 12 () JORF 27 mars 2004
 
 	**Anciens textes**:
 
@@ -18667,9 +18668,8 @@ conditions prévues aux articles L. 225-8 et L. 225-10.
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-10 (V)
-	  - Code de commerce. - art. L225-8 (V)
 	  - Code de commerce. - art. L228-39 (M)
+	  - Code monétaire et financier L223-11, L227-2, L225-8, L225-10
 
 	**Cité par**:
 
