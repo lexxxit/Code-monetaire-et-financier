@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-06-26
+Version Consolidée au 2004-07-10
 
 # Partie législative
 
@@ -38395,17 +38395,12 @@ l'Autorité des marchés financiers.
 ###### Article L621-10
 
 Les enquêteurs peuvent, pour les nécessités de l'enquête, se faire communiquer tous documents, quel qu'en soit le support, y
-compris les données conservées et traitées par les opérateurs de télécommunications dans le cadre de l'article L. 32-3-1 du
+compris les données conservées et traitées par les opérateurs de télécommunications dans le cadre de l'article L. 34-1 du
 code des postes et télécommunications et les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du
-21 juin 2004 pour la confiance dans l'économie numérique et en obtenir la copie. Ils peuvent convoquer et entendre toute
+21 juin 2004 pour la confiance dans l'économie numérique, et en obtenir la copie. Ils peuvent convoquer et entendre toute
 personne susceptible de leur fournir des informations. Ils peuvent accéder aux locaux à usage professionnel.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L32-3-1
-	  - Loi n°2004-575 2004-06-21 art. 6
 
 	**Anciens textes**:
 
@@ -38415,9 +38410,14 @@ personne susceptible de leur fournir des informations. Ils peuvent accéder aux 
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6 (VT)
+	  - Code des postes et des communications électroni... - art. L34-1 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 56 () JORF 22 juin 2004
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 119 () JORF 10 juillet 2004
 
 	**Cité par**:
 
