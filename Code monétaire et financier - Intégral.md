@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2002-12-12
+Version Consolidée au 2002-12-31
 
 # Partie législative
 
@@ -3751,11 +3751,11 @@ Il peut consentir au gouverneur des délégations temporaires de pouvoir.
 
 ###### Article L142-3
 
-Le Conseil de la politique monétaire comprend, outre le gouverneur et les deux sous-gouverneurs de la Banque de France, six
-membres.
+Le Conseil de la politique monétaire comprend, outre le gouverneur et les deux sous-gouverneurs de la Banque de France,
+quatre membres.
 
-Ces six membres sont nommés par décret en Conseil des ministres pour une durée de neuf ans, sous réserve des dispositions des
-quatrième et cinquième alinéas du présent article.
+Ces quatre membres sont nommés par décret en Conseil des ministres pour une durée de six ans, sous réserve des dispositions
+des quatrième et cinquième alinéas du présent article.
 
 Ils sont choisis sur une liste, comprenant un nombre de noms triple de celui des membres à désigner, qui est établie d'un
 commun accord, ou à défaut à parts égales, par le président du Sénat, le président de l'Assemblée nationale et le président
@@ -3764,7 +3764,7 @@ membres à désigner dans les domaines monétaire, financier ou économique. Pr�
 les listes dressées pour le renouvellement des membres mentionnés au deuxième alinéa sont soumises pour avis au Conseil de la
 politique monétaire.
 
-Les membres mentionnés au deuxième alinéa sont renouvelés par tiers tous les trois ans. Il est pourvu au remplacement des
+Les membres mentionnés au deuxième alinéa sont renouvelés par moitié tous les trois ans. Il est pourvu au remplacement des
 membres du conseil au moins huit jours avant l'expiration de leurs fonctions. Si l'un de ces membres ne peut exercer son
 mandat jusqu'à son terme, il est pourvu immédiatement à son remplacement dans les conditions décrites à l'alinéa précédent.
 Dans ce cas, le membre nommé n'exerce ses fonctions que pour la durée restant à courir du mandat de la personne qu'il
@@ -3783,13 +3783,15 @@ une durée de trois ans au plus, un membre du conseil dans le cas prévu au quat
 
 	**Anciens textes**:
 
-	  - Loi n°93-980 1993-08-04 art. 8
 	  - Loi n°93-980 du 4 août 1993 - art. 8 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi - art. 85 (V) JORF 31 décembre 2002
 
 	**Cité par**:
 
@@ -3911,7 +3913,7 @@ convoqués à la réunion du Conseil général, qui arrête les comptes de l'exe
 Le Conseil général de la Banque de France comprend les membres du Conseil de la politique monétaire et un représentant élu
 des salariés de la Banque, dont le mandat est de six ans.
 
-La validité des délibérations est subordonnée à la présence d'au moins six membres.
+La validité des délibérations est subordonnée à la présence d'au moins cinq membres.
 
 Les décisions se prennent à la majorité des membres présents. En cas de partage, la voix du président est prépondérante.
 
@@ -3928,13 +3930,15 @@ opposition.
 
 	**Anciens textes**:
 
-	  - Loi n°93-980 1993-08-04 art. 12
 	  - Loi n°93-980 du 4 août 1993 - art. 12 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi - art. 85 (V) JORF 31 décembre 2002
 
 
 ##### Section 4 : Le gouverneur et les sous-gouverneurs
