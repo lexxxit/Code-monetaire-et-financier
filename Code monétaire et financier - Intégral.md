@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2001-05-16
+Version Consolidée au 2001-07-11
 
 # Partie législative
 
@@ -9676,8 +9676,36 @@ ne sont pas applicables aux sociétés civiles de placement immobilier.
 
 ###### Article L214-59
 
-Il est tenu au siège de la société et à la disposition des associés et des tiers un registre où sont recensées les offres de
-cession de parts ainsi que les demandes d'acquisition portées à la connaissance de la société.
+I. Les ordres d'achat et de vente sont, à peine de nullité, inscrits sur un registre tenu au siège de la société. Le prix
+d'exécution résulte de la confrontation de l'offre et de la demande ; il est établi et publié par la société de gestion au
+terme de chaque période d'enregistrement des ordres.
+
+Toute transaction donne lieu à une inscription sur le registre des associés qui est réputée constituer l'acte de cession
+écrit prévu par l'article 1865 du code civil. Le transfert de propriété qui en résulte est opposable, dès cet instant, à la
+société et aux tiers. La société de gestion garantit la bonne fin de ces transactions.
+
+Un règlement de la Commission des opérations de bourse fixe les modalités de mise en oeuvre du présent I, et en particulier
+les conditions d'information sur le marché secondaire des parts et de détermination de la période d'enregistrement des
+ordres.
+
+II. Lorsque la société de gestion constate que les ordres de vente inscrits depuis plus de douze mois sur le registre
+mentionné au I représentent au moins 10 % des parts émises par la société, elle en informe sans délai la Commission des
+opérations de bourse. La même procédure est applicable au cas où les demandes de retrait non satisfaites dans un délai de
+douze mois représentent au moins 10 % des parts.
+
+Dans les deux mois à compter de cette information, la société de gestion convoque une assemblée générale extraordinaire et
+lui propose la cession partielle ou totale du patrimoine et toute autre mesure appropriée. De telles cessions sont réputées
+conformes à l'article L. 214-50.
+
+**Nota:**
+
+Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -9688,7 +9716,10 @@ cession de parts ainsi que les demandes d'acquisition portées à la connaissanc
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2001-602 2001-07-09 art. 9 V 6° JORF 11 juillet 2001
 
 	**Cité par**:
 
@@ -9698,6 +9729,11 @@ cession de parts ainsi que les demandes d'acquisition portées à la connaissanc
 	  - Code monétaire et financier - art. L214-62 (M)
 	  - Code monétaire et financier - art. L214-63 (V)
 	  - Code monétaire et financier - art. L214-84-3 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 1865 (V)
+	  - Code monétaire et financier - art. L214-50 (V)
 
 
 ###### Article L214-60
@@ -9733,52 +9769,7 @@ financiers sont remplacées par la référence au règlement général de l'Auto
 	  - Code monétaire et financier - art. L214-78 (V)
 
 
-###### Article L214-61
-
-Sauf pour les sociétés à capital variable, la société de gestion établit un prix de cession conseillé des parts et doit
-rechercher un acquéreur pour toute offre de cession à ce prix.
-
-En période d'augmentation de capital, le prix de cession conseillé des parts est égal au prix de souscription.
-
-Lorsque la société n'augmente plus son capital, le montant des frais pris en compte dans le calcul du prix conseillé doit
-être progressivement réduit afin de rapprocher, au plus tard à la date prévue par les statuts pour la liquidation de la
-société, le prix conseillé du prix déterminé sur la base de la valeur de réalisation mentionnée à l'article L. 214-78.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°70-1300 du 31 décembre 1970 - art. 3-2 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2001-602 2001-07-09 art. 9 V 7° JORF 11 juillet 2001
-
-	**Cité par**:
-
-	  - Code des assurances - art. L160-19 (V)
-	  - Code général des impôts, CGI. - art. 199 ter-0 B (V)
-	  - Code général des impôts, CGI. - art. 242 ter B (V)
-	  - Code général des impôts, CGI. - art. 31 (VT)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L214-78 (V)
-
-
 ###### Article L214-62
-
-Lorsque la société de gestion constate que des offres de cession de parts d'associés, représentant au moins 5 % des parts de
-la société civile, ne trouvent pas acquéreur au prix conseillé six mois après l'inscription de leur demande sur le registre
-de la société mentionné à l'article L. 214-59, elle en informe sans délai la commission des opérations de bourse et convoque
-une assemblée générale extraordinaire dans un délai de deux mois à compter de cette information. La même procédure est
-applicable au cas où les demandes de retrait non satisfaites dans un délai de six mois représentent au moins 5 % des parts de
-la société à capital variable.
 
 La société de gestion propose à l'assemblée générale, après audition du rapport des commissaires aux comptes, soit la
 diminution du prix de la part sous réserve que celui-ci ne soit pas diminué de plus de 30 %, soit la cession partielle ou
@@ -9786,6 +9777,16 @@ totale du patrimoine. De telles cessions sont réputées répondre aux condition
 
 Les rapports de la société de gestion, des commissaires aux comptes ainsi que les projets de résolution de l'assemblée
 générale sont transmis à la commission des opérations de bourse un mois avant la date de l'assemblée générale.
+
+**Nota:**
+
+Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -9796,7 +9797,10 @@ générale sont transmis à la commission des opérations de bourse un mois avan
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2001-602 2001-07-09 art. 9 V 7° JORF 11 juillet 2001
 
 	**Cité par**:
 
@@ -9806,7 +9810,6 @@ générale sont transmis à la commission des opérations de bourse un mois avan
 	**Cite**:
 
 	  - Code monétaire et financier - art. L214-50 (V)
-	  - Code monétaire et financier - art. L214-59 (M)
 
 
 ###### Article L214-63
@@ -10536,6 +10539,31 @@ dispositions de l'article L. 214-57.
 	  - Code monétaire et financier - art. R214-119 (V)
 
 
+##### Sous-section 6-1 : Règles de bonne conduite.
+
+###### Article L214-83-1
+
+Les sociétés de gestion de sociétés civiles de placement immobilier et les personnes placées sous leur autorité ou agissant
+pour leur compte sont tenues de respecter des règles de bonne conduite destinées à garantir la protection des investisseurs
+et la régularité des opérations, établies par la Commission des opérations de bourse, en application de l'article L. 533-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2001-602 2001-07-09 art. 9 V 4° JORF 11 juillet 2001
+
+	**Cité par**:
+
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
+	  - Code monétaire et financier - art. L341-11 (V)
+	  - Code monétaire et financier - art. L533-4 (M)
+
+
 ##### Sous-section 7 : Contrôle.
 
 ###### Article L214-84
@@ -10571,11 +10599,24 @@ des sociétés de gestion.
 	  - Code monétaire et financier - art. L642-3 (M)
 
 
+##### Section 4 : Les sociétés d'épargne forestière
+
 ###### Article L214-85
 
-Un décret en Conseil d'Etat fixe les modalités d'application des sections 1, 2 et 3 du présent chapitre.
+Les sociétés d'épargne forestière ont pour objet principal l'acquisition et la gestion d'un patrimoine forestier ; leur actif
+est constitué, d'une part, pour 60 % au moins de bois ou forêts, de parts d'intérêt de groupements forestiers ou de sociétés
+dont l'objet exclusif est la détention de bois et forêts et, d'autre part, de liquidités ou valeurs assimilées.
+
+Les bois et forêts détenus par ces sociétés doivent être gérés conformément à un plan simple de gestion agréé.
+
+Les parts des sociétés d'épargne forestière sont assimilées aux parts d'intérêt détenues dans un groupement forestier pour
+l'application de la loi fiscale, à l'exception de l'article 885 H du code général des impôts.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 885 H
 
 	**Anciens textes**:
 
@@ -10585,7 +10626,10 @@ Un décret en Conseil d'Etat fixe les modalités d'application des sections 1, 2
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2001-602 2001-07-09 art. 9 V 1°, 2° JORF 11 juillet 2001
 
 	**Liens**:
 
@@ -10636,6 +10680,100 @@ Un décret en Conseil d'Etat fixe les modalités d'application des sections 1, 2
 	  - Code monétaire et financier - art. R214-157 (V)
 	  - Code monétaire et financier - art. R214-158 (V)
 	  - Code monétaire et financier - art. R214-159 (V)
+
+
+###### Article L214-86
+
+La part de l'actif des sociétés d'épargne forestière constituée de bois et forêts est fixée à 51 % lorsque ces sociétés
+consacrent, dans des conditions définies par décret en Conseil d'Etat, une fraction de leur actif à la bonification ou à la
+garantie de prêts accordés par des établissements de crédit agréés par l'autorité administrative pour financer des opérations
+d'investissement, de valorisation ou d'exploitation des bois et forêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2001-602 2001-07-09 art. 9 V 1° et 3° JORF 11 juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 422-190 (V)
+	  - Code forestier (nouveau) - art. L331-4-1 (V)
+	  - Code général des impôts, CGI. - art. 239 septies (V)
+
+
+###### Article L214-87
+
+Les sociétés d'épargne forestière et leurs sociétés de gestion sont soumises aux mêmes règles que celles prévues pour les
+sociétés civiles de placement immobilier et leurs sociétés de gestion.
+
+Toutefois :
+
+- le délai mentionné à l'article L. 214-54 est porté à deux ans ;
+
+- l'agrément de la société de gestion prévu à l'article L. 214-67 est soumis à l'avis préalable du Centre national
+professionnel de la propriété forestière ;
+
+- par dérogation au premier alinéa de l'article L. 214-72, un décret en Conseil d'Etat fixe les échanges, aliénations ou
+constitutions de droits réels portant sur le patrimoine forestier des sociétés d'épargne forestière qui relèvent des
+opérations normales de gestion et ne sont pas soumises à l'autorisation de l'assemblée générale ordinaire des associés ;
+
+- par dérogation au premier alinéa de l'article L. 214-80, une société d'épargne forestière peut également fusionner avec un
+groupement forestier gérant un patrimoine dont les forêts sont soumises à des plans simples de gestion agréés ; la fusion est
+alors soumise à l'agrément de la Commission des opérations de bourse.
+
+En outre, l'assemblée générale des associés approuve les plans simples de gestion des bois et forêts détenus par la société.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2001-602 2001-07-09 art. 9 V 1° et 3° JORF 11 juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 423-3 (V)
+	  - Code forestier (nouveau) - art. L321-1 (VD)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quater-0 ZZ quater (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 217 terdecies (V)
+	  - Code forestier - art. L221-1 (VT)
+	  - Code forestier - art. L221-8 (VT)
+	  - Code général des impôts, CGI. - art. 199 decies H (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-54 (V)
+	  - Code monétaire et financier - art. L214-67 (M)
+	  - Code monétaire et financier - art. L214-72 (V)
+	  - Code monétaire et financier - art. L214-80 (M)
+
+
+###### Article L214-88
+
+Un décret en Conseil d'Etat fixe les modalités d'application des sections 1, 2, 3 et 4 du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2001-602 2001-07-09 art. 9 V 1° et 3° JORF 11 juillet 2001
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L231-8 (V)
+	  - Code monétaire et financier - art. L752-6 (M)
 
 
 ### Titre II : Les produits d'épargne
@@ -29714,8 +29852,9 @@ Les prestataires de services d'investissement, les entreprises de marché et les
 
 ###### Article L533-4
 
-Les prestataires de services d'investissement et les personnes mentionnées à l'article L. 421-8, sont tenus de respecter des
-règles de bonne conduite destinées à garantir la protection des investisseurs et la régularité des opérations.
+Les prestataires de services d'investissement et les personnes mentionnées à l'article L. 421-8 ainsi que les personnes
+mentionnées à l'article L. 214-83-1, sont tenus de respecter des règles de bonne conduite destinées à garantir la protection
+des investisseurs et la régularité des opérations.
 
 Ces règles sont établies par le Conseil des marchés financiers et, pour celles ayant trait aux services définis au 4 de
 l'article L. 321-1, par la Commission des opérations de bourse.
@@ -29755,7 +29894,10 @@ de services d'investissement, de la personne à laquelle le service d'investisse
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2001-602 2001-07-09 art. 9 V 5° JORF 11 juillet 2001
 
 	**Cité par**:
 
@@ -35725,6 +35867,31 @@ suspendues d'activité par la Commission des opérations de bourse.
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L621-26-1 (Ab)
+
+
+###### Article L621-26-1
+
+Les articles L. 621-25 et L. 621-26 sont applicables aux sociétés de gestion des sociétés civiles de placement immobilier et
+des sociétés d'épargne forestière ainsi qu'aux personnes agissant sous leur autorité ou pour leur compte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2001-602 2001-07-09 art. 9 V 8° JORF 11 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-25 (M)
+	  - Code monétaire et financier - art. L621-26 (M)
 
 
 ###### Article L621-27
