@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2003-08-22
+Version Consolidée au 2003-12-31
 
 # Partie législative
 
@@ -9314,7 +9314,7 @@ Le règlement peut prévoir que :
 2. Les produits des actifs du fonds sont réinvestis dans le fonds.
 
 Le fonds ne peut être dissous que si sa dissolution n'entraîne pas la perte des avantages accordés aux salariés dans les
-conditions prévues à l'article L. 225-194 du code de commerce et des articles L. 442-7, L. 442-8 et L. 443-6 du code du
+conditions prévues à l'article L. 225-194 du code de commerce et des articles L.  442-7, L. 442-8 et L. 443-6 du code du
 travail.
 
 Les dispositions du présent article sont applicables aux fonds dont l'actif comprend au plus un tiers de titres émis par
@@ -9322,8 +9322,7 @@ l'entreprise ou par toute autre société qui est liée dans les conditions pré
 
 Le règlement précise, le cas échéant, les considérations sociales, environnementales ou éthiques que doit respecter la
 société de gestion dans l'achat ou la vente des titres, ainsi que dans l'exercice des droits qui leur sont attachés. Le
-rapport annuel du fonds rend compte de leur application, dans des conditions définies par la Commission des opérations de
-bourse.
+rapport annuel du fonds rend compte de leur application, dans des conditions définies par l'Autorité des marchés financiers.
 
 Lorsque l'entreprise est régie par les dispositions de la loi n° 47-1775 du 10 septembre 1947 portant statut de la
 coopération, le fonds commun de placement d'entreprise peut investir dans les titres de capital qu'elle émet, sans préjudice
@@ -9331,8 +9330,8 @@ des dispositions spécifiques qui régissent, le cas échéant, la souscription 
 conditions fixées par décret.
 
 Les dispositions du présent article sont également applicables aux fonds solidaires qui peuvent être souscrits dans le cadre
-du plan partenarial d'épargne salariale volontaire pour la retraite mentionné à l'article L. 443-1-2 du même code. L'actif de
-ces fonds solidaires est composé :
+du plan d'épargne pour la retraite collectif mentionné à l'article L. 443-1-2 du même code. L'actif de ces fonds solidaires
+est composé :
 
 a) Pour une part, comprise entre 5 et 10 %, de titres émis par des entreprises solidaires agréées en application de l'article
 L. 443-3-1 du code du travail ou par des sociétés de capital-risque visées à l'article 1er-1 de la loi n° 85-695 du 11
@@ -9343,21 +9342,11 @@ solidaires mentionnées à l'article L. 443-3-1 du code du travail ;
 b) Pour le surplus, de valeurs mobilières admises aux négociations sur un marché réglementé, de parts d'organismes de
 placement collectif en valeurs mobilières investies dans ces mêmes valeurs et, à titre accessoire, de liquidités.
 
-Les fonds qui peuvent être souscrits dans le cadre d'un plan partenarial d'épargne salariale volontaire pour la retraite ne
-peuvent détenir plus de 5 % de titres non admis aux négociations sur un marché réglementé, sans préjudice des dispositions du
-a, ou plus de 5 % de titres de l'entreprise qui a mis  en place le plan ou de sociétés qui lui sont liées au sens de
-l'article L. 444-3 du code du travail. Cette limitation ne s'applique pas aux parts et actions d'organismes de placement
-collectif en valeurs mobilières détenues par le fonds.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil de discipline de la gestion financière sont remplacées
-par la références à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-fianciers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+Les fonds qui peuvent être souscrits dans le cadre d'un plan d'épargne pour la retraite collectif ne peuvent détenir plus de
+5 % de titres non admis aux négociations sur un marché réglementé, sans préjudice des dispositions du a, ou plus de 5 % de
+titres de l'entreprise qui a mis  en place le plan ou de sociétés qui lui sont liées au sens de l'article L. 444-3 du code du
+travail. Cette limitation ne s'applique pas aux parts et actions d'organismes de placement collectif en valeurs mobilières
+détenues par le fonds.
 
 **Liens relatifs à cet article**
 
@@ -9434,7 +9423,7 @@ fianciers sont remplacées par la référence au règlement général de l'Autor
 
 	**Modifié par**:
 
-	  - Loi n°2003-775 2003-08-21 art. 109 IV JORF 22 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
 
 
 ###### Article L214-40
@@ -12100,6 +12089,8 @@ Il peut être ouvert un plan par contribuable ou par chacun des époux soumis à
 
 Le montant des versements est plafonné dans une limite fixée par voie réglementaire.
 
+A compter du 25 septembre 2003, il ne peut plus être ouvert de plans d'épargne populaire.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12110,6 +12101,10 @@ Le montant des versements est plafonné dans une limite fixée par voie régleme
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 82 (V) JORF 31 décembre 2003
 
 	**Cité par**:
 
@@ -20222,8 +20217,8 @@ Toutefois, seuls les établissements de crédit peuvent prendre ou mettre en pen
 La pension porte sur des valeurs, titres ou effets, qui ne sont pas susceptibles de faire l'objet, pendant toute la durée de
 l'opération :
 
-1. Du détachement d'un droit à dividende, ouvrant droit à l'avoir fiscal mentionné à l'article 158 bis du code général des
-impôts ou au crédit d'impôt prévu au b du 1 de l'article 220 du même code.
+1. Du détachement d'un droit à dividende, ouvrant droit au crédit d'impôt prévu au b du 1 de l'article 220 du code général
+des impôts. (1)
 
 2. Du paiement d'un intérêt soumis à la retenue à la source prévue au 1 de l'article 119 bis ou à l'article 1678 bis du code
 général des impôts ou ouvrant droit à un crédit d'impôt prévu au b du 1 de l'article 220 du même code.
@@ -20231,12 +20226,16 @@ général des impôts ou ouvrant droit à un crédit d'impôt prévu au b du 1 d
 L'amortissement, le tirage au sort conduisant au remboursement, l'échange, la conversion ou l'exercice d'un bon de
 souscription mettent fin à l'opération de pension.
 
+**Nota:**
+
+1 : Art. 93 II E loi 2003-1311 2003-12-30 Finances pour 2004 : Ces dispositions sont applicables aux revenus distribués ou
+répartis perçus à compter du 1er janvier 2005.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 158 bis, 220, 1678 bis
-	  - Code monétaire et financier 119 bis
+	  - CGI 220, 1678 bis, 119 bis
 
 	**Anciens textes**:
 
@@ -20246,6 +20245,14 @@ souscription mettent fin à l'opération de pension.
 
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi - art. 93 (V) JORF 31 décembre 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 	**Cité par**:
 
@@ -26355,6 +26362,11 @@ et de prévoyance, le montant total de l'intérêt servi aux parts sociales et d
 articles 11 bis, 18 et 19 vicies de la loi n° 47-1775 du 10 septembre 1947 susmentionnée, ni être inférieures au tiers des
 sommes disponibles après la mise en service.
 
+La rémunération des titres visés aux titres II quater et II quinquies de la loi n° 47-1775 du 10 septembre 1947 précitée
+n'est pas retenue pour le calcul du montant total maximum des sommes affectées au financement des projets d'économie locale
+et sociale visé à l'alinéa précédent lorsque ces titres sont détenus directement ou indirectement par la Caisse nationale des
+caisses d'épargne et de prévoyance ou par une caisse d'épargne ou de prévoyance.
+
 Les missions définies à l'article L. 512-85 ainsi que les projets d'économie locale et sociale doivent présenter à la fois un
 intérêt en termes de développement local ou d'aménagement du territoire ou de protection de l'environnement et un intérêt en
 termes de développement social ou d'emploi. Chaque caisse d'épargne et de prévoyance tient compte des orientations définies
@@ -26383,7 +26395,7 @@ détaillée au rapport annuel de la Caisse nationale des caisses d'épargne et d
 
 	**Modifié par**:
 
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 36 () JORF 18 juillet 2001
+	  - Loi - art. 60 (V) JORF 31 décembre 2003
 
 	**Cité par**:
 
@@ -26494,6 +26506,14 @@ par les salariés du réseau des caisses d'épargne dans les conditions prévues
 directoire de la Caisse nationale des caisses d'épargne et de prévoyance est soumise à un agrément du ministre chargé de
 l'économie.
 
+I. - (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29
+décembre 2003.) 
+
+II. - La commission de surveillance de la Caisse des dépôts et consignations est saisie pour avis préalablement à toute
+opération portant sur le capital de la Caisse nationale des caisses d'épargne et de prévoyance et affectant la participation
+de la Caisse des dépôts et consignations. Elle en informe les commissions chargées des finances de l'Assemblée nationale et
+du Sénat.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -26511,11 +26531,9 @@ l'économie.
 	  - Loi n°2001-1168 du 11 décembre 2001 - art. 30 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 145 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce L225-57 à L225-93
-	  - Code monétaire et financier - art. L321-1 (M)
-	  - Code monétaire et financier - art. L321-2 (M)
+	  - Loi - art. 100 () JORF 31 décembre 2003
 
 
 ###### Article L512-95
