@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-08-21
 
 # Partie législative
 
@@ -40510,6 +40510,30 @@ Nouvelle-Calédonie, la Polynésie française, le territoire des îles Wallis-et
 	  - Code monétaire et financier - art. L712-3 (V)
 
 
+###### Article L712-4-1
+
+L'Institut d'émission d'outre-mer exerce en Nouvelle-Calédonie et dans les îles Wallis et Futuna les missions imparties à la
+Banque de France en métropole qui sont relatives au traitement du surendettement des particuliers. Une convention signée
+entre l'Etat et l'institut définit les conditions d'exercice de cette mission ainsi que les conditions de sa rémunération.
+
+L'institut d'émission est délié du secret professionnel pour l'exercice de ces missions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-824 du 19 août 2004 - art. 2 () JORF 21 août 2004
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L334-7 (VT)
+	  - Code de la consommation - art. L771-7 (VD)
+
+
 ##### Section 3 : Les instruments de la monnaie scripturale
 
 ###### Article L712-5
@@ -41290,38 +41314,38 @@ conditions fixées par les articles L. 228-36 et L. 228-37 du code de commerce.
 Le chapitre IV du titre Ier du livre II est applicable à Mayotte, à l'exception du 4 du II de l'article L. 214-34, des
 articles L. 214-39 à L. 214-41 et sous réserve des adaptations suivantes :
 
-I. - A l'article L. 214-18, les mots : les dispositions de l'ordonnance n° 45-2710 du 2 novembre 1945 relative aux sociétés
-d'investissement ainsi que sont supprimés ;
+I. - A l'article L. 214-1, les mots : ", les sociétés de gestion des sociétés d'épargne forestière" sont supprimés.
 
-II. - A l'article L. 214-25, les mots : et des sociétés d'investissement sont supprimés ;
+II. - supprimé.
 
-III. - A l'article L. 214-42, la référence au chapitre II du titre IV du livre III est supprimée.
+III. - supprimé.
+
+IV. - A l'article L. 214-42, la référence au chapitre II du titre IV du livre III est supprimée.
 
 Les articles L. 231-3 à L. 231-21 sont également applicables à Mayotte.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 45-2710 1945-11-02
-	  - Code monétaire et financier - art. L214-18 (V)
-	  - Code monétaire et financier - art. L214-25 (M)
-	  - Code monétaire et financier - art. L214-34 (M)
-	  - Code monétaire et financier - art. L214-42 (M)
-	  - Code monétaire et financier L214-34, L214-39 à L214-41, L214-18, L214-25, L214-42, L231-3 à L231-21
 
 	**Anciens textes**:
 
 	  - Loi n°70-1300 du 31 décembre 1970 - art. 38 (Ab)
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 53 (Ab)
 
-	**Créé par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000 en vigueur le 1er janvier 2001 rectificatif JORF 17 mars 2001
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 11 (V) JORF 21 août 2004
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (V) JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-1 (M)
+	  - Code monétaire et financier - art. L214-34 (M)
+	  - Code monétaire et financier - art. L214-42 (M)
+	  - Code monétaire et financier L214-34, L214-39 à L214-41, L214-1, L214-42, L231-3 à L231-21
 
 
 ##### Section 2 : Les produits d'épargne
@@ -41356,7 +41380,7 @@ Les articles L. 223-1 à L. 223-4 ainsi que les articles L. 232-1 et L. 232-2 so
 
 ###### Article L733-1
 
-Les articles L. 311-1 à L. 311-3 sont applicables à Mayotte.
+Les articles L. 311-1 à L. 311-4 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -41368,9 +41392,13 @@ Les articles L. 311-1 à L. 311-3 sont applicables à Mayotte.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V) JORF 21 août 2004
+
 	**Cite**:
 
-	  - Code monétaire et financier L311-1 à L311-3
+	  - Code monétaire et financier L311-1 à L311-4
 
 
 ##### Sous-section 2 : Comptes et dépôts
@@ -41562,8 +41590,13 @@ est supprimée.
 
 ###### Article L733-9
 
-Les articles L. 330-1 et L. 330-2 sont applicables à Mayotte. Au I de l'article L. 330-1 les mots : " internationale " et "
-établissement non résident ayant un statut comparable " sont supprimés.
+Les articles L. 330-1 et L. 330-2 sont applicables à Mayotte sous réserve, au I de l'article L. 330-1, de supprimer au
+premier alinéa les mots : "ou internationale" et : "ou d'établissement non résident ayant un statut comparable", la seconde
+phrase du deuxième alinéa ainsi que le troisième alinéa.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -41574,6 +41607,14 @@ Les articles L. 330-1 et L. 330-2 sont applicables à Mayotte. Au I de l'article
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V) JORF 21 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
 
 	**Cite**:
 
@@ -41587,7 +41628,21 @@ Les articles L. 330-1 et L. 330-2 sont applicables à Mayotte. Au I de l'article
 
 ###### Article L733-10
 
-Le chapitre Ier du titre IV du livre III ainsi que les articles L. 353-1 et L. 353-2 sont applicables à Mayotte.
+I. - Les articles L. 341-1 à L. 341-17 sont applicables à Mayotte sous les réserves suivantes :
+
+a) Au 2° de l'article L. 341-2, les mots : "visés à la section 3 du chapitre I du titre V du livre IV du code de l'urbanisme"
+sont supprimés ;
+
+b) Au 1° de l'article L. 341-3, les mots : "les sociétés de capital-risque mentionnées à l'article 1er-1 de la loi n° 85-695
+du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier, en vue de la souscription des titres
+qu'elles émettent ainsi que les établissements et entreprises équivalents agréés dans un autre Etat membre de la Communauté
+européenne et habilités à intervenir sur le territoire français" sont supprimés ; le 2° de cet article est supprimé ;
+
+c) Au 4° de l'article L. 341-10, les mots : "des titres émis par les sociétés de capital-risque mentionnées à l'article 1er-1
+de la loi n° 85-695 du 11 juillet 1985 précitée et des produits proposés dans le cadre d'un dispositif relevant du titre IV
+du livre IV du code du travail" sont supprimés.
+
+II. - Les articles L. 353-1 à L. 353-4 sont également applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -41599,10 +41654,20 @@ Le chapitre Ier du titre IV du livre III ainsi que les articles L. 353-1 et L. 3
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 10 (V) JORF 21 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L353-1 (M)
-	  - Code monétaire et financier - art. L353-2 (M)
+	  - Code monétaire et financier - art. L341-10
+	  - Code monétaire et financier - art. L341-2
+	  - Code monétaire et financier - art. L341-3
+	  - Code monétaire et financier L341-1 à L341-17, L341-2, L341-3, L341-10, L353-1 à L353-4
 
 
 ##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme
@@ -41945,7 +42010,9 @@ Les articles L. 465-4 et L. 466-1 sont applicables à Mayotte.
 Le chapitre Ier du titre Ier du livre V est applicable à Mayotte, à l'exception des articles L. 511-12, L. 511-21 à L. 511-28
 et L. 511-34.
 
-Les articles L. 571-1 à L. 571-9 y sont également applicables.
+Les articles L. 571-1 à L. 571-9 y sont également applicables. Au dernier alinéa de l'article L. 511-12-1, les mots : "ou
+celle rendue par la Commission européenne en application du règlement (CEE) n° 4064/89 du Conseil du 21 décembre 1989 relatif
+au contrôle des opérations de concentration entre entreprises" sont supprimés.
 
 **Liens relatifs à cet article**
 
@@ -41957,11 +42024,24 @@ Les articles L. 571-1 à L. 571-9 y sont également applicables.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 104 () JORF 7 mai 2005
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L511-12 (M)
+	  - Code monétaire et financier - art. L511-12-1 (M)
 	  - Code monétaire et financier - art. L511-34 (M)
-	  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9
+	  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9, L511-12-1
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L735-1 (VT)
 
 
 ##### Sous-section 1 : Les sociétés financières
@@ -42142,9 +42222,12 @@ Les articles L. 572-1 à L. 572-4 s'y appliquent également.
 Le chapitre Ier du titre 3 du livre V est applicable à Mayotte à l'exception de l'article L. 531-3 et sous réserve des
 adaptations suivantes :
 
-- à l'article L. 531-2, les mots " mais sans pouvoir prétendre au bénéfice des dispositions des articles L. 422-1, L. 532-16
-à L. 532-27 et des deuxième et troisième alinéas de l'article L. 612-2 " sont supprimés et les mots " chapitres Ier à III du
-titre IV du livre III " sont remplacés par les mots " chapitres Ier et III du titre IV du livre III ".
+- à l'article L. 531-2, les mots "mais sans pouvoir prétendre au bénéfice des dispositions des articles L. 422-1, L. 532-16 à
+L. 532-27 et des deuxième et troisième alinéas de l'article L. 612-2" sont supprimés.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -42156,13 +42239,18 @@ titre IV du livre III " sont remplacés par les mots " chapitres Ier et III du t
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 10 (V) JORF 21 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L422-1 (M)
 	  - Code monétaire et financier - art. L531-2 (M)
-	  - Code monétaire et financier - art. L531-3 (Ab)
-	  - Code monétaire et financier - art. L612-2 (M)
-	  - Code monétaire et financier L531-3, L531-2, L422-1, L532-16 à L532-27, L612-2
+	  - Code monétaire et financier - art. L531-3
 
 
 ##### Sous-section 2 : Les conditions d'accès à la profession
@@ -42224,11 +42312,82 @@ Les articles L. 563-1 à L. 563-6 et L. 573-1 à L. 573-7 s'y appliquent égalem
 	  - Code monétaire et financier L563-1 à L563-6, L573-1 à L573-7
 
 
-##### Section 4 : Les intermédiaires en biens divers
+##### Section 4 : Autres prestataires de services
+
+###### Article L735-11-1
+
+Les articles L. 541-1 à L. 541-7 ainsi que les articles L. 573-9 à L. 573-11 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier L541-1 à L541-7, L573-9 à L573-11
+
+
+###### Article L735-11-2
+
+L'article L. 542-1 est applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L542-1
+
+
+###### Article L735-11-3
+
+Les articles L. 544-1 à L. 544-4 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier L544-1 à L544-4
+
+
+##### Section 5 : Les intermédiaires en biens divers
 
 ###### Article L735-12
 
-Le titre V du livre V est applicable à Mayotte. 
+Le titre V du livre V est applicable à Mayotte.
 
 L'article L. 573-8 s'y applique également.
 
@@ -42242,12 +42401,20 @@ L'article L. 573-8 s'y applique également.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L573-8 (V)
+	  - Code monétaire et financier - art. L573-8
 
 
-##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux
+##### Section 6 : Obligations relatives à la lutte contre le blanchiment de capitaux
 
 ###### Article L735-13
 
@@ -42267,6 +42434,10 @@ applicable à Mayotte ayant le même objet.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
 	**Cite**:
 
 	  - Code des douanes - art. 415 (T)
@@ -42279,24 +42450,18 @@ applicable à Mayotte ayant le même objet.
 
 ###### Article L736-5
 
-Le chapitre Ier du titre II du livre VI, à l'exception du deuxième alinéa de l'article L. 621-21, ainsi que les articles L.
-642-1 à L. 642-3, sont applicables à Mayotte.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+Le titre II du livre VI est applicable à Mayotte, à l'exception du deuxième alinéa de l'article L. 621-21. Les articles L.
+642-1 à L. 642-3 y sont également applicables.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (V) JORF 21 août 2004
 
 	**Cite**:
 
@@ -42323,11 +42488,11 @@ Les articles L. 631-1, L. 631-2 et L. 632-1 sont applicables à Mayotte.
 
 ##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement
 
-##### Sous-section 1 : Le Comité de la réglementation bancaire et financière
+##### Sous-section 1 : Réglementation
 
 ###### Article L736-1
 
-Le chapitre Ier du titre ier du livre VI est applicable à Mayotte.
+Le chapitre Ier du titre Ier du livre VI est applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -42340,13 +42505,17 @@ Le chapitre Ier du titre ier du livre VI est applicable à Mayotte.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V) JORF 21 août 2004
+
+
+##### Sous-section 2 : Comité consultatif du secteur financier et comité consultatif de la législation et de la réglementation financières
 
 ###### Article L736-2
 
 L'article L. 612-1, le premier alinéa de l'article L. 612-2, les articles L. 612-3 à L. 612-6 à l'exclusion de la dernière
-phrase de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables à Mayotte.
+phrase du troisième alinéa de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables à Mayotte.
 
 L'article L. 641-1 s'y applique également.
 
@@ -42360,6 +42529,11 @@ L'article L. 641-1 s'y applique également.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V) JORF 21 août 2004
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
 	**Cite**:
 
@@ -42401,7 +42575,9 @@ L'article L. 641-2 s'y applique également.
 
 ###### Article L736-4
 
-La section 1 du chapitre IV du titre Ier du livre VI est applicable à Mayotte.
+Les articles L. 614-1 à L. 614-3 sont applicables à Mayotte sous réserve de supprimer, à l'article L. 614-2, les mots : "et
+de toute proposition de règlement ou de directive communautaires avant son examen par le Conseil des Communautés
+européennes".
 
 **Liens relatifs à cet article**
 
@@ -42414,61 +42590,14 @@ La section 1 du chapitre IV du titre Ier du livre VI est applicable à Mayotte.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Section 2 : Les autorités des marchés financiers
-
-##### Sous-section 2 : Le Conseil des marchés financiers
-
-###### Article L736-6
-
-Le chapitre II du titre II du livre VI, à l'exception de l'article L. 622-13, ainsi que les articles L. 642-4 et L. 642-5,
-sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 53 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (V) JORF 21 août 2004
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V) JORF 21 août 2004
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L622-13 (Ab)
-	  - Code monétaire et financier - art. L642-4 (Ab)
-	  - Code monétaire et financier - art. L642-5 (Ab)
-
-
-##### Sous-section 3 : Le conseil de discipline de la gestion financière
-
-###### Article L736-7
-
-Le chapitre III du titre II du livre VI ainsi que les articles L. 642-6 et L. 642-7 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (V) JORF 21 août 2004
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L642-6 (Ab)
-	  - Code monétaire et financier - art. L642-7 (Ab)
+	  - Code monétaire et financier - art. L614-2 (M)
+	  - Code monétaire et financier L614-1 à L614-3, L614-2
 
 
 ### Titre IV : Dispositions applicables en Nouvelle-Calédonie
@@ -42809,25 +42938,17 @@ L'article L. 213-7 est applicable en Nouvelle-Calédonie.
 Le chapitre IV du titre Ier du livre II est applicable en Nouvelle-Calédonie, à l'exception du 4 du II de l'article L.
 214-34, des articles L. 214-39 à L. 214-41 et sous réserve des adaptations suivantes :
 
-I. - A l'article L. 214-18, les mots : " les dispositions de l'ordonnance n° 45-2720 du 2 novembre 1945 relative aux sociétés
-d'investissement ainsi que " sont supprimés ;
+I. - A l'article L. 214-1, les mots : ", les sociétés de gestion des sociétés d'épargne forestière" sont supprimés.
 
-II. - A l'article L. 214-25, les mots : " et des sociétés d'investissement " sont supprimés ;
+II. - supprimé.
 
-III. - A l'article L. 214-42, la référence au chapitre II du titre IV du livre III est supprimée.
+III. - supprimé.
+
+IV. - A l'article L. 214-42, la référence au chapitre II du titre IV du livre III est supprimée.
 
 Les articles L. 231-3 à L. 231-21 sont également applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 45-2720 1945-11-02
-	  - Code monétaire et financier - art. L214-18 (V)
-	  - Code monétaire et financier - art. L214-25 (M)
-	  - Code monétaire et financier - art. L214-34 (M)
-	  - Code monétaire et financier - art. L214-42 (M)
-	  - Code monétaire et financier L214-34, L214-39 à L214-41, L214-18, L214-25, L214-42, L231-3 à L231-21
 
 	**Anciens textes**:
 
@@ -42838,9 +42959,21 @@ Les articles L. 231-3 à L. 231-21 sont également applicables en Nouvelle-Calé
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 11 (V) JORF 21 août 2004
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (V) JORF 21 août 2004
+
 	**Cité par**:
 
 	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-1 (M)
+	  - Code monétaire et financier - art. L214-34 (M)
+	  - Code monétaire et financier - art. L214-42 (M)
+	  - Code monétaire et financier L214-34, L214-39 à L214-41, L214-1, L214-42, L231-3 à L231-21
 
 
 ###### Article L742-7
@@ -42873,7 +43006,7 @@ Les articles L. 223-1 à L. 223-4 ainsi que les articles L. 232-1 et L. 232-2 so
 
 ###### Article L743-1
 
-Les articles L. 311-1 à L. 311-3 sont applicables en Nouvelle-Calédonie.
+Les articles L. 311-1 à L. 311-4 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -42885,9 +43018,13 @@ Les articles L. 311-1 à L. 311-3 sont applicables en Nouvelle-Calédonie.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V) JORF 21 août 2004
+
 	**Cite**:
 
-	  - Code monétaire et financier L311-1 à L311-3
+	  - Code monétaire et financier L311-1 à L311-4
 
 
 ##### Sous-section 2 : Comptes et dépôts
@@ -43069,9 +43206,13 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 ###### Article L743-9
 
-Les articles L. 330-1 et L. 330-2 sont applicables en Nouvelle-Calédonie. Au I de l'article L. 330-1, les mots :
+Les articles L. 330-1 et L. 330-2 sont applicables en Nouvelle-Calédonie sous réserve, au I de l'article L. 330-1, de
+supprimer au premier alinéa les mots : "ou internationale" et : "ou d'établissement non résident ayant un statut comparable",
+la seconde phrase du deuxième alinéa ainsi que le troisième alinéa.
 
-" internationale " et " établissement non résident ayant un statut comparable " sont supprimés.
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -43082,6 +43223,10 @@ Les articles L. 330-1 et L. 330-2 sont applicables en Nouvelle-Calédonie. Au I 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V) JORF 21 août 2004
 
 	**Cite**:
 
@@ -43095,7 +43240,23 @@ Les articles L. 330-1 et L. 330-2 sont applicables en Nouvelle-Calédonie. Au I 
 
 ###### Article L743-10
 
-Le chapitre Ier du titre IV du livre III ainsi que les articles L. 353-1 et L. 353-2 sont applicables en Nouvelle-Calédonie.
+I. - Les articles L. 341-1 à L. 341-17 sont applicables en Nouvelle-Calédonie sous les réserves suivantes :
+
+a) Au 2° de l'article L. 341-2, les mots : "visés à la section 3 du chapitre Ier du titre V du livre IV du code de
+l'urbanisme" sont supprimés ;
+
+b) Le 1° de l'article L. 341-3 est remplacé par les dispositions suivantes :
+
+1° Les établissements de crédit définis à l'article L. 511-1, les organismes mentionnés à l'article L. 518-1 et les
+entreprises d'investissement définies à l'article L. 531-4 ; le 2° de cet article est supprimé ;
+
+c) Au premier alinéa de l'article L. 341-6, les mots : "et du Comité des entreprises d'assurances" sont supprimés ;
+
+d) A l'article L. 341-7, les mots : "et le Comité des entreprises d'assurances" sont supprimés ;
+
+e) A l'article L. 341-17, les mots : "et à l'article L. 310-18 du code des assurances" sont supprimés.
+
+II. - Les articles L. 353-1 à L. 353-4 sont également applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -43107,10 +43268,20 @@ Le chapitre Ier du titre IV du livre III ainsi que les articles L. 353-1 et L. 3
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 10 (V) JORF 21 août 2004
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L353-1 (M)
-	  - Code monétaire et financier - art. L353-2 (M)
+	  - Code monétaire et financier - art. L341-2 (M)
+	  - Code monétaire et financier - art. L341-3 (M)
+	  - Code monétaire et financier - art. L341-6 (M)
+	  - Code monétaire et financier - art. L341-7 (M)
+	  - Code monétaire et financier - art. L511-1 (V)
+	  - Code monétaire et financier - art. L518-1 (M)
+	  - Code monétaire et financier - art. L531-4 (M)
+	  - Code monétaire et financier L341-1 à L341-17, L341-2, L341-3, L511-1, L518-1, L531-4, L341-6, L341-7, L353-1 à L353-4
 
 
 ##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme
@@ -43969,8 +44140,11 @@ Le chapitre Ier du titre III du livre V est applicable en Nouvelle-Calédonie à
 réserve des adaptations suivantes :
 
 - à l'article L. 531-2 les mots : " mais sans pouvoir prétendre au bénéfice des dispositions des articles L. 422-1, L. 532-16
-à L. 532-27 et des deuxième et troisième alinéas de l'article L. 612-2 " sont supprimés et les mots " chapitres Ier à III du
-titre IV du livre III " sont remplacés par les mots " chapitres Ier et III du titre IV du livre III ".
+à L. 532-27 et des deuxième et troisième alinéas de l'article L. 612-2 " sont supprimés.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -43981,6 +44155,10 @@ titre IV du livre III " sont remplacés par les mots " chapitres Ier et III du t
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 10 (V) JORF 21 août 2004
 
 	**Cite**:
 
@@ -44048,11 +44226,70 @@ Les articles L. 563-1 à L. 563-6 et L. 573-1 à L. 573-7 s'y appliquent égalem
 	  - Code monétaire et financier L563-1 à L563-6, L573-1 à L573-7
 
 
-##### Section 4 : Intermédiaires en biens divers
+##### Section 4 : Autres prestataires de services
+
+###### Article L745-11-1
+
+Les articles L. 541-1 à L. 541-7 ainsi que les articles L. 573-9 à L. 573-11 sont applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier L541-1 à L541-7, L573-9 à L573-11
+
+
+###### Article L745-11-2
+
+L'article L. 542-1 est applicable en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L542-1 (V)
+
+
+###### Article L745-11-3
+
+Les articles L. 544-1 à L. 544-4 sont applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier L544-1 à L544-4
+
+
+##### Section 5 : Intermédiaires en biens divers
 
 ###### Article L745-12
 
-Le titre V du livre V est applicable en Nouvelle-Calédonie.
+Le titre V du livre V est applicable en Nouvelle-Calédonie. 
 
 L'article L. 573-8 s'y applique également.
 
@@ -44066,12 +44303,16 @@ L'article L. 573-8 s'y applique également.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L573-8 (M)
+	  - Code monétaire et financier - art. L573-8 (V)
 
 
-##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux
+##### Section 6 : Obligations relatives à la lutte contre le blanchiment de capitaux
 
 ###### Article L745-13
 
@@ -44095,6 +44336,10 @@ applicable en Nouvelle-Calédonie ayant le même objet.
 
 	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 29-1 (VT)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
 	**Cite**:
 
 	  - Code des douanes - art. 415 (T)
@@ -44107,7 +44352,7 @@ applicable en Nouvelle-Calédonie ayant le même objet.
 
 ##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement
 
-##### Sous-section 1 : Le Comité de la réglementation bancaire et financière
+##### Sous-section 1 : Réglementation
 
 ###### Article L746-1
 
@@ -44124,13 +44369,18 @@ Le chapitre Ier du titre Ier du livre VI est applicable en Nouvelle-Calédonie.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V) JORF 21 août 2004
+
+
+##### Sous-section 2 : Comité consultatif du secteur financier et comité consultatif de la législation et de la réglementation financières
 
 ###### Article L746-2
 
 Les articles L. 612-1, le premier alinéa de l'article L. 612-2, les articles L. 612-3 à L. 612-6, à l'exclusion de la
-dernière phrase de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables en Nouvelle-Calédonie.
+dernière phrase du troisième alinéa de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables en Nouvelle-
+Calédonie.
 
 L'article L. 641-1 s'y applique également.
 
@@ -44144,6 +44394,11 @@ L'article L. 641-1 s'y applique également.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V) JORF 21 août 2004
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
 	**Cite**:
 
@@ -44184,7 +44439,13 @@ L'article L. 641-2 s'y applique également.
 
 ###### Article L746-4
 
-La section 1 du chapitre IV du titre Ier du livre VI est applicable en Nouvelle-Calédonie.
+Les articles L. 614-1 à L. 614-3 sont applicables en Nouvelle-Calédonie sous les réserves suivantes :
+
+- au premier alinéa de l'article L. 614-1, les mots : "et les entreprises d'assurance" sont supprimés ;
+
+- au premier alinéa de l'article L. 614-2, les mots : "et de toute proposition de règlement ou de directive communautaires
+avant son examen par le Conseil des Communautés européennes" ainsi que les mots : "au secteur de l'assurance," sont
+supprimés.
 
 **Liens relatifs à cet article**
 
@@ -44197,25 +44458,25 @@ La section 1 du chapitre IV du titre Ier du livre VI est applicable en Nouvelle-
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Section 2 : Les autorités des marchés financiers
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V) JORF 21 août 2004
 
-##### Sous-section 1 : La Commission des opérations de bourse
+	**Cite**:
+
+	  - Code monétaire et financier - art. L614-1 (M)
+	  - Code monétaire et financier - art. L614-2 (M)
+	  - Code monétaire et financier L614-1 à L614-3, L614-1, L614-2
+
+
+##### Section 2 : L'Autorité des marchés financiers
 
 ###### Article L746-5
 
-Le chapitre Ier du titre II du livre VI, à l'exception du deuxième alinéa de l'article L. 621-21, ainsi que les articles L.
-642-1 à L. 642-3 sont applicables en Nouvelle-Calédonie.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+Le titre II du livre VI est applicable en Nouvelle-Calédonie sous réserve de supprimer, au premier alinéa de l'article L.
+621-15, les mots : ", ou par le président de la commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance" ainsi que le deuxième alinéa de l'article L. 621-21. Les articles L. 642-1 à L. 642-3 y sont également
+applicables.
 
 **Liens relatifs à cet article**
 
@@ -44228,64 +44489,15 @@ financiers sont remplacées par la référence au règlement général de l'Auto
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (V) JORF 21 août 2004
+
 	**Cite**:
 
+	  - Code monétaire et financier - art. L621-15 (M)
 	  - Code monétaire et financier - art. L621-21 (M)
-	  - Code monétaire et financier L621-21, L642-1 à L642-3
-
-
-##### Sous-section 2 : Le Conseil des marchés financiers
-
-###### Article L746-6
-
-Le chapitre II du titre II du livre VI, à l'exception de l'article L. 622-13, ainsi que les articles L. 642-4 et L. 642-5
-sont applicables en Nouvelle-Calédonie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 53 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (V) JORF 21 août 2004
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L622-13 (Ab)
-	  - Code monétaire et financier - art. L642-4 (Ab)
-	  - Code monétaire et financier - art. L642-5 (Ab)
-
-
-##### Sous-section 3 : Le conseil de discipline de la gestion financière
-
-###### Article L746-7
-
-Le chapitre III du titre II du livre VI ainsi que les articles L. 642-6 et L. 642-7 sont applicables en Nouvelle-Calédonie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (V) JORF 21 août 2004
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L642-6 (Ab)
-	  - Code monétaire et financier - art. L642-7 (Ab)
+	  - Code monétaire et financier L621-15, L621-21, L642-1 à L642-3
 
 
 ##### Section 3 : Echanges d'informations
@@ -44642,25 +44854,17 @@ L'article L. 213-7 est applicable en Polynésie française.
 Le chapitre IV du titre Ier du livre II est applicable en Polynésie française, à l'exception du 4 du II de l'article L.
 214-34, des articles L. 214-39 à L. 214-41 et sous réserve des adaptations suivantes :
 
-I. - A l'article L. 214-18, les mots : " les dispositions de l'ordonnance n° 45-2710 du 2 novembre 1945 relative aux sociétés
-d'investissements ainsi que " sont supprimés ;
+I. - A l'article L. 214-1, les mots : ", les sociétés de gestion des sociétés d'épargne forestière" sont supprimés.
 
-II. - A l'article L. 214-25, les mots : " et des sociétés d'investissement " sont supprimés ;
+II. - supprimé.
 
-III. - A l'article L. 214-42, la référence au chapitre II du titre IV du livre III est supprimée.
+III. - supprimé.
+
+IV. - A l'article L. 214-42, la référence au chapitre II du titre IV du livre III est supprimée.
 
 Les articles L. 231-3 à L. 231-21 sont également applicables en Polynésie française.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 45-2710 1945-11-02
-	  - Code monétaire et financier - art. L214-18 (V)
-	  - Code monétaire et financier - art. L214-25 (M)
-	  - Code monétaire et financier - art. L214-34 (M)
-	  - Code monétaire et financier - art. L214-42 (M)
-	  - Code monétaire et financier L214-34, L214-39 à L214-41, L214-18, L214-25, L214-42, L231-3 à L231-21
 
 	**Anciens textes**:
 
@@ -44670,6 +44874,18 @@ Les articles L. 231-3 à L. 231-21 sont également applicables en Polynésie fra
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 11 (V) JORF 21 août 2004
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (V) JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-1 (M)
+	  - Code monétaire et financier - art. L214-34 (M)
+	  - Code monétaire et financier - art. L214-42 (M)
+	  - Code monétaire et financier L214-34, L214-39 à L214-41, L214-1, L214-42, L231-3 à L231-21
 
 
 ##### Section 2 : Les produits d'épargne
@@ -44704,7 +44920,7 @@ Les articles L. 223-1 à L. 223-4 ainsi que les articles L. 232-1 et L. 232-2 so
 
 ###### Article L753-1
 
-Les articles L. 311-1 à L. 311-3 sont applicables en Polynésie française.
+Les articles L. 311-1 à L. 311-4 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -44716,9 +44932,13 @@ Les articles L. 311-1 à L. 311-3 sont applicables en Polynésie française.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V) JORF 21 août 2004
+
 	**Cite**:
 
-	  - Code monétaire et financier L311-1 à L311-3
+	  - Code monétaire et financier L311-1 à L311-4
 
 
 ##### Sous-section 2 : Comptes et dépôts
@@ -44902,8 +45122,9 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 ###### Article L753-9
 
-Les articles L. 330-1 et L. 330-2 sont applicables en Polynésie française. Au I de l'article L. 330-1 les mots : "
-internationale " et " établissement de crédit ayant un statut comparable " sont supprimés.
+Les articles L. 330-1 et L. 330-2 sont applicables en Polynésie française sous réserve, au I de l'article L. 330-1, de
+supprimer au premier alinéa les mots : "ou internationale" et "ou d'établissement non résident ayant un statut comparable",
+la seconde phrase du deuxième alinéa ainsi que le troisième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -44914,6 +45135,10 @@ internationale " et " établissement de crédit ayant un statut comparable " son
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V) JORF 21 août 2004
 
 	**Cite**:
 
@@ -44927,7 +45152,23 @@ internationale " et " établissement de crédit ayant un statut comparable " son
 
 ###### Article L753-10
 
-Le chapitre Ier du titre IV du livre III ainsi que les articles L. 353-1 et L. 353-2 sont applicables en Polynésie française.
+I. - Les articles L. 341-1 à L. 341-17 sont applicables en Polynésie française sous les réserves suivantes :
+
+a) Au 2° de l'article L. 341-2, les mots : "visés à la section 3 du chapitre I du titre V du livre IV du code de l'urbanisme"
+sont supprimés ;
+
+b) Le 1° de l'article L. 341-3 est remplacé par les dispositions suivantes :
+
+1° Les établissements de crédit définis à l'article L. 511-1, les organismes mentionnés à l'article L. 518-1 et les
+entreprises d'investissement définies à l'article L. 531-4 ; le 2° de cet article est supprimé ;
+
+c) Au premier alinéa de l'article L. 341-6, les mots : "et du Comité des entreprises d'assurances" sont supprimés ;
+
+d) A l'article L. 341-7, les mots : "et le Comité des entreprises d'assurances" sont supprimés ;
+
+e) A l'article L. 341-17, les mots : "et à l'article L. 310-18 du code des assurances" sont supprimés.
+
+II. - Les articles L. 353-1 à L. 353-4 sont également applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -44939,10 +45180,20 @@ Le chapitre Ier du titre IV du livre III ainsi que les articles L. 353-1 et L. 3
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 10 (V) JORF 21 août 2004
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L353-1 (M)
-	  - Code monétaire et financier - art. L353-2 (M)
+	  - Code monétaire et financier - art. L341-2 (M)
+	  - Code monétaire et financier - art. L341-3 (M)
+	  - Code monétaire et financier - art. L341-6 (M)
+	  - Code monétaire et financier - art. L341-7 (M)
+	  - Code monétaire et financier - art. L511-1 (V)
+	  - Code monétaire et financier - art. L518-1 (M)
+	  - Code monétaire et financier - art. L531-4 (M)
+	  - Code monétaire et financier L341-1 à L341-17, L341-2, L341-3, L511-1, L518-1, L531-4, L341-6, L341-7, L353-1 à L353-4
 
 
 ##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme
@@ -45794,8 +46045,11 @@ Le chapitre Ier du titre III du livre V est applicable en Polynésie française 
 réserve des adaptations suivantes :
 
 - à l'article L. 531-2 les mots : " mais sans pouvoir prétendre au bénéfice des dispositions des articles L. 422-1, L. 532-16
-à L. 532-27 et des deuxième et troisième alinéas de l'article L. 612-2 " sont supprimés et les mots : " chapitres Ier à 3 du
-titre IV du livre III " sont remplacés par les mots : " chapitres Ier et 3 du titre IV du livre III ".
+à L. 532-27 et des deuxième et troisième alinéas de l'article L. 612-2 " sont supprimés.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -45806,6 +46060,10 @@ titre IV du livre III " sont remplacés par les mots : " chapitres Ier et 3 du t
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 10 (V) JORF 21 août 2004
 
 	**Cite**:
 
@@ -45873,11 +46131,70 @@ Les articles L. 563-1 à L. 563-6 et L. 573-1 à L. 573-7 s'y appliquent égalem
 	  - Code monétaire et financier L563-1 à L563-6, L573-1 à L573-7
 
 
-##### Section 4 : Les intermédiaires en biens divers
+##### Section 4 : Autres prestataires de services
+
+###### Article L755-11-1
+
+Les articles L. 541-1 à L. 541-7 ainsi que les articles L. 573-9 à L. 573-11 sont applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier L541-1 à L541-7, L573-9 à L573-11
+
+
+###### Article L755-11-2
+
+L'article L. 542-1 est applicable en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L542-1 (V)
+
+
+###### Article L755-11-3
+
+Les articles L. 544-1 à L. 544-4 sont applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier L544-1 à L544-4
+
+
+##### Section 5 : Les intermédiaires en biens divers
 
 ###### Article L755-12
 
-Le titre V du livre V est applicable en Polynésie française.
+Le titre V du livre V est applicable en Polynésie française. 
 
 L'article L. 573-8 s'y applique également.
 
@@ -45891,12 +46208,16 @@ L'article L. 573-8 s'y applique également.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L573-8 (M)
+	  - Code monétaire et financier - art. L573-8 (V)
 
 
-##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux
+##### Section 6 : Obligations relatives à la lutte contre le blanchiment de capitaux
 
 ###### Article L755-13
 
@@ -45920,6 +46241,10 @@ applicable en Polynésie française ayant le même objet.
 
 	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 29-1 (VT)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
 	**Cite**:
 
 	  - Code des douanes - art. 415 (T)
@@ -45932,7 +46257,7 @@ applicable en Polynésie française ayant le même objet.
 
 ##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement
 
-##### Sous-section 1 : Le Comité de la réglementation bancaire et financière
+##### Sous-section 1 : Réglementation
 
 ###### Article L756-1
 
@@ -45949,13 +46274,18 @@ Le chapitre Ier du titre Ier du livre VI est applicable en Polynésie française
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V) JORF 21 août 2004
+
+
+##### Sous-section 2 : Comité consultatif du secteur financier et comité consultatif de la législation et de la réglementation financières
 
 ###### Article L756-2
 
 Les articles L. 612-1, le premier alinéa de l'article L. 612-2, les articles L. 612-3 à L. 612-6, à l'exclusion de la
-dernière phrase de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables en Polynésie française.
+dernière phrase du troisième alinéa de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables en Polynésie
+française.
 
 L'article L. 641-1 s'y applique également.
 
@@ -45969,6 +46299,11 @@ L'article L. 641-1 s'y applique également.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V) JORF 21 août 2004
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
 	**Cite**:
 
@@ -46010,7 +46345,13 @@ L'article L. 641-2 s'y applique également.
 
 ###### Article L756-4
 
-La section 1 du chapitre IV du titre Ier du livre VI est applicable en Polynésie française.
+Les articles L. 614-1 à L. 614-3 sont applicables en Polynésie française sous les réserves suivantes :
+
+- au premier alinéa de l'article L. 614-1, les mots : "et les entreprises d'assurance" sont supprimés ;
+
+- au premier alinéa de l'article L. 614-2, les mots : "et de toute proposition de règlement ou de directive communautaires
+avant son examen par le Conseil des Communautés européennes" ainsi que les mots : "au secteur de l'assurance," sont
+supprimés.
 
 **Liens relatifs à cet article**
 
@@ -46023,25 +46364,25 @@ La section 1 du chapitre IV du titre Ier du livre VI est applicable en Polynési
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Section 2 : Les autorités des marchés financiers
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V) JORF 21 août 2004
 
-##### Sous-section 1 : La Commission des opérations de bourse
+	**Cite**:
+
+	  - Code monétaire et financier - art. L614-1 (M)
+	  - Code monétaire et financier - art. L614-2 (M)
+	  - Code monétaire et financier L614-1 à L614-3, L614-1, L614-2
+
+
+##### Section 2 : L'Autorité des marchés financiers
 
 ###### Article L756-5
 
-Le chapitre Ier du titre II du livre VI, à l'exception du deuxième alinéa de l'article L. 621-21, ainsi que les articles L.
-642-1 à L. 642-3 sont applicables en Polynésie française.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+Le titre II du livre VI est applicable en Polynésie française sous réserve de supprimer, au premier alinéa de l'article L.
+621-15, les mots : ", ou par le président de la commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance" ainsi que le deuxième alinéa de l'article L. 621-21. Les articles L. 642-1 à L. 642-3 y sont également
+applicables.
 
 **Liens relatifs à cet article**
 
@@ -46054,63 +46395,15 @@ financiers sont remplacées par la référence au règlement général de l'Auto
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (V) JORF 21 août 2004
+
 	**Cite**:
 
+	  - Code monétaire et financier - art. L621-15 (M)
 	  - Code monétaire et financier - art. L621-21 (M)
-	  - Code monétaire et financier L621-21, L642-1 à L642-3
-
-
-##### Sous-section 2 : Le Conseil des marchés financiers
-
-###### Article L756-6
-
-Le chapitre II du titre II du livre VI, à l'exception de l'article L. 622-13, ainsi que les articles L. 642-4 et L. 642-5
-sont applicables en Polynésie française.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 53 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (V) JORF 21 août 2004
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L622-13 (Ab)
-	  - Code monétaire et financier - art. L642-4 (Ab)
-	  - Code monétaire et financier - art. L642-5 (Ab)
-
-
-##### Sous-section 3 : Le conseil de discipline de la gestion financière
-
-###### Article L756-7
-
-Le chapitre III du titre II du livre VI ainsi que l'article L. 642-6 et L. 642-7 sont applicables en Polynésie française.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (V) JORF 21 août 2004
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L642-6 (Ab)
+	  - Code monétaire et financier L621-15, L621-21, L642-1 à L642-3
 
 
 ##### Section 3 : Echanges d'informations
@@ -46467,26 +46760,17 @@ L'article L. 213-7 est applicable dans le territoire des îles Wallis-et-Futuna.
 Le chapitre IV du titre Ier du livre II est applicable dans le territoire des îles Wallis-et-Futuna, à l'exception du 4 du II
 de l'article L. 214-34, des articles L. 214-39 à L. 214-41 et sous réserve des adaptations suivantes :
 
-I. - A l'article L. 214-18, les mots " les dispositions de l'ordonnance n° 45-2710 du 2 novembre 1945 relative aux sociétés
-d'investissement ainsi que " sont supprimés ;
+I. - A l'article L. 214-1, les mots : ", les sociétés de gestion des sociétés d'épargne forestière" sont supprimés.
 
-II. - A l'article L. 214-25, les mots " et des sociétés d'investissement régies par l'ordonnance n° 45-2710 du 2 novembre
-1945 " sont supprimés ;
+II. - supprimé.
 
-III. - A l'article L. 214-42, la référence au chapitre II du titre IV du livre III est supprimée.
+III. - supprimé.
+
+IV. - A l'article L. 214-42, la référence au chapitre II du titre IV du livre III est supprimée.
 
 Les articles L. 231-3 à L. 231-21 s'appliquent également dans le territoire des îles Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 45-2710 1945-11-02
-	  - Code monétaire et financier - art. L214-18 (V)
-	  - Code monétaire et financier - art. L214-25 (M)
-	  - Code monétaire et financier - art. L214-34 (M)
-	  - Code monétaire et financier - art. L214-42 (M)
-	  - Code monétaire et financier L214-34, L214-39 à L214-41, L214-18, L214-25, L214-42, L231-3 à L231-21
 
 	**Anciens textes**:
 
@@ -46496,6 +46780,18 @@ Les articles L. 231-3 à L. 231-21 s'appliquent également dans le territoire de
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 11 (V) JORF 21 août 2004
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (V) JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-1 (M)
+	  - Code monétaire et financier - art. L214-34 (M)
+	  - Code monétaire et financier - art. L214-42 (M)
+	  - Code monétaire et financier L214-34, L214-39 à L214-41, L214-1, L214-42, L231-3 à L231-21
 
 
 ##### Section 2 : Les produits d'épargne
@@ -46531,7 +46827,7 @@ Wallis-et-Futuna.
 
 ###### Article L763-1
 
-Les articles L. 311-1 à L. 311-3 sont applicables dans le territoire des îles Wallis-et-Futuna.
+Les articles L. 311-1 à L. 311-4 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -46543,9 +46839,13 @@ Les articles L. 311-1 à L. 311-3 sont applicables dans le territoire des îles 
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V) JORF 21 août 2004
+
 	**Cite**:
 
-	  - Code monétaire et financier L311-1 à L311-3
+	  - Code monétaire et financier L311-1 à L311-4
 
 
 ##### Sous-section 2 : Comptes et dépôts
@@ -46720,8 +47020,9 @@ A l'article L. 322-2 la référence aux articles L. 312-17 et L. 312-18 est supp
 
 ###### Article L763-9
 
-Les articles L. 330-1 et L. 330-2 sont applicables dans le territoire des îles Wallis-et-Futuna. Au I de l'article L. 330-1,
-les mots : " internationale " et " établissement non résident ayant un statut comparable " sont supprimés.
+Les articles L. 330-1 et L. 330-2 sont applicables dans les îles Wallis et Futuna sous réserve, au I de l'article L. 330-1,
+de supprimer au premier alinéa les mots : "ou internationale" et "ou d'établissement non résident ayant un statut
+comparable", la seconde phrase du deuxième alinéa ainsi que le troisième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -46732,6 +47033,10 @@ les mots : " internationale " et " établissement non résident ayant un statut 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V) JORF 21 août 2004
 
 	**Cite**:
 
@@ -46745,9 +47050,20 @@ les mots : " internationale " et " établissement non résident ayant un statut 
 
 ###### Article L763-10
 
-Le chapitre Ier du titre IV du livre III est applicable dans le territoire des îles Wallis-et-Futuna.
+I. - Les articles L. 341-1 à L. 341-17 sont applicables dans les îles Wallis et Futuna sous les réserves suivantes :
 
-Les articles L. 353-1 et L. 353-2 s'y appliquent également.
+a) Au 2° de l'article L. 341-2, les mots : "visés à la section 3 du chapitre Ier du titre V du livre IV du code de
+l'urbanisme" sont supprimés ;
+
+b) Au 1° de l'article L. 341-3, les mots : "les sociétés de capital-risque mentionnées à l'article 1er-1 de la loi n° 85-695
+du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier, en vue de la souscription des titres
+qu'elles émettent ainsi que les établissements et entreprises équivalents agréés dans un autre Etat membre de la Communauté
+européenne et habilités à intervenir sur le territoire français" sont supprimés ; le 2° de cet article est supprimé ;
+
+c) Au 4° de l'article L. 340-10, les mots : "proposés dans le cadre d'un dispositif relevant du titre IV du livre IV du code
+du travail" sont supprimés.
+
+II. - Les articles L. 353-1 à L. 353-4 sont également applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -46759,10 +47075,15 @@ Les articles L. 353-1 et L. 353-2 s'y appliquent également.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 10 (V) JORF 21 août 2004
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L353-1 (M)
-	  - Code monétaire et financier - art. L353-2 (M)
+	  - Code monétaire et financier - art. L341-2 (M)
+	  - Code monétaire et financier - art. L341-3 (M)
+	  - Code monétaire et financier L341-1 à L341-17, L341-2, L341-3, L340-10, L353-1 à L353-4
 
 
 ##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme
@@ -47065,7 +47386,9 @@ Les articles L. 465-4 et L. 466-1 y sont également applicables.
 Le chapitre Ier du titre Ier du livre V est applicable dans le territoire des îles Wallis-et-Futuna, à l'exception des
 articles L. 511-12, L. 511-21 à L. 511-28 et L. 511-34.
 
-Les articles L. 571-1 à L. 571-9 y sont également applicables.
+Les articles L. 571-1 à L. 571-9 y sont également applicables. Au dernier alinéa de l'article L. 511-12-1, les mots : "ou
+celle rendue par la Commission européenne en application du règlement (CEE) n° 4064/89 du Conseil du 21 décembre 1989 relatif
+au contrôle des opérations de concentration entre entreprises" sont supprimés.
 
 **Liens relatifs à cet article**
 
@@ -47077,11 +47400,24 @@ Les articles L. 571-1 à L. 571-9 y sont également applicables.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 104 () JORF 7 mai 2005
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L511-12 (M)
+	  - Code monétaire et financier - art. L511-12-1 (M)
 	  - Code monétaire et financier - art. L511-34 (M)
-	  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9
+	  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9, L511-12-1
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L765-1-1 (V)
 
 
 ##### Sous-section 1 : Les sociétés financières
@@ -47245,8 +47581,7 @@ Le chapitre Ier du titre 3 du livre V est applicable dans le territoire des île
 L. 531-3.
 
 A l'article L. 531-2 les mots " mais sans pouvoir prétendre au bénéfice des dispositions des articles L. 422-2 L. 532-16 à L.
-532-27 et des deuxième et troisième alinéas de l'article L. 612-2 " sont supprimés et les mots " chapitres Ier à III du titre
-IV du livre III " sont remplacés par les mots " chapitres Ier et III du titre IV du livre III ".
+532-27 et des deuxième et troisième alinéas de l'article L. 612-2 " sont supprimés.
 
 **Liens relatifs à cet article**
 
@@ -47257,6 +47592,10 @@ IV du livre III " sont remplacés par les mots " chapitres Ier et III du titre I
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 10 (V) JORF 21 août 2004
 
 	**Cite**:
 
@@ -47309,7 +47648,58 @@ Les articles L. 563-1 à L. 563-6 et L. 573-1 à L. 573-7 s'y appliquent égalem
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux
+##### Section 4 : Autres prestataires de services
+
+###### Article L765-11-1
+
+Les articles L. 541-1 à L. 541-7 ainsi que les articles L. 573-9 à L. 573-11 sont applicables dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
+
+###### Article L765-11-2
+
+L'article L. 542-1 est applicable dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L542-1 (M)
+
+
+###### Article L765-11-3
+
+Les articles L. 544-1 à L. 544-4 sont applicables dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
+
+##### Section 6 : Obligations relatives à la lutte contre le blanchiment de capitaux
 
 ###### Article L765-13
 
@@ -47334,6 +47724,10 @@ applicable dans le territoire des îles Wallis-et-Futuna ayant le même objet.
 	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 29-1 (VT)
 	  - Loi n°2009-1674 du 30 décembre 2009 - art. 21
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
+
 	**Cite**:
 
 	  - Code des douanes - art. 415 (T)
@@ -47346,7 +47740,7 @@ applicable dans le territoire des îles Wallis-et-Futuna ayant le même objet.
 
 ##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement
 
-##### Sous-section 1 : Le comité de la réglementation bancaire et financière
+##### Sous-section 1 : Réglementation
 
 ###### Article L766-1
 
@@ -47363,14 +47757,18 @@ Le chapitre Ier du titre Ier du livre VI est applicable dans le territoire des �
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V) JORF 21 août 2004
+
+
+##### Sous-section 2 : Comité consultatif du secteur financier et comité consultatif de la législation et de la réglementation financières
 
 ###### Article L766-2
 
 Les articles L. 612-1, le premier alinéa de l'article L. 612-2, les articles L. 612-3 à L. 612-6, à l'exclusion de la
-dernière phrase de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables dans le territoire des îles Wallis-et-
-Futuna.
+dernière phrase du troisième alinéa de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables dans le territoire
+des îles Wallis-et-Futuna.
 
 L'article L. 641-1 s'y applique également.
 
@@ -47384,6 +47782,11 @@ L'article L. 641-1 s'y applique également.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V) JORF 21 août 2004
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
 	**Cite**:
 
@@ -47423,7 +47826,9 @@ L'article L. 641-2 s'y applique également.
 
 ###### Article L766-4
 
-La section 1 du chapitre IV du titre Ier du livre VI est applicable dans le territoire des îles Wallis-et-Futuna.
+Les articles L. 614-1 à L. 614-3 sont applicables dans les îles Wallis et Futuna sous réserve de supprimer, à l'article L.
+614-2, les mots : "et de toute proposition de règlement ou de directive communautaires avant son examen par le Conseil des
+Communautés européennes".
 
 **Liens relatifs à cet article**
 
@@ -47436,27 +47841,22 @@ La section 1 du chapitre IV du titre Ier du livre VI est applicable dans le terr
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Section 2 : Les autorités des marchés financiers
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V) JORF 21 août 2004
 
-##### Sous-section 1 : La commission des opérations de bourse
+	**Cite**:
+
+	  - Code monétaire et financier - art. L614-2 (M)
+	  - Code monétaire et financier L614-1 à L614-3, L614-2
+
+
+##### Section 2 : L'Autorité des marchés financiers
 
 ###### Article L766-5
 
-Le chapitre Ier du titre II du livre VI, à l'exception du deuxième alinéa de l'article L. 621-20, est applicable dans le
-territoire des îles Wallis-et-Futuna.
-
-Les articles L. 642-1 à L. 642-3 s'y appliquent également.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+Le titre II du livre VI est applicable dans les îles Wallis et Futuna, à l'exception du deuxième alinéa de l'article L.
+621-21. Les articles L. 642-1 à L. 642-3 y sont également applicables.
 
 **Liens relatifs à cet article**
 
@@ -47469,64 +47869,13 @@ financiers sont remplacées par la référence au règlement général de l'Auto
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cite**:
-
-	  - Code monétaire et financier - art. L621-20 (M)
-
-
-##### Sous-section 2 : Le conseil des marchés financiers
-
-###### Article L766-6
-
-Le chapitre II du titre II du livre VI, à l'exception de l'article L. 622-13, ainsi que les articles L. 642-4 et L. 642-5
-sont applicables dans le territoire des îles Wallis-et-Futuna.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 53 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (V) JORF 21 août 2004
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L622-13 (Ab)
-	  - Code monétaire et financier - art. L642-4 (Ab)
-	  - Code monétaire et financier - art. L642-5 (Ab)
-
-
-##### Sous-section 3 : Le conseil de discipline de la gestion financière
-
-###### Article L766-7
-
-Le chapitre III du titre II du livre VI ainsi que les articles L. 642-6 et L. 642-7 sont applicables dans le territoire des
-îles Wallis-et-Futuna.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (V) JORF 21 août 2004
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L642-6 (Ab)
-	  - Code monétaire et financier - art. L642-7 (Ab)
+	  - Code monétaire et financier - art. L621-21 (M)
 
 
 ##### Section 3 : Echanges d'informations
