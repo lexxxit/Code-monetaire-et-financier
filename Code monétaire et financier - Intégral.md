@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-10-22
+Version Consolidée au 2004-11-16
 
 # Partie législative
 
@@ -22546,8 +22546,9 @@ Le comité peut limiter l'agrément qu'il délivre à l'exercice de certaines op
 demandeur.
 
 Enfin, le comité peut assortir l'agrément délivré de conditions particulières visant à préserver l'équilibre de la structure
-financière de l'établissement et le bon fonctionnement du système bancaire. Il peut aussi subordonner l'octroi de l'agrément
-au respect d'engagements souscrits par l'établissement requérant.
+financière de l'établissement et le bon fonctionnement du système bancaire en tenant compte, le cas échéant, des objectifs de
+la surveillance complémentaire prévue par le chapitre VII du titre Ier du livre V du présent code. Il peut aussi subordonner
+l'octroi de l'agrément au respect d'engagements souscrits par l'établissement requérant.
 
 Le comité peut refuser l'agrément lorsque l'exercice de la mission de surveillance de l'entreprise requérante est susceptible
 d'être entravé soit par l'existence de liens de capital ou de contrôle directs ou indirects entre l'entreprise et d'autres
@@ -22557,11 +22558,16 @@ partie à l'accord sur l'Espace économique européen et dont relèvent une ou p
 Le comité peut, en outre, refuser l'agrément si les personnes mentionnées à l'article L. 511-13 ne possèdent pas
 l'honorabilité et la compétence nécessaires ainsi que l'expérience adéquate à leur fonction.
 
-Toute personne physique ou morale envisageant de déposer un projet d'offre publique au Conseil des marchés financiers en
+Toute personne physique ou morale envisageant de déposer un projet d'offre publique à l'Autorité des marchés financiers en
 application du chapitre III du titre III du livre IV du présent code, en vue d'acquérir une quantité déterminée de titres
 d'un établissement de crédit agréé en France, est tenue d'en informer le gouverneur de la Banque de France, président du
 Comité des établissements de crédit et des entreprises d'investissement, huit jours ouvrés avant le dépôt de ce projet
 d'offre ou son annonce publique si elle est antérieure.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -22572,12 +22578,6 @@ d'offre ou son annonce publique si elle est antérieure.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 7 () JORF 16 mai 2001
-	  - Loi n°2001-420 du 15 mai 2001 - art. 9 () JORF 16 mai 2001
-	  - Loi n°2001-420 du 15 mai 2001 - art. 10
 
 	**Cité par**:
 
@@ -22640,11 +22640,9 @@ d'offre ou son annonce publique si elle est antérieure.
 	  - Code monétaire et financier - art. R513-15 (V)
 	  - Code monétaire et financier - art. R515-12 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code monétaire et financier - art. L511-11 (M)
-	  - Code monétaire et financier - art. L511-40 (M)
-	  - Code monétaire et financier - art. L612-1 (V)
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 5 () JORF 16 novembre 2004
 
 
 ###### Article L511-11
@@ -23084,34 +23082,49 @@ Ces bureaux peuvent faire état de la dénomination ou de la raison sociale de l
 
 ###### Article L511-20
 
-1. Est une filiale d'un établissement de crédit, d'une entreprise d'investissement ou d'une compagnie financière l'entreprise
-sur laquelle la commission bancaire constate qu'est exercé un contrôle exclusif au sens de l'article L. 233-16 du code de
-commerce.
+I.-Est une filiale d'un établissement de crédit, d'une entreprise d'investissement, d'une compagnie financière ou d'une
+compagnie financière holding mixte l'entreprise sur laquelle est exercé un contrôle exclusif au sens de l'article L. 233-16
+du code de commerce, ou une influence dominante en raison de l'existence de liens de solidarité importants et durables
+résultant d'engagements financiers, de dirigeants ou de services communs. 
 
-2. L'expression : "groupe financier" désigne l'ensemble formé par les filiales, directes ou indirectes, d'un établissement de
-crédit, d'une entreprise d'investissement, ou d'une compagnie financière, et par les entreprises à caractère financier sur
-lesquelles l'entreprise mère exerce un contrôle conjoint au sens de l'article L. 233-16 du code commerce.
+II.-Constitue une participation le fait de détenir, directement ou indirectement, au moins 20 % des droits de vote ou du
+capital d'une entreprise, ou un ensemble de droits dans le capital d'une entreprise qui, en créant un lien durable avec
+celle-ci, est destiné à contribuer à l'activité de la société. 
 
-Le ministre chargé de l'économie définit les entreprises à caractère financier mentionnées à l'alinéa précédent.
+III.-Est un groupe l'ensemble d'entreprises composé d'une entreprise mère, de ses filiales et des entités dans lesquelles
+l'entreprise mère ou ses filiales détiennent des participations, ainsi que des entités liées de telle sorte que leurs organes
+d'administration, de direction ou de surveillance sont composés en majorité des mêmes personnes ou qu'elles sont placées sous
+une direction unique en vertu d'un contrat ou de clauses statutaires. Les établissements affiliés à un réseau et l'organe
+central au sens de l'article L. 511-31 sont considérés comme faisant partie d'un même groupe pour l'application du présent
+code. Il en est de même pour les entités appartenant à des groupes coopératifs régis par les dispositions similaires dans la
+législation qui leur est applicable. 
 
-3. L'expression : "groupe mixte" désigne l'ensemble formé par les filiales, directes ou indirectes, d'une entreprise mère qui
-n'est pas une compagnie financière, un établissement de crédit ou une entreprise d'investissement, mais dont l'une au moins
-des filiales est un établissement de crédit ou une entreprise d'investissement.
+IV.-L'expression : " groupe financier " désigne l'ensemble ne constituant pas un conglomérat financier formé par les
+filiales, directes ou indirectes, d'un établissement de crédit, d'une entreprise d'investissement, ou d'une compagnie
+financière, et par les entreprises à caractère financier sur lesquelles l'entreprise mère exerce un contrôle conjoint au sens
+de l'article L. 233-16 du code de commerce. 
+
+Les entreprises à caractère financier mentionnées à l'alinéa précédent sont définies par voie réglementaire. 
+
+V.-L'expression : " groupe mixte " désigne l'ensemble formé par les filiales, directes ou indirectes, d'une entreprise mère
+qui n'est pas une compagnie financière, un établissement de crédit, une entreprise d'investissement ou une compagnie
+financière holding mixte au sens de l'article L. 517-4 mais dont l'une au moins des filiales est un établissement de crédit
+ou une entreprise d'investissement. L'entreprise mère d'un groupe mixte est une compagnie mixte.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-46 du 24 janvier 1984 - art. 9-1 (M)
 	  - Loi n°84-46 du 24 janvier 1984 - art. 9-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -23138,9 +23151,15 @@ des filiales est un établissement de crédit ou une entreprise d'investissement
 	  - Code monétaire et financier - art. R612-37 (VD)
 	  - Code monétaire et financier - art. R612-38 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 5 () JORF 16 novembre 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L233-16 (M)
+	  - Code de commerce - art. L233-16 (V)
+	  - Code monétaire et financier - art. L511-31 (V)
+	  - Code monétaire et financier - art. L517-4 (V)
 
 
 ##### Sous-section 2 : Libre établissement et libre prestation de services sur le territoire des Etats partie à l'accord sur l'Espace économique européen
@@ -23817,14 +23836,14 @@ de France, ni à l'autorité judiciaire agissant dans le cadre d'une procédure 
 
 ###### Article L511-34
 
-Les entreprises établies en France et qui font partie d'un groupe financier ou d'un groupe mixte auquel appartiennent des
-établissements de crédit ou entreprises d'investissement ayant leur siège social dans un Etat membre de la Communauté
-européenne ou Etat partie à l'accord sur l'Espace économique européen ou dans un Etat où sont applicables les accords prévus
-à l'article L. 613-13 sont tenues, nonobstant toutes dispositions contraires, de transmettre à des entreprises du même groupe
-ayant leur siège social dans l'un de ces Etats :
+Les entreprises établies en France et qui font partie d'un groupe financier ou d'un groupe mixte ou d'un conglomérat
+financier auquel appartiennent des établissements de crédit ou entreprises d'investissement ayant leur siège social dans un
+Etat membre de la Communauté européenne ou Etat partie à l'accord sur l'Espace économique européen ou dans un Etat où sont
+applicables les accords prévus à l'article L. 613-13 sont tenues, nonobstant toutes dispositions contraires, de transmettre à
+des entreprises du même groupe ayant leur siège social dans l'un de ces Etats :
 
 1° Les renseignements relatifs à leur situation financière nécessaires à l'organisation de la surveillance sur base
-consolidée de ces établissements de crédit ou entreprises d'investissement ;
+consolidée et de la surveillance complémentaire de ces établissements de crédit ou entreprises d'investissement ;
 
 2° Les informations nécessaires à l'organisation de la lutte contre le blanchiment des capitaux et contre le financement du
 terrorisme.
@@ -23841,6 +23860,11 @@ détenir.
 
 Les dispositions du présent article ne font pas obstacle à l'application de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
 
 **Liens relatifs à cet article**
 
@@ -23860,7 +23884,7 @@ l'informatique, aux fichiers et aux libertés.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 72 1° JORF 2 août 2003
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 5 () JORF 16 novembre 2004
 
 	**Cité par**:
 
@@ -24150,9 +24174,16 @@ Ils doivent en particulier respecter des ratios de couverture et de division de 
 
 Les établissements de crédit doivent également disposer d'un système adéquat de contrôle interne leur permettant notamment de
 mesurer les risques et la rentabilité de leurs activités. Lorsque la surveillance est exercée sur la base de la situation
-financière consolidée, les groupes financiers doivent adopter des procédures de contrôle interne adéquates pour la production
-des informations et renseignements utiles aux fins de l'exercice de cette surveillance. Un arrêté du ministre chargé de
+financière consolidée, les groupes financiers ou mixtes doivent adopter des procédures de contrôle interne adéquates pour la
+production des informations et renseignements utiles aux fins de l'exercice de cette surveillance. Les établissements de
+crédit notifient à la commission bancaire les transactions importantes entre les établissements de crédit d'un groupe mixte
+et la compagnie mixte ou ses filiales, dans les conditions définies à l'article L. 613-8. Un arrêté du ministre chargé de
 l'économie définit les conditions d'application du présent alinéa.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
 
 **Liens relatifs à cet article**
 
@@ -24163,11 +24194,6 @@ l'économie définit les conditions d'application du présent alinéa.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 46 VI 1°, 2° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -24194,6 +24220,56 @@ l'économie définit les conditions d'application du présent alinéa.
 	  - Code monétaire et financier - art. L612-20 (VD)
 	  - Code monétaire et financier - art. L613-20-4 (V)
 	  - Code monétaire et financier - art. R518-30-2 (V)
+
+	**Cite**:
+
+	  - Ordonnance 2004-1201 2004-11-12
+	  - Code monétaire et financier - art. L613-8 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 5 () JORF 16 novembre 2004
+
+
+###### Article L511-41-1
+
+Lorsqu'un établissement de crédit a pour entreprise mère un établissement de crédit, une entreprise d'investissement ou une
+compagnie financière qui a son siège social dans un Etat qui n'est pas partie à l'accord sur l'Espace économique européen, la
+commission bancaire vérifie, de sa propre initiative ou à la demande de l'entreprise mère ou d'une entité réglementée agréée
+dans un Etat membre ou un autre Etat partie à l'accord sur l'Espace économique européen, que ledit établissement de crédit
+fait l'objet, de la part d'une autorité compétente du pays tiers, d'une surveillance consolidée équivalente à celle
+applicable en France. A défaut d'équivalence, il est appliqué à l'établissement de crédit les dispositions relatives à la
+surveillance consolidée applicable en France.
+
+La commission bancaire peut aussi recourir à d'autres méthodes garantissant une surveillance consolidée équivalente, après
+approbation de l'autorité compétente susceptible d'être chargée de la surveillance consolidée pour l'Espace économique
+européen et consultation des autres autorités compétentes concernées d'un Etat membre ou d'un autre Etat partie à l'accord
+sur l'Espace économique européen. Elle peut notamment exiger la constitution d'une compagnie financière ayant son siège
+social dans un Etat membre ou dans un autre Etat partie à l'Espace économique européen.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 5 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-859 du 15 juillet 2015 - art. 3 (V)
+	  - Code monétaire et financier - art. D511-15 (V)
+	  - Code monétaire et financier - art. L517-9 (VD)
+	  - Code monétaire et financier - art. L745-1-1 (VT)
+	  - Code monétaire et financier - art. L755-1-1 (VT)
+	  - Code monétaire et financier - art. L765-1-1 (VT)
 
 
 ###### Article L511-42
@@ -28453,36 +28529,34 @@ si elles y sont autorisées à titre accessoire dans les conditions définies pa
 	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 4
 
 
-#### Chapitre VII : Compagnies financières
+#### Chapitre VII : Compagnies financières et conglomérats financiers
+
+##### Section 1 : Définitions
+
+##### Sous-section 1 : Compagnies financières
 
 ###### Article L517-1
 
-Les compagnies financières sont des établissements financiers, au sens de l'article L. 511-21, qui ont pour filiales,
-exclusivement ou principalement, un ou plusieurs établissements de crédit ou d'entreprises d'investissements ou
-établissements financiers. L'une au moins de ces filiales est un établissement de crédit ou une entreprise d'investissement.
+Une compagnie financière est un établissement financier, au sens de l'article L. 511-21, qui a pour filiales, exclusivement
+ou principalement, un ou plusieurs établissements de crédit ou entreprises d'investissement ou établissements financiers et
+qui n'est pas une compagnie financière holding mixte au sens de l'article L. 517-4 du présent code. L'une au moins de ces
+filiales est un établissement de crédit ou une entreprise d'investissement.
 
-Les compagnies financières sont soumises aux dispositions prévues au premier alinéa de l'article L. 511-13, à l'article L.
-511-21, aux articles L. 511-35 à L. 511-38, L. 511-41, L. 571-3, L. 571-4, L. 613-8 à L. 613-11, L. 613-16, L. 613-18, L.
-613-21 et L. 613-22 dans des conditions précisées par un arrêté du ministre chargé de l'économie.
+**Nota:**
 
-Les commissaires aux comptes de ces entreprises sont également soumis à l'ensemble des dispositions applicables aux
-commissaires aux comptes des établissements de crédit et des entreprises d'investissement.
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-46 1984-01-24 art. 72 et art. 73
 	  - Loi n°84-46 du 24 janvier 1984 - art. 72 (Ab)
 	  - Loi n°84-46 du 24 janvier 1984 - art. 73 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -28507,6 +28581,271 @@ commissaires aux comptes des établissements de crédit et des entreprises d'inv
 	  - Code monétaire et financier - art. L755-6 (V)
 	  - Code monétaire et financier - art. L765-6 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 6 () JORF 16 novembre 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-21 (V)
+	  - Code monétaire et financier - art. L517-4 (V)
+
+
+##### Sous-section 2 : Conglomérats financiers
+
+###### Article L517-2
+
+I. - Pour l'application de la surveillance complémentaire prévue au chapitre III du titre III du livre VI, on entend par :
+
+1° "Entité réglementée" : un établissement de crédit, un organisme d'assurance ou une entreprise d'investissement ayant son
+siège social dans un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen ;
+
+2° "Règles sectorielles" : les règles concernant la surveillance prudentielle des entités réglementées ;
+
+3° "Secteur financier" : un secteur composé d'une ou plusieurs entités appartenant aux secteurs suivants :
+
+a) Le secteur bancaire et des services d'investissement, qui comprend les établissements de crédit, les entreprises
+d'investissement, les établissements financiers ou les entreprises à caractère financier dont le siège social est situé dans
+un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen ;
+
+b) Le secteur des assurances, qui comprend les entreprises d'assurance, les sociétés de groupe d'assurance, les mutuelles,
+les unions de mutuelles, les institutions de prévoyance, les unions d'institutions de prévoyance, les groupements paritaires
+de prévoyance, ou les sociétés de réassurance dont le siège social est situé dans un Etat membre ou dans un autre Etat partie
+à l'accord sur l'Espace économique européen.
+
+Le secteur financier comprend également, le cas échéant, une ou plusieurs compagnies financières holding mixtes ;
+
+4° "Autorité compétente" : toute autorité nationale d'un Etat membre ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen dotée, par une disposition législative ou réglementaire, du pouvoir de surveiller, individuellement ou à
+l'échelle d'un groupe, l'une ou plusieurs des catégories d'entités réglementées suivantes :
+
+a) Les établissements de crédit ;
+
+b) Les entreprises d'assurance ;
+
+c) Les mutuelles ;
+
+d) Les institutions de prévoyances ;
+
+e) Les entreprises d'investissement ;
+
+5° "Autorité compétente concernée" :
+
+a) Toute autorité compétente responsable de la surveillance sectorielle consolidée des entités réglementées appartenant à un
+conglomérat financier ;
+
+b) Le coordonnateur désigné conformément à l'article L. 633-2 du présent code, s'il est différent des autorités mentionnées
+au a ;
+
+c) Les autres autorités compétentes, lorsque les autorités visées aux a et b le jugent opportun.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 6 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 11 (V)
+	  - Arrêté du 3 novembre 2014 - art. 12 (V)
+	  - Arrêté du 3 novembre 2014 - art. 14 (V)
+	  - Arrêté du 3 novembre 2014 - art. 2 (V)
+	  - Arrêté du 3 novembre 2014 - art. 4 (V)
+	  - Arrêté du 3 novembre 2014 - art. 7 (V)
+	  - Arrêté du 3 novembre 2014 - art. 9 (V)
+	  - Code de la mutualité - art. L212-7-4-1 (VT)
+	  - Code des assurances - art. L334-3-2 (V)
+	  - Code des assurances - art. L356-26 (V)
+	  - Code des assurances - art. R322-4-1 (VD)
+	  - Code monétaire et financier - art. L511-34 (VD)
+	  - Code monétaire et financier - art. L517-6 (V)
+	  - Code monétaire et financier - art. L517-9 (VD)
+	  - Code monétaire et financier - art. L633-1 (V)
+	  - Code monétaire et financier - art. R511-3-1 (V)
+	  - Code monétaire et financier - art. R532-15 (V)
+	  - Code monétaire et financier - art. R532-8 (V)
+
+
+###### Article L517-3
+
+I.-Un groupe au sens de l'article L. 511-20 constitue un conglomérat financier lorsque les conditions suivantes sont
+remplies : 
+
+1° Une entité réglementée est à la tête du groupe ou l'une des filiales du groupe au moins est une entité réglementée et : 
+
+a) Dans le cas où une entité réglementée est à la tête du groupe, il s'agit soit de l'entreprise mère d'une entité du secteur
+financier, soit d'une entité qui détient une participation dans une entité du secteur financier, soit d'une entité liée à une
+entité du secteur financier au sens du 3° de l'article L. 511-20 ; 
+
+b) Dans le cas où il n'y a pas d'entité réglementée à la tête du groupe, les activités de ce dernier s'exercent
+principalement dans le secteur financier ; 
+
+2° L'une au moins des entités du groupe appartient au secteur de l'assurance et l'une au moins appartient au secteur bancaire
+et des services d'investissement ; 
+
+3° Les activités consolidées ou agrégées des entités du groupe dans le secteur de l'assurance et les activités consolidées ou
+agrégées des entités dans le secteur bancaire et des services d'investissement sont importantes ; 
+
+II.-Sont fixés par voie réglementaire : 
+
+1° Les seuils à partir desquels les activités d'un groupe sont considérées comme s'exerçant principalement dans le secteur
+financier ; 
+
+2° Les seuils à partir desquels l'activité dans chaque secteur est considérée comme importante ; 
+
+3° Les seuils, critères ou conditions en fonction desquels les autorités compétentes concernées peuvent décider d'un commun
+accord de ne pas considérer le groupe comme un conglomérat financier ou de ne pas lui appliquer les dispositions relatives à
+la surveillance complémentaire. 
+
+III.-Tout sous-groupe d'un groupe qui remplit les critères figurant au I du présent article est exempté du régime de la
+surveillance complémentaire lorsqu'il appartient à un groupe identifié comme conglomérat financier soumis, à ce titre, à une
+surveillance complémentaire. Néanmoins, le coordonnateur du conglomérat ou le coordonnateur susceptible d'être désigné
+conformément à l'article L. 633-2 pour la surveillance complémentaire du sous-groupe peut, par une décision motivée,
+soumettre le sous-groupe à la surveillance complémentaire dans des conditions fixées par voie réglementaire.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 6 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 1 (V)
+	  - Arrêté du 3 novembre 2014 - art. 10 (V)
+	  - Arrêté du 3 novembre 2014 - art. 2 (V)
+	  - Arrêté du 3 novembre 2014 - art. 250 (V)
+	  - Arrêté du 3 novembre 2014 - art. 3 (V)
+	  - Code de la mutualité - art. L212-7-4 (VT)
+	  - Code de la mutualité - art. L212-7-4-1 (VT)
+	  - Code de la mutualité - art. R213-8 (V)
+	  - Code de la sécurité sociale. - art. R933-8 (VT)
+	  - Code des assurances - art. L334-3-2 (V)
+	  - Code des assurances - art. L334-4 (V)
+	  - Code des assurances - art. L356-26 (V)
+	  - Code des assurances - art. R334-48 (VT)
+	  - Code monétaire et financier - art. L517-7 (V)
+	  - Code monétaire et financier - art. L517-9 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-20 (V)
+	  - Code monétaire et financier - art. L633-2 (V)
+
+
+###### Article L517-4
+
+Une compagnie financière holding mixte est une entreprise mère autre qu'une entité réglementée, ayant son siège dans un Etat
+membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen, qui, avec ses filiales, dont l'une au moins
+est une entité réglementée, constitue un conglomérat financier.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 6 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 1 (V)
+	  - Arrêté du 3 novembre 2014 - art. 12 (V)
+	  - Arrêté du 3 novembre 2014 - art. 14 (V)
+	  - Arrêté du 3 novembre 2014 - art. 219 (V)
+	  - Arrêté du 3 novembre 2014 - art. 4 (V)
+	  - Arrêté du 3 novembre 2014 - art. 8 (V)
+	  - Arrêté du 19 décembre 2014 - art. 1 (V)
+	  - Loi n°2014-1662 du 30 décembre 2014 - art. 4 (V)
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 2
+	  - Code de commerce - art. L820-1 (V)
+	  - Code de la mutualité - art. L111-4-2 (V)
+	  - Code de la mutualité - art. L212-7-2 (VT)
+	  - Code de la mutualité - art. L212-7-4-1 (VT)
+	  - Code de la sécurité sociale. - art. L931-2-2 (V)
+	  - Code des assurances - art. L310-28 (V)
+	  - Code des assurances - art. L310-3 (VD)
+	  - Code des assurances - art. L322-1-2 (V)
+	  - Code des assurances - art. L322-2 (V)
+	  - Code des assurances - art. L334-3 (V)
+	  - Code des assurances - art. L334-3-2 (V)
+	  - Code des assurances - art. L345-2 (VD)
+	  - Code des assurances - art. L356-2 (VD)
+	  - Code des assurances - art. L356-9 (VD)
+	  - Code des assurances - art. R356-30-1 (VD)
+	  - Code monétaire et financier - art. D411-1 (M)
+	  - Code monétaire et financier - art. L500-1 (V)
+	  - Code monétaire et financier - art. L511-20 (VD)
+	  - Code monétaire et financier - art. L511-41-1 A (V)
+	  - Code monétaire et financier - art. L517-1 (VD)
+	  - Code monétaire et financier - art. L613-20-1 (V)
+
+
+##### Section 2 : Dispositions générales
+
+##### Sous-section 1 : Compagnies financières
+
+###### Article L517-5
+
+Les compagnies financières sont soumises aux dispositions prévues au deuxième alinéa de l'article L. 511-13, à l'article L.
+511-21, aux articles L. 511-35 à L. 511-38, L. 511-41, L. 571-3, L. 571-4, L. 613-8 à L. 613-11, L. 613-16, L. 613-18, L.
+613-21 et L. 613-22 dans des conditions précisées par voie réglementaire.
+
+Les commissaires aux comptes de ces entreprises sont également soumis à l'ensemble des dispositions applicables aux
+commissaires aux comptes des établissements de crédit et des entreprises d'investissement.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 6 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 19 (V)
+	  - Code général des impôts, CGI. - art. 235 ter ZE (VD)
+	  - Code monétaire et financier - art. L612-20 (VD)
+	  - Code monétaire et financier - art. R612-29-3 (V)
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L511-13 (M)
@@ -28518,7 +28857,170 @@ commissaires aux comptes des établissements de crédit et des entreprises d'inv
 	  - Code monétaire et financier - art. L613-18 (M)
 	  - Code monétaire et financier - art. L613-21 (M)
 	  - Code monétaire et financier - art. L613-22 (M)
-	  - Code monétaire et financier L511-21, L511-13, L511-35 à L511-38, L511-41, L571-3, L571-4, L613-8 à L613-11, L613-16, L613-18, L613-21, L613-22
+	  - Code monétaire et financier L511-13, L511-21, L511-35 à L511-38, L511-41, L571-3, L571-4, L613-8 à L613-11, L613-16, L613-18, L613-21, L613-22
+
+
+##### Sous-section 2 : Conglomérats financiers
+
+###### Article L517-6
+
+Les entités réglementées appartenant à un conglomérat financier sont soumises à la surveillance complémentaire prévue par la
+présente sous-section et par les articles L. 633-1 à L. 633-14, sans préjudice des règles sectorielles qui leur sont
+applicables.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 6 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. L334-3-2 (V)
+	  - Code des assurances - art. R356-30-1 (VD)
+	  - Code monétaire et financier - art. L517-9 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L633-1 (V)
+
+
+###### Article L517-7
+
+I.-La surveillance complémentaire exercée au niveau d'un conglomérat s'applique aux entités réglementées répondant à l'un des
+critères suivants : 
+
+1° Elle constitue la tête du conglomérat ; 
+
+2° Elle a pour entreprise mère une compagnie financière holding mixte ayant son siège social dans un Etat membre ou dans un
+autre Etat partie à l'accord sur l'Espace économique européen ; 
+
+3° Elle est liée à une autre entité du secteur financier au sens du 3° de l'article L. 511-20. 
+
+II.-Dans des cas autres que ceux mentionnés au I et à l'article L. 633-14, lorsque des personnes détiennent une participation
+dans une ou plusieurs entités réglementées, ou ont un lien de participation avec ces entités ou exercent sur elles une
+influence notable qui ne résulte ni d'une participation ni d'un lien de participation, les autorités compétentes concernées
+déterminent, d'un commun accord, au regard des objectifs de la surveillance complémentaire, si, et dans quelle mesure, une
+surveillance complémentaire des entités réglementées comprises dans cet ensemble doit être effectuée comme s'il constituait
+un conglomérat financier. 
+
+Pour appliquer cette surveillance complémentaire, les conditions énoncées aux 2° et 3° du I de l'article L. 517-3 doivent
+être remplies.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 6 () JORF 16 novembre 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-20 (V)
+	  - Code monétaire et financier - art. L517-3 (V)
+	  - Code monétaire et financier - art. L633-14 (V)
+
+
+###### Article L517-8
+
+Les entités réglementées appartenant à un conglomérat financier sont soumises, dans des conditions précisées par voie
+réglementaire, à des exigences complémentaires en matière d'adéquation des fonds propres, de transactions entre les
+différentes entités du conglomérat, de concentration et de gestion des risques et de contrôle interne.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 6 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 250 (V)
+	  - Arrêté du 3 novembre 2014 - art. 3 (V)
+	  - Code de la mutualité - art. L212-7-4-1 (VT)
+	  - Code de la mutualité - art. R212-11 (VD)
+	  - Code de la mutualité - art. R212-15 (VT)
+	  - Code de la mutualité - art. R212-20-1 (VT)
+	  - Code de la mutualité - art. R213-2 (V)
+	  - Code de la mutualité - art. R213-4 (V)
+	  - Code de la mutualité - art. R213-8 (V)
+	  - Code de la sécurité sociale. - art. R931-10-11-1 (VT)
+	  - Code de la sécurité sociale. - art. R931-10-6 (VT)
+	  - Code de la sécurité sociale. - art. R933-2 (VT)
+	  - Code de la sécurité sociale. - art. R933-4 (VT)
+	  - Code de la sécurité sociale. - art. R933-8 (VT)
+	  - Code des assurances - art. L334-3-2 (V)
+	  - Code des assurances - art. R334-11 (V)
+	  - Code des assurances - art. R334-26 (VT)
+	  - Code des assurances - art. R334-3 (V)
+	  - Code des assurances - art. R334-41 (VT)
+	  - Code des assurances - art. R334-43 (VT)
+	  - Code des assurances - art. R334-48 (VT)
+	  - Code monétaire et financier - art. L517-9 (VD)
+	  - Code monétaire et financier - art. L633-12 (V)
+	  - Code monétaire et financier - art. L633-3 (V)
+
+
+###### Article L517-9
+
+Les compagnies financières holding mixtes dont le coordinateur est la commission bancaire sont soumises aux dispositions du
+deuxième alinéa de l'article L. 511-13, aux dispositions des articles L. 511-35 à L. 511-38 ainsi qu'à la surveillance
+complémentaire prévue à l'article L. 517-8.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 6 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 19 (V)
+	  - Code général des impôts, CGI. - art. 235 ter ZE (VD)
+	  - Code monétaire et financier - art. L612-20 (VD)
+	  - Code monétaire et financier - art. L633-12 (V)
+	  - Code monétaire et financier - art. R612-29-3 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-13 (M)
+	  - Code monétaire et financier - art. L517-8 (V)
+	  - Code monétaire et financier L511-13, L511-35 à L511-38, L517-8
 
 
 #### Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque
@@ -31544,6 +32046,73 @@ Le non respect de ces obligations entraîne l'application de la procédure prév
 	  - Code monétaire et financier - art. L621-15 (M)
 
 
+###### Article L533-1-1
+
+Les prestataires de services d'investissement notifient à la commission bancaire les transactions intragroupe importantes,
+dans les conditions définies à l'article L. 613-8.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 8 () JORF 16 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-8 (M)
+
+
+###### Article L533-1-2
+
+Lorsqu'un prestataire de services d'investissement autre qu'une société de gestion de portefeuille a pour entreprise mère un
+établissement de crédit, une entreprise d'investissement ou une compagnie financière qui a son siège social dans un Etat non
+membre ni partie à l'accord sur l'Espace économique européen, la commission bancaire vérifie, de sa propre initiative ou à la
+demande de l'entreprise mère ou d'une entité réglementée agréée dans un Etat membre ou dans un autre Etat partie à l'accord
+sur l'Espace économique européen, que ledit prestataire de services d'investissement fait l'objet, de la part d'une autorité
+compétente du pays tiers, d'une surveillance consolidée équivalente à celle applicable en France.
+
+En l'absence d'une surveillance consolidée équivalente, il est appliqué par analogie au prestataire de services
+d'investissement les dispositions relatives à la surveillance consolidée applicable en France.
+
+La commission bancaire peut aussi recourir à d'autres méthodes garantissant une surveillance consolidée équivalente, après
+approbation de l'autorité compétente susceptible d'être chargée de la surveillance consolidée pour l'Espace économique
+européen et consultation des autres autorités compétentes concernées d'un Etat membre ou d'un autre Etat partie à l'accord
+sur l'Espace économique européen. Elle peut notamment exiger la constitution d'une compagnie financière ayant son siège
+social dans un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 8 () JORF 16 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+
+
 ##### Section 2 : Obligations comptables et déclaratives
 
 ###### Article L533-2
@@ -34415,12 +34984,17 @@ livre ou des règlements pris pour leur application.
 	  - Code monétaire et financier - art. L765-3 (V)
 
 
-##### Section 5 : Compagnies financières
+##### Section 5 : Compagnies financières et compagnies financières holding mixtes
 
 ###### Article L571-14
 
-Le fait, pour les dirigeants d'une compagnie financière, de ne pas établir les comptes sous une forme consolidée,
-conformément à l'article L. 517-1, est puni de 15000 euros d'amende.
+Le fait, pour les dirigeants d'une compagnie financière ou d'une compagnie financière holding mixte, de ne pas établir les
+comptes sous une forme consolidée, conformément à l'article L. 517-5 ou L. 517-9, est puni de 15 000 euros d'amende.
+
+**Nota:**
+
+Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
+surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -34441,13 +35015,18 @@ conformément à l'article L. 517-1, est puni de 15000 euros d'amende.
 
 	  - Loi n°84-46 du 24 janvier 1984 - art. 84 (Ab)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 7 () JORF 16 novembre 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L571-5 (V)
+	  - Code monétaire et financier - art. L571-9 (V)
 
 
 ##### Section 6 : Intermédiaires en opérations de banque
@@ -35095,7 +35674,8 @@ la clientèle, ainsi que les conditions de la concurrence ;
 5. L'organisation des services communs ;
 
 6. Les normes de gestion que les établissements de crédit doivent respecter en vue notamment de garantir leur liquidité, leur
-solvabilité et l'équilibre de leur structure financière ;
+solvabilité et l'équilibre de leur structure financière ainsi que les conditions dans lesquelles ces normes sont respectées
+sur une base consolidée, y compris en l'absence d'une entreprise mère ayant son siège social en France ;
 
 7. La publicité des informations destinées aux autorités compétentes ;
 
@@ -35107,6 +35687,11 @@ l'article 106, paragraphe 2, du traité instituant la Communauté européenne ;
 10. Les règles applicables à l'organisation comptable, aux mécanismes de contrôle et de sécurité dans le domaine informatique
 ainsi que les procédures de contrôle interne.
 
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -35117,12 +35702,6 @@ ainsi que les procédures de contrôle interne.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 28 II 1°, 2°, art. 48 II 2° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 28 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -35159,11 +35738,15 @@ ainsi que les procédures de contrôle interne.
 	  - Code monétaire et financier - art. R564-1 (T)
 	  - Code monétaire et financier - art. R565-1 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 9 () JORF 16 novembre 2004
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L312-4 (M)
 	  - Code monétaire et financier - art. L511-21 (V)
-	  - Code monétaire et financier L511-21, 106, L312-4
+	  - Traité CEE 1957-03-25 art. 106
 
 
 ###### Article L611-2
@@ -35702,16 +36285,22 @@ Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 relativ
 renseignements d'ordre économique, commercial, industriel, financier ou technique à des personnes physiques ou morales, le
 comité des établissements de crédit et des entreprises d'investissement peut transmettre des informations aux autorités
 chargées, dans d'autres Etats, de l'agrément ou de la surveillance des établissements de crédit, des entreprises
-d'investissement et des établissements financiers sous réserve de réciprocité et à condition que ces autorités soient elles-
-mêmes soumises au secret professionnel avec les mêmes garanties qu'en France. La Commission des communautés européennes peut
-également être destinataire de ces informations, dans la limite de ce qui est nécessaire à l'exercice des missions qui lui
-sont confiées, et sous réserve que les personnes destinataires soient soumises au secret professionnel avec les mêmes
-garanties qu'en France.
+d'investissement, des établissements financiers et des organismes d'assurance sous réserve de réciprocité et à condition que
+ces autorités soient elles-mêmes soumises au secret professionnel avec les mêmes garanties qu'en France. Ces autorités,
+lorsque ce sont celles d'un Etat membre ou d'un autre Etat partie à l'accord sur l'Espace économique européen, sont réputées
+satisfaire à ces conditions. La Commission des communautés européennes peut également être destinataire de ces informations,
+dans la limite de ce qui est nécessaire à l'exercice des missions qui lui sont confiées, et sous réserve que les personnes
+destinataires soient soumises au secret professionnel avec les mêmes garanties qu'en France.
 
 Par dérogation aux dispositions législatives et réglementaires régissant le secret professionnel, le Comité des
 établissements de crédit et des entreprises d'investissement peut, avec l'accord préalable de la personne physique ou morale
 lui ayant transmis des documents en vue de l'instruction du dossier la concernant, communiquer certains desdits documents à
 toute personne physique ou morale intéressée qui le demande.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
 
 **Liens relatifs à cet article**
 
@@ -35727,10 +36316,6 @@ toute personne physique ou morale intéressée qui le demande.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 73 3° JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V)
@@ -35738,6 +36323,10 @@ toute personne physique ou morale intéressée qui le demande.
 	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD)
 	  - Code monétaire et financier - art. L641-1 (V)
 	  - Code monétaire et financier - art. L726-1 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 10 () JORF 16 novembre 2004
 
 
 ###### Article L612-7
@@ -36117,18 +36706,28 @@ commission bancaire peut communiquer tous les renseignements nécessaires à la 
 
 Les contrôles sur place peuvent être étendus aux filiales d'un établissement de crédit ou d'une entreprise d'investissement.
 Ils peuvent également l'être aux personnes morales qui contrôlent directement ou indirectement, au sens de l'article L. 233-3
-du code de commerce, un établissement de crédit ou une entreprise d'investissement ainsi qu'aux filiales de ces personnes
-morales.
+du code de commerce, un établissement de crédit ou une entreprise d'investissement, aux filiales de ces personnes morales
+ainsi qu'à toute autre entreprise ou personne morale appartenant au même groupe.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Loi n°84-46 1984-01-24 art. 41 al. 2
 	  - Loi n°84-46 du 24 janvier 1984 - art. 41 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 11 () JORF 16 novembre 2004
 
 	**Cite**:
 
@@ -36177,52 +36776,6 @@ Elle communique à l'organe central les résultats de ce contrôle.
 	  - Code monétaire et financier - art. L511-28 (V)
 	  - Code monétaire et financier - art. L520-2 (V)
 	  - Code monétaire et financier - art. L520-6 (VT)
-
-
-###### Article L613-12
-
-Lorsque les autorités d'un Etat partie à l'accord sur l'Espace économique européen, compétentes pour la surveillance d'un
-établissement de crédit ou d'une entreprise d'investissement souhaitent, dans des cas déterminés, vérifier des informations
-portant sur l'une des personnes morales mentionnées à l'article L. 613-10 et dont le siège social est situé en France, la
-commission bancaire doit, par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 relative à la communication
-de documents et renseignements d'ordre économique, commercial, industriel, financier ou technique à des personnes physiques
-ou morales étrangères, répondre à leur demande soit en procédant elle-même à la vérification, soit en permettant à des
-représentants de ces autorités d'y procéder.
-
-Les contrôles sur place de la commission bancaire peuvent être étendus aux personnes morales mentionnées à l'article L.
-613-10 et dont le siège est situé dans un autre Etat partie à l'accord sur l'Espace économique européen. La commission
-demande aux autorités compétentes de l'autre Etat partie à l'accord sur l'Espace économique européen qu'elles procèdent à
-cette vérification. Avec l'autorisation de ces autorités, elle peut désigner des représentants pour procéder aux contrôles.
-
-Pour assurer la surveillance d'un établissement soumis à son contrôle, la commission bancaire peut exiger des succursales
-établies dans un autre Etat partie à l'accord sur l'Espace économique européen, communication de toutes informations utiles à
-l'exercice de cette surveillance et, après en avoir informé l'autorité de cet Etat compétente pour assurer la surveillance
-des établissements de crédit ou des entreprises d'investissement, faire procéder par ses représentants à un contrôle sur
-place des succursales de cet établissement.
-
-Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 précitée, la commission bancaire peut en outre
-échanger toute information utile à l'exercice de leurs contrôles avec les autorités des autres Etats parties à l'accord sur
-l'Espace économique européen, chargées de la surveillance des établissements de crédit, des entreprises d'investissement, des
-autres institutions financières, des sociétés d'assurance.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°68-678 1968-07-26
-	  - Code monétaire et financier - art. L613-10 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 du 24 janvier 1984 - art. 41-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L613-14 (Ab)
 
 
 ###### Article L613-15
@@ -36428,6 +36981,68 @@ mêmes garanties qu'en France.
 
 
 ##### Sous-section 1 : Dispositions générales.
+
+###### Article L613-12
+
+Lorsque les autorités d'un Etat partie à l'accord sur l'Espace économique européen, compétentes pour la surveillance d'un
+établissement de crédit ou d'une entreprise d'investissement souhaitent, dans des cas déterminés, vérifier des informations
+portant sur l'une des personnes morales mentionnées à l'article L. 613-10 et dont le siège social est situé en France, la
+commission bancaire doit, par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 relative à la communication
+de documents et renseignements d'ordre économique, commercial, industriel, financier ou technique à des personnes physiques
+ou morales étrangères, répondre à leur demande soit en procédant elle-même à la vérification, soit en permettant à des
+représentants de ces autorités d'y procéder. Lorsqu'elles ne procèdent pas elles-mêmes à la vérification, les autorités
+compétentes qui ont présenté cette demande peuvent, si elles le souhaitent, y être associées.
+
+Les contrôles sur place de la commission bancaire peuvent être étendus aux personnes morales mentionnées à l'article L.
+613-10 et dont le siège est situé dans un autre Etat partie à l'accord sur l'Espace économique européen. La commission
+demande aux autorités compétentes de l'autre Etat partie à l'accord sur l'Espace économique européen qu'elles procèdent à
+cette vérification. Avec l'autorisation de ces autorités, elle peut désigner des représentants pour procéder aux contrôles.
+Lorsqu'elle ne procède pas elle-même à la vérification, la commission bancaire peut, si elle le souhaite, y être associée.
+
+Pour assurer la surveillance d'un établissement soumis à son contrôle, la commission bancaire peut exiger des succursales
+établies dans un autre Etat partie à l'accord sur l'Espace économique européen, communication de toutes informations utiles à
+l'exercice de cette surveillance et, après en avoir informé l'autorité de cet Etat compétente pour assurer la surveillance
+des établissements de crédit ou des entreprises d'investissement, faire procéder par ses représentants à un contrôle sur
+place des succursales de cet établissement.
+
+Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 précitée, la commission bancaire peut en outre
+échanger toute information utile à l'exercice de leurs contrôles avec les autorités des autres Etats parties à l'accord sur
+l'Espace économique européen, chargées de la surveillance des établissements de crédit, des entreprises d'investissement, des
+autres institutions financières, des sociétés d'assurance.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°68-678 1968-07-26
+	  - Code monétaire et financier - art. L613-10 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°84-46 du 24 janvier 1984 - art. 41-1 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 11 () JORF 16 novembre 2004
+	  - Ordonnance 2007-571 2007-04-19 art. 5 1° JORF 20 avril 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 5 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L613-14 (Ab)
+
 
 ###### Article L613-13
 
@@ -39910,7 +40525,7 @@ Un décret en Conseil d'Etat précise les modalités d'application du présent a
 	  - Code monétaire et financier - art. L621-9 (M)
 
 
-### Titre III : Échanges d'informations
+### Titre III : Echanges d'informations et surveillance complémentaire des conglomérats financiers
 
 #### Chapitre Ier : Echanges d'informations sur le territoire national
 
@@ -39928,6 +40543,11 @@ l'article L. 423-1 du code des assurances, les entreprises de marché et les cha
 
 Les renseignements ainsi recueillis sont couverts par le secret professionnel en vigueur dans les conditions applicables à
 l'organisme qui les a communiqués et à l'organisme destinataire.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
 
 **Liens relatifs à cet article**
 
@@ -39968,8 +40588,7 @@ l'organisme qui les a communiqués et à l'organisme destinataire.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
 
 	**Cite**:
 
@@ -39983,8 +40602,8 @@ l'organisme qui les a communiqués et à l'organisme destinataire.
 
 Il est institué un collège des autorités de contrôle des entreprises du secteur financier. Ce collège est composé du
 gouverneur de la Banque de France, président de la commission bancaire, du président de la commission de contrôle des
-assurances, du président de l'Autorité des marchés financiers ou de leurs représentants. Il est présidé par le ministre
-chargé de l'économie ou son représentant.
+assurances, des mutuelles et des institutions de prévoyance, du président de l'Autorité des marchés financiers ou de leurs
+représentants. Il est présidé par le ministre chargé de l'économie ou son représentant.
 
 Le collège des autorités de contrôle a pour mission de faciliter les échanges d'information entre les autorités de contrôle
 des groupes financiers ayant à la fois des activités de crédit, d'investissement ou d'assurance ainsi que d'évoquer toute
@@ -39992,7 +40611,13 @@ question d'intérêt commun relative à la coordination du contrôle desdits gro
 
 Le collège se réunit au minimum trois fois par an. Il peut également être consulté pour avis par le ministre chargé de
 l'économie, le gouverneur de la Banque de France, président de la commission bancaire, le président de la commission de
-contrôle des assurances et le président de l'Autorité des marchés financiers sur toute question relevant de sa compétence.
+contrôle des assurances, des mutuelles et des institutions de prévoyance et le président de l'Autorité des marchés financiers
+sur toute question relevant de sa compétence.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
 
 **Liens relatifs à cet article**
 
@@ -40003,10 +40628,6 @@ contrôle des assurances et le président de l'Autorité des marchés financiers
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -40023,6 +40644,10 @@ contrôle des assurances et le président de l'Autorité des marchés financiers
 	  - Code monétaire et financier - art. R631-1 (V)
 	  - Code monétaire et financier - art. R631-2 (V)
 	  - Code monétaire et financier - art. R631-3 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
 
 
 #### Chapitre II : Echanges d'informations avec l'étranger
@@ -40042,6 +40667,11 @@ marché, les dépôts de garantie ou de couverture et leur composition ainsi que
 Les informations recueillies par les organismes mentionnés au présent article ne peuvent être utilisées que conformément aux
 indications de l'autorité compétente qui les a transmises.
 
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -40051,10 +40681,6 @@ indications de l'autorité compétente qui les a transmises.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 19 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -40071,6 +40697,534 @@ indications de l'autorité compétente qui les a transmises.
 	  - Code monétaire et financier - art. L746-8 (AbD)
 	  - Code monétaire et financier - art. L756-8 (AbD)
 	  - Code monétaire et financier - art. L766-8 (AbD)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+
+#### Chapitre III : Surveillance complémentaire des conglomérats financiers
+
+##### Section 1 : Identification des conglomérats financiers
+
+###### Article L633-1
+
+La commission bancaire, la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, l'Autorité
+des marchés financiers, en liaison, le cas échéant, avec les autorités de surveillance des entités réglementées des Etats
+membres ou autres Etats parties à l'accord sur l'Espace économique européen, identifient les groupes entrant dans le champ de
+la surveillance complémentaire des conglomérats financiers et échangent à cet effet toute information utile à
+l'accomplissement de leurs missions respectives.
+
+Lorsque un groupe a été identifié comme un conglomérat financier et que la commission bancaire est désignée, conformément aux
+dispositions de l'article L. 633-2, comme le coordonnateur de la surveillance complémentaire, elle en informe l'entité tête
+de groupe ou, à défaut, l'entité réglementée qui affiche le total du bilan le plus élevé dans le secteur financier le plus
+important du groupe. Elle en informe également les autorités compétentes qui ont agréé les entités réglementées du groupe et
+les autorités compétentes de l'Etat membre ou autre Etat partie à l'accord sur l'Espace économique européen dans lequel la
+compagnie financière holding mixte a son siège social, ainsi que la Commission européenne.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
+	  - Code des assurances - art. R334-48 (M)
+	  - Code monétaire et financier - art. L517-6 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L633-2 (M)
+
+
+##### Section 2 : Désignation du coordonnateur
+
+###### Article L633-2
+
+I. - Le coordonnateur est l'autorité compétente responsable de la coordination et de l'exercice de la surveillance
+complémentaire. Il peut décider, après consultation des autorités compétentes concernées et du conglomérat financier, quelle
+méthode de calcul des exigences complémentaires en matière d'adéquation des fonds propres est appliquée, et décider de ne pas
+inclure une entité particulière dans le périmètre de calcul des exigences complémentaires en matière d'adéquation des fonds
+propres dans des cas précisés par voie réglementaire.
+
+II. - Le coordonnateur est l'autorité compétente d'un des Etats parties à l'accord sur l'Espace économique européen qui
+remplit des critères définis par voie réglementaire.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 16 (V)
+	  - Code des assurances - art. L322-4 (VD)
+	  - Code des assurances - art. L334-2 (V)
+	  - Code des assurances - art. L334-5 (Ab)
+	  - Code monétaire et financier - art. L517-2 (V)
+	  - Code monétaire et financier - art. L517-3 (MMN)
+	  - Code monétaire et financier - art. L633-1 (V)
+	  - Code monétaire et financier - art. L633-14 (V)
+	  - Code monétaire et financier - art. L736-1 (VT)
+
+
+##### Section 3 : Mission du coordonnateur
+
+###### Article L633-3
+
+Lorsqu'elle est désignée comme coordonnateur, la commission bancaire assure, au titre de la surveillance complémentaire :
+
+a) La coordination de la collecte et de la diffusion de toute information utile dans la marche normale des affaires comme
+dans les situations d'urgence, et en particulier de toute information importante intéressant la surveillance prudentielle
+exercée par une autorité compétente en vertu des règles sectorielles ;
+
+b) Le contrôle prudentiel et l'évaluation de la situation financière d'un conglomérat financier ;
+
+c) L'évaluation de l'application des règles relatives à l'adéquation des fonds propres, à la concentration de risques et aux
+transactions entre les différentes entités du conglomérat conformément aux dispositions de l'article L. 517-8 ;
+
+d) L'évaluation de la structure, de l'organisation et des dispositifs de contrôle interne du conglomérat financier ;
+
+e) La planification et la coordination des activités prudentielles, en coopération avec les autorités compétentes concernées.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L517-8 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L633-4 (V)
+	  - Code monétaire et financier - art. R631-1 (T)
+	  - Code monétaire et financier - art. R633-1 (V)
+
+
+##### Section 4 : Coopération et échanges d'informations aux fins de la surveillance complémentaire
+
+###### Article L633-4
+
+Lorsque le coordonnateur d'un conglomérat financier est une autorité d'un autre Etat membre ou partie à l'accord sur l'Espace
+économique européen, il assure, à l'égard des entités établies en France, les missions définies à l'article L. 633-3.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L633-3 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R631-1 (T)
+	  - Code monétaire et financier - art. R633-1 (M)
+
+
+###### Article L633-5
+
+Afin de faciliter l'exercice de la surveillance complémentaire, la commission bancaire conclut avec les autorités compétentes
+concernées, et, en tant que de besoin, toute autre autorité compétente intéressée, des accords de coordination. Ces accords
+sont publiés au Journal officiel de la République française. Ils peuvent confier des missions supplémentaires au
+coordonnateur et préciser les procédures à suivre dans le cadre de la surveillance complémentaire. Ils peuvent également
+préciser les modalités de coordination avec d'autres autorités compétentes.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L633-15 (V)
+	  - Code monétaire et financier - art. L633-7-1 (VD)
+	  - Code monétaire et financier - art. R612-24 (V)
+	  - Code monétaire et financier - art. R631-4 (T)
+	  - Code monétaire et financier - art. R633-4 (V)
+
+
+###### Article L633-6
+
+La commission bancaire et, le cas échéant, l'Autorité des marchés financiers coopèrent avec les autorités compétentes
+chargées de la surveillance des entités réglementées appartenant à un conglomérat financier et, lorsqu'elles n'exercent pas
+ce rôle, avec le coordonnateur. Les conditions d'application du présent article sont fixées par voie réglementaire.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+
+###### Article L633-7
+
+Pour les besoins de l'exercice de leurs fonctions respectives, les autorités compétentes peuvent échanger des informations
+relatives aux entités réglementées appartenant à un conglomérat financier avec les banques centrales des Etats membres ou
+autres Etats parties à l'accord sur l'Espace économique européen, le Système européen des banques centrales et la Banque
+centrale européenne.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R633-5 (V)
+
+
+##### Section 5 : Exercice du contrôle
+
+###### Article L633-8
+
+Les articles L. 613-8 à L. 613-10 sont applicables à l'ensemble des entités situées dans un Etat membre ou un autre Etat
+partie à l'accord sur l'Espace économique européen, réglementées ou non, appartenant à un conglomérat financier dont la
+commission bancaire est le coordonnateur.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier L613-8 à L613-10
+
+
+###### Article L633-9
+
+Par dérogation à la loi n° 68-678 du 26 juillet 1968 relative à la communication de documents et renseignements d'ordre
+économique, commercial, industriel, financier ou technique à des personnes physiques ou morales étrangères, toute entité
+établie en France, appartenant à un conglomérat financier dont le coordonnateur est une autorité d'un Etat membre ou d'un
+autre Etat partie à l'accord sur l'Espace économique européen est tenue de transmettre au coordinateur, à sa demande, toute
+information pouvant intéresser la surveillance complémentaire.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°68-678 1968-07-26
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+
+###### Article L633-10
+
+Lorsque les autorités compétentes d'un Etat membre ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+souhaitent, dans des cas déterminés, vérifier les informations relatives à une entité établie en France, réglementée ou non,
+appartenant à un conglomérat financier et mentionnée à l'article L. 613-10, elles demandent à la commission bancaire ou, le
+cas échéant, à l'Autorité des marchés financiers de faire procéder à cette vérification.
+
+La commission bancaire ou, le cas échéant, l'Autorité des marchés financiers y donne suite, dans le cadre de ses compétences,
+soit en procédant elle-même à cette vérification, soit en permettant à l'autorité qui a présenté la demande d'y procéder
+elle-même, soit en permettant qu'un commissaire aux comptes ou un expert y procède.
+
+Lorsqu'elle ne procède pas elle-même à la vérification, l'autorité compétente qui a présenté la demande peut, si elle le
+souhaite, y être associée.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-10 (M)
+
+
+###### Article L633-11
+
+Aux fins de la surveillance complémentaire prévue par le présent chapitre, la commission bancaire peut conclure les accords
+prévus à l'article L. 613-13 avec les autorités compétentes d'un Etat non partie à l'accord sur l'Espace économique européen
+en vue du contrôle de toute entité appartenant à un conglomérat financier.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-13 (Ab)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L736-7 (VT)
+
+
+##### Section 6 : Mesures d'exécution
+
+###### Article L633-12
+
+I. - Si la commission bancaire, lorsqu'elle est désignée en tant que coordonnateur, constate que les entités réglementées
+d'un conglomérat financier respectent les exigences visées à l'article L. 517-8 mais que leur solvabilité risque néanmoins
+d'être compromise, ou que les transactions entre les entités du groupe ou les concentrations de risques menacent la situation
+financière desdites entités réglementées, elle peut mettre en oeuvre à l'encontre de la compagnie financière holding mixte
+les pouvoirs dont elle dispose au titre de la section IV du chapitre III du titre Ier du livre VI du présent code.
+
+II. - Si la commission bancaire, lorsqu'elle est désignée en tant que coordonnateur, constate qu'une ou plusieurs entités
+réglementées ou qu'une compagnie financière holding mixte d'un conglomérat financier ne se conforment pas aux exigences
+visées à l'article L. 517-8 ou à l'article L. 517-9, ou n'ont pas répondu à une recommandation, ou n'ont pas tenu compte
+d'une mise en garde, ou n'ont pas respecté les conditions particulières posées ou les engagements pris au titre de la
+surveillance complémentaire, ou n'ont pas déféré à une injonction, elle peut, à l'encontre de la compagnie financière holding
+mixte :
+
+1° Prononcer les sanctions prévues aux 1, 2, 4 et 5 de l'article L. 613-21, I ;
+
+2° Prononcer, soit à la place, soit en sus de ces sanctions, une sanction pécuniaire dont le montant doit être fonction de la
+gravité des manquements commis et ne peut excéder le plus élevé des deux montants suivants :
+
+3 % du chiffre d'affaires hors taxes réalisé, au cours du dernier exercice clos calculé sur une période de douze mois, par
+l'entité réglementée du secteur de l'assurance filiale de la compagnie financière holding mixte ayant réalisé le chiffre
+d'affaires le plus important. Ce maximum est porté à 5 % en cas de nouvelle violation de la même obligation ;
+
+Le capital minimum auquel est astreinte l'entité réglementée filiale de la compagnie financière holding mixte relevant du
+secteur bancaire et des services d'investissement. Lorsque celle-ci comprend plusieurs filiales qui sont des entités
+réglementées, le plafond de l'amende est déterminé par référence au capital de l'entité réglementée relevant de ce secteur
+qui est astreinte au capital minimum le plus élevé ;
+
+3° La commission bancaire peut décider que les sanctions prises dans le cadre du présent article feront l'objet d'une
+publication aux frais de la personne morale sanctionnée dans les journaux ou publications que la commission désigne.
+
+La commission bancaire informe de ces constatations les autorités compétentes sectorielles des entités réglementées du
+conglomérat financier.
+
+III. - Les autorités compétentes sectorielles, y compris la commission bancaire, peuvent faire usage, aux fins de la
+surveillance complémentaire, des pouvoirs de sanctions dont elles disposent au titre de la surveillance sectorielle à l'égard
+des entités réglementées soumises à leur contrôle.
+
+IV. - Lorsque le coordonnateur est une autorité compétente d'un autre Etat membre ou partie à l'accord sur l'Espace
+économique européen, il peut prononcer à l'encontre d'une compagnie financière holding mixte ayant son siège en France les
+sanctions prévues au présent article ou prendre les mesures prévues par son droit national.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 3
+	  - Code des assurances - art. R334-51 (Ab)
+	  - Code monétaire et financier - art. R613-8 (Ab)
+	  - Code monétaire et financier - art. R631-2 (T)
+	  - Code monétaire et financier - art. R633-2 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L517-8 (V)
+	  - Code monétaire et financier - art. L517-9 (M)
+	  - Code monétaire et financier - art. L613-21 (M)
+
+
+###### Article L633-13
+
+Lorsqu'une entité réglementée utilise son appartenance à un conglomérat financier pour se soustraire, totalement ou
+partiellement, à l'application des règles sectorielles dont elle relève, la commission bancaire peut faire usage des pouvoirs
+prévus aux sections IV et V du chapitre III du titre Ier du livre VI.
+
+Lorsque l'entité réglementée mentionnée à l'alinéa précédent est une entreprise d'investissement, l'Autorité des marchés
+financiers peut faire usage, sous réserve des compétences de la commission bancaire, des pouvoirs prévus aux sous-sections 3,
+4 et 5 de la section IV du chapitre unique du titre II du livre VI.
+
+**Nota:**
+
+Nota : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R631-2 (T)
+	  - Code monétaire et financier - art. R633-2 (M)
+
+
+##### Section 7 : Entreprises mères ayant leur siège en dehors de l'Espace économique européen
+
+###### Article L633-14
+
+Lorsque des entités réglementées appartenant à un groupe exerçant des activités à la fois dans le secteur de la banque et des
+services d'investissement et dans le secteur de l'assurance ont pour entreprise mère une société dont le siège social se
+situe dans un Etat non membre ni partie à l'accord sur l'Espace économique européen, la commission bancaire, lorsqu'elle
+remplit les conditions fixées par l'article L. 334-9 pour être coordonnateur, vérifie, de sa propre initiative ou à la
+demande de l'entreprise mère ou d'une entité réglementée agréée dans un Etat membre ou un autre Etat partie à l'accord sur
+l'Espace économique européen, que ces entités réglementées sont soumises, par une autorité compétente du pays tiers, à une
+surveillance complémentaire équivalente à celle prévue à la présente sous-section. Cette autorité consulte les autorités
+compétentes concernées.
+
+En l'absence d'une surveillance complémentaire équivalente, les autorités compétentes concernées désignent un coordonnateur
+et appliquent par analogie à ces entités réglementées les dispositions relatives à la surveillance complémentaire.
+
+Afin d'assurer la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier dont
+l'entreprise mère a son siège social dans un Etat qui n'est pas partie à l'accord sur l'Espace économique européen, les
+autorités compétentes concernées peuvent également appliquer d'autres méthodes qu'elles jugent appropriées. Ces méthodes
+doivent avoir été validées par la commission bancaire, lorsqu'elle remplit les conditions fixées par l'article L. 334-9 pour
+être coordonnateur, après consultation des autres autorités compétentes concernées. Les autorités compétentes concernées
+peuvent notamment exiger la constitution d'une compagnie financière holding mixte ayant son siège social dans un Etat membre
+ou dans un autre Etat partie à l'accord sur l'Espace économique européen et appliquer les dispositions relatives à la
+surveillance complémentaire aux entités réglementées du conglomérat financier coiffées par cette compagnie financière holding
+mixte. Les méthodes mentionnées au présent alinéa sont notifiées aux autorités compétentes concernées et à la commission
+européenne.
+
+**Nota:**
+
+NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
+la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+
+	**Cité par**:
+
+	  - Code des assurances - art. L334-7 (Ab)
+	  - Code monétaire et financier - art. L517-7 (V)
+	  - Code monétaire et financier - art. R631-3 (T)
+	  - Code monétaire et financier - art. R633-3 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier L334-9
 
 
 ### Titre IV : Dispositions pénales
