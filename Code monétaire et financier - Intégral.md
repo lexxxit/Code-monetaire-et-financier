@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-10-01
+Version Consolidée au 2004-10-22
 
 # Partie législative
 
@@ -36765,7 +36765,9 @@ constituer partie civile à tous les stades de la procédure pénale.
 	  - Code monétaire et financier L571-3 à L571-11, L571-14 à L571-16
 
 
-##### Section 6 : Mesures disciplinaires de redressement et de liquidation judiciaires.
+##### Section 6 : Dispositions relatives au traitement des établissements de crédit et des entreprises d'investissement en difficulté
+
+##### Sous-section 1 : Mesures spécifiques au redressement et à la liquidation judiciaires des établissements de crédit et des entreprises d'investissement
 
 ###### Article L613-25
 
@@ -36776,18 +36778,18 @@ justifie, soit ordonnée la cession des actions détenues par un ou plusieurs di
 de cet établissement. Le prix de cession est fixé après expertise judiciaire. Il est procédé à l'évaluation des actions selon
 les méthodes pratiquées en cas de cession d'actifs selon les pondérations appropriées à chaque cas, en fonction de la valeur
 des actifs, des bénéfices réalisés, de l'existence de filiales et des perspectives d'activité et, pour les sociétés dont les
-titres sont admis aux négociations sur un marché réglementé, de la valeur boursière. L'action est introduite par voie
+titres sont admis aux négociations sur un marché réglementé, de la valeur boursière.L'action est introduite par voie
 d'assignation délivrée aux actionnaires concernés. Le tribunal de grande instance compétent est celui dans le ressort duquel
-se situe le siège de l'établissement de crédit.
+se situe le siège de l'établissement de crédit. 
 
 Dans les mêmes conditions, le tribunal de grande instance peut décider que le droit de vote attaché à des actions ou
 certificats de droit de vote détenus par un ou plusieurs dirigeants de droit ou de fait, rémunérés ou non, sera exercé, pour
-une durée qu'il fixe, par un mandataire de justice désigné à cet effet.
+une durée qu'il fixe, par un mandataire de justice désigné à cet effet. 
 
 Dans les mêmes conditions, le tribunal de grande instance peut également ordonner la cession de la totalité des actions de
 l'établissement, ou des actions et parts sociales qui n'ont pas été cédées en application des dispositions prévues au premier
 alinéa du présent article. Lorsque les actions sont admises aux négociations sur un marché réglementé, les modalités de la
-cession sont précisées par le règlement général du conseil des marchés financiers.
+cession sont précisées par le règlement général de l'Autorité des marchés financiers. 
 
 Le montant de l'indemnisation revenant aux détenteurs non identifiés est consigné.
 
@@ -36800,6 +36802,10 @@ Le montant de l'indemnisation revenant aux détenteurs non identifiés est consi
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
 
 	**Cité par**:
 
@@ -36836,6 +36842,10 @@ effectivement supérieur à l'actif diminué des provisions devant être constit
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
 	**Cite**:
 
 	  - Code de commerce. - art. L621-1 (M)
@@ -36864,6 +36874,10 @@ alinéas ci-dessus.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
 
 ###### Article L613-28
 
@@ -36880,6 +36894,10 @@ prévue au 1° du II de l'article L. 621-22 du code de commerce.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
 
 	**Cité par**:
 
@@ -36911,6 +36929,10 @@ l'article L. 622-5 du même code, à l'exclusion de l'inventaire des biens de l'
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
 
 	**Cite**:
 
@@ -36945,6 +36967,10 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
 	**Cite**:
 
 	  - Code de commerce. - art. L621-43 (M)
@@ -36972,10 +36998,374 @@ ouvertes avant le 29 juin 1999.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L431-6 (T)
 	  - Code monétaire et financier L613-25 à L613-30, L431-6
+
+
+##### Sous-section 2 : Mesures d'assainissement et de liquidation des établissements de crédit communautaires
+
+###### Article L613-31-1
+
+La présente sous-section s'applique aux mesures d'assainissement et aux procédures de liquidation des établissements de
+crédit et de leurs succursales établies sur le territoire d'un Etat membre de la Communauté européenne autre que celui du
+siège social. Sont assimilés aux Etats membres de la Communauté européenne les Etats parties à l'accord sur l'Espace
+économique européen.
+
+Elle s'applique également aux succursales d'un établissement de crédit ayant son siège hors de l'Espace économique européen,
+à la condition qu'il dispose de succursales établies dans au moins deux Etats membres.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-532 1999-06-25 art. 92 I
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
+	**Cité par**:
+
+	  - Décret n°2005-468 du 12 mai 2005 - art. 1 (Ab)
+	  - Code monétaire et financier - art. L746-3 (V)
+	  - Code monétaire et financier - art. L756-3 (V)
+	  - Code monétaire et financier - art. L766-3 (V)
+	  - Code monétaire et financier - art. R613-24 (V)
+
+
+###### Article L613-31-2
+
+I. - Les mesures d'assainissement mentionnées à la présente sous-section sont les mesures prises en France ou dans tout autre
+Etat membre par les autorités administratives ou judiciaires, destinées à préserver ou rétablir la situation financière d'un
+établissement de crédit et qui affectent les droits préexistants des tiers.
+
+Lorsqu'elles sont prises en France et qu'elles affectent ces droits, ces mesures sont :
+
+1° Les mesures mentionnées au 3° du I de l'article L. 613-21 ;
+
+2° La procédure de règlement amiable mentionnée au titre Ier du livre VI du code de commerce lorsque la suspension provisoire
+des poursuites a été prononcée ;
+
+3° La procédure de redressement judiciaire mentionnée au titre II du livre VI du code de commerce.
+
+II. - Les mesures de liquidation mentionnées à la présente sous-section sont les procédures collectives ouvertes et
+contrôlées en France ou dans tout autre Etat membre par les autorités administratives ou judiciaires, destinées à réaliser le
+patrimoine sous la surveillance de ces autorités.
+
+Lorsqu'elles sont prises en France, ces mesures sont celles qui font l'objet du chapitre II du titre II du livre VI du code
+de commerce.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-532 1999-06-25 art. 92 I
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-21 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L613-31-5 (M)
+	  - Code monétaire et financier - art. L613-34-4 (V)
+	  - Code monétaire et financier - art. R613-35 (VD)
+
+
+###### Article L613-31-3
+
+Sous réserve des dispositions des articles L. 613-31-5 et L. 613-31-6 :
+
+1° Les mesures d'assainissement et de liquidation décidées par les autorités compétentes d'un Etat membre autre que la France
+à l'égard d'un établissement de crédit ayant son siège sur le territoire de cet Etat produisent tous leurs effets en France
+métropolitaine et dans les départements d'outre-mer sans aucune autre formalité, y compris à l'égard des tiers, dès qu'elles
+produisent leurs effets dans cet Etat. Il en va de même lorsque ces mesures sont prises à l'égard d'une succursale d'un
+établissement de crédit ayant son siège social hors de l'Espace économique européen ;
+
+2° Lorsqu'elles sont prises par l'autorité publique française compétente à l'égard d'un établissement de crédit agréé en
+France ou d'une succursale en France d'un établissement ayant son siège social hors de l'Espace économique européen, ces
+mesures produisent tous leurs effets sur le territoire des autres Etats membres, y compris à l'égard des tiers situés dans
+d'autres Etats membres.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-532 1999-06-25 art. 92 I
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L613-31-10 (M)
+	  - Code monétaire et financier - art. L613-31-5 (V)
+	  - Code monétaire et financier - art. L613-31-6 (V)
+	  - Code monétaire et financier - art. L613-31-7 (V)
+
+
+###### Article L613-31-4
+
+L'ouverture d'une procédure de liquidation judiciaire à l'encontre d'un établissement de crédit entraîne sa radiation de la
+liste des établissements de crédit.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-532 1999-06-25 art. 92 I
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
+	**Cité par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 27 (V)
+
+
+###### Article L613-31-5
+
+Par dérogation aux dispositions de l'article L. 613-31-3, les effets d'une mesure d'assainissement ou d'une procédure de
+liquidation définies à l'article L. 613-31-2 sur les contrats, droits et instances énumérés ci-après sont déterminés par les
+règles suivantes :
+
+1° Les contrats de travail et les relations de travail sont exclusivement régis par la loi de l'Etat membre applicable à ce
+contrat ou à cette relation ;
+
+2° Les contrats donnant le droit de jouir d'un bien immobilier ou de l'acquérir sont exclusivement régis par la loi de l'Etat
+membre sur le territoire duquel ce bien est situé. Cette loi détermine également si ce bien est meuble ou immeuble ;
+
+3° Les droits sur un bien immobilier, un navire ou un aéronef qui sont soumis à inscription sur un registre public sont
+exclusivement régis par la loi de l'Etat membre sous l'autorité duquel ce registre est tenu ;
+
+4° Les conventions de compensation, celles portant cession temporaire d'instruments financiers et celles régissant les
+transactions effectuées dans le cadre d'un marché réglementé demeurent exclusivement régies par la loi applicable à ces
+conventions ;
+
+5° Les droits sur des instruments financiers supposant l'inscription dans un registre, sur un compte ou auprès d'un système
+de dépôt centralisé détenus ou situés dans un Etat membre sont exclusivement régis par la loi de cet Etat membre ;
+
+6° Les instances en cours à la date de la mesure d'assainissement ou de l'ouverture de la procédure de liquidation concernant
+un bien ou un droit dont l'établissement de crédit est dessaisi sont exclusivement régies par la loi de l'Etat membre sur le
+territoire duquel l'instance se déroule.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-532 1999-06-25 art. 92 I
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-31-2 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L613-31-3 (V)
+
+
+###### Article L613-31-6
+
+I. - Par dérogation aux dispositions de l'article L. 613-31-3, la décision d'adopter une mesure d'assainissement ou d'ouvrir
+une procédure de liquidation n'affecte pas :
+
+1° Les droits réels, au sens du droit applicable, d'un créancier ou d'un tiers sur des biens corporels ou incorporels,
+meubles ou immeubles, appartenant à l'établissement de crédit et qui se trouvent sur le territoire d'un autre Etat membre à
+la date de la décision ;
+
+2° Les droits du vendeur fondés sur une réserve de propriété, lorsque ce bien se trouvait sur le territoire d'un autre Etat
+membre à la date de la décision ;
+
+3° Le droit de l'acheteur d'acquérir un bien vendu par l'établissement de crédit, lorsque ce bien se trouvait sur le
+territoire d'un autre Etat membre à la date de la décision et une fois la livraison effectuée ;
+
+4° Le droit d'un créancier d'invoquer la compensation de sa créance avec celle de l'établissement de crédit, lorsque la loi
+applicable à la créance de l'établissement de crédit le permet.
+
+II. - Les dispositions qui précèdent ne font pas obstacle aux actions en nullité, en annulation ou en inopposabilité des
+actes préjudiciables à l'ensemble des créanciers, prévues par la loi de l'Etat membre sur le territoire duquel se trouve le
+siège de l'établissement de crédit.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-532 1999-06-25 art. 92 I
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L613-31-3 (V)
+	  - Code monétaire et financier - art. L613-31-7 (M)
+
+
+###### Article L613-31-7
+
+Par dérogation aux dispositions de l'article L. 613-31-3 et du II de l'article L. 613-31-6, les dispositions de la loi de
+l'Etat membre dans lequel la procédure de liquidation a été ouverte à l'égard d'un établissement de crédit communautaire
+relatives à la nullité, à l'annulation ou à l'inopposabilité des actes préjudiciables à l'ensemble des créanciers ne sont pas
+applicables si le bénéficiaire d'un tel acte apporte la preuve que ce dernier est soumis à la loi d'un autre Etat membre et
+que cette loi ne permet par aucun moyen d'attaquer cet acte dans l'affaire en cause.
+
+S'agissant des mesures d'assainissement, la règle prévue à l'alinéa précédent ne s'applique qu'aux actes préjudiciables aux
+créanciers réalisés avant l'adoption d'une telle mesure.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-532 1999-06-25 art. 92 I
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-31-3 (V)
+	  - Code monétaire et financier - art. L613-31-6 (V)
+
+
+###### Article L613-31-8
+
+Lorsque, par un acte conclu après l'adoption d'une mesure d'assainissement ou l'ouverture d'une procédure de liquidation,
+l'établissement de crédit aliène à titre onéreux :
+
+1° Un bien immobilier ;
+
+2° Un navire ou un aéronef soumis à inscription dans un registre public ;
+
+3° Des instruments ou des droits sur de tels instruments dont l'existence ou le transfert suppose une inscription dans un
+registre, un compte ou auprès d'un système de dépôts centralisés tenus ou situés dans un Etat membre.
+
+La validité de cet acte est régie par la loi de l'Etat membre sur le territoire duquel ce bien immobilier est situé ou sous
+l'autorité duquel ce registre, ce compte ou ce système de dépôts est tenu.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-532 1999-06-25 art. 92 I
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
+
+###### Article L613-31-9
+
+L'administrateur ou liquidateur désigné par l'autorité compétente d'un autre Etat membre est habilité à exercer en France
+métropolitaine et dans les départements d'outre-mer tous les pouvoirs qu'il est habilité à exercer sur le territoire de cet
+Etat.
+
+Dans l'exercice de ces pouvoirs, l'administrateur ou le liquidateur respecte la loi française, en particulier pour ce qui
+concerne les modalités de réalisation des biens ou l'information des salariés. Ces pouvoirs ne peuvent pas inclure des
+mesures d'exécution nécessitant l'emploi de la force ou le droit de statuer sur un litige ou un différend.
+
+L'administrateur ou le liquidateur peuvent désigner des personnes chargées de les assister ou de les représenter, notamment
+dans les Etats membres sur lesquels sont établies les succursales de l'établissement de crédit.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-532 1999-06-25 art. 92 I
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
+
+###### Article L613-31-10
+
+Un décret en Conseil d'Etat fixe, en tant que de besoin, les modalités d'application de la présente sous-section et notamment
+celles relatives à la publicité à l'étranger des mesures mentionnées à l'article L. 613-31-3, ainsi que les informations
+adressées aux créanciers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-532 1999-06-25 art. 92 I
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-31-3 (V)
 
 
 ##### Section 7 : Régime de contrôle spécifique.
@@ -40958,8 +41348,8 @@ applicables dans la collectivité territoriale de Saint-Pierre-et-Miquelon.
 
 ###### Article L726-2
 
-Les articles L. 613-12 à L. 613-14 et L. 613-33 ne sont pas applicables dans la collectivité territoriale de Saint-Pierre-et-
-Miquelon.
+Les articles L. 613-12 à L. 613-14, L. 613-31-1 à L. 613-31-10 et L. 613-33 ne sont pas applicables dans la collectivité
+territoriale de Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -40972,10 +41362,14 @@ Miquelon.
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1127 2004-10-21 art. 2 1° JORF 22 octobre 2004
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L613-33 (M)
-	  - Code monétaire et financier L613-12 à L613-14, L613-33
+	  - Code monétaire et financier L613-12 à L613-14, L613-31-1 à L613-31-10, L613-33
 
 
 ##### Section 3 : L'Autorité des marchés financiers
@@ -42593,8 +42987,8 @@ L'article L. 641-1 s'y applique également.
 
 ###### Article L736-3
 
-Le chapitre III du titre Ier du livre VI est applicable à Mayotte à l'exception des articles L. 613-12 à L. 613-14 et L.
-613-33.
+Le chapitre III du titre Ier du livre VI est applicable à Mayotte à l'exception des articles L. 613-12 à L. 613-14, L.
+613-31-1 à L. 613-31-10 et L. 613-33.
 
 L'article L. 641-2 s'y applique également.
 
@@ -42609,11 +43003,15 @@ L'article L. 641-2 s'y applique également.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1127 2004-10-21 art. 2 2° JORF 22 octobre 2004
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L613-33 (M)
 	  - Code monétaire et financier - art. L641-2 (V)
-	  - Code monétaire et financier L613-12 à L613-14, L613-33, L641-2
+	  - Code monétaire et financier L613-12 à L613-14, L613-31-1 à L613-31-10, L613-33, L641-2
 
 
 ##### Sous-section 4 : Le Conseil national du crédit et du titre
@@ -44459,9 +44857,13 @@ L'article L. 641-1 s'y applique également.
 ###### Article L746-3
 
 Le chapitre III du titre Ier du livre VI est applicable en Nouvelle-Calédonie à l'exception des articles L. 613-12 à L.
-613-14 et de l'article L. 614-33.
+613-14, L. 613-31-1 à L. 613-31-10 et L. 613-33.
 
 L'article L. 641-2 s'y applique également.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -44474,10 +44876,15 @@ L'article L. 641-2 s'y applique également.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1127 2004-10-21 art. 2 3° JORF 22 octobre 2004
+
 	**Cite**:
 
+	  - Code monétaire et financier - art. L613-33 (M)
 	  - Code monétaire et financier - art. L641-2 (V)
-	  - Code monétaire et financier L614-33, L641-2
+	  - Code monétaire et financier L613-12 à L613-14, L613-31-1 à L613-31-10, L613-33, L641-2
 
 
 ##### Sous-section 4 : Le Conseil national du crédit et du titre
@@ -46364,9 +46771,13 @@ L'article L. 641-1 s'y applique également.
 ###### Article L756-3
 
 Le chapitre III du titre Ier du livre VI est applicable en Polynésie française à l'exception des articles L. 613-12 à L.
-613-14 et L. 613-33.
+613-14, L. 613-31-1 à L. 613-31-10 et L. 613-33.
 
 L'article L. 641-2 s'y applique également.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -46379,11 +46790,15 @@ L'article L. 641-2 s'y applique également.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1127 2004-10-21 art. 2 4° JORF 22 octobre 2004
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L613-33 (M)
 	  - Code monétaire et financier - art. L641-2 (V)
-	  - Code monétaire et financier L613-12 à L613-14, L613-33, L641-2
+	  - Code monétaire et financier L613-12 à L613-14, L613-31-1 à L613-31-10, L613-33, L641-2
 
 
 ##### Sous-section 4 : Le Conseil national du crédit et du titre
@@ -47846,7 +48261,7 @@ L'article L. 641-1 s'y applique également.
 ###### Article L766-3
 
 Le chapitre III du titre Ier du livre VI est applicable dans le territoire des îles Wallis-et-Futuna à l'exception des
-articles L. 613-12 à L. 613-14 et de l'article L. 613-33.
+articles L. 613-12 à L. 613-14, L. 613-31-1 à L613-31-10 et L. 613-33.
 
 L'article L. 641-2 s'y applique également.
 
@@ -47860,6 +48275,10 @@ L'article L. 641-2 s'y applique également.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-1127 2004-10-21 art. 2 5° JORF 22 octobre 2004
 
 	**Cite**:
 
