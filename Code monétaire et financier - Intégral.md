@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2003-08-03
+Version Consolidée au 2003-08-05
 
 # Partie législative
 
@@ -9617,8 +9617,9 @@ constitué, pour 60 % au moins, de valeurs mobilières, parts de société à re
 telles que définies par le 1° et le a du 2° de l'article L. 214-36, émises par des sociétés ayant leur siège dans un Etat
 membre de la Communauté européenne, qui sont soumises à l'impôt sur les sociétés dans les conditions de droit commun ou en
 seraient passibles dans les mêmes conditions si l'activité était exercée en France, qui comptent moins de cinq cents
-salariés, dont le capital est détenu, majoritairement, par des personnes physiques ou par des personnes morales détenues par
-des personnes physiques et qui remplissent l'une des conditions suivantes ;
+salariés, dont le capital n'est pas détenu majoritairement, directement ou indirectement, par une ou plusieurs personnes
+morales ayant des liens de dépendance avec une autre personne morale au sens du III et qui remplissent l'une des conditions
+suivantes ;
 
 a) Avoir réalisé, au cours des trois exercices précédents, des dépenses cumulées de recherche visées aux a à f du II de
 l'article 244 quater B du code général des impôts, d'un montant au moins égal au tiers du chiffre d'affaires le plus élevé
@@ -9632,32 +9633,20 @@ décret.
 Les dispositions du 3°, du 4° et du 5° de l'article L. 214-36 s'appliquent dans les mêmes conditions aux fonds communs de
 placement dans l'innovation sous réserve du respect du quota d'investissement de 60 % qui leur est propre.
 
-II. - Pour l'appréciation de la détention majoritaire du capital des sociétés dans lesquelles les fonds communs de placement
-dans l'innovation investissent, il n'est pas tenu compte des participations des sociétés de capital-risque, des sociétés de
-développement régional et des sociétés financières d'innovation à la condition qu'il n'existe pas de lien de dépendance au
-sens du 1 bis de l'article 39 terdecies du code général des impôts avec ces dernières sociétés. De même, cette appréciation
-ne tient pas compte des participations des fonds communs de placement à risques, des fonds communs de placement dans
-l'innovation, des établissements à caractère scientifique et technologique régis par la loi du 15 juillet 1982 d'orientation
-et de programmation pour la recherche et le développement technologique de la France et des établissements publics à
-caractère scientifique, culturel et professionnel prévus par la loi n° 84-52 du 26 janvier 1984 sur l'enseignement supérieur.
-
-Les conditions relatives au nombre de salariés et à la reconnaissance, par un établissement public compétent en matière de
-valorisation de recherche ou à raison de leurs dépenses cumulées de recherche, du caractère innovant de sociétés dont les
+II. - Les conditions relatives au nombre de salariés et à la reconnaissance, par un établissement public compétent en matière
+de valorisation de recherche ou à raison de leurs dépenses cumulées de recherche, du caractère innovant de sociétés dont les
 titres figurent à l'actif d'un fonds commun de placement dans l'innovation s'apprécient lors de la première souscription ou
 acquisition de ces titres par ce fonds.
 
+III. - Pour l'appréciation, pour le I, des liens de dépendance existant entre deux sociétés, ces liens sont réputés exister :
+
+- lorsque l'une détient directement ou par personne interposée la majorité du capital social de l'autre ou y exerce de fait
+le pouvoir de décision ;
+
+- ou bien lorsqu'elles sont placées l'une et l'autre dans les conditions définies à l'alinéa précédent sous le contrôle d'une
+même tierce société.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°82-610 1982-07-15
-	  - Loi n°84-52 1984-01-26
-	  - CGI 244 quater B, 39 terdecies
-	  - Code monétaire et financier - art. L214-36 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 22-1 (Ab)
 
 	**Cité par**:
 
@@ -9666,13 +9655,13 @@ acquisition de ces titres par ce fonds.
 	  - Arrêté du 12 novembre 2004 - art. 412-118 (Ab)
 	  - Arrêté du 12 novembre 2004 - art. 412-127 (Ab)
 	  - Arrêté du 12 novembre 2004 - art. 414-1 (V)
+	  - Arrêté du 26 février 2009 - art. 1 (V)
 	  - Loi n°2005-842 du 26 juillet 2005 - art. 21 (V)
 	  - Loi n°2005-1720 du 30 décembre 2005 - art. 32 (V)
 	  - Décret n°2007-243 du 23 février 2007 - art. 4 (V)
 	  - Loi n°2008-776 du 4 août 2008 - art. 26
 	  - Décret n°2009-193 du 18 février 2009 (V)
 	  - Décret n°2009-193 du 18 février 2009 - art. 3 (V)
-	  - Arrêté du 26 février 2009 - art. 1 (V)
 	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 AI quater (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 125-0 A (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 242 quinquies (V)
@@ -9713,13 +9702,134 @@ acquisition de ces titres par ce fonds.
 	  - Code monétaire et financier - art. R214-77 (V)
 	  - Code monétaire et financier - art. R214-80 (Ab)
 
+	**Cite**:
+
+	  - CGI 244 quater B
+	  - Code monétaire et financier - art. L214-36 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°88-1201 du 23 décembre 1988 - art. 22-1 (Ab)
+
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Modifié par**:
 
-	  - Loi - art. 78 (V) JORF 29 décembre 2001
+	  - Loi n°2003-721 du 1 août 2003 - art. 28 () JORF 5 août 2003
+
+
+##### Sous-section 9-1 : Fonds d'investissement de proximité.
+
+###### Article L214-41-1
+
+1. Les fonds d'investissement de proximité sont des fonds communs de placement à risques dont l'actif est constitué, pour 60
+% au moins, de valeurs mobilières, parts de société à responsabilité limitée et avances en compte courant, dont au moins 10 %
+dans des nouvelles entreprises exerçant leur activité ou juridiquement constituées depuis moins de cinq ans, telles que
+définies par le 1 et le a du 2 de l'article L. 214-36, émises par des sociétés ayant leur siège dans un Etat membre de la
+Communauté européenne qui sont soumises à l'impôt sur les sociétés dans les conditions de droit commun ou en seraient
+passibles dans les mêmes conditions si l'activité était exercée en France, et qui remplissent les conditions suivantes :
+
+a) Exercer leurs activités principalement dans des établissements situés dans la zone géographique choisie par le fonds et
+limitée à une région ou deux ou trois régions limitrophes, ou, lorsque cette condition ne trouve pas à s'appliquer, y avoir
+établi leur siège social. Le fonds peut également choisir une zone géographique constituée d'un ou de plusieurs départements
+d'outre mer ;
+
+b) Répondre à la définition des petites et moyennes entreprises figurant à l'annexe I au règlement (CE) n° 70/2001 de la
+Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en faveur des
+petites et moyennes entreprises ;
+
+c) Ne pas avoir pour objet la détention de participations financières, sauf à détenir exclusivement des titres donnant accès
+au capital de sociétés dont l'objet n'est pas la détention de participations financières et qui répondent aux conditions
+d'éligibilité du premier alinéa, du a et du b.
+
+Les conditions fixées au a et au b s'apprécient à la date à laquelle le fonds réalise ses investissements.
+
+Sont également prises en compte dans le calcul du quota d'investissement de 60 % les parts de fonds commun de placement à
+risques mentionnés à l'article L. 214-36 et les actions de sociétés de capital-risque régies par l'article 1er-1 de la loi n°
+85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier à concurrence du pourcentage
+d'investissement direct de l'actif de la structure concernée dans les sociétés qui répondent aux dispositions du premier
+alinéa, du a et du b, à l'exclusion des sociétés ayant pour objet la détention de participations financières.
+
+Toutefois, un fonds d'investissement de proximité ne peut investir plus de 10 % de son actif dans des parts de fonds communs
+de placement à risques et des actions de sociétés de capital-risque.
+
+Sont également prises en compte dans le calcul du quota de 60 % les participations versées à des sociétés de caution mutuelle
+ou à des organismes de garantie intervenant dans la zone géographique choisie par le fonds.
+
+2. Les dispositions du 3, du 4 et du 5 de l'article L. 214-36 s'appliquent aux fonds d'investissement de proximité sous
+réserve du respect du quota de 60 % et des conditions d'éligibilité tels que définis au 1 du présent article. Toutefois, par
+dérogation aux dispositions du 5 du même article, les fonds d'investissement de proximité créés jusqu'au 31 décembre 2004
+doivent respecter leur quota d'investissement de 60 % au plus tard lors de l'inventaire de clôture du deuxième exercice
+suivant celui de leur constitution.
+
+3. Les parts d'un fonds d'investissement de proximité ne peuvent pas être détenues :
+
+a) A plus de 20 % par un même investisseur ;
+
+b) A plus de 10 % par un même investisseur personne morale de droit public ;
+
+c) A plus de 30 % par des personnes morales de droit public prises ensemble.
+
+4. Les fonds d'investissements de proximité ne peuvent pas bénéficier des dispositions des articles L. 214-33 et L. 214-37.
+
+5. Un décret en Conseil d'Etat fixe les modalités d'application du quota prévu au 1 dans le cas où le fonds procède à des
+appels complémentaires de capitaux ou à des souscriptions nouvelles. Il fixe également les règles d'appréciation du quota,
+les critères retenus pour déterminer si une entreprise exerce son activité principalement dans la zone géographique choisie
+par le fonds ainsi que les règles spécifiques relatives aux cessions et aux limites de la détention des actifs.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
+	  - Code monétaire et financier - art. L214-33 (M)
+	  - Code monétaire et financier - art. L214-36 (M)
+	  - Code monétaire et financier - art. L214-37 (M)
+	  - Règlement 70-2001 CE 2001-01-12 (Commission) Annexe I
+
+	**Cité par**:
+
+	  - Décret n°89-623 du 6 septembre 1989 - art. 10-5 (Ab)
+	  - Décret n°89-623 du 6 septembre 1989 - art. 10-6 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 414-1 (V)
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 32 (V)
+	  - Décret n°2007-243 du 23 février 2007 - art. 4 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1763 C (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 885 I ter (V)
+	  - Code de commerce. - art. L239-1 (V)
+	  - Code de la mutualité - art. R212-31 (V)
+	  - Code de la sécurité sociale. - art. R931-10-21 (V)
+	  - Code des assurances - art. R332-2 (V)
+	  - Code général des collectivités territoriales - art. L4211-1 (V)
+	  - Code général des impôts, CGI. - art. 125-0 A (VD)
+	  - Code général des impôts, CGI. - art. 199 terdecies-0 A (M)
+	  - Code général des impôts, CGI. - art. 239 bis AB  (V)
+	  - Code général des impôts, CGI. - art. 885-0 V bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 299 octies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AI quinquies (V)
+	  - Code monétaire et financier - art. L752-6 (M)
+	  - Code monétaire et financier - art. R214-39 (V)
+	  - Code monétaire et financier - art. R214-42 (V)
+	  - Code monétaire et financier - art. R214-5 (Ab)
+	  - Code monétaire et financier - art. R214-60 (Ab)
+	  - Code monétaire et financier - art. R214-64 (V)
+	  - Code monétaire et financier - art. R214-75 (V)
+	  - Code monétaire et financier - art. R214-76 (V)
+	  - Code monétaire et financier - art. R214-80 (Ab)
+	  - Code monétaire et financier - art. R214-81 (Ab)
+	  - Code monétaire et financier - art. R214-82 (V)
+	  - Code monétaire et financier - art. R214-87 (V)
+	  - Code monétaire et financier - art. R214-88 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 26 () JORF 5 août 2003
 
 
 ##### Sous-section 10 : Fonds communs d'intervention sur les marchés à terme.
@@ -12288,16 +12398,19 @@ l'habitation principale.
 Les titulaires d'un compte d'épargne-logement qui n'affectent pas cette épargne au financement de logements destinés à
 l'habitation principale dans les conditions du premier alinéa peuvent l'affecter au financement de logements ayant une autre
 destination dans les conditions fixées par un décret en Conseil d'Etat qui détermine notamment les destinations autorisées.
-Ces destinations sont exclusives, à l'exception des résidences de tourisme, de tout usage commercial ou professionnel."
+Ces destinations sont exclusives, à l'exception des résidences de tourisme, de tout usage commercial ou professionnel.
 
-"Art. L. 315-2. - Les prêts d'épargne-logement concernant les logements destinés à l'habitation principale sont accordés pour
-le financement des dépenses de construction, d'acquisition, d'extension ou de certaines dépenses de réparation et
-d'amélioration.
+Les dispositions précédentes ne font pas obstacle à l'affectation de l'épargne-logement au financement d'un local destiné à
+un usage commercial ou professionnel, dès lors qu'il comporte également l'habitation principale du bénéficiaire."
+
+"Art. L. 315-2. - Les prêts d'épargne-logement concernant les logements destinés à l'habitation principale et les locaux
+visés au troisième alinéa de l'article L. 315-1 sont accordés pour le financement des dépenses de construction,
+d'acquisition, d'extension ou de certaines dépenses de réparation et d'amélioration.
 
 Les prêts d'épargne-logement concernant les logements ayant une autre destination sont accordés pour le financement des
 dépenses de construction, d'extension ou de certaines dépenses de réparation et d'amélioration.
 
-Les prêts d'épargne-logment accordés entre le 1er janvier 1996 et le 31 décembre 1996 peuvent être affectés au financement
+Les prêts d'épargne-logement accordés entre le 1er janvier 1996 et le 31 décembre 1996 peuvent être affectés au financement
 des dépenses d'acquisition de logements visés à l'alinéa précédent."
 
 "Art. L. 315-3. - Les dépôts d'épargne-logement sont reçus par la caisse nationale d'épargne et les caisses d'épargne
@@ -12309,6 +12422,10 @@ règles fixées pour le fonctionnement de l'épargne-logement."
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 31 () JORF 5 août 2003
 
 	**Cité par**:
 
@@ -14560,29 +14677,38 @@ décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvie
 
 ###### Article L313-4
 
-Les règles relatives à la détermination du taux effectif global des crédits sont fixées par l'article L. 313-1 du code de la
-consommation, ci-après reproduit :
+Les règles relatives au taux effectif global des crédits sont fixées par les articles L. 313-1 et L. 313-2 du code de la
+consommation ci-après reproduits : 
 
-" Art. L. 313-1. - Dans tous les cas, pour la détermination du taux effectif global du prêt, comme pour celle du taux
-effectif pris comme référence, sont ajoutés aux intérêts les frais, commissions ou rémunérations de toute nature, directs ou
+" Art.L. 313-1-Dans tous les cas, pour la détermination du taux effectif global du prêt, comme pour celle du taux effectif
+pris comme référence, sont ajoutés aux intérêts les frais, commissions ou rémunérations de toute nature, directs ou
 indirects, y compris ceux qui sont payés ou dus à des intermédiaires intervenus de quelque manière que ce soit dans l'octroi
-du prêt, même si ces frais, commissions ou rémunérations correspondent à des débours réels.
+du prêt, même si ces frais, commissions ou rémunérations correspondent à des débours réels. 
 
 Toutefois, pour l'application des articles L. 312-4 à L. 312-8, les charges liées aux garanties dont les crédits sont
 éventuellement assortis ainsi que les honoraires d'officiers ministériels ne sont pas compris dans le taux effectif global
 défini ci-dessus, lorsque leur montant ne peut être indiqué avec précision antérieurement à la conclusion définitive du
-contrat.
+contrat. 
 
 En outre, pour les prêts qui font l'objet d'un amortissement échelonné, le taux effectif global doit être calculé en tenant
-compte des modalités de l'amortissement de la créance.
+compte des modalités de l'amortissement de la créance. 
 
-Un décret en Conseil d'Etat déterminera les conditions d'application du présent article. "
+Un décret en Conseil d'Etat déterminera les conditions d'application du présent article. " 
+
+" Art.L. 313-2-Le taux effectif global déterminé comme il est dit à l'article L. 313-1 doit être mentionné dans tout écrit
+constatant un contrat de prêt régi par la présente section. 
+
+Toute infraction aux dispositions du présent article sera punie d'une amende de 4 500 euros.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 32 () JORF 5 août 2003
 
 	**Cité par**:
 
@@ -14593,6 +14719,15 @@ Un décret en Conseil d'Etat déterminera les conditions d'application du prése
 
 	  - Code de la consommation - art. L313-1 (M)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L313-1 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L313-2 (V)
+
+	**Cite**:
+
+	  - Code de la consommation L313-1, L313-2, L312-4 à L312-8
+
 
 ##### Paragraphe 3 : Taux de l'usure
 
@@ -14600,16 +14735,20 @@ Un décret en Conseil d'Etat déterminera les conditions d'application du prése
 
 La définition du taux de l'usure est fixée par l'article L. 313-3 du code de la consommation, ci-après reproduit :
 
-Art. L. 313-3. - Constitue un prêt usuraire tout prêt conventionnel consenti à un taux effectif global qui excède, au moment
-où il est consenti, de plus du tiers, le taux effectif moyen pratiqué au cours du trimestre précédent par les établissements
-de crédit pour des opérations de même nature comportant des risques analogues, telles que définies par l'autorité
-administrative après avis du Comité consultatif du secteur financier.
+" Art. L. 313-3. - Constitue un prêt usuraire tout prêt conventionnel consenti à un taux effectif global qui excède, au
+moment où il est consenti, de plus du tiers, le taux effectif moyen pratiqué au cours du trimestre précédent par les
+établissements de crédit pour des opérations de même nature comportant des risques analogues, telles que définies par
+l'autorité administrative après avis du Comité consultatif su secteur financier.
 
 Les crédits accordés à l'occasion de ventes à tempérament sont, pour l'application de la présente section, assimilés à des
 prêts conventionnels et considérés comme usuraires dans les mêmes conditions que les prêts d'argent ayant le même objet.
 
 Les conditions de calcul et de publicité des taux effectifs moyens visés au premier alinéa sont fixées par la voie
 réglementaire.
+
+Les dispositions du présent article et celles des articles L. 313-4 à L. 313-6 ne sont pas applicables aux prêts accordés à
+une personne morale se livrant à une activité industrielle, commerciale, artisanale, agricole ou professionnelle non
+commerciale. "
 
 **Liens relatifs à cet article**
 
@@ -14619,7 +14758,7 @@ réglementaire.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 aôut 2003
+	  - Loi n°2003-721 du 1 août 2003 - art. 32 () JORF 5 août 2003
 
 	**Cité par**:
 
@@ -14627,13 +14766,78 @@ réglementaire.
 	  - Décret n°2014-444 du 29 avril 2014 - art. 6 (V)
 	  - Arrêté du 22 juillet 2015 - art. 4 (V)
 
+	**Cite**:
+
+	  - Code de la consommation - art. L313-3 (M)
+	  - Code monétaire et financier L313-4 à L313-6
+
 	**Anciens textes**:
 
 	  - Code de la consommation - art. L313-3 (M)
 
+
+###### Article L313-5-1
+
+Pour les découverts en compte, constitue un prêt usuraire à une personne morale se livrant à une activité industrielle,
+commerciale, artisanale, agricole ou professionnelle non commerciale tout prêt conventionnel consenti à un taux effectif
+global qui excède, au moment où il est accordé, de plus du tiers, le taux effectif moyen pratiqué au cours du trimestre
+précédent par les établissements de crédit pour les opérations de même nature comportant des risques analogues telles que
+définies par l'autorité administrative après avis du Conseil national du crédit et du titre.
+
+Les conditions de calcul et de publicité des taux effectifs moyens mentionnés au premier alinéa sont fixées par décret.
+
+**Nota:**
+
+NOTA : Loi n° 2003-706 du 1er août 2003 art. 46 V : Les références au Conseil national du crédit et du titre et au comité
+consultatif sont remplacées par la référence au Comité consultatif du secteur financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 32 () JORF 5 août 2003
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V)
+	  - Arrêté du 22 mars 2011 (V)
+	  - Arrêté du 16 juin 2016 (V)
+	  - Arrêté du 26 septembre 2016 (V)
+	  - Code monétaire et financier - art. D548-1 (V)
+	  - Code monétaire et financier - art. L313-5-2 (V)
+
+
+###### Article L313-5-2
+
+Lorsqu'un prêt conventionnel est usuraire, les perceptions excessives au regard des articles L. 313-4 et L. 313-5-1 sont
+imputées de plein droit sur les intérêts normaux et subsidiairement sur le capital de la créance. 
+
+Si la créance est éteinte en capital et intérêts, les sommes indûment perçues doivent être restituées avec intérêts légaux du
+jour où elles auront été payées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 32 () JORF 5 août 2003
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V)
+	  - Arrêté du 26 septembre 2016 (V)
+
 	**Cite**:
 
-	  - Code de la consommation - art. L313-3 (M)
+	  - Code monétaire et financier - art. L313-4 (V)
+	  - Code monétaire et financier - art. L313-5-1 (V)
 
 
 ##### Sous-section 3 : Fichier des incidents de paiement caractérisés
@@ -14906,7 +15110,10 @@ prescrivent par cinq ans, sauf renouvellement.
 
 Tout concours à durée indéterminée, autre qu'occasionnel, qu'un établissement de crédit consent à une entreprise, ne peut
 être réduit ou interrompu que sur notification écrite et à l'expiration d'un délai de préavis fixé lors de l'octroi du
-concours.
+concours. Ce délai ne peut, sous peine de nullité de la rupture du concours, être inférieur à une durée fixée, par catégorie
+de crédits et en fonction des usages bancaires, par un décret pris après avis de la Commission bancaire. L'établissement de
+crédit ne peut être tenu pour responsable des préjudices financiers éventuellement subis par d'autres créanciers du fait du
+maintien de son engagement durant ce délai.
 
 L'établissement de crédit n'est pas tenu de respecter un délai de préavis, que l'ouverture de crédit soit à durée
 indéterminée ou déterminée, en cas de comportement gravement répréhensible du bénéficiaire du crédit ou au cas où la
@@ -14924,6 +15131,10 @@ Le non-respect de ces dispositions peut entraîner la responsabilité pécuniair
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 24 () JORF 5 août 2003
 
 	**Cité par**:
 
