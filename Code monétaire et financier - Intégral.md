@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2001-07-18
+Version Consolidée au 2001-08-31
 
 # Partie législative
 
@@ -37964,6 +37964,283 @@ Conseil d'Etat.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+
+#### Chapitre Ier bis : Dispositions relatives à l'introduction de l'euro à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon
+
+##### Section 1 : L'euro
+
+##### Sous-section 1 : L'unité monétaire
+
+###### Article L711-13
+
+La monnaie à Mayotte et à Saint-Pierre-et-Miquelon est l'euro.
+
+Un euro est divisé en cent centimes.
+
+Jusqu'au 31 décembre 2001, le franc ainsi que les unités monétaires nationales des autres Etats membres de la Communauté
+européenne participant à la monnaie unique sont des subdivisions de l'euro ; les taux de conversion entre l'euro et les
+unités monétaires nationales sont irrévocablement fixés par le règlement (CE) n° 2866/98 du 31 décembre 1998 du Conseil de
+l'Union européenne concernant les taux de conversion entre l'euro et les monnaies des Etats membres adoptant l'euro, modifié
+par le règlement (CE) n° 1478/2000 du 19 juin 2000 du Conseil de l'Union européenne.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CEE Réglement 1478/2000 2000-06-19 Conseil
+	  - CEE Réglement 2866/98 1998-12-31 Conseil
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 13 () JORF 31 août 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 88 () JORF 7 mai 2005
+
+
+##### Sous-section 2 : Conversion à l'euro et règles d'arrondissement
+
+###### Article L711-14
+
+I. - Les taux de conversion ne peuvent pas être arrondis ou tronqués lors des conversions.
+
+II. - Les taux de conversion sont utilisés pour les conversions entre l'euro et les unités monétaires nationales et vice
+versa. Il est interdit d'utiliser des taux inverses calculés à partir des taux de conversion.
+
+III. - Toute somme d'argent à convertir d'une unité monétaire nationale dans une autre doit d'abord être convertie dans un
+montant en euros ; ce montant, qui ne peut être arrondi à moins de trois décimales, est ensuite converti dans l'autre unité
+monétaire nationale. Aucune autre méthode de calcul ne peut être utilisée, sauf si elle produit les mêmes résultats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 13 () JORF 31 août 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 88 () JORF 7 mai 2005
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L711-15 (Ab)
+	  - Code monétaire et financier - art. L711-16 (Ab)
+	  - Code monétaire et financier - art. L711-19 (Ab)
+
+
+###### Article L711-15
+
+Les sommes d'argent à payer ou à comptabiliser, lorsqu'il y a lieu de les arrondir après conversion en euros conformément à
+l'article L. 711-14, sont arrondies au centime supérieur ou inférieur le plus proche. Les sommes d'argent à payer ou à
+comptabiliser qui sont converties dans une unité monétaire nationale sont arrondies à la subdivision supérieure ou inférieure
+la plus proche ou, à défaut de subdivision, à l'unité la plus proche ou, selon les lois ou pratiques nationales, à un
+multiple ou à une fraction de la subdivision ou de l'unité monétaire nationale. Si l'application du taux de conversion donne
+un résultat qui se situe exactement au milieu, la somme est arrondie au chiffre supérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 13 () JORF 31 août 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 88 () JORF 7 mai 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L711-14 (Ab)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L711-16 (VD)
+	  - Code monétaire et financier - art. L711-19 (Ab)
+
+
+###### Article L711-16
+
+Lorsque le montant d'une créance ou d'une dette donne lieu à une conversion du franc à l'euro, puis de l'euro au franc, faite
+conformément aux règles de conversion et d'arrondissement prévues par les articles L. 711-14 et L. 711-15, aucune
+contestation relative à l'écart pouvant résulter de cette double conversion ne peut être accueillie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 13 () JORF 31 août 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 88 () JORF 7 mai 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L711-14 (Ab)
+	  - Code monétaire et financier - art. L711-15 (Ab)
+
+
+##### Sous-section 3 : Continuité des obligations
+
+###### Article L711-17
+
+L'introduction de l'euro n'a pas pour effet de modifier les termes d'un instrument juridique ou de libérer ou de dispenser de
+son exécution, et elle ne donne pas à une partie le droit de modifier un tel instrument ou d'y mettre fin unilatéralement. La
+présente disposition s'applique sans préjudice de ce dont les parties sont convenues.
+
+Lorsqu'un instrument juridique comporte une référence à une unité monétaire nationale, cette référence est aussi valable que
+s'il s'agissait d'une référence à l'euro, en appliquant les taux de conversion.
+
+Le remplacement de la monnaie de chaque Etat membre participant par l'euro n'a pas en soi pour effet de modifier le libellé
+des instruments juridiques existant à la date du remplacement.
+
+On entend par "instruments juridiques", au sens des alinéas précédents, les dispositions législatives et réglementaires,
+actes administratifs, décisions de justice, contrats, actes juridiques unilatéraux, instruments de paiement autres que les
+billets et les pièces, et autres instruments ayant des effets juridiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 13 () JORF 31 août 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 88 () JORF 7 mai 2005
+
+
+###### Article L711-18
+
+Jusqu'au 31 décembre 2001 :
+
+I. - Les actes à exécuter en vertu d'instruments juridiques prévoyant l'utilisation d'une unité monétaire nationale ou
+libellés dans une unité monétaire nationale sont exécutés dans ladite unité monétaire nationale. Les actes à exécuter en
+vertu d'instruments prévoyant l'utilisation de l'euro ou libellés en euros sont exécutés dans cette monnaie.
+
+II. - Les parties peuvent déroger par convention aux dispositions du I.
+
+III. - Nonobstant les dispositions du I, toute somme libellée en euros ou dans l'unité monétaire nationale d'un Etat membre
+participant à la monnaie unique, et à régler dans cet Etat membre par le crédit d'un compte du créancier, peut être payée par
+le débiteur en euros ou dans l'unité monétaire nationale de l'Etat membre concerné. La somme est portée au crédit du compte
+du créancier dans l'unité monétaire dans laquelle ce compte est libellé, toute conversion étant opérée selon les taux de
+conversion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 13 () JORF 31 août 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 88 () JORF 7 mai 2005
+
+
+###### Article L711-19
+
+Au 1er janvier 2002, les références aux unités monétaires nationales qui figurent dans des instruments juridiques existants
+doivent être lues comme des références à l'euro en appliquant les taux de conversion respectifs. Les règles relatives à la
+conversion et à l'arrondissement des sommes d'argent prévues aux articles L. 711-14 et L. 711-15 s'appliquent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 13 () JORF 31 août 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 88 () JORF 7 mai 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L711-14 (Ab)
+	  - Code monétaire et financier - art. L711-15 (Ab)
+
+
+##### Section 2 : Dispositions d'application
+
+###### Article L711-20
+
+Le Gouverneur de la Banque de France rend applicables à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-
+Miquelon les mesures nécessaires à l'accomplissement des missions mentionnées à la section 1 du chapitre Ier du titre IV du
+livre Ier du présent code, notamment celles qui sont nécessaires au fonctionnement de l'Union économique et monétaire, de
+telle sorte que ces mesures y aient des effets identiques à ceux produits en France métropolitaine.
+
+Les décisions du Gouverneur sont publiées au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 13 () JORF 31 août 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 88 () JORF 7 mai 2005
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L711-21 (Ab)
+
+
+###### Article L711-21
+
+Les mesures nécessaires à l'introduction de l'euro, notamment celles qui sont nécessaires au fonctionnement de l'Union
+économique et monétaire, autres que celles mentionnées à l'article L. 711-20, sont rendues applicables par voie réglementaire
+à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon, de telle sorte que ces mesures y aient des effets
+identiques à ceux produits en France métropolitaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 13 () JORF 31 août 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 88 () JORF 7 mai 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L711-20 (Ab)
 
 
 #### Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et au territoire des îles Wallis-et-Futuna
