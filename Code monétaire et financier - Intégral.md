@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-09-04
+Version Consolidée au 2004-10-01
 
 # Partie législative
 
@@ -4467,14 +4467,29 @@ premier alinéa.
 
 ###### Article L152-4
 
-La méconnaissance des obligations énoncées à l'article L. 152-1 est punie de la confiscation du corps du délit ou, lorsque la
-saisie n'aura pu être faite, d'une somme en tenant lieu et d'une amende égale au montant de la somme sur laquelle a porté
-l'infraction ou la tentative d'infraction.
+I. - La méconnaissance des obligations déclaratives énoncées à l'article L. 152-1 est punie d'une amende égale au quart de la
+somme sur laquelle a porté l'infraction ou la tentative d'infraction.
 
-Les dispositions du titre XII du code des douanes s'appliquent aux infractions aux obligations visées au présent chapitre.
+II. - En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la
+somme sur laquelle a porté l'infraction ou la tentative d'infraction, pendant une durée de trois mois, renouvelable sur
+autorisation du procureur de la République du lieu de la direction des douanes dont dépend le service chargé de la procédure,
+dans la limite de six mois au total.
 
-Dans le cas où la sanction prévue au premier alinéa du présent article est appliquée, la majoration mentionnée au premier
-alinéa de l'article 1759 du code général des impôts n'est pas mise en oeuvre.
+La somme consignée est saisie et sa confiscation peut être prononcée par la juridiction compétente si, pendant la durée de la
+consignation, il est établi que l'auteur de l'infraction mentionnée au I est ou a été en possession d'objets laissant
+présumer qu'il est ou a été l'auteur d'une ou plusieurs infractions prévues et réprimées par le code des douanes ou qu'il
+participe ou a participé à la commission de telles infractions ou s'il y a des raisons plausibles de penser que l'auteur de
+l'infraction visée au I a commis une infraction ou plusieurs infractions prévues et réprimées par le code des douanes ou
+qu'il a participé à la commission de telles infractions.
+
+La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trésor, mainlevée des mesures de consignation et
+saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'application des sanctions fiscales.
+
+III. - La recherche, la constatation et la poursuite des infractions mentionnées au I sont effectuées dans les conditions
+fixées par le code des douanes.
+
+Dans le cas où l'amende prévue au I est infligée, la majoration de 40 % mentionnée au premier alinéa de l'article 1759 du
+code général des impôts n'est pas appliquée.
 
 **Liens relatifs à cet article**
 
@@ -4490,6 +4505,10 @@ alinéa de l'article 1759 du code général des impôts n'est pas mise en oeuvre
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cité par**:
 
@@ -33029,10 +33048,12 @@ Les organismes financiers et les personnes mentionnés à l'article L. 562-1 son
 présent titre, de déclarer au service institué à l'article L. 562-4 :
 
 1. Les sommes inscrites dans leurs livres qui pourraient provenir du trafic de stupéfiants, de la fraude aux intérêts
-financiers des Communautés européennes, de la corruption ou d'activités criminelles organisées ;
+financiers des Communautés européennes, de la corruption ou d'activités criminelles organisées ou qui pourraient participer
+au financement du terrorisme ;
 
-2. Les opérations qui portent sur des sommes lorsque celles-ci pourraient provenir du trafic de stupéfiants, de la fraude aux
-intérêts financiers des Communautés européennes, de la corruption ou d'activités criminelles organisées.
+2. Les opérations qui portent sur des sommes qui pourraient provenir du trafic de stupéfiants, de la fraude aux intérêts
+financiers des Communautés européennes, de la corruption ou d'activités criminelles organisées ou qui pourraient participer
+au financement du terrorisme.
 
 Les organismes financiers sont également tenus de déclarer à ce service :
 
@@ -33072,7 +33093,7 @@ Ce décret fixera le montant minimum des opérations soumises à déclaration.
 
 	**Modifié par**:
 
-	  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
+	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cité par**:
 
@@ -33231,10 +33252,12 @@ Toute information de nature à modifier l'appréciation portée par l'organisme 
 Un service, placé sous l'autorité du ministre chargé de l'économie, reçoit la déclaration prévue à l'article L. 562-2. Ce
 service est composé d'agents publics de l'Etat spécialement habilités par le ministre, dans les conditions fixées par décret
 en Conseil d'Etat. Ce service recueille et rassemble tous renseignements propres à établir l'origine des sommes ou la nature
-des opérations faisant l'objet de la déclaration. Dès que les informations recueillies mettent en évidence des faits
-susceptibles de relever du trafic de stupéfiants ou d'activités criminelles organisées, il en réfère au procureur de la
-République en lui précisant, le cas échéant, que l'administration des douanes a été saisie en vue de procéder à des
-investigations pour la recherche et la constatation de l'infraction prévue à l'article 415 du code des douanes.
+des opérations ayant fait l'objet d'une déclaration mentionnée à l'article L. 562-2, de l'examen particulier prévu à
+l'article L. 563-3 ou d'une information mentionnée à l'article L. 563-5. Dès que les informations recueillies mettent en
+évidence des faits susceptibles de relever du trafic de stupéfiants ou d'activités criminelles organisées ou du financement
+du terrorisme, il en réfère au procureur de la République en lui précisant, le cas échéant, que l'administration des douanes
+a été saisie en vue de procéder à des investigations pour la recherche et la constatation de l'infraction prévue à l'article
+415 du code des douanes.
 
 Le procureur de la République transmet au service mentionné ci-dessus toutes les décisions définitives prononcées dans les
 affaires ayant fait l'objet d'une déclaration de soupçon, en application du présent titre.
@@ -33248,10 +33271,6 @@ affaires ayant fait l'objet d'une déclaration de soupçon, en application du pr
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 40 () JORF 16 mai 2001
 
 	**Cité par**:
 
@@ -33286,6 +33305,11 @@ affaires ayant fait l'objet d'une déclaration de soupçon, en application du pr
 	  - Code monétaire et financier - art. R562-3 (Ab)
 	  - Code monétaire et financier - art. R562-8 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2004-204 2004-03-09 art. 33 VII 2°, VIII JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+
 	**Cite**:
 
 	  - Code des douanes - art. 415 (T)
@@ -33299,13 +33323,13 @@ alors reportée pour une durée n'excédant pas douze heures.
 
 Si l'accusé de réception n'est pas assorti d'une opposition, ou si, au terme du délai ouvert par l'opposition, aucune
 décision du président du tribunal de grande instance de Paris ou, le cas échéant, du juge d'instruction, n'est parvenue à
-l'organisme financier ou à la personne visée à l'article L. 562-1 qui a effectué la déclaration, l'opération peut être
+l'organisme financier ou à la personne visé à l'article L. 562-1 qui a effectué la déclaration, l'opération peut être
 exécutée.
 
 La déclaration porte sur des opérations déjà exécutées lorsqu'il a été impossible de surseoir à leur exécution. Il en est de
 même lorsqu'il est apparu postérieurement à la réalisation de l'opération que les sommes pourraient provenir du trafic de
-stupéfiants ou d' activités criminelles organisées. Le service institué à l'article L. 562-4 accuse réception de ces
-déclarations.
+stupéfiants ou d'activités criminelles organisées ou du financement du terrorisme. Le service institué à l'article L. 562-4
+accuse réception de ces déclarations.
 
 Le président du tribunal de grande instance de Paris peut, sur requête du service institué à l'article L. 562-4 après avis du
 procureur de la République près le tribunal de grande instance de Paris, proroger le délai prévu au premier alinéa du présent
@@ -33325,8 +33349,7 @@ droit à la requête est exécutoire sur minute avant toute notification à la p
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 33 () JORF 16 mai 2001
-	  - Loi n°2001-420 du 15 mai 2001 - art. 34 () JORF 16 mai 2001
+	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cité par**:
 
@@ -33349,9 +33372,9 @@ La déclaration peut être verbale ou écrite. L'organisme financier ou la perso
 que le service institué à l'article L. 562-4 n'accuse pas réception de la déclaration. Dans le cas où ce service saisit le
 procureur de la République, la déclaration, dont ce dernier est avisé, ne figure pas au dossier de la procédure.
 
-Le service institué à l'article L. 562-4 peut, à la demande de l'organisme financier ou de la personne qui a effectué une
-déclaration conformément aux articles L. 562-2, L. 563-1, L. 563-1-1, L. 563-3 et L. 563-4, indiquer s'il a saisi le
-procureur de la République sur le fondement de cette déclaration.
+Lorsque, sur le fondement d'une déclaration faite conformément aux articles L. 562-2, L. 563-1, L. 563-1-1 et L. 563-3 à L.
+563-5, le service institué à l'article L. 562-4 a saisi le procureur de la République, il en informe, selon des modalité
+fixées par décret en Conseil d'Etat, l'organisme financier ou la personne qui a effectué la déclaration.
 
 **Liens relatifs à cet article**
 
@@ -33365,8 +33388,7 @@ procureur de la République sur le fondement de cette déclaration.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 33 () JORF 16 mai 2001
-	  - Loi n°2001-420 du 15 mai 2001 - art. 41 () JORF 16 mai 2001
+	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cité par**:
 
@@ -33383,8 +33405,7 @@ procureur de la République sur le fondement de cette déclaration.
 	  - Code monétaire et financier - art. L562-4 (M)
 	  - Code monétaire et financier - art. L563-1 (M)
 	  - Code monétaire et financier - art. L563-1-1 (M)
-	  - Code monétaire et financier - art. L563-3 (M)
-	  - Code monétaire et financier - art. L563-4 (M)
+	  - Code monétaire et financier L562-1, L562-4, L562-2, L563-1, L563-1-1, L563-3 à L563-5
 
 
 ###### Article L562-7
@@ -33747,15 +33768,15 @@ analogues.
 
 Sans préjudice de l'application de l'article 40 du code de procédure pénale, les informations recueillies par le service
 institué à l'article L. 562-4 et les autorités de contrôle en application des articles L. 562-2, L. 563-2 à L. 563-4 ne
-peuvent être utilisées à d'autre fins que celles prévues par le présent titre.
+peuvent être utilisées à d'autres fins que celles prévues par le présent titre.
 
 Leur divulgation est interdite. Sous réserve que ces informations soient en relation avec les faits mentionnés à l'article L.
 562-2, le service institué à l'article L. 562-4 est toutefois autorisé à communiquer les informations recueillies à des
 officiers de police judiciaire désignés par le ministre de l'intérieur dans les conditions fixées par décret en Conseil
 d'Etat, ainsi qu'aux autorités de contrôle. Il peut également communiquer ces informations au service des douanes. Il peut
 recevoir des officiers de police judiciaire et des autorités de contrôle, ainsi que des administrations de l'Etat, des
-collectivités territoriales et de leurs établissements publics, toutes les informations nécessaires à l'accomplissement de sa
-mission.
+collectivités territoriales, des établissements publics et des organismes visés à l'article L. 134-1 du code des juridictions
+financières, toutes les informations nécessaires à l'accomplissement de sa mission.
 
 **Liens relatifs à cet article**
 
@@ -33781,10 +33802,11 @@ mission.
 
 	**Modifié par**:
 
-	  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
+	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cite**:
 
+	  - Code des juridictions financières - art. L134-1 (V)
 	  - CODE DE PROCEDURE PENALE - art. 40 (M)
 	  - Code monétaire et financier - art. L562-2 (M)
 	  - Code monétaire et financier L562-4, L562-2, L563-2 à L563-4
@@ -33830,6 +33852,11 @@ Les casinos qui échangent des moyens de paiement, des jetons ou plaques ou qui 
 casinos sont tenus d'enregistrer les noms et adresses des joueurs qui échangent ou apportent des jetons et plaques pour une
 somme supérieure à un montant fixé par décret.
 
+Les groupements, cercles et sociétés organisant des jeux de hasard, des loteries, des paris, des pronostics sportifs ou
+hippiques sont tenus de s'assurer, par la présentation de tout document écrit probant, de l'identité des joueurs gagnant des
+sommes supérieures à un montant fixé par décret et d'enregistrer les noms et adresses de ces joueurs, ainsi que le montant
+des sommes qu'ils ont gagnées. Ces données doivent être conservées pendant cinq ans.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -33841,6 +33868,10 @@ somme supérieure à un montant fixé par décret.
 
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cité par**:
 
@@ -33860,8 +33891,13 @@ somme supérieure à un montant fixé par décret.
 	  - Code monétaire et financier - art. R562-2 (V)
 	  - Code monétaire et financier - art. R564-2 (T)
 
+	**Transféré par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+
 	**Nouveaux textes**:
 
+	  - Code monétaire et financier - art. L565-1 (T)
 	  - Code monétaire et financier - art. L565-1 (V)
 
 
