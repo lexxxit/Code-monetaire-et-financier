@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2001-02-20
+Version Consolidée au 2001-04-22
 
 # Partie législative
 
@@ -13656,22 +13656,25 @@ Le non-respect de ces dispositions peut entraîner la responsabilité pécuniair
 ###### Article L313-13
 
 L'Etat, sous réserve des articles L. 313-18 à L. 313-20 les établissements de crédit, les sociétés commerciales, les sociétés
-et mutuelles d'assurances et les institutions relevant du titre II et du titre III du livre IX du code de la sécurité sociale
-peuvent consentir sur leurs ressources disponibles à long terme des concours aux entreprises industrielles et commerciales
-sous forme de prêts participatifs régis par les articles L. 313-14 à L. 313-20. Les dispositions du présent article ne font
-pas obstacle à l'application des dispositions pénales du titre IV du livre II du code de commerce.
+et mutuelles d'assurances, les mutuelles et unions régies par le code de la mutualité et les institutions relevant du titre
+II et du titre III du livre IX du code de la sécurité sociale peuvent consentir sur leurs ressources disponibles à long terme
+des concours aux entreprises industrielles et commerciales sous forme de prêts participatifs régis par les articles L. 313-14
+à L. 313-20. Les dispositions du présent article ne font pas obstacle à l'application des dispositions pénales du titre IV du
+livre II du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°78-741 1978-07-13 art. 24
 	  - Loi n°78-741 du 13 juillet 1978 - art. 24 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2001-350 2001-04-19 art. 6 XXVII JORF 22 avril 2001
 
 	**Cité par**:
 
