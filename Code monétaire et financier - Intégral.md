@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-06-22
+Version Consolidée au 2004-06-26
 
 # Partie législative
 
@@ -5479,33 +5479,22 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 	  - Code monétaire et financier - art. L752-1 (VD)
 
 
-##### Sous-section 1 : Conditions de forme.
+##### Sous-section 1 : Conditions d'émission
 
 ###### Article L211-3
 
-L'émission des valeurs mobilières par les sociétés par actions relève des dispositions de l'article L. 228-1 du code de
-commerce reproduit ci-après :
-
-"Art. L. 228-1 - Les valeurs mobilières émises par les sociétés par actions revêtent la forme de titres au porteur ou de
-titres nominatifs.
-
-Ces valeurs mobilières, quelle que soit leur forme, doivent être inscrites en compte au nom de leur propriétaire, dans les
-conditions prévues par le II de l'article 94 de la loi de finances pour 1982 (n° 81-1160 du 30 décembre 1981).
-
-Toutefois, lorsque des titres de capital de la société ont été admis aux négociations sur un marché réglementé et que leur
-propriétaire n'a pas son domicile sur le territoire français, au sens de l'article 102 du code civil, tout intermédiaire peut
-être inscrit pour le compte de ce propriétaire. Cette inscription peut être faite sous la forme d'un compte collectif ou en
-plusieurs comptes individuels correspondant chacun à un propriétaire.
-
-L'intermédiaire inscrit est tenu, au moment de l'ouverture de son compte auprès soit de la société émettrice, soit de
-l'intermédiaire financier habilité teneur de compte, de déclarer, dans les conditions fixées par décret, sa qualité
-d'intermédiaire détenant des titres pour le compte d'autrui."
+Les sociétés par actions peuvent émettre des valeurs mobilières dans les conditions prévues à l'article L. 228-1 du code de
+commerce.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -5555,17 +5544,23 @@ d'intermédiaire détenant des titres pour le compte d'autrui."
 Les valeurs mobilières émises en territoire français et soumises à la législation française, quelle que soit leur forme,
 doivent être inscrites en comptes tenus par l'émetteur ou par un intermédiaire habilité.
 
-Les titres des sociétés par actions qui ne sont pas admis aux négociations sur un marché réglementé et les actions des
-sociétés autres que les sociétés d'investissement à capital variable " SICAV " doivent obligatoirement être inscrits à un
-compte tenu chez lui par l'émetteur au nom du propriétaire des titres.
+Les titres des sociétés par actions qui ne sont pas admis aux négociations sur un marché réglementé, à l'exception des
+actions de sociétés d'investissement à capital variable "SICAV", doivent être inscrits à un compte tenu chez lui par
+l'émetteur au nom du propriétaire des titres.
 
-Ces dispositions ne concernent pas les obligations émises avant le 3 mai 1986, amortissables par tirage au sort de numéros.
-Elles ne concernent pas non plus les rentes perpétuelles sur l'Etat, détenues sous forme nominative, émises avant cette date.
+Par dérogation aux obligations de l'alinéa précédent, lorsque les titres sont admis aux opérations d'un dépositaire central,
+ils peuvent être inscrits en compte chez un intermédiaire habilité si cela est prévu dans les statuts de la personne morale
+émettrice lorsqu'il s'agit de titres de capital, ou dans le contrat d'émission, lorsqu'il s'agit d'autres titres. Le
+dépositaire central est soumis aux obligations prévues par le chapitre II du titre VI du livre V.
+
+Ces dispositions ne concernent pas les obligations émises avant le 3 novembre 1984, amortissables par tirage au sort de
+numéros. Elles ne concernent pas non plus les rentes perpétuelles sur l'Etat, détenues sous forme nominative, émises avant
+cette date.
 
 Les détenteurs de valeurs mobilières, émises avant la même date, ne peuvent exercer les droits attachés à leurs titres que si
 ceux-ci ont été présentés à l'émetteur ou à un intermédiaire habilité en vue de leur inscription en compte. A compter du 3
-novembre 1988, dans des conditions définies par décret, les émetteurs doivent procéder à la vente des droits correspondant
-aux valeurs mobilières non présentées. Le produit de la vente est consigné jusqu'à restitution éventuelle aux ayants droit.
+mai 1988, dans des conditions définies par décret, les émetteurs doivent procéder à la vente des droits correspondant aux
+valeurs mobilières non présentées. Le produit de la vente est consigné jusqu'à restitution éventuelle aux ayants droit.
 
 Dans les sociétés mentionnées au deuxième alinéa, lorsqu'ils ne justifient pas avoir effectué toute diligence pour assurer
 l'application effective des présentes dispositions, les gérants, le président du conseil d'administration ou du directoire
@@ -5573,19 +5568,26 @@ sont pour l'application des droits de mutation par décès et de l'impôt de sol
 contraire, être les propriétaires des valeurs mobilières non présentées ou qui n'auraient pas été vendues dans les conditions
 de l'alinéa précédent.
 
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 94 (M)
 
-	**Créé par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000 en vigueur le 1er janvier 2001 rectificatif JORF 17 mars 2001
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -5630,6 +5632,354 @@ Les obligations d'information concernant les détenteurs de titres sont fixées 
 
 
 #### Chapitre II : Titres de capital et titres donnant accès au capital.
+
+##### Section 1 : Les titres de capital
+
+##### Sous-section 1 : Actions de numéraire et d'apport
+
+###### Article L212-1
+
+Les différentes formes d'actions sont définies par l'article L. 228-7 du code de commerce reproduit ci-après : 
+
+" Art.L. 228-7.-Les actions de numéraire sont celles dont le montant est libéré en espèces ou par compensation, celles qui
+sont émises par suite d'une incorporation au capital de réserves, bénéfices ou primes d'émission, et celles dont le montant
+résulte pour partie d'une incorporation de réserves, bénéfices ou primes d'émission et pour partie d'une libération en
+espèces. Ces dernières doivent être intégralement libérées lors de la souscription. 
+
+Sous réserve des règles spécifiques applicables aux actions résultant d'une fusion ou d'une scission, toutes les autres
+actions sont des actions d'apport. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-604 2004-06-24 art. 28, art. 52 III, IV JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 28 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de commerce. - art. L228-7 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L732-2 (V)
+	  - Code monétaire et financier - art. L742-2 (V)
+	  - Code monétaire et financier - art. L752-2 (V)
+	  - Code monétaire et financier - art. L762-2 (V)
+
+
+##### Sous-section 2 : Actions à forme nominative obligatoire
+
+###### Article L212-2
+
+Les actions de numéraire relèvent des dispositions de l'article L. 228-9 du code de commerce, reproduit ci-après : 
+
+" Art.L. 228-9.-L'action de numéraire est nominative jusqu'à son entière libération. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-604 2004-06-24 art. 52 III, IV JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L228-9 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L732-2 (V)
+	  - Code monétaire et financier - art. L742-2 (M)
+	  - Code monétaire et financier - art. L762-2 (M)
+
+
+###### Article L212-3
+
+I. - Sous réserve des dispositions du troisième alinéa de l'article L. 211-4, les actions émises en territoire français et
+soumises à la législation française, des sociétés par actions, autres que les SICAV, qui ne sont pas admises aux négociations
+sur un marché réglementé revêtent la forme nominative.
+
+II. - Cette obligation doit être satisfaite dans un délai de six mois à compter de la date d'émission des actions concernées
+ou de la date à laquelle celles-ci ont cessé d'être admises aux opérations d'un dépositaire central.
+
+Passé ce délai, les détenteurs d'actions qui ne satisfont pas à l'obligation prévue au I, ne peuvent exercer les droits
+attachés à ces titres, que si ceux-ci ont été présentés à la société émettrice ou un intermédiaire habilité en vue de leur
+mise sous forme nominative.
+
+III. - Les sociétés émettrices doivent, dans un délai d'un an, à partir de l'expiration du délai prévu au II, procéder à la
+vente des droits correspondant aux actions non présentées, dans des conditions fixées par décret. Le produit de la vente est
+consigné jusqu'à restitution éventuelle aux ayants droit.
+
+IV. - Lorsqu'ils ne justifient pas avoir effectué toute diligence pour assurer l'application effective des présentes
+dispositions, les gérants, le président du conseil d'administration ou du directoire de la société émettrice sont, pour
+l'application des droits de mutation par décès et de l'impôt de solidarité sur la fortune présumés, sauf preuve contraire,
+être les propriétaires des actions qui ne revêtiraient pas la forme nominative ou qui n'auraient pas été vendues dans les
+conditions prévues au III.
+
+**Nota:**
+
+NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
+suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
+portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
+placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°81-1160 1981-12-30 art. 94 I
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 94 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-604 2004-06-24 art. 52 III, IV, V JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 754 B (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-4 (M)
+
+
+###### Article L212-4
+
+L'obligation imposée à certaines actions de revêtir la forme nominative est réputée satisfaite lorsque sont réalisées les
+conditions définies à l'article L. 228-2 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-604 2004-06-24 art. 52 III, IV JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L228-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L228-2 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L742-2 (V)
+	  - Code monétaire et financier - art. L752-2 (V)
+	  - Code monétaire et financier - art. L762-2 (V)
+
+
+##### Sous-section 3 : Actions de préférence
+
+###### Article L212-5
+
+Les règles relatives à la création des actions de préférence sont fixées par les articles L. 228-11 à L. 228-20 du code de
+commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-604 2004-06-24 art. 52 III, IV, VI JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L228-11 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce L228-11 al. 1
+
+
+##### Sous-section 4 : Dispositions applicables aux catégories de titres en voie d'extinction
+
+###### Article L212-6
+
+Les règles relatives à la création d'actions de priorité sont fixées par les articles L. 228-29-8 à L. 228-29-10 et L.
+228-35-1 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-604 2004-06-24 art. 52 III, IV, VII JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L228-29-8 (V)
+	  - Code de commerce - art. L228-35-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce L228-12 à L228-20
+
+
+###### Article L212-6-1
+
+Les règles relatives à la création d'actions à dividende prioritaire sans droit de vote sont fixées par les articles L.
+228-29-8 à L. 228-29-10 et L. 228-35-2 à L. 228-35-11 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L228-29-8 (V)
+	  - Code de commerce - art. L228-35-2 (V)
+
+
+###### Article L212-6-2
+
+Les règles relatives aux certificats d'investissement et aux certificats de droit de vote sont fixées par les dispositions
+des articles L. 228-29-8 à L. 228-35 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L228-29-8 (V)
+
+
+###### Article L212-6-3
+
+Afin d'assurer l'égalité des porteurs de certificats d'investissement ou de certificats de droit de vote et la transparence
+du marché, le règlement général de l'Autorité des marchés financiers détermine : 
+
+1° Les conditions applicables aux procédures d'offre publique et de demande de retrait portant sur des certificats
+d'investissement ou des certificats de droit de vote admis aux négociations sur un marché réglementé ou qui ont cessé d'être
+négociés sur un marché réglementé, lorsque le ou les actionnaires majoritaires de la société émettrice de ces certificats
+détiennent seul ou de concert au sens des dispositions de l'article L. 233-10 du code de commerce une fraction déterminée du
+capital et des droits de vote ; 
+
+2° Les conditions dans lesquelles, à l'issue d'une procédure d'offre publique ou de demande de retrait, les certificats
+d'investissement ou les certificats de droit de vote non présentés par leurs porteurs, dès lors qu'ils ne représentent pas
+plus de 5 % du capital ou des droits de vote, sont transférés aux actionnaires majoritaires à leur demande, et les détenteurs
+indemnisés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 26-11 (V)
+	  - Loi n°2008-649 du 3 juillet 2008 - art. 17 (V)
+	  - Code monétaire et financier - art. L212-6-4 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-10 (V)
+
+
+###### Article L212-6-4
+
+En cas de mise en oeuvre du 2° de l'article L. 212-6-3, l'évaluation des titres est faite selon les méthodes objectives
+pratiquées en cas de cession d'actifs et tient compte, selon une pondération appropriée à chaque cas, de la valeur des
+actifs, des bénéfices réalisés, de la valeur boursière, de l'existence de filiales et des perspectives d'activité.
+L'indemnisation est égale, par titre, au résultat de l'évaluation précitée ou, s'il est plus élevé, au prix proposé lors de
+l'offre ou de la demande de retrait. Le montant de l'indemnisation revenant aux détenteurs non identifiés est consigné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L212-6-3 (V)
+
+
+##### Section 2 : Les titres donnant accès au capital
+
+###### Article L212-7
+
+Les règles relatives à l'émission de titres donnant accès au capital et aux titulaires de ces titres sont fixées par les
+articles L. 228-91 à L. 228-106 du code de commerce relatifs aux valeurs mobilières donnant accès au capital.
+
+**Nota:**
+
+Les articles L. 228-94 et L. 228-96 du code de commerce sont abrogés par l'article 51 VII de l'ordonnance n° 2004-604 du 24
+juin 2004.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L228-91 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce L225-150 à L225-158
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L451-1-2 (V)
+	  - Code monétaire et financier - art. L621-8 (VD)
+
 
 ##### Section 3 : Régimes particuliers d'accès au capital en faveur du personnel salarié
 
@@ -5713,356 +6063,6 @@ prévues à l'article 163 bis G du code général des impôts.
 
 
 #### Chapitre II : Actions et titres donnant accès au capital
-
-##### Section 1 : Les actions
-
-##### Sous-section 1 : Actions de numéraire et d'apport.
-
-###### Article L212-1
-
-Les différentes formes d'actions sont définies par l'article L. 228-7 du code de commerce reproduit ci-après :
-
-" Art. L. 228-7. - Les actions de numéraire sont celles dont le montant est libéré en espèces ou par compensation, celles qui
-sont émises par suite d'une incorporation au capital de réserves, bénéfices ou primes d'émission, et celles dont le montant
-résulte pour partie d'une incorporation de réserves, bénéfices ou primes d'émission et pour partie d'une libération en
-espèces. Ces dernières doivent être intégralement libérées lors de la souscription.
-
-Toutes autres actions sont des actions d'apport. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L228-7 (M)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L228-7 (M)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L732-2 (V)
-	  - Code monétaire et financier - art. L742-2 (V)
-	  - Code monétaire et financier - art. L752-2 (V)
-	  - Code monétaire et financier - art. L762-2 (V)
-
-
-##### Sous-section 2 : Actions à forme nominative obligatoire.
-
-###### Article L212-2
-
-Les actions de numéraire relèvent des dispositions de l'article L. 228-9 du code de commerce, reproduit ci-après :
-
-" Art. L. 228-9. - L'action de numéraire est nominative jusqu'à son entière libération. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L228-9 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L228-9 (V)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L732-2 (V)
-	  - Code monétaire et financier - art. L742-2 (M)
-	  - Code monétaire et financier - art. L762-2 (M)
-
-
-###### Article L212-3
-
-I. - Les actions émises en territoire français et soumises à la législation française, des sociétés par actions, autres que
-les SICAV, qui ne sont pas admises aux négociations sur un marché réglementé revêtent la forme nominative.
-
-II. - Cette obligation doit être satisfaite dans un délai de six mois à compter de la date d'émission des actions concernées
-ou de la date à laquelle celles-ci ont cessé d'être admises aux négociations sur un marché réglementé.
-
-Passé ce délai, les détenteurs d'actions qui ne satisfont pas à l'obligation prévue au I, ne peuvent exercer les droits
-attachés à ces titres, que si ceux-ci ont été présentés à la société émettrice ou un intermédiaire habilité en vue de leur
-mise sous forme nominative.
-
-III. - Les sociétés émettrices doivent, dans un délai d'un an, à partir de l'expiration du délai prévu au II, procéder à la
-vente des droits correspondant aux actions non présentées, dans des conditions fixées par décret. Le produit de la vente est
-consigné jusqu'à restitution éventuelle aux ayants droit.
-
-IV. - Lorsqu'ils ne justifient pas avoir effectué toute diligence pour assurer l'application effective des présentes
-dispositions, les gérants, le président du conseil d'administration ou du directoire de la société émettrice sont, pour
-l'application des droits de mutation par décès et de l'impôt de solidarité sur la fortune présumés, sauf preuve contraire,
-être les propriétaires des actions qui ne revêtiraient pas la forme nominative ou qui n'auraient pas été vendues dans les
-conditions prévues au III.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°81-1160 1981-12-30 art. 94 I
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 94 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 754 B (V)
-
-
-###### Article L212-4
-
-L'obligation imposée à certaines actions de revêtir la forme nominative est réputée satisfaite lorsque sont réalisées les
-conditions définies à l'article L. 228-2 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L228-2 (M)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L228-2 (M)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L742-2 (V)
-	  - Code monétaire et financier - art. L752-2 (V)
-	  - Code monétaire et financier - art. L762-2 (V)
-
-
-##### Sous-section 3 : Actions de priorité.
-
-###### Article L212-5
-
-La création d'actions de priorité est prévue au premier alinéa de l'article L. 228-11 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce L228-11 al. 1
-
-	**Cite**:
-
-	  - Code de commerce. - art. L228-11 (M)
-
-
-##### Sous-section 4 : Actions à dividende prioritaire.
-
-###### Article L212-6
-
-Les règles relatives à la création d'actions à dividende prioritaire sont fixées par les articles L. 228-12 à L. 228-20 du
-code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce L228-12 à L228-20
-
-	**Cite**:
-
-	  - Code de commerce L228-12 à L228-20
-
-
-##### Section 2 : Les titres donnant accès au capital
-
-##### Sous-section 1 : Obligations avec bons de souscription d'actions.
-
-###### Article L212-7
-
-Les règles concernant l'émission d'obligations avec bons de souscriptions d'actions sont fixées par les articles L. 225-150 à
-L. 225-158 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code de commerce L225-150 à L225-158
-
-	**Anciens textes**:
-
-	  - Code de commerce L225-150 à L225-158
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L451-1-2 (V)
-	  - Code monétaire et financier - art. L621-8 (VD)
-
-
-##### Sous-section 2 : Obligations convertibles en actions.
-
-###### Article L212-8
-
-Les règles relatives aux obligations convertibles en actions sont fixées par les articles L. 225-161 à L. 225-167 du code de
-commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce L225-161 à L225-167
-
-	**Anciens textes**:
-
-	  - Code de commerce L225-61 à L225-167
-
-
-##### Sous-section 3 : Obligations échangeables contre des actions.
-
-###### Article L212-9
-
-L'émission d'obligations échangeables contre des actions par les sociétés dont les actions sont admises aux négociations sur
-un marché réglementé est prévue par l'article L. 225-168 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-168 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L225-168 (Ab)
-
-
-##### Sous-section 4 : Titres émis en représentation d'une quotité de capital.
-
-###### Article L212-10
-
-Une société par actions peut émettre des titres en représentation d'une quotité du capital dans les conditions fixées par les
-articles L. 228-91 à L. 228-97 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce L228-91 à L228-97
-
-	**Anciens textes**:
-
-	  - Code de commerce L228-91 à L228-97
-
-
-##### Sous-section 5 : Certificats d'investissement et certificats de droit de vote.
-
-###### Article L212-11
-
-Les règles relatives aux certificats d'investissement et aux certificats de droit de vote sont fixées par les dispositions
-des articles L. 228-30 à L. 228-35 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce L228-30 à L228-35
-
-	**Anciens textes**:
-
-	  - Code de commerce L228-30 à L228-35
-
-
-###### Article L212-12
-
-Afin d'assurer l'égalité des porteurs de certificats d'investissement ou de certificats de droit de vote et la transparence
-du marché, le règlement général du Conseil des marchés financiers détermine :
-
-1° Les conditions applicables aux procédures d'offre publique et de demande de retrait portant sur des certificats
-d'investissement ou des certificats de droit de vote admis aux négociations sur un marché réglementé ou qui ont cessé d'être
-négociés sur un marché réglementé, lorsque le ou les actionnaires majoritaires de la société émettrice de ces certificats
-détiennent seul ou de concert au sens des dispositions de l'article L. 233-10 du code de commerce une fraction déterminée du
-capital et des droits de vote ;
-
-2° Les conditions dans lesquelles, à l'issue d'une procédure d'offre publique ou de demande de retrait, les certificats
-d'investissement ou les certificats de droit de vote non présentés par leurs porteurs, dès lors qu'ils ne représentent pas
-plus de 5 % du capital ou des droits de vote, sont transférés aux actionnaires majoritaires à leur demande, et les détenteurs
-indemnisés ; l'évaluation des titres faite selon les méthodes objectives pratiquées en cas de cession d'actifs, tient compte,
-selon une pondération appropriée à chaque cas, de la valeur des actifs, des bénéfices réalisés, de la valeur boursière, de
-l'existence de filiales et des perspectives d'activité. L'indemnisation est égale, par titre, au résultat de l'évaluation
-précitée ou, s'il est plus élevé, au prix proposé lors de l'offre ou de la demande de retrait. Le montant de l'indemnisation
-revenant aux détenteurs non identifiés est consigné.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 1966-07-24 art. 283-1-1
-	  - Loi n°66-537 du 24 juillet 1966 - art. 283-1-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L233-10 (M)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L752-2 (V)
-
 
 ##### Section 3 : Régimes particuliers d'accès au capital en faveur du personnel salarié
 
@@ -6644,12 +6644,12 @@ statuts.
 ###### Article L213-17
 
 Les dispositions des articles L. 213-5 et L. 213-6 du présent code, des articles L. 228-1, L. 228-5, L. 228-43 à L. 228-89,
-L. 242-10, L. 245-9 à L. 245-12 (1° à 5°), L. 245-13 à L. 245-17 du code de commerce s'appliquent aux obligations émises par
-les associations.
+L. 242-10, L. 245-9 à L. 245-12 (1°), L. 245-13 à L. 245-17 du code de commerce s'appliquent aux obligations émises par les
+associations. 
 
 Les dispositions mentionnées à l'alinéa précédent, relatives aux conseil d'administration, directoire ou gérants de société
 sont applicables aux associations émettant des obligations et régissent les personnes ou organes qui sont chargés de
-l'administration conformément aux statuts.
+l'administration conformément aux statuts. 
 
 Celles qui sont relatives au conseil de surveillance d'une société ou à ses membres s'appliquent, s'il en existe, à l'organe
 collégial de contrôle et aux personnes qui le composent.
@@ -6664,14 +6664,19 @@ collégial de contrôle et aux personnes qui le composent.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce L228-1, L228-5, L228-43 à L228-89, L242-10, L245-9 à L245-12, L245-13 à L245-17
-	  - Code de commerce. - art. L228-1 (M)
-	  - Code de commerce. - art. L228-5 (V)
-	  - Code de commerce. - art. L242-10 (M)
+	  - Code de commerce - art. L228-1 (V)
+	  - Code de commerce - art. L228-43 (Ab)
+	  - Code de commerce - art. L228-5 (V)
+	  - Code de commerce - art. L242-10 (V)
+	  - Code de commerce - art. L245-13 (V)
+	  - Code de commerce - art. L245-9 (V)
 	  - Code monétaire et financier - art. L213-5 (V)
-	  - Code monétaire et financier - art. L213-6 (M)
 
 	**Cité par**:
 
@@ -20581,24 +20586,23 @@ offres publiques portant sur les titres de ladite société.
 ###### Article L433-2
 
 La suspension, en période d'offre publique, des délégations consenties par l'assemblée générale au conseil d'administration
-pour réaliser des augmentations de capital est régie par le IV de l'article L. 225-129 du code de commerce reproduit ci-
-après :
+pour réaliser des augmentations de capital est régie par l'article L. 225-129-3 du code de commerce reproduit ci-après :
 
-" Art. L. 225-129. - IV. - Toute délégation de l'assemblée générale est suspendue en période d'offre publique d'achat ou
-d'échange sur les titres de la société, sauf si l'assemblée générale, préalablement à l'offre, a autorisé expressément, pour
-une durée comprise entre les dates de réunion de deux assemblées appelées à statuer sur les comptes de l'exercice écoulé, une
-augmentation de capital pendant ladite période d'offre publique d'achat ou d'échange et si l'augmentation envisagée n'a pas
-été réservée. "
+"Art. L. 225-129-3 : Toute délégation de l'assemblée générale est suspendue en période d'offre publique d'achat ou d'échange
+sur les titres de la société, sauf si elle s'inscrit dans le cours normal de l'activité de la société et que sa mise en
+oeuvre n'est pas susceptible de faire échouer l'offre."
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de commerce L225-129 IV
+	  - Ordonnance 2004-604 2004-06-24 art. 53 JORF 26 juin 2004
 
 
 ##### Section 2 : Obligation de déposer un projet d'offre publique
@@ -21204,11 +21208,13 @@ détenues en portefeuille à la clôture de l'exercice. "
 Les règles relatives à l'information sur les prises de participations significatives sont fixées par les articles L. 233-7 à
 L. 233-14 du code de commerce, reproduits ci-après :
 
-Art. L. 233-7 - Toute personne physique ou morale agissant seule ou de concert qui vient à posséder un nombre d'actions
-représentant plus du vingtième, du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital ou des droits
-de vote d'une société ayant son siège sur le territoire de la République et dont les actions sont admises aux négociations
-sur un marché réglementé informe cette société dans un dans un délai de cinq jours de bourse à compter du franchissement du
-seuil de participation, du nombre total d'actions et de droits de vote de celle-ci qu'elle possède.
+Art. L. 233-7 -    Lorsque les actions d'une société ayant son siège sur le territoire de la République sont inscrites en
+compte chez un intermédiaire habilité dans les conditions prévues par l'article L. 211-4 du code monétaire et financier,
+toute personne physique ou personne morale agissant seule ou de concert détenant des titres de capital au porteur inscrits en
+compte chez un intermédiaire habilité et qui vient à posséder un nombre d'actions représentant plus du vingtième, du dixième,
+du cinquième, du tiers, de la moitié ou des deux tiers du capital ou des droits de vote informe la société dans un délai fixé
+par décret en Conseil d'Etat, à compter du franchissement du seuil de participation, du nombre total d'actions ou de droits
+de vote qu'elle possède.
 
 Elle en informe également l'Autorité des marchés financiers dans un délai de cinq jours de bourse à compter du franchissement
 du seuil de participation, lorsque les actions de la société sont admises aux négociations sur un marché réglementé. Cette
@@ -21231,16 +21237,17 @@ le procès-verbal de l'assemblée générale, d'un ou plusieurs actionnaires dé
 vote de la société émettrice au moins égale à la plus petite fraction du capital dont la détention doit être déclarée. Cette
 fraction ne peut toutefois être supérieure à 5 %.
 
-La personne tenue à l'information prévue au premier alinéa est tenue de déclarer, à l'occasion des franchissements de seuil
-du dixième ou du cinquième du capital ou des droits de vote, les objectifs qu'elle a l'intention de poursuivre au cours des
-douze mois à venir. Cette déclaration précise si l'acquéreur agit seul ou de concert, s'il envisage d'arrêter ses achats ou
-de les poursuivre, d'acquérir ou non le contrôle de la société, de demander sa nomination ou celle d'une ou plusieurs
-personnes comme administrateur, membre du directoire ou du conseil de surveillance. Elle est adressée à la société dont les
-actions ont été acquises, à l'Autorité des marchés financiers dans un délai de dix jours de bourse. Cette information est
-portée à la connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers.
-En cas de changement d'intention, lequel ne peut être motivé que par des modifications importantes dans l'environnement, la
-situation ou l'actionnariat des personnes concernées, une nouvelle déclaration doit être établie et portée à la connaissance
-du public dans les mêmes conditions.
+Lorsque les actions de la société sont admises aux négociations sur un marché réglementé, la personne tenue à l'information
+prévue au premier alinéa est tenue de déclarer, à l'occasion des franchissements de seuil du dixième ou du cinquième du
+capital ou des droits de vote, les objectifs qu'elle a l'intention de poursuivre au cours des douze mois à venir. Cette
+déclaration précise si l'acquéreur agit seul ou de concert, s'il envisage d'arrêter ses achats ou de les poursuivre,
+d'acquérir ou non le contrôle de la société, de demander sa nomination ou celle d'une ou plusieurs personnes comme
+administrateur, membre du directoire ou du conseil de surveillance. Elle est adressée à la société dont les actions ont été
+acquises, à l'Autorité des marchés financiers dans un délai de dix jours de bourse. Cette information est portée à la
+connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers. En cas de
+changement d'intention, lequel ne peut être motivé que par des modifications importantes dans l'environnement, la situation
+ou l'actionnariat des personnes concernées, une nouvelle déclaration doit être établie et portée à la connaissance du public
+dans les mêmes conditions.
 
 Art. L. 233-8 - Au plus tard dans les quinze jours qui suivent l'assemblée générale ordinaire, toute société par actions
 informe ses actionnaires du nombre total de droits de vote existant à cette date. Dans la mesure où, entre deux assemblées
@@ -21332,16 +21339,6 @@ pas procédé aux déclarations prévues à l'article L. 233-7 ou qui n'aurait p
 septième alinéa de cet article pendant la période de douze mois suivant sa publication dans les conditions fixées par le
 règlement général de l'Autorité des marchés financiers.
 
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -21350,11 +21347,10 @@ financiers sont remplacées par la référence au règlement général de l'Auto
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
-	  - Code de commerce L233-7 à L233-14, L228-1, L228-3-3
 	  - Code de commerce. - art. L228-1 (M)
 	  - Code de commerce. - art. L228-3-3 (M)
 	  - Code monétaire et financier L233-14, L233-7, L233-3, L233-12
@@ -28298,8 +28294,8 @@ réalisées par cette société pour le compte de la société de crédit foncie
 
 ###### Article L515-32
 
-Les articles L. 228-39, L. 228-42 et la seconde phrase du dernier alinéa de l'article L. 225-100 du code de commerce ne sont
-pas applicables aux sociétés de crédit foncier.
+L'article L. 228-39 et le troisième alinéa de l'article L. 225-100 du code de commerce ne sont pas applicables aux sociétés
+de crédit foncier.
 
 **Liens relatifs à cet article**
 
@@ -28315,12 +28311,12 @@ pas applicables aux sociétés de crédit foncier.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 95 3° JORF 2 août 2003
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
 
 	**Cite**:
 
 	  - Code de commerce. - art. L225-100 (M)
-	  - Code monétaire et financier L228-39, L228-42
+	  - Code monétaire et financier L228-39
 
 
 ###### Article L515-33
@@ -41147,11 +41143,11 @@ réglementé doivent être inscrits à un compte tenu chez elle par la société
 	  - Code monétaire et financier L211-1 à L211-5, L211-4
 
 
-##### Sous-section 2 : Les actions et titres donnant accès au capital
+##### Sous-section 2 : Les titres de capital et titres donnant accès au capital
 
 ###### Article L732-2
 
-Les articles L. 212-1, L. 212-2, L. 212-4 à L. 212-12 sont applicables à Mayotte.
+Les articles L. 212-1, L. 212-2, L. 212-4 à L. 212-7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -41159,11 +41155,15 @@ Les articles L. 212-1, L. 212-2, L. 212-4 à L. 212-12 sont applicables à Mayot
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 60 (V) JORF 26 juin 2004
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L212-1 (M)
 	  - Code monétaire et financier - art. L212-2 (M)
-	  - Code monétaire et financier L212-1, L212-2, L212-4 à L212-12
+	  - Code monétaire et financier L212-1, L212-2, L212-4 à L212-7
 
 
 ##### Sous-section 3 : Les titres de créance
@@ -42666,11 +42666,11 @@ réglementé doivent être inscrits à un compte tenu chez elle par la société
 	  - Code monétaire et financier L211-1 à L212-5, L211-4
 
 
-##### Sous-section 2 : Les actions et titres donnant accès au capital
+##### Sous-section 2 : Les titres de capital et titres donnant accès au capital
 
 ###### Article L742-2
 
-Les articles L. 212-1 et L. 212-2, ainsi que les articles L. 212-4 à L. 212-12 sont applicables en Nouvelle-Calédonie.
+Les articles L. 212-1, L. 212-2, L. 212-4 à L. 212-7 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -42678,15 +42678,18 @@ Les articles L. 212-1 et L. 212-2, ainsi que les articles L. 212-4 à L. 212-12 
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 61 (V) JORF 26 juin 2004
+
 	**Anciens textes**:
 
 	  - Code de commerce. - art. L930-1 (M)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L212-1 (M)
-	  - Code monétaire et financier - art. L212-2 (M)
-	  - Code monétaire et financier L212-1, L212-2, L212-4 à L212-12
+	  - Code monétaire et financier - art. L212-1 (V)
+	  - Code monétaire et financier - art. L212-4 (V)
 
 	**Cité par**:
 
@@ -45661,18 +45664,21 @@ réglementé doivent être inscrits à un compte tenu chez elle par la société
 	  - Code monétaire et financier L211-1 à L211-5, L211-4
 
 
-##### Sous-section 2 : Les actions et titres donnant accès au capital
+##### Sous-section 2 : Les titres de capital et titres donnant accès au capital
 
 ###### Article L762-2
 
-Les articles L. 212-1 et L. 212-2 ainsi que les articles L. 212-4 à L. 212-12 sont applicables dans le territoire des îles
-Wallis-et-Futuna.
+Les articles L. 212-1, L. 212-2, L. 212-4 à L. 212-7 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 62 (V) JORF 26 juin 2004
 
 	**Anciens textes**:
 
@@ -45682,7 +45688,7 @@ Wallis-et-Futuna.
 
 	  - Code monétaire et financier - art. L212-1 (M)
 	  - Code monétaire et financier - art. L212-2 (M)
-	  - Code monétaire et financier L212-1, L212-2, L212-4 à L212-12
+	  - Code monétaire et financier L212-1, L212-2, L212-4 à L212-7
 
 	**Cité par**:
 
