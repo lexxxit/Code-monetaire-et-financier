@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-02-25
+Version Consolidée au 2005-04-01
 
 # Partie législative
 
@@ -19649,24 +19649,28 @@ de références nominatives entre l'intermédiaire habilité, le dépositaire ce
 
 ###### Article L431-2
 
-En cas de cession sur un marché réglementé d'instruments financiers mentionnés aux 1, 2 et 3 du I de l'article L. 211-1
-inscrits en compte chez l'émetteur ou chez un intermédiaire habilité, le transfert de la propriété de ces instruments
-financiers résulte de leur inscription au compte de l'acheteur, à la date et dans les conditions définies par les règles de
-place.
+Le transfert de propriété d'instruments financiers mentionnés aux 1, 2 et 3 du I de l'article L. 211-1 et admis aux
+opérations d'un dépositaire central ou livrés dans un système de règlement et de livraison, mentionné à l'article L. 330-1,
+résulte de leur inscription au compte de l'acheteur, à la date et dans les conditions définies par le règlement général de
+l'Autorité des marchés financiers.
 
 Si le compte de l'intermédiaire habilité de l'acheteur n'a pas été crédité des instruments financiers dont il s'agit à la
-date et dans les conditions résultant des règles de place, le transfert est résolu de plein droit, nonobstant toute
-disposition législative contraire, sans préjudice des recours de l'acheteur.
+date et dans les conditions définies dans le règlement général de l'Autorité des marchés financiers, le transfert est résolu
+de plein droit, nonobstant toute disposition législative contraire, sans préjudice des recours de l'acheteur.
 
 Quand plusieurs acheteurs sont affectés par cette résolution, celle-ci est effectuée au prorata des droits de chacun.
 
-En cas d'opération réalisée hors d'un marché réglementé et portant sur des instruments financiers inscrits en compte chez un
-intermédiaire habilité participant à un système de règlement et de livraison d'instruments financiers mentionné à l'article
-L. 330-1, le transfert de propriété résulte du dénouement irrévocable de l'opération tel que les règles de fonctionnement du
-système de règlement et de livraison mentionné ci-dessus l'ont fixé.
+Par dérogation aux alinéas précédents, lorsque le système de règlement et de livraison assure la livraison des instruments
+financiers en prévoyant un dénouement irrévocable en continu, le règlement général de l'Autorité des marchés financiers fixe
+des conditions particulières de transfert de propriété. Ce transfert n'intervient au profit de l'acheteur que lorsque celui-
+ci a réglé le prix de la transaction. Tant que l'acheteur n'a pas réglé le prix, l'intermédiaire qui a reçu les instruments
+financiers en est le propriétaire.
 
-Le client acquiert la propriété des instruments financiers s'il en a réglé le prix. Tant que le client n'a pas réglé le prix,
-l'intermédiaire qui a reçu lesdits instruments financiers en est le propriétaire.
+**Nota:**
+
+Nota : Ordonnance 2005-303 2005-03-31 art. 4 : Les articles 1er, 2, 3 de la présente ordonnance entrent en vigueur à compter
+de la publication au Journal officiel de la République française des dispositions du règlement général de l'Autorité des
+marchés financiers auxquelles les articles L. 431-2 et L. 431-3 modifiés du code monétaire et financier renvoient.
 
 **Liens relatifs à cet article**
 
@@ -19690,6 +19694,10 @@ l'intermédiaire qui a reçu lesdits instruments financiers en est le propriéta
 	  - Code de commerce. - art. L228-1 (V)
 	  - Code monétaire et financier - art. L734-5 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-303 du 31 mars 2005 - art. 1 () JORF 1er avril 2005
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L211-1 (M)
@@ -19699,15 +19707,21 @@ l'intermédiaire qui a reçu lesdits instruments financiers en est le propriéta
 ###### Article L431-3
 
 En cas de livraison d'instruments financiers mentionnés aux 1, 2 et 3 du I de l'article L. 211-1 contre règlement d'espèces,
-le défaut de livraison ou de règlement constaté à la date et dans les conditions résultant des règles de la place ou, à
-défaut, d'une convention entre les parties délie de plein droit de toute obligation la partie non défaillante vis-à-vis de la
-partie défaillante, nonobstant toute disposition législative contraire.
+le défaut de livraison ou de règlement constaté à la date et dans les conditions définies dans le règlement général de
+l'Autorité des marchés financiers ou, à défaut, par une convention entre les parties délie de plein droit de toute obligation
+la partie non défaillante vis-à-vis de la partie défaillante, nonobstant toute disposition législative contraire.
 
 Lorsqu'un intermédiaire teneur de compte ou conservateur procède au dénouement d'une opération, par livraison d'instruments
 financiers contre règlement d'espèces, en se substituant à son client défaillant, il peut se prévaloir des dispositions du
 présent article : il acquiert alors la pleine propriété des instruments financiers ou des espèces reçus de la contrepartie.
-Les dispositions du titre II du livre VI du code de commerce ne font pas obstacle à l'application du présent article. Aucun
-créancier du client défaillant ne peut opposer un droit quelconque sur ces instruments financiers ou espèces.
+Les dispositions du livre VI du code de commerce ne font pas obstacle à l'application du présent article. Aucun créancier du
+client défaillant ne peut opposer un droit quelconque sur ces instruments financiers ou espèces.
+
+**Nota:**
+
+Ordonnance 2005-303 2005-03-31 art. 4 : Les articles 1er,2,3 de la présente ordonnance entrent en vigueur à compter de la
+publication au Journal officiel de la République française des dispositions du règlement général de l'Autorité des marchés
+financiers auxquelles les articles L. 431-2 et L. 431-3 modifiés du code monétaire et financier renvoient.
 
 **Liens relatifs à cet article**
 
@@ -19721,6 +19735,14 @@ créancier du client défaillant ne peut opposer un droit quelconque sur ces ins
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-303 du 31 mars 2005 - art. 2 () JORF 1er avril 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
 	**Cité par**:
 
 	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
@@ -19728,7 +19750,7 @@ créancier du client défaillant ne peut opposer un droit quelconque sur ces ins
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-1 (M)
+	  - Code monétaire et financier - art. L211-1
 
 
 ##### Sous-section 2 : Mise en gage.
