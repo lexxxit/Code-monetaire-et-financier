@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-01-19
+Version Consolidée au 2005-02-25
 
 # Partie législative
 
@@ -3478,7 +3478,9 @@ l'article 105, paragraphe 2 du traité instituant la Communauté européenne.
 L'opposabilité aux tiers et la mise en oeuvre des droits des banques centrales nationales membres du Système européen de
 banques centrales et de la Banque centrale européenne sur les instruments financiers, effets, créances ou sommes d'argent
 nantis, cédés en propriété ou autrement constitués en garantie à leur profit ne sont pas affectées par l'ouverture des
-procédures mentionnées au III de l'article L. 330-2.
+procédures prévues au livre VI du code de commerce ou toute procédure judiciaire ou amiable équivalente sur le fondement d'un
+droit étranger, ni par aucune procédure civile d'exécution prise sur le fondement du droit français ou d'un droit étranger,
+ni par l'exercice d'un droit d'opposition.
 
 La Banque de France s'assure de la sécurité des moyens de paiement tels que définis à l'article L. 311-3, autres que la
 monnaie fiduciaire, et de la pertinence des normes applicables en la matière. Si elle estime qu'un de ces moyens de paiement
@@ -3501,9 +3503,9 @@ ses membres. Un décret en Conseil d'Etat précise sa composition et ses compét
 L'observatoire établit chaque année un rapport d'activité remis au ministre chargé de l'économie, des finances et de
 l'industrie et transmis au Parlement.
 
-II. - Dans le cadre des missions du Système européen de banques centrales, et sans préjudice des compétences du Conseil des
-marchés financiers et de la commission bancaire, la Banque de France veille à la sécurité des systèmes de compensation, de
-règlement et de livraison des instruments financiers.
+II. - Dans le cadre des missions du Système européen de banques centrales, et sans préjudice des compétences de l'Autorité
+des marchés financiers et de la commission bancaire, la Banque de France veille à la sécurité des systèmes de compensation,
+de règlement et de livraison des instruments financiers.
 
 **Liens relatifs à cet article**
 
@@ -3515,13 +3517,8 @@ règlement et de livraison des instruments financiers.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2001-1168 2001-12-11 art. 27 1° JORF 12 décembre 2001
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
 	  - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002
 	  - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002 - art. 2 (Ab)
@@ -3531,6 +3528,11 @@ règlement et de livraison des instruments financiers.
 	  - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002 - art. 6 (Ab)
 	  - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002 - art. 7 (Ab)
 	  - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002 - art. 8 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 3 () JORF 25 février 2005
 
 	**Cité par**:
 
@@ -3552,7 +3554,6 @@ règlement et de livraison des instruments financiers.
 	**Cite**:
 
 	  - Code monétaire et financier - art. L311-3 (V)
-	  - Code monétaire et financier - art. L330-2 (M)
 	  - Traité CEE 1957-03-25 art. 105
 
 
@@ -13584,48 +13585,6 @@ que soit le support ou le procédé technique utilisé.
 	  - Code monétaire et financier - art. L712-5 (VT)
 
 
-##### Section 4 : Compensation.
-
-###### Article L311-4
-
-Les dettes et créances afférentes aux crédits et dépôts de fonds, régies par une convention-cadre respectant les principes
-généraux d'une convention-cadre de place, nationale ou internationale, et organisant les relations entre établissements de
-crédit, entreprises d'investissement, institutions et services visés à l'article L. 518-1 ou établissements non résidents
-ayant un statut comparable, lorsqu'ils procèdent à des opérations de trésorerie dans des conditions précisées par décret,
-sont compensables selon les modalités prévues par la convention-cadre.
-
-Lorsqu'une des parties fait l'objet d'une des procédures prévues par le livre VI du code de commerce, ladite convention-cadre
-peut prévoir la résiliation de plein droit des opérations mentionnées à l'alinéa précédent. Les modalités de résiliation et
-de compensation prévues par la convention-cadre visée à l'alinéa précédent sont opposables aux créanciers saisissants. Toute
-opération de résiliation et de compensation effectuée en raison d'une procédure civile d'exécution est réputée être
-intervenue avant ladite procédure.
-
-Les dispositions du livre VI du code de commerce ne font pas obstacle à l'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 29 () JORF 16 mai 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance 2004-171 2005-02-24 art. 5 JORF 25 février 2005
-
-	**Cité par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L518-1 (M)
-
-
 #### Chapitre II : Comptes et dépôts
 
 ##### Section 1 : Droit au compte et relations avec le client
@@ -17120,20 +17079,22 @@ NOTA : l'article L. 622-7 du code monétaire et financier a été abrogé par l'
 
 ###### Article L330-2
 
-I. - Les règlements, la convention-cadre ou la convention type régissant tout système de règlements interbancaires ou tout
-système de règlement et de livraison d'instruments financiers mentionnés à L. 330-1 peuvent, lorsqu'ils organisent les
-relations entre plus de deux parties, exiger des établissements participant, directement ou indirectement, auxdits systèmes,
-outre la constitution en gage de comptes d'instruments financiers mentionnés à l'article L. 431-4, des remises de valeurs,
-titres, effets, créances ou sommes d'argent ou la constitution de sûretés sur lesdites valeurs, titres, effets, créances ou
-sommes d'argent pour satisfaire aux obligations de paiement découlant de la participation à un tel système. Les remises
-susmentionnées sont effectuées en pleine propriété, à titre de garantie, et sont opposables aux tiers sans formalités.
+I. - Les règles de fonctionnement, la convention-cadre ou la convention type régissant tout système mentionné à l'article L.
+330-1 peuvent, lorsqu'ils organisent les relations entre plus de deux parties, exiger des établissements participant,
+directement ou indirectement, à un tel système des garanties constituées et susceptibles de réalisation conformément aux
+dispositions de l'article L. 431-7-3 ou l'affectation spéciale des valeurs, titres, effets, créances ou sommes d'argent pour
+satisfaire aux obligations de paiement découlant de la participation à un tel système.
 
-II. - Les règlements, la convention-cadre ou la convention type précisent les modalités, opposables aux créanciers
-saisissants, de constitution, d'affectation, de réalisation ou d'utilisation des comptes d'instruments financiers ou des
-remises.
+II. - Les règles de fonctionnement, la convention-cadre ou la convention type précisent les modalités de constitution,
+d'affectation, de réalisation ou d'utilisation des biens ou droits constitués en garantie.
 
-III. - Les dispositions du titre Ier et du titre II du livre VI du code de commerce ou celles équivalentes régissant toutes
-procédures judiciaires ou amiables ouvertes hors de France ne font pas obstacle à l'application du présent titre.
+III. - Les dispositions du livre VI du code de commerce ou celles équivalentes régissant toutes procédures judiciaires ou
+amiables ouvertes hors de France ainsi que toutes procédures civiles d'exécution ou tout exercice d'un droit d'opposition ne
+font pas obstacle à l'application du présent titre.
+
+Aucun créancier d'un établissement participant, directement ou indirectement, à un tel système, ou selon le cas, du système
+lui-même, ne peut se prévaloir d'un droit quelconque sur ces garanties, même sur le fondement des dispositions
+susmentionnées.
 
 IV. - Lorsque les instruments financiers, effets, créances, sommes d'argent ou tout instrument similaire émis sur le
 fondement d'un droit étranger sont inscrits dans un registre, un compte ou auprès d'un dépositaire central ou d'un système,
@@ -17154,7 +17115,7 @@ droits du bénéficiaire de ladite garantie sont déterminés par la loi applica
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 30 () JORF 16 mai 2001
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 4 () JORF 25 février 2005
 
 	**Cité par**:
 
@@ -17174,7 +17135,7 @@ droits du bénéficiaire de ladite garantie sont déterminés par la loi applica
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L431-4 (M)
+	  - Code monétaire et financier - art. L431-7-3 (V)
 
 
 ### Titre IV : Le démarchage et le colportage.(en vigueur jusqu'au 1er décembre 2005)
@@ -19777,11 +19738,14 @@ créancier du client défaillant ne peut opposer un droit quelconque sur ces ins
 I. - La constitution en gage d'un compte d'instruments financiers mentionnés aux 1, 2 et 3 du I de l'article L. 211-1 et
 d'instruments financiers équivalents émis sur le fondement de droits étrangers est réalisée, tant entre les parties qu'à
 l'égard de la personne morale émettrice et des tiers, par une déclaration signée par le titulaire du compte. Cette
-déclaration comporte les énonciations fixées par décret. Les instruments financiers figurant dans le compte gagé, ceux qui
-leur sont substitués ou les complètent, de quelque manière que ce soit, ainsi que leurs fruits et produits en toute monnaie,
-sont compris dans l'assiette du gage. Le créancier gagiste peut obtenir, sur simple demande au teneur de compte, une
-attestation de nantissement de compte d'instruments financiers, comportant l'inventaire des instruments financiers et sommes
-en toute monnaie, inscrits en compte gagé à la date de délivrance de cette attestation.
+déclaration comporte les énonciations fixées par décret. Les instruments financiers figurant initialement dans le compte
+gagé, ceux qui leur sont substitués ou les complètent en garantie de la créance initiale du créancier gagiste, de quelque
+manière que ce soit, ainsi que leurs fruits et produits en toute monnaie, sont compris dans l'assiette du gage. Le créancier
+gagiste peut obtenir, sur simple demande au teneur de compte, une attestation de nantissement de compte d'instruments
+financiers, comportant l'inventaire des instruments financiers et sommes en toute monnaie, inscrits en compte gagé à la date
+de délivrance de cette attestation. Les instruments financiers et les sommes en toute monnaie postérieurement inscrits au
+crédit du compte gagé, en garantie de la créance initiale du créancier gagiste, sont soumis aux mêmes conditions que ceux y
+figurant initialement et sont considérés comme ayant été remis à la date de déclaration de gage initiale.
 
 II. - Le compte gagé prend la forme d'un compte spécial ouvert au nom du titulaire et tenu par un intermédiaire habilité, un
 dépositaire central ou, le cas échéant, la personne morale émettrice.
@@ -19789,13 +19753,21 @@ dépositaire central ou, le cas échéant, la personne morale émettrice.
 A défaut d'un compte spécial, sont réputés constituer le compte gagé les instruments financiers mentionnés au premier alinéa,
 ainsi que les sommes en toute monnaie ayant fait l'objet d'une identification à cet effet par un procédé informatique.
 
-III. - Le créancier gagiste définit avec le titulaire du compte les conditions dans lesquelles ce dernier peut disposer des
+III. - Lorsque les instruments financiers figurant dans le compte gagé sont en forme nominative et que le teneur du compte
+n'est pas une personne autorisée à recevoir des fonds du public au sens de l'article L. 312-2, les fruits et produits
+mentionnés au I versés en toute monnaie doivent être inscrits au crédit d'un compte spécial ouvert au nom du titulaire du
+compte gagé dans les livres d'un intermédiaire habilité ou d'un établissement de crédit. Ce compte spécial est réputé faire
+partie intégrante du compte gagé à la date de signature de la déclaration de gage. Le créancier gagiste peut obtenir, sur
+simple demande au teneur du compte spécial, une attestation comportant l'inventaire des sommes en toute monnaie inscrites au
+crédit de ce compte à la date de la délivrance de cette attestation.
+
+IV. - Le créancier gagiste définit avec le titulaire du compte les conditions dans lesquelles ce dernier peut disposer des
 instruments financiers et des sommes en toute monnaie figurant dans le compte gagé. Le créancier gagiste bénéficie en toute
 hypothèse d'un droit de rétention sur les instruments financiers et sommes en toute monnaie figurant au compte gagé.
 
-IV. - Le créancier gagiste titulaire d'une créance certaine, liquide et exigible peut, pour les valeurs mobilières,
-françaises ou étrangères, négociées sur un marché réglementé, les parts ou actions d'organismes de placement collectif, ainsi
-que pour les sommes en toute monnaie, réaliser le gage, civil ou commercial, huit jours - ou à l'échéance de tout autre délai
+V. - Le créancier gagiste titulaire d'une créance certaine, liquide et exigible peut, pour les instruments financiers,
+français ou étrangers, négociés sur un marché réglementé, les parts ou actions d'organismes de placement collectif, ainsi que
+pour les sommes en toute monnaie, réaliser le gage, civil ou commercial, huit jours - ou à l'échéance de tout autre délai
 préalablement convenu avec le titulaire du compte après mise en demeure du débiteur remise en mains propres ou adressée par
 courrier recommandé. Cette mise en demeure du débiteur est également notifiée au constituant du gage lorsqu'il n'est pas le
 débiteur ainsi qu'au teneur de compte lorsque ce dernier n'est pas le créancier gagiste. La réalisation du gage intervient
@@ -19803,6 +19775,12 @@ selon des modalités fixées par décret.
 
 Pour les instruments financiers autres que ceux mentionnés à l'alinéa précédent, la réalisation du gage intervient
 conformément aux dispositions de l'article L. 521-3 du code de commerce.
+
+**Nota:**
+
+Ordonnance 2005-171 2005-02-24 art. 1er 1° c) 2ème alinéa : 
+
+Les dispositions du premier alinéa du I 1° c) revêtent un caractère interprétatif.
 
 **Liens relatifs à cet article**
 
@@ -19816,9 +19794,13 @@ conformément aux dispositions de l'article L. 521-3 du code de commerce.
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000 en vigueur le 1er janvier 2001 rectificatif JORF 17 mars 2001
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 	**Cité par**:
 
@@ -19835,13 +19817,14 @@ conformément aux dispositions de l'article L. 521-3 du code de commerce.
 
 	**Cite**:
 
-	  - Code de commerce. - art. L521-3 (M)
-	  - Code monétaire et financier - art. L211-1 (M)
+	  - Code de commerce - art. L521-3
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L312-2
 
 
 ###### Article L431-5
 
-Les dispositions du IV de l'article L. 431-4 relatives à la réalisation du gage s'appliquent aux nantissements d'instruments
+Les dispositions du V de l'article L. 431-4 relatives à la réalisation du gage s'appliquent aux nantissements d'instruments
 financiers inscrits en compte, français ou étrangers, constitués antérieurement au 4 juillet 1996.
 
 **Liens relatifs à cet article**
@@ -19855,13 +19838,21 @@ financiers inscrits en compte, français ou étrangers, constitués antérieurem
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
 	**Cité par**:
 
 	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L431-4 (M)
+	  - Code monétaire et financier - art. L431-4
 
 
 ###### Article L431-6
@@ -19913,39 +19904,32 @@ propriétaires.
 	  - Code monétaire et financier - art. L613-31 (M)
 
 
-##### Section 2 : Compensation.
+##### Section 2 : Compensation et cession de créances
 
 ###### Article L431-7
 
-Les dettes et les créances afférentes à toutes opérations sur instruments financiers, lorsqu'elles sont effectuées dans le
-cadre du règlement général de l'Autorité des marchés financiers ou lorsqu'elles sont régies par une ou plusieurs conventions-
-cadres respectant les principes généraux de conventions-cadres de place, nationales ou internationales, et organisant les
-relations entre deux parties au moins, dont l'une est un prestataire de services d'investissement ou un établissement public
-ou une institution, entreprise ou un établissement bénéficiaire des dispositions de l'article L. 531-2 ou un établissement
-non résident ayant un statut comparable, sont compensables selon les modalités prévues par ledit règlement, la ou lesdites
-conventions-cadres et peuvent donner lieu à l'établissement d'un solde unique compensé.
+I. - Les dispositions de la présente section sont applicables :
 
-S'il existe deux conventions-cadres ou plus entre les parties, celles-ci peuvent les lier entre elles en sorte que les soldes
-résultant de la compensation qui viendrait à être effectuée pour chaque convention-cadre conformément à l'alinéa précédent
-fassent à leur tour l'objet d'une compensation entre eux.
+1° Aux obligations financières résultant d'opérations sur instruments financiers lorsqu'aucune des parties n'est une personne
+physique et que l'une au moins des parties à l'opération est un établissement de crédit, un prestataire de services
+d'investissement, un établissement public, une collectivité territoriale, une institution, une personne ou entité
+bénéficiaire des dispositions de l'article L. 531-2, une chambre de compensation, un établissement non résident ayant un
+statut comparable, une organisation ou organisme financier international dont la France ou l'Union européenne est membre ;
 
-Lorsque l'une des parties fait l'objet de l'une des procédures prévues par le livre VI du code de commerce, ledit règlement
-ou lesdites conventions-cadres peuvent prévoir la résiliation de plein droit des opérations mentionnées aux premier et
-deuxième alinéas du présent article.
+2° Aux obligations financières résultant de tout contrat donnant lieu à un règlement en espèces ou à une livraison
+d'instruments financiers lorsque toutes les parties appartiennent à l'une des catégories de personnes mentionnées à l'alinéa
+précédent, à l'exception des personnes mentionnées aux alinéas c à i du 2° de l'article L. 531-2 ;
 
-Les modalités de résiliation, d'évaluation et de compensation prévues par le règlement, la ou les conventions-cadres visées
-aux alinéas précédents sont opposables aux créanciers saisissants. Toute opération de résiliation, d'évaluation ou de
-compensation effectuée en raison d'une procédure civile d'exécution est réputée être intervenue avant ladite procédure.
+3° Aux obligations financières résultant de tout contrat conclu dans le cadre d'un système mentionné à l'article L. 330-1.
 
-La cession de créances afférentes aux opérations régies par la ou les conventions-cadres visées au premier alinéa du présent
-article est opposable aux tiers par l'accord écrit du débiteur cédé. A titre de garantie des obligations découlant de la ou
-des conventions-cadres, les parties peuvent également prévoir des remises, en pleine propriété, à titre de garantie et
-opposables aux tiers sans formalité, de valeurs, titres, effets, créances ou de sommes d'argent, ou la constitution de
-sûretés sur de tels biens et droits, réalisables même lorsque l'une des parties fait l'objet d'une des procédures visées au
-troisième alinéa du présent article. Les dettes et créances relatives à ces remises et sûretés et celles afférentes auxdites
-obligations sont alors compensables conformément aux dispositions des premier et deuxième alinéas du présent article.
+II. - Les conventions relatives aux obligations financières mentionnées au I sont résiliables, et les dettes et les créances
+y afférentes sont compensables. Les parties peuvent prévoir l'établissement d'un solde unique, que ces obligations
+financières soient régies par une ou plusieurs conventions ou conventions-cadres.
 
-Les dispositions du livre VI du code de commerce ne font pas obstacle à l'application du présent article.
+III. - Les modalités de résiliation, d'évaluation et de compensation des opérations et obligations mentionnées aux I et II
+sont opposables aux tiers. Ces modalités peuvent être notamment prévues par des conventions ou conventions-cadres. Toute
+opération de résiliation, d'évaluation ou de compensation faite en raison d'une procédure civile d'exécution ou de l'exercice
+d'un droit d'opposition est réputée être intervenue avant cette procédure.
 
 **Liens relatifs à cet article**
 
@@ -19994,12 +19978,212 @@ Les dispositions du livre VI du code de commerce ne font pas obstacle à l'appli
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 38 1°, art. 39 JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 39 () JORF 2 août 2003
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L330-1 (M)
 	  - Code monétaire et financier - art. L531-2 (M)
+
+
+###### Article L431-7-1
+
+La cession de créances afférentes aux obligations financières mentionnées au I de l'article L. 431-7 est opposable aux tiers
+du fait de la notification de la cession au débiteur. La cession de contrats afférents aux obligations financières
+mentionnées au I de l'article L. 431-7 est opposable aux tiers du fait de l'accord écrit des parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L431-7
+
+
+###### Article L431-7-2
+
+Les dispositions du livre VI du code de commerce, ou celles régissant toutes procédures judiciaires ou amiables équivalentes
+ouvertes sur le fondement de droits étrangers, ne font pas obstacle à l'application des dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+
+##### Section 3 : Garanties
+
+###### Article L431-7-3
+
+I. - A titre de garantie des obligations financières présentes ou futures mentionnées au I de l'article L. 431-7, les parties
+peuvent prévoir des remises en pleine propriété, opposables aux tiers sans formalités, de valeurs, instruments financiers,
+effets, créances, contrats ou sommes d'argent, ou la constitution de sûretés sur de tels biens ou droits, réalisables, même
+lorsque l'une des parties fait l'objet d'une des procédures prévues par le livre VI du code de commerce, ou d'une procédure
+judiciaire ou amiable équivalente sur le fondement d'un droit étranger, ou d'une procédure civile d'exécution ou de
+l'exercice d'un droit d'opposition.
+
+Les dettes et créances relatives à ces garanties et celles afférentes à ces obligations sont alors compensables conformément
+au II de l'article L. 431-7.
+
+II. - Lorsque les garanties mentionnées au I sont relatives aux obligations financières mentionnées aux 2° et 3° du I de
+l'article L. 431-7 :
+
+1° La constitution de telles garanties et leur opposabilité ne sont subordonnées à aucune formalité. Elles résultent du
+transfert des biens et droits en cause, de la dépossession du constituant ou de leur contrôle par le bénéficiaire ou par une
+personne agissant pour son compte ;
+
+2° L'identification des biens et droits en cause, leur transfert, la dépossession du constituant ou le contrôle par le
+bénéficiaire doivent pouvoir être attestés par écrit ;
+
+3° La réalisation de telles garanties intervient à des conditions normales de marché, par compensation, appropriation ou
+vente, sans mise en demeure préalable, selon les modalités d'évaluation prévues par les parties dès lors que les obligations
+financières couvertes sont devenues exigibles.
+
+III. - L'acte prévoyant la constitution des sûretés mentionnées au I peut définir les conditions dans lesquelles le
+bénéficiaire de ces sûretés peut utiliser ou aliéner les biens ou droits en cause, à charge pour lui de restituer au
+constituant des biens ou droits équivalents. Les sûretés concernées portent alors sur les biens ou droits équivalents ainsi
+restitués comme si elles avaient été constituées dès l'origine sur ces biens ou droits équivalents. Cet acte peut permettre
+au bénéficiaire de compenser sa dette de restitution des biens ou droits équivalents avec les obligations financières au
+titre desquelles les sûretés ont été constituées, lorsqu'elles sont devenues exigibles.
+
+Par biens ou droits équivalents on entend :
+
+1° Lorsqu'il s'agit d'espèces, une somme de même montant et dans la même monnaie ;
+
+2° Lorsqu'il s'agit d'instruments financiers, des instruments financiers ayant le même émetteur ou débiteur, faisant partie
+de la même émission ou de la même catégorie, ayant la même valeur nominale, libellés dans la même monnaie et ayant la même
+désignation ou, d'autres actifs, lorsque les parties le prévoient, en cas de survenance d'un fait concernant ou affectant les
+instruments financiers constitués en sûreté.
+
+Lorsqu'il s'agit d'autres biens ou droits que ceux mentionnés aux 1° et 2°, la restitution porte sur ces mêmes biens ou
+droits.
+
+IV. - Les modalités de réalisation et de compensation des garanties mentionnées au I et des obligations mentionnées au I de
+l'article L. 431-7 sont opposables aux tiers. Toute réalisation ou compensation effectuée en raison d'une procédure civile
+d'exécution ou de l'exercice d'un droit d'opposition est réputée être intervenue avant cette procédure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°89-623 du 6 septembre 1989 - art. 4-4 (Ab)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis-0 A bis (V)
+	  - Code monétaire et financier - art. L214-43 (V)
+	  - Code monétaire et financier - art. L330-2 (V)
+	  - Code monétaire et financier - art. L431-7-4 (Ab)
+	  - Code monétaire et financier - art. L734-3 (VT)
+	  - Code monétaire et financier - art. L734-8-1 (Ab)
+	  - Code monétaire et financier - art. L744-8-1 (V)
+	  - Code monétaire et financier - art. L754-8-1 (V)
+	  - Code monétaire et financier - art. L764-8-1 (V)
+	  - Code monétaire et financier - art. R214-12 (V)
+	  - Code monétaire et financier - art. R214-188 (V)
+	  - Code monétaire et financier - art. R214-189 (V)
+	  - Code monétaire et financier - art. R214-97 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L431-7
+
+
+###### Article L431-7-4
+
+Les droits ou obligations du constituant, du bénéficiaire ou de tout tiers relatifs aux garanties mentionnées au I de
+l'article L. 431-7-3 portant sur des instruments financiers représentés par une inscription en compte sont déterminés par la
+loi de l'Etat où est situé le compte sur lequel les instruments financiers sont remis ou constitués en garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L431-7-3
+
+
+###### Article L431-7-5
+
+Les dispositions du livre VI du code de commerce, ou celles régissant toutes les procédures judiciaires ou amiables
+équivalentes ouvertes sur le fondement de droits étrangers, ne font pas obstacle à l'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 
 #### Chapitre II : Formes particulières de cessions d'instruments financiers
@@ -43576,11 +43760,11 @@ Les articles L. 431-3 à L. 431-6 sont applicables à Mayotte.
 	  - Code monétaire et financier L431-3 à L431-6
 
 
-##### Paragraphe 2 : Compensation
+##### Paragraphe 2 : Compensation et cession de créances
 
 ###### Article L734-7
 
-L'article L. 431-7 est applicable à Mayotte.
+Les articles L. 431-7 à L. 431-7-5 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -43592,9 +43776,13 @@ L'article L. 431-7 est applicable à Mayotte.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L431-7 (M)
+	  - Code monétaire et financier L431-7 à L431-7-5
 
 
 ##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers
@@ -45191,11 +45379,14 @@ Les articles L. 431-4 à L. 431-6 sont applicables en Nouvelle-Calédonie.
 	  - Code monétaire et financier L431-4 à L431-6
 
 
-##### Paragraphe 2 : Compensation.
+##### Paragraphe 2 : Compensation et cession de créances
 
 ###### Article L744-7
 
-L'article L. 431-7 est applicable en Nouvelle-Calédonie.
+Les articles L. 431-7 à L. 431-7-5 sont applicables en Nouvelle-Calédonie. Au 1° de l'article L. 431-7, après les mots :
+
+"bénéficiaires des dispositions de l'article L. 531-2" sont ajoutés les mots : "à l'exception des personnes mentionnées au a
+du 2°".
 
 **Liens relatifs à cet article**
 
@@ -45207,9 +45398,14 @@ L'article L. 431-7 est applicable en Nouvelle-Calédonie.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L431-7 (M)
+	  - Code monétaire et financier L431-7 à L431-7-5, L431-7
 
 
 ##### Sous-section 2 : Formes particulières de cessions d'instruments financiers
@@ -46872,7 +47068,12 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 Les articles L. 330-1 et L. 330-2 sont applicables en Polynésie française sous réserve, au I de l'article L. 330-1, de
 supprimer au premier alinéa les mots : "ou internationale" et "ou d'établissement non résident ayant un statut comparable",
-la seconde phrase du deuxième alinéa ainsi que le troisième alinéa.
+la seconde phrase du deuxième alinéa ainsi que le troisième alinéa. A l'article L. 330-2, la référence au livre VI du code de
+commerce est remplacée par la référence aux dispositions en vigueur en Polynésie française ayant le même objet.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -46886,7 +47087,7 @@ la seconde phrase du deuxième alinéa ainsi que le troisième alinéa.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V) JORF 21 août 2004
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
 
 	**Cite**:
 
@@ -47112,11 +47313,14 @@ Les articles L. 431-4 à L. 431-6 sont applicables en Polynésie française.
 	  - Code monétaire et financier L431-4 à L431-6
 
 
-##### Paragraphe 2 : Compensation
+##### Paragraphe 2 : Compensation et cession de créances
 
 ###### Article L754-7
 
-L'article L. 431-7 est applicable en Polynésie française.
+Les articles L. 431-7 à L. 431-7-5 sont applicables en Polynésie française. Au 1° du I de l'article L. 431-7, après les
+mots : "les bénéficiaires des dispositions de l'article L. 531-2" sont ajoutés les mots : "à l'exception des personnes
+mentionnées au a du 2°". La référence au livre VI du code de commerce est remplacée par la référence aux dispositions en
+vigueur en Polynésie française ayant le même objet.
 
 **Liens relatifs à cet article**
 
@@ -47128,9 +47332,14 @@ L'article L. 431-7 est applicable en Polynésie française.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L431-7 (M)
+	  - Code monétaire et financier L431-7 à L431-7-5, L431-7
 
 
 ##### Sous-section 2 : Formes particulières de cessions d'instruments financiers
@@ -48977,11 +49186,11 @@ Les articles L. 431-4 à L. 431-6 sont applicables dans le territoire des îles 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 2 : Compensation
+##### Paragraphe 2 : Compensation et cession de créances
 
 ###### Article L764-7
 
-L'article L. 441-7 est applicable dans le territoire des îles Wallis-et-Futuna.
+Les articles L. 431-7 à L. 431-7-5 sont applicables dans les îles Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
 
@@ -48992,6 +49201,10 @@ L'article L. 441-7 est applicable dans le territoire des îles Wallis-et-Futuna.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
 
 
 ##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers
