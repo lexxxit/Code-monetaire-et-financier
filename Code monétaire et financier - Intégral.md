@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-08-07
+Version Consolidée au 2004-08-11
 
 # Partie législative
 
@@ -140,8 +140,27 @@ dispositions de l'article 759 du code civil.
 ###### Article L112-3
 
 Par dérogation aux dispositions de l'article L. 112-1 et du premier alinéa de l'article L. 112-2 et selon des modalités
-fixées par décret, les titres de créance et les instruments financiers à terme mentionnés aux 2 et 4 du I de l'article L.
-211-1 peuvent être indexés sur le niveau général des prix.
+définies par décret, peuvent être indexés sur le niveau général des prix :
+
+1° Les titres de créance et les instruments financiers à terme mentionnés aux 2 et 4 du I de l'article L. 211-1 ;
+
+2° Les premiers livrets de la Caisse nationale d'épargne et des caisses d'épargne et de prévoyance, ainsi que les comptes
+spéciaux sur livret du crédit mutuel définis à l'article L. 221-1 ;
+
+3° Les comptes sur livret d'épargne populaire définis à l'article L. 221-13 ;
+
+4° Les comptes pour le développement industriel définis à l'article L. 221-27 ;
+
+5° Les comptes d'épargne-logement définis à l'article L. 315-1 du code de la construction et de l'habitation ;
+
+6° Les livrets d'épargne-entreprise définis à l'article 1er de la loi n° 84-578 du 9 juillet 1984 sur le développement de
+l'initiative économique ;
+
+7° Les livrets d'épargne institués au profit des travailleurs manuels définis à l'article 80 de la loi de finances pour 1977
+(n° 76-1232 du 29 décembre 1976) ;
+
+8° Les prêts accordés aux personnes morales ainsi qu'aux personnes physiques pour les besoins de leur activité
+professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -152,20 +171,30 @@ fixées par décret, les titres de créance et les instruments financiers à ter
 	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 79, v. init.
 	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 79 (V)
 
+	**Cite**:
+
+	  - Loi n°76-1232 1976-12-29 art. 80 Finances pour 1977
+	  - Loi n°84-578 du 9 juillet 1984 - art. 1, v. init.
+	  - Code monétaire et financier - art. L112-2 (M)
+	  - Code monétaire et financier - art. L211-1 (M)
+	  - Code monétaire et financier - art. L221-1 (M)
+	  - Code monétaire et financier - art. L221-13 (V)
+	  - Code monétaire et financier - art. L221-27 (M)
+	  - Code de la construction et de l'habitation. - art. L315-1 (M)
+
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-804 du 9 août 2004 - art. 3 () JORF 11 août 2004
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 125 A (VD)
 	  - Code monétaire et financier - art. D112-1 (V)
 	  - Code monétaire et financier - art. L112-1 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L112-2 (M)
-	  - Code monétaire et financier - art. L211-1 (M)
 
 
 ###### Article L112-4
@@ -15678,25 +15707,22 @@ sciemment au détriment du débiteur.
 
 ###### Article L313-29-1
 
-En cas de cession d'une créance détenue sur une personne publique par le titulaire d'un contrat de partenariat, ce contrat
-peut prévoir que, pour une part de la créance cédée représentant une fraction du coût des investissements, les dispositions
-des articles L. 313-28 et L. 313-29 ne sont pas applicables. Dans ce cas, le contrat prévoit que la part de la créance
-mentionnée ci-dessus est, après constatation par la personne publique contractante que les investissements ont été réalisés,
-définitivement acquise au cessionnaire, sans pouvoir être affectée par aucune compensation. Le titulaire du contrat est tenu
-de se libérer auprès de la personne publique contractante des dettes dont il peut être redevable à son égard du fait de
-manquements à ses obligations contractuelles et, notamment, du fait des pénalités qui ont pu lui être infligées ;
-l'opposition à l'état exécutoire émis par la personne publique n'a pas d'effet suspensif dans la limite du montant ayant fait
-l'objet de la garantie au profit du cessionnaire.
+En cas de cession d'une créance détenue sur une personne publique par le titulaire d'un contrat de partenariat ou d'un
+contrat visé au premier alinéa de l'article L. 6148-5 du code de la santé publique, ce contrat peut prévoir que, pour une
+part de la créance cédée représentant une fraction du coût des investissements, les dispositions des articles L. 313-28 et L.
+313-29 ne sont pas applicables. Dans ce cas, le contrat prévoit que la part de la créance mentionnée ci-dessus est, après
+constatation par la personne publique contractante que les investissements ont été réalisés, définitivement acquise au
+cessionnaire, sans pouvoir être affectée par aucune compensation. Le titulaire du contrat est tenu de se libérer auprès de la
+personne publique contractante des dettes dont il peut être redevable à son égard du fait de manquements à ses obligations
+contractuelles et, notamment, du fait des pénalités qui ont pu lui être infligées ; l'opposition à l'état exécutoire émis par
+la personne publique n'a pas d'effet suspensif dans la limite du montant ayant fait l'objet de la garantie au profit du
+cessionnaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 28 () JORF 19 juin 2004
 
 	**Cité par**:
 
@@ -15714,10 +15740,9 @@ l'objet de la garantie au profit du cessionnaire.
 	  - Code monétaire et financier - art. L763-5 (V)
 	  - Code monétaire et financier - art. R313-17-2 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code monétaire et financier - art. L313-28 (V)
-	  - Code monétaire et financier - art. L313-29 (V)
+	  - Loi n°2004-806 du 9 août 2004 - art. 153 () JORF 11 août 2004
 
 
 ##### Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti
@@ -17161,6 +17186,76 @@ réforme de certaines professions judiciaires et juridiques.
 	  - Code monétaire et financier - art. R519-2 (V)
 
 
+###### Article L341-2
+
+Les règles concernant le démarchage bancaire ou financier ne s'appliquent pas :
+
+1° Aux prises de contact avec les investisseurs qualifiés définis à l'article L. 411-2 et avec les personnes morales dont le
+total du bilan, le chiffre d'affaires, le montant des actifs gérés, les recettes ou les effectifs sont supérieurs à un seuil
+fixé par décret ;
+
+2° Aux prises de contact dans les locaux des personnes mentionnées à l'article L. 341-3, sauf lorsque ces personnes sont
+contractuellement liées, en vue de la commercialisation d'instruments financiers et de produits d'épargne, aux sociétés
+exploitant des magasins de grande surface visés à la section 3 du chapitre Ier du titre V du livre IV du code de l'urbanisme,
+et que leurs locaux sont implantés dans les locaux de ces magasins ;
+
+3° Aux démarches dans les locaux professionnels d'une personne morale à la demande de cette dernière ;
+
+4° Aux prises de contact avec des personnes morales, lorsqu'elles portent exclusivement sur les services visés au 4 de
+l'article L. 321-2 ;
+
+5° Lorsque la personne visée est déjà cliente de la personne pour le compte de laquelle la prise de contact a lieu, dès lors
+que l'opération proposée correspond, à raison de ses caractéristiques, des risques ou des montants en cause, à des opérations
+habituellement réalisées par cette personne ;
+
+6° Aux démarches effectuées, pour le compte d'un établissement de crédit, en vue de proposer un contrat de financement de
+biens ou de prestations de services répondant aux conditions prévues à la section 5 du chapitre Ier du titre Ier du livre III
+du code de la consommation, ou constituant une location-vente ou une location avec option d'achat visées à l'article L. 311-2
+dudit code. Il en va de même lorsque ces contrats sont destinés aux besoins d'une activité professionnelle ;
+
+7° Sans préjudice des dispositions prévues au 6°, aux démarches effectuées pour le compte d'un établissement de crédit en vue
+de proposer des contrats de financement de ventes à tempérament ou de location aux personnes, physiques ou morales, autres
+que celles visées au 1°, à la condition que le nom de l'établissement prêteur et le coût du crédit ou de la location soient
+mentionnés, sous peine de nullité ;
+
+8° Aux démarches effectuées sur le lieu de vente, pour le compte d'un établissement de crédit, en vue de proposer des crédits
+visés au titre Ier du livre III du code de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-1010 du 28 décembre 1966 - art. 9 (M)
+	  - Loi n°66-1010 du 28 décembre 1966 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-804 du 9 août 2004 - art. 4 () JORF 11 août 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-1019 du 28 septembre 2004 - art. 1 (Ab)
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 4 (V)
+	  - Code monétaire et financier - art. D341-1 (V)
+	  - Code monétaire et financier - art. L341-3 (M)
+	  - Code monétaire et financier - art. L341-4 (M)
+	  - Code monétaire et financier - art. L353-1 (M)
+	  - Code monétaire et financier - art. L733-10 (Ab)
+	  - Code monétaire et financier - art. L743-10 (M)
+	  - Code monétaire et financier - art. L753-10 (M)
+	  - Code monétaire et financier - art. L763-10 (VD)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L311-2 (V)
+	  - Code monétaire et financier - art. L321-2 (M)
+	  - Code monétaire et financier - art. L411-2 (M)
+
+
 ##### Section 2 : Personnes habilitées à procéder au démarchage.
 
 ###### Article L341-3
@@ -17848,76 +17943,6 @@ les banquiers et agents de change, ou dans les lieux publics, en vue des opérat
 ### Titre IV : Le démarchage et le colportage
 
 #### Chapitre Ier : Démarchage bancaire ou financier
-
-##### Section 1 : Définition.
-
-###### Article L341-2
-
-Les règles concernant le démarchage bancaire ou financier ne s'appliquent pas :
-
-1° Aux prises de contact avec les investisseurs qualifiés définis à l'article L. 411-2 et avec les personnes morales dont le
-total du bilan, le chiffre d'affaires, le montant des actifs gérés, les recettes ou les effectifs sont supérieurs à un seuil
-fixé par décret ;
-
-2° Aux prises de contact dans les locaux des personnes mentionnées à l'article L. 341-3, sauf lorsque ces personnes sont
-contractuellement liées, en vue de la commercialisation d'instruments financiers et de produits d'épargne, aux sociétés
-exploitant des magasins de grande surface visés à la section 3 du chapitre Ier du titre V du livre IV du code de l'urbanisme,
-et que leurs locaux sont implantés dans les locaux de ces magasins ;
-
-3° Aux démarches dans les locaux professionnels d'une personne morale à la demande de cette dernière ;
-
-4° Aux prises de contact avec des personnes morales, lorsqu'elles portent exclusivement sur les services visés au 4 de
-l'article L. 321-2 ;
-
-5° Lorsque la personne visée est déjà cliente de la personne pour le compte de laquelle la prise de contact a lieu, dès lors
-que l'opération proposée correspond, à raison de ses caractéristiques, des risques ou des montants en cause, à des opérations
-habituellement réalisées par cette personne ;
-
-6° Aux démarches effectuées, pour le compte d'un établissement de crédit, en vue de proposer un contrat de financement de
-biens ou de prestations de services répondant aux conditions prévues à la section 5 du chapitre Ier du titre Ier du livre III
-du code de la consommation, ou constituant une location-vente ou une location avec option d'achat visées à l'article L. 311-2
-dudit code. Il en va de même lorsque ces contrats sont destinés aux besoins d'une activité professionnelle ;
-
-7° Sans préjudice des dispositions prévues au 6°, aux démarches effectuées pour le compte d'un établissement de crédit en vue
-de proposer des contrats de financement de ventes à tempérament aux personnes, physiques ou morales, autres que celles visées
-au 1°, à la condition que le nom de l'établissement prêteur et le coût du crédit soient mentionnés, sous peine de nullité ;
-
-8° Aux démarches effectuées sur le lieu de vente, pour le compte d'un établissement de crédit, en vue de proposer des crédits
-visés au titre Ier du livre III du code de la consommation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-1010 du 28 décembre 1966 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-	**Cité par**:
-
-	  - Décret n°2004-1019 du 28 septembre 2004 - art. 1 (Ab)
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 4 (V)
-	  - Code monétaire et financier - art. D341-1 (V)
-	  - Code monétaire et financier - art. L341-4 (M)
-	  - Code monétaire et financier - art. L353-1 (M)
-	  - Code monétaire et financier - art. L733-10 (Ab)
-	  - Code monétaire et financier - art. L743-10 (M)
-	  - Code monétaire et financier - art. L753-10 (M)
-	  - Code monétaire et financier - art. L763-10 (VD)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L311-2 (V)
-	  - Code monétaire et financier - art. L321-2 (M)
-	  - Code monétaire et financier - art. L341-3 (M)
-	  - Code monétaire et financier - art. L411-2 (M)
-
 
 ##### Section 2 : Personnes habilitées à procéder au démarchage.
 
@@ -32883,6 +32908,9 @@ Les dispositions du présent chapitre sont applicables :
 3. Aux entreprises et services mentionnés à l'article L. 310-1 du code des assurances et aux courtiers d'assurance et de
 réassurance ;
 
+3 bis. Aux institutions ou unions régies par les titres III et IV du livre IX du code de la sécurité sociale ou relevant du
+II de l'article L. 727-2 du code rural ;
+
 4. Aux organismes entrant dans le champ de l'article L. 111-1 du code de la mutualité ;
 
 5. Aux entreprises d'investissement, aux membres des marchés réglementés d'instruments financiers et aux personnes morales
@@ -32911,7 +32939,9 @@ d'appel, dans les conditions prévues à l'article L. 562-2-1 ;
 
 13. Aux commissaires-priseurs judiciaires et aux sociétés de ventes volontaires de meubles aux enchères publiques.
 
-Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont désignées sous le nom d'organismes financiers.
+Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont désignées sous le nom d'organismes financiers ;
+
+14.  Aux intermédiaires habilités mentionnés à l'article L. 211-4.
 
 **Liens relatifs à cet article**
 
@@ -32976,10 +33006,12 @@ Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont
 
 	**Modifié par**:
 
-	  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+	  - Loi n°2004-804 du 9 août 2004 - art. 23 () JORF 11 août 2004
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L211-4 (M)
 	  - Code monétaire et financier - art. L214-1 (M)
 	  - Code monétaire et financier - art. L341-3 (M)
 	  - Code monétaire et financier - art. L341-4 (M)
@@ -32988,6 +33020,7 @@ Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont
 	  - Code monétaire et financier - art. L511-7 (M)
 	  - Code des assurances - art. L310-1 (M)
 	  - Code de la mutualité - art. L111-1 (Ab)
+	  - Code rural L727-2
 
 
 ###### Article L562-2
