@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-06-05
+Version Consolidée au 2004-06-19
 
 # Partie législative
 
@@ -15670,6 +15670,50 @@ sciemment au détriment du débiteur.
 	  - Code général des impôts, CGI. - art. 39 quinquies I (V)
 	  - Code monétaire et financier - art. L313-29-1 (V)
 	  - Code monétaire et financier - art. R313-19 (V)
+
+
+###### Article L313-29-1
+
+En cas de cession d'une créance détenue sur une personne publique par le titulaire d'un contrat de partenariat, ce contrat
+peut prévoir que, pour une part de la créance cédée représentant une fraction du coût des investissements, les dispositions
+des articles L. 313-28 et L. 313-29 ne sont pas applicables. Dans ce cas, le contrat prévoit que la part de la créance
+mentionnée ci-dessus est, après constatation par la personne publique contractante que les investissements ont été réalisés,
+définitivement acquise au cessionnaire, sans pouvoir être affectée par aucune compensation. Le titulaire du contrat est tenu
+de se libérer auprès de la personne publique contractante des dettes dont il peut être redevable à son égard du fait de
+manquements à ses obligations contractuelles et, notamment, du fait des pénalités qui ont pu lui être infligées ;
+l'opposition à l'état exécutoire émis par la personne publique n'a pas d'effet suspensif dans la limite du montant ayant fait
+l'objet de la garantie au profit du cessionnaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 28 () JORF 19 juin 2004
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 11 (VT)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 84 (VD)
+	  - Code de la mutualité - art. R212-47-1 (M)
+	  - Code de la sécurité sociale. - art. R931-10-35-2 (M)
+	  - Code des assurances - art. R332-14-2 (V)
+	  - Code général des collectivités territoriales - art. L1414-12 (VT)
+	  - Code général des collectivités territoriales - art. Rubrique 4 (V)
+	  - Code général des collectivités territoriales - art. Rubrique 5 (VD)
+	  - Code monétaire et financier - art. L313-29-2 (VD)
+	  - Code monétaire et financier - art. L743-5 (V)
+	  - Code monétaire et financier - art. L753-5 (V)
+	  - Code monétaire et financier - art. L763-5 (V)
+	  - Code monétaire et financier - art. R313-17-2 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L313-28 (V)
+	  - Code monétaire et financier - art. L313-29 (V)
 
 
 ##### Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti
