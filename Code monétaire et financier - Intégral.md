@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2001-01-01
+Version Consolidée au 2001-02-20
 
 # Partie législative
 
@@ -6902,13 +6902,13 @@ supérieure à 10 % des actifs.
 
 Un organisme de placement collectif en valeurs mobilières ne peut détenir plus de 10 % d'une même catégorie de valeurs
 mobilières d'un même émetteur. Un décret en Conseil d'Etat fixe les catégories de valeurs mobilières ainsi que les conditions
-dans lesquelles il peut être dérogé à cette limite.
+dans lesquelles il peut être dérogé à cette limite. Ce seuil est porté à 25 % lorsque l'émetteur est une entreprise solidaire
+visée à l'article L. 443-3-1 du code du travail, et dont les fonds propres sont inférieurs à un million de francs.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 25 (MMN)
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 25 (Ab)
 
 	**Cité par**:
@@ -6971,6 +6971,14 @@ dans lesquelles il peut être dérogé à cette limite.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2001-152 du 19 février 2001 - art. 19 () JORF 20 février 2001
+
+	**Cite**:
+
+	  - Code du travail - art. L443-3-1 (M)
 
 
 ###### Article L214-5
@@ -8616,18 +8624,33 @@ Le règlement du fonds constitué en vue de gérer les sommes investies en appli
 commerce et du titre IV du livre IV du code du travail relatif à l'intéressement et à la participation des salariés prévoit
 l'institution d'un conseil de surveillance et les cas où la société de gestion doit recueillir l'avis de ce conseil.
 
-Le règlement prévoit que le conseil de surveillance est composé de représentants des salariés porteurs de parts et, pour
+Le conseil de surveillance est composé de salariés représentant les porteurs de parts, eux-mêmes porteurs de parts et, pour
 moitié au plus, de représentants de l'entreprise ou, si le fonds réunit les valeurs acquises avec des sommes provenant de
 réserves de participation ou versées dans des plans d'épargne d'entreprise constitués dans plusieurs entreprises, des
 représentants de ces entreprises.
 
-Le conseil de surveillance exerce les droits de vote attachés aux valeurs comprises dans le fonds. Toutefois, lorsque celui-
-ci est constitué exclusivement en vue de gérer des titres de l'entreprise ou de sociétés qui lui sont liées au sens de
-l'article L. 225-180 du code de commerce, le règlement peut prévoir que les droits de vote relatifs à ces titres sont exercés
-individuellement par les porteurs de parts, et, pour les fractions de droits formant rompus, par le conseil de surveillance ;
-s'il y a lieu, il fixe en outre les modalités d'exercice des droits de vote double.
+Le règlement précise les modalités de désignation des représentants des porteurs de parts soit par élection, soit par choix
+opéré par le ou les comités d'entreprise intéressés ou par les organisations syndicales représentatives au sens de l'article
+L. 132-2 du code du travail.
 
-Le conseil de surveillance décide des transformations, fusions, scissions ou liquidations.
+Le président du conseil de surveillance est choisi parmi les représentants des porteurs de parts.
+
+Lorsqu'il est fait application du dernier alinéa de l'article L. 443-3 du même code, le règlement fait référence aux
+dispositions précisées par le règlement du plan d'épargne.
+
+Le conseil de surveillance exerce les droits de vote attachés aux valeurs comprises dans le fonds et décide de l'apport des
+titres. Toutefois, le règlement peut prévoir que les droits de vote relatifs à ces titres sont exercés par la société de
+gestion, et que celle-ci peut décider de l'apport des titres, à l'exception des titres de l'entreprise ou de toute entreprise
+qui lui est liée dans les conditions prévues à l'article L. 444-3 du code du travail. Le conseil de surveillance est chargé
+notamment de l'examen de la gestion financière, administrative et comptable. Il peut demander à entendre la société de
+gestion, le dépositaire et le commissaire aux comptes du fonds qui sont tenus de déférer à sa convocation. Il décide des
+fusions, scissions ou liquidations. Le règlement du fonds précise les transformations et les modifications du règlement qui
+ne peuvent être décidées sans l'accord du conseil de surveillance. Sans préjudice des compétences de la société de gestion
+mentionnées à l'article L. 214-25 et de celles du liquidateur prévues à l'article L. 214-31, le conseil de surveillance peut
+agir en justice pour défendre ou faire valoir les droits ou intérêts des porteurs.
+
+Le conseil de surveillance adopte un rapport annuel mis à la disposition de chaque porteur de parts et dont le contenu est
+précisé par un règlement de la Commission des opérations de bourse.
 
 Le règlement peut prévoir que :
 
@@ -8639,16 +8662,65 @@ Le fonds ne peut être dissous que si sa dissolution n'entraîne pas la perte de
 conditions prévues à l'article L. 225-194 du code de commerce et des articles L. 442-7, L. 442-8 et L. 443-6 du code du
 travail.
 
-Aucune modification du règlement du fonds ne peut être décidée sans l'accord du conseil de surveillance.
+Les dispositions du présent article sont applicables aux fonds dont l'actif comprend au plus un tiers de titres émis par
+l'entreprise ou par toute autre société qui est liée dans les conditions prévues à l'article L. 444-3 du code du travail.
 
-Les dispositions du présent article ne sont pas applicables aux fonds communs de placements gérés par une société soumise au
-statut de la coopération et constitués entre les salariés de l'entreprise.
+Le règlement précise, le cas échéant, les considérations sociales, environnementales ou éthiques que doit respecter la
+société de gestion dans l'achat ou la vente des titres, ainsi que dans l'exercice des droits qui leur sont attachés. Le
+rapport annuel du fonds rend compte de leur application, dans des conditions définies par la Commission des opérations de
+bourse.
+
+Lorsque l'entreprise est régie par les dispositions de la loi n° 47-1775 du 10 septembre 1947 portant statut de la
+coopération, le fonds commun de placement d'entreprise peut investir dans les titres de capital qu'elle émet, sans préjudice
+des dispositions spécifiques qui régissent, le cas échéant, la souscription de ces titres par les salariés et dans les
+conditions fixées par décret.
+
+Les dispositions du présent article sont également applicables aux fonds solidaires qui peuvent être souscrits dans le cadre
+du plan partenarial d'épargne salariale volontaire mentionné à l'article L. 443-1-2 du même code. L'actif de ces fonds
+solidaires est composé :
+
+a) Pour une part, comprise entre 5 et 10 %, de titres émis par des entreprises solidaires agréées en application de l'article
+L. 443-3-1 du code du travail ou par des sociétés de capital-risque visées à l'article 1er-1 de la loi n° 85-695 du 11
+juillet 1985 portant diverses dispositions d'ordre économique et financier ou par des fonds communs de placements à risques,
+visés à l'article L. 214-36, sous réserve que leur actif soit composé d'au moins 40 % de titres émis par des entreprises
+solidaires mentionnées à l'article L. 443-3-1 du code du travail ;
+
+b) Pour le surplus, de valeurs mobilières admises aux négociations sur un marché réglementé et, à titre accessoire, de
+liquidités.
+
+Ces fonds ne peuvent, par ailleurs, détenir plus de 10 % de titres de l'entreprise qui a mis en place le plan ou de sociétés
+qui lui sont liées au sens de l'article L. 444-3 du code du travail.
+
+**Nota:**
+
+Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°47-1775 1947-09-10
+	  - Loi n°85-695 1985-07-11
+	  - Code de commerce. - art. L225-187 (Ab)
+	  - Code de commerce. - art. L225-194 (Ab)
+	  - Code monétaire et financier - art. L214-25 (M)
+	  - Code monétaire et financier - art. L214-31 (V)
+	  - Code monétaire et financier - art. L214-36 (M)
+	  - Code du travail - art. L132-2 (M)
+	  - Code du travail - art. L442-7 (M)
+	  - Code du travail - art. L442-8 (Ab)
+	  - Code du travail - art. L443-3-1 (M)
+	  - Code du travail - art. L443-6 (M)
+	  - Code du travail - art. L444-3 (M)
+
 	**Anciens textes**:
 
-	  - Loi n°88-1201 1988-12-23 art. 20
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 20 (Ab)
 
 	**Cité par**:
@@ -8701,30 +8773,57 @@ statut de la coopération et constitués entre les salariés de l'entreprise.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L225-180 (M)
-	  - Code de commerce. - art. L225-187 (Ab)
-	  - Code de commerce. - art. L225-194 (Ab)
-	  - Code du travail - art. L442-7 (M)
-	  - Code du travail - art. L442-8 (Ab)
-	  - Code du travail - art. L443-6 (M)
+	  - Loi n°2001-152 du 19 février 2001 - art. 19 () JORF 20 février 2001
+	  - Loi n°2001-152 du 19 février 2001 - art. 21 () JORF 20 février 2001
+	  - Loi n°2001-152 du 19 février 2001 - art. 23 () JORF 20 février 2001
 
 
 ###### Article L214-40
 
-Un fonds peut être constitué en vue de gérer des titres émis par l'entreprise ou par toute autre société qui lui est liée au
-sens de l'article L. 225-180 du code de commerce et acquis soit directement par les salariés, les anciens salariés ou, dans
-les conditions prévues à l'article 11 de la loi n° 86-912 du 6 août 1986 relative aux modalités d'application des
-privatisations, par les mandataires exclusifs de la société, soit, à travers le fonds, en emploi des sommes reçues
-mentionnées au premier alinéa de l'article L. 214-39.
+Sont soumis aux dispositions du présent article les fonds dont plus du tiers de l'actif est composé de titres émis par
+l'entreprise ou par toute autre société qui lui est liée dans les conditions prévues à l'article L. 444-3 du code du travail.
 
-Le conseil de surveillance du fonds est composé exclusivement de représentants des porteurs de parts en activité ou en
-exercice. Il décide des transformations, fusions, scissions ou liquidations.
+Le règlement du fonds précise la composition et les modalités de désignation de ce conseil, qui peut être effectuée soit par
+élection sur la base du nombre de parts détenues par chaque porteur de parts, soit dans les conditions prévues au deuxième
+alinéa de l'article L. 214-39.
 
-Le règlement prévoit les cas où la société de gestion doit recueillir l'avis du conseil de surveillance.
+Lorsque les membres du conseil de surveillance sont exclusivement des représentants des porteurs de parts, élus sur la base
+du nombre de parts détenues et eux-mêmes salariés de l'entreprise et porteurs de parts du fonds, le conseil exerce les droits
+de vote attachés aux titres émis par l'entreprise ou par toute autre société qui lui est liée ; il rend compte, en les
+motivant, de ses votes aux porteurs de parts.
+
+Lorsque la composition et la désignation du conseil sont régies par le deuxième alinéa de l'article L. 214-39, le règlement
+du fonds prévoit que le conseil de surveillance exerce les droits de vote attachés aux titres émis par l'entreprise ou par
+toute autre société qui lui est liée et rend compte, en les motivant, de ses votes aux porteurs de parts. Toutefois, il peut
+prévoir que les droits de vote relatifs à ces titres sont exercés individuellement par les porteurs de parts, et, pour les
+fractions de parts formant rompus, par le conseil de surveillance. Le conseil met alors à la disposition des porteurs les
+informations économiques et financières, portant sur les trois derniers exercices, qu'il détient sur l'entreprise.
+
+Dans les entreprises qui disposent d'un comité d'entreprise, doivent être transmises au conseil de surveillance les
+informations communiquées à ce comité en application des articles L. 432-4 et L. 432-4-2 du code du travail, ainsi que, le
+cas échéant, copie du rapport de l'expert-comptable désigné en application de l'article L. 434-6 du même code.
+
+Dans les entreprises qui n'ont pas mis en place de comité d'entreprise, le conseil de surveillance peut se faire assister
+d'un expert-comptable dans les conditions précisées à l'article L. 434-6 du code du travail ou convoquer les commissaires aux
+comptes de l'entreprise pour recevoir leurs explications sur les comptes de l'entreprise ; il peut également inviter le chef
+d'entreprise à expliquer les événements ayant eu une influence significative sur la valorisation des titres.
+
+Le conseil de surveillance décide de l'apport des titres aux offres d'achat ou d'échange. Le règlement du fonds précise les
+cas où le conseil doit recueillir l'avis préalable des porteurs.
+
+Le conseil de surveillance est chargé notamment de l'examen de la gestion financière, administrative et comptable du fonds.
+Il peut demander à entendre la société de gestion, le dépositaire et le commissaire aux comptes du fonds qui sont tenus de
+déférer à sa convocation. Il décide des fusions, scissions ou liquidations. Le règlement du fonds précise les transformations
+et les modifications du règlement qui ne peuvent être décidées sans l'accord du conseil de surveillance. Sans préjudice des
+compétences de la société de gestion mentionnées à l'article L. 214-25 et de celles du liquidateur prévues à l'article L.
+214-31, le conseil de surveillance peut agir en justice pour défendre ou faire valoir les droits ou intérêts des porteurs.
+
+Le conseil de surveillance adopte un rapport annuel mis à la disposition de chaque porteur de parts et dont le contenu est
+précisé par un règlement de la Commission des opérations de bourse. Il s'assure de la diffusion régulière par l'entreprise de
+l'information aux porteurs de parts.
 
 Les porteurs de parts peuvent opter pour un rachat en espèces des parts du fonds.
 
@@ -8736,22 +8835,29 @@ ses actifs peut demander en justice la récusation du gestionnaire au motif du d
 dont les actions sont admises aux négociations sur un marché réglementé ou des dirigeants de cette société. La récusation
 prononcée à la suite d'une action judiciaire ouvre droit à des dommages et intérêts au profit de la copropriété.
 
-Les porteurs de parts exercent individuellement les droits de vote attachés aux titres compris dans les actifs de ce fonds.
-
 Dans la limite de 20 % des droits de vote, les fractions de ces droits résultant de rompus peuvent être exercées par la
 société de gestion.
+
+Lorsque l'entreprise est régie par la loi n° 47-1775 du 10 septembre 1947 précitée, le fonds commun de placement d'entreprise
+peut investir dans les titres de capital qu'elle émet, sans préjudice des dispositions spécifiques qui régissent, le cas
+échéant, la souscription de ces titres par les salariés et dans les conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°86-912 1986-08-06 art. 11
-	  - Code de commerce. - art. L225-180 (M)
+	  - Loi n°47-1775 1947-09-10
+	  - Loi n°2001-152 2001-02-19
+	  - Code monétaire et financier - art. L214-25 (M)
+	  - Code monétaire et financier - art. L214-31 (V)
 	  - Code monétaire et financier - art. L214-39 (M)
+	  - Code du travail - art. L432-4 (T)
+	  - Code du travail - art. L432-4-2 (M)
+	  - Code du travail - art. L434-6 (T)
+	  - Code du travail - art. L444-3 (M)
 
 	**Anciens textes**:
 
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 21 (M)
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 21 (Ab)
 
 	**Cité par**:
@@ -8802,7 +8908,49 @@ société de gestion.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2001-152 du 19 février 2001 - art. 23 () JORF 20 février 2001
+
+
+###### Article L214-40-1
+
+Une société d'investissement à capital variable peut avoir pour objet la gestion d'un portefeuille de valeurs mobilières
+émises par l'entreprise ou par toute société qui lui est liée dans les conditions prévues à l'article L. 443-3 du code du
+travail. Les cinquième et sixième alinéas de l'article L. 214-40 s'appliquent à son conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°89-623 du 6 septembre 1989 - art. 5 ter (Ab)
+	  - Décret n°89-624 du 6 septembre 1989 - art. 7 (Ab)
+	  - Loi n°2004-804 du 9 août 2004 - art. 5 (V)
+	  - Arrêté du 12 novembre 2004 - art. 415-1 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 885 I quater (V)
+	  - Code de commerce. - art. L225-138 (M)
+	  - Code de commerce. - art. L225-138-1 (V)
+	  - Code du travail - art. L3332-10 (VD)
+	  - Code du travail - art. L3334-12 (VD)
+	  - Code du travail - art. L443-1-2 (AbD)
+	  - Code du travail - art. L443-2 (AbD)
+	  - Code du travail - art. R3332-27 (VD)
+	  - Code monétaire et financier - art. R214-51 (V)
+	  - Code monétaire et financier - art. R214-57 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2001-152 du 19 février 2001 - art. 10 () JORF 20 février 2001
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-40 (M)
+	  - Code du travail - art. L443-3 (Ab)
 
 
 ##### Sous-section 9 : Fonds communs de placement dans l'innovation.
