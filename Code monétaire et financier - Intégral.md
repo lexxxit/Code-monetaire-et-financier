@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2001-12-12
+Version Consolidée au 2001-12-29
 
 # Partie législative
 
@@ -8567,44 +8567,65 @@ procéder à des opérations d'achat ou de vente à terme sur d'autres marchés 
 
 ###### Article L214-36
 
-L'actif d'un fonds commun de placement à risques doit être constitué, pour 40 % au moins, de valeurs mobilières non admises à
-la négociation sur un marché réglementé français ou étranger, ou, par dérogation à l'article L. 214-20, de parts de société à
-responsabilité limitée. Un décret en Conseil d'Etat fixe la nature de ces actifs, et notamment le plafond autorisé de
-détention des valeurs étrangères qui peuvent être incluses dans la fraction de l'actif définie à la première phrase pour les
-fonds constitués avant le 1er janvier 1990.
+1. L'actif d'un fonds commun de placement à risques doit être constitué, pour 50 % au moins, de titres participatifs ou de
+titres donnant accès directement ou indirectement au capital de sociétés qui ne sont pas admises aux négociations sur un
+marché réglementé français ou étranger, ou, par dérogation à l'article L. 214-20, de parts de sociétés à responsabilité
+limitée ou de sociétés dotées d'un statut équivalent dans leur Etat de résidence.
 
-L'actif peut également comprendre, dans des conditions et limites fixées par le décret mentionné à l'alinéa précédent, des
-avances en compte courant consenties par le fonds aux sociétés dans lesquelles il détient une participation.
+2. L'actif peut également comprendre :
 
-Ce décret fixe en outre des règles spécifiques relatives aux cessions ainsi qu'aux limites de la détention des actifs.
+a) Dans la limite de 15 %, les avances en compte courant consenties, pour la durée de l'investissement réalisé, à des
+sociétés dans lesquelles le fonds détient au moins 5 % du capital. Ces avances sont prises en compte pour le calcul du quota
+prévu au 1, lorsqu'elles sont consenties à des sociétés remplissant les conditions pour être retenues dans ce quota ;
 
-Les porteurs de parts ne peuvent demander le rachat de celles-ci avant l'expiration d'une période qui ne peut excéder dix
+b) Des droits représentatifs d'un placement financier dans une entité constituée dans un Etat membre de l'Organisation de
+coopération et de développement économiques dont l'objet principal est d'investir dans des sociétés dont les titres de
+capital ne sont pas admis aux négociations sur un marché réglementé. Ces droits ne sont retenus dans le quota
+d'investissement de 50 % du fonds qu'à concurrence du pourcentage d'investissement direct de l'actif de l'entité concernée
+dans les sociétés éligibles à ce même quota.
+
+3. Sont également pris en compte pour le calcul du quota d'investissement de 50 % les titres, détenus depuis cinq ans au
+plus, des sociétés admises aux négociations sur l'un des marchés réglementés de valeurs de croissance de l'Espace économique
+européen ou un compartiment de valeurs de croissance de ces marchés dont la liste est fixée par arrêté du ministre chargé de
+l'économie.
+
+4. Lorsque les titres d'une société détenus par un fonds commun de placement à risques sont admis aux négociations sur un
+marché réglementé, ils continuent à être pris en compte dans le quota d'investissement de 50 % pendant une durée de cinq ans
+à compter de leur admission.
+
+5. Le quota d'investissement de 50 % doit être respecté au plus tard lors de l'inventaire de clôture de l'exercice suivant
+l'exercice de la constitution du fonds commun de placement à risques et jusqu'à la clôture du cinquième exercice du fonds.
+
+6. Un décret en Conseil d'Etat fixe les modalités d'application du quota prévu au 5 dans le cas où le fonds procède à des
+appels complémentaires de capitaux ou à des souscriptions nouvelles. Il fixe également les règles d'appréciation du quota
+ainsi que les règles spécifiques relatives aux cessions et aux limites de la détention des actifs.
+
+7. Les porteurs de parts ne peuvent demander le rachat de celles-ci avant l'expiration d'une période qui ne peut excéder dix
 ans. Au terme de ce délai, les porteurs de parts peuvent exiger la liquidation du fonds si leurs demandes de remboursement
 n'ont pas été satisfaites dans le délai d'un an.
 
-Les parts peuvent donner lieu à des droits différents sur l'actif net ou sur les produits du fonds dans des conditions fixées
-par le règlement du fonds.
+8. Les parts peuvent donner lieu à des droits différents sur l'actif net ou sur les produits du fonds dans des conditions
+fixées par le règlement du fonds.
 
-Le règlement d'un fonds commun de placement à risques peut prévoir une ou plusieurs périodes de souscription à durée
+9. Le règlement d'un fonds commun de placement à risques peut prévoir une ou plusieurs périodes de souscription à durée
 déterminée. La société de gestion ne peut procéder à la distribution d'une fraction des actifs qu'à l'expiration de la
 dernière période de souscription et dans des conditions fixées par décret.
 
-La cession des parts d'un fonds commun de placement à risques est possible dès leur souscription. Lorsque les parts n'ont pas
-été entièrement libérées, le souscripteur et les cessionnaires successifs sont tenus solidairement du montant non libéré de
-celles-ci. A défaut pour le porteur de parts de libérer aux époques fixées par la société de gestion les sommes restant à
+10. La cession des parts d'un fonds commun de placement à risques est possible dès leur souscription. Lorsque les parts n'ont
+pas été entièrement libérées, le souscripteur et les cessionnaires successifs sont tenus solidairement du montant non libéré
+de celles-ci. A défaut pour le porteur de parts de libérer aux époques fixées par la société de gestion les sommes restant à
 verser sur le montant des parts détenues, la société de gestion lui adresse une mise en demeure. Un mois après cette mise en
 demeure et si celle-ci est restée sans effet, la société de gestion peut procéder, sans aucune autorisation de justice, à la
 cession de ces parts. Toutefois, le souscripteur ou cessionnaire qui a cédé ses parts cesse d'être tenu des versements non
 encore appelés par la société de gestion, deux ans après le virement de compte à compte des parts cédées.
 
-Le règlement du fonds peut prévoir qu'à la liquidation du fonds une fraction des actifs est attribuée à la société de gestion
-dans des conditions fixées par décret en Conseil d'Etat.
+11. Le règlement du fonds peut prévoir qu'à la liquidation du fonds une fraction des actifs est attribuée à la société de
+gestion dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°88-1201 1988-12-23 art. 22
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 22 (Ab)
 
 	**Cité par**:
@@ -8739,7 +8760,11 @@ dans des conditions fixées par décret en Conseil d'Etat.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi - art. 78 (V) JORF 29 décembre 2001
+	  - Loi n°2001-1275 2001-12-28 art. 78 I A, B Finances pour 2002 JORF 29 décembre 2001
 
 	**Cite**:
 
@@ -9230,9 +9255,11 @@ travail. Les cinquième et sixième alinéas de l'article L. 214-40 s'appliquent
 
 I. - Les fonds communs de placement dans l'innovation sont des fonds communs de placement à risques dont l'actif est
 constitué, pour 60 % au moins, de valeurs mobilières, parts de société à responsabilité limitée et avances en compte courant,
-telles que définies par les deux premiers alinéas de l'article L. 214-36, émises par des sociétés soumises à l'impôt sur les
-sociétés qui comptent moins de cinq cents salariés, dont le capital est détenu, majoritairement, par des personnes physiques
-ou par des personnes morales détenues par des personnes physiques et qui remplissent l'une des conditions suivantes ;
+telles que définies par le 1° et le a du 2° de l'article L. 214-36, émises par des sociétés ayant leur siège dans un Etat
+membre de la Communauté européenne, qui sont soumises à l'impôt sur les sociétés dans les conditions de droit commun ou en
+seraient passibles dans les mêmes conditions si l'activité était exercée en France, qui comptent moins de cinq cents
+salariés, dont le capital est détenu, majoritairement, par des personnes physiques ou par des personnes morales détenues par
+des personnes physiques et qui remplissent l'une des conditions suivantes ;
 
 a) Avoir réalisé, au cours des trois exercices précédents, des dépenses cumulées de recherche visées aux a à f du II de
 l'article 244 quater B du code général des impôts, d'un montant au moins égal au tiers du chiffre d'affaires le plus élevé
@@ -9242,6 +9269,9 @@ b) Ou justifier de la création de produits, procédés ou techniques dont le ca
 développement économique sont reconnus, ainsi que le besoin de financement correspondant. Cette appréciation est effectuée
 pour une période de trois ans par un établissement public compétent en matière de valorisation de recherche et désigné par
 décret.
+
+Les dispositions du 3°, du 4° et du 5° de l'article L. 214-36 s'appliquent dans les mêmes conditions aux fonds communs de
+placement dans l'innovation sous réserve du respect du quota d'investissement de 60 % qui leur est propre.
 
 II. - Pour l'appréciation de la détention majoritaire du capital des sociétés dans lesquelles les fonds communs de placement
 dans l'innovation investissent, il n'est pas tenu compte des participations des sociétés de capital-risque, des sociétés de
@@ -9268,7 +9298,6 @@ acquisition de ces titres par ce fonds.
 
 	**Anciens textes**:
 
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 22-1 (M)
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 22-1 (Ab)
 
 	**Cité par**:
@@ -9328,7 +9357,10 @@ acquisition de ces titres par ce fonds.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi - art. 78 (V) JORF 29 décembre 2001
 
 
 ##### Sous-section 10 : Fonds communs d'intervention sur les marchés à terme.
@@ -16206,7 +16238,7 @@ conditions où elles y sont normalement pratiquées.
 
 ###### Article L342-2
 
-Sans préjudice des dispositions particulières prévues au troisième alinéa de l'article L. 214-36, le démarchage en vue
+Sans préjudice des dispositions particulières prévues au huitième alinéa de l'article L. 214-36, le démarchage en vue
 d'opérations sur valeurs mobilières n'est autorisé que dans les limites et sous les conditions prévues par le présent
 chapitre.
 
@@ -16233,7 +16265,10 @@ normalement pratiquées.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi - art. 78 (V) JORF 29 décembre 2001
 
 	**Cite**:
 
@@ -24245,26 +24280,31 @@ Elle poursuit les missions qui, avant la promulgation de la loi du 18 janvier 19
 nationale de crédit agricole, étaient confiées par la loi à la Caisse nationale de crédit agricole et au fonds commun de
 garantie.
 
+Les participations des caisses régionales de crédit agricole mutuel visées à l'article L. 512-34 dans le capital de la Caisse
+nationale de crédit agricole sont regroupées dans une société commune.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°88-50 1988-01-18
-
-	**Anciens textes**:
-
-	  - Loi n°88-50 1988-01-18 art. 1, al. 1 et al. 3
-	  - Loi n°88-50 du 18 janvier 1988 - art. 1, v. init.
-	  - Code rural ancien - art. 711 (Ab)
+	  - Code monétaire et financier - art. L512-34 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi - art. 65 (V) JORF 29 décembre 2001
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 145 (V)
+
+	**Anciens textes**:
+
+	  - Code rural ancien - art. 711 (Ab)
 
 
 ###### Article L512-48
@@ -35649,11 +35689,19 @@ complémentaire ou vérification qui lui paraît nécessaire. Les frais et honor
 Afin d'assurer l'exécution de sa mission, la Commission des opérations de bourse dispose d'enquêteurs habilités par le
 président selon des modalités fixées par décret en Conseil d'Etat.
 
-Les enquêteurs peuvent, pour les nécessités de l'enquête, se faire communiquer tous documents, quel qu'en soit le support, et
-en obtenir la copie. Ils peuvent convoquer et entendre toute personne susceptible de leur fournir des informations. Ils
-peuvent accéder aux locaux à usage professionnel.
+Les enquêteurs peuvent, pour les nécessités de l'enquête, se faire communiquer tous documents, quel qu'en soit le support, y
+compris les données conservées et traitées par les opérateurs de télécommunications dans le cadre de l'article L. 32-3-1 du
+code des postes et télécommunications et les prestataires mentionnés aux articles 43-7 et 43-8 de la loi n° 86-1067 du 30
+septembre 1986 relative à la liberté de communication et en obtenir la copie. Ils peuvent convoquer et entendre toute
+personne susceptible de leur fournir des informations. Ils peuvent accéder aux locaux à usage professionnel.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L32-3-1
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 43-7 (Ab)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 43-8 (Ab)
 
 	**Anciens textes**:
 
@@ -35662,7 +35710,10 @@ peuvent accéder aux locaux à usage professionnel.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi - art. 62 () JORF 29 décembre 2001
 
 	**Cité par**:
 
