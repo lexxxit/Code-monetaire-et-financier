@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-05-07
+Version Consolidée au 2005-06-30
 
 # Partie législative
 
@@ -9614,8 +9614,7 @@ réalisé au cours de ces trois exercices ;
 
 b) Ou justifier de la création de produits, procédés ou techniques dont le caractère innovant et les perspectives de
 développement économique sont reconnus, ainsi que le besoin de financement correspondant. Cette appréciation est effectuée
-pour une période de trois ans par un établissement public compétent en matière de valorisation de recherche et désigné par
-décret.
+pour une période de trois ans par un organisme chargé de soutenir l'innovation et désigné par décret.
 
 Les dispositions du 4° et du 5° de l'article L. 214-36 s'appliquent dans les mêmes conditions aux fonds communs de placement
 dans l'innovation sous réserve du respect du I bis du présent article et du quota d'investissement de 60 % qui leur est
@@ -9649,10 +9648,10 @@ dans des conditions fixées par décret ;
 Un décret en Conseil d'Etat précise les modalités de calcul de la condition relative à l'exclusivité de l'objet mentionné au
 deuxième alinéa.
 
-II. - Les conditions relatives au nombre de salariés et à la reconnaissance, par un établissement public compétent en matière
-de valorisation de recherche ou à raison de leurs dépenses cumulées de recherche, du caractère innovant de sociétés dont les
-titres figurent à l'actif d'un fonds commun de placement dans l'innovation s'apprécient lors de la première souscription ou
-acquisition de ces titres par ce fonds.
+II. - Les conditions relatives au nombre de salariés et à la reconnaissance, par un organisme chargé de soutenir l'innovation
+ou à raison de leurs dépenses cumulées de recherche, du caractère innovant de sociétés dont les titres figurent à l'actif
+d'un fonds commun de placement dans l'innovation s'apprécient lors de la première souscription ou acquisition de ces titres
+par ce fonds.
 
 III. - Pour l'appréciation, pour le I, des liens de dépendance existant entre deux sociétés, ces liens sont réputés exister :
 
@@ -9726,14 +9725,9 @@ même tierce société.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cite**:
-
-	  - CGI 244 quater B
-	  - Code monétaire et financier - art. L214-36 (M)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 24 () JORF 7 mai 2005
+	  - Ordonnance n°2005-722 du 29 juin 2005 - art. 9
 
 
 ##### Sous-section 13 : Fonds d'investissement de proximité
@@ -27816,38 +27810,6 @@ Un décret en Conseil d'Etat précise les modalités d'application de la présen
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-
-#### Chapitre III : Les sociétés anonymes de crédit immobilier
-
-###### Article L513-1
-
-Les sociétés anonymes de crédit immobilier sont régies par les articles L. 422-4 à L. 422-4-3 du code de la construction et
-de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 67 () JORF 7 mai 2005
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L745-1-2 (V)
-	  - Code monétaire et financier - art. L755-1-2 (V)
-	  - Code monétaire et financier - art. L765-1-2 (V)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L422-4 à L422-4-3
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier art. L515-34
 
 
 #### Chapitre IV : Les caisses de crédit municipal
