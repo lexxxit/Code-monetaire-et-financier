@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-06-30
+Version Consolidée au 2005-07-21
 
 # Partie législative
 
@@ -19854,10 +19854,11 @@ de références nominatives entre l'intermédiaire habilité, le dépositaire ce
 
 ###### Article L431-2
 
-Le transfert de propriété d'instruments financiers mentionnés aux 1, 2 et 3 du I de l'article L. 211-1 et admis aux
-opérations d'un dépositaire central ou livrés dans un système de règlement et de livraison, mentionné à l'article L. 330-1,
-résulte de leur inscription au compte de l'acheteur, à la date et dans les conditions définies par le règlement général de
-l'Autorité des marchés financiers.
+Le transfert de propriété d'instruments financiers mentionnés aux 1, 2 et 3 du I de l'article L. 211-1 et de tous les
+instruments financiers équivalents émis sur le fondement de droits étrangers, lorsqu'ils sont admis aux opérations d'un
+dépositaire central ou livrés dans un système de règlement et de livraison d'instruments financiers, mentionné à l'article L.
+330-1, résulte de leur inscription au compte de l'acheteur, à la date et dans les conditions définies par le règlement
+général de l'Autorité des marchés financiers.
 
 Si le compte de l'intermédiaire habilité de l'acheteur n'a pas été crédité des instruments financiers dont il s'agit à la
 date et dans les conditions définies dans le règlement général de l'Autorité des marchés financiers, le transfert est résolu
@@ -19871,12 +19872,6 @@ des conditions particulières de transfert de propriété. Ce transfert n'interv
 ci a réglé le prix de la transaction. Tant que l'acheteur n'a pas réglé le prix, l'intermédiaire qui a reçu les instruments
 financiers en est le propriétaire.
 
-**Nota:**
-
-Nota : Ordonnance 2005-303 2005-03-31 art. 4 : Les articles 1er, 2, 3 de la présente ordonnance entrent en vigueur à compter
-de la publication au Journal officiel de la République française des dispositions du règlement général de l'Autorité des
-marchés financiers auxquelles les articles L. 431-2 et L. 431-3 modifiés du code monétaire et financier renvoient.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -19888,6 +19883,7 @@ marchés financiers auxquelles les articles L. 431-2 et L. 431-3 modifiés du co
 
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°2005-811 2005-07-20 art. 7 II JORF 21 juillet 2005
 
 	**Cité par**:
 
@@ -19901,12 +19897,16 @@ marchés financiers auxquelles les articles L. 431-2 et L. 431-3 modifiés du co
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-303 du 31 mars 2005 - art. 1 () JORF 1er avril 2005
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 7 (V) JORF 21 juillet 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-1 (M)
-	  - Code monétaire et financier - art. L330-1 (M)
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L330-1
 
 
 ###### Article L431-3
@@ -32402,8 +32402,8 @@ intervenir en libre prestation de services dans des conditions fixées par l'Aut
 qui concerne la protection des fonds des clients.
 
 Pour l'application des articles L. 213-3, L. 322-1 à L. 322-4, L. 421-6, L. 421-7, L. 421-8 à L. 421-11, L. 432-20, L. 431-7,
-L. 531-10, L. 533-3, L. 533-4, L. 533-6 à L. 533-11, L. 533-13 et L. 621-18-1, les personnes mentionnées à l'alinéa précédent
-sont assimilées à des prestataires de services d'investissement.
+L. 531-10, L. 533-3, L. 533-4, L. 533-6 à L. 533-11, L. 533-13, L. 621-17-2 à L. 621-17-7 et L. 621-18-1, les personnes
+mentionnées à l'alinéa précédent sont assimilées à des prestataires de services d'investissement.
 
 **Liens relatifs à cet article**
 
@@ -32440,8 +32440,7 @@ sont assimilées à des prestataires de services d'investissement.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 46 III 19°, art. 91 5° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 2 () JORF 21 juillet 2005
 
 	**Cite**:
 
@@ -32454,7 +32453,7 @@ sont assimilées à des prestataires de services d'investissement.
 	  - Code monétaire et financier - art. L533-3 (M)
 	  - Code monétaire et financier - art. L533-4 (M)
 	  - Code monétaire et financier - art. L621-18-1 (M)
-	  - Code monétaire et financier L511-21 à L511-28, L213-3, L322-1 à L322-4, L421-6, L421-7, L421-8 à L421-11, L432-20, L431-7, L531-10, L533-3, L533-4, L533-6 à L533-11, L533-13, L621-18-1
+	  - Code monétaire et financier L511-21 à L511-28, L213-3, L322-1 à L322-4, L421-6, L421-7, L421-8 à L421-11, L432-20, L431-7, L531-10, L533-3, L533-4, L533-6 à L533-11, L533-13, L621-17-2 à L621-17-7, L621-18-1
 
 
 ###### Article L532-19
@@ -39887,7 +39886,7 @@ règles relatives à l'exécution des transactions sur instruments financiers ad
 2° Les conditions dans lesquelles l'Autorité des marchés financiers, en application des articles L. 421-1 et L. 421-3,
 propose la reconnaissance ou le retrait de la qualité de marché réglementé d'instruments financiers ;
 
-3° Les conditions de dérogation à l'obligation prévue à l'article L. 421-12 ;
+3° Abrogé.
 
 4° Les règles relatives à l'information de l'Autorité des marchés financiers et du public concernant les ordres et les
 transactions sur instruments financiers admis sur un marché réglementé.
@@ -39904,6 +39903,11 @@ diffusent des analyses financières :
 personnes qui produisent et diffusent des analyses financières, à titre de profession habituelle, et les dispositions propres
 à assurer leur indépendance d'appréciation et la prévention des conflits d'intérêts.
 
+**Nota:**
+
+NOTA : Loi 2005-811 2005-07-20 art. 5 III : Les dispositions du I sont applicables à la date d'entrée en vigueur de
+l'ordonnance mentionnée au II de l'article 5 de la loi n° 2005-811.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -39914,12 +39918,6 @@ personnes qui produisent et diffusent des analyses financières, à titre de pro
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 1, art. 8 I, III JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 8 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -39946,6 +39944,14 @@ personnes qui produisent et diffusent des analyses financières, à titre de pro
 	  - Code monétaire et financier - art. R621-30-1 (V)
 	  - Code monétaire et financier - art. R621-30-3 (V)
 	  - Code monétaire et financier - art. R621-30-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 5 (V) JORF 21 juillet 2005
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indeterminée
 
 	**Cite**:
 
@@ -40827,7 +40833,270 @@ ou les profits éventuellement tirés de ces manquements.
 	  - Code monétaire et financier - art. L621-15 (V)
 
 
-##### Sous-section 6 : Autres compétences
+##### Sous-section 6 : Déclaration d'opérations suspectes
+
+###### Article L621-17-2
+
+Les établissements de crédit, les entreprises d'investissement et les personnes mentionnées à l'article L. 421-8 sont tenus
+de déclarer sans délai à l'Autorité des marchés financiers toute opération sur des instruments financiers admis aux
+négociations sur un marché réglementé, ou pour lesquels une demande d'admission aux négociations sur un tel marché a été
+présentée, effectuée pour compte propre ou pour compte de tiers, dont ils ont des raisons de suspecter qu'elle pourrait
+constituer une opération d'initié ou une manipulation de cours au sens des dispositions du règlement général de l'Autorité
+des marchés financiers.
+
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
+décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-42 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 315-43 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 315-44 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 320-7 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 320-8 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 320-9 (Ab)
+	  - Code monétaire et financier - art. L511-34 (VD)
+	  - Code monétaire et financier - art. L532-18 (VT)
+	  - Code monétaire et financier - art. L532-18-1 (VD)
+	  - Code monétaire et financier - art. L621-17-3 (VD)
+	  - Code monétaire et financier - art. L621-17-4 (VT)
+	  - Code monétaire et financier - art. L621-17-5 (VD)
+	  - Code monétaire et financier - art. L621-17-6 (VD)
+	  - Code monétaire et financier - art. L621-17-7 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L421-8 (M)
+
+
+###### Article L621-17-3
+
+Lorsque l'Autorité des marchés financiers transmet, conformément aux articles L. 621-15-1 et L. 621-20-1, certains faits ou
+informations au procureur de la République près le tribunal de grande instance de Paris, la déclaration prévue à l'article L.
+621-17-2, dont le procureur de la République est avisé, ne figure pas au dossier de la procédure.
+
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
+décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L532-18 (VD)
+	  - Code monétaire et financier - art. L621-17-6 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-15-1 (M)
+	  - Code monétaire et financier - art. L621-17-2 (M)
+	  - Code monétaire et financier - art. L621-20-1 (M)
+
+
+###### Article L621-17-4
+
+Le règlement général de l'Autorité des marchés financiers précise les conditions dans lesquelles est faite la déclaration
+prévue à l'article L. 621-17-2.
+
+La déclaration peut être écrite ou verbale. Dans ce dernier cas, l'Autorité des marchés financiers en demande une
+confirmation par écrit.
+
+La déclaration doit contenir :
+
+1° Une description des opérations, en particulier du type d'ordre et du mode de négociation utilisés ;
+
+2° Les raisons conduisant à soupçonner que les opérations déclarées constituent une opération d'initié ou une manipulation de
+cours ;
+
+3° Les moyens d'identification des personnes pour le compte de qui les opérations ont été réalisées et de toute autre
+personne impliquée dans ces opérations ;
+
+4° L'indication que les opérations ont été effectuées pour compte propre ou pour compte de tiers ;
+
+5° Toute autre information pertinente concernant les opérations déclarées.
+
+Lorsque certains de ces éléments ne sont pas disponibles au moment de la déclaration, celle-ci doit au moins indiquer les
+raisons mentionnées au 2°. Les informations complémentaires sont communiquées à l'Autorité des marchés financiers dès
+qu'elles deviennent disponibles.
+
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
+décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-17-2 (M)
+
+
+###### Article L621-17-5
+
+Est puni des peines prévues à l'article 226-13 du code pénal le fait, pour les dirigeants ou les préposés des personnes
+mentionnées à l'article L. 621-17-2 du présent code, de porter à la connaissance de quiconque, et en particulier des
+personnes ou des parties liées aux personnes pour le compte desquelles les opérations déclarées ont été effectuées,
+l'existence de la déclaration mentionnée au même article ou de donner des informations sur les suites réservées à celle-ci.
+
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
+décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+	  - Code monétaire et financier - art. L621-17-2 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L532-18 (VD)
+
+
+###### Article L621-17-6
+
+Sans préjudice de l'article 40 du code de procédure pénale, des articles L. 621-15-1, L. 621-17-3, L. 621-20-1 du présent
+code et de l'exercice de ses pouvoirs par l'Autorité des marchés financiers, il est interdit à cette dernière, ainsi qu'à
+chacun de ses membres, experts nommés dans les commissions consultatives mentionnées au III de l'article L. 621-2, membres de
+son personnel et préposés, de révéler les informations recueillies en application de l'article L. 621-17-2. Si l'Autorité des
+marchés financiers utilise le concours des personnes mentionnées à l'article L. 621-9-2, cette interdiction s'applique
+également à ces personnes, ainsi qu'à leurs dirigeants et préposés.
+
+Le fait pour un membre de l'Autorité des marchés financiers, un expert nommé dans les commissions consultatives mentionnées
+au III de l'article L. 621-2, un membre de son personnel ou un préposé, de révéler le contenu de la déclaration ou l'identité
+des personnes qu'elle concerne, est puni des peines prévues à l'article L. 642-1. Si l'Autorité des marchés financiers
+utilise le concours des personnes mentionnées à l'article L. 621-9-2, ces peines s'appliquent également à ces personnes,
+ainsi qu'à leurs dirigeants et préposés.
+
+Lorsque des opérations ayant fait l'objet de la déclaration relèvent de la compétence d'une autorité compétente d'un autre
+Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen, l'Autorité des marchés
+financiers transmet sans délai la déclaration à cette autorité, ainsi que les éventuels compléments d'information fournis par
+le déclarant à la demande de cette dernière, dans les conditions prévues à l'article L. 621-21.
+
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
+décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+
+	**Cité par**:
+
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
+	  - Code monétaire et financier - art. L621-17-7 (V)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 40 (M)
+	  - Code monétaire et financier - art. L621-15-1 (M)
+	  - Code monétaire et financier - art. L621-17-2 (M)
+	  - Code monétaire et financier - art. L621-17-3 (M)
+	  - Code monétaire et financier - art. L621-2 (M)
+	  - Code monétaire et financier - art. L621-20-1 (M)
+	  - Code monétaire et financier - art. L621-21 (M)
+	  - Code monétaire et financier - art. L621-9-2 (V)
+	  - Code monétaire et financier - art. L642-1 (M)
+
+
+###### Article L621-17-7
+
+Concernant les opérations ayant fait l'objet de la déclaration mentionnée à l'article L. 621-17-2, aucune poursuite fondée
+sur l'article 226-13 du code pénal ne peut être intentée contre les dirigeants et les préposés des personnes mentionnées à
+l'article L. 621-17-2 qui, de bonne foi, ont effectué cette déclaration.
+
+Aucune action en responsabilité civile ne peut être intentée contre une personne mentionnée à l'article L. 621-17-2, ses
+dirigeants ou ses préposés qui ont effectué de bonne foi cette déclaration.
+
+Sauf concertation frauduleuse avec l'auteur de l'opération ayant fait l'objet de la déclaration, le déclarant est dégagé de
+toute responsabilité : aucune poursuite pénale ne peut être engagée contre ses dirigeants ou ses préposés par application de
+l'article L. 465-1 et du premier alinéa de l'article L. 465-2 du présent code et des articles 321-1 à 321-3 du code pénal, et
+aucune procédure de sanction administrative ne peut être engagée à leur encontre pour des faits liés à une opération d'initié
+ou à une manipulation de cours.
+
+Les dispositions du présent article s'appliquent même si la preuve du caractère fautif ou délictueux des faits à l'origine de
+la déclaration n'est pas rapportée ou si ces faits font l'objet d'une décision de non-lieu ou de relaxe et n'ont donné lieu à
+aucune sanction de la part de l'Autorité des marchés financiers ou de l'autorité compétente mentionnée au troisième alinéa de
+l'article L. 621-17-6.
+
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
+décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal 226-13, 321-1 à 321-3
+	  - Code monétaire et financier - art. L465-1 (M)
+	  - Code monétaire et financier - art. L465-2 (M)
+	  - Code monétaire et financier - art. L621-17-2 (M)
+	  - Code monétaire et financier - art. L621-17-6 (M)
+
+
+##### Sous-section 7 : Autres compétences
 
 ###### Article L621-18
 
@@ -40844,6 +41113,12 @@ L'Autorité peut porter à la connaissance du public les observations qu'elle a 
 informations qu'elle estime nécessaires.
 
 Les frais occasionnés par les publications mentionnées aux deux alinéas précédents sont à la charge des sociétés intéressées.
+
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5 et sous-section 7 au lieu de sous-section 6. Cette erreur a été corrigée par
+l'article 17 de la loi n° 2005-1564 du 16 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -40864,7 +41139,7 @@ Les frais occasionnés par les publications mentionnées aux deux alinéas préc
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 82 () JORF 7 mai 2005
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
 
 
 ###### Article L621-18-1
@@ -40872,6 +41147,12 @@ Les frais occasionnés par les publications mentionnées aux deux alinéas préc
 A la demande d'un ou plusieurs prestataires de services d'investissement ou d'une association professionnelle de prestataires
 de services d'investissement, l'Autorité des marchés financiers peut, après avis de la Banque de France, certifier des
 contrats types d'opérations sur instruments financiers.
+
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
+décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -40889,7 +41170,7 @@ contrats types d'opérations sur instruments financiers.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 82 () JORF 7 mai 2005
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
 
 	**Anciens textes**:
 
@@ -40898,20 +41179,31 @@ contrats types d'opérations sur instruments financiers.
 
 ###### Article L621-18-2
 
-Toute personne faisant appel public à l'épargne communique à l'Autorité des marchés financiers et rend publics dans un délai
-déterminé par le règlement de l'Autorité des marchés financiers les acquisitions, cessions, souscriptions ou échanges de
-leurs titres ainsi que les transactions opérées sur ces titres au moyen d'instruments financiers à terme, réalisés par :
+Sont communiqués par les personnes mentionnées aux a à c à l'Autorité des marchés financiers, et rendus publics par cette
+dernière dans le délai déterminé par son règlement général, les acquisitions, cessions, souscriptions ou échanges de titres
+d'une personne faisant appel public à l'épargne ainsi que les transactions opérées sur des instruments financiers qui leur
+sont liées, lorsque ces opérations sont réalisées par :
 
 a) Les membres du conseil d'administration, du directoire, du conseil de surveillance, le directeur général, le directeur
 général unique, le directeur général délégué ou le gérant de cette personne ;
 
-b) Des personnes ayant, dans des conditions définies par décret en Conseil d'Etat, des liens personnels étroits avec l'un de
-ceux qui sont mentionnés ci-dessus.
+b) Toute autre personne qui, dans les conditions définies par le règlement général de l'Autorité des marchés financiers a,
+d'une part, au sein de l'émetteur, le pouvoir de prendre des décisions de gestion concernant son évolution et sa stratégie,
+et a, d'autre part, un accès régulier à des informations privilégiées concernant directement ou indirectement cet émetteur ;
 
-Les modalités et conditions de la communication et de la publication prévues ci-dessus sont fixées par le règlement général
-de l'Autorité des marchés financiers.
+c) Des personnes ayant, dans des conditions définies par décret en Conseil d'Etat, des liens personnels étroits avec les
+personnes mentionnées aux a et b.
 
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles l'assemblée générale est informée de ces opérations.
+Les personnes mentionnées aux a à c sont tenues de communiquer à l'émetteur, lors de la communication à l'Autorité des
+marchés financiers prévue au premier alinéa, une copie de cette communication. Le règlement général de l'Autorité des marchés
+financiers définit les modalités de la communication à celle-ci ainsi que les conditions dans lesquelles l'assemblée générale
+des actionnaires est informée des opérations mentionnées au présent article.
+
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
+décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -40934,7 +41226,8 @@ Un décret en Conseil d'Etat détermine les conditions dans lesquelles l'assembl
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 82 () JORF 7 mai 2005
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 3 () JORF 21 juillet 2005
 
 
 ###### Article L621-18-3
@@ -40942,6 +41235,12 @@ Un décret en Conseil d'Etat détermine les conditions dans lesquelles l'assembl
 Les personnes morales faisant appel public à l'épargne rendent publiques les informations relevant des matières mentionnées
 au dernier alinéa des articles L. 225-37 et L. 225-68 du code de commerce dans des conditions fixées par le règlement général
 de l'Autorité des marchés financiers. Celle-ci établit chaque année un rapport sur la base de ces informations.
+
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
+décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -40957,12 +41256,48 @@ de l'Autorité des marchés financiers. Celle-ci établit chaque année un rappo
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 82 () JORF 7 mai 2005
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
 
 	**Cite**:
 
 	  - Code de commerce. - art. L225-37 (M)
 	  - Code de commerce. - art. L225-68 (M)
+
+
+###### Article L621-18-4
+
+Tout émetteur dont les instruments financiers sont admis aux négociations sur un marché réglementé, ou pour lesquels une
+demande d'admission aux négociations sur un tel marché a été présentée, établit, met à jour et tient à la disposition de
+l'Autorité des marchés financiers, dans les conditions prévues par le règlement général de cette dernière, une liste des
+personnes travaillant en son sein et ayant accès aux informations privilégiées concernant directement ou indirectement cet
+émetteur ainsi que des tiers ayant accès à ces informations dans le cadre de leurs relations professionnelles avec ce
+dernier.
+
+Dans les mêmes conditions, ces tiers établissent, mettent à jour et tiennent à la disposition de l'Autorité des marchés
+financiers une liste des personnes travaillant en leur sein et ayant accès aux informations privilégiées concernant
+directement ou indirectement l'émetteur, ainsi que des tiers ayant accès aux mêmes informations dans le cadre de leurs
+relations professionnelles avec eux.
+
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
+décembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 223-27 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 231-50 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 4 () JORF 21 juillet 2005
 
 
 ###### Article L621-19
@@ -40981,6 +41316,12 @@ République française.
 Le président de l'Autorité des marchés financiers est entendu, sur leur demande, par les commissions des finances des deux
 assemblées et peut demander à être entendu par elles.
 
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
+décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -40998,7 +41339,7 @@ assemblées et peut demander à être entendu par elles.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 82 () JORF 7 mai 2005
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
 
 
 ###### Article L621-20
@@ -41006,6 +41347,12 @@ assemblées et peut demander à être entendu par elles.
 Pour l'application des dispositions entrant dans le champ de compétence de l'Autorité des marchés financiers, les
 juridictions civiles, pénales ou administratives peuvent appeler le président de celle-ci ou son représentant à déposer des
 conclusions et à les développer oralement à l'audience sans préjudice des dispositions de l'article L. 466-1.
+
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
+décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -41024,7 +41371,7 @@ conclusions et à les développer oralement à l'audience sans préjudice des di
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 82 () JORF 7 mai 2005
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
 
 	**Cite**:
 
@@ -41041,6 +41388,12 @@ Sous réserve des dispositions du quatrième alinéa de l'article L. 621-21, le 
 l'Autorité des marchés financiers la communication de tous les renseignements détenus par celle-ci dans le cadre de
 l'exercice de ses missions, sans que puisse lui être opposée l'obligation au secret.
 
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
+décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -41055,10 +41408,11 @@ l'exercice de ses missions, sans que puisse lui être opposée l'obligation au s
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 82 () JORF 7 mai 2005
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L621-21 (M)
 	  - Code monétaire et financier - art. L621-21 (V)
 
 
@@ -41096,6 +41450,12 @@ L'Autorité peut, pour la mise en oeuvre des alinéas précédents, conclure des
 autorités étrangères exerçant des compétences analogues aux siennes. Ces conventions sont approuvées par l'Autorité dans les
 conditions prévues à l'article L. 621-3. Elles sont publiées au Journal officiel de la République française.
 
+**Nota:**
+
+NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
+Lire sous-section 6 au lieu de sous-section 5 et sous-section 7 au lieu de sous-section 6. Cette erreur a été corrigée par
+l'article 17 de la loi n° 2005-1564 du 16 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -41131,8 +41491,7 @@ conditions prévues à l'article L. 621-3. Elles sont publiées au Journal offic
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 82 () JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 84 () JORF 7 mai 2005
+	  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
 
 
 ##### Section 5 : Relations avec les commissaires aux comptes
