@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-07-21
+Version Consolidée au 2005-07-27
 
 # Partie législative
 
@@ -4366,6 +4366,35 @@ aux dispositions relatives au droit de communication de l'administration des imp
 	  - Code monétaire et financier - art. L152-3 (V)
 
 
+#### Chapitre III : Biens des banques centrales étrangères
+
+###### Article L153-1
+
+Ne peuvent être saisis les biens de toute nature, notamment les avoirs de réserves de change, que les banques centrales ou
+les autorités monétaires étrangères détiennent ou gèrent pour leur compte ou celui de l'Etat ou des Etats étrangers dont
+elles relèvent.
+
+Par exception aux dispositions du premier alinéa, le créancier muni d'un titre exécutoire constatant une créance liquide et
+exigible peut solliciter du juge de l'exécution l'autorisation de poursuivre l'exécution forcée dans les conditions prévues
+par la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution s'il établit que les biens détenus
+ou gérés pour son propre compte par la banque centrale ou l'autorité monétaire étrangère font partie d'un patrimoine qu'elle
+affecte à une activité principale relevant du droit privé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°91-650 1991-07-09
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 51 () JORF 27 juillet 2005
+
+
 ### Titre VI : Dispositions pénales
 
 #### Chapitre Ier : Infractions relatives à la prohibition du paiement en espèces de certaines créances
@@ -8701,9 +8730,9 @@ parts ou des actions émises par un tel organisme.
 ###### Article L214-35-1
 
 La souscription et l'acquisition des parts ou actions d'un organisme de placement collectif en valeurs mobilières à règles
-d'investissement allégées sont réservées aux investisseurs qualifiés mentionnés au deuxième alinéa de l'article L. 411-2
-ainsi qu'aux investisseurs étrangers appartenant à une catégorie équivalente sur le fondement du droit du pays dans lequel
-est situé son siège.
+d'investissement allégées sont réservées aux investisseurs qualifiés mentionnés à l'avant-dernier alinéa du II de l'article
+L. 411-2 ainsi qu'aux investisseurs étrangers appartenant à une catégorie équivalente sur le fondement du droit du pays dans
+lequel est situé son siège.
 
 Le règlement général de l'Autorité des marchés financiers fixe les conditions dans lesquelles la souscription et
 l'acquisition des parts ou actions de ces organismes sont ouvertes à d'autres investisseurs, en fonction en particulier de la
@@ -8722,7 +8751,11 @@ présente sous-section.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 24 () JORF 7 mai 2005
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 25 () JORF 27 juillet 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-915 du 1er août 2011 - art. 3
 
 	**Cité par**:
 
@@ -8732,7 +8765,7 @@ présente sous-section.
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L411-2 (M)
+	  - Code monétaire et financier - art. L411-2
 
 
 ##### Paragraphe 2 : Organismes de placement collectif en valeurs mobilières contractuels.
@@ -9947,9 +9980,12 @@ nantir les créances qu'il détient.
 La cession des créances s'effectue par la seule remise d'un bordereau dont les énonciations sont fixées par décret. Celle-ci
 prend effet entre les parties et devient opposable aux tiers à la date apposée sur le bordereau lors de sa remise, quelle que
 soit la date de naissance, d'échéance ou d'exigibilité des créances, sans qu'il soit besoin d'autre formalité, et ce quelle
-que soit la loi applicable aux créances et la loi du pays de résidence des débiteurs. La remise du bordereau entraîne de
-plein droit le transfert des sûretés, des garanties et des accessoires attachés à chaque créance, y compris les sûretés
-hypothécaires, et son opposabilité aux tiers sans qu'il soit besoin d'autre formalité.
+que soit la loi applicable aux créances et la loi du pays de résidence des débiteurs. Nonobstant l'ouverture éventuelle d'une
+procédure visée au livre VI du code de commerce à l'encontre du cédant postérieurement à la cession, cette cession conserve
+ses effets après le jugement d'ouverture, sauf lorsque ces créances résultent de contrats à exécution successive dont le
+montant n'est pas déterminé. La remise du bordereau entraîne de plein droit le transfert des sûretés, des garanties et des
+accessoires attachés à chaque créance, y compris les sûretés hypothécaires, et son opposabilité aux tiers sans qu'il soit
+besoin d'autre formalité.
 
 La réalisation ou la constitution de ces sûretés entraîne pour le fonds la faculté d'acquérir la possession ou la propriété
 des actifs qui en sont l'objet.
@@ -9998,7 +10034,7 @@ compartiment du fonds peut être valablement substituée à celle des coproprié
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 26 () JORF 7 mai 2005
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 16 () JORF 27 juillet 2005
 
 	**Cite**:
 
@@ -15696,6 +15732,46 @@ de la radiation de l'inscription de la sûreté.
 	  - Code monétaire et financier - art. L763-5 (V)
 
 
+###### Article L313-21-1
+
+Les sociétés retenues pour contribuer à la création d'activités ou au développement des emplois dans le cadre d'une
+convention passée avec l'Etat en application de l'article L. 321-17 du code du travail ainsi que les sociétés agréées par le
+ministre chargé de l'économie sont autorisées à consentir des garanties partielles au profit d'établissements de crédit
+octroyant des prêts pour des projets de développement d'entreprises situées dans des bassins d'emploi connaissant des
+difficultés économiques ou révélant une fragilité économique, ainsi qu'aux sociétés de caution mutuelle artisanales qui
+cautionnent de tels projets.
+
+Les conditions d'application de ces dispositions, notamment en ce qui concerne l'agrément et l'étendue des garanties, sont
+fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 18 () JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Arrêté du 26 avril 2010 - art. 1 (V)
+	  - Décret n°2012-471 du 11 avril 2012 (V)
+	  - Code monétaire et financier - art. L511-6 (V)
+	  - Code monétaire et financier - art. L612-2 (V)
+	  - Code monétaire et financier - art. L612-20 (VD)
+	  - Code monétaire et financier - art. R518-57 (V)
+	  - Code monétaire et financier - art. R518-63 (V)
+	  - Code monétaire et financier - art. R518-65 (V)
+	  - Code monétaire et financier - art. R518-67 (V)
+	  - Code monétaire et financier - art. R518-69 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L321-17 (M)
+
+
 ##### Paragraphe 4 : Information des cautions
 
 ###### Article L313-22
@@ -18831,20 +18907,63 @@ soit à des établissements de crédit ou à des prestataires de services d'inve
 
 ###### Article L411-2
 
-Ne constitue pas une opération par appel public à l'épargne l'émission ou la cession d'instruments financiers auprès
-d'investisseurs qualifiés ou dans un cercle restreint d'investisseurs, sous réserve que ces investisseurs agissent pour
+I. - Ne constitue pas une opération par appel public à l'épargne l'admission aux négociations sur un marché réglementé,
+l'émission ou la cession d'instruments financiers :
+
+1° Inconditionnellement et irrévocablement garantis ou émis par un Etat partie à l'accord sur l'Espace économique européen ;
+
+2° Emis par un organisme international à caractère public dont la France fait partie ;
+
+3° Emis par la Banque centrale européenne ou la banque centrale d'un Etat partie à l'accord sur l'Espace économique
+européen ;
+
+4° Emis par un organisme mentionné au 1 du I de l'article L. 214-1.
+
+II. - Ne constitue pas une opération par appel public à l'épargne l'émission ou la cession d'instruments financiers lorsque :
+
+1° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du I de l'article L. 211-1 émis par une société
+anonyme ou une société en commandite par actions et que le montant total de l'offre est inférieur à un montant fixé par le
+règlement général de l'Autorité des marchés financiers ou à un montant et une quotité du capital de l'émetteur fixés par le
+règlement général.
+
+Le montant total de l'offre est calculé sur une période de douze mois dans des conditions fixées par le règlement général ;
+
+2° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du I de l'article L. 211-1 émis par une société
+anonyme ou une société en commandite par actions et que les bénéficiaires de l'offre acquièrent ces instruments financiers
+pour un montant total par investisseur et par offre distincte supérieur à un montant fixé par le règlement général de
+l'Autorité des marchés financiers ;
+
+3° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du I de l'article L. 211-1 émis par une société
+anonyme ou une société en commandite par actions et que la valeur nominale de chacun de ces instruments financiers est
+supérieure à un montant fixé par le règlement général de l'Autorité des marchés financiers ;
+
+4° Nonobstant le recours au démarchage, à la publicité ou à un prestataire de services d'investissement, l'offre s'adresse
+exclusivement :
+
+a) Aux personnes fournissant le service d'investissement de gestion de portefeuille pour compte de tiers ;
+
+b) A des investisseurs qualifiés ou à un cercle restreint d'investisseurs, sous réserve que ces investisseurs agissent pour
 compte propre.
 
-Un investisseur qualifié est une personne morale disposant des compétences et des moyens nécessaires pour appréhender les
-risques inhérents aux opérations sur instruments financiers. La liste des catégories d'investisseurs reconnus comme qualifiés
-est fixée par décret. Les organismes de placement collectif en valeurs mobilières sont réputés agir en qualité
-d'investisseurs qualifiés.
+Un investisseur qualifié est une personne ou une entité disposant des compétences et des moyens nécessaires pour appréhender
+les risques inhérents aux opérations sur instruments financiers. La liste des catégories d'investisseurs reconnus comme
+qualifiés est fixée par décret.
 
-Un cercle restreint d'investisseurs est composé de personnes, autres que les investisseurs qualifiés, liées aux dirigeants de
-l'émetteur par des relations personnelles, à caractère professionnel ou familial. Sont réputés constituer de tels cercles
-ceux composés d'un nombre de personnes inférieur à un seuil fixé par décret.
+Un cercle restreint d'investisseurs est composé de personnes, autres que des investisseurs qualifiés, dont le nombre est
+inférieur à un seuil fixé par décret.
+
+III. - Pour l'application des dispositions du code pénal et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant
+institution de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable, les personnes
+morales ou les sociétés procédant à des opérations mentionnées aux 1° à 3° du II sont réputées faire appel public à
+l'épargne.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-2138 1945-09-19
+	  - Code monétaire et financier - art. L211-1 (M)
+	  - Code monétaire et financier - art. L214-1 (M)
 
 	**Anciens textes**:
 
@@ -18901,6 +19020,10 @@ ceux composés d'un nombre de personnes inférieur à un seuil fixé par décret
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 25 () JORF 27 juillet 2005
+
 
 #### Chapitre II : Conditions de l'appel public à l'épargne
 
@@ -18908,23 +19031,35 @@ ceux composés d'un nombre de personnes inférieur à un seuil fixé par décret
 
 ###### Article L412-1
 
-Sans préjudice des autres dispositions qui leur sont applicables, les personnes qui procèdent à une opération par appel
-public à l'épargne doivent, au préalable, publier et tenir à la disposition de toute personne intéressée un document destiné
-à l'information du public, portant sur le contenu et les modalités de l'opération qui en fait l'objet, ainsi que sur
-l'organisation, la situation financière et l'évolution de l'activité de l'émetteur, dans des conditions prévues par un
-règlement général de l'Autorité des marchés financiers. Ce document est rédigé en français ou, dans les cas définis par le
-règlement mentionné ci-dessus, dans une autre langue usuelle en matière financière. Il doit alors être accompagné d'un résumé
-rédigé en français, dans les conditions déterminées par le même règlement. 
+I. - Sans préjudice des autres dispositions qui leur sont applicables, les personnes ou les entités qui procèdent à une
+opération par appel public à l'épargne doivent, au préalable, publier et tenir à la disposition de toute personne intéressée
+un document destiné à l'information du public, portant sur le contenu et les modalités de l'opération qui en fait l'objet,
+ainsi que sur l'organisation, la situation financière et l'évolution de l'activité de l'émetteur et des garants éventuels des
+instruments financiers qui font l'objet de l'opération, dans des conditions prévues par le règlement général de l'Autorité
+des marchés financiers. Ce document est rédigé en français ou, dans les cas définis par le même règlement général, dans une
+autre langue usuelle en matière financière. Il comprend un résumé et doit être accompagné, le cas échéant, d'une traduction
+du résumé en français.
 
-Ce règlement fixe également les conditions dans lesquelles l'émetteur dont les titres ont été émis ou cédés dans le cadre
-d'un appel public à l'épargne procède à l'information du public.
+Aucune action en responsabilité civile ne peut être intentée sur le fondement du seul résumé ou de sa traduction, sauf si le
+contenu du résumé ou de sa traduction est trompeur, inexact ou contradictoire par rapport aux informations contenues dans les
+autres parties du document mentionné au premier alinéa.
 
-Le règlement précise, par ailleurs, les modalités et les conditions dans lesquelles une personne morale peut cesser de faire
-appel public à l'épargne.
+Le règlement général de l'Autorité des marchés financiers fixe les conditions dans lesquelles les opérations par appel public
+à l'épargne qui ne justifient pas une information du public à raison soit de leur nature ou de leur volume, soit de la nature
+de l'émetteur ou des investisseurs visés, soit de la nature ou de la valeur nominale des instruments financiers concernés,
+sont dispensées de l'établissement de tout ou partie du document mentionné au premier alinéa.
 
-Outre l'Etat, sont dispensés de l'établissement du document prévu au premier alinéa du présent article les autres Etats
-membres de l'Organisation de coopération et de développement économiques ainsi que les organismes internationaux à caractère
-public dont la France fait partie.
+II. - Le règlement général fixe également les conditions dans lesquelles il est procédé à l'information du public lorsque des
+instruments financiers ont été soit émis ou cédés dans le cadre d'un appel public à l'épargne, soit admis aux négociations
+sur un marché d'instruments financiers.
+
+Le règlement général peut tenir compte du fait que les instruments financiers sont négociés ou non sur un marché
+d'instruments financiers autre qu'un marché réglementé et, le cas échéant, des caractéristiques de celui-ci. Il peut prévoir
+que certaines règles ne sont applicables qu'à certains marchés d'instruments financiers, à la demande de la personne qui les
+gère.
+
+III. - Le règlement général précise, par ailleurs, les modalités et les conditions dans lesquelles une personne ou une entité
+peut cesser de faire appel public à l'épargne.
 
 **Liens relatifs à cet article**
 
@@ -18935,10 +19070,6 @@ public dont la France fait partie.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -18980,6 +19111,10 @@ public dont la France fait partie.
 	  - Code monétaire et financier - art. R513-9 (V)
 	  - Code monétaire et financier - art. R515-8 (V)
 	  - Code monétaire et financier - art. R533-15 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
 
 
 ##### Section 2 : Interdictions et sanctions
@@ -20088,11 +20223,11 @@ financiers inscrits en compte, français ou étrangers, constitués antérieurem
 
 I. - Les dispositions de la présente section sont applicables :
 
-1° Aux obligations financières résultant d'opérations sur instruments financiers lorsqu'aucune des parties n'est une personne
-physique et que l'une au moins des parties à l'opération est un établissement de crédit, un prestataire de services
-d'investissement, un établissement public, une collectivité territoriale, une institution, une personne ou entité
-bénéficiaire des dispositions de l'article L. 531-2, une chambre de compensation, un établissement non résident ayant un
-statut comparable, une organisation ou organisme financier international dont la France ou l'Union européenne est membre ;
+1° Aux obligations financières résultant d'opérations sur instruments financiers lorsque l'une au moins des parties à
+l'opération est un établissement de crédit, un prestataire de services d'investissement, un établissement public, une
+collectivité territoriale, une institution, une personne ou entité bénéficiaire des dispositions de l'article L. 531-2, une
+chambre de compensation, un établissement non résident ayant un statut comparable, une organisation ou organisme financier
+international dont la France ou l'Union européenne est membre ;
 
 2° Aux obligations financières résultant de tout contrat donnant lieu à un règlement en espèces ou à une livraison
 d'instruments financiers lorsque toutes les parties appartiennent à l'une des catégories de personnes mentionnées à l'alinéa
@@ -20156,7 +20291,7 @@ d'un droit d'opposition est réputée être intervenue avant cette procédure.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 31 (V) JORF 27 juillet 2005
 
 	**Cite**:
 
@@ -21100,6 +21235,19 @@ d'acquisition d'un bloc de titres conférant la majorité du capital ou des droi
 admises aux négociations sur un marché réglementé oblige le ou les acquéreurs à acheter les titres qui leur sont alors
 présentés au cours ou au prix auquel la cession du bloc est réalisée.
 
+III. - L'Autorité des marchés financiers peut prévoir que les règles mentionnées au II sont également applicables, dans des
+conditions et selon des modalités fixées par son règlement général, aux instruments financiers négociés sur tout marché
+d'instruments financiers ne constituant pas un marché réglementé, lorsque la personne qui gère ce marché en fait la demande.
+
+IV. - Le règlement général de l'Autorité des marchés financiers fixe également les conditions dans lesquelles tout projet
+d'offre publique déposé conformément aux dispositions de la section 1 du présent chapitre ou de la présente section doit,
+lorsque l'offre porte sur une société qui détient plus du tiers du capital ou des droits de vote d'une société française ou
+étrangère dont des titres de capital sont admis aux négociations sur un marché réglementé d'un Etat partie à l'accord sur
+l'Espace économique européen ou sur un marché équivalent régi par un droit étranger et qui constitue un actif essentiel de la
+société détentrice, être accompagné des documents permettant de prouver qu'un projet d'offre publique irrévocable et loyale
+est ou sera déposé sur l'ensemble du capital de la société contrôlée ou qui constitue un actif essentiel, au plus tard à la
+date d'ouverture de la première offre publique.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -21110,10 +21258,6 @@ présentés au cours ou au prix auquel la cession du bloc est réalisée.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -21142,6 +21286,10 @@ présentés au cours ou au prix auquel la cession du bloc est réalisée.
 	  - Code monétaire et financier - art. L744-10 (V)
 	  - Code monétaire et financier - art. L754-10 (V)
 	  - Code monétaire et financier - art. L764-10 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 34 () JORF 27 juillet 2005
 
 	**Cite**:
 
@@ -21677,6 +21825,53 @@ détenues en portefeuille à la clôture de l'exercice. "
 	  - PILOTE_SUIVEUR: Code de commerce - art. L232-8
 
 
+###### Article L451-1-1
+
+Les émetteurs dont des instruments financiers autres que des titres de créance d'une valeur nominale supérieure à 50 000
+euros ou des instruments du marché monétaire, au sens de la directive 2004/39/CE du Parlement et du Conseil, du 21 avril
+2004, concernant les marchés d'instruments financiers, dont l'échéance est inférieure à douze mois sont admis aux
+négociations sur un marché réglementé d'un Etat partie à l'accord sur l'Espace économique européen, relevant de la compétence
+de l'Autorité des marchés financiers pour le visa mentionné à l'article L. 621-8, doivent déposer auprès de l'Autorité des
+marchés financiers, dans les conditions fixées par son règlement général, après la publication de leurs comptes annuels, un
+document qui contient ou mentionne toutes les informations qu'ils ont publiées ou rendues publiques au cours des douze
+derniers mois dans l'Espace économique européen ou un pays tiers pour satisfaire à leurs obligations législatives ou
+réglementaires en matière d'instruments financiers, d'émetteurs d'instruments financiers et de marchés d'instruments
+financiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 223-16-1 (M)
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V)
+	  - ORDONNANCE n°2015-1576 du 3 décembre 2015 - art. 6 (V)
+	  - Code monétaire et financier - art. L451-1-5 (V)
+	  - Code monétaire et financier - art. L451-2-1 (VD)
+	  - Code monétaire et financier - art. L621-18-2 (V)
+	  - Code monétaire et financier - art. L734-12 (V)
+	  - Code monétaire et financier - art. L734-7 (Ab)
+	  - Code monétaire et financier - art. L744-12 (VT)
+	  - Code monétaire et financier - art. L754-12 (VT)
+	  - Code monétaire et financier - art. L764-12 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 32 (V) JORF 27 juillet 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 24
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-8
+	  - Directive 2004-39 CE 2004-04-21
+
+
 ##### Section 2 : Obligation d'information sur les prises de participations
 
 ###### Article L451-2
@@ -21886,13 +22081,48 @@ général de l'Autorité des marchés financiers."
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 33 (V) JORF 27 juillet 2005
 
 	**Cite**:
 
 	  - Code de commerce. - art. L228-1 (M)
 	  - Code de commerce. - art. L228-3-3 (M)
 	  - Code monétaire et financier L233-14, L233-7, L233-3, L233-12
+
+
+##### Section 3 : Obligation d'information sur le rachat d'actions
+
+###### Article L451-3
+
+Les opérations de rachat d'actions prévues par l'article L. 225-209 du code de commerce ne sont pas soumises aux dispositions
+du VII de l'article L. 621-8 du présent code. 
+
+Dans les conditions et selon les modalités fixées par le règlement général de l'Autorité des marchés financiers, toute
+société dont des actions sont admises aux négociations sur un marché réglementé qui souhaite procéder au rachat de ses
+propres titres de capital informe préalablement le marché.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V)
+	  - Code monétaire et financier - art. L734-12 (V)
+	  - Code monétaire et financier - art. L744-12 (VT)
+	  - Code monétaire et financier - art. L754-12 (VT)
+	  - Code monétaire et financier - art. L764-12 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-209 (V)
+	  - Code monétaire et financier - art. L621-8 (V)
 
 
 #### Chapitre II : Associations de défense des investisseurs
@@ -22283,12 +22513,12 @@ personnes disposant, à l'occasion de l'exercice de leur profession ou de leurs 
 perspectives ou la situation d'un émetteur dont les titres sont négociés sur un marché réglementé ou sur les perspectives
 d'évolution d'un instrument financier admis sur un marché réglementé, de réaliser ou de permettre de réaliser, soit
 directement, soit par personne interposée, une ou plusieurs opérations avant que le public ait connaissance de ces
-informations.
+informations. 
 
 Est puni d'un an d'emprisonnement et de 150 000 euros d'amende le fait, pour toute personne disposant dans l'exercice de sa
 profession ou de ses fonctions d'une information privilégiée sur les perspectives ou la situation d'un émetteur dont les
 titres sont négociés sur un marché réglementé ou sur les perspectives d'évolution d'un instrument financier admis sur un
-marché réglementé, de la communiquer à un tiers en dehors du cadre normal de sa profession ou de ses fonctions.
+marché réglementé, de la communiquer à un tiers en dehors du cadre normal de sa profession ou de ses fonctions. 
 
 Est puni d'un an d'emprisonnement et d'une amende de 150 000 euros dont le montant peut être porté au-delà de ce chiffre,
 jusqu'au décuple du montant du profit réalisé, sans que l'amende puisse être inférieure à ce même profit, le fait pour toute
@@ -22299,10 +22529,11 @@ réaliser, directement ou indirectement, une opération ou de communiquer à un 
 ait connaissance. Lorsque les informations en cause concernent la commission d'un crime ou d'un délit, les peines encourues
 sont portées à sept ans d'emprisonnement et à 1 500 000 euros si le montant des profits réalisés est inférieur à ce chiffre.
 
-Est puni des peines prévues au premier alinéa le fait, pour toute personne, de répandre dans le public par des voies et
-moyens quelconques des informations fausses ou trompeuses sur les perspectives ou la situation d'un émetteur dont les titres
-sont négociés sur un marché réglementé ou sur les perspectives d'évolution d'un instrument financier admis sur un marché
-réglementé, de nature à agir sur les cours.
+**Nota:**
+
+Dans sa décision n° 2014-453/454 QPC et 2015-462 QPC du 18 mars 2015 (NOR : CSCX1507201S), le Conseil constitutionnel a
+déclaré contraire à la Constitution l'article L. 465-1, dans sa rédaction résultant de la loi n° 2005-842 du 26 juillet 2005.
+La déclaration d'inconstitutionnalité prend effet dans les conditions fixées aux considérants 35 et 36.
 
 **Liens relatifs à cet article**
 
@@ -22310,13 +22541,13 @@ réglementé, de nature à agir sur les cours.
 
 	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 10-1 (Ab)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 30 () JORF 27 juillet 2005
 
 	**Cité par**:
 
@@ -22344,14 +22575,19 @@ réglementé, de nature à agir sur les cours.
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-109 (V)
+	  - Code de commerce - art. L225-109 (V)
 
 
 ###### Article L465-2
 
 Est puni des peines prévues au premier alinéa de l'article L. 465-1 le fait, pour toute personne, d'exercer ou de tenter
 d'exercer, directement ou par personne interposée, une manoeuvre ayant pour objet d'entraver le fonctionnement régulier d'un
-marché d'instruments financiers en induisant autrui en erreur.
+marché réglementé en induisant autrui en erreur.
+
+Est puni des peines prévues au premier alinéa de l'article L. 465-1 le fait, pour toute personne, de répandre dans le public
+par des voies et moyens quelconques des informations fausses ou trompeuses sur les perspectives ou la situation d'un émetteur
+dont les titres sont négociés sur un marché réglementé ou sur les perspectives d'évolution d'un instrument financier admis
+sur un marché réglementé, de nature à agir sur les cours.
 
 **Liens relatifs à cet article**
 
@@ -22363,6 +22599,10 @@ marché d'instruments financiers en induisant autrui en erreur.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 30 () JORF 27 juillet 2005
 
 	**Cité par**:
 
@@ -22964,7 +23204,17 @@ compte courant aux sociétés dans lesquelles ils détiennent une participation 
 5. Aux associations sans but lucratif faisant des prêts  pour la création et le développement d'entreprises par des chômeurs
 ou titulaires des minima sociaux sur ressources propres et sur emprunts contractés auprès d'établissements de crédit ou des
 institutions ou services mentionnés à l'article L. 518-1, habilitées et contrôlées dans des conditions définies par décret en
-Conseil d'Etat.
+Conseil d'Etat ;
+
+6. Aux personnes morales pour les prêts participatifs qu'elles consentent en vertu des articles L. 313-13 à L. 313-17 et aux
+personnes morales mentionnées à l'article L. 313-21-1 pour la délivrance des garanties prévues par cet article.
+
+**Nota:**
+
+NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
+suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
+portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
+placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -22975,11 +23225,6 @@ Conseil d'Etat.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 35, art. 58 3° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -23035,11 +23280,17 @@ Conseil d'Etat.
 	  - Code monétaire et financier - art. R518-73 (V)
 	  - Livre des procédures fiscales - art. L139 A (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 18 () JORF 27 juillet 2005
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L214-36 (M)
+	  - Code monétaire et financier - art. L313-21-1 (V)
 	  - Code monétaire et financier - art. L511-5 (V)
 	  - Code monétaire et financier - art. L518-1 (M)
+	  - Code monétaire et financier L511-5, L518-1, L214-36, L313-13 à L313-17, L313-21-1
 	  - Code de la mutualité - art. L111-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. L411-1 (M)
 
@@ -23518,6 +23769,32 @@ la détermination effective de l'activité de leur succursale en France.
 	  - Code monétaire et financier - art. L613-31-19 (V)
 	  - Code monétaire et financier - art. R511-16-2 (VD)
 	  - Code monétaire et financier - art. R511-3-2 (M)
+
+
+###### Article L511-13-1
+
+Sans préjudice des dispositions de l'article L. 229-4 du code de commerce, le Comité des établissements de crédit et des
+entreprises d'investissement est également compétent pour s'opposer, conformément aux dispositions du 14 de l'article 8 et de
+l'article 19 du règlement (CE) n° 2157/2001 du Conseil du 8 octobre 2001 relatif au statut de la société européenne (SE), au
+transfert de siège social d'un établissement de crédit constitué sous forme de société européenne immatriculée en France et
+dont résulterait un changement du droit applicable ainsi qu'à la constitution d'une société européenne par voie de fusion
+impliquant un établissement de crédit agréé en France. Cette décision est susceptible de recours devant le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 13 () JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L229-4 (V)
+	  - Code monétaire et financier 8
+	  - Règlement 2157-2001 CE 2001-10-08 art. 8, art. 19
 
 
 ###### Article L511-14
@@ -27812,6 +28089,28 @@ Un décret en Conseil d'Etat précise les modalités d'application de la présen
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
+###### Article L512-105
+
+Les banques coopératives, pour l'application du dernier alinéa de l'article L. 512-1, sont, pour le réseau des caisses
+d'épargne, les caisses d'épargne et de prévoyance et les sociétés locales d'épargne qui leur sont affiliées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 25 () JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L512-1 (M)
+
+
 #### Chapitre IV : Les caisses de crédit municipal
 
 ##### Section 1 : Missions
@@ -31703,6 +32002,33 @@ subordonnée au respect d'engagements pris par l'entreprise ou l'établissement.
 	  - Code monétaire et financier - art. L532-3 (M)
 
 
+###### Article L532-3-2
+
+Sans préjudice des dispositions de l'article L. 229-4 du code de commerce, le Comité des établissements de crédit et des
+entreprises d'investissement est également compétent pour s'opposer, conformément aux dispositions du 14 de l'article 8 et de
+l'article 19 du règlement (CE) n° 2157/2001 du Conseil du 8 octobre 2001 relatif au statut de la société européenne (SE), au
+transfert de siège social d'une entreprise d'investissement constituée sous forme de société européenne immatriculée en
+France et dont résulterait un changement du droit applicable ainsi qu'à la constitution d'une société européenne par voie de
+fusion impliquant une entreprise d'investissement agréée en France. Cette décision est susceptible de recours devant le
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 13 () JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L229-4 (V)
+	  - Code monétaire et financier 8
+	  - Règlement 2157-2001 CE 2001-10-08 art. 8, art. 19
+
+
 ###### Article L532-4
 
 Pour délivrer l'approbation du programme d'activité portant sur le service d'investissement mentionné au 4 de l'article L.
@@ -32098,6 +32424,31 @@ pris par la société de gestion.
 
 	  - Code de commerce. - art. L233-14 (M)
 	  - Code monétaire et financier - art. L532-9 (M)
+
+
+###### Article L532-9-2
+
+Sans préjudice des dispositions de l'article L. 229-4 du code de commerce, l'Autorité des marchés financiers est également
+compétente pour s'opposer, conformément aux dispositions du 14 de l'article 8 et de l'article 19 du règlement (CE) n°
+2157/2001 du Conseil du 8 octobre 2001 relatif au statut de la société européenne (SE), au transfert de siège social d'une
+société de gestion de portefeuille constituée sous forme de société européenne immatriculée en France et dont résulterait un
+changement du droit applicable ainsi qu'à la constitution d'une société européenne par voie de fusion impliquant une société
+de gestion de portefeuille agréée en France. Cette décision est susceptible de recours devant le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 13 () JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce - art. L229-4 (V)
+	  - Règlement 2001-2157 CE 2001-10-08 art. 8, art. 19
 
 
 ##### Paragraphe 2 : Retrait d'agrément et radiation
@@ -39999,33 +40350,67 @@ l'économie, les mesures urgentes nécessitées par les circonstances sont prise
 	  - Code monétaire et financier - art. L621-7-2 (V)
 
 
-##### Sous-section 2 : Autorisation des opérations d'appel public à l'épargne
+##### Sous-section 2 : Autorisation de certaines opérations portant sur des instruments financiers
 
 ###### Article L621-8
 
-Le projet de document mentionné à l'article L. 412-1 est soumis au visa préalable de l'Autorité des marchés financiers, qui
-indique les énonciations à modifier ou les informations complémentaires à insérer.
+I. - Le projet de document mentionné à l'article L. 412-1, ou tout document équivalent requis par la législation d'un autre
+Etat partie à l'accord sur l'Espace économique européen, est soumis au visa préalable de l'Autorité des marchés financiers
+pour toute opération réalisée sur le territoire de l'Espace économique européen lorsque l'émetteur des titres qui font
+l'objet de l'opération a son siège statutaire en France et que l'opération porte sur des titres de capital ou des titres
+donnant accès au capital au sens de l'article L. 212-7 ou sur des titres de créance dont la valeur nominale est inférieure à
+1 000 euros et qui ne sont pas des instruments du marché monétaire au sens de la directive 2004/39/CE du Parlement européen
+et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, dont l'échéance est inférieure à douze mois.
 
-L'Autorité peut également demander toutes explications ou justifications, notamment au sujet de la situation, de l'activité
-et des résultats de l'émetteur. Si l'émetteur ne satisfait pas aux demandes de l'Autorité, celle-ci peut refuser son visa.
+II. - Le projet de document mentionné au I est également soumis au visa préalable de l'Autorité des marchés financiers dans
+les cas fixés par son règlement général pour toute opération réalisée sur le territoire de l'Espace économique européen
+lorsque l'opération est réalisée en France ou que l'émetteur des titres objets de l'opération y a son siège social et que
+l'opération porte sur des titres de créance, autres que des titres donnant accès au capital au sens de l'article L. 212-7,
+donnant le droit d'acquérir ou de vendre tout autre titre ou donnant lieu à un règlement en espèces, notamment des warrants,
+ou sur des titres de créance dont la valeur nominale est supérieure ou égale à 1 000 euros et qui ne sont pas des instruments
+du marché monétaire, au sens de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 précitée, dont
+l'échéance est inférieure à douze mois.
 
-Dans des conditions et selon des modalités fixées par un règlement général de l'Autorité des marchés financiers, l'Autorité
-appose également un visa préalable quand une personne physique ou morale fait une offre publique d'acquisition de titres de
-capital ou de titres de créance d'un émetteur faisant appel public à l'épargne ou lorsqu'une société faisant appel public à
-l'épargne procède à l'achat de ses propres titres de capital. La note sur laquelle l'Autorité appose un visa préalable
-contient les orientations en matière d'emploi de la personne physique ou morale qui effectue l'offre publique.
+III. - Le projet de document mentionné au I est également soumis au visa préalable de l'Autorité des marchés financiers dans
+les cas fixés par son règlement général pour toute opération réalisée sur le territoire de l'Espace économique européen
+lorsque l'émetteur des titres qui font l'objet de l'opération a son siège statutaire hors du territoire de l'Espace
+économique européen et que l'opération porte sur des instruments financiers dont la première émission ou cession dans le
+public sur le territoire de l'Espace économique européen ou la première admission sur un marché réglementé d'un Etat partie à
+l'accord sur l'Espace économique européen a eu lieu en France.
+
+IV. - Le projet de document mentionné au I est également soumis au visa préalable de l'Autorité des marchés financiers pour
+toute opération réalisée en France et portant sur des instruments financiers autres que ceux mentionnés aux I et II.
+
+V. - Lorsque l'Autorité des marchés financiers n'est pas l'autorité compétente pour viser le projet de document mentionné au
+I, elle peut, dans les conditions fixées par son règlement général et à la demande de l'autorité de contrôle d'un autre Etat
+partie à l'accord sur l'Espace économique européen, viser le projet de document susmentionné.
+
+VI. - Dans les cas mentionnés aux I à III, l'Autorité des marchés financiers peut demander à l'autorité de contrôle d'un
+autre Etat partie à l'accord sur l'Espace économique européen de viser le projet de document mentionné au I.
+
+Lorsque l'autorité de contrôle de l'autre Etat partie à l'accord sur l'Espace économique européen accepte la demande,
+l'Autorité des marchés financiers en informe la personne qui réalise l'opération dans un délai de trois jours ouvrables.
+
+VII. - Hors les cas prévus à l'article L. 412-1, le projet de document soumis au visa de l'Autorité des marchés financiers
+est établi et publié dans les conditions prévues par son règlement général.
+
+VIII. - Tout fait nouveau ou toute erreur ou inexactitude concernant les informations contenues dans le document mentionné au
+I et visé par l'Autorité des marchés financiers, qui est susceptible d'avoir une influence significative sur l'évaluation des
+instruments financiers et survient ou est constaté entre l'obtention du visa et la clôture de l'opération, est mentionné dans
+une note complémentaire au document mentionné au I. Cette note fait l'objet d'un visa dans des conditions fixées par le
+règlement général de l'Autorité des marchés financiers.
+
+IX. - Dans des conditions et selon des modalités fixées par son règlement général, l'Autorité des marchés financiers appose
+également un visa préalable quand une personne physique ou morale fait une offre publique d'acquisition de titres de capital
+ou de titres de créance d'un émetteur faisant appel public à l'épargne en France. La note sur laquelle la commission appose
+un visa préalable contient les orientations en matière d'emploi de la personne physique ou morale qui effectue l'offre
+publique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 1, art. 46 V 1°, 2° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -40058,9 +40443,122 @@ contient les orientations en matière d'emploi de la personne physique ou morale
 	  - Code monétaire et financier - art. L756-5 (VT)
 	  - Code monétaire et financier - art. L766-5 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
+
 	**Cite**:
 
+	  - Code monétaire et financier - art. L212-7 (M)
 	  - Code monétaire et financier - art. L412-1 (M)
+	  - Directive 2004-39 CE 2004-04-21
+
+
+###### Article L621-8-1
+
+I.-Pour délivrer le visa mentionné à l'article L. 621-8, l'Autorité des marchés financiers vérifie si le document est complet
+et compréhensible, et si les informations qu'il contient sont cohérentes. L'Autorité des marchés financiers indique, le cas
+échéant, les énonciations à modifier ou les informations complémentaires à insérer. 
+
+L'Autorité des marchés financiers peut également demander toutes explications ou justifications, notamment au sujet de la
+situation, de l'activité et des résultats de l'émetteur ainsi que des garants éventuels des instruments financiers objets de
+l'opération. 
+
+II.-L'Autorité des marchés financiers peut suspendre l'opération pour une durée qui ne peut excéder une limite fixée par son
+règlement général lorsqu'elle a des motifs raisonnables de soupçonner qu'elle est contraire aux dispositions législatives ou
+réglementaires qui lui sont applicables. 
+
+L'Autorité des marchés financiers peut interdire l'opération : 
+
+1° Lorsqu'elle a des motifs raisonnables de soupçonner qu'une émission ou une cession est contraire aux dispositions
+législatives et réglementaires qui lui sont applicables ; 
+
+2° Lorsqu'elle constate qu'un projet d'admission aux négociations sur un marché réglementé est contraire aux dispositions
+législatives ou réglementaires qui lui sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 2 (V)
+	  - Code monétaire et financier - art. L736-5 (VT)
+	  - Code monétaire et financier - art. L746-5 (VT)
+	  - Code monétaire et financier - art. L756-5 (VT)
+	  - Code monétaire et financier - art. L766-5 (VT)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-8 (V)
+
+
+###### Article L621-8-2
+
+Le règlement général de l'Autorité des marchés financiers définit les conditions et les modalités selon lesquelles les
+opérations par appel public à l'épargne peuvent faire l'objet de communications à caractère promotionnel.
+
+L'autorité peut interdire ou suspendre pendant dix jours de bourse les communications à caractère promotionnel lorsqu'elle a
+des motifs raisonnables de soupçonner qu'elles sont contraires aux dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 2 (V)
+	  - Code monétaire et financier - art. L736-5 (AbD)
+	  - Code monétaire et financier - art. L746-5 (VD)
+	  - Code monétaire et financier - art. L756-5 (VD)
+	  - Code monétaire et financier - art. L766-5 (VD)
+
+
+###### Article L621-8-3
+
+Lorsque l'Autorité des marchés financiers n'est pas l'autorité compétente pour viser le projet de document mentionné au I de
+l'article L. 621-8 et qu'elle établit, à l'occasion d'une opération par appel public à l'épargne réalisée sur le territoire
+français, que des irrégularités ont été commises par la personne qui réalise l'opération ou par les établissements chargés du
+placement, elle en informe l'autorité de contrôle de l'État partie à l'accord sur l'Espace économique européen ayant approuvé
+ce document.
+
+Si, en dépit des mesures prises par cette dernière ou en raison de leur inadéquation, l'émetteur ou les établissements
+chargés du placement persistent à violer les dispositions législatives ou réglementaires qui leur sont applicables,
+l'Autorité des marchés financiers peut, après en avoir informé l'autorité de contrôle ayant approuvé le document, prendre
+toutes les mesures qui s'imposent pour protéger les investisseurs.
+
+L'Autorité des marchés financiers informe la Commission européenne de ces mesures dans les meilleurs délais.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 212-40 (V)
+	  - Code monétaire et financier - art. L736-1 (VT)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-8 (M)
 
 
 ##### Sous-section 3 : Contrôles et enquêtes
@@ -40480,11 +40978,17 @@ du code de procédure pénale.
 ###### Article L621-14
 
 I. - Le collège peut, après avoir mis la personne concernée en mesure de présenter ses explications, ordonner qu'il soit mis
-fin aux pratiques contraires aux dispositions législatives ou réglementaires, lorsque ces pratiques sont de nature à porter
-atteinte aux droits des épargnants ou ont pour effet de fausser le fonctionnement du marché, de procurer aux intéressés un
-avantage injustifié qu'ils n'auraient pas obtenu dans le cadre normal du marché, de porter atteinte à l'égalité d'information
-ou de traitement des investisseurs ou à leurs intérêts ou de faire bénéficier les émetteurs ou les investisseurs des
-agissements d'intermédiaires contraires à leurs obligations professionnelles. Ces décisions peuvent être rendues publiques.
+fin, en France et à l'étranger, aux manquements aux obligations résultant des dispositions législatives ou réglementaires ou
+des règles professionnelles visant à protéger les investisseurs contre les opérations d'initiés, les manipulations de cours
+et la diffusion de fausses informations, ou à tout autre manquement de nature à porter atteinte à la protection des
+investisseurs ou au bon fonctionnement du marché. Ces décisions peuvent être rendues publiques.
+
+Le collège dispose des mêmes pouvoirs que ceux mentionnés à l'alinéa précédent à l'encontre des manquements aux obligations
+résultant des dispositions législatives ou réglementaires visant à protéger les investisseurs et le marché contre les
+opérations d'initié, les manipulations de cours ou la diffusion de fausses informations, commis sur le territoire français et
+concernant des instruments financiers admis aux négociations sur un marché réglementé d'un autre Etat membre de la Communauté
+européenne ou partie à l'accord sur l'Espace économique européen ou pour lesquels une demande d'admission aux négociations
+sur un tel marché a été présentée.
 
 II. - Le président de l'Autorité des marchés financiers peut demander en justice qu'il soit ordonné à la personne qui est
 responsable de la pratique relevée de se conformer aux dispositions législatives ou réglementaires, de mettre fin à
@@ -40528,9 +41032,7 @@ publique est devenue définitive.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 12 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 13 () JORF 2 août 2003
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 30 () JORF 27 juillet 2005
 
 
 ##### Sous-section 5 : Sanctions
@@ -40564,27 +41066,39 @@ b) Les personnes physiques placées sous l'autorité ou agissant pour le compte 
 lois, règlements et règles professionnelles approuvées par l'Autorité des marchés financiers en vigueur, sous réserve des
 dispositions de l'article L. 613-21 ;
 
-c) Toute personne autre que l'une des personnes mentionnées au II de l'article L. 621-9, auteur des pratiques mentionnées au
-I de l'article L. 621-14.
+c) Toute personne qui, sur le territoire français ou à l'étranger, s'est livrée ou a tenté de se livrer à une opération
+d'initié ou s'est livrée à une manipulation de cours, à la diffusion d'une fausse information ou à tout autre manquement
+mentionné au premier alinéa du I de l'article L. 621-14, dès lors que ces actes concernent un instrument financier émis par
+une personne ou une entité faisant appel public à l'épargne ou admis aux négociations sur un marché d'instruments financiers
+ou pour lequel une demande d'admission aux négociations sur un tel marché a été présentée, dans les conditions déterminées
+par le règlement général de l'Autorité des marchés financiers ;
+
+d) Toute personne qui, sur le territoire français, s'est livrée ou a tenté de se livrer à une opération d'initié ou s'est
+livrée à une manipulation de cours, à la diffusion d'une fausse information ou à tout autre manquement mentionné au dernier
+alinéa du I de l'article L. 621-14, dès lors que ces actes concernent un instrument financier admis aux négociations sur un
+marché réglementé d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou
+pour lequel une demande d'admission aux négociations sur un tel marché a été présentée.
 
 III. - Les sanctions applicables sont :
 
-a) Pour les personnes mentionnées au a du II, l'avertissement, le blâme, l'interdiction à titre temporaire ou définitif de
-l'exercice de tout ou partie des services fournis ; la commission des sanctions peut prononcer soit à la place, soit en sus
-de ces sanctions une sanction pécuniaire dont le montant ne peut être supérieur à 1,5 million d'euros ou au décuple du
-montant des profits éventuellement réalisés ; les sommes sont versées au fonds de garantie auquel est affiliée la personne
-sanctionnée ou, à défaut, au Trésor public ;
+a) Pour les personnes mentionnées aux 1° à 8°, 11° et 12° du II de l'article L. 621-9, l'avertissement, le blâme,
+l'interdiction à titre temporaire ou définitif de l'exercice de tout ou partie des services fournis ; la commission des
+sanctions peut prononcer soit à la place, soit en sus de ces sanctions une sanction pécuniaire dont le montant ne peut être
+supérieur à 1,5 million d'euros ou au décuple du montant des profits éventuellement réalisés ; les sommes sont versées au
+fonds de garantie auquel est affiliée la personne sanctionnée ou, à défaut, au Trésor public ;
 
-b) Pour les personnes mentionnées au b du II, l'avertissement, le blâme, le retrait temporaire ou définitif de la carte
+b) Pour les personnes physiques placées sous l'autorité ou agissant pour le compte de l'une des personnes mentionnées aux 1°
+à 8°, 11° et 12° du II de l'article L. 621-9, et l'avertissement, le blâme, le retrait temporaire ou définitif de la carte
 professionnelle, l'interdiction à titre temporaire ou définitif de l'exercice de tout ou partie des activités ; la commission
 des sanctions peut prononcer soit à la place, soit en sus de ces sanctions une sanction pécuniaire dont le montant ne peut
 être supérieur à 1,5 million d'euros ou au décuple du montant des profits éventuellement réalisés en cas de pratiques
-mentionnées au I de l'article L. 621-14 ou à 300 000 euros ou au quintuple des profits éventuellement réalisés dans les
-autres cas ; les sommes sont versées au fonds de garantie auquel est affiliée la personne morale sous l'autorité ou pour le
-compte de qui agit la personne sanctionnée ou, à défaut, au Trésor public ;
+mentionnées aux c et d du II ou à 300 000 euros ou au quintuple des profits éventuellement réalisés dans les autres cas ; les
+sommes sont versées au fonds de garantie auquel est affiliée la personne morale sous l'autorité ou pour le compte de qui agit
+la personne sanctionnée ou, à défaut, au Trésor public ;
 
-c) Pour les personnes mentionnées au c du II, une sanction pécuniaire dont le montant ne peut être supérieur à 1,5 million
-d'euros ou au décuple du montant des profits éventuellement réalisés ; les sommes sont versées au Trésor public.
+c) Pour les personnes autres que l'une des personnes mentionnées au II de l'article L. 621-9, auteurs des faits mentionnés
+aux c et d du II, une sanction pécuniaire dont le montant ne peut être supérieur à 1,5 million d'euros ou au décuple du
+montant des profits éventuellement réalisés ; les sommes sont versées au Trésor public.
 
 Le montant de la sanction doit être fixé en fonction de la gravité des manquements commis et en relation avec les avantages
 ou les profits éventuellement tirés de ces manquements.
@@ -40676,8 +41190,7 @@ désigne. Les frais sont supportés par les personnes sanctionnées.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 82 () JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 83 () JORF 7 mai 2005
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 30 () JORF 27 juillet 2005
 
 	**Cite**:
 
@@ -40831,6 +41344,37 @@ ou les profits éventuellement tirés de ces manquements.
 
 	  - Code monétaire et financier - art. L541-1 (V)
 	  - Code monétaire et financier - art. L621-15 (V)
+
+
+###### Article L621-17-1
+
+Tout manquement, par les personnes produisant ou diffusant des recommandations d'investissement destinées au public dans le
+cadre de leurs activités professionnelles, aux règles prévues au IX de l'article L. 621-7 est passible des sanctions
+prononcées par la commission des sanctions selon les modalités prévues à l'article L. 621-15.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 12-2 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 29 () JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 2 (V)
+	  - Code monétaire et financier - art. L621-31 (M)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-15 (M)
+	  - Code monétaire et financier - art. L621-7 (M)
 
 
 ##### Sous-section 6 : Déclaration d'opérations suspectes
@@ -41706,6 +42250,194 @@ Un décret en Conseil d'Etat précise les modalités d'application du présent a
 	**Cite**:
 
 	  - Code monétaire et financier - art. L621-9 (M)
+
+
+##### Section 7 : Recommandations d'investissement produites ou diffusées dans le cadre d'une activité journalistique
+
+###### Article L621-31
+
+Ne sont pas soumis aux règles prévues au premier alinéa du IX de l'article L. 621-7 ni aux sanctions prévues à l'article L.
+621-17-1 :
+
+1° Les entreprises suivantes, au titre de leurs activités journalistiques, lorsqu'elles adhèrent à l'association constituée
+dans les conditions et selon les modalités prévues à l'article L. 621-32 :
+
+- les éditeurs de publications de presse au sens de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de
+la presse ;
+
+- les éditeurs de services de radio ou de télévision au sens de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté
+de communication ;
+
+- les éditeurs de services de communication au public en ligne au sens de la loi n° 2004-575 du 21 juin 2004 pour la
+confiance dans l'économie numérique ;
+
+- les agences de presse au sens de l'ordonnance n° 45-2646 du 2 novembre 1945 portant réglementation provisoire des agences
+de presse ;
+
+2° Les journalistes, au sens de l'article L. 761-2 du code du travail, lorsqu'ils exercent leur profession dans une ou
+plusieurs des entreprises mentionnées au 1°.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-2646 1945-11-02
+	  - Loi n°86-897 1986-08-01
+	  - Loi n°86-1067 1986-09-30
+	  - Loi n°2004-575 2004-06-21
+	  - Code monétaire et financier - art. L621-17-1 (V)
+	  - Code monétaire et financier - art. L621-7 (M)
+	  - Code du travail - art. L761-2 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
+	  - Arrêté du 12 novembre 2004 - art. 329-1 (V)
+	  - Arrêté du 12 novembre 2004 - art. 339-1 (V)
+	  - Arrêté du 14 décembre 2016 - art.
+	  - Code monétaire et financier - art. L621-32 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 29 () JORF 27 juillet 2005
+
+
+###### Article L621-32
+
+L'association mentionnée au 1° de l'article L. 621-31 est constituée par les personnes énumérées à ce même 1°, conformément à
+la loi du 1er juillet 1901 relative au contrat d'association. Seules peuvent y adhérer les personnes relevant des catégories
+énumérées au même 1°. 
+
+L'association établit un code de bonne conduite. Ce code définit les règles spécifiques destinées à garantir le respect par
+les adhérents de l'association, lorsqu'ils produisent ou diffusent des recommandations d'investissement destinées au public
+et portant sur les instruments financiers admis aux négociations sur un marché réglementé ou sur leur émetteur, des
+obligations de présentation équitable et de mention des conflits d'intérêts, conformément à la directive 2003/125/ CE de la
+Commission du 22 décembre 2003 portant modalités d'application de la directive 2003/6/ CE du Parlement européen et du Conseil
+en ce qui concerne la présentation équitable des recommandations d'investissement et la mention des conflits d'intérêts. 
+
+Le directeur de la publication ou, à défaut, le représentant légal de l'entreprise adhérente s'assure de la bonne application
+des règles définies dans le code de bonne conduite par les journalistes qui exercent leur profession sous sa responsabilité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 329-1 (V)
+	  - Arrêté du 12 novembre 2004 - art. 339-1 (V)
+	  - Code monétaire et financier - art. L621-31 (V)
+	  - Code monétaire et financier - art. L621-33 (V)
+	  - Code monétaire et financier - art. L736-3 (VT)
+	  - Code monétaire et financier - art. L736-5 (VT)
+	  - Code monétaire et financier - art. L746-5 (VT)
+	  - Code monétaire et financier - art. L756-5 (VT)
+	  - Code monétaire et financier - art. L766-5 (VT)
+
+	**Cite**:
+
+	  - Directive 2003-125 CE CE 2003-12-22
+	  - Loi n°1901-07-01
+	  - Loi du 1er juillet 1901 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 29 () JORF 27 juillet 2005
+
+
+###### Article L621-33
+
+L'association mentionnée à l'article L. 621-32 soit se saisit d'office, soit est saisie par l'Autorité des marchés financiers
+de faits susceptibles de constituer un manquement d'un adhérent aux règles du code de bonne conduite mentionné au même
+article. 
+
+Par dérogation aux articles 42 et suivants de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication,
+lorsqu'il a connaissance d'un fait susceptible de constituer un manquement imputable à une entreprise éditrice de services de
+radio ou de télévision, le Conseil supérieur de l'audiovisuel en avertit immédiatement l'Autorité des marchés financiers aux
+fins d'enquête. 
+
+Lorsqu'elle se saisit ou qu'elle est saisie de tout fait mentionné au premier alinéa, l'association invite les entreprises
+adhérentes intéressées, leur directeur de la publication ou, à défaut, leur représentant légal à présenter leurs
+observations. Elle peut, à l'issue de cette procédure contradictoire, prononcer une sanction à l'encontre de ces personnes
+pour tout manquement aux règles définies dans le code de bonne conduite.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 42 (V)
+	  - Code monétaire et financier - art. L621-32 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 29 () JORF 27 juillet 2005
+
+
+###### Article L621-34
+
+L'association peut prononcer à l'égard des entreprises adhérentes, de leur directeur de la publication ou, à défaut, de leur
+représentant légal, en fonction de la gravité du manquement, l'une des sanctions suivantes :
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° L'insertion obligatoire d'un avis ou d'un communiqué dans le support concerné ;
+
+4° La diffusion d'un communiqué à l'antenne.
+
+L'association peut également exclure temporairement ou définitivement l'un de ses adhérents. Cette mesure ne peut être
+prononcée que dans les cas où l'adhérent concerné n'exécute pas une sanction prononcée à son encontre ou lorsqu'il a été
+sanctionné de façon répétée pour des manquements aux règles définies dans le code de bonne conduite.
+
+Aucune sanction ne peut être prononcée sans que la personne poursuivie ou son représentant ait été entendu ou, à défaut,
+dûment appelé.
+
+L'association se prononce au plus tard dans les trois mois qui suivent sa saisine. Elle informe, dans le mois suivant sa
+décision, l'Autorité des marchés financiers de cette dernière. En l'absence de décision à l'expiration de ce délai de trois
+mois, l'association est réputée avoir décidé qu'il n'y avait pas lieu à sanction.
+
+L'association peut rendre publique sa décision dans les publications, journaux ou supports qu'elle désigne. Les frais y
+afférents sont supportés par l'adhérent sanctionné.
+
+Les statuts de l'association prévoient les modalités de déclenchement et de déroulement de la procédure de sanction prévue
+aux alinéas précédents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 29 () JORF 27 juillet 2005
+
+
+###### Article L621-35
+
+L'association établit chaque année un rapport faisant le bilan de son activité. Elle transmet ce rapport à l'Autorité des
+marchés financiers qui fournit, dans son rapport annuel, ses observations et recommandations sur l'activité de l'association.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 29 () JORF 27 juillet 2005
 
 
 ### Titre III : Echanges d'informations et surveillance complémentaire des conglomérats financiers
@@ -48081,7 +48813,7 @@ Les articles L. 411-1 et L. 411-2 sont applicables en Polynésie française.
 
 ###### Article L754-2
 
-Les articles L. 412-1, à l'exception de son dernier alinéa, et L. 412-2 sont applicables en Polynésie française.
+Les articles L. 412-1, et L. 412-2 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -48093,6 +48825,10 @@ Les articles L. 412-1, à l'exception de son dernier alinéa, et L. 412-2 sont a
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
 
 	**Cite**:
 
@@ -50124,7 +50860,7 @@ Les articles L. 411-1 et L. 411-2 sont applicables dans les îles Wallis-et-Futu
 
 ###### Article L764-2
 
-Les articles L. 412-1, à l'exception de son dernier alinéa, et L. 412-2 sont applicables dans les îles Wallis et Futuna.
+Les articles L. 412-1, et L. 412-2 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -50138,9 +50874,7 @@ Les articles L. 412-1, à l'exception de son dernier alinéa, et L. 412-2 sont a
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II, art. 102 JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 102 () JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
 
 	**Cite**:
 
