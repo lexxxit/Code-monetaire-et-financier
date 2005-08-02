@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-07-29
+Version Consolidée au 2005-08-03
 
 # Partie législative
 
@@ -227,25 +227,25 @@ En cas de paiement en billets et pièces, il appartient au débiteur de faire l'
 
 ###### Article L112-6
 
-I. - Les règlements qui excèdent la somme de 750 euros ou qui ont pour objet le paiement par fraction d'une dette supérieure
-à ce montant, portant sur les loyers, les transports, les services, fournitures et travaux ou afférents à des acquisitions
-d'immeubles ou d'objets mobiliers ainsi que le paiement des produits de titres nominatifs et des primes ou cotisations
-d'assurance doivent être effectués par chèque barré, virement ou carte de paiement ; il en est de même pour les transactions
-sur des animaux vivants ou sur les produits de l'abattage.
+I. - Les règlements qui excèdent la somme de 1 100 euros ou qui ont pour objet le paiement par fraction d'une dette
+supérieure à ce montant, portant sur les loyers, les transports, les services, fournitures et travaux ou afférents à des
+acquisitions d'immeubles ou d'objets mobiliers ainsi que le paiement des produits de titres nominatifs et des primes ou
+cotisations d'assurance doivent être effectués par chèque barré, virement ou carte de paiement ; il en est de même pour les
+transactions sur des animaux vivants ou sur les produits de l'abattage.
 
 Le paiement des traitements et salaires est soumis aux mêmes conditions au-delà d'un montant fixé par décret.
 
 II. - Les dispositions du I ne sont pas applicables :
 
 a) Aux règlements à la charge de personnes qui sont incapables de s'obliger par chèques ou de celles qui, ne disposant plus
-de compte, en ont demandé l'ouverture en application des dispositions de l'article L. 312-1.
+de compte, en ont demandé l'ouverture en application des dispositions de l'article L. 312-1 ;
 
 b) Aux règlements faits directement par des particuliers non commerçants à d'autres particuliers, à des commerçants ou à des
 artisans ;
 
 c) Aux règlements des transactions portant sur des animaux vivants ou sur les produits de l'abattage effectués par un
 particulier pour les besoins de sa consommation familiale ou par un agriculteur avec un autre agriculteur, à condition
-qu'aucun des deux intéressés n'exerce par ailleurs une profession non agricole impliquant de telles transactions.
+qu'aucun des deux intéressés n'exerce par ailleurs une profession non agricole impliquant de telles transactions ;
 
 d) Au règlement des dépenses de l'Etat et des collectivités et établissements publics.
 
@@ -259,14 +259,13 @@ Par dérogation aux dispositions du I ci-dessus, les dépenses des services conc
 	  - Loi n°1940-10-22 du 22 octobre 1940 - art. 1 (MMN)
 	  - Loi n°1940-10-22 du 22 octobre 1940 - art. 2 (Ab)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 39 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -289,10 +288,6 @@ Par dérogation aux dispositions du I ci-dessus, les dépenses des services conc
 	**Cite**:
 
 	  - Code monétaire et financier - art. L312-1 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code monétaire et financier L741-1 (Nouvelle-Calédonie) et L751-1 (Polynésie française)
 
 
 ###### Article L112-7
@@ -9803,15 +9798,15 @@ de placement à risques et des actions de sociétés de capital-risque.
 Sont également prises en compte dans le calcul du quota de 60 % les participations versées à des sociétés de caution mutuelle
 ou à des organismes de garantie intervenant dans la zone géographique choisie par le fonds.
 
-Lorsque les titres d'une société détenus par un fonds d'investissement de proximité sont admis aux négociations sur un marché
-mentionné au 1 de l'article L. 214-36, ils continuent à être éligibles au quota d'investissement de 60 % pendant une durée de
-cinq ans à compter de leur admission.
+1 bis. Sont également éligibles au quota d'investissement de 60 % mentionné au 1, dans la limite de 20 % de l'actif du fonds,
+les titres mentionnés au 3 de l'article L. 214-36, sous réserve que la société émettrice réponde aux conditions mentionnées
+au 1, à l'exception de celle tenant à la non-cotation, et n'ait pas pour objet la détention de participations financières.
 
-2. Les dispositions du 5 de l'article L. 214-36 s'appliquent aux fonds d'investissement de proximité sous réserve du respect
-du quota de 60 % et des conditions d'éligibilité tels que définis au 1 du présent article. Toutefois, par dérogation aux
-dispositions du 5 du même article, les fonds d'investissement de proximité créés jusqu'au 31 décembre 2004 doivent respecter
-leur quota d'investissement de 60 % au plus tard lors de l'inventaire de clôture du deuxième exercice suivant celui de leur
-constitution.
+2. Les dispositions du 4 et du 5 de l'article L. 214-36 s'appliquent aux fonds d'investissement de proximité sous réserve du
+respect du quota de 60 % et des conditions d'éligibilité tels que définis au 1 et au 1 bis du présent article. Toutefois, par
+dérogation aux dispositions du 5 du même article, les fonds d'investissement de proximité créés jusqu'au 31 décembre 2004
+doivent respecter leur quota d'investissement de 60 % au plus tard lors de l'inventaire de clôture du deuxième exercice
+suivant celui de leur constitution.
 
 3. Les parts d'un fonds d'investissement de proximité ne peuvent pas être détenues :
 
@@ -9829,14 +9824,6 @@ les critères retenus pour déterminer si une entreprise exerce son activité pr
 par le fonds ainsi que les règles spécifiques relatives aux cessions et aux limites de la détention des actifs.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
-	  - Code monétaire et financier - art. L214-33 (M)
-	  - Code monétaire et financier - art. L214-36 (M)
-	  - Code monétaire et financier - art. L214-37 (M)
-	  - Règlement 70-2001 CE 2001-01-12 (Commission) Annexe I
 
 	**Cité par**:
 
@@ -9878,7 +9865,7 @@ par le fonds ainsi que les règles spécifiques relatives aux cessions et aux li
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 24 () JORF 7 mai 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 98 () JORF 3 août 2005
 
 
 ##### Sous-section 14 : Fonds communs d'intervention sur les marchés à terme
@@ -15035,7 +15022,7 @@ La définition du taux de l'usure est fixée par l'article L. 313-3 du code de l
 " Art. L. 313-3. - Constitue un prêt usuraire tout prêt conventionnel consenti à un taux effectif global qui excède, au
 moment où il est consenti, de plus du tiers, le taux effectif moyen pratiqué au cours du trimestre précédent par les
 établissements de crédit pour des opérations de même nature comportant des risques analogues, telles que définies par
-l'autorité administrative après avis du Comité consultatif su secteur financier.
+l'autorité administrative après avis du Comité consultatif du secteur financier.
 
 Les crédits accordés à l'occasion de ventes à tempérament sont, pour l'application de la présente section, assimilés à des
 prêts conventionnels et considérés comme usuraires dans les mêmes conditions que les prêts d'argent ayant le même objet.
@@ -15044,8 +15031,8 @@ Les conditions de calcul et de publicité des taux effectifs moyens visés au pr
 réglementaire.
 
 Les dispositions du présent article et celles des articles L. 313-4 à L. 313-6 ne sont pas applicables aux prêts accordés à
-une personne morale se livrant à une activité industrielle, commerciale, artisanale, agricole ou professionnelle non
-commerciale. "
+une personne physique agissant pour ses besoins professionnels ou à une personne morale se livrant à une activité
+industrielle, commerciale, artisanale, agricole ou professionnelle non commerciale. "
 
 **Liens relatifs à cet article**
 
@@ -15055,7 +15042,7 @@ commerciale. "
 
 	**Modifié par**:
 
-	  - Loi n°2003-721 du 1 août 2003 - art. 32 () JORF 5 août 2003
+	  - Loi n°2005-882 du 2 août 2005 - art. 7 (V) JORF 3 août 2005
 
 	**Cité par**:
 
@@ -15063,29 +15050,29 @@ commerciale. "
 	  - Décret n°2014-444 du 29 avril 2014 - art. 6 (V)
 	  - Arrêté du 22 juillet 2015 - art. 4 (V)
 
-	**Cite**:
-
-	  - Code de la consommation - art. L313-3 (M)
-	  - Code monétaire et financier L313-4 à L313-6
-
 	**Anciens textes**:
 
 	  - Code de la consommation - art. L313-3 (M)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L313-3 (M)
+
 
 ###### Article L313-5-1
 
-Pour les découverts en compte, constitue un prêt usuraire à une personne morale se livrant à une activité industrielle,
-commerciale, artisanale, agricole ou professionnelle non commerciale tout prêt conventionnel consenti à un taux effectif
-global qui excède, au moment où il est accordé, de plus du tiers, le taux effectif moyen pratiqué au cours du trimestre
-précédent par les établissements de crédit pour les opérations de même nature comportant des risques analogues telles que
-définies par l'autorité administrative après avis du Conseil national du crédit et du titre.
+Pour les découverts en compte, constitue un prêt usuraire à une personne physique agissant pour ses besoins professionnels ou
+à une personne morale se livrant à une activité industrielle, commerciale, artisanale, agricole ou professionnelle non
+commerciale tout prêt conventionnel consenti à un taux effectif global qui excède, au moment où il est accordé, de plus du
+tiers, le taux effectif moyen pratiqué au cours du trimestre précédent par les établissements de crédit pour les opérations
+de même nature comportant des risques analogues telles que définies par l'autorité administrative après avis du Conseil
+national du crédit et du titre.
 
 Les conditions de calcul et de publicité des taux effectifs moyens mentionnés au premier alinéa sont fixées par décret.
 
 **Nota:**
 
-NOTA : Loi n° 2003-706 du 1er août 2003 art. 46 V : Les références au Conseil national du crédit et du titre et au comité
+Loi n° 2003-706 du 1er août 2003 art. 46 V : Les références au Conseil national du crédit et du titre et au comité
 consultatif sont remplacées par la référence au Comité consultatif du secteur financier.
 
 **Liens relatifs à cet article**
@@ -15094,9 +15081,9 @@ consultatif sont remplacées par la référence au Comité consultatif du secteu
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-721 du 1 août 2003 - art. 32 () JORF 5 août 2003
+	  - Loi n°2005-882 du 2 août 2005 - art. 7 (V) JORF 3 août 2005
 
 	**Cité par**:
 
@@ -15220,29 +15207,33 @@ consultation de ces informations."
 
 ###### Article L313-7
 
-Les opérations de crédit-bail mentionnées par la présente sous-section sont :
+Les opérations de crédit-bail mentionnées par la présente sous-section sont : 
 
 1. Les opérations de location de biens d'équipement ou de matériel d'outillage achetés en vue de cette location par des
 entreprises qui en demeurent propriétaires, lorsque ces opérations, quelle que soit leur qualification, donnent au locataire
 la possibilité d'acquérir tout ou partie des biens loués, moyennant un prix convenu tenant compte, au moins pour partie, des
-versements effectués à titre de loyers ;
+versements effectués à titre de loyers ; 
 
 2. Les opérations par lesquelles une entreprise donne en location des biens immobiliers à usage professionnel, achetés par
 elle ou construits pour son compte, lorsque ces opérations, quelle que soit leur qualification, permettent aux locataires de
 devenir propriétaires de tout ou partie des biens loués, au plus tard à l'expiration du bail, soit par cession en exécution
 d'une promesse unilatérale de vente, soit par acquisition directe ou indirecte des droits de propriété du terrain sur lequel
 ont été édifiés le ou les immeubles loués, soit par transfert de plein droit de la propriété des constructions édifiées sur
-le terrain appartenant audit locataire.
+le terrain appartenant audit locataire. 
 
 En cas d'opération de crédit-bail sur le droit au renouvellement d'un bail, ce droit ne peut être invoqué que par le crédit-
 bailleur, par dérogation aux dispositions de l'article L. 145-8 du code de commerce. Les autres droits et obligations que le
 locataire tient des dispositions du décret précité sont répartis par contrat entre le propriétaire, le crédit-bailleur et le
-crédit-preneur.
+crédit-preneur. 
 
 3. Les opérations de location de fonds de commerce, d'établissement artisanal ou de l'un de leurs éléments incorporels,
 assorties d'une promesse unilatérale de vente moyennant un prix convenu tenant compte, au moins pour partie, des versements
 effectués à titre de loyers, à l'exclusion de toute opération de location à l'ancien propriétaire du fonds de commerce ou de
-l'établissement artisanal.
+l'établissement artisanal. 
+
+4. Les opérations de location de parts sociales ou d'actions prévues aux articles L. 239-1 à L. 239-5 du code de commerce,
+assorties d'une promesse unilatérale de vente moyennant un prix convenu tenant compte, au moins pour partie, des versements
+effectués à titre de loyers.
 
 **Liens relatifs à cet article**
 
@@ -15257,7 +15248,7 @@ l'établissement artisanal.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 46 () JORF 7 mai 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 27 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -15311,6 +15302,7 @@ l'établissement artisanal.
 	**Cite**:
 
 	  - Code de commerce. - art. L145-8 (V)
+	  - Code de commerce. - art. L239-1 (V)
 
 
 ###### Article L313-8
@@ -15470,12 +15462,16 @@ Le non-respect de ces dispositions peut entraîner la responsabilité pécuniair
 
 ###### Article L313-13
 
-L'Etat, sous réserve des articles L. 313-18 à L. 313-20 les établissements de crédit, les sociétés commerciales, les sociétés
-et mutuelles d'assurances, les mutuelles et unions régies par le code de la mutualité et les institutions relevant du titre
-II et du titre III du livre IX du code de la sécurité sociale peuvent consentir sur leurs ressources disponibles à long terme
-des concours aux entreprises industrielles et commerciales sous forme de prêts participatifs régis par les articles L. 313-14
-à L. 313-20. Les dispositions du présent article ne font pas obstacle à l'application des dispositions pénales du titre IV du
-livre II du code de commerce.
+L'Etat, sous réserve des articles L. 313-18 à L. 313-20 les établissements de crédit, les sociétés commerciales, les
+établissements publics dont la liste est fixée par décret en Conseil d'Etat, les sociétés et mutuelles d'assurances, les
+associations sans but lucratif mentionnées au 5 de l'article L. 511-6, les mutuelles et unions régies par le code de la
+mutualité et les institutions relevant du titre II et du titre III du livre IX du code de la sécurité sociale peuvent
+consentir sur leurs ressources disponibles à long terme des concours aux entreprises artisanales, industrielles ou
+commerciales sous forme de prêts participatifs régis par les articles L. 313-14 à L. 313-20. Les dispositions du présent
+article ne font pas obstacle à l'application des dispositions pénales du titre IV du livre II du code de commerce. 
+
+L'attribution d'un prêt participatif à une entreprise individuelle n'emporte pas, par elle-même, constitution d'une société
+entre les parties au contrat.
 
 **Liens relatifs à cet article**
 
@@ -15489,7 +15485,7 @@ livre II du code de commerce.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 46 () JORF 7 mai 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 11 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -15501,7 +15497,8 @@ livre II du code de commerce.
 
 	**Cite**:
 
-	  - Code monétaire et financier L313-18 à L313-20, L313-14 à L313-20
+	  - Code monétaire et financier - art. L313-14 (V)
+	  - Code monétaire et financier - art. L313-18 (V)
 
 
 ##### Sous-paragraphe 1 : Régime général.
@@ -15509,7 +15506,7 @@ livre II du code de commerce.
 ###### Article L313-14
 
 Les prêts participatifs sont inscrits sur une ligne particulière du bilan de l'organisme qui les consent et de l'entreprise
-qui les reçoit.
+qui les reçoit et qui, en outre, les mentionne dans l'annexe prévue à l'article L. 123-12 du code de commerce. 
 
 Ils sont, au regard de l'appréciation de la situation financière des entreprises qui en bénéficient, assimilés à des fonds
 propres.
@@ -15526,7 +15523,11 @@ propres.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 46 () JORF 7 mai 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 11 () JORF 3 août 2005
+
+	**Cite**:
+
+	  - Code de commerce - art. L123-12 (V)
 
 	**Cité par**:
 
@@ -15537,7 +15538,8 @@ propres.
 
 En cas de liquidation amiable, de liquidation judiciaire ou de redressement judiciaire par cession de l'entreprise débitrice,
 les prêts participatifs ne sont remboursés qu'après désintéressement complet de tous les autres créanciers privilégiés ou
-chirographaires. Pour les répartitions à intervenir, les titulaires de ces prêts sont placés sur le même rang.
+chirographaires. Sauf stipulations contractuelles contraires ayant requis l'accord global de l'ensemble des titulaires de
+prêts participatifs ceux-ci sont, pour les répartitions à intervenir, placés sur le même rang.
 
 **Liens relatifs à cet article**
 
@@ -15551,7 +15553,7 @@ chirographaires. Pour les répartitions à intervenir, les titulaires de ces pr�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 46 () JORF 7 mai 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 11 () JORF 3 août 2005
 
 
 ###### Article L313-16
@@ -15582,11 +15584,18 @@ paiement des rémunérations prévues sont suspendus pendant toute la durée de 
 
 Sans préjudice des articles L. 313-1 à L. 313-6 du code de la consommation, l'intérêt fixe du prêt participatif peut être
 majoré dans les conditions qui sont déterminées par le contrat, notamment par le jeu d'une clause de participation au
-bénéfice net de l'emprunteur.
+bénéfice net de l'emprunteur ou au bénéfice réalisé par l'emprunteur lors de l'utilisation des biens dont l'acquisition a été
+financée totalement ou partiellement par ce prêt ou à la plus-value réalisée lors de leur cession ou sous forme de
+rétrocession de la marge réalisée. 
 
-Lorsqu'une telle clause de participation est prévue, elle s'exerce sous la forme d'un prélèvement prioritaire sur le bénéfice
-distribuable avant toute autre affectation et est approuvée par les associés statuant selon les conditions requises pour la
-modification des statuts et les assemblées spéciales mentionnées aux articles L. 225-99 et L. 228-15 du code de commerce.
+Lorsqu'une clause de participation au bénéfice net de l'entreprise est prévue, elle s'exerce sous la forme d'un prélèvement
+prioritaire, pour les personnes physiques, sur le bénéfice comptable et, pour les sociétés, sur le bénéfice distribuable
+avant toute autre affectation. 
+
+Dans les cas où l'approbation des assemblées spéciales mentionnées aux articles L. 225-99 et L. 228-35-6 du code de commerce
+ou des assemblées générales des masses constituées en application de l'article L. 228-103 du même code est nécessaire, cette
+clause est approuvée par l'assemblée générale extraordinaire. Dans les autres cas, elle est approuvée par les associés
+statuant selon les conditions requises pour l'approbation des comptes.
 
 **Liens relatifs à cet article**
 
@@ -15600,13 +15609,14 @@ modification des statuts et les assemblées spéciales mentionnées aux articles
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 46 () JORF 7 mai 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 11 () JORF 3 août 2005
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-99 (M)
-	  - Code de commerce. - art. L228-15 (M)
-	  - Code de la consommation L313-1 à L313-6
+	  - Code de commerce - art. L225-99 (V)
+	  - Code de commerce - art. L228-103 (V)
+	  - Code de commerce - art. L228-35-6 (V)
+	  - Code de la consommation - art. L313-1 (V)
 
 
 ##### Sous-paragraphe 2 : Prêts participatifs accordés par l'Etat.
