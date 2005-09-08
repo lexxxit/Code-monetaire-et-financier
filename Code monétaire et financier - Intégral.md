@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-09-05
+Version Consolidée au 2005-09-09
 
 # Partie législative
 
@@ -7605,7 +7605,7 @@ Lorsqu'elle a connaissance d'une infraction aux dispositions du présent code co
 société de gestion de portefeuille ou d'un organisme de placement collectif en valeurs mobilières ou lorsqu'elle considère
 que les conditions d'indépendance nécessaires au bon déroulement de la mission de ce commissaire aux comptes ne sont pas
 remplies, l'Autorité des marchés financiers peut demander au tribunal compétent de relever celui-ci de ses fonctions selon
-les modalités mentionnées à l'article L. 225-233 du code de commerce.
+les modalités mentionnées à l'article L. 823-7 du code de commerce.
 
 L'Autorité des marchés financiers peut également dénoncer cette infraction à l'autorité disciplinaire compétente. A cette
 fin, l'Autorité des marchés financiers peut communiquer tous les renseignements nécessaires à la bonne information de cette
@@ -7623,7 +7623,7 @@ autorité.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2005
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
 
 	**Cité par**:
 
@@ -7634,7 +7634,7 @@ autorité.
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-233 (M)
+	  - Code de commerce. - art. L823-7 (V)
 
 
 ##### Sous-section 2 : Règles particulières relatives aux sociétés d'investissement à capital variable
@@ -7745,9 +7745,6 @@ commerce ;
 5. Le commissaire aux comptes est désigné pour six exercices par le conseil d'administration ou le directoire, après accord
 de l'Autorité des marchés financiers.
 
-Le commissaire aux comptes porte à la connaissance de l'assemblée générale de la SICAV les irrégularités et inexactitudes
-qu'il a relevées dans l'accomplissement de sa mission ;
-
 Le commissaire aux comptes est délié du secret professionnel à l'égard de l'Autorité des marchés financiers.
 
 Le commissaire aux comptes est tenu de signaler dans les meilleurs délais à l'Autorité des marchés financiers tout fait ou
@@ -7798,12 +7795,6 @@ Les statuts ne peuvent prévoir d'avantages particuliers ;
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2002-1303 2002-10-29 art. 3 I, II JORF 30 octobre 2002
-	  - Loi n°2002-1303 du 29 octobre 2002 - art. 3 () JORF 30 octobre 2002
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 2004 - art. 323-19 (V)
@@ -7814,6 +7805,10 @@ Les statuts ne peuvent prévoir d'avantages particuliers ;
 	  - Code monétaire et financier - art. L214-123 (V)
 	  - Code monétaire et financier - art. L214-145 (V)
 	  - Code monétaire et financier - art. L214-35-5 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 21 ()
 
 	**Cite**:
 
@@ -8289,30 +8284,26 @@ communs de placement, soit de la violation du règlement du fonds, soit de leurs
 
 ###### Article L214-29
 
-I. - Le commissaire aux comptes du fonds est désigné pour six exercices par le gérant, le conseil d'administration ou le
-directoire de la société de gestion, après accord de l'Autorité des marchés financiers.
+I.-Le gérant, le conseil d'administration ou le directoire de la société de gestion désigne le commissaire aux comptes du
+fonds après accord de l'Autorité des marchés financiers. 
 
-Les dispositions des articles L. 822-1, L. 822-2, L. 822-3, L. 822-6, L. 822-7, L. 822-9, L. 822-10, L. 822-12 et L. 822-13
-et L. 225-227, des articles L. 225-236 à L. 225-238, du deuxième alinéa de l'article L. 225-240 et les dispositions de
-l'article L822-15, des articles L. 225-241 et L. 225-242 du code de commerce lui sont applicables.
-
-Les porteurs de parts du fonds exercent les droits reconnus aux actionnaires par les articles L. 225-230 et L. 225-233 du
-code de commerce.
+Les porteurs de parts du fonds exercent les droits reconnus aux actionnaires par les articles L. 823-6 et L. 823-7 du code de
+commerce.
 
 Le commissaire aux comptes porte à la connaissance de l'assemblée générale de la société de gestion, les irrégularités et
-inexactitudes qu'il a relevées dans l'accomplissement de sa mission.
+inexactitudes qu'il a relevées dans l'accomplissement de sa mission. 
 
-II. - Le commissaire aux comptes est délié du secret professionnel à l'égard de l'Autorité des marchés financiers.
+II.-Le commissaire aux comptes est délié du secret professionnel à l'égard de l'Autorité des marchés financiers. 
 
 Le commissaire aux comptes est tenu de signaler dans les meilleurs délais à l'Autorité des marchés financiers tout fait ou
-décision concernant le fonds dont il a eu connaissance dans l'exercice de sa mission, de nature :
+décision concernant le fonds dont il a eu connaissance dans l'exercice de sa mission, de nature : 
 
-1. A constituer un manquement à ce fonds et susceptible d'avoir des effets significatifs sur la situation financière, le
-résultat ou le patrimoine ;
+1.A constituer un manquement à ce fonds et susceptible d'avoir des effets significatifs sur la situation financière, le
+résultat ou le patrimoine ; 
 
-2. A porter atteinte aux conditions ou à la continuité de son exploitation ;
+2.A porter atteinte aux conditions ou à la continuité de son exploitation ; 
 
-3. A entraîner l'émission de réserves ou le refus de la certification des comptes.
+3.A entraîner l'émission de réserves ou le refus de la certification des comptes. 
 
 La responsabilité du commissaire aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles
 il procède en exécution des obligations imposées par le présent article.
@@ -8335,7 +8326,8 @@ professionnel.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 21 () JORF 9 septembre 2005
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
 
 	**Cité par**:
 
@@ -8345,11 +8337,8 @@ professionnel.
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-230 (M)
-	  - Code de commerce. - art. L225-233 (M)
-	  - Code de commerce. - art. L225-241 (Ab)
-	  - Code de commerce. - art. L225-242 (Ab)
-	  - Code monétaire et financier L822-1, L822-2, L822-3, L822-6, L822-7, L822-9, L822-10, L822-12, L822-13, L225-227, L225-240, L822-15
+	  - Code de commerce. - art. L823-6 (V)
+	  - Code de commerce. - art. L823-7 (V)
 
 
 ###### Article L214-30
@@ -10199,18 +10188,14 @@ V. - Chaque compartiment du fonds fait l'objet, au sein de la comptabilité du f
 Dans un délai de six semaines à compter de la fin de chaque semestre de l'exercice, la société de gestion dresse, pour chacun
 des fonds qu'elle gère, l'inventaire de l'actif sous le contrôle du dépositaire.
 
-VI. - Le commissaire aux comptes du fonds est désigné pour six exercices par le conseil d'administration, le gérant ou le
-directoire de la société de gestion, après accord de l'Autorité des marchés financiers.
-
-Les dispositions des articles L. 822-1, L. 822-2, L. 822-3, L. 822-6, L. 822-7, L. 822-9, L. 822-10, L. 822-12, L. 822-13 et
-L. 225-227, L. 225-237, L. 225-238, du deuxième alinéa de l'article L. 225-240 et les dispositions de l'article L. 822-15,
-les articles L. 225-241 et L. 225-242 du code de commerce lui sont applicables.
+VI. Le conseil d'administration, le gérant ou le directoire de la société de gestion désigne le commissaire aux comptes du
+fonds après accord de l'Autorité des marchés financiers.
 
 Le commissaire aux comptes signale aux dirigeants de la société de gestion ainsi qu'à l'Autorité des marchés financiers les
 irrégularités et inexactitudes qu'il relève dans l'accomplissement de sa mission.
 
-Les porteurs de parts du fonds exercent les droits reconnus aux actionnaires par les articles L. 225-230 et L. 225-231 du
-code de commerce.
+Les porteurs de parts du fonds exercent les droits reconnus aux actionnaires par les articles L. 823-6 et L. 225-231 du code
+de commerce.
 
 **Liens relatifs à cet article**
 
@@ -10239,24 +10224,8 @@ code de commerce.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 46 V 1°, art. 65 3°, art. 116 JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de commerce L225-241, L225-242, L225-230, L225-231, L225-240, L822-1 à L822-3, L822-9, L822-10, L822-12, L822-13, L822-15
-	  - Code de commerce. - art. L225-230 (M)
-	  - Code de commerce. - art. L225-231 (M)
-	  - Code de commerce. - art. L225-240 (M)
-	  - Code de commerce. - art. L225-241 (Ab)
-	  - Code de commerce. - art. L225-242 (Ab)
-	  - Code de commerce. - art. L822-10 (V)
-	  - Code de commerce. - art. L822-12 (M)
-	  - Code de commerce. - art. L822-13 (M)
-	  - Code de commerce. - art. L822-15 (M)
-	  - Code de commerce. - art. L822-9 (V)
-	  - Code monétaire et financier - art. L214-47 (M)
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 21 ()
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V)
 
 
 ###### Article L214-49
@@ -11173,54 +11142,12 @@ déterminées par décret.
 
 ###### Article L214-79
 
-Le contrôle est exercé par un ou plusieurs commissaires aux comptes nommés par l'assemblée générale ordinaire pour la durée
-prévue à l'article L. 225-229 du code de commerce parmi les personnes figurant sur la liste prévue à l'article L. 822-1 du
-code de commerce. Lors de la constitution de la société, les commissaires aux comptes sont nommés par l'assemblée générale
-constitutive.
+Le contrôle est exercé par un ou plusieurs commissaires aux comptes.
 
-Les commissaires aux comptes, ainsi que les commissaires aux apports, sont soumis aux incompatibilités prévues aux articles
-L. 822-10 et L. 822-11 du code de commerce. Ils ne peuvent être nommés à des fonctions de direction, d'administration ou de
-gestion dans les sociétés qu'ils contrôlent, moins de cinq années après la cessation de leurs fonctions, ni, pendant le même
-délai, exercer les mêmes fonctions dans les sociétés possédant 10 % du capital de la société contrôlée par eux ou dont celle-
-ci possède 10 % du capital lors de la cessation des fonctions du commissaire.
+Les commissaires aux comptes portent à la connaissance de l'Autorité des marchés financiers, les irrégularités et
+inexactitudes relevées par eux au cours de l'accomplissement de leur mission.
 
-Les dispositions des articles L. 225-227, L. 225-228 (3e alinéa) et L. 225-233 du code de commerce sont applicables.
-
-Si l'assemblée omet d'élire un commissaire aux comptes, tout associé peut en demander en justice la désignation, le mandat
-ainsi conféré prenant fin lorsqu'il a été pourvu à la nomination par l'assemblée générale. En outre, un ou plusieurs
-associés, représentant au moins le dixième du capital social peuvent exercer les actions en justice prévues par les articles
-L. 225-230 et L. 225-231 du code de commerce.
-
-Les commissaires aux comptes certifient que les comptes annuels sont réguliers et sincères et donnent une image fidèle des
-opérations de la période écoulée, du résultat de ces opérations ainsi que de la situation financière et du patrimoine de
-cette période. Ils ont pour mission permanente, à l'exclusion de toute immixtion dans la gestion, de vérifier les valeurs et
-les documents comptables de la société et de contrôler la conformité de sa comptabilité aux règles en vigueur. Ils vérifient
-également la sincérité et la concordance avec les comptes annuels des informations données par la société de gestion dans le
-rapport de gestion ou dans les documents adressés aux associés sur la situation financière et les comptes annuels de la
-société. Ils s'assurent que l'égalité a été respectée entre les associés.
-
-Ils disposent, pour l'accomplissement de leur mission, des prérogatives énoncées à l'article L. 225-236 du code de commerce.
-
-Ils portent à la connaissance de la société de gestion, ainsi que du conseil de surveillance, les indications visées à
-l'article L. 225-237 du code de commerce.
-
-Ils sont convoqués à la réunion des dirigeants de la société de gestion qui arrête les comptes de l'exercice écoulé, ainsi
-qu'à toutes les assemblées générales.
-
-Ils portent à la connaissance de l'assemblée générale, ainsi qu'à celle de l'Autorité des marchés financiers, les
-irrégularités et inexactitudes relevées par eux au cours de l'accomplissement de leur mission.
-
-En outre, ils révèlent au procureur de la République les faits délictueux dont ils ont eu connaissance, sans que leur
-responsabilité puisse être engagée par cette révélation.
-
-Sous réserve des dispositions des deux alinéas précédents, les commissaires aux comptes, ainsi que leurs collaborateurs et
-experts, sont astreints au secret professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en
-raison de leurs fonctions.
-
-Leurs honoraires sont à la charge de la société. Ils sont fixés selon des modalités déterminées par le décret en Conseil
-d'Etat pris pour l'application de l'article L. 225-239 du code de commerce.
-
-Ils sont responsables dans les conditions prévues à l'article L. 225-241 du code de commerce. Ils ne sont pas civilement
+Ils sont responsables dans les conditions prévues à l'article L. 822-17 du code de commerce. Ils ne sont pas civilement
 responsables des infractions commises par les personnes qui gèrent, dirigent ou administrent la société, sauf si, en ayant eu
 connaissance, ils ne les ont pas révélées dans leur rapport à l'assemblée générale.
 
@@ -11243,24 +11170,13 @@ présenté par les commissaires aux comptes et approuvé par celle-ci.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 27 () JORF 7 mai 2005
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 21 () JORF 9 septembre 2005
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-227 (M)
-	  - Code de commerce. - art. L225-228 (M)
-	  - Code de commerce. - art. L225-229 (M)
-	  - Code de commerce. - art. L225-230 (M)
-	  - Code de commerce. - art. L225-231 (M)
-	  - Code de commerce. - art. L225-233 (M)
-	  - Code de commerce. - art. L225-236 (Ab)
-	  - Code de commerce. - art. L225-237 (Ab)
-	  - Code de commerce. - art. L225-239 (M)
-	  - Code de commerce. - art. L225-241 (Ab)
 	  - Code de commerce. - art. L225-254 (M)
-	  - Code de commerce. - art. L822-1 (V)
-	  - Code de commerce. - art. L822-10 (V)
-	  - Code de commerce. - art. L822-11 (M)
+	  - Code de commerce. - art. L822-17 (V)
 
 	**Cité par**:
 
@@ -24986,12 +24902,12 @@ Elle peut porter à la connaissance du public toutes informations qu'elle estime
 ###### Article L511-38
 
 Le contrôle est exercé dans chaque établissement de crédit ou entreprise d'investissement par au moins deux commissaires aux
-comptes inscrits sur la liste prévue à l'article L. 822-1 du code de commerce. Ces commissaires sont désignés après avis de
-la commission bancaire, dans des conditions fixées par décret. La commission bancaire peut en outre, lorsque la situation le
+comptes, dans les conditions définies au livre VIII du code de commerce. Ces commissaires sont désignés après avis de la
+commission bancaire, dans des conditions fixées par décret. La commission bancaire peut en outre, lorsque la situation le
 justifie, procéder à la désignation d'un commissaire aux comptes supplémentaire. Ces commissaires aux comptes ne doivent pas
 représenter ou appartenir à des cabinets ayant entre eux des liens de nature juridique, professionnelle, de capital ou
-organisationnelle. Ils exercent leur activité dans des conditions prévues par le livre II du code de commerce et procèdent à
-la certification des comptes annuels. Ils vérifient la sincérité des informations destinées au public, et leur concordance
+organisationnelle. Ils exercent leur activité dans des conditions prévues par le livre VIII du code de commerce et procèdent
+à la certification des comptes annuels. Ils vérifient la sincérité des informations destinées au public, et leur concordance
 avec lesdits comptes.
 
 Toutefois, lorsque le total du bilan d'un établissement de crédit ou d'une entreprise d'investissement est inférieur à un
@@ -25002,9 +24918,9 @@ soit à un régime spécifique d'approbation de ses comptes présentant des gara
 bancaire, celle-ci peut décider de lever l'obligation de certification mentionnée à l'alinéa précédent.
 
 Les commissaires aux comptes doivent présenter toutes les garanties d'indépendance à l'égard des établissements de crédit,
-des entreprises d'investissement ou des compagnies financières contrôlés. Les articles L. 822-1 à L. 822-13 du code de
-commerce sont applicables aux commissaires aux comptes de tout établissement de crédit, entreprise d'investissement ou
-compagnie financière.
+des entreprises d'investissement ou des compagnies financières contrôlés. Les dispositions du livre VIII du code de commerce
+sont applicables aux commissaires aux comptes de tout établissement de crédit, entreprise d'investissement ou compagnie
+financière.
 
 **Liens relatifs à cet article**
 
@@ -25018,8 +24934,7 @@ compagnie financière.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 21 ()
 
 	**Cité par**:
 
@@ -25040,11 +24955,6 @@ compagnie financière.
 	  - Code monétaire et financier - art. R511-13 (Ab)
 	  - Code monétaire et financier - art. R513-42 (T)
 	  - Code monétaire et financier - art. R516-20 (T)
-
-	**Cite**:
-
-	  - Code de commerce L822-1, L822-1 à L822-13
-	  - Code de commerce. - art. L822-1 (V)
 
 
 ###### Article L511-39
@@ -27297,38 +27207,28 @@ fixent également les conditions de quorum et de majorité requises pour la vali
 ###### Article L512-82
 
 Dans chaque caisse régionale ou union, un commissaire aux comptes est élu par l'assemblée générale pour une durée de trois
-exercices. Il doit être choisi sur la liste des commissaires de sociétés prévue à l'article L. 822-1 du code de commerce et
-conformément aux dispositions de l'article L. 511-38. Son mandat est renouvelable.
+exercices. Il doit être choisi conformément aux dispositions de l'article L. 511-38. Son mandat est renouvelable. 
 
 Le commissaire aux comptes certifie, sous sa responsabilité, la régularité et la sincérité du compte d'exploitation générale,
 du compte de pertes et profits et du bilan.
-
-Il a pour mission permanente de vérifier les livres et de contrôler la régularité et la sincérité des informations données
-aux sociétaires. Il dresse un rapport annuel qui est porté à la connaissance du conseil d'administration et du directeur
-avant d'être présenté à l'assemblée générale. Il est convoqué à la réunion du conseil d'administration, qui arrête les
-comptes de l'exercice écoulé, ainsi qu'à toutes les assemblées générales.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-628 du 11 juillet 1975 - art. 18 (M)
 	  - Loi n°75-628 du 11 juillet 1975 - art. 18 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 21 ()
 
 	**Cite**:
 
-	  - Code de commerce. - art. L822-1 (V)
-	  - Code monétaire et financier - art. L511-38 (M)
+	  - Code monétaire et financier - art. L511-38 (V)
 
 	**Cité par**:
 
@@ -34525,13 +34425,7 @@ financiers dans les trois mois suivant la clôture de l'exercice.
 
 Le commissaire aux comptes est désigné pour six exercices à la demande du gestionnaire par décision de justice prise après
 avis de l'Autorité des marchés financiers. En cas de faute ou d'empêchement, le commissaire aux comptes peut être relevé de
-ses fonctions par décision de justice à la demande du gestionnaire ou de tout titulaire des droits. Les articles L. 822-1, L.
-822-2, L. 822-3, L. 822-9, L. 822-10, L. 822-12 du code de commerce sont applicables.
-
-Le commissaire aux comptes révèle au procureur de la République les faits délictueux dont il a eu connaissance sans que sa
-responsabilité puisse être engagée par cette révélation.
-
-Les travaux accomplis dans l'exercice de sa mission sont rémunérés dans des conditions fixées par décret.
+ses fonctions par décision de justice à la demande du gestionnaire ou de tout titulaire des droits.
 
 **Liens relatifs à cet article**
 
@@ -34543,10 +34437,6 @@ Les travaux accomplis dans l'exercice de sa mission sont rémunérés dans des c
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 2004 - art. 441-1 (V)
@@ -34555,9 +34445,9 @@ Les travaux accomplis dans l'exercice de sa mission sont rémunérés dans des c
 	  - Code monétaire et financier - art. L573-8 (V)
 	  - Code monétaire et financier - art. R550-3 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce L225-218 à L225-225
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 21 ()
 
 
 ### Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux
@@ -37854,8 +37744,8 @@ auxquelles ils procèdent en exécution de ces mêmes obligations.
 Lorsqu'elle a connaissance d'une infraction aux dispositions du présent code commise par un commissaire aux comptes d'une
 personne mentionnée au premier alinéa du I du présent article, ou lorsqu'elle considère que les conditions d'indépendance
 nécessaires au bon déroulement de la mission de ce commissaire aux comptes ne sont pas remplies, la commission bancaire peut
-demander au tribunal compétent de relever celui-ci de ses fonctions selon les modalités prévues à l'article L. 225-233 du
-code de commerce.
+demander au tribunal compétent de relever celui-ci de ses fonctions selon les modalités prévues à l'article L. 823-7 du code
+de commerce.
 
 La commission bancaire peut également dénoncer cette infraction à l'autorité disciplinaire compétente. A cette fin, la
 commission bancaire peut communiquer tous les renseignements nécessaires à la bonne information de cette autorité.
@@ -37871,9 +37761,13 @@ commission bancaire peut communiquer tous les renseignements nécessaires à la 
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-233 (M)
+	  - Code de commerce. - art. L823-7 (V)
 	  - Code monétaire et financier - art. L214-25 (M)
 	  - Code monétaire et financier - art. L511-21 (V)
 	  - Code monétaire et financier - art. L511-30 (M)
@@ -54943,9 +54837,9 @@ Les commissaires aux comptes vérifient que les comptes annuels sont réguliers 
 résultat des opérations de l'exercice écoulé ainsi que de la situation financière et du patrimoine de la Banque de France à
 la fin de l'exercice.
 
-Les articles L. 225-227, L. 225-228, L. 225-229, L. 225-233, L. 225-234, le troisième alinéa de l'article L. 225-235, les
-premier, deuxième et cinquième alinéas de l'article L. 225-236 ainsi que les articles L. 225-237, L. 225-240, L. 225-241, L.
-225-242, L. 822-1, L. 822-3 et L. 822-10 du code de commerce sont applicables à la Banque de France.
+Les articles L. 820-3-1, L. 822-1, L. 822-3, L. 822-10,  L. 822-17, L. 822-18, L. 823-1, L. 823-2, L. 823-3,  L. 823-4,
+823-5, L. 823-7, L. 823-8, L. 823-10, L. 823-12, L. 823-13, L. 823-14, L. 823-15,  L. 823-16 du code de commerce sont
+applicables à la Banque de France.
 
 Le conseil général exerce les fonctions dévolues par ces dispositions à l'assemblée générale et au conseil d'administration.
 
@@ -54955,16 +54849,31 @@ Le conseil général exerce les fonctions dévolues par ces dispositions à l'as
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-237 (Ab)
-	  - Code de commerce. - art. L225-240 (M)
-	  - Code de commerce. - art. L225-241 (Ab)
-	  - Code de commerce. - art. L225-242 (Ab)
+	  - Code de commerce. - art. L820-3-1 (V)
 	  - Code de commerce. - art. L822-1 (V)
 	  - Code de commerce. - art. L822-10 (V)
+	  - Code de commerce. - art. L822-17 (V)
+	  - Code de commerce. - art. L822-18 (V)
 	  - Code de commerce. - art. L822-3 (V)
-	  - Code monétaire et financier L225-227, L225-228, L225-229, L225-233, L225-234, L225-235, L225-236
+	  - Code de commerce. - art. L823-1 (V)
+	  - Code de commerce. - art. L823-10 (M)
+	  - Code de commerce. - art. L823-12 (V)
+	  - Code de commerce. - art. L823-13 (V)
+	  - Code de commerce. - art. L823-14 (V)
+	  - Code de commerce. - art. L823-15 (V)
+	  - Code de commerce. - art. L823-16 (V)
+	  - Code de commerce. - art. L823-2 (V)
+	  - Code de commerce. - art. L823-3 (V)
+	  - Code de commerce. - art. L823-4 (V)
+	  - Code de commerce. - art. L823-5 (V)
+	  - Code de commerce. - art. L823-7 (V)
+	  - Code de commerce. - art. L823-8 (V)
 
 
 ###### Article R144-9
@@ -68929,7 +68838,7 @@ présenter leurs observations écrites en leur fixant un délai qui ne peut êtr
 
 ###### Article R511-14
 
-Lorsqu'une demande de récusation présentée en application de l'article L. 225-230 du code de commerce concerne un commissaire
+Lorsqu'une demande de récusation présentée en application de l'article L. 823-6 du code de commerce concerne un commissaire
 aux comptes d'un établissement de crédit soumis au contrôle de la Commission bancaire, le tribunal statue en la forme des
 référés après consultation du gouverneur de la Banque de France, président de la Commission bancaire.
 
@@ -68943,9 +68852,13 @@ référés après consultation du gouverneur de la Banque de France, président 
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-230 (M)
+	  - Code de commerce. - art. L823-6 (V)
 
 	**Cité par**:
 
@@ -74764,7 +74677,7 @@ ne peut être inférieur à un mois, avant de décider de la désignation d'un c
 
 ###### Article R533-8
 
-Lorsqu'une demande de récusation présentée en application de l'article L. 225-230 du code de commerce concerne un commissaire
+Lorsqu'une demande de récusation présentée en application de l'article L. 823-6 du code de commerce concerne un commissaire
 aux comptes d'une entreprise d'investissement soumise au contrôle de la Commission bancaire, le tribunal statue en la forme
 des référés après consultation du gouverneur de la Banque de France, président de la Commission bancaire.
 
@@ -74778,9 +74691,13 @@ des référés après consultation du gouverneur de la Banque de France, présid
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-230 (M)
+	  - Code de commerce. - art. L823-6 (V)
 
 
 ##### Section 3 : Règles de bonne conduite.
