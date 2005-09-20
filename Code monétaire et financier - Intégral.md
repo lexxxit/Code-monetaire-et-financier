@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-09-09
+Version Consolidée au 2005-09-21
 
 # Partie législative
 
@@ -68517,6 +68517,49 @@ Dans ce cas, le respect des règles arrêtées par le ministre chargé de l'éco
 	  - Code monétaire et financier - art. R515-1 (V)
 
 
+###### Article R511-3-1
+
+Avant d'assortir de conditions particulières une autorisation, de délivrer une autorisation de prise de participation ou de
+prise de contrôle ou d'octroyer un agrément à un établissement de crédit qui est :
+
+1° Soit une filiale d'une entreprise d'assurance, d'un établissement de crédit ou d'une entreprise d'investissement agréés
+dans un Etat membre ou partie à l'accord sur l'Espace économique européen ;
+
+2° Soit une filiale de l'entreprise mère d'une entreprise d'assurance, d'un établissement de crédit ou d'une entreprise
+d'investissement agréés dans un Etat membre ou partie à l'accord sur l'Espace économique européen ;
+
+3° Soit un établissement contrôlé par une personne, physique ou morale, qui contrôle également une entreprise d'assurance, un
+établissement de crédit ou une entreprise d'investissement agréés dans un Etat membre ou partie à l'accord sur l'Espace
+économique européen,
+
+le Comité des établissements de crédit et des entreprises d'investissement consulte l'autorité compétente, au sens du 4° du I
+de l'article L. 517-2, afin d'évaluer notamment la qualité des actionnaires ainsi que l'honorabilité et la compétence des
+dirigeants associés à la gestion d'une autre entité du même groupe.
+
+Cette autorité dispose d'un délai d'un mois pour formuler ses observations. Ce délai peut être prorogé d'un mois, à sa
+demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1186 du 19 septembre 2005 - art. 3 () JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L517-2 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R511-2-2 (V)
+	  - Code monétaire et financier - art. R632-1-1 A (V)
+	  - Code monétaire et financier - art. R765-1 (V)
+
+
 ##### Sous-section 2 : Libre établissement et libre prestation de services sur le territoire des Etats partie à l'accord sur l'Espace économique européen.
 
 ###### Article R511-4
@@ -71893,10 +71936,15 @@ personnes chargées du contrôle légal des comptes consolidés et compte tenu d
 ###### Article R517-4
 
 Lorsqu'une demande de récusation présentée en application de l'article L. 823-6 du code de commerce concerne un commissaire
-aux comptes d'une compagnie financière soumise au contrôle de la Commission bancaire, le tribunal statue en la forme des
-référés après consultation du gouverneur de la Banque de France, président de la Commission bancaire.
+aux comptes d'une compagnie financière ou d'une compagnie financière holding mixte soumise au contrôle de la Commission
+bancaire, le tribunal statue en la forme des référés après consultation du gouverneur de la Banque de France, président de la
+Commission bancaire.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°84-708 1984-07-24 art 17-3 (ecqc les compagnies financières)
 
 	**Codifié par**:
 
@@ -71904,11 +71952,33 @@ référés après consultation du gouverneur de la Banque de France, président 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+	  - Décret n°2005-1186 du 19 septembre 2005 - art. 4 () JORF 21 septembre 2005
 
 	**Cite**:
 
 	  - Code de commerce. - art. L823-6 (V)
+
+
+##### Sous-section 2 : Conglomérats financiers.
+
+###### Article D517-8
+
+Les dispositions des articles D. 517-1 à D. 517-7 sont également applicables aux compagnies financières holding mixte dont le
+coordonnateur est la Commission bancaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1187 du 19 septembre 2005 - art. 1 () JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier D517-1 à D517-7
 
 
 #### Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque.
@@ -73707,13 +73777,26 @@ l'habilitation de son entreprise mère à fournir des prestations de services d'
 
 ###### Article R532-8
 
-Lorsque le requérant est soit une filiale directe ou indirecte d'une entreprise d'investissement ou d'un établissement de
-crédit agréé dans un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen, soit une filiale directe ou indirecte de l'entreprise mère d'une entreprise d'investissement ou d'un
-établissement de crédit agréé dans un tel Etat, soit une entreprise ou un établissement contrôlé par les mêmes personnes
-physiques ou morales qu'une entreprise d'investissement ou qu'un établissement de crédit agréé dans un tel Etat, le Comité
-des établissements de crédit et des entreprises d'investissement consulte l'autorité compétente de l'autre Etat concerné, de
-sa propre initiative ou à la demande de l'autorité chargée de l'approbation du programme d'activité.
+Avant d'assortir de conditions particulières une autorisation, de délivrer une autorisation de prise de participation ou de
+prise de contrôle, ou d'octroyer un agrément à une entreprise d'investissement qui est :
+
+1° Soit une filiale d'une entreprise d'assurance, d'un établissement de crédit ou d'une entreprise d'investissement agréés
+dans un Etat membre ou partie à l'accord sur l'Espace économique européen ;
+
+2° Soit une filiale de l'entreprise mère d'une entreprise d'assurance, d'un établissement de crédit ou d'une entreprise
+d'investissement agréés dans un Etat membre ou partie à l'accord sur l'Espace économique européen ;
+
+3° Soit une entreprise contrôlée par une personne, physique, ou morale, qui contrôle également une entreprise d'assurance, un
+établissement de crédit ou une entreprise d'investissement agréés dans un Etat membre ou partie à l'accord sur l'Espace
+économique européen,
+
+le Comité des établissements de crédit et des entreprises d'investissement consulte, de sa propre initiative ou à la demande
+de l'Autorité des marchés financiers, l'autorité compétente, au sens du 4° du I de l'article L. 517-2, afin d'évaluer
+notamment la qualité des actionnaires ainsi que l'honorabilité et la compétence des dirigeants associés à la gestion d'une
+autre entité du même groupe.
+
+Cette autorité dispose d'un délai d'un mois pour formuler ses observations. Ce délai peut être prorogé d'un mois, à sa
+demande.
 
 Lorsque le requérant est une filiale directe ou indirecte d'une entreprise d'investissement ou d'un établissement de crédit
 ayant son siège dans un Etat qui n'est pas membre de la Communauté européenne ni partie à l'accord sur l'Espace économique
@@ -73724,9 +73807,21 @@ requérant est la filiale a son siège social.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°96-880 1996-10-08 art 2 (II, ecqc la procédure de droit commun)
+
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2005-1186 du 19 septembre 2005 - art. 6 () JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L517-2 (V)
 
 	**Cité par**:
 
@@ -73884,12 +73979,25 @@ l'habilitation de son entreprise mère à fournir des prestations de services d'
 
 ###### Article R532-15
 
-Lorsque le requérant est soit une filiale directe ou indirecte d'une entreprise d'investissement ou d'un établissement de
-crédit agréé dans un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen, soit une filiale directe ou indirecte de l'entreprise mère d'une entreprise d'investissement ou d'un
-établissement de crédit agréé dans un tel Etat, soit une entreprise ou un établissement contrôlé par les mêmes personnes
-physiques ou morales qu'une entreprise d'investissement ou qu'un établissement de crédit agréé dans un tel Etat, l'Autorité
-des marchés financiers consulte l'autorité compétente de l'autre Etat concerné.
+Avant d'assortir de conditions particulières une autorisation, de délivrer une autorisation de prise de participation ou de
+prise de contrôle, ou d'octroyer un agrément à une entreprise d'investissement qui est :
+
+1° Soit une filiale d'une entreprise d'assurance, d'un établissement de crédit ou d'une entreprise d'investissement agréés
+dans un Etat membre ou partie à l'accord sur l'Espace économique européen ;
+
+2° Soit une filiale de l'entreprise mère d'une entreprise d'assurance, d'un établissement de crédit ou d'une entreprise
+d'investissement agréés dans un Etat membre ou partie à l'accord sur l'Espace économique européen ;
+
+3° Soit une entreprise contrôlée par une personne, physique ou morale, qui contrôle également une entreprise d'assurance, un
+établissement de crédit ou une entreprise d'investissement agréés dans un Etat membre ou partie à l'accord sur l'Espace
+économique européen,
+
+l'Autorité des marchés financiers consulte l'autorité compétente, au sens du 4° du I de l'article L. 517-2, afin d'évaluer
+notamment la qualité des actionnaires ainsi que l'honorabilité et la compétence des dirigeants associés à la gestion d'une
+autre entité du même groupe.
+
+Cette autorité dispose d'un délai d'un mois pour formuler ses observations. Ce délai peut être prorogé d'un mois, à sa
+demande.
 
 Lorsque le requérant est une filiale directe ou indirecte d'une entreprise d'investissement ou d'un établissement de crédit
 ayant son siège dans un Etat qui n'est pas membre de la Communauté européenne ni partie à l'accord sur l'Espace économique
@@ -73899,9 +74007,21 @@ social.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°96-880 1996-10-08 art 2 (II, ecqc les sociétés de gestion de portefeuille)
+
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2005-1186 du 19 septembre 2005 - art. 7 () JORF 21 septembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L517-2 (V)
 
 	**Cité par**:
 
@@ -76435,10 +76555,10 @@ Le changeur manuel peut se faire assister par un avocat.
 ###### Article R613-8
 
 Lorsque la Commission bancaire décide de se saisir de certains faits susceptibles de donner lieu à l'application des
-sanctions prévues à l'article L. 613-32, les procédures prévues au premier alinéa de l'article R. 613-4 et aux deux premiers
-alinéas de l'article R. 613-5 sont applicables.
+sanctions prévues à l'article L. 613-32 et à l'article L. 633-12-II, les procédures prévues au premier alinéa de l'article R.
+613-4 et aux deux premiers alinéas de l'article R. 613-5 sont applicables.
 
-La compagnie financière peut se faire assister par un avocat.
+Le représentant de la compagnie financière ou de la compagnie financière holding mixte peut se faire assister par un avocat.
 
 **Liens relatifs à cet article**
 
@@ -76450,11 +76570,20 @@ La compagnie financière peut se faire assister par un avocat.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1186 du 19 septembre 2005 - art. 1 () JORF 21 septembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 2
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L613-32 (V)
-	  - Code monétaire et financier - art. R613-4 (V)
-	  - Code monétaire et financier - art. R613-5 (V)
+	  - Code monétaire et financier - art. L613-32
+	  - Code monétaire et financier - art. L633-12
+	  - Code monétaire et financier - art. R613-4
+	  - Code monétaire et financier - art. R613-5
 
 
 ###### Article R613-9
@@ -76619,6 +76748,41 @@ justifient, par décision de la Commission bancaire prise à la majorité des me
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+
+###### Article R613-13-1
+
+Les procédures prévues à l'article R. 613-10, aux deux premiers alinéas de l'article R. 613-11 et à l'article R. 613-12
+s'appliquent dans le cas où la Commission bancaire estime, conformément à l'article L. 613-18, qu'il y a lieu de désigner un
+administrateur provisoire dans une compagnie financière ou une compagnie financière holding mixte.
+
+Le représentant de la compagnie financière ou de la compagnie financière holding mixte peut se faire assister par un avocat.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1186 du 19 septembre 2005 - art. 2 () JORF 21 septembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-18
+	  - Code monétaire et financier - art. R613-10
+	  - Code monétaire et financier - art. R613-11
+	  - Code monétaire et financier - art. R613-12
 
 
 ##### Paragraphe 2 : Dispositions relatives aux procédures de redressement et liquidation judiciaires et de règlement amiables applicables aux établissements de crédit et aux entreprises d'investissement.
@@ -79091,6 +79255,157 @@ avec demande d'avis de réception.
 	  - Code monétaire et financier - art. R746-9 (VD)
 	  - Code monétaire et financier - art. R756-4 (VD)
 	  - Code monétaire et financier - art. R766-4 (VD)
+
+
+### Titre III : Coopération et échanges d'informations aux fins de la surveillance complémentaire
+
+###### Article R631-1
+
+Lorsque l'entité de tête d'un conglomérat financier, dont la Commission bancaire est le coordonnateur, a son siège social
+dans un autre Etat membre ou un autre Etat partie à l'accord sur l'Espace économique européen, la Commission bancaire peut
+inviter les autorités compétentes de cet Etat, d'une part, à demander à cette entité de leur fournir toutes informations
+utiles à l'accomplissement de sa mission de coordination, telle qu'elle est définie à l'article L. 633-3, d'autre part, à lui
+communiquer les informations ainsi collectées.
+
+La Commission bancaire communique, à la demande d'un coordonnateur d'un autre Etat membre ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen, toutes informations utiles à l'accomplissement de la mission de ce coordonnateur
+mentionnée à l'article L. 633-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1186 du 19 septembre 2005 - art. 5 () JORF 21 septembre 2005
+
+	**Transféré par**:
+
+	  - Décret n°2007-901 du 15 mai 2007 - art. 3 () JORF 16 mai 2007 en vigueur le le 1er novembre 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L633-3 (M)
+	  - Code monétaire et financier - art. L633-4 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R631-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R633-1 (M)
+
+
+###### Article R631-2
+
+La Commission bancaire coopère étroitement avec les autres autorités compétentes en vue de s'assurer de l'effectivité des
+sanctions ou mesures qu'elle a adoptées en application des articles L. 633-12 et L. 633-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1186 du 19 septembre 2005 - art. 5 () JORF 21 septembre 2005
+
+	**Transféré par**:
+
+	  - Décret n°2007-901 du 15 mai 2007 - art. 3 () JORF 16 mai 2007 en vigueur le le 1er novembre 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L633-12 (M)
+	  - Code monétaire et financier - art. L633-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R633-2 (M)
+
+
+###### Article R631-3
+
+Lorsque la Commission bancaire est l'autorité en charge de la vérification mentionnée à l'article L. 633-14, elle consulte
+les autres autorités compétentes concernées. Elle consulte également, avant de prendre une décision, le comité des
+conglomérats financiers prévu à l'article 21 de la directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre
+2002, pour tenir compte des lignes directrices élaborées par ce comité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive 2002-87 2002-12-16
+	  - Code monétaire et financier - art. L633-14 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1186 du 19 septembre 2005 - art. 5 () JORF 21 septembre 2005
+
+	**Transféré par**:
+
+	  - Décret n°2007-901 du 15 mai 2007 - art. 3 () JORF 16 mai 2007 en vigueur le le 1er novembre 2007
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R633-3 (M)
+
+
+###### Article R631-4
+
+La coopération entre autorités compétentes prévue à l'article L. 633-5 s'exerce dans les conditions suivantes :
+
+1° Sans préjudice de leurs responsabilités respectives, toute autorité compétente communique, de sa propre initiative ou à la
+demande d'une autre autorité compétente, toute information utile permettant à cette dernière d'exercer ses fonctions
+prudentielles, au titre de la surveillance complémentaire des conglomérats financiers.
+
+Les autorités compétentes collectent et s'échangent des informations concourant à l'exercice de cette surveillance
+complémentaire. Ces informations portent notamment sur la structure du groupe, les principales entités faisant partie du
+conglomérat financier et les autorités compétentes de ces entités réglementées, la stratégie du conglomérat financier et sa
+situation financière ainsi que ses principaux actionnaires et dirigeants, le dispositif de gestion des risques et le système
+de contrôle interne. Elles concernent également les procédures de collecte et de vérification d'informations auprès des
+entités du conglomérat financier, les difficultés éventuellement rencontrées par ces dernières ainsi que les principales
+sanctions et mesures exceptionnelles prises à leur encontre par les autorités compétentes.
+
+2° Sans préjudice de leurs responsabilités respectives, avant de prendre une décision susceptible de relever des fonctions
+prudentielles exercées par d'autres autorités compétentes, les autorités compétentes intéressées se consultent et échangent
+des informations sur la modification structurelle de l'actionnariat, sur l'organisation ou la direction des entités
+réglementées d'un conglomérat financier requérant l'approbation ou l'autorisation des autorités compétentes, ainsi que sur
+les principales sanctions et mesures exceptionnelles envisagées par les autorités compétentes.
+
+En cas d'urgence, ou lorsque cette consultation risquerait de compromettre l'efficacité de la décision, une autorité
+compétente peut décider de ne pas consulter ses homologues, sous réserve de les informer sans délai de cette décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1186 du 19 septembre 2005 - art. 5 () JORF 21 septembre 2005
+
+	**Transféré par**:
+
+	  - Décret n°2007-901 du 15 mai 2007 - art. 3 () JORF 16 mai 2007 en vigueur le le 1er novembre 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L633-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R633-4 (M)
+	  - Code monétaire et financier - art. R633-4 (V)
 
 
 ## Livre VII : Régime de l'outre-mer
