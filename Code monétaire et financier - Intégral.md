@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-11-15
+Version Consolidée au 2005-12-01
 
 # Partie législative
 
@@ -17369,11 +17369,11 @@ droits du bénéficiaire de ladite garantie sont déterminés par la loi applica
 	  - Code monétaire et financier - art. L431-7-3 (V)
 
 
-### Titre IV : Le démarchage et le colportage.(en vigueur jusqu'au 1er décembre 2005)
+### Titre IV : Démarchage, colportage et fourniture à distance de services financiers
 
 #### Chapitre Ier : Démarchage bancaire ou financier
 
-##### Section 1 : Définition.
+##### Section 1 : Définition
 
 ###### Article L341-1
 
@@ -17422,11 +17422,9 @@ réforme de certaines professions judiciaires et juridiques.
 
 	**Codifié par**:
 
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -17465,6 +17463,10 @@ réforme de certaines professions judiciaires et juridiques.
 	  - Code monétaire et financier - art. R353-1 (V)
 	  - Code monétaire et financier - art. R519-2 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
 
 ###### Article L341-2
 
@@ -17501,27 +17503,32 @@ mentionnés, sous peine de nullité ;
 8° Aux démarches effectuées sur le lieu de vente, pour le compte d'un établissement de crédit, en vue de proposer des crédits
 visés au titre Ier du livre III du code de la consommation.
 
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-1010 du 28 décembre 1966 - art. 9 (M)
 	  - Loi n°66-1010 du 28 décembre 1966 - art. 9 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2004-804 du 9 août 2004 - art. 4 () JORF 11 août 2004
-
 	**Cité par**:
 
 	  - Décret n°2004-1019 du 28 septembre 2004 - art. 1 (Ab)
 	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 4 (V)
 	  - Code monétaire et financier - art. D341-1 (V)
-	  - Code monétaire et financier - art. L341-3 (M)
 	  - Code monétaire et financier - art. L341-4 (M)
 	  - Code monétaire et financier - art. L353-1 (M)
 	  - Code monétaire et financier - art. L733-10 (Ab)
@@ -17529,14 +17536,19 @@ visés au titre Ier du livre III du code de la consommation.
 	  - Code monétaire et financier - art. L753-10 (M)
 	  - Code monétaire et financier - art. L763-10 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
 	**Cite**:
 
 	  - Code de la consommation - art. L311-2 (V)
 	  - Code monétaire et financier - art. L321-2 (M)
+	  - Code monétaire et financier - art. L341-3 (M)
 	  - Code monétaire et financier - art. L411-2 (M)
 
 
-##### Section 2 : Personnes habilitées à procéder au démarchage.
+##### Section 2 : Personnes habilitées à procéder au démarchage
 
 ###### Article L341-3
 
@@ -17553,11 +17565,20 @@ européenne et habilités à intervenir sur le territoire français ;
 2° Les entreprises, dans le cadre des dispositifs relevant du titre IV du livre IV du code du travail qu'elles proposent à
 leurs bénéficiaires, ainsi que les personnes morales qu'elles mandatent pour proposer un de ces dispositifs conclus par
 l'entreprise. Dans ce cas, et sans préjudice des règles d'information et de commercialisation auxquelles elles sont soumises,
-seules sont applicables à ces activités de démarchage les dispositions de l'article L. 341-9, du 3° de l'article L. 353-2 et
-de l'article L. 353-4 du présent code ;
+seules sont applicables à ces activités de démarchage les dispositions de l'article L. 341-9, du 3° de l'article L. 353-2 (1)
+et de l'article L. 353-4 du présent code ;
 
 3° Les conseillers en investissements financiers définis à l'article L. 541-1, exclusivement pour les opérations prévues au
 5° de l'article L. 341-1.
+
+**Nota:**
+
+le 3° de l'article L. 353-2 du code monétaire et financier a été abrogé par l'article 7 II de l'ordonnance n° 2005-429 du 6
+mai 2005.
+
+Loi 2006-1770 du 30 décembre 2006 art 63 II : Les personnes mentionnées à l'article L341-3 peuvent faire enregistrer, dans
+les conditions définies à l'article L341-6, les salariés des personnes physiques mandatées le premier jour ouvrable suivant
+le 30 septembre 2007.
 
 **Liens relatifs à cet article**
 
@@ -17579,10 +17600,6 @@ de l'article L. 353-4 du présent code ;
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -17618,6 +17635,10 @@ de l'article L. 353-4 du présent code ;
 	  - Code monétaire et financier - art. L743-10 (M)
 	  - Code monétaire et financier - art. L753-10 (M)
 	  - Code monétaire et financier - art. L763-10 (VD)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 
 ###### Article L341-4
@@ -17694,7 +17715,7 @@ considérées comme exerçant directement l'activité de démarchage et sont ten
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 48 () JORF 7 mai 2005
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cite**:
 
@@ -17723,16 +17744,16 @@ plusieurs mandats, et des produits et services faisant l'objet du démarchage.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Décret n°2004-1019 du 28 septembre 2004 - art. 3 (Ab)
 	  - Code monétaire et financier - art. D341-3 (V)
 	  - Code monétaire et financier - art. L341-6 (V)
 	  - Code monétaire et financier - art. L353-2 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 
 ###### Article L341-6
@@ -17782,10 +17803,6 @@ effectué.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Décret n°2004-1018 du 28 septembre 2004 - art. 1 (Ab)
@@ -17803,6 +17820,10 @@ effectué.
 	  - Code monétaire et financier - art. L353-1 (V)
 	  - Code monétaire et financier - art. L743-10 (V)
 	  - Code monétaire et financier - art. L753-10 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cite**:
 
@@ -17825,10 +17846,6 @@ libertés. Il est librement consultable par le public.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Décret n°2004-1018 du 28 septembre 2004 - art. 1 (Ab)
@@ -17839,6 +17856,10 @@ libertés. Il est librement consultable par le public.
 	  - Code monétaire et financier - art. L545-5 (V)
 	  - Code monétaire et financier - art. L743-10 (V)
 	  - Code monétaire et financier - art. L753-10 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 
 ###### Article L341-8
@@ -17856,10 +17877,6 @@ Cette carte doit être présentée à toute personne ainsi démarchée.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Arrêté du 28 septembre 2004 - art. 1 (V)
@@ -17869,6 +17886,10 @@ Cette carte doit être présentée à toute personne ainsi démarchée.
 	  - Code monétaire et financier - art. D341-6 (V)
 	  - Code monétaire et financier - art. D341-7 (V)
 	  - Code monétaire et financier - art. L353-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 
 ###### Article L341-9
@@ -17891,14 +17912,14 @@ Les personnes exerçant l'activité de démarchage bancaire et financier sont so
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 7 () JORF 7 mai 2005
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L500-1 (V)
 
 
-##### Section 3 : Produits ne pouvant pas faire l'objet de démarchage.
+##### Section 3 : Produits ne pouvant pas faire l'objet de démarchage
 
 ###### Article L341-10
 
@@ -17944,9 +17965,9 @@ cadre d'un dispositif relevant du titre IV du livre IV du code du travail.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cité par**:
 
@@ -17957,15 +17978,15 @@ cadre d'un dispositif relevant du titre IV du livre IV du code du travail.
 	  - Code monétaire et financier - art. L763-10 (VD)
 
 
-##### Section 4 : Règles de bonne conduite.
+##### Section 4 : Règles de bonne conduite
 
 ###### Article L341-11
 
-Avant de formuler une offre de produits, instruments financiers ou services, les démarcheurs s'enquièrent de la situation
-financière de la personne démarchée, de son expérience et de ses objectifs en matière de placement ou de financement. Ces
-dispositions ne s'appliquent pas dans le cas des envois effectués dans les conditions prévues au V de l'article L. 341-4,
-sans préjudice du respect des obligations d'information et de conseil dues aux souscripteurs et aux clients en application
-des articles L. 214-12, L. 214-83-1 et L. 533-4.
+Avant de formuler une offre portant sur des instruments financiers, un service d'investissement ou un service connexe, les
+démarcheurs s'enquièrent de la situation financière de la personne démarchée, de son expérience et de ses objectifs en
+matière de placement ou de financement. Ces dispositions ne s'appliquent pas dans le cas des envois effectués dans les
+conditions prévues au V de l'article L. 341-4, sans préjudice du respect des obligations d'information et de conseil dues aux
+souscripteurs et aux clients en application des articles L. 214-12, L. 214-83-1 et L. 533-4.
 
 Les démarcheurs communiquent à la personne démarchée, d'une manière claire et compréhensible, les informations qui lui sont
 utiles pour prendre sa décision.
@@ -17974,11 +17995,13 @@ utiles pour prendre sa décision.
 
 	**Codifié par**:
 
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cité par**:
 
@@ -17994,8 +18017,8 @@ utiles pour prendre sa décision.
 
 ###### Article L341-12
 
-Lors des actes de démarchage bancaire ou financier, doivent être communiqués par écrit, à la personne démarchée, quel que
-soit le support de cet écrit :
+En temps utile, avant qu'elle ne soit liée par un contrat, la personne démarchée reçoit des informations fixées par décret en
+Conseil d'Etat, portant notamment sur :
 
 1° Le nom, l'adresse professionnelle et, le cas échéant, le numéro d'enregistrement de la personne physique procédant au
 démarchage ;
@@ -18011,11 +18034,24 @@ des produits, instruments financiers et services proposés, élaborée sous la r
 l'établissement qui a recours au démarchage et indiquant, s'il y a lieu, les risques particuliers que peuvent comporter les
 produits proposés ;
 
-5° Les conditions de l'offre contractuelle, notamment financières, et les modalités selon lesquelles sera conclu le contrat,
-en particulier le lieu et la date de signature de celui-ci ;
+5° Les conditions de l'offre contractuelle, notamment le prix total effectivement dû par la personne démarchée ou, lorsqu'un
+prix exact ne peut être indiqué, la base de calcul du prix, permettant à la personne démarchée de vérifier ce dernier, les
+modalités selon lesquelles sera conclu le contrat, en particulier le lieu et la date de signature de celui-ci ;
 
-6° L'information relative à l'existence ou à l'absence du droit de rétractation prévu à l'article L. 341-16, ainsi que ses
-modalités d'exercice.
+6° L'existence ou l'absence du droit de rétractation, prévu selon les cas, à l'article L. 121-20-15 du code de la
+consommation ou à l'article L. 341-16 du présent code, ainsi que ses modalités d'exercice ;
+
+7° La loi applicable aux relations précontractuelles ainsi qu'au contrat, et l'existence de toute clause concernant le choix
+d'une juridiction.
+
+Les informations communiquées par le fournisseur à la personne démarchée sur les obligations contractuelles sont conformes à
+la loi applicable au contrat en cas de conclusion de celui-ci.
+
+Ces informations, dont le caractère commercial doit apparaître sans équivoque, sont fournies de manière claire et
+compréhensible par tout moyen adapté à la technique de communication à distance utilisée.
+
+Le décret en Conseil d'Etat mentionné au premier alinéa fixe également les modalités particulières applicables en cas de
+communication par téléphonie vocale.
 
 Ces dispositions sont applicables sans préjudice de l'application des obligations législatives et réglementaires spécifiques
 à chaque produit, instrument financier ou service proposé.
@@ -18026,9 +18062,14 @@ Ces dispositions sont applicables sans préjudice de l'application des obligatio
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-15 (V)
+	  - Code monétaire et financier - art. L341-4 (M)
 
 	**Cité par**:
 
@@ -18039,10 +18080,6 @@ Ces dispositions sont applicables sans préjudice de l'application des obligatio
 	  - Code monétaire et financier - art. L519-5 (V)
 	  - Code monétaire et financier - art. R341-16 (V)
 	  - Code monétaire et financier - art. R353-1 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L341-4 (M)
 
 
 ###### Article L341-13
@@ -18056,9 +18093,9 @@ reçu des instructions expresses de la ou des personnes pour le compte desquelle
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cité par**:
 
@@ -18080,9 +18117,9 @@ agit.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cité par**:
 
@@ -18092,7 +18129,8 @@ agit.
 ###### Article L341-15
 
 Il est interdit à tout démarcheur de recevoir des personnes démarchées des espèces, des effets de commerce, des valeurs ou
-chèques au porteur ou à son nom ou tout paiement par un autre moyen.
+chèques au porteur ou à son nom ou tout paiement par un autre moyen, sous réserve des modalités d'exercice du droit de
+rétractation prévues au II de l'article L. 341-16.
 
 **Liens relatifs à cet article**
 
@@ -18100,59 +18138,79 @@ chèques au porteur ou à son nom ou tout paiement par un autre moyen.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+	  - Loi n°2006-387 du 31 mars 2006 - art. 25 (V) JORF 1 avril 2006 en vigueur le 1er décembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L341-16 (V)
 
 
 ###### Article L341-16
 
-I. - La personne démarchée dispose, à compter de la conclusion du contrat, d'un délai de quatorze jours pour se rétracter,
-sans pénalité et sans être tenue d'indiquer les motifs de sa décision. Ce délai de rétractation court à compter de la date de
-réception par la personne démarchée du contrat signé par les deux parties.
+I.-La personne démarchée dispose d'un délai de quatorze jours calendaires révolus pour exercer son droit de rétractation,
+sans avoir à justifier de motifs ni à supporter de pénalités. 
 
-Le contrat doit comporter un formulaire destiné à faciliter l'exercice de la faculté de rétractation. Les mentions devant
-figurer sur ce formulaire ainsi que les conditions d'exercice du droit de rétractation sont fixées par décret.
+Le délai pendant lequel peut s'exercer le droit de rétractation commence à courir : 
 
-II. - Lorsque la personne démarchée exerce son droit de rétractation, elle ne peut être tenue au versement de frais ou de
-commissions de quelque nature que ce soit. Elle est toutefois tenue de payer le prix correspondant à l'utilisation du produit
-ou du service fourni entre la date de la conclusion du contrat et celle de l'exercice du droit de rétractation.
+1° Soit à compter du jour où le contrat est conclu ; 
+
+2° Soit à compter du jour où la personne démarchée reçoit les conditions contractuelles et les informations, si cette
+dernière date est postérieure à celle mentionnée au 1°. 
+
+II-Lorsque la personne démarchée exerce son droit de rétractation, elle ne peut être tenue qu'au paiement du prix
+correspondant à l'utilisation du produit ou du service financier effectivement fourni entre la date de conclusion du contrat
+et celle de l'exercice du droit de rétractation, à l'exclusion de toute pénalité. 
+
+Le démarcheur ne peut exiger de la personne démarchée le paiement du produit ou du service mentionné au premier alinéa que
+s'il peut prouver que la personne démarchée a été informée du montant dû, conformément au 5° de l'article L. 341-12. 
+
+Toutefois, il ne peut exiger ce paiement s'il a commencé à exécuter le contrat avant l'expiration du délai de rétractation
+sans demande préalable de la personne démarchée. 
+
+Le démarcheur est tenu de rembourser à la personne démarchée, dans les meilleurs délais et au plus tard dans les trente
+jours, toutes les sommes qu'il a perçues de celle-ci en application du contrat, à l'exception du montant mentionné au premier
+alinéa. Ce délai commence à courir le jour où le démarcheur reçoit notification par la personne démarchée de sa volonté de se
+rétracter. 
+
+La personne démarchée restitue au démarcheur, dans les meilleurs délais et au plus tard dans les trente jours, toute somme et
+tout bien qu'elle a reçus de ce dernier. Ce délai commence à courir à compter du jour où la personne démarchée notifie au
+démarcheur sa volonté de se rétracter. 
 
 L'exécution des contrats portant sur les services de conservation ou d'administration d'instruments financiers et de gestion
-de portefeuille pour le compte de tiers est différée pendant la durée du droit de rétractation.
+de portefeuille pour le compte de tiers est différée pendant la durée du droit de rétractation. 
 
-III. - Le délai de rétractation prévu au premier alinéa du I ne s'applique pas :
+III.-Le délai de rétractation prévu au premier alinéa du I ne s'applique pas : 
 
 1° Aux services de réception-transmission et exécution d'ordres pour le compte de tiers mentionnés à l'article L. 321-1,
-ainsi qu'à la fourniture d'instruments financiers mentionnés à l'article L. 211-1 ;
+ainsi qu'à la fourniture d'instruments financiers mentionnés à l'article L. 211-1 ; 
 
 2° Lorsque des dispositions spécifiques à certains produits et services prévoient un délai de réflexion ou un délai de
-rétractation d'une durée différente, auquel cas ce sont ces délais qui s'appliquent en matière de démarchage.
+rétractation d'une durée différente, auquel cas ce sont ces délais qui s'appliquent en matière de démarchage ; 
 
-IV. - En cas de démarchage effectué selon les modalités prévues au septième alinéa de l'article L. 341-1, les personnes
+3° Aux contrats exécutés intégralement par les deux parties à la demande expresse de la personne démarchée avant que cette
+dernière n'exerce son droit de rétractation. 
+
+IV.-En cas de démarchage effectué selon les modalités prévues au septième alinéa de l'article L. 341-1, les personnes
 mentionnées aux articles L. 341-3 et L. 341-4 ne peuvent recueillir ni ordres ni fonds de la part des personnes démarchées en
 vue de la fourniture de services de réception-transmission et exécution d'ordres pour le compte de tiers mentionnés à
 l'article L. 321-1 ou d'instruments financiers mentionnés à l'article L. 211-1, avant l'expiration d'un délai de réflexion de
-quarante-huit heures.
+quarante-huit heures. 
 
 Ce délai de réflexion court à compter du lendemain de la remise d'un récépissé établissant la communication à la personne
-démarchée, par écrit sur support papier, des informations et documents prévus à l'article L. 341-12.
+démarchée, par écrit sur support papier, des informations et documents prévus à l'article L. 341-12. 
 
 Le silence de la personne démarchée à l'issue de l'expiration du délai de réflexion ne peut être considéré comme signifiant
-le consentement de celle-ci.
+le consentement de celle-ci. 
 
-V. - Les délais fixés à la présente section qui expireraient normalement un samedi, un dimanche ou un jour férié ou chômé
-sont prorogés jusqu'au premier jour ouvrable suivant.
+V.-Abrogé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -18163,16 +18221,18 @@ sont prorogés jusqu'au premier jour ouvrable suivant.
 	  - Code monétaire et financier - art. L343-2 (MMN)
 	  - Code monétaire et financier - art. L353-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 25 (V) JORF 1 avril 2006 en vigueur le 1er décembre 2005
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-1 (M)
-	  - Code monétaire et financier - art. L321-1 (M)
-	  - Code monétaire et financier - art. L341-1 (M)
-	  - Code monétaire et financier - art. L341-3 (M)
-	  - Code monétaire et financier - art. L341-4 (M)
+	  - Code monétaire et financier - art. L211-1 (V)
+	  - Code monétaire et financier - art. L341-1 (V)
+	  - Code monétaire et financier - art. L341-3 (V)
 
 
-##### Section 5 : Sanctions disciplinaires.
+##### Section 5 : Sanctions disciplinaires
 
 ###### Article L341-17
 
@@ -18187,9 +18247,9 @@ L. 310-18 du code des assurances.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cité par**:
 
@@ -18225,7 +18285,6 @@ valeurs.
 	**Anciens textes**:
 
 	  - Loi n°72-6 du 3 janvier 1972 - art. 1 (Ab)
-	  - Code monétaire et financier - art. L344-1 (T)
 
 	**Codifié par**:
 
@@ -18233,7 +18292,7 @@ valeurs.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cité par**:
 
@@ -18244,13 +18303,13 @@ valeurs.
 
 ###### Article L342-2
 
-I. - Se livre au démarchage des matières mentionnées au premier alinéa de l'article L. 342-1 celui qui se rend habituellement
+I.-Se livre au démarchage des matières mentionnées au premier alinéa de l'article L. 342-1 celui qui se rend habituellement
 au domicile des particuliers, autres que les banquiers, agents de change, négociants en métaux précieux, ou dans les lieux
 publics non réservés à cet effet, pour conseiller l'achat, la vente ou l'échange de ces matières, ou pour offrir de
 participer soit à des opérations à terme sur les mêmes matières, soit à des syndicats ayant pour objet des opérations fondées
-sur des différences de cours et portant sur les mêmes matières.
+sur des différences de cours et portant sur les mêmes matières. 
 
-II. - Sont également considérées comme actes de démarchage interdits par l'article L. 342-1, les offres de service faites de
+II.-Sont également considérées comme actes de démarchage interdits par l'article L. 342-1, les offres de service faites de
 façon habituelle, par lettres, circulaires, communications téléphoniques ou tout autre moyen, au domicile des personnes
 autres que les banquiers, agents de change, négociants en métaux précieux ou dans les lieux publics non réservés à cet effet
 en vue des opérations mentionnées au I.
@@ -18268,12 +18327,11 @@ en vue des opérations mentionnées au I.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 50 II 1°, 2° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L342-1 (M)
+	  - Code monétaire et financier - art. L342-1 (V)
 
 	**Cité par**:
 
@@ -18309,7 +18367,6 @@ les banquiers et agents de change, ou dans les lieux publics, en vue des opérat
 	**Anciens textes**:
 
 	  - Loi n°72-6 du 3 janvier 1972 - art. 3 (Ab)
-	  - Code monétaire et financier - art. L344-3 (T)
 
 	**Codifié par**:
 
@@ -18317,7 +18374,7 @@ les banquiers et agents de change, ou dans les lieux publics, en vue des opérat
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cité par**:
 
@@ -18326,6 +18383,260 @@ les banquiers et agents de change, ou dans les lieux publics, en vue des opérat
 	  - Code monétaire et financier - art. L342-7 (Ab)
 	  - Code monétaire et financier - art. L342-8 (Ab)
 	  - Code monétaire et financier - art. L353-4 (M)
+
+
+#### Chapitre III : Fourniture à distance de services financiers à un consommateur
+
+###### Article L343-1
+
+La fourniture à distance de services financiers à un consommateur, telle que définie à l'article L. 121-20-8 du code de la
+consommation, est régie par les dispositions de la sous-section 2 et de la sous-section 3 de la section 2 du chapitre Ier du
+titre II du livre Ier du même code, ci-après reproduites : 
+
+" Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers 
+
+" Art.L. 121-20-8 
+
+" La présente sous-section régit la fourniture de services financiers à un consommateur dans le cadre d'un système de vente
+ou de prestation de services à distance organisé par le fournisseur ou par un intermédiaire qui, pour ce contrat, utilise
+exclusivement une ou plusieurs techniques de communication à distance jusqu'à, et y compris, la conclusion du contrat. 
+
+" Elle s'applique aux services mentionnés aux livres Ier à III et au titre V du livre V du code monétaire et financier ainsi
+que les opérations pratiquées par les entreprises régies par le code des assurances, par les mutuelles et unions régies par
+le livre II du code de la mutualité et par les institutions de prévoyance et unions régies par le titre III du livre IX du
+code de la sécurité sociale, sans préjudice des dispositions spécifiques prévues par ces codes. " 
+
+" Art.L. 121-20-9 
+
+" Pour les contrats portant sur des services financiers comportant une première convention de service suivie d'opérations
+successives ou d'une série d'opérations distinctes, de même nature, échelonnées dans le temps, les dispositions de la
+présente sous-section ne s'appliquent qu'à la première convention de service. Pour les contrats renouvelables par tacite
+reconduction, les dispositions de la présente sous-section ne s'appliquent qu'au contrat initial. 
+
+" En l'absence de première convention de service, lorsque des opérations successives ou distinctes, de même nature,
+échelonnées dans le temps, sont exécutées entre les mêmes parties, les dispositions de l'article L. 121-20-10 ne sont
+applicables qu'à la première opération. Cependant, lorsque aucune opération de même nature n'est effectuée pendant plus d'un
+an, ces dispositions s'appliquent à l'opération suivante, considérée comme une première opération. " 
+
+" Art.L. 121-20-10 
+
+" En temps utile et avant qu'il ne soit lié par un contrat, le consommateur reçoit des informations fixées par décret en
+Conseil d'Etat, portant notamment sur : 
+
+" 1° Le nom, l'adresse professionnelle du fournisseur et, s'il y a lieu, de son représentant et de son intermédiaire ; 
+
+" 2° Les documents d'information particuliers relatifs aux produits, instruments financiers et services proposés requis par
+les dispositions législatives et réglementaires en vigueur ou, en l'absence de tels documents, une note d'information sur
+chacun des produits, instruments financiers et services proposés et indiquant, s'il y a lieu, les risques particuliers que
+peuvent comporter les produits proposés ; 
+
+" 3° Les conditions de l'offre contractuelle, notamment le prix total effectivement dû par le consommateur, ou, lorsqu'un
+prix exact ne peut être indiqué, la base de calcul du prix permettant au consommateur de vérifier ce dernier, les modalités
+selon lesquelles sera conclu le contrat et en particulier le lieu et la date de signature de celui-ci ; 
+
+" 4° L'existence ou l'absence du droit de rétractation, ainsi que ses modalités d'exercice ; 
+
+" 5° La loi applicable aux relations précontractuelles ainsi qu'au contrat, et l'existence de toute clause concernant le
+choix d'une juridiction. 
+
+" Les informations communiquées par le fournisseur au consommateur sur les obligations contractuelles sont conformes à la loi
+applicable au contrat en cas de conclusion de celui-ci. 
+
+" Ces informations, dont le caractère commercial doit apparaître sans équivoque, sont fournies de manière claire et
+compréhensible par tout moyen adapté à la technique de communication à distance utilisée. 
+
+" Les dispositions du présent article sont applicables sans préjudice de l'application des obligations législatives et
+réglementaires spécifiques à chaque produit, instrument financier ou service proposé. 
+
+" Le décret en Conseil d'Etat mentionné au premier alinéa fixe également les modalités particulières applicables en cas de
+communication par téléphonie vocale. " 
+
+" Art.L. 121-20-11 
+
+" Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa disposition et auquel il a accès en temps
+utile et avant tout engagement, les conditions contractuelles ainsi que les informations mentionnées à l'article L.
+121-20-10. Le fournisseur peut remplir ses obligations au titre de l'article L. 121-20-10 et du présent article par l'envoi
+au consommateur d'un document unique, à la condition qu'il s'agisse d'un support écrit ou d'un autre support durable et que
+les informations mentionnées ne varient pas jusqu'à et y compris la conclusion du contrat. 
+
+" Le fournisseur exécute ses obligations de communication immédiatement après la conclusion du contrat, lorsque celui-ci a
+été conclu à la demande du consommateur en utilisant une technique de communication à distance ne permettant pas la
+transmission des informations précontractuelles et contractuelles sur un support papier ou sur un autre support durable. 
+
+" A tout moment au cours de la relation contractuelle, le consommateur a le droit, s'il en fait la demande, de recevoir les
+conditions contractuelles sur un support papier. En outre, le consommateur a le droit de changer les techniques de
+communication à distance utilisées, à moins que cela ne soit incompatible avec le contrat à distance conclu ou avec la nature
+du service financier fourni. " 
+
+" Art.L. 121-20-12 
+
+" I.-Le consommateur dispose d'un délai de quatorze jours calendaires révolus pour exercer son droit de rétractation, sans
+avoir à justifier de motif ni à supporter de pénalités. 
+
+" Le délai pendant lequel peut s'exercer le droit de rétractation commence à courir : 
+
+" 1° Soit à compter du jour où le contrat à distance est conclu ; 
+
+" 2° Soit à compter du jour où le consommateur reçoit les conditions contractuelles et les informations, conformément à
+l'article L. 121-20-11, si cette dernière date est postérieure à celle mentionnée au 1°. 
+
+" II.-Le droit de rétractation ne s'applique pas : 
+
+" 1° A la fourniture d'instruments financiers mentionnés à l'article L. 211-1 du code monétaire et financier ainsi qu'aux
+services de réception-transmission et exécution d'ordres pour le compte de tiers mentionnés à l'article L. 321-1 du même
+code ; 
+
+" 2° Aux contrats exécutés intégralement par les deux parties à la demande expresse du consommateur avant que ce dernier
+n'exerce son droit de rétractation ; 
+
+" 3° Aux contrats de crédit immobilier définis à l'article L. 312-2. 
+
+" III.-Le présent article ne s'applique pas aux contrats mentionnés à l'article L. 121-60. 
+
+" IV.-Pour les contrats de crédit affecté définis à l'article L. 311-20 conclus selon une technique de communication à
+distance, et par dérogation aux dispositions de l'article L. 311-24, le délai de rétractation de quatorze jours ne peut pas
+être réduit. 
+
+" Par dérogation aux dispositions de l'article L. 311-25, l'exercice du droit de rétractation n'emporte résolution de plein
+droit du contrat de vente ou de prestation de services que s'il intervient dans un délai de sept jours à compter de la
+conclusion du contrat de crédit. De plus, lorsque le consommateur, par une demande expresse, sollicite la livraison ou la
+fourniture immédiate du bien ou de la prestation de services, l'exercice du droit de rétractation n'emporte résolution de
+plein droit du contrat de vente ou de prestation de services que s'il intervient dans un délai de trois jours à compter de la
+conclusion du contrat de crédit. Toute livraison ou fourniture anticipée est à la charge du vendeur qui en supporte tous les
+risques. " 
+
+" Art.L. 121-20-13 
+
+" I.-Les contrats pour lesquels s'applique le délai de rétractation mentionné à l'article L. 121-20-12 ne peuvent recevoir de
+commencement d'exécution par les parties avant l'arrivée du terme de ce délai sans l'accord du consommateur. Lorsque celui-ci
+exerce son droit de rétractation, il ne peut être tenu qu'au paiement proportionnel du service financier effectivement
+fourni, à l'exclusion de toute pénalité. 
+
+" Le fournisseur ne peut exiger du consommateur le paiement du service mentionné au premier alinéa que s'il peut prouver que
+le consommateur a été informé du montant dû, conformément à l'article L. 121-20-10. Toutefois, il ne peut pas exiger ce
+paiement s'il a commencé à exécuter le contrat avant l'expiration du délai de rétractation sans demande préalable du
+consommateur. 
+
+" Pour les contrats de crédit à la consommation prévus au chapitre Ier du titre Ier du livre III, même avec l'accord du
+consommateur, ils ne peuvent recevoir de commencement d'exécution, durant les sept premiers jours, sauf s'agissant des
+contrats de crédit affecté mentionnés au IV de l'article L. 121-20-12, qui ne peuvent recevoir de commencement d'exécution
+durant les trois premiers jours. 
+
+" II.-Le fournisseur est tenu de rembourser au consommateur dans les meilleurs délais et au plus tard dans les trente jours
+toutes les sommes qu'il a perçues de celui-ci en application du contrat, à l'exception du montant mentionné au premier alinéa
+du I. Ce délai commence à courir le jour où le fournisseur reçoit notification par le consommateur de sa volonté de se
+rétracter. Au-delà du délai de trente jours, la somme due est, de plein droit, productive d'intérêts au taux légal en
+vigueur. 
+
+" Le consommateur restitue au fournisseur dans les meilleurs délais et au plus tard dans les trente jours toute somme et tout
+bien qu'il a reçus de ce dernier. Ce délai commence à courir à compter du jour où le consommateur communique au fournisseur
+sa volonté de se rétracter. " 
+
+" Art.L. 121-20-14 
+
+" Les dispositions de l'article L. 34-5 du code des postes et communications électroniques, reproduites à l'article L.
+121-20-5, sont applicables aux services financiers. 
+
+" Les techniques de communication à distance destinées à la commercialisation de services financiers autres que celles
+mentionnées à l'article L. 34-5 du code des postes et communications électroniques ne peuvent être utilisées que si le
+consommateur n'a pas manifesté son opposition. 
+
+" Les mesures prévues au présent article ne doivent pas entraîner de frais pour le consommateur. " 
+
+" Sous-section 3 : Dispositions communes 
+
+" Art.L. 121-20-15 
+
+" Lorsque les parties ont choisi la loi d'un Etat non membre de la Communauté européenne pour régir le contrat, le juge
+devant lequel est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus protectrices de la
+loi de la résidence habituelle du consommateur assurant la transposition de la directive 97 / 7 / CE du Parlement européen et
+du Conseil du 20 mai 1997 concernant la protection des consommateurs en matière de contrats à distance et de la directive
+2002 / 65 / CE du Parlement européen et du Conseil du 23 septembre 2002, concernant la commercialisation à distance de
+services financiers auprès des consommateurs, lorsque le contrat présente un lien étroit avec le territoire d'un ou plusieurs
+Etats membres de la Communauté européenne ; cette condition est présumée remplie si la résidence des consommateurs est située
+dans un Etat membre. " 
+
+" Art.L. 121-20-16
+
+" Les dispositions de la présente section sont d'ordre public. 
+
+" Art.L. 121-20-17 
+
+" Les infractions aux dispositions des articles L. 121-18, L. 121-19, L. 121-20-5, L. 121-20-10 et L. 121-20-11, ainsi que le
+refus du vendeur ou du prestataire de services de rembourser le consommateur dans les conditions fixées aux articles L.
+121-20-1 et L. 121-20-13, sont constatés et poursuivis dans les conditions fixées par les premier et troisième alinéas de
+l'article L. 450-1 et les articles L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce
+(1). "
+
+**Nota:**
+
+(1) L'article L. 121-20-17 du code de la consommation est abrogé par le II de l'article 4 de l'ordonnance n° 2005-1086 du 1er
+septembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1885-03-28 du 28 mars 1885 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-10 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-11 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-12 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-13 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-14 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-15 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-16 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-8 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-9 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier L121-20-10
+
+
+###### Article L343-2
+
+Lorsque la fourniture à distance de services financiers à un consommateur est précédée d'un démarchage au sens de l'article
+L. 341-1. L'article L. 341-12 s'applique à la place de l'article L. 121-20-10 du code de la consommation et les références
+qui sont faites à ce dernier article sont remplacées par des références faites à l'article L. 341-12.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1885-03-28 du 28 mars 1885 - art. 11 (Ab)
+	  - Code monétaire et financier - art. L344-3 (T)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 25 (V) JORF 1 avril 2006 en vigueur le 1er décembre 2005
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-10 (M)
+	  - Code monétaire et financier - art. L341-1 (M)
+	  - Code monétaire et financier - art. L341-12 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L343-4 (Ab)
+	  - Code monétaire et financier - art. L343-5 (Ab)
+	  - Code monétaire et financier - art. L343-6 (Ab)
+	  - Code monétaire et financier - art. L353-6 (M)
 
 
 ### Titre V : Dispositions pénales
@@ -18509,9 +18820,9 @@ Est puni de six mois d'emprisonnement et de 7 500 euros d'amende :
 1° Le fait, pour toute personne, de se livrer à l'activité de démarchage bancaire ou financier définie à l'article L. 341-1
 sans avoir obtenu une carte de démarchage en cas d'activité réalisée dans les conditions de l'article L. 341-8 ;
 
-2° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier définie à l'article L. 341-1, de
-ne pas communiquer à la personne démarchée les informations et documents mentionnés à l'article L. 341-12 et à l'avant-
-dernier alinéa de l'article L. 341-6 ;
+2° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier dans les conditions définies au
+septième alinéa de l'article L. 341-1, de ne pas communiquer à la personne démarchée les informations et documents mentionnés
+à l'article L. 341-12 et à l'avant-dernier alinéa de l'article L. 341-6 ;
 
 3° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier définie à l'article L. 341-1, de
 ne pas respecter les règles relatives à la signature du contrat prévues à l'article L. 341-14 ;
@@ -18555,7 +18866,7 @@ L. 341-16.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 53 () JORF 2 août 2003
+	  - Loi n°2006-387 du 31 mars 2006 - art. 25 (V) JORF 1 avril 2006 en vigueur le 1er décembre 2005
 
 	**Cite**:
 
@@ -67883,6 +68194,110 @@ s'exercent auprès de la Banque de France et des personnes ayant désigné ou ma
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
+##### Section 4 : Règles de bonne conduite.
+
+###### Article R341-16
+
+Pour l'application de l'article L. 341-12, le démarcheur communique à la personne démarchée des informations concernant : 
+
+1° L'identité, l'activité principale, l'adresse géographique à laquelle le fournisseur de services financiers est établi,
+ainsi que toute autre adresse nécessaire au suivi des relations entre la personne démarchée et le fournisseur. Le démarcheur
+communique également à la personne démarchée son identité ainsi que celle de ses adresses devant être prise en compte pour
+ses relations avec lui. 
+
+Lorsque le fournisseur est inscrit au registre du commerce et des sociétés, il communique à la personne démarchée son numéro
+d'immatriculation. En outre, les personnes soumises à agrément communiquent à la personne démarchée les coordonnées des
+autorités chargées de leur contrôle. 
+
+2° Le service financier : le démarcheur informe la personne démarchée du prix total dû, y compris l'ensemble des commissions,
+charges et dépenses y afférentes et toutes les taxes acquittées par lui. Le démarcheur informe également la personne
+démarchée de l'existence de toute autre taxe ou frais qui ne sont pas acquittés ou facturés par lui. 
+
+Le cas échéant, le démarcheur précise à la personne démarchée, d'une part, que le service financier est lié à des instruments
+qui impliquent des risques particuliers du fait de leurs spécificités ou des opérations à exécuter ou dont le prix dépend de
+fluctuations des marchés financiers sur lesquelles le fournisseur n'a aucune influence et, d'autre part, que les performances
+passées ne laissent pas présager des performances futures. 
+
+Le démarcheur informe la personne démarchée de toute limitation de la durée pendant laquelle les informations fournies sont
+valables, des modes de paiement et d'exécution et enfin, s'il y a lieu, de l'existence de tout coût supplémentaire spécifique
+pour la personne démarchée afférent à l'utilisation de la technique de communication à distance. 
+
+3° Le contrat à distance : le démarcheur informe la personne démarchée de l'existence du droit de rétractation mentionné à
+l'article L. 121-20-12 du code de la consommation, de sa durée, des conséquences pécuniaires éventuelles de sa mise en
+oeuvre, ainsi que de l'adresse à laquelle la personne démarchée doit notifier sa décision de se rétracter. En cas d'absence
+d'un tel droit, le démarcheur en informe la personne démarchée ainsi que des conséquences de cette absence. 
+
+Pour les contrats pour lesquels s'applique le délai de rétractation mentionné au même article L. 121-20-12, le démarcheur
+informe la personne démarchée du fait que, sauf accord exprès de celle-ci, le contrat ne peut commencer à être exécuté qu'à
+l'expiration du délai de rétractation. Pour les contrats de crédit à la consommation prévus au chapitre Ier du titre Ier du
+livre III du code de la consommation, le démarcheur informe la personne démarchée du fait que, même avec son accord, le
+contrat ne peut commencer à être exécuté durant les sept premiers jours, sauf s'agissant des contrats de crédit affecté, qui
+ne peuvent commencer à être exécutés durant les trois premiers jours. 
+
+Le démarcheur informe la personne démarchée des droits contractuels que peuvent avoir les parties de résilier le contrat,
+sans omettre les éventuelles pénalités imposées par le contrat dans ce cas. 
+
+Lorsque le contrat est à exécution successive, le démarcheur porte à la connaissance de la personne démarchée sa durée
+minimale. 
+
+La personne démarchée est informée de la langue ou des langues qui seront utilisées entre les parties durant la relation
+précontractuelle, ainsi que de la langue ou des langues dans lesquelles le contrat sera rédigé. La langue utilisée durant la
+relation contractuelle est choisie en accord avec la personne démarchée. 
+
+4° Les recours : le démarcheur informe la personne démarchée de l'existence ou de l'absence de procédures extrajudiciaires de
+réclamation et de recours accessibles et, si de telles procédures existent, de leurs modalités d'exercice. La personne
+démarchée est également informée de l'existence de fonds de garantie ou d'autres mécanismes d'indemnisation, tels que les
+mécanismes d'indemnisation des déposants, des investisseurs et des cautions respectivement mentionnés aux articles L. 312-4,
+L. 313-50 et L. 322-1 du code monétaire et financier. 
+
+5° En cas de communication par téléphonie vocale, l'identité du démarcheur et le caractère commercial de l'appel dont le
+démarcheur a pris l'initiative sont indiqués sans équivoque au début de toute conversation avec la personne démarchée. 
+
+Sous réserve de l'accord formel de la personne démarchée, seules les informations ci-après doivent être fournies : 
+
+a) L'identité du démarcheur et le lien de cette personne avec le fournisseur ; 
+
+b) Une description des principales caractéristiques du service financier ; 
+
+c) Le prix total dû par la personne démarchée au fournisseur pour le service financier, qui comprend toutes les taxes
+acquittées par le démarcheur ou, lorsqu'un prix exact ne peut être indiqué, la base de calcul du prix permettant à la
+personne démarchée de vérifier ce dernier ; 
+
+d) L'indication de l'existence éventuelle d'autres taxes ou frais qui ne sont pas acquittés par le démarcheur ou facturés par
+lui ; 
+
+e) L'existence ou l'absence du droit de rétractation mentionné à l'article L. 121-20-12 du code de la consommation et, si ce
+droit existe, sa durée et les modalités de son exercice, y compris des informations sur le montant que la personne démarchée
+peut être tenue de payer en vertu de l'article L. 121-20-13 du même code. 
+
+Le fournisseur informe le consommateur sur, d'une part, le fait que d'autres informations peuvent être fournies sur demande
+et, d'autre part, la nature de ces informations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1450 du 25 novembre 2005 - art. 5 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-12 (V)
+	  - Code de la consommation - art. L121-20-13 (V)
+	  - Code monétaire et financier - art. L312-4 (V)
+	  - Code monétaire et financier - art. L313-50 (V)
+	  - Code monétaire et financier - art. L322-1 (V)
+	  - Code monétaire et financier - art. L341-12 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R313-7 (VD)
+	  - Code monétaire et financier - art. R353-1 (V)
+
+
 ### Titre V : Dispositions pénales
 
 #### Chapitre Ier : Infractions relatives au droit au compte et aux relations avec le client.
@@ -67983,6 +68398,33 @@ La récidive de la contravention au présent article est réprimée conformémen
 
 	  - Code pénal - art. 132-11 (V)
 	  - Code monétaire et financier - art. R313-14 (V)
+
+
+#### Chapitre III : Infractions relatives au démarchage et à la fourniture à distance de services financiers.
+
+###### Article R353-1
+
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait pour toute personne se livrant à
+l'activité de démarchage bancaire et financier telle que définie à l'article L. 341-1, à l'exception des cas mentionnés au
+septième alinéa de cet article, de ne pas communiquer à la personne démarchée les informations mentionnées aux 1°, 2°, 3° et
+5° de l'article R. 341-16 et celles mentionnées au 7° de l'article L. 341-12, ou de les lui communiquer sans faire apparaître
+de manière claire le caractère commercial de sa démarche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1450 du 25 novembre 2005 - art. 5 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L341-1 (V)
+	  - Code monétaire et financier - art. L341-12 (V)
+	  - Code monétaire et financier - art. R341-16 (V)
 
 
 ## Livre IV : Les marchés
