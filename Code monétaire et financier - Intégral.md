@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-12-16
+Version Consolidée au 2005-12-31
 
 # Partie législative
 
@@ -550,22 +550,35 @@ de l'auteur.
 
 ### Titre III : Les instruments de la monnaie scripturale
 
-#### Chapitre Ier : Le chèque
+#### Chapitre Ier : Le chèque bancaire et postal
 
-##### Section 1 : Le chèque bancaire
-
-##### Sous-section 1 : Dispositions générales.
+##### Section 1 : Dispositions générales
 
 ###### Article L131-1
 
-Dans la présente section, le mot " banquier " comprend aussi les personnes ou institutions assimilées aux établissements de
+Dans le présent chapitre, le mot "banquier" comprend aussi les personnes ou institutions assimilées aux établissements de
 crédit par le présent code.
+
+**Nota:**
+
+Nota : Loi 2005-516 2005-05-20 art. 16 V :
+
+1 - Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du
+2 juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par
+ces dispositions.
+
+2 - Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -582,7 +595,7 @@ crédit par le présent code.
 	  - Décret-loi du 30 octobre 1935 - art. 58 (Ab)
 
 
-##### Sous-section 2 : Création et forme du chèque.
+##### Section 2 : Création et forme du chèque
 
 ###### Article L131-2
 
@@ -601,11 +614,18 @@ titre ;
 
 6. La signature de celui qui émet le chèque, nommé le tireur.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Cité par**:
 
@@ -616,40 +636,63 @@ titre ;
 	  - Décret-loi 1935-10-30 art. 1
 	  - Décret-loi du 30 octobre 1935 - art. 1 (Ab)
 
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-3
 
 Le titre dans lequel une des énonciations indiquées à l'article L. 131-2 fait défaut ne vaut pas comme chèque, sauf dans les
-cas déterminés par les alinéas suivants.
+cas déterminés par les alinéas suivants. 
 
 A défaut d'indication spéciale, le lieu désigné à côté du nom du tiré est réputé être le lieu de paiement. Si plusieurs lieux
-sont indiqués à côté du nom du tiré, le chèque est payable au premier lieu indiqué.
+sont indiqués à côté du nom du tiré, le chèque est payable au premier lieu indiqué. 
 
 A défaut de ces indications ou de toute autre indication, le chèque est payable au lieu où le tiré a son établissement
-principal.
+principal. 
 
 Le chèque sans indication du lieu de sa création est considéré comme souscrit dans le lieu désigné à côté du nom du tireur.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L131-2 (V)
 
 	**Anciens textes**:
 
 	  - Décret-loi 1935-10-30 art. 2
 	  - Décret-loi du 30 octobre 1935 - art. 2 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L131-2 (M)
-
 
 ###### Article L131-4
 
 Le chèque ne peut être tiré que sur un établissement de crédit, un prestataire de services d'investissement, le Trésor
-public, la Caisse des dépôts et consignations, la Banque de France, ayant au moment de la création du titre des fonds à la
+public, la Caisse des dépôts et consignations, la Banque de France, ayant au moment de la création du titre, des fonds à la
 disposition du tireur et conformément à une convention expresse ou tacite d'après laquelle le tireur a le droit de disposer
 de ces fonds par chèque.
 
@@ -662,6 +705,17 @@ de la création du titre ; sinon il est tenu de le garantir quoique le protêt a
 Les titres tirés et payables en France sous forme de chèques sur toute autre personne que celles mentionnées au premier
 alinéa du présent article ne sont pas valables comme chèques.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -673,6 +727,10 @@ alinéa du présent article ne sont pas valables comme chèques.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-5
 
@@ -680,6 +738,17 @@ Le chèque ne peut pas être accepté. Une mention d'acceptation portée sur le 
 
 Toutefois, le tiré a la faculté de viser le chèque ; le visa a pour effet de constater l'existence de la provision à la date
 à laquelle il est donné.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -691,6 +760,10 @@ Toutefois, le tiré a la faculté de viser le chèque ; le visa a pour effet de 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-6
@@ -708,6 +781,17 @@ porteur.
 
 Le chèque sans indication du bénéficiaire vaut comme chèque au porteur.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -719,6 +803,10 @@ Le chèque sans indication du bénéficiaire vaut comme chèque au porteur.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-7
 
@@ -729,12 +817,18 @@ Le chèque peut être tiré pour le compte d'un tiers.
 Le chèque ne peut être tiré sur le tireur lui-même, sauf dans le cas où il s'agit d'un chèque tiré entre différents
 établissements d'un même tireur et à condition que ce chèque ne soit pas au porteur.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L131-14 (V)
-	  - Code monétaire et financier - art. R131-2 (V)
 
 	**Anciens textes**:
 
@@ -745,10 +839,30 @@ Le chèque ne peut être tiré sur le tireur lui-même, sauf dans le cas où il 
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L131-14 (V)
+	  - Code monétaire et financier - art. R131-2 (V)
+
 
 ###### Article L131-8
 
 Toute stipulation d'intérêts insérée dans le chèque est réputée non écrite.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -761,6 +875,10 @@ Toute stipulation d'intérêts insérée dans le chèque est réputée non écri
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-9
 
@@ -769,6 +887,17 @@ localité, à condition toutefois que le tiers soit un banquier ou un centre de 
 
 Cette domiciliation ne peut, au surplus, être faite contre la volonté du porteur, à moins que le chèque ne soit barré et que
 la domiciliation n'ait lieu à la Banque de France, sur la même place.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -781,6 +910,10 @@ la domiciliation n'ait lieu à la Banque de France, sur la même place.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-10
 
@@ -789,6 +922,17 @@ somme écrite en toutes lettres.
 
 Le chèque dont le montant est écrit plusieurs fois, soit en toutes lettres, soit en chiffres, ne vaut, en cas de différence,
 que pour la moindre somme.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -801,12 +945,27 @@ que pour la moindre somme.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-11
 
 Si le chèque porte des signatures de personnes incapables de s'obliger par chèques, des signatures fausses ou des signatures
 de personnes imaginaires, ou des signatures qui, pour toute autre raison, ne sauraient obliger les personnes qui ont signé le
 chèque, ou au nom desquelles il a été signé, les obligations des autres signataires n'en sont pas moins valables.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -819,12 +978,27 @@ chèque, ou au nom desquelles il a été signé, les obligations des autres sign
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-12
 
 Quiconque appose sa signature sur un chèque, comme représentant d'une personne pour laquelle il n'avait pas le pouvoir
 d'agir, est obligé lui-même en vertu du chèque et, s'il a payé, a les mêmes droits qu'aurait eus le prétendu représenté. Il
 en est de même du représentant qui a dépassé ses pouvoirs.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -837,10 +1011,25 @@ en est de même du représentant qui a dépassé ses pouvoirs.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-13
 
 Le tireur est garant du paiement. Toute clause par laquelle le tireur s'exonère de cette garantie est réputée non écrite.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -853,22 +1042,37 @@ Le tireur est garant du paiement. Toute clause par laquelle le tireur s'exonère
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-14
 
 Tout chèque pour lequel la provision correspondante existe à la disposition du tireur doit être certifié par le tiré si le
 tireur ou le porteur le demande, sauf la faculté pour le tiré de remplacer ce chèque par un chèque émis dans les conditions
-prévues au troisième alinéa de l'article L. 131-7.
+prévues au troisième alinéa de l'article L. 131-7. 
 
 La provision du chèque certifié reste, sous la responsabilité du tiré, bloquée au profit du porteur jusqu'au terme du délai
 de présentation fixé par l'article L. 131-32.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-32 (M)
-	  - Code monétaire et financier - art. L131-7 (M)
+	  - Code monétaire et financier - art. L131-32 (V)
+	  - Code monétaire et financier - art. L131-7 (V)
 
 	**Anciens textes**:
 
@@ -879,11 +1083,26 @@ de présentation fixé par l'article L. 131-32.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-15
 
 Toute personne qui remet un chèque en paiement doit justifier de son identité au moyen d'un document officiel portant sa
 photographie.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -896,8 +1115,12 @@ photographie.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Sous-section 3 : Transmission.
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+
+##### Section 3 : Transmission
 
 ###### Article L131-16
 
@@ -906,6 +1129,17 @@ voie de l'endossement.
 
 Le chèque stipulé payable au profit d'une personne dénommée avec la clause " non à ordre " ou une clause équivalente n'est
 transmissible que dans la forme et avec les effets d'une cession ordinaire.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -918,11 +1152,26 @@ transmissible que dans la forme et avec les effets d'une cession ordinaire.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-17
 
 L'endossement peut être fait même au profit du tireur ou de tout autre obligé. Ces personnes peuvent endosser le chèque à
 nouveau.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -934,6 +1183,10 @@ nouveau.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-18
@@ -949,6 +1202,17 @@ L'endossement au porteur vaut comme un endossement en blanc.
 L'endossement au tiré ne vaut que comme quittance, sauf dans le cas où le tiré a plusieurs établissements et où l'endossement
 est fait au bénéfice d'un établissement autre que celui sur lequel le chèque a été tiré.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -960,6 +1224,10 @@ est fait au bénéfice d'un établissement autre que celui sur lequel le chèque
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-19
 
@@ -968,6 +1236,17 @@ l'endosseur. La signature de celui-ci est apposée, soit à la main, soit par to
 
 L'endossement peut ne pas désigner le bénéficiaire ou consister simplement dans la signature de l'endosseur nommé endossement
 en blanc. Dans ce dernier cas, l'endossement, pour être valable, doit être inscrit au dos du chèque ou sur l'allonge.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -979,6 +1258,10 @@ en blanc. Dans ce dernier cas, l'endossement, pour être valable, doit être ins
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-20
@@ -993,6 +1276,17 @@ Si l'endossement est en blanc, le porteur peut :
 
 3. Remettre le chèque à un tiers, sans remplir le blanc et sans l'endosser.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1004,6 +1298,10 @@ Si l'endossement est en blanc, le porteur peut :
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-21
 
@@ -1011,6 +1309,17 @@ L'endosseur est, sauf clause contraire, garant du paiement.
 
 Il peut interdire un nouvel endossement ; dans ce cas, il n'est pas tenu à la garantie envers les personnes auxquelles le
 chèque est ultérieurement endossé.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1023,6 +1332,10 @@ chèque est ultérieurement endossé.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-22
 
@@ -1031,11 +1344,26 @@ ininterrompue d'endossements, même si le dernier endossement est en blanc. Les 
 non écrits. Quand un endossement en blanc est suivi d'un autre endossement, le signataire de celui-ci est réputé avoir acquis
 le chèque par l'endossement en blanc.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -1053,6 +1381,17 @@ le chèque par l'endossement en blanc.
 Un endossement figurant sur un chèque au porteur rend l'endosseur responsable aux termes des dispositions qui régissent le
 recours ; il ne convertit d'ailleurs pas le titre en un chèque à ordre.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1064,6 +1403,10 @@ recours ; il ne convertit d'ailleurs pas le titre en un chèque à ordre.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-24
 
@@ -1071,20 +1414,35 @@ Lorsqu'une personne a été dépossédée d'un chèque à ordre par quelque év�
 son droit de la manière indiquée à l'article L. 131-22, n'est tenu de se dessaisir du chèque que s'il l'a acquis de mauvaise
 foi ou si, en l'acquérant, il a commis une faute lourde.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L131-22 (M)
 
 	**Anciens textes**:
 
 	  - Décret-loi 1935-10-30 art. 21
 	  - Décret-loi du 30 octobre 1935 - art. 21 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L131-22 (V)
 
 
 ###### Article L131-25
@@ -1092,6 +1450,17 @@ foi ou si, en l'acquérant, il a commis une faute lourde.
 Les personnes actionnées en vertu du chèque ne peuvent pas opposer au porteur les exceptions fondées sur leurs rapports
 personnels avec le tireur ou avec les porteurs antérieurs, à moins que le porteur, en acquérant le chèque, n'ait agi
 sciemment au détriment du débiteur.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1103,6 +1472,10 @@ sciemment au détriment du débiteur.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-26
@@ -1116,6 +1489,17 @@ Les obligés ne peuvent, dans ce cas, invoquer contre le porteur que les excepti
 Le mandat renfermé dans un endossement de procuration ne prend pas fin par le décès du mandant ou la survenance de son
 incapacité.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1126,6 +1510,10 @@ incapacité.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-27
@@ -1138,6 +1526,17 @@ présentation.
 
 Il est défendu d'antidater les ordres à peine de faux.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1149,14 +1548,29 @@ Il est défendu d'antidater les ordres à peine de faux.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Sous-section 4 : Aval.
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+
+##### Section 4 : Aval
 
 ###### Article L131-28
 
 Le paiement d'un chèque peut être garanti pour tout ou partie de son montant par un aval.
 
 Cette garantie est fournie par un tiers, sauf le tiré, ou même par un signataire du chèque.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1168,6 +1582,10 @@ Cette garantie est fournie par un tiers, sauf le tiré, ou même par un signatai
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-29
@@ -1181,6 +1599,17 @@ la signature du tireur.
 
 L'aval doit indiquer pour le compte de qui il est donné. A défaut de cette indication, il est réputé donné pour le tireur.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1191,6 +1620,10 @@ L'aval doit indiquer pour le compte de qui il est donné. A défaut de cette ind
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-30
@@ -1203,6 +1636,17 @@ forme.
 Quand il paie le chèque, le donneur d'aval acquiert les droits résultant du chèque contre le garanti et contre ceux qui sont
 tenus envers ce dernier en vertu du chèque.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1214,8 +1658,12 @@ tenus envers ce dernier en vertu du chèque.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Sous-section 5 : Présentation et paiement.
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+
+##### Section 5 : Présentation et paiement
 
 ###### Article L131-31
 
@@ -1223,11 +1671,26 @@ Le chèque est payable à vue. Toute mention contraire est réputée non écrite
 
 Le chèque présenté au paiement avant le jour indiqué comme date d'émission est payable le jour de la présentation.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -1252,11 +1715,18 @@ Pour l'application de l'alinéa précédent, les chèques émis dans un pays riv
 
 Le point de départ des délais indiqués au deuxième alinéa est le jour porté sur le chèque comme date d'émission.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L131-14 (V)
 
 	**Anciens textes**:
 
@@ -1267,11 +1737,30 @@ Le point de départ des délais indiqués au deuxième alinéa est le jour port�
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L131-14 (V)
+
 
 ###### Article L131-33
 
 Lorsqu'un chèque payable en France est émis dans un pays où est en usage un calendrier autre que le calendrier grégorien, le
 jour de l'émission est ramené au jour correspondant du calendrier grégorien.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1284,10 +1773,25 @@ jour de l'émission est ramené au jour correspondant du calendrier grégorien.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-34
 
 La présentation à une chambre de compensation équivaut à la présentation au paiement.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1299,6 +1803,10 @@ La présentation à une chambre de compensation équivaut à la présentation au
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-35
@@ -1316,11 +1824,31 @@ autre cause que celles prévues au présent article.
 Si, malgré cette défense, le tireur fait une opposition pour d'autres causes, le juge des référés, même dans le cas où une
 instance au principal est engagée, doit, sur la demande du porteur, ordonner la mainlevée de l'opposition.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-30 art. 32
+	  - Décret-loi du 30 octobre 1935 - art. 32 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cite**:
 
@@ -1332,15 +1860,21 @@ instance au principal est engagée, doit, sur la demande du porteur, ordonner la
 	  - Code monétaire et financier - art. L163-1 (V)
 	  - Code monétaire et financier - art. R131-51 (V)
 
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 32
-	  - Décret-loi du 30 octobre 1935 - art. 32 (Ab)
-
 
 ###### Article L131-36
 
 Ni le décès du tireur ni son incapacité survenant après l'émission ne touchent aux effets du chèque.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1352,6 +1886,10 @@ Ni le décès du tireur ni son incapacité survenant après l'émission ne touch
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-37
@@ -1373,6 +1911,17 @@ Les paiements partiels sur le montant d'un chèque sont à la décharge des tire
 
 Le porteur est tenu de faire protester le chèque pour le surplus.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1384,6 +1933,10 @@ Le porteur est tenu de faire protester le chèque pour le surplus.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-38
 
@@ -1391,6 +1944,17 @@ Celui qui paie un chèque sans opposition est présumé valablement libéré.
 
 Le tiré qui paie un chèque endossable est obligé de vérifier la régularité de la suite des endossements, mais non la
 signature des endosseurs.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1402,6 +1966,10 @@ signature des endosseurs.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-39
@@ -1421,7 +1989,26 @@ Les règles ci-énoncées ne s'appliquent pas au cas où le tireur stipule une c
 Si le montant du chèque est indiqué dans une monnaie ayant la même dénomination, mais une valeur différente, dans le pays
 d'émission et dans celui du paiement, on est présumé s'être référé à la monnaie du lieu du paiement.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -1433,23 +2020,26 @@ d'émission et dans celui du paiement, on est présumé s'être référé à la 
 	  - Décret-loi 1935-10-30 art. 36
 	  - Décret-loi du 30 octobre 1935 - art. 36 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 18 () JORF 7 mai 2005
-
 
 ###### Article L131-40
 
 En cas de perte du chèque, celui à qui il appartient peut en poursuivre le paiement sur un second, troisième, quatrième, etc.
 
-Si celui qui a perdu le chèque ne peut représenter le second, troisième, quatrième, etc., il peut demander le paiement du
+Si celui qui a perdu le chèque ne peut représenter le second, troisième, quatrième, etc, il peut demander le paiement du
 chèque perdu et l'obtenir par ordonnance du juge en justifiant de sa propriété par ses livres et en donnant caution.
 
-Dans toutes les dispositions de la présente section relatives à la perte du chèque, le vol est assimilé à la perte.
+Dans toutes les dispositions du présent chapitre relatives à la perte du chèque, le vol est assimilé à la perte.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1462,6 +2052,10 @@ Dans toutes les dispositions de la présente section relatives à la perte du ch
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -1477,6 +2071,17 @@ tous ses droits par un acte de protestation. Cet acte doit être fait au plus ta
 l'expiration du délai de présentation. Les avis prescrits par l'article L. 131-49 doivent être donnés au tireur et aux
 endosseurs dans les délais fixés par cet article.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1487,10 +2092,14 @@ endosseurs dans les délais fixés par cet article.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-40 (M)
-	  - Code monétaire et financier - art. L131-49 (M)
+	  - Code monétaire et financier - art. L131-40 (V)
+	  - Code monétaire et financier - art. L131-49 (V)
 
 
 ###### Article L131-42
@@ -1498,6 +2107,17 @@ endosseurs dans les délais fixés par cet article.
 Le propriétaire du chèque égaré doit, pour s'en procurer le second, s'adresser à son endosseur immédiat qui est tenu de lui
 prêter son nom et ses soins pour agir envers son propre endosseur et ainsi en remontant d'endosseur à endosseur jusqu'au
 tireur du chèque. Le propriétaire du chèque égaré supporte les frais.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1509,11 +2129,26 @@ tireur du chèque. Le propriétaire du chèque égaré supporte les frais.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-43
 
 L'engagement de la caution mentionné dans l'article L. 131-40 est éteint après six mois si, pendant ce temps, il n'y a eu ni
 demandes ni poursuites en justice.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1521,17 +2156,20 @@ demandes ni poursuites en justice.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-40 (M)
+	  - Code monétaire et financier - art. L131-40 (V)
 
 	**Anciens textes**:
 
-	  - Décret-loi 1935-10-30 art. 36 d
 	  - Décret-loi du 30 octobre 1935 - art. 36 d (Ab)
 
 
-##### Sous-section 6 : Chèque barré.
+##### Section 6 : Chèque barré
 
 ###### Article L131-44
 
@@ -1547,6 +2185,17 @@ barrement général.
 
 Le biffage du barrement ou du nom du banquier désigné est réputé non avenu.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1557,6 +2206,10 @@ Le biffage du barrement ou du nom du banquier désigné est réputé non avenu.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-45
@@ -1576,6 +2229,17 @@ dont l'un pour encaissement par une chambre de compensation.
 Le tiré ou le banquier qui n'observe pas les dispositions ci-dessus est responsable du préjudice jusqu'à concurrence du
 montant du chèque.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1587,10 +2251,25 @@ montant du chèque.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-46
 
 Les chèques à porter en compte émis à l'étranger et payables sur le territoire français sont traités comme chèques barrés.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1603,19 +2282,30 @@ Les chèques à porter en compte émis à l'étranger et payables sur le territo
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Sous-section 7 : Recours en cas de non paiement.
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+
+##### Section 7 : Recours en cas de non paiement
 
 ###### Article L131-47
 
 Le porteur peut exercer ses recours contre les endosseurs, le tireur et les autres obligés, si le chèque, présenté en temps
 utile, n'est pas payé et si le refus de paiement est constaté par un acte authentique nommé protêt.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Cité par**:
 
@@ -1626,12 +2316,31 @@ utile, n'est pas payé et si le refus de paiement est constaté par un acte auth
 	  - Décret-loi 1935-10-30 art. 40
 	  - Décret-loi du 30 octobre 1935 - art. 40 (Ab)
 
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-48
 
 Le protêt doit être fait avant l'expiration du délai de présentation.
 
 Si la présentation a lieu le dernier jour du délai, le protêt peut être établi le premier jour ouvrable suivant.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1643,6 +2352,10 @@ Si la présentation a lieu le dernier jour du délai, le protêt peut être éta
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-49
@@ -1672,11 +2385,18 @@ donnant l'avis a été mise à la poste dans ledit délai.
 Celui qui ne donne pas l'avis dans le délai ci-dessus indiqué n'encourt pas la déchéance ; il est responsable, s'il y a lieu,
 du préjudice causé par sa négligence, sans que les dommages-intérêts puissent dépasser le montant du chèque.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Cité par**:
 
@@ -1687,6 +2407,14 @@ du préjudice causé par sa négligence, sans que les dommages-intérêts puisse
 
 	  - Décret-loi 1935-10-30 art. 42
 	  - Décret-loi du 30 octobre 1935 - art. 42 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-50
@@ -1702,6 +2430,17 @@ un endosseur ou un avaliseur, elle produit ses effets seulement à l'égard de c
 tireur, le porteur fait établir le protêt, les frais en restent à sa charge. Quand la clause émane d'un endosseur ou d'un
 avaliseur, les frais du protêt, s'il en est dressé un, peuvent être recouvrés contre tous les signataires.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1712,6 +2451,10 @@ avaliseur, les frais du protêt, s'il en est dressé un, peuvent être recouvré
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-51
@@ -1726,6 +2469,17 @@ Le même droit appartient à tout signataire d'un chèque qui a remboursé celui
 L'action intentée contre un des obligés n'empêche pas d'agir contre les autres, même postérieurs à celui qui a été d'abord
 poursuivi.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1736,6 +2490,10 @@ poursuivi.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-52
@@ -1748,20 +2506,35 @@ Le porteur peut réclamer à celui contre lequel il exerce son recours :
 
 3. Les frais de protêt, ceux des avis donnés, ainsi que les autres frais.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L163-9 (V)
 
 	**Anciens textes**:
 
 	  - Décret-loi 1935-10-30 art. 45
 	  - Décret-loi du 30 octobre 1935 - art. 45 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L163-9 (V)
 
 
 ###### Article L131-53
@@ -1774,6 +2547,17 @@ Celui qui a remboursé le chèque peut réclamer à ses garants :
 
 3. Les frais qu'il a faits.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1785,6 +2569,10 @@ Celui qui a remboursé le chèque peut réclamer à ses garants :
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-54
 
@@ -1792,6 +2580,17 @@ Tout obligé contre lequel un recours est exercé ou qui est exposé à un recou
 du chèque avec le protêt et un compte acquitté.
 
 Tout endosseur qui a remboursé le chèque peut biffer son endossement et ceux des endosseurs subséquents.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1804,43 +2603,62 @@ Tout endosseur qui a remboursé le chèque peut biffer son endossement et ceux d
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-55
 
 Quand la présentation du chèque ou la confection du protêt dans les délais prescrits est empêchée par un obstacle
-insurmontable comme la prescription légale ou autre cas de force majeure, ces délais sont prolongés.
+insurmontable comme la prescription légale ou autre cas de force majeure, ces délais sont prolongés. 
 
 Le porteur est tenu de donner, sans retard, avis du cas de force majeure à son endosseur et de mentionner cet avis, daté et
-signé de lui, sur le chèque ou sur une allonge ; pour le surplus, les dispositions de l'article L. 131-49 sont applicables.
+signé de lui, sur le chèque ou sur une allonge ; pour le surplus, les dispositions de l'article L. 131-49 sont applicables. 
 
 Après la cessation de la force majeure, le porteur doit, sans retard, présenter le chèque au paiement et, s'il y a lieu,
-faire établir le protêt.
+faire établir le protêt. 
 
 Si la force majeure persiste au-delà de quinze jours à partir de la date à laquelle le porteur a, même avant l'expiration du
 délai de présentation, donné avis de la force majeure à son endosseur, les recours peuvent être exercés, sans que ni la
 présentation ni le protêt soit nécessaire, à moins que ces recours ne se trouvent suspendus pour une période plus longue, par
-application de l'article L. 511-61 du code de commerce.
+application de l'article L. 511-61 du code de commerce. 
 
 Ne sont pas considérés comme constituant des cas de force majeure les faits purement personnels au porteur ou à celui qu'il a
 chargé de la présentation du chèque ou de l'établissement du protêt.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de commerce. - art. L511-61 (V)
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 48
-	  - Décret-loi du 30 octobre 1935 - art. 48 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Sous-section 8 : Etablissement de chèques en plusieurs exemplaires.
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Cite**:
+
+	  - Code de commerce - art. L511-61 (V)
+	  - Code monétaire et financier - art. L131-49 (V)
+
+	**Anciens textes**:
+
+	  - Décret-loi du 30 octobre 1935 - art. 48 (Ab)
+
+
+##### Section 8 : Etablissement de chèques en plusieurs exemplaires
 
 ###### Article L131-56
 
@@ -1848,6 +2666,17 @@ Sauf les chèques au porteur, tout chèque émis dans un pays et payable dans un
 même pays et vice versa, ou bien émis et payable dans la même partie ou dans diverses parties d'outre-mer du même pays, peut
 être tiré en plusieurs exemplaires identiques. Lorsqu'un chèque est établi en plusieurs exemplaires, ces exemplaires doivent
 être numérotés dans le texte même du titre, faute de quoi chacun d'eux est considéré comme un chèque distinct.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1865,6 +2694,10 @@ même pays et vice versa, ou bien émis et payable dans la même partie ou dans 
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-57
 
@@ -1873,6 +2706,17 @@ des autres exemplaires.
 
 L'endosseur qui a transmis les exemplaires à différentes personnes, ainsi que les endosseurs subséquents, sont tenus à raison
 de tous les exemplaires portant leur signature qui n'ont pas été restitués.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1885,13 +2729,28 @@ de tous les exemplaires portant leur signature qui n'ont pas été restitués.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Sous-section 9 : Altération.
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+
+##### Section 9 : Altération
 
 ###### Article L131-58
 
 En cas d'altération du texte du chèque, les signataires postérieurs à cette altération sont tenus dans les termes du texte
 altéré ; les signataires antérieurs le sont dans les termes du texte originaire.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1904,8 +2763,12 @@ altéré ; les signataires antérieurs le sont dans les termes du texte originai
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Sous-section 10 : Prescription.
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+
+##### Section 10 : Prescription
 
 ###### Article L131-59
 
@@ -1919,11 +2782,26 @@ contre le tiré se prescrit par un an à partir de l'expiration du délai de pr�
 Toutefois, en cas de déchéance ou de prescription, il subsiste une action contre le tireur qui n'a pas fait provision ou les
 autres obligés qui se seraient enrichis injustement.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -1947,6 +2825,17 @@ L'interruption de la prescription n'a d'effet que contre celui à l'égard duque
 Néanmoins, les prétendus débiteurs sont tenus, s'ils en sont requis, d'affirmer sous serment qu'ils ne sont plus redevables
 et leurs veuves, héritiers ou ayants cause, qu'ils estiment de bonne foi ne plus rien devoir.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1958,13 +2847,28 @@ et leurs veuves, héritiers ou ayants cause, qu'ils estiment de bonne foi ne plu
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Sous-section 11 : Protêt.
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+
+##### Section 11 : Protêt
 
 ###### Article L131-61
 
 Le protêt doit être fait, par un notaire ou par un huissier, au domicile de celui sur qui le chèque était payable, ou à son
 dernier domicile connu. En cas de fausse indication de domicile, le protêt est précédé d'un acte de perquisition.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1977,6 +2881,10 @@ dernier domicile connu. En cas de fausse indication de domicile, le protêt est 
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-62
 
@@ -1986,6 +2894,17 @@ ou le refus de signer et, en cas de paiement partiel, le montant de la somme qui
 
 Les notaires et huissiers sont tenus, à peine de dommages-intérêts, de faire, sous leur signature, mention sur le chèque du
 protêt avec sa date.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -1998,26 +2917,44 @@ protêt avec sa date.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-63
 
 Nul acte de la part du porteur du chèque ne peut suppléer l'acte de protêt, hors le cas prévu par les articles L. 131-40 à L.
 131-43 touchant la perte du chèque.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 56
-	  - Décret-loi du 30 octobre 1935 - art. 56 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 	**Cite**:
 
-	  - Code monétaire et financier L131-40 à L131-43
+	  - Code monétaire et financier - art. L131-40 (V)
+
+	**Anciens textes**:
+
+	  - Décret-loi du 30 octobre 1935 - art. 56 (Ab)
 
 
 ###### Article L131-64
@@ -2027,6 +2964,17 @@ copie exacte des protêts. Sous les mêmes sanctions, ils sont également tenus 
 tribunal de commerce ou du tribunal de grande instance statuant commercialement du domicile du débiteur, ou de lui adresser,
 par lettre recommandée avec demande d'avis de réception, deux copies exactes des protêts, dont l'une est destinée au
 parquet ; cette formalité doit être accomplie dans la quinzaine de l'acte.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -2043,17 +2991,36 @@ parquet ; cette formalité doit être accomplie dans la quinzaine de l'acte.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-65
 
 Les dispositions des articles L. 511-56 à L. 511-61 du code de commerce sont applicables au protêt dressé faute de paiement
 d'un chèque.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cite**:
 
@@ -2065,26 +3032,52 @@ d'un chèque.
 Aucune prorogation de délai, ni légale, ni judiciaire, n'est admise, sauf dans les cas prévus par l'article L. 511-61 du code
 de commerce.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L511-61 (V)
 
 	**Anciens textes**:
 
 	  - Décret-loi 1935-10-30 art. 61
 	  - Décret-loi du 30 octobre 1935 - art. 61 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L511-61 (V)
-
 
 ###### Article L131-67
 
 La remise d'un chèque en paiement, acceptée par un créancier, n'entraîne pas novation. En conséquence, la créance originaire,
 avec toutes les garanties qui y sont attachées, subsiste jusqu'au paiement du chèque.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -2097,11 +3090,26 @@ avec toutes les garanties qui y sont attachées, subsiste jusqu'au paiement du c
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article L131-68
 
 Indépendamment des formalités prescrites pour l'exercice de l'action en garantie, le porteur d'un chèque protesté peut, en
 obtenant la permission du juge, saisir conservatoirement les effets mobiliers des endosseurs.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -2114,8 +3122,12 @@ obtenant la permission du juge, saisir conservatoirement les effets mobiliers de
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
 
-##### Sous-section 12 : Incidents de paiement et sanctions.
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+
+##### Section 12 : Incidents de paiement et sanctions
 
 ###### Article L131-69
 
@@ -2123,25 +3135,36 @@ Le tireur qui émet un chèque ne portant pas l'indication du lieu de l'émissio
 fausse date, celui qui tire un chèque sur une personne autre qu'un banquier, est passible d'une amende maximale de 6 % de la
 somme pour laquelle le chèque est tiré, sans que cette amende puisse être inférieure à 0,75 euro.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L745-7-4 (V)
-	  - Code monétaire et financier - art. L755-7-4 (V)
 
 	**Anciens textes**:
 
 	  - Décret-loi 1935-10-30 art. 64
 	  - Décret-loi du 30 octobre 1935 - art. 64 (Ab)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L745-7-4 (V)
+	  - Code monétaire et financier - art. L755-7-4 (V)
 
 
 ###### Article L131-70
@@ -2154,6 +3177,17 @@ Tout banquier qui, ayant provision et en l'absence de toute opposition, refuse d
 ses caisses est tenu responsable du dommage résultant, pour le tireur, tant de l'inexécution de son ordre que de l'atteinte
 portée à son crédit.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -2161,13 +3195,13 @@ portée à son crédit.
 	  - Décret-loi 1935-10-30 art. 65
 	  - Décret-loi du 30 octobre 1935 - art. 65 (Ab)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-71
@@ -2189,11 +3223,26 @@ est payable.
 
 Elles mentionnent également l'adresse du titulaire du compte.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -2225,11 +3274,26 @@ Les dispositions du présent article doivent être observées par le banquier qu
 de provision suffisante et par tout banquier qui a été informé de l'incident de paiement, notamment par la Banque de France,
 en application de l'article L. 131-85.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -2290,6 +3354,17 @@ En tout état de cause, les frais de toute nature qu'occasionne le rejet d'un ch
 tireur. Lorsque le montant du chèque rejeté est inférieur à 50 euros, les frais perçus par le tiré ne peuvent excéder un
 montant fixé par décret.
 
+**Nota:**
+
+Nota : Loi 2005-516 2005-05-20 art. 16 V :
+
+1 - Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du
+2 juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par
+ces dispositions.
+
+2 - Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -2300,10 +3375,6 @@ montant fixé par décret.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 15 (V)
 
 	**Liens**:
 
@@ -2352,6 +3423,10 @@ montant fixé par décret.
 	  - Code monétaire et financier - art. R712-20 (V)
 	  - Code rural et de la pêche maritime - art. L351-6-1 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 	**Cite**:
 
 	  - Code monétaire et financier L131-75 à L131-77
@@ -2362,6 +3437,17 @@ montant fixé par décret.
 Tout versement effectué par le tireur sur le compte duquel a été émis le chèque impayé est affecté en priorité à la
 constitution d'une provision pour paiement intégral de celui-ci.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -2371,6 +3457,10 @@ constitution d'une provision pour paiement intégral de celui-ci.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L131-75
@@ -2389,6 +3479,17 @@ de provision suffisante au cours du délai de deux mois prévu au même alinéa.
 
 Lorsque le délai prévu au deuxième alinéa expire un jour non ouvré, il est prolongé jusqu'au premier jour ouvré suivant.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -2397,11 +3498,15 @@ Lorsque le délai prévu au deuxième alinéa expire un jour non ouvré, il est 
 
 	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 15 (V)
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 36 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-73 (M)
+	  - Code monétaire et financier - art. L131-73
 
 	**Cité par**:
 
@@ -2429,16 +3534,35 @@ Le montant de la pénalité libératoire prévue à l'article L. 131-75 est port
 mandataire a déjà procédé à trois régularisations lui ayant permis de recouvrer la faculté d'émettre des chèques en
 application des articles L. 131-73 et L. 131-75 au cours des douze mois qui précédent l'incident de paiement.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 36 (V)
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-73 (M)
-	  - Code monétaire et financier - art. L131-75 (M)
+	  - Code monétaire et financier - art. L131-73
+	  - Code monétaire et financier - art. L131-75
 
 	**Cité par**:
 
@@ -2463,16 +3587,35 @@ application des articles L. 131-73 et L. 131-75 au cours des douze mois qui pré
 Les pénalités libératoires prévues par les articles L. 131-75 et L. 131-76 sont versées au Trésor public dans les conditions
 prévues par décret en Conseil d'Etat.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 36 (V)
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-75 (M)
-	  - Code monétaire et financier - art. L131-76 (M)
+	  - Code monétaire et financier - art. L131-75
+	  - Code monétaire et financier - art. L131-76
 
 	**Anciens textes**:
 
@@ -2487,7 +3630,26 @@ qu'il a procédé à la régularisation dans les conditions prévues aux article
 procédé à cette régularisation, il ne recouvre la faculté d'émettre des chèques qu'à l'issue d'un délai de cinq ans qui court
 à compter de l'injonction.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -2503,14 +3665,6 @@ procédé à cette régularisation, il ne recouvre la faculté d'émettre des ch
 	  - Décret-loi 1935-10-30 art. 65-3-4
 	  - Décret-loi du 30 octobre 1935 - art. 65-3-4 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 23 (V) JORF 16 mai 2001
-
 
 ###### Article L131-79
 
@@ -2520,21 +3674,36 @@ Les contestations relatives à l'interdiction d'émettre des chèques et aux pé
 L'action en justice devant la juridiction civile n'a pas d'effet suspensif. Toutefois, la juridiction saisie peut, même en
 référé, ordonner la suspension de l'interdiction d'émettre des chèques en cas de contestation sérieuse.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L131-75 (M)
-	  - Code monétaire et financier - art. L131-76 (M)
 
 	**Anciens textes**:
 
 	  - Décret-loi 1935-10-30 art. 65-3-5
 	  - Décret-loi du 30 octobre 1935 - art. 65-3-5 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L131-75 (M)
+	  - Code monétaire et financier - art. L131-76 (M)
 
 
 ###### Article L131-80
@@ -2549,11 +3718,26 @@ désigné dans les conditions définies à l'alinéa précédent, les dispositio
 droit applicables à tous les titulaires du compte en ce qui concerne ce compte et les autres comptes dont ils pourraient être
 individuellement titulaires.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cite**:
 
@@ -2587,11 +3771,26 @@ légales et réglementaires relatives à l'ouverture du compte et à la délivra
 obligations légales et réglementaires résultant des incidents de paiement, notamment en ce qui concerne l'injonction d'avoir
 à restituer les formules de chèques.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cite**:
 
@@ -2622,6 +3821,17 @@ peut payer un chèque pour tout motif autre que l'absence ou l'insuffisance de p
 
 Les dispositions du présent article sont d'ordre public.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -2630,7 +3840,7 @@ Les dispositions du présent article sont d'ordre public.
 
 	**Modifié par**:
 
-	  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cite**:
 
@@ -2656,7 +3866,26 @@ Il peut, à défaut de prélèvement d'office sur le compte et sans préjudice d
 demeure par huissier de justice au titulaire du compte d'avoir à payer la somme qui lui est due en application de l'alinéa
 précédent.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cite**:
 
@@ -2666,10 +3895,6 @@ précédent.
 
 	  - Décret-loi 1935-10-30 art. 73-2 al. 1 et al. 2
 
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
 
 ###### Article L131-84
 
@@ -2677,11 +3902,26 @@ Le tiré qui a refusé le paiement d'un chèque pour défaut de provision suffis
 formules de chèque ont été délivrées ou qui a enregistré une opposition pour perte ou vol de chèques ou de formules de chèque
 en avise la Banque de France.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -2705,7 +3945,7 @@ Seule la Banque de France assure la centralisation des informations prévues à 
 Pour l'application du premier alinéa, la Banque de France reçoit de l'administration des impôts les informations détenues par
 celle-ci en application de l'article 1649 A du code général des impôts, qui permettent d'identifier l'ensemble des comptes
 ouverts par les personnes physiques ou morales mentionnées à l'article L. 131-72 et au deuxième alinéa de l'article L. 163-6
-et sur lesquels peuvent être tirés des chèques. Elle lui fournit, aux seules fins poursuivies par la présente section, les
+et sur lesquels peuvent être tirés des chèques. Elle lui fournit, aux seules fins poursuivies par le présent chapitre, les
 renseignements permettant d'identifier les titulaires de ces comptes.
 
 Elle communique également au procureur de la République les renseignements concernant les infractions réprimées par les
@@ -2714,22 +3954,29 @@ troisième et quatrième alinéas de l'article L. 163-2 et par les premier et de
 Les dispositions de l'article L. 163-11 ne font pas obstacle à ce que les établissements de crédit utilisent ces informations
 comme élément d'appréciation avant d'accorder un financement ou une ouverture de crédit.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 A
-	  - Code monétaire et financier - art. L163-2 (M)
-	  - Code monétaire et financier - art. L163-6 (M)
-	  - Code monétaire et financier - art. L163-7 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 	**Cité par**:
 
-	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 4 (V)
 	  - Code monétaire et financier - art. L131-72 (V)
 	  - Code monétaire et financier - art. L131-87 (V)
 	  - Code monétaire et financier - art. L163-11 (V)
@@ -2739,6 +3986,7 @@ comme élément d'appréciation avant d'accorder un financement ou une ouverture
 	  - Code monétaire et financier - art. R131-42 (V)
 	  - Code monétaire et financier - art. R711-12-1 (V)
 	  - Code monétaire et financier - art. R712-20 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 4 (V)
 	  - Livre des procédures fiscales - art. L135 I (V)
 
 	**Anciens textes**:
@@ -2754,14 +4002,29 @@ comme élément d'appréciation avant d'accorder un financement ou une ouverture
 ###### Article L131-86
 
 La Banque de France assure l'information de toute personne qui, lors de la remise d'un chèque pour le paiement d'un bien ou
-d'un service, souhaite vérifier la régularité, au regard de la présente section, de l'émission de celui-ci. L'origine de ces
+d'un service, souhaite vérifier la régularité, au regard du présent chapitre, de l'émission de celui-ci. L'origine de ces
 demandes d'information donne lieu à enregistrement.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -2777,11 +4040,22 @@ demandes d'information donne lieu à enregistrement.
 
 ###### Article L131-87
 
-Les mesures d'application de la présente section sont, en tant que de besoin, déterminées par décret en Conseil d'Etat. Ce
+Les mesures d'application du présent chapitre sont, en tant que de besoin, déterminées par décret en Conseil d'Etat. Ce
 décret fixe notamment les modalités selon lesquelles l'injonction est portée à la connaissance du titulaire du compte et
 précise également ses droits et obligations ainsi que les conditions dans lesquelles il peut régulariser sa situation. Il
 détermine également les conditions dans lesquelles la Banque de France assure les obligations qui lui incombent en
 application des articles L. 131-85 et L. 131-86.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -2794,46 +4068,14 @@ application des articles L. 131-85 et L. 131-86.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cite**:
-
-	  - Code monétaire et financier - art. L131-85 (M)
-	  - Code monétaire et financier - art. L131-86 (M)
-
-
-##### Section 2 : Le chèque postal.
-
-###### Article L131-88
-
-Les règles relatives au chèque postal sont fixées par les articles L. 98 à L. 109 du code des postes et communications
-électroniques.
-
-**Nota:**
-
-Nota : Loi 2005-516 2005-05-20 art. 16 V :
-
-1 - Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du
-2 juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par
-ces dispositions.
-
-2 - Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
-2005 fixe la date de transfert prévu au 31 décembre 2005.
-
-Nota 2 : Les articles L. 102, L. 103, L. 103-1 et le 3° de l'article L. 104 du code des postes et communications
-électroniques sont abrogés par l'article 20 de la loi n° 91-1382 du 30 décembre 1991.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cite**:
 
-	  - Code des postes et communications électroniques L98 à L109
+	  - Code monétaire et financier - art. L131-85 (M)
+	  - Code monétaire et financier - art. L131-86 (M)
 
 
 #### Chapitre II : La carte de paiement.
@@ -3027,34 +4269,44 @@ pouvoir dépasser cent vingt jours à compter de l'opération contestée.
 
 Les établissements de crédit, les entreprises d'investissement, les succursales situées en France d'établissements de crédit
 étrangers, d'entreprises d'investissement étrangères, d'établissements financiers étrangers tels que définis à l'article L.
-511-21 et, par exception à l'article L. 518-1, le Trésor public, les services financiers de La Poste, la Banque de France,
-l'Institut d'émission des départements d'outre-mer, l'Institut d'émission d'outre-mer et la Caisse des dépôts et
-consignations respectent les dispositions suivantes lorsqu'ils effectuent des virements au sein de l'Espace économique
-européen libellés dans la monnaie d'un des Etats parties à l'accord sur l'Espace économique européen, sur ordre ou au
-bénéfice de leur clientèle :
+511-21 et, par exception à l'article L. 518-1, le Trésor public, la Banque de France, l'Institut d'émission des départements
+d'outre-mer, l'Institut d'émission d'outre-mer et la Caisse des dépôts et consignations respectent les dispositions suivantes
+lorsqu'ils effectuent des virements au sein de l'Espace économique européen libellés dans la monnaie d'un des Etats parties à
+l'accord sur l'Espace économique européen, sur ordre ou au bénéfice de leur clientèle : 
 
 1. Les retards dans l'exécution des virements effectués dont le montant est au plus égal à un seuil fixé par un arrêté du
 ministre chargé de l'économie donnent droit, même en l'absence de faute, sans préjudice des recours de droit commun et au
 plus tard quatorze jours ouvrables après l'exécution du virement, à une indemnité dont les modalités de calcul sont définies
-par ce même règlement ;
+par ce même règlement ; 
 
 2. Les virements mentionnés au 1 qui ne sont pas menés à leur fin donnent lieu, même en l'absence de faute et dans un délai
 de quatorze jours ouvrables après réception d'une demande, à restitution au donneur d'ordre des fonds en cause, dans une
-limite et selon des modalités définies par un arrêté du ministre chargé de l'économie.
+limite et selon des modalités définies par un arrêté du ministre chargé de l'économie. 
 
-Cette restitution est faite sans préjudice des recours de droit commun en matière de responsabilité.
+Cette restitution est faite sans préjudice des recours de droit commun en matière de responsabilité. 
 
 3. La restitution mentionnée au 2 n'est pas due si la non-exécution résulte soit d'une erreur ou omission du donneur d'ordre
 dans les instructions données à son établissement, soit du fait d'un établissement intermédiaire choisi par le donneur
-d'ordre.
+d'ordre. 
 
 Les établissements concernés doivent toutefois, dans ces circonstances, faire leurs meilleurs efforts pour faciliter la
-restitution des fonds en cause au donneur d'ordre ;
+restitution des fonds en cause au donneur d'ordre ; 
 
 4. La restitution mentionnée au 2 est à la charge de l'établissement du bénéficiaire du virement si la non-exécution est de
-son fait ou de celui d'un établissement intermédiaire choisi par lui ;
+son fait ou de celui d'un établissement intermédiaire choisi par lui ; 
 
 5. Un arrêté du ministre chargé de l'économie précise les modalités d'application du présent article.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -3062,13 +4314,21 @@ son fait ou de celui d'un établissement intermédiaire choisi par lui ;
 
 	  - Loi n°84-46 du 24 janvier 1984 - art. 93-3 (Ab)
 
+	**Cite**:
+
+	  - Loi n°90-568 1990-07-02 art. 15
+	  - Loi n°2005-516 2005-05-20
+	  - Code monétaire et financier - art. L511-21 (V)
+	  - Code monétaire et financier - art. L518-1 (V)
+	  - Code monétaire et financier L511-21, L518-1, 16
+
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -3081,11 +4341,6 @@ son fait ou de celui d'un établissement intermédiaire choisi par lui ;
 	  - Code monétaire et financier - art. L751-2 (VD)
 	  - Code monétaire et financier - art. L761-1 (V)
 	  - Code monétaire et financier - art. L761-1-1 (VD)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L511-21 (V)
-	  - Code monétaire et financier - art. L518-1 (M)
 
 
 #### Chapitre IV : La lettre de change et le billet à ordre.
@@ -3454,8 +4709,8 @@ Peuvent être titulaires de comptes à la Banque de France :
 
 1. Les organismes régis par les dispositions de l'article L. 511-9 ;
 
-2. Le Trésor public, les services financiers de La Poste, l'institut d'émission des départements d'outre-mer, l'institut
-d'émission d'outre-mer et la caisse des dépôts et consignations ;
+2. Le Trésor public, l'institut d'émission des départements d'outre-mer, l'institut d'émission d'outre-mer et la caisse des
+dépôts et consignations ;
 
 3. Les prestataires de services d'investissement régis par le titre III du livre V ;
 
@@ -3469,7 +4724,25 @@ titulaire de comptes de clientèle à la Banque de France au 6 août 1993 ;
 7. Tout autre organisme ou personne expressément autorisés par décision du Conseil général à ouvrir un compte à la Banque de
 France.
 
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°90-568 1990-07-02 art. 15
+	  - Loi n°2005-516 2005-05-20
+	  - Code monétaire et financier - art. L511-9 (V)
+	  - Code monétaire et financier L511-9, 16
 
 	**Anciens textes**:
 
@@ -3480,6 +4753,10 @@ France.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
 	**Cité par**:
 
 	  - Décret n°2012-1246 du 7 novembre 2012 - art. 197 (VD)
@@ -3488,10 +4765,6 @@ France.
 	  - Ordonnance n°2013-792 du 30 août 2013 - art. 13 (V)
 	  - Ordonnance n°2013-792 du 30 août 2013 - art. 7 (V)
 	  - Décret n°2017-61 du 23 janvier 2017 - art. 29
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L511-9 (V)
 
 
 ###### Article L141-9
@@ -4971,23 +6244,49 @@ l'exercice de laquelle l'infraction a été commise.
 
 ###### Article L163-11
 
-Est puni des peines prévues par l'article 226-21 du code pénal le fait, pour toute personne :
+Est puni des peines prévues par l'article 226-21 du code pénal le fait, pour toute personne : 
 
-1. D'utiliser, à d'autres fins que celles poursuivies par les articles L. 131-1 à L. 131-88 relatifs aux chèques et par les
+1.D'utiliser, à d'autres fins que celles poursuivies par les articles L. 131-1 à L. 131-87 relatifs aux chèques et par les
 articles L. 132-1 et L. 132-2 relatifs à la carte de paiement, les informations centralisées par la Banque de France en
-application du premier alinéa de l'article L. 131-85 ;
+application du premier alinéa de l'article L. 131-85 ; 
 
-2. D'assurer, aux lieu et place de la Banque de France, la centralisation des informations prévues par le premier alinéa de
+2.D'assurer, aux lieu et place de la Banque de France, la centralisation des informations prévues par le premier alinéa de
 l'article L. 131-85.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-30 art. 74 al. 5
+	  - Décret-loi du 30 octobre 1935 - art. 74 (Ab)
+
 	**Cite**:
 
-	  - Code pénal - art. 226-21 (M)
-	  - Code monétaire et financier - art. L132-1 (V)
-	  - Code monétaire et financier - art. L132-2 (M)
-	  - Code monétaire et financier L131-1 à L131-88, L132-1, L132-2, L131-85
+	  - Loi n°90-568 1990-07-02 art. 15
+	  - Loi n°2005-516 2005-05-20
+	  - Code pénal - art. 226-21 (V)
+	  - Code monétaire et financier - art. L131-1 (V)
+	  - Code monétaire et financier - art. L132-1 (VT)
+	  - Code monétaire et financier L131-1 à L131-87, L132-1, L132-2, L131-85, 16
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -4995,15 +6294,6 @@ l'article L. 131-85.
 	  - Code monétaire et financier - art. L131-85 (VD)
 	  - Code monétaire et financier - art. L341-9 (M)
 	  - Code monétaire et financier - art. L541-7 (M)
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 74 al. 5
-	  - Décret-loi du 30 octobre 1935 - art. 74 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
 ###### Article L163-12
@@ -9641,34 +10931,46 @@ I bis. - Sont également éligibles au quota d'investissement de 60 % mentionné
 fonds, les titres mentionnés au 3 de l'article L. 214-36, sous réserve que la société émettrice réponde aux conditions
 mentionnées au I, à l'exception de celle tenant à la non-cotation.
 
-I ter. - Sont pris en compte, pour le calcul du quota d'investissement mentionné au I, les titres de capital mentionnés au 3
-de l'article L. 214-36 émis par des sociétés qui ont pour objet principal la détention de participations financières et qui
-répondent aux conditions du premier alinéa du I, à l'exception de la non-cotation.
+I ter. - Abrogé.
 
-Ces titres sont retenus dans le quota d'investissement de 60 % et pour le calcul de la limite de 20 % prévue au I bis à
-concurrence du pourcentage d'investissement direct de l'actif de la société émettrice dans des sociétés qui répondent aux
-conditions mentionnées au I et au I bis, selon des modalités fixées par décret en Conseil d'Etat. Toutefois, pour
-l'appréciation de la condition relative au capital de ces participations mentionnée au premier alinéa du I, il n'est pas tenu
-compte de la participation de la société mère mentionnée au premier alinéa.
+I quater. - Abrogé.
 
-I quater. - Sont également pris en compte pour le calcul du quota d'investissement mentionné au I les parts ou les titres de
-capital ou donnant accès au capital émis par des sociétés répondant aux conditions du premier alinéa du I :
+I quinquies. - 1. Sous réserve du respect de la limite de 20 % prévue au I bis, sont également éligibles au quota
+d'investissement mentionné au I les titres de capital mentionnés aux 1 et 3 de l'article L. 214-36 émis par les sociétés qui
+remplissent les conditions suivantes :
 
-- qui ont pour objet exclusif de détenir des participations dans des sociétés qui répondent aux conditions mentionnées au I.
-Toutefois, pour l'appréciation de la condition relative au capital de ces participations mentionnée au premier alinéa du I,
-il n'est pas tenu compte de la participation de la société mère mentionnée au premier alinéa, et la condition prévue au b du
-I peut également être appréciée par l'organisme mentionné à ce même b au niveau de la société mentionnée au premier alinéa
-dans des conditions fixées par décret ;
+a) La société répond aux conditions mentionnées au I. La condition prévue au b du I est appréciée par l'organisme mentionné à
+ce même b au niveau de la société, au regard de son activité et de celle de ses filiales mentionnées au c, dans des
+conditions fixées par décret ;
 
-- et dont les emprunts d'espèces sont inférieurs à 10 % de leur situation nette comptable.
+b) La société a pour objet social la détention de participations remplissant les conditions mentionnées au c et peut exercer
+une activité industrielle ou commerciale au sens de l'article 34 du code général des impôts ;
 
-Un décret en Conseil d'Etat précise les modalités de calcul de la condition relative à l'exclusivité de l'objet mentionné au
-deuxième alinéa.
+c) La société détient exclusivement des participations représentant au moins 75 % du capital de sociétés :
+
+1° Dont les titres sont de la nature de ceux mentionnés aux 1 et 3 de l'article L. 214-36 ;
+
+2° Qui remplissent les conditions mentionnées au premier alinéa du I, à l'exception de celles tenant à l'effectif et au
+capital ;
+
+3° Et qui ont pour objet la conception ou la création de produits, de procédés ou de techniques répondant aux conditions du b
+du I ou l'exercice d'une activité industrielle ou commerciale au sens de l'article 34 du code général des impôts ;
+
+d) La société détient, au minimum, une participation dans une société mentionnée au c dont l'objet social est la conception
+ou la création de produits, de procédés ou de techniques répondant aux conditions du b du I.
+
+2. Un décret en Conseil d'Etat précise les modalités de calcul de la condition relative à l'effectif prévue au premier alinéa
+du I pour la société mentionnée au 1 et d'appréciation de la condition d'exclusivité de la détention des participations
+prévue au c de ce même 1.
 
 II. - Les conditions relatives au nombre de salariés et à la reconnaissance, par un organisme chargé de soutenir l'innovation
 ou à raison de leurs dépenses cumulées de recherche, du caractère innovant de sociétés dont les titres figurent à l'actif
 d'un fonds commun de placement dans l'innovation s'apprécient lors de la première souscription ou acquisition de ces titres
 par ce fonds.
+
+En cas de cession par une société mère mentionnée au premier alinéa du I quinquies de titres de filiales mentionnées au d de
+ce même I quinquies remettant en cause le seuil de détention de 75 %, les titres de cette société mère cessent d'être pris en
+compte dans le quota d'investissement de 60 %.
 
 III. - Pour l'appréciation, pour le I, des liens de dépendance existant entre deux sociétés, ces liens sont réputés exister :
 
@@ -9744,7 +11046,12 @@ même tierce société.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-722 du 29 juin 2005 - art. 9
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 32 (V) JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - CGI 244 quater B, 34
+	  - Code monétaire et financier - art. L214-36 (M)
 
 
 ##### Sous-section 13 : Fonds d'investissement de proximité
@@ -11882,8 +13189,19 @@ tous les bureaux de poste français dûment organisés en agences de cette caiss
 
 ###### Article L221-10
 
-La Poste ouvre un compte sur livret à toute personne par laquelle ou au nom de laquelle des fonds sont versés, à titre
-d'épargne, dans un de ses établissements.
+L'établissement de crédit visé à l'article L. 518-26 ouvre un compte sur livret à toute personne par laquelle des fonds sont
+versés, à titre d'épargne.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -11891,10 +13209,21 @@ d'épargne, dans un de ses établissements.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 145
+
 	**Anciens textes**:
 
 	  - Code des caisses d'épargne - art. 27 (Ab)
-	  - Code des caisses d'épargne - art. 27 (M)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-26
 
 
 ##### Sous-section 4 : Dispositions spécifiques au Crédit mutuel.
@@ -12138,16 +13467,30 @@ l'inspection générale des finances.
 
 Le plan d'épargne populaire ouvre droit, moyennant des versements à un compte ouvert ou au titre d'un contrat d'assurance sur
 la vie conclu auprès d'organismes relevant du code des assurances ou du code de la mutualité, d'établissements de crédit, de
-la Banque de France, des services financiers de La Poste, d'un comptable du Trésor, de prestataires de services
-d'investissement ou d'institutions réalisant des opérations de prévoyance et relevant de l'article L. 731-1 du code de la
-sécurité sociale ou de l'article 1050 du code rural, au remboursement des sommes versées et de leurs produits capitalisés ou
-au paiement d'une rente viagère.
+la Banque de France, d'un comptable du Trésor, de prestataires de services d'investissement ou d'institutions réalisant des
+opérations de prévoyance et relevant de l'article L. 731-1 du code de la sécurité sociale ou de l'article 1050 du code rural
+(1), au remboursement des sommes versées et de leurs produits capitalisés ou au paiement d'une rente viagère.
 
 Il peut être ouvert un plan par contribuable ou par chacun des époux soumis à une imposition commune.
 
 Le montant des versements est plafonné dans une limite fixée par voie réglementaire.
 
 A compter du 25 septembre 2003, il ne peut plus être ouvert de plans d'épargne populaire.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005. 
+
+(1) : L'article L. 731-1 du code de la sécurité sociale a été abrogé par l'article 16 de la loi n° 94-678 du 8 août 1994.
+
+L'article 1050 du code rural ancien a été abrogé par l'article 6 I de l'ordonnance n° 2000-550 du 15 juin 2000.
 
 **Liens relatifs à cet article**
 
@@ -12156,23 +13499,25 @@ A compter du 25 septembre 2003, il ne peut plus être ouvert de plans d'épargne
 	  - Loi n°89-935 1989-12-29 art. 109 I
 	  - Loi n°89-936 du 29 décembre 1989 - art. 109 (V)
 
+	**Cite**:
+
+	  - Loi n°90-568 1990-07-02 art. 15
+	  - Loi n°2005-516 2005-05-20
+	  - Code monétaire et financier 16
+	  - Code de la sécurité sociale. - art. L731-1 (T)
+
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Modifié par**:
 
-	  - Loi - art. 82 (V) JORF 31 décembre 2003
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R221-65 (V)
 	  - Code monétaire et financier - art. R221-72 (V)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L731-1 (T)
-	  - Code rural 1050
 
 
 ###### Article L221-19
@@ -12457,33 +13802,43 @@ La forme et le contenu de cette information écrite sont fixés par arrêté du 
 ###### Article L221-29
 
 Les règles relatives à l'épargne-logement sont fixées par les articles L. 315-1 à L. 315-3 du code de la construction et de
-l'habitation reproduits ci-après :
+l'habitation reproduits ci-après : 
 
-"Art. L. 315-1. - Le régime de l'épargne-logement a pour objet de permettre l'octroi de prêts aux personnes physiques qui ont
+" Art.L. 315-1.-Le régime de l'épargne-logement a pour objet de permettre l'octroi de prêts aux personnes physiques qui ont
 fait des dépôts à un compte d'épargne-logement et qui affectent cette épargne au financement de logements destinés à
-l'habitation principale.
+l'habitation principale. 
 
 Les titulaires d'un compte d'épargne-logement qui n'affectent pas cette épargne au financement de logements destinés à
 l'habitation principale dans les conditions du premier alinéa peuvent l'affecter au financement de logements ayant une autre
 destination dans les conditions fixées par un décret en Conseil d'Etat qui détermine notamment les destinations autorisées.
-Ces destinations sont exclusives, à l'exception des résidences de tourisme, de tout usage commercial ou professionnel.
+Ces destinations sont exclusives, à l'exception des résidences de tourisme, de tout usage commercial ou professionnel. 
 
 Les dispositions précédentes ne font pas obstacle à l'affectation de l'épargne-logement au financement d'un local destiné à
-un usage commercial ou professionnel, dès lors qu'il comporte également l'habitation principale du bénéficiaire."
+un usage commercial ou professionnel, dès lors qu'il comporte également l'habitation principale du bénéficiaire. " 
 
-"Art. L. 315-2. - Les prêts d'épargne-logement concernant les logements destinés à l'habitation principale et les locaux
-visés au troisième alinéa de l'article L. 315-1 sont accordés pour le financement des dépenses de construction,
-d'acquisition, d'extension ou de certaines dépenses de réparation et d'amélioration.
+" Art.L. 315-2.-Les prêts d'épargne-logement concernant les logements destinés à l'habitation principale et les locaux visés
+au troisième alinéa de l'article L. 315-1 sont accordés pour le financement des dépenses de construction, d'acquisition,
+d'extension ou de certaines dépenses de réparation et d'amélioration. 
 
 Les prêts d'épargne-logement concernant les logements ayant une autre destination sont accordés pour le financement des
-dépenses de construction, d'extension ou de certaines dépenses de réparation et d'amélioration.
+dépenses de construction, d'extension ou de certaines dépenses de réparation et d'amélioration. 
 
 Les prêts d'épargne-logement accordés entre le 1er janvier 1996 et le 31 décembre 1996 peuvent être affectés au financement
-des dépenses d'acquisition de logements visés à l'alinéa précédent."
+des dépenses d'acquisition de logements visés à l'alinéa précédent. " 
 
-"Art. L. 315-3. - Les dépôts d'épargne-logement sont reçus par la caisse nationale d'épargne et les caisses d'épargne
-ordinaires ainsi que dans les banques et organismes de crédit qui s'engagent par convention avec l'Etat à appliquer les
-règles fixées pour le fonctionnement de l'épargne-logement."
+" Art.L. 315-3.-Les dépôts d'épargne-logement sont reçus par les caisses d'épargne ordinaires ainsi que dans les banques et
+organismes de crédit qui s'engagent par convention avec l'Etat à appliquer les règles fixées pour le fonctionnement de
+l'épargne-logement. "
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 au II.
 
 **Liens relatifs à cet article**
 
@@ -12493,7 +13848,7 @@ règles fixées pour le fonctionnement de l'épargne-logement."
 
 	**Modifié par**:
 
-	  - Loi n°2003-721 du 1 août 2003 - art. 31 () JORF 5 août 2003
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -12506,6 +13861,12 @@ règles fixées pour le fonctionnement de l'épargne-logement."
 	**Anciens textes**:
 
 	  - Code de la construction et de l'habitation L315-1 à L315-3
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L315-1 (V)
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L315-2 (V)
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L315-3 (V)
 
 
 ##### Section 6 : Plan d'épargne en actions
@@ -13704,15 +15065,15 @@ que soit le support ou le procédé technique utilisé.
 ###### Article L312-1
 
 Toute personne physique ou morale domiciliée en France, dépourvue d'un compte de dépôt, a droit à l'ouverture d'un tel compte
-dans l'établissement de crédit de son choix ou auprès des services financiers de La Poste.
+dans l'établissement de crédit de son choix ou auprès des services.
 
 L'ouverture d'un tel compte intervient après remise auprès de l'établissement de crédit d'une déclaration sur l'honneur
 attestant le fait que le demandeur ne dispose d'aucun compte. En cas de refus de la part de l'établissement choisi, la
 personne peut saisir la Banque de France afin qu'elle lui désigne soit un établissement de crédit, soit les services
 financiers de La Poste.
 
-Les établissements de crédit ou les services financiers de la Poste ne pourront limiter les services liés à l'ouverture d'un
-compte de dépôt aux services bancaires de base que dans des conditions définies par décret.
+Les établissements de crédit ou les services ne pourront limiter les services liés à l'ouverture d'un compte de dépôt aux
+services bancaires de base que dans des conditions définies par décret.
 
 En outre, l'organisme désigné par la Banque de France, limitant l'utilisation du compte de dépôt aux services bancaires de
 base, exécute sa mission dans des conditions tarifaires fixées par décret.
@@ -13722,6 +15083,17 @@ l'objet d'une notification écrite et motivée adressée au client et à la Banq
 de quarante-cinq jours doit être consenti obligatoirement au titulaire du compte.
 
 Ces dispositions s'appliquent aux interdits bancaires.
+
+**Nota:**
+
+(1) : Loi 2005-516 2005-05-20 art. 16 V :
+
+1 - Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du
+2 juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par
+ces dispositions.
+
+2 - Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -13777,7 +15149,7 @@ Ces dispositions s'appliquent aux interdits bancaires.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 44 () JORF 7 mai 2005
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ###### Article L312-1-1
@@ -15045,62 +16417,71 @@ jour où elles auront été payées.
 ###### Article L313-6
 
 Les règles relatives au fichier des incidents de paiement caractérisés sont fixées par les articles L. 333-4 et L. 333-5 du
-code de la consommation, ci-après reproduits :
+code de la consommation, ci-après reproduits : 
 
-"Art. L. 333-4. - Il est institué un fichier national recensant les informations sur les incidents de paiement caractérisés
-liés aux crédits accordés aux personnes physiques pour des besoins non professionnels. Ce fichier est géré par la Banque de
+" Art.L. 333-4-Il est institué un fichier national recensant les informations sur les incidents de paiement caractérisés liés
+aux crédits accordés aux personnes physiques pour des besoins non professionnels. Ce fichier est géré par la Banque de
 France. Il est soumis aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés.
+libertés. 
 
 Les établissements de crédit visés par la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
-établissements de crédit ainsi que les services financiers de La Poste sont tenus de déclarer à la Banque de France les
-incidents visés à l'alinéa précédent. Les frais afférents à cette déclaration ne peuvent être facturés aux personnes
-physiques concernées.
+établissements de crédit sont tenus de déclarer à la Banque de France les incidents visés à l'alinéa précédent. Les frais
+afférents à cette déclaration ne peuvent être facturés aux personnes physiques concernées. 
 
 Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur en application du premier alinéa de l'article
 L. 331-3, elle en informe la Banque de France aux fins d'inscription au fichier institué au premier alinéa du présent
 article. La même obligation pèse sur le greffe du juge de l'exécution lorsque, sur recours de l'intéressé en application du
 deuxième alinéa de l'article L. 331-3, la situation visée à l'article L. 331-2 est reconnue par ce juge ou lorsque le
 débiteur a bénéficié de l'effacement des dettes résultant de la procédure de rétablissement personnel en application de
-l'article L. 332-9.
+l'article L. 332-9. 
 
 Le fichier recense les mesures du plan conventionnel de redressement mentionnées à l'article L. 331-6. Ces mesures sont
-communiquées à la Banque de France par la commission. L'inscription est conservée pendant toute la durée de l'exécution du
-plan conventionnel, sans pouvoir excéder dix ans.
+communiquées à la Banque de France par la commission.L'inscription est conservée pendant toute la durée de l'exécution du
+plan conventionnel, sans pouvoir excéder dix ans. 
 
 Le fichier recense également les mesures prises en vertu des articles L. 331-7 et L. 331-7-1 qui sont communiquées à la
-Banque de France par le greffe du juge de l'exécution. S'agissant des mesures définies à l'article L. 331-7 et au premier
+Banque de France par le greffe du juge de l'exécution.S'agissant des mesures définies à l'article L. 331-7 et au premier
 alinéa de l'article L. 331-7-1, l'inscription est conservée pendant toute la durée d'exécution de ces mesures, sans pouvoir
-excéder dix ans. S'agissant des mesures définies au troisième alinéa de l'article L. 331-7-1, la durée d'inscription est
-fixée à dix ans.
+excéder dix ans.S'agissant des mesures définies au troisième alinéa de l'article L. 331-7-1, la durée d'inscription est fixée
+à dix ans. 
 
-La Banque de France est seule habilitée à centraliser les informations visées à l'alinéa précédent.
+La Banque de France est seule habilitée à centraliser les informations visées à l'alinéa précédent. 
 
 Les organismes professionnels ou organes centraux représentant les établissements visés au deuxième alinéa sont seuls
-autorisés à tenir des fichiers recensant des incidents de paiement.
+autorisés à tenir des fichiers recensant des incidents de paiement. 
 
 La Banque de France est déliée du secret professionnel pour la diffusion, aux établissements de crédit et aux services
-financiers susvisés, des informations nominatives contenues dans le fichier.
+financiers susvisés, des informations nominatives contenues dans le fichier. 
 
-Il est interdit à la Banque de France, aux établissements de crédit et aux services financiers de La Poste de remettre à
-quiconque copie, sous quelque forme que ce soit, des informations contenues dans le fichier, même à l'intéressé lorsqu'il
-exerce son droit d'accès conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions
-prévues aux articles 43 et 44 de la même loi.
+Il est interdit à la Banque de France et aux établissements de crédit de remettre à quiconque copie, sous quelque forme que
+ce soit, des informations contenues dans le fichier, même à l'intéressé lorsqu'il exerce son droit d'accès conformément à
+l'article 39 de la loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions prévues aux articles 226-22 et 226-21 du
+code pénal. 
 
-Art. L. 333-5. - Un arrêté du ministre, pris après avis de la Commission nationale de l'informatique et des libertés et du
+Art.L. 333-5.-Un arrêté du ministre, pris après avis de la Commission nationale de l'informatique et des libertés et du
 Comité consultatif du secteur financier, fixe notamment les modalités de collecte, d'enregistrement, de conservation et de
-consultation de ces informations."
+consultation de ces informations. "
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978 - art. 39 (M)
-	  - Loi n°78-17 du 6 janvier 1978 - art. 43 (M)
-	  - Loi n°78-17 du 6 janvier 1978 - art. 44 (Ab)
 	  - Loi n°84-46 1984-01-24
-	  - Code de la consommation - art. L333-4 (M)
 	  - Code de la consommation - art. L333-5 (M)
+	  - Code pénal - art. 226-21 (M)
+	  - Code pénal - art. 226-22 (M)
 	  - Code monétaire et financier L331-1, L331-3, L331-2, L332-9, L331-6, L331-7, L331-7-1
 
 	**Codifié par**:
@@ -15109,12 +16490,17 @@ consultation de ces informations."
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 126 () JORF 19 janvier 2005
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Anciens textes**:
 
 	  - Code de la consommation - art. L333-4 (M)
 	  - Code de la consommation - art. L333-5 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L333-4 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L333-5 (V)
 
 
 ##### Section 2 : Catégories de crédits et opérations assimilées
@@ -30343,27 +31729,38 @@ la surveillance des comptes de l'exercice social commençant le 1er janvier 2005
 
 ###### Article L518-1
 
-Ne sont pas soumis aux dispositions des chapitres Ier à VII du présent titre : le Trésor public, la Banque de France, les
-services financiers de La Poste, l'institut d'émission des départements d'outre-mer, l'institut d'émission d'outre-mer et la
-Caisse des dépôts et consignations.
+Ne sont pas soumis aux dispositions des chapitres Ier à VII du présent titre : le Trésor public, la Banque de France, La
+Poste, dans les conditions définies à l'article L. 518-25, l'institut d'émission des départements d'outre-mer, l'institut
+d'émission d'outre-mer et la Caisse des dépôts et consignations. 
 
 La Caisse des dépôts et consignations et ses filiales constituent un groupe public au service de l'intérêt général et du
 développement économique du pays. Ce groupe remplit des missions d'intérêt général en appui des politiques publiques
-conduites par l'Etat et les collectivités locales et peut exercer des activités concurrentielles.
+conduites par l'Etat et les collectivités locales et peut exercer des activités concurrentielles. 
 
 Dans ce cadre, la Caisse des dépôts et consignations est plus particulièrement chargée de la gestion des dépôts réglementés
 et des consignations, de la protection de l'épargne populaire, du financement du logement social et de la gestion
 d'organismes de retraite. Elle contribue également au développement économique local et national, particulièrement dans les
 domaines de l'emploi, de la politique de la ville, de la lutte contre l'exclusion bancaire et financière, de la création
-d'entreprise et du développement durable.
+d'entreprise et du développement durable. 
 
 Ces institutions et services peuvent effectuer les opérations de banque prévues par les dispositions législatives et
-réglementaires qui les régissent.
+réglementaires qui les régissent. 
 
 Les arrêtés du ministre chargé de l'économie pris en application des articles L. 611-1, L. 611-3, L. 611-4 ainsi que les
 règlements du comité de la réglementation comptable peuvent, sous réserve des adaptations nécessaires et dans des conditions
-fixées par décret en Conseil d'Etat, être étendus aux services financiers de La Poste, à la caisse des dépôts et
-consignations et aux comptables du Trésor.
+fixées par décret en Conseil d'Etat, être étendus à La Poste, dans les conditions définies à l'article L. 518-25, à la caisse
+des dépôts et consignations et aux comptables du Trésor.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -30469,13 +31866,7 @@ consignations et aux comptables du Trésor.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 68 () JORF 7 mai 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L611-1 (M)
-	  - Code monétaire et financier - art. L611-3 (M)
-	  - Code monétaire et financier - art. L611-4 (M)
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ##### Section 2 : La Caisse des dépôts et consignations
@@ -31063,13 +32454,27 @@ dépôts et consignations.
 
 ###### Article L518-25
 
-La Poste offre, dans le domaine des services financiers et dans le respect des règles de la concurrence, selon les règles
-propres à chacun de ses domaines d'activité, contenues notamment dans le code des postes et télécommunications, des
-prestations relatives aux moyens de paiement et de transfert de fonds, aux produits de placement et d'épargne, à la gestion
-des patrimoines, à des prêts d'épargne-logement et à tous produits d'assurance.
+Dans les domaines bancaire, financier et des assurances, La Poste propose des produits et services au plus grand nombre,
+notamment le Livret A.
 
-La Poste gère le service des chèques postaux et, pour le compte de l'Etat, dans les conditions fixées aux articles L. 518-26
-à L. 518-28, la caisse nationale d'épargne.
+A cette fin, et sous réserve, le cas échéant, des activités qu'elle exerce directement en application des textes qui la
+régissent, La Poste crée, dans les conditions définies par la législation applicable, toute filiale ayant le statut
+d'établissement de crédit, d'entreprise d'investissement ou d'entreprise d'assurance et prend directement ou indirectement
+toute participation dans de tels établissements ou entreprises. Elle peut conclure avec ces établissements ou entreprises
+toute convention en vue d'offrir, en leur nom et pour leur compte et dans le respect des règles de concurrence, toute
+prestation concourant à la réalisation de leur objet, notamment toute prestation relative aux opérations prévues aux articles
+L. 311-1, L. 311-2, L. 321-1 et L. 321-2 ou à tous produits d'assurance.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -31086,6 +32491,16 @@ La Poste gère le service des chèques postaux et, pour le compte de l'Etat, dan
 	  - Code monétaire et financier - art. L518-25-1 (VD)
 	  - Code monétaire et financier - art. L518-26 (M)
 
+	**Cite**:
+
+	  - Loi n°90-568 1990-07-02 art. 15
+	  - Code monétaire et financier - art. L311-1 (V)
+	  - Code monétaire et financier - art. L311-2 (M)
+	  - Code monétaire et financier - art. L321-1 (M)
+	  - Code monétaire et financier - art. L321-2 (M)
+	  - Code monétaire et financier L311-1, L311-2, L321-1, L321-2, 16
+	  - Loi n°2005-516 2005-05-30
+
 	**Anciens textes**:
 
 	  - Loi n°90-568 1990-07-02 art. 2 al. 4
@@ -31094,20 +32509,35 @@ La Poste gère le service des chèques postaux et, pour le compte de l'Etat, dan
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code monétaire et financier L518-26 à L518-28
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
 ##### Section 4 : La Caisse nationale d'épargne
 
 ###### Article L518-26
 
-La Caisse nationale d'épargne est une caisse d'épargne publique instituée sous la garantie de l'Etat ; elle est placée sous
-l'autorité du ministre chargé de l'économie dans le cadre des missions définies à l'article L. 518-25.
+La Caisse nationale d'épargne est une caisse d'épargne publique instituée sous la garantie de l'Etat pour recevoir les dépôts
+du Livret A dans les conditions définies aux articles L. 221-1 et suivants, sans préjudice des dispositions propres aux
+caisses d'épargne ordinaires ; elle est placée sous l'autorité du ministre chargé de l'économie.
 
 La Caisse nationale d'épargne peut recevoir des dons et legs dans les formes et selon les règles prévues pour les
 établissements d'utilité publique.
+
+La Caisse nationale d'épargne est gérée, pour le compte de l'Etat, par un établissement de crédit dont La Poste détient la
+majorité du capital, dans des conditions déterminées par une convention conclue entre l'Etat, La Poste et cet établissement.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -31128,14 +32558,18 @@ La Caisse nationale d'épargne peut recevoir des dons et legs dans les formes et
 	  - Code monétaire et financier - art. R518-54 (Ab)
 	  - Code monétaire et financier - art. R518-55 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 146 (V)
+
 	**Anciens textes**:
 
 	  - Code des caisses d'épargne - art. 3 (Ab)
 	  - Code des caisses d'épargne - art. 39 (Ab)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L518-25 (M)
 
 
 ###### Article L518-27
@@ -35897,18 +37331,41 @@ Pour l'application du présent titre :
 1° La Commission bancaire exerce le contrôle et le pouvoir disciplinaire sur les entreprises mentionnées au 5 de l'article L.
 562-1. Elle peut prononcer les sanctions prévues à l'article L. 613-21.
 
-2° L'inspection générale des finances exerce le contrôle sur la caisse des dépôts et consignations et les services financiers
-de La Poste. Le résultat des investigations de l'inspection générale des finances est porté à la connaissance, selon le cas,
-de la commission de surveillance de la caisse des dépôts et consignations ou de la commission supérieure prévue à l'article
-L. 125 du code des postes et des communications électroniques.
+2° L'inspection générale des finances exerce le contrôle sur la caisse des dépôts et consignations et La Poste. Le résultat
+des investigations de l'inspection générale des finances est porté à la connaissance, selon le cas, de la commission de
+surveillance de la caisse des dépôts et consignations ou de la commission supérieure prévue à l'article L. 125 du code des
+postes et des communications électroniques.
 
 3° L'Autorité des marchés financiers exerce le contrôle et le pouvoir de sanction sur les organismes de placement collectif
 en valeurs mobilières mentionnés au 1 du I de l'article L. 214-1, sur les sociétés de gestion d'organismes de placements
-collectifs mentionnées au II de l'article L. 214-1, sur les intermédiaires en biens divers mentionnés au titre V du présent
-livre, sur les personnes habilitées à procéder au démarchage mentionnées aux articles L. 341-3 et L. 341-4 et sur les
-conseillers en investissements financiers.
+collectifs mentionnées au L. 543-1, sur les intermédiaires en biens divers mentionnés au titre V du présent livre, sur les
+personnes habilitées à procéder au démarchage mentionnées aux articles L. 341-3 et L. 341-4 et sur les conseillers en
+investissements financiers.
+
+**Nota:**
+
+Nota : Loi 2005-516 2005-05-20 art. 16 V :
+
+1 - Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du
+2 juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par
+ces dispositions.
+
+2 - Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°90-568 1990-07-02 art. 15
+	  - Loi n°2005-516 2005-05-20
+	  - Code monétaire et financier - art. L214-1 (M)
+	  - Code monétaire et financier - art. L341-3 (M)
+	  - Code monétaire et financier - art. L341-4 (M)
+	  - Code monétaire et financier - art. L543-1 (Ab)
+	  - Code monétaire et financier - art. L562-1 (M)
+	  - Code monétaire et financier - art. L613-21 (M)
+	  - Code monétaire et financier L562-1, L613-21, L214-1, L341-3, L341-4, 16, L543-1
 
 	**Anciens textes**:
 
@@ -35928,18 +37385,15 @@ conseillers en investissements financiers.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 74 () JORF 7 mai 2005
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
-	**Cite**:
+	**Transféré par**:
 
-	  - Code monétaire et financier - art. L214-1 (M)
-	  - Code monétaire et financier - art. L341-3 (M)
-	  - Code monétaire et financier - art. L341-4 (M)
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L613-21 (M)
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Nouveaux textes**:
 
+	  - Code monétaire et financier - art. L565-3 (T)
 	  - Code monétaire et financier - art. L565-3 (V)
 
 
@@ -55272,78 +56726,75 @@ République française sur proposition de ces conseils.
 
 ###### Article R151-1
 
-Pour l'application du présent titre :
+Pour l'application du présent titre : 
 
-1° Le territoire dénommé "France" s'entend : de la France métropolitaine, de la Guadeloupe, de la Guyane, de la Martinique,
+1° Le territoire dénommé " France " s'entend : de la France métropolitaine, de la Guadeloupe, de la Guyane, de la Martinique,
 de la Réunion, de Mayotte, de Saint-Pierre-et-Miquelon et des îles Wallis et Futuna ainsi que la Principauté de Monaco.
 Toutefois, pour les besoins statistiques liés à l'établissement de la balance des paiements, les îles Wallis et Futuna sont
-considérées comme l'étranger ;
+considérées comme l'étranger ; 
 
 2° Sont considérés comme résidents : les personnes physiques ayant leur principal centre d'intérêt en France, les
 fonctionnaires et autres agents publics français en poste à l'étranger dès leur prise de fonctions, ainsi que les personnes
-morales françaises ou étrangères pour leurs établissements en France ;
+morales françaises ou étrangères pour leurs établissements en France ; 
 
 3° Sont considérés comme non-résidents : les personnes physiques ayant leur principal centre d'intérêt à l'étranger, les
 fonctionnaires et autres agents publics étrangers en poste en France dès leur prise de fonctions, et les personnes morales
-françaises ou étrangères pour leurs établissements à l'étranger ;
+françaises ou étrangères pour leurs établissements à l'étranger ; 
 
 4° Pour les besoins statistiques mentionnés aux articles R. 152-1, R. 152-2, R. 152-3 et R. 152-4, sont considérées comme des
 investissements directs étrangers en France ou français à l'étranger les opérations par lesquelles des non-résidents ou des
 résidents acquièrent au moins 10 % du capital ou des droits de vote, ou franchissent le seuil de 10 %, d'une entreprise
 résidente ou non résidente respectivement. Relèvent aussi de la définition statistique des investissements directs toutes les
 opérations entre entreprises apparentées, de quelque nature qu'elles soient, telles que prêts, emprunts ou dépôts, ainsi que
-les investissements immobiliers ;
+les investissements immobiliers ; 
 
-5° Sont qualifiées d'investissements directs étrangers, pour l'application de l'article R. 152-5 et des articles 7 à 9 du
-décret n° 2003-196 du 7 mars 2003 réglementant les relations financières avec l'étranger :
+5° Sont qualifiées d'investissements directs étrangers, pour l'application de l'article R. 152-5 : 
 
-a) La création d'une entreprise nouvelle par une entreprise de droit étranger ou une personne physique non résidente ;
+a) La création d'une entreprise nouvelle par une entreprise de droit étranger ou une personne physique non résidente ; 
 
 b) L'acquisition de tout ou partie d'une branche d'activité d'une entreprise de droit français par une entreprise de droit
-étranger ou une personne physique non résidente ;
+étranger ou une personne physique non résidente ; 
 
 c) Toutes opérations effectuées dans le capital d'une entreprise de droit français par une entreprise de droit étranger ou
 une personne physique non résidente dès lors que, après l'opération, la somme cumulée du capital ou des droits de vote
 détenus par des entreprises étrangères ou des personnes physiques non résidentes excède 33,33 % du capital ou des droits de
-vote de l'entreprise française ;
+vote de l'entreprise française ; 
 
 d) Les mêmes opérations effectuées par une entreprise de droit français dont le capital ou les droits de vote sont détenus à
-plus de 33,33 % par une ou des entreprises de droit étranger ou une ou des personnes physiques non résidentes ;
+plus de 33,33 % par une ou des entreprises de droit étranger ou une ou des personnes physiques non résidentes ; 
 
-6° Sont également qualifiées d'investissements étrangers, pour l'application de l'article R. 152-5 et des articles 7 à 9 du
-décret n° 2003-196 du 7 mars 2003 réglementant les relations financières avec l'étranger, des opérations telles que l'octroi
-de prêts ou de garanties substantielles ou l'achat de brevets ou de licences, l'acquisition de contrats commerciaux ou
-l'apport d'assistance technique qui entraînent la prise de contrôle de fait d'une entreprise de droit français par une
-entreprise de droit étranger ou une personne physique non résidente ;
+6° Sont également qualifiées d'investissements étrangers, pour l'application de l'article R. 152-5, des opérations telles que
+l'octroi de prêts ou de garanties substantielles ou l'achat de brevets ou de licences, l'acquisition de contrats commerciaux
+ou l'apport d'assistance technique qui entraînent la prise de contrôle de fait d'une entreprise de droit français par une
+entreprise de droit étranger ou une personne physique non résidente ; 
 
-7° Sont qualifiées d'investissements indirects étrangers, pour l'application de l'article R. 152-5 et des articles 7 à 9 du
-décret n° 2003-196 du 7 mars 2003 réglementant les relations financières avec l'étranger, les opérations effectuées à
-l'étranger ayant pour effet de modifier le contrôle d'une entreprise non résidente, elle-même détentrice d'une participation
-ou de droits de vote dans une entreprise de droit français dont le capital ou les droits de vote sont détenus à plus de 33,33
-% par une ou des entreprises de droit étranger ou des personnes physiques non résidentes.
+7° Sont qualifiées d'investissements indirects étrangers, pour l'application de l'article R. 152-5, les opérations effectuées
+à l'étranger ayant pour effet de modifier le contrôle d'une entreprise non résidente, elle-même détentrice d'une
+participation ou de droits de vote dans une entreprise de droit français dont le capital ou les droits de vote sont détenus à
+plus de 33,33 % par une ou des entreprises de droit étranger ou des personnes physiques non résidentes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2003-196 2003-03-07 art 1
 	  - Décret n°2003-196 du 7 mars 2003 - art. 1 (Ab)
-
-	**Cite**:
-
-	  - Décret n°2003-196 2003-03-07 art. 7 à 9
-	  - Code monétaire et financier - art. R152-1 (V)
-	  - Code monétaire et financier - art. R152-2 (V)
-	  - Code monétaire et financier - art. R152-4 (V)
-	  - Code monétaire et financier - art. R152-5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 6 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R152-1 (V)
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R152-3 (V)
+	  - Code monétaire et financier - art. R152-5 (Ab)
 	  - Code monétaire et financier - art. R152-6 (V)
 
 
@@ -55611,6 +57062,464 @@ Les sommes, titres ou valeurs mentionnés à l'article R. 152-6 sont définis pa
 	  - Code monétaire et financier - art. R152-6 (M)
 
 
+#### Chapitre III : Investissements étrangers soumis à autorisation préalable.
+
+##### Section 1 : Dispositions relatives aux investissements étrangers en provenance de pays tiers
+
+###### Article R153-1
+
+Constitue un investissement au sens de la présente section le fait pour un investisseur :
+
+1° Soit d'acquérir le contrôle, au sens de l'article L. 233-3 du code de commerce, d'une entreprise dont le siège social est
+établi en France ;
+
+2° Soit d'acquérir directement ou indirectement tout ou partie d'une branche d'activité d'une entreprise dont le siège social
+est établi en France ;
+
+3° Soit de franchir le seuil de 33,33 % de détention directe ou indirecte du capital ou des droits de vote d'une entreprise
+dont le siège social est établi en France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-3 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R153-2 (V)
+	  - Code monétaire et financier - art. R153-6 (V)
+
+
+###### Article R153-2
+
+Relèvent d'une procédure d'autorisation au sens du I de l'article L. 151-3 les investissements étrangers mentionnés à
+l'article R. 153-1 réalisés par une personne physique qui n'est pas ressortissante d'un Etat membre de la Communauté
+européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ayant conclu une convention d'assistance
+administrative avec la France, par une entreprise dont le siège social ne se situe pas dans l'un de ces mêmes Etats ou par
+une personne physique de nationalité française qui n'y est pas résidente, dans les activités suivantes :
+
+1° Activités dans les secteurs des jeux d'argent ;
+
+2° Activités réglementées de sécurité privée ;
+
+3° Activités de recherche, de développement ou de production relatives aux moyens destinés à faire face à l'utilisation
+illicite, dans le cadre d'activités terroristes, d'agents pathogènes ou toxiques et à prévenir les conséquences sanitaires
+d'une telle utilisation ;
+
+4° Activités portant sur les matériels conçus pour l'interception des correspondances et la détection à distance des
+conversations, autorisés au titre de l'article 226-3 du code pénal ;
+
+5° Activités de services dans le cadre de centres d'évaluation agréés dans les conditions prévues au décret n° 2002-535 du 18
+avril 2002 relatif à l'évaluation et à la certification de la sécurité offerte par les produits et les systèmes des
+technologies de l'information ;
+
+6° Activités de production de biens ou de prestation de services de sécurité dans le secteur de la sécurité des systèmes
+d'information d'une entreprise liée par contrat passé avec un opérateur public ou privé gérant des installations au sens des
+articles L. 1332-1 à L. 1332-7 du code de la défense ;
+
+7° Activités relatives aux biens et technologies à double usage énumérés à l'annexe IV du règlement (CE) n° 1334/2000 du
+Conseil du 22 juin 2000 modifié instituant un régime communautaire de contrôle des exportations de biens et technologies à
+double usage ;
+
+8° Activités relatives aux moyens de cryptologie et les prestations de cryptologie mentionnés aux paragraphes III, IV de
+l'article 30 et I de l'article 31 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ;
+
+9° Activités exercées par les entreprises dépositaires de secrets de la défense nationale notamment au titre des marchés
+classés de défense nationale ou à clauses de sécurité conformément au décret n° 98-608 du 17 juillet 1998 relatif à la
+protection des secrets de la défense nationale ;
+
+10° Activités de recherche, de production ou de commerce d'armes, de munitions, de poudres et substances explosives destinées
+à des fins militaires ou de matériels de guerre et assimilés réglementés par le titre III ou le titre V du livre III de la
+deuxième partie du code de la défense ;
+
+11° Activités exercées par les entreprises ayant conclu un contrat d'étude ou de fourniture d'équipements au profit du
+ministère de la défense, soit directement, soit par sous-traitance, pour la réalisation d'un bien ou d'un service relevant
+d'un secteur mentionné aux points 7° à 10° ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°98-608 1998-07-17
+	  - Décret n°2002-535 2002-04-18
+	  - Loi n°2004-575 2004-06-21 art. 31
+	  - Code pénal - art. 226-3 (V)
+	  - Code pénal 226-3, L1332-1 à L1332-7
+	  - Code monétaire et financier - art. L151-3 (M)
+	  - Code monétaire et financier - art. R153-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 rectificatif JORF 4 janvier 2006
+
+	**Cité par**:
+
+	  - Décret n°2017-913 du 9 mai 2017 - art. 18 (V)
+	  - Code monétaire et financier - art. R153-4 (V)
+	  - Code monétaire et financier - art. R153-5-2 (V)
+	  - Code monétaire et financier - art. R153-6 (V)
+	  - Code monétaire et financier - art. R153-9 (V)
+
+
+##### Section 2 : Dispositions relatives aux investissements en provenance des Etats membres de la Communauté européenne
+
+###### Article R153-3
+
+Constitue un investissement au sens de la présente section le fait pour un investisseur :
+
+1° Soit d'acquérir le contrôle, au sens de l'article L. 233-3 du code de commerce, d'une entreprise dont le siège social est
+établi en France.
+
+2° Soit d'acquérir directement ou indirectement tout ou partie d'une branche d'activité d'une entreprise dont le siège social
+est établi en France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-3 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R153-4 (V)
+	  - Code monétaire et financier - art. R153-5 (V)
+
+
+###### Article R153-4
+
+Sont soumis à une procédure d'autorisation au sens de l'article L. 151-3, s'ils relèvent de l'article R. 153-3, les
+investissements réalisés dans les activités énumérées du 8° au 11° de l'article R. 153-2 par une personne physique
+ressortissante d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen ayant conclu une convention d'assistance administrative avec la France, par une entreprise dont le siège social se
+situe dans l'un de ces mêmes Etats ou par une personne physique de nationalité française qui y est résidente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 rectificatif JORF 4 janvier 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L151-3 (V)
+	  - Code monétaire et financier - art. R153-2 (V)
+	  - Code monétaire et financier - art. R153-3 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R153-6 (V)
+
+
+###### Article R153-5
+
+Sont soumis à une procédure d'autorisation au sens de l'article L. 151-3, s'ils relèvent du 2° de l'article R. 153-3, les
+investissements réalisés par une personne physique ressortissante d'un Etat membre de la Communauté européenne ou d'un autre
+Etat partie à l'accord sur l'Espace économique européen ayant conclu une convention d'assistance administrative avec la
+France, par une entreprise dont le siège social se situe dans l'un de ces mêmes Etats ou par une personne physique de
+nationalité française qui y est résidente, dans les activités suivantes :
+
+1° Activités de casinos, au sens de la loi du 15 juin 1907 modifiée réglementant les jeux dans les casinos des stations
+balnéaires, thermales et climatiques, dans la mesure où le contrôle de l'investissement est exigé par les nécessités de la
+lutte contre le blanchiment de capitaux ;
+
+2° Activités de sécurité privée, au sens de la loi n° 83-629 du 12 juillet 1983 modifiée réglementant les activités privées
+de sécurité, lorsque les entreprises qui les exercent :
+
+a) Fournissent une prestation à un opérateur public ou privé d'importance vitale, au sens de l'article L. 1332-1 du code de
+la défense ;
+
+b) Ou participent directement et spécifiquement à des missions de sécurité définies aux articles L. 282-8 du code de
+l'aviation civile et L. 324-5 du code des ports maritimes ;
+
+c) Ou interviennent dans les zones protégées ou réservées, au sens de l'article 413-7 du code pénal et des textes pris en
+application du décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense nationale ;
+
+3° Activités de recherche, de développement ou de production, lorsqu'elles intéressent exclusivement :
+
+a) Les agents pathogènes, les zoonoses, les toxines et leurs éléments génétiques ainsi que leurs produits de traduction
+mentionnés aux alinéas 1C351 et 1C352a.2 de l'annexe I du règlement (CE) n° 1334/2000 du Conseil du 22 juin 2000 modifié
+instituant un régime communautaire de contrôle des exportations de biens et technologies à double usage ;
+
+b) Les moyens de lutte contre les agents prohibés au titre de la convention sur l'interdiction de la mise au point, de la
+fabrication, du stockage et de l'emploi des armes chimiques et de leur destruction, faite à Paris le 13 janvier 1993,
+
+et que le contrôle de l'investissement est exigé par les nécessités de la lutte contre le terrorisme et de la prévention des
+conséquences sanitaires de celui-ci ;
+
+4° Activités de recherche, développement, production ou commercialisation portant sur les matériels conçus pour
+l'interception des correspondances et la détection à distance des conversations définis à l'article 226-3 du code pénal, dans
+la mesure où le contrôle de l'investissement est exigé par les nécessités de la lutte contre le terrorisme et la
+criminalité ;
+
+5° Activités de services dans le cadre de centres d'évaluation agréés dans les conditions prévues au décret n° 2002-535 du 18
+avril 2002 relatif à l'évaluation et à la certification de la sécurité offerte par les produits et les systèmes des
+technologies de l'information, lorsque les entreprises qui les exercent fournissent ces prestations au profit de services de
+l'Etat, dans la mesure où le contrôle de l'investissement est exigé par les nécessités de la lutte contre le terrorisme et la
+criminalité ;
+
+6° Activités de production de biens ou de prestations de services dans le secteur de la sécurité des systèmes d'information
+exercées par une entreprise liée par un contrat passé avec un opérateur public ou privé d'installation d'importance vitale au
+sens des articles L. 1332-1 à L. 1332-7 du code de la défense pour protéger cette installation ;
+
+7° Activités relatives aux biens et technologies à double usage énumérés à l'annexe IV du règlement du 22 juin 2000 précité
+exercées au profit d'entreprises intéressant la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-629 1983-07-12
+	  - Décret n°98-608 1998-07-17
+	  - Décret n°2002-535 2002-04-18
+	  - Code pénal - art. 226-3 (V)
+	  - Code pénal - art. 413-7 (M)
+	  - Code pénal 413-7, 226-3, L1332-1 à L1332-7
+	  - Code monétaire et financier - art. L151-3 (M)
+	  - Code monétaire et financier - art. R153-3 (V)
+	  - Code de l'aviation civile - art. L282-8 (M)
+	  - Loi n°1907-06-15
+	  - Règlement 1334-2000 CE 2000-06-22
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 rectificatif JORF 4 janvier 2006
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R153-5-2 (V)
+	  - Code monétaire et financier - art. R153-9 (V)
+
+
+##### Section 3 : Dispositions communes
+
+###### Article R153-6
+
+I.-L'autorisation prévue au présent chapitre est réputée acquise lorsque l'investissement est réalisé entre des entreprises
+appartenant toutes au même groupe, c'est-à-dire étant détenues à plus de 50 % du capital ou des droits de vote, directement
+ou indirectement par le même actionnaire. 
+
+L'autorisation n'est toutefois pas réputée acquise lorsque l'investissement a pour objet de transférer à l'étranger tout ou
+partie d'une branche d'une des activités énumérées respectivement aux articles R. 153-2 et R. 153-4. 
+
+II.-Dans le cas des investissements mentionnés au 3° de l'article R. 153-1 et énumérés à l'article R. 153-2, l'autorisation
+est également acquise avec dispense de demande préalable lorsque l'investisseur qui franchit le seuil de 33,33 % de détention
+directe ou indirecte du capital ou des droits de vote d'une entreprise ayant son siège social en France a déjà été autorisé
+au titre du présent chapitre à acquérir le contrôle de celle-ci au sens de l'article L. 233-3 du code de commerce. 
+
+III.-Si une demande préalable d'autorisation a néanmoins été présentée dans les hypothèses prévues au présent article,
+l'accusé de réception qui en est délivré mentionne que la demande est sans objet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 4 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-3 (V)
+	  - Code monétaire et financier - art. R153-1 (V)
+	  - Code monétaire et financier - art. R153-2 (V)
+	  - Code monétaire et financier - art. R153-4 (V)
+
+
+###### Article R153-7
+
+Avant la réalisation d'un investissement, l'investisseur peut saisir le ministre chargé de l'économie d'une demande écrite
+aux fins de savoir si cet investissement est soumis à une procédure d'autorisation. Le ministre répond dans un délai de deux
+mois. L'absence de réponse ne vaut pas dispense de demande d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 4 () JORF 31 décembre 2005
+
+
+###### Article R153-8
+
+Le ministre chargé de l'économie se prononce dans un délai de deux mois à compter de la date de réception de la demande
+d'autorisation. A défaut, l'autorisation est réputée acquise.
+
+Un arrêté du ministre chargé de l'économie fixe la composition du dossier de demande d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 4 () JORF 31 décembre 2005
+
+
+###### Article R153-9
+
+Le ministre chargé de l'économie examine si la préservation des intérêts nationaux tels que définis par l'article L. 151-3
+peut être obtenue en assortissant l'autorisation d'une ou plusieurs conditions. 
+
+Ces conditions portent principalement sur la préservation par l'investisseur de la pérennité des activités, des capacités
+industrielles, des capacités de recherche et de développement ou des savoir-faire associés, la sécurité d'approvisionnement
+ou l'exécution des obligations contractuelles de l'entreprise dont le siège social est établi en France, comme titulaire ou
+sous-traitant dans le cadre de marchés publics ou de contrats intéressant la sécurité publique, les intérêts de la défense
+nationale ou la recherche, la production ou le commerce en matière d'armes, de munitions, de poudres ou de substances
+explosives. 
+
+Dans le cas où l'activité au titre de laquelle l'autorisation est requise n'est exercée qu'à titre accessoire, le ministre
+chargé de l'économie peut subordonner l'octroi de l'autorisation à la cession de cette activité à une entreprise indépendante
+de l'investisseur étranger. 
+
+Les conditions prévues au présent article sont fixées dans le respect du principe de proportionnalité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 4 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L151-3 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R153-10 (V)
+
+
+###### Article R153-10
+
+Le ministre chargé de l'économie refuse par décision motivée l'autorisation de l'investissement projeté, s'il estime, après
+examen de la demande :
+
+1° Qu'il existe une présomption sérieuse que l'investisseur est susceptible de commettre l'une des infractions visées par les
+articles 222-34 à 222-39, 223-15-2, 225-5, 225-6, 225-10, 324-1, 421-1 à 421-2-2, 433-1, 450-1 et 450-2-1 du code pénal ;
+
+2° Ou que la mise en oeuvre des conditions mentionnées à l'article R. 153-9 ne suffit pas à elle seule à assurer la
+préservation des intérêts nationaux définis par l'article L. 151-3 dès lors que :
+
+a) La pérennité des activités, des capacités industrielles, des capacités de recherche et développement et des savoir-faire
+associés ne serait pas préservée ;
+
+b) Ou la sécurité d'approvisionnement ne serait pas garantie ;
+
+c) Ou serait compromise l'exécution des obligations contractuelles de l'entreprise dont le siège social est établi en France
+comme titulaire ou sous-traitant dans le cadre de marchés publics ou de contrats intéressant la sécurité publique, les
+intérêts de la défense nationale ou la recherche, la production ou le commerce en matière d'armes, de munitions, de poudres
+et substances explosives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 4 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 223-15-2 (M)
+	  - Code pénal - art. 225-10 (M)
+	  - Code pénal - art. 225-5 (M)
+	  - Code pénal - art. 225-6 (M)
+	  - Code pénal - art. 324-1 (M)
+	  - Code pénal - art. 433-1 (M)
+	  - Code pénal - art. 450-1 (M)
+	  - Code pénal - art. 450-2-1 (M)
+	  - Code pénal 222-34 à 222-39, 223-15-2, 225-5, 225-6, 225-10, 324-1, 421-1 à 421-2-2, 433-1, 450-1, 450-2-1
+	  - Code monétaire et financier - art. L151-3 (M)
+	  - Code monétaire et financier - art. R153-9 (V)
+
+
+###### Article R153-11
+
+Le délai imparti à l'investisseur pour rétablir la situation antérieure en application du III de l'article L. 151-3 est
+notifié par le ministre chargé de l'économie. Il ne peut excéder douze mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 4 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L151-3 (V)
+
+
+###### Article R153-12
+
+Les autorités administratives compétentes pour instruire l'autorisation prévue au présent chapitre peuvent recourir à la
+coopération internationale pour vérifier l'exactitude des informations qui leur sont fournies par les investisseurs
+étrangers, notamment celles relatives à l'origine des fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 4 () JORF 31 décembre 2005
+
+
 ### Titre VI : Dispositions pénales
 
 #### Chapitre II : Infractions relatives à la monnaie.
@@ -55850,6 +57759,49 @@ La même peine est applicable au mandataire qui ne se conforme pas aux dispositi
 	  - Code monétaire et financier - art. R741-3 (V)
 	  - Code monétaire et financier - art. R751-3 (V)
 	  - Code monétaire et financier - art. R761-3 (M)
+
+
+#### Chapitre V : Infractions à la législation sur les relations financières avec l'étranger
+
+###### Article R165-1
+
+Toute infraction aux obligations de déclaration statistique mentionnées aux articles R. 152-1 à R. 152-4 est sanctionnée
+conformément à l'article L. 165-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 5 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L165-1 (V)
+	  - Code monétaire et financier - art. R152-1 (V)
+
+
+###### Article R165-2
+
+Quiconque aura contrevenu à l'obligation de déclaration administrative prévue au premier alinéa de l'article R. 152-5 est
+passible d'une amende égale au montant maximum applicable aux contraventions de 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1739 du 30 décembre 2005 - art. 5 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R152-5 (V)
 
 
 ## Livre II : Les produits
@@ -63996,8 +65948,8 @@ jeune.
 
 ###### Article R221-26
 
-La Poste délivre gratuitement à chaque bénéficiaire, s'il en fait la demande, un ou plusieurs livrets sur lesquels sont
-inscrits les versements, les remboursements et les intérêts acquis.
+L'établissement de crédit mentionné à l'article L. 518-26 du code monétaire et financier ouvre gratuitement un livret A à
+toute personne en faisant la demande.
 
 **Liens relatifs à cet article**
 
@@ -64009,6 +65961,18 @@ inscrits les versements, les remboursements et les intérêts acquis.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-26
 
 
 ###### Article R221-27
@@ -64029,6 +65993,41 @@ Le service des succursales militaires de la Caisse nationale d'épargne est pré
 	**Abrogé par**:
 
 	  - Décret n°2008-1264 du 4 décembre 2008 - art. 3
+
+
+###### Article R221-27-1
+
+Les sommes versées en excédent du plafond mentionné à l'article R. 221-1 par tout titulaire d'un livret A de la Caisse
+nationale d'épargne sont portées sur un compte sur livret ouvert auprès de l'établissement de crédit mentionné à l'article L.
+518-26 du code monétaire et financier.
+
+Les articles R. 221-5 et R. 221-13 sont applicables aux comptes sur livret ouverts pour recevoir les sommes versées en
+excédent du plafond du livret A.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1006 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 11 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-26
+	  - Code monétaire et financier - art. R221-1
+	  - Code monétaire et financier - art. R221-13
+	  - Code monétaire et financier - art. R221-5
 
 
 ##### Sous-section 4 : Dispositions spécifiques au Crédit mutuel.
@@ -64387,9 +66386,8 @@ L'autorité administrative compétente mentionnée aux articles R. 221-55 et R. 
 
 ###### Article R221-40
 
-Les comptes sur livret d'épargne populaire peuvent être ouverts à la Caisse nationale d'épargne ainsi que dans les banques,
-établissements et organismes habilités à recevoir des dépôts du public au sens de l'article L. 511-9 et remplissant les
-conditions posées à l'article R. 221-61.
+Les comptes sur livret d'épargne populaire peuvent être ouverts dans les banques, établissements et organismes habilités à
+recevoir des dépôts du public au sens de l'article L. 511-9 et remplissant les conditions posées à l'article R. 221-61.
 
 **Liens relatifs à cet article**
 
@@ -64400,6 +66398,10 @@ conditions posées à l'article R. 221-61.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 	**Cite**:
 
@@ -64735,11 +66737,10 @@ Les dépôts collectés au titre du régime d'épargne populaire sont centralis�
 dépôts et consignations dans des conditions fixées par une convention passée entre le ministre chargé de l'économie et le
 directeur général de cet établissement.
 
-Sous réserve des règles particulières à la Caisse nationale d'épargne, une fraction de l'encours de ces dépôts peut toutefois
-être laissée au libre emploi des établissements collecteurs à condition que ces derniers prennent en charge un pourcentage
-équivalent du montant total des rémunérations à servir aux déposants et qu'ils s'engagent à ne pas se référer dans leurs
-opérations de crédit au montant de la rémunération servie au compte sur livret d'épargne populaire. Cette fraction ne peut
-excéder 15 % de l'encours des dépôts.
+Une fraction de l'encours de ces dépôts peut toutefois être laissée au libre emploi des établissements collecteurs à
+condition que ces derniers prennent en charge un pourcentage équivalent du montant total des rémunérations à servir aux
+déposants et qu'ils s'engagent à ne pas se référer dans leurs opérations de crédit au montant de la rémunération servie au
+compte sur livret d'épargne populaire. Cette fraction ne peut excéder 15 % de l'encours des dépôts.
 
 **Liens relatifs à cet article**
 
@@ -64750,6 +66751,10 @@ excéder 15 % de l'encours des dépôts.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -65233,8 +67238,8 @@ L'autorité administrative compétente mentionnée à l'article R. 221-81 est le
 
 ###### Article R221-76
 
-Le livret jeune peut être ouvert dans les établissements de crédit ou auprès des services financiers de La Poste
-conventionnés à cet effet dans les conditions prévues à l'article R. 221-98.
+Le livret jeune peut être ouvert dans les établissements de crédit conventionnés à cet effet dans les conditions prévues à
+l'article R. 221-98.
 
 **Liens relatifs à cet article**
 
@@ -65246,6 +67251,10 @@ conventionnés à cet effet dans les conditions prévues à l'article R. 221-98.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -66943,6 +68952,34 @@ exécution des obligations stipulées dans un ou plusieurs contrats de crédit-b
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+
+##### Sous-section 2 : Crédits aux entreprises.
+
+###### Article D313-14-1
+
+Le délai de préavis minimal mentionné à la deuxième phrase du premier alinéa de l'article L. 313-12 est de soixante jours
+pour toutes les catégories de crédits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1743 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D743-4-1 (V)
+	  - Code monétaire et financier - art. D753-4-1 (V)
+	  - Code monétaire et financier - art. D763-4-1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L313-12 (V)
 
 
 ##### Section 3 : Procédures de mobilisation des créances professionnelles.
@@ -68860,6 +70897,128 @@ inscription à un compte ouvert au nom du cessionnaire chez un intermédiaire ha
 	  - Code monétaire et financier - art. D754-3-1 (V)
 	  - Code monétaire et financier - art. D764-3 (V)
 	  - Code monétaire et financier - art. D764-3-1 (V)
+
+
+### Titre IV : Les entreprises de marché et les chambres de compensation
+
+###### Article D441-1
+
+Les déclarations de franchissement de seuil prévues au second alinéa de l'article L. 441-1 indiquent, de façon séparée, le
+nombre d'actions et le nombre de droits de vote détenus dans l'entreprise de marché, calculés dans les conditions prévues à
+l'article D. 441-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°94-350 du 2 mai 1994 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1744 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-904 du 15 mai 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D441-2 (V)
+	  - Code monétaire et financier - art. L441-1 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D441-3 (V)
+
+
+###### Article D441-2
+
+Les déclarants, soumis à l'obligation prévue au second alinéa de l'article L. 441-1, sont les personnes, agissant seules ou
+de concert à l'égard de l'entreprise de marché :
+
+1° Qui viennent à posséder directement plus du dixième, du cinquième, du tiers, de la moitié ou des deux tiers des actions ou
+des droits de vote de l'entreprise de marché, ou
+
+2° Qui contrôlent, au sens de l'article L. 233-3 du code de commerce, une ou plusieurs sociétés venant à posséder ensemble
+plus du dixième, du cinquième, du tiers, de la moitié ou des deux tiers des actions ou des droits de vote de l'entreprise de
+marché, ou
+
+3° Qui viennent à contrôler, au sens de l'article L. 233-3 du code de commerce, une ou plusieurs sociétés possédant ensemble
+plus du dixième, du cinquième, du tiers, de la moitié ou des deux tiers des actions ou des droits de vote de l'entreprise de
+marché, ou
+
+4° Qui viennent à posséder directement plus du dixième, du cinquième, du tiers, de la moitié ou des deux tiers des actions ou
+des droits de vote d'une société qui contrôle, au sens de l'article L. 233-3 du code de commerce, l'entreprise de marché, ou
+
+5° Qui possèdent directement plus du dixième, du cinquième, du tiers, de la moitié ou des deux tiers des actions ou des
+droits de vote d'une société qui vient à contrôler, au sens de l'article L. 233-3 du code de commerce, l'entreprise de
+marché, ou encore
+
+6° Qui atteignent, en cumulant les actions ou des droits de vote possédés dans les conditions des 1° à 5°, l'un des seuils du
+dixième, du cinquième, du tiers, de la moitié ou des deux tiers.
+
+Les déclarations mentionnées à l'article D. 441-1 précisent le nombre d'actions et le nombre de droits de vote de
+l'entreprise de marché détenus directement ou indirectement et leurs modalités de calcul.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°94-350 du 2 mai 1994 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1744 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-904 du 15 mai 2007 - art. 3
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-3 (M)
+	  - Code monétaire et financier - art. L441-1 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D441-1 (V)
+	  - Code monétaire et financier - art. D754-4 (Ab)
+
+
+###### Article D441-3
+
+Les déclarations mentionnées à l'article D. 441-1 sont effectuées dans un délai de sept jours à compter du franchissement de
+seuil.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°94-350 du 2 mai 1994 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1744 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-904 du 15 mai 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D441-1 (V)
 
 
 ### Titre V : La protection des investisseurs
@@ -73539,135 +75698,36 @@ sera valablement libérée en lui remboursant le montant du dépôt sur sa quitt
 	  - Ordonnance n°1816-07-03 du 3 juillet 1816 - art. 11 (Ab)
 
 
-##### Section 3 : La Poste.
-
-###### Article R*518-44
-
-Les autorités administratives compétentes sont respectivement le ministre chargé des postes et télécommunications et le
-ministre chargé de l'économie pour l'accord et pour l'agrément mentionnés à l'article R. 518-43.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-1214 1990-12-29 art 12 de l'annexe (ecqc les décisions des ministres)
-
-	**Créé par**:
-
-	  - Décret n°2005-1006 2005-08-02 Annexe JORF 25 août 2005
-
-	**Codifié par**:
-
-	  - Décret n°2005-1006 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R518-43 (Ab)
-
-
-###### Article R518-43
-
-La Poste peut distribuer librement des produits d'épargne pour le compte de ses filiales ou de tout autre tiers dans le
-respect de la législation et de la réglementation bancaire. Elle pourra notamment contracter avec d'autres établissements que
-la Caisse des dépôts et consignations. Elle en informe le ministre chargé des postes et télécommunications et le ministre
-chargé de l'économie, un mois au moins avant d'offrir ces produits à sa clientèle.
-
-La Poste peut offrir pour son compte propre de nouveaux produits d'épargne et de placements financiers. Afin de vérifier que
-La Poste demeure dans le domaine d'activités défini à l'article 8 du cahier des charges annexé au décret n° 90-1214 du 29
-décembre 1990 relatif au cahier des charges de La Poste et au code des postes et télécommunications, ces décisions de La
-Poste sont soumises à l'accord préalable et à l'agrément de deux autorités administratives compétentes. Ces dernières
-vérifient également que la protection des épargnants est convenablement assurée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°90-1214 1990-12-29 annexe
-
-	**Anciens textes**:
-
-	  - Décret n°90-1214 1990-12-29 art 12 de l'annexe (2e et 3e alinéas, sauf ecqc la décision des ministres)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R*518-44 (Ab)
-
-
-###### Article R518-45
-
-L'accord ou l'agrément des autorités administratives compétentes mentionnés à l'article R.* 518-44 sont réputés tacitement
-accordés à l'expiration d'un délai de trois mois à compter de la transmission du projet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-1214 1990-12-29 art 12 de l'annexe (4e alinéa)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier R518-44
-
-
 ##### Section 4 : La Caisse nationale d'épargne.
 
 ###### Article R518-46
 
-I. - La Poste assure la gestion administrative et commerciale de la Caisse nationale d'épargne pour le compte de l'Etat.
+I. - L'établissement de crédit mentionné à l'article L. 518-26 du code monétaire et financier assure la gestion
+administrative et commerciale de la Caisse nationale d'épargne pour le compte de l'Etat dans des conditions déterminées par
+une convention conclue entre l'Etat, La Poste et cet établissement.
 
-Elle assure la collecte des produits d'épargne de la Caisse nationale d'épargne, à savoir les livrets A, les livrets
-supplémentaires définis à l'article L. 221-1, les livrets et plans d'épargne logement, les livrets d'épargne populaire, les
-comptes pour le développement industriel (Codévi) et les plans d'épargne populaire distribués dans le cadre de la Caisse
-nationale d'épargne.
-
-II. - La Poste procède à la centralisation intégrale des fonds reçus au titre des livrets A et livret supplémentaire de la
-Caisse nationale d'épargne à la Caisse des dépôts et consignations selon des modalités précisées par une convention conclue
-avec la Caisse des dépôts et consignations. Cette convention, qui est approuvée par le ministre chargé des postes et
-télécommunications et par le ministre chargé de l'économie, précise les conditions de tenue des comptes.
-
-III. - La Poste procède à la centralisation intégrale des fonds reçus au titre des autres produits cités ci-dessus à la
-Caisse des dépôts et consignations selon des modalités précisées par des conventions conclues avec la Caisse des dépôts et
-consignations. Ces conventions, qui sont approuvées par le ministre chargé des postes et télécommunications et par le
-ministre chargé de l'économie, précisent notamment les conditions de tenue des comptes et les modalités selon lesquelles le
-ministre des postes et télécommunications et La Poste sont informés par la Caisse des dépôts et consignations de la gestion
-des fonds collectés.
-
-La convention relative à l'épargne-logement précise également les conditions dans lesquelles La Poste offre des prêts
-principaux et complémentaires d'épargne logement.
+II. - L'établissement de crédit mentionné à l'article L. 518-26 procède à la centralisation intégrale des fonds reçus au
+titre des livrets A de la Caisse nationale d'épargne à la Caisse des dépôts et consignations selon des modalités précisées
+par une convention conclue avec la Caisse des dépôts et consignations. Cette convention, qui est approuvée par le ministre
+chargé des postes et télécommunications et par le ministre chargé de l'économie, précise les conditions de tenue des comptes.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-1214 1990-12-29 art 11 de l'annexe
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L221-1 (M)
+	  - Code monétaire et financier - art. L518-26
 
 	**Cité par**:
 
@@ -73677,48 +75737,25 @@ principaux et complémentaires d'épargne logement.
 
 ###### Article R518-47
 
-La gestion administrative et commerciale du livret A, assurée par La Poste pour le compte de l'Etat, dans les conditions
-prévues par l'article R. 518-46, fait l'objet d'une commission prenant en compte le coût de collecte, les gains de
-productivité et une incitation à la collecte, selon des modalités fixées par le contrat de plan. Cette commission est due à
-La Poste quel que soit le rendement du portefeuille géré par la Caisse des dépôts et consignations.
+La gestion administrative et commerciale du livret A, assurée par l'établissement de crédit mentionné à l'article L. 518-26
+pour le compte de l'Etat, dans les conditions prévues par l'article R. 518-46, fait l'objet d'une commission prenant en
+compte le coût de collecte, les gains de productivité et une incitation à la collecte, selon des modalités fixées par le
+contrat de plan. Cette commission est due à l'établissement de crédit mentionné à l'article L. 518-26 quel que soit le
+rendement du portefeuille géré par la Caisse des dépôts et consignations.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-1214 1990-12-29 art 38 de l'annexe (6°, a, 1er alinéa)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Cite**:
-
-	  - Code monétaire et financier - art. R518-46 (M)
-
-
-###### Article R518-48
-
-La gestion administrative et commerciale des autres produits d'épargne de la Caisse nationale d'épargne est rémunérée par des
-commissions, dont les modalités de calcul sont fixées par les conventions passées entre La Poste et la Caisse des dépôts et
-consignations, qui sont mentionnées au III de l'article R. 518-46.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-1214 1990-12-29 art 38 de l'annexe (6°, b)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L518-26 (M)
 	  - Code monétaire et financier - art. R518-46 (M)
 
 
@@ -73770,19 +75807,26 @@ d'épargne prévu par la loi du 5 décembre 1922 sur les habitations à loyer mo
 ###### Article R518-51
 
 Les actes relatifs aux cessions, aux saisies conservatoires et aux saisies-attribution pratiquées à l'encontre des titulaires
-de compte de la Caisse nationale d'épargne sont notifiés au centre de la Caisse nationale d'épargne où sont tenus les comptes
-faisant l'objet de ces actes.
+de compte de la Caisse nationale d'épargne sont notifiés au siège de l'établissement de crédit mentionné à l'article L.
+518-26.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 31
-	  - Code des caisses d'épargne - art. 31 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+	**Anciens textes**:
+
+	  - Code des caisses d'épargne - art. 31 (Ab)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-26 (M)
 
 	**Cité par**:
 
@@ -73795,9 +75839,9 @@ I. - Sont affectés chaque année au fonds de réserve et de garantie de la Cais
 
 1° Le résultat bénéficiaire de la gestion du fonds lui-même au titre de l'exercice précédent ;
 
-2° Le résultat bénéficiaire de la gestion des fonds du livret A ou du livret supplémentaire de la Caisse nationale d'épargne,
-après paiement par la Caisse des dépôts et consignations des intérêts dus aux déposants et de la commission qui rémunère La
-Poste ;
+2° Le résultat bénéficiaire de la gestion des fonds du livret A de la Caisse nationale d'épargne, après paiement par la
+Caisse des dépôts et consignations des intérêts dus aux déposants et de la commission qui rémunère l'établissement de crédit
+mentionné à l'article L. 518-26 du code monétaire et financier ;
 
 3° Les retenues d'intérêt effectuées en application des dispositions de l'article R. 221-6 ;
 
@@ -73806,48 +75850,52 @@ Poste ;
 II. - Peuvent seules être imputées sur le fonds de réserve et de garantie de la Caisse nationale d'épargne :
 
 1° Les pertes qui viendraient à résulter soit de différences d'intérêts, soit d'opérations destinées à assurer le service des
-remboursements de leurs fonds aux déposants sur les livrets A et supplémentaire de la Caisse nationale d'épargne ;
+remboursements de leurs fonds aux déposants sur les livrets A de la Caisse nationale d'épargne ;
 
 2° Les sommes à prélever à titre définitif ou à titre d'avance à la Caisse nationale d'épargne pour faire face aux pertes
-déjà constatées ou qui seraient ultérieurement reconnues dans sa gestion au titre de ces livrets.
+déjà constatées ou qui seraient ultérieurement reconnues dans sa gestion au titre du livret A.
 
 III. - Sous réserve des dispositions du II ci-dessus, les dispositions de l'article L. 512-101 sont applicables au fonds de
 réserve et de garantie de la Caisse nationale d'épargne.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 35 (alinéas II, III et IV)
-
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L221-5 (M)
-	  - Code monétaire et financier - art. L512-101 (V)
-	  - Code monétaire et financier - art. R221-6 (V)
+	  - Code monétaire et financier - art. L221-5
+	  - Code monétaire et financier - art. L512-101
+	  - Code monétaire et financier - art. L518-26
+	  - Code monétaire et financier - art. R221-6
 
 
 ###### Article R518-53
 
 Chaque année sont prélevés sur le fonds de réserve et de garantie de la Caisse nationale d'épargne et affectés au budget
-général des crédits nécessaires à la rémunération de la garantie accordée par l'Etat aux fonds des livrets A et livrets
-supplémentaires de la Caisse nationale d'épargne. Le montant de cette rémunération est fixé par décret après avis de la
-commission de surveillance de la Caisse des dépôts et consignations.
+général des crédits nécessaires à la rémunération de la garantie accordée par l'Etat aux fonds des livrets A de la Caisse
+nationale d'épargne. Le montant de cette rémunération est fixé par décret après avis de la commission de surveillance de la
+Caisse des dépôts et consignations.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 35-1
-	  - Code des caisses d'épargne - art. 35-1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 	**Cité par**:
 
@@ -73855,13 +75903,21 @@ commission de surveillance de la Caisse des dépôts et consignations.
 	  - Décret n°2007-685 du 4 mai 2007 - art. 2 (V)
 	  - Code monétaire et financier - art. R518-54 (Ab)
 
+	**Abrogé par**:
+
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
+
+	**Anciens textes**:
+
+	  - Code des caisses d'épargne - art. 35-1 (Ab)
+
 
 ###### Article R518-54
 
 Le montant de la rémunération prévue à l'article R. 518-53 ne peut avoir pour effet de ramener le montant du fonds de réserve
 et de garantie de la Caisse nationale d'épargne institué par l'article L. 518-28 à une somme inférieure à 2 % de l'encours
-annuel moyen des fonds reçus par La Poste au titre des livrets A et livrets supplémentaires et versés à la Caisse des dépôts
-et consignations.
+annuel moyen des fonds reçus par L'établissement de crédit mentionné à l'article L .518-26 au titre des livrets A et versés à
+la Caisse des dépôts et consignations.
 
 **Liens relatifs à cet article**
 
@@ -73869,62 +75925,54 @@ et consignations.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
+
 	**Anciens textes**:
 
 	  - Code des caisses d'épargne - art. 35-2 (Ab)
-	  - Code des caisses d'épargne art 35-2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L518-28 (V)
-	  - Code monétaire et financier - art. R518-53 (M)
+	  - Code monétaire et financier - art. L518-26
+	  - Code monétaire et financier - art. L518-28
+	  - Code monétaire et financier - art. R518-53
 
 
 ###### Article R518-55
 
 Lorsque le montant du fonds de réserve et de garantie de la Caisse nationale d'épargne excède 8 % du montant des fonds versés
-par La Poste à la Caisse des dépôts et consignations au titre des livrets A et livrets supplémentaires, le montant de cet
-excédent est versé au fonds de réserve du financement du logement prévu par le décret n° 93-735 du 29 mars 1993 relatif au
-fonds de réserve du financement du logement.
+par l'établissement de crédit mentionné à l'article L. 518-26 à la Caisse des dépôts et consignations au titre des livrets A,
+le montant de cet excédent est versé au fonds de réserve du financement du logement prévu par le décret n° 93-735 du 29 mars
+1993 relatif au fonds de réserve du financement du logement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 35-3
-	  - Code des caisses d'épargne - art. 35-3 (Ab)
 
 	**Cite**:
 
-	  - Décret n°93-735 1993-03-29
+	  - Décret n°93-735 du 29 mars 1993
+	  - Code monétaire et financier - art. L518-26
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
 
-###### Article R518-56
-
-La Caisse nationale d'épargne peut obtenir qu'une partie de ses fonds soit employée chaque année au financement de prêts
-complémentaires des prêts d'épargne logement consentis à ses déposants.
-
-Le montant de ces placements est fixé chaque année par décision du ministre chargé de l'économie après consultation du
-ministre chargé de la poste, en tenant compte notamment de l'évolution de l'encours des fonds utilisables par le financement
-de ces prêts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-1067 du 31 décembre 1966 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 	**Abrogé par**:
 
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
+
+	**Anciens textes**:
+
+	  - Code des caisses d'épargne - art. 35-3 (Ab)
 
 
 ##### Section 5 : Les associations sans but lucratif habilitées à faire certains prêts.
@@ -76748,18 +78796,18 @@ particulière de chaque catégorie d'organisme financier.
 Le ministre chargé de l'économie établit ces règlements pour les agents des marchés interbancaires et les organismes
 mentionnés à l'article L. 518-1.
 
-Le contrôle de l'inspection générale des finances sur les services financiers de La Poste prévu à l'article L. 564-3 est
-exercé en liaison avec l'inspection générale des postes et télécommunications.
+Le contrôle de l'inspection générale des finances sur La Poste prévu à l'article L. 564-3 est exercé en liaison avec
+l'inspection générale des postes et télécommunications.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°91-160 1991-02-13 art 7 (sauf dernier alinéa)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 	**Cite**:
 
@@ -76841,9 +78889,9 @@ documents prescrits par les articles L. 515-8 et L. 515-10 ou d'effectuer une fa
 
 ###### Article R611-1
 
-Le ministre chargé de l'économie peut étendre aux services financiers de La Poste, à la Caisse des dépôts et consignations et
-aux comptables du Trésor les dispositions relatives aux conditions des opérations de banque effectuées par les établissements
-de crédit prises en application du présent chapitre.
+Le ministre chargé de l'économie peut étendre à la Caisse des dépôts et consignations et aux comptables du Trésor les
+dispositions relatives aux conditions des opérations de banque effectuées par les établissements de crédit prises en
+application du présent chapitre.
 
 Toutefois, les dispositions mentionnées à l'alinéa précédent ne peuvent être rendues applicables ni aux consignations, ni au
 régime des fonds dont des dispositions législatives ou réglementaires propres à ces fonds confient la gestion à la Caisse des
@@ -76853,38 +78901,44 @@ dépôts et consignations en raison du statut de cet établissement.
 
 	**Anciens textes**:
 
-	  - Décret n°84-708 du 24 juillet 1984 - art. 2 (M)
 	  - Décret n°84-708 du 24 juillet 1984 - art. 2 (MMN)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article R611-2
 
-Le ministre chargé de l'économie peut étendre aux services financiers de La Poste, à la Caisse des dépôts et consignations et
-aux comptables du Trésor les dispositions relatives à l'organisation des services communs aux établissements de crédit prises
-en application du présent chapitre.
+Le ministre chargé de l'économie peut étendre à la Caisse des dépôts et consignations et aux comptables du Trésor les
+dispositions relatives à l'organisation des services communs aux établissements de crédit prises en application du présent
+chapitre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°84-708 du 24 juillet 1984 - art. 3 (M)
 	  - Décret n°84-708 du 24 juillet 1984 - art. 3 (MMN)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
+
 
 ###### Article R611-3
 
-Le ministre chargé de l'économie peut étendre aux services financiers de La Poste et aux comptables du Trésor les
-dispositions comptables prises en application du présent chapitre. Toutefois, cette extension ne peut aller au-delà de
-l'établissement de tableaux de correspondance permettant de fournir sur les opérations de banque qu'ils effectuent des
-informations comptables identiques à celles des établissements de crédit.
+Le ministre chargé de l'économie peut étendre aux comptables du Trésor les dispositions comptables prises en application du
+présent chapitre. Toutefois, cette extension ne peut aller au-delà de l'établissement de tableaux de correspondance
+permettant de fournir sur les opérations de banque qu'ils effectuent des informations comptables identiques à celles des
+établissements de crédit.
 
 Le ministre chargé de l'économie peut étendre à la Caisse des dépôts et consignations les dispositions comptables prises en
 application du présent chapitre.
@@ -76893,12 +78947,15 @@ application du présent chapitre.
 
 	**Anciens textes**:
 
-	  - Décret n°84-708 du 24 juillet 1984 - art. 4 (M)
 	  - Décret n°84-708 du 24 juillet 1984 - art. 4 (MMN)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
 #### Chapitre II : Comité des établissements de crédit et des entreprises d'investissement
