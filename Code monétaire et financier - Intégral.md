@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -1812,35 +1812,19 @@ dispositions.
 ###### Article L131-35
 
 Le tiré doit payer même après l'expiration du délai de présentation. Il doit aussi payer même si le chèque a été émis en
-violation de l'injonction prévue à l'article L. 131-73 ou de l'interdiction prévue au deuxième alinéa de l'article L. 163-6.
+violation de l'injonction prévue à l'article L. 131-73 ou de l'interdiction prévue au deuxième alinéa de l'article L. 163-6. 
 
 Il n'est admis d'opposition au paiement par chèque qu'en cas de perte, de vol ou d'utilisation frauduleuse du chèque, de
-redressement ou de liquidation judiciaires du porteur. Le tireur doit immédiatement confirmer son opposition par écrit, quel
-que soit le support de cet écrit.
+procédure de sauvegarde, de redressement ou de liquidation judiciaires du porteur. Le tireur doit immédiatement confirmer son
+opposition par écrit, quel que soit le support de cet écrit. 
 
 Tout banquier doit informer par écrit les titulaires de compte des sanctions encourues en cas d'opposition fondée sur une
-autre cause que celles prévues au présent article.
+autre cause que celles prévues au présent article. 
 
 Si, malgré cette défense, le tireur fait une opposition pour d'autres causes, le juge des référés, même dans le cas où une
 instance au principal est engagée, doit, sur la demande du porteur, ordonner la mainlevée de l'opposition.
 
-**Nota:**
-
-Loi 2005-516 2005-05-20 art. 16 V : 
-
-1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
-juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
-dispositions. 
-
-2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
-2005 fixe la date de transfert prévu au 31 décembre 2005.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 32
-	  - Décret-loi du 30 octobre 1935 - art. 32 (Ab)
 
 	**Codifié par**:
 
@@ -1848,17 +1832,21 @@ dispositions.
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-73 (M)
-	  - Code monétaire et financier - art. L163-6 (M)
+	  - Code monétaire et financier - art. L131-73 (V)
+	  - Code monétaire et financier - art. L163-6 (V)
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L163-1 (V)
 	  - Code monétaire et financier - art. R131-51 (V)
+
+	**Anciens textes**:
+
+	  - Décret-loi du 30 octobre 1935 - art. 32 (Ab)
 
 
 ###### Article L131-36
@@ -4119,17 +4107,13 @@ alinéa et permettant, à son titulaire, exclusivement de retirer des fonds.
 L'ordre ou l'engagement de payer donné au moyen d'une carte de paiement est irrévocable.
 
 Il ne peut être fait opposition au paiement qu'en cas de perte, de vol ou d'utilisation frauduleuse de la carte ou des
-données liées à son utilisation, de redressement ou de liquidation judiciaires du bénéficiaire.
+données liées à son utilisation, de procédure de sauvegarde, de redressement ou de liquidation judiciaires du bénéficiaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 34 () JORF 16 novembre 2001
 
 	**Cité par**:
 
@@ -4140,9 +4124,12 @@ données liées à son utilisation, de redressement ou de liquidation judiciaire
 	  - Code monétaire et financier - art. L741-2 (M)
 	  - Code monétaire et financier - art. L751-2 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
+
 	**Anciens textes**:
 
-	  - Décret-loi 1935-10-30 art. 57-2
 	  - Décret-loi du 30 octobre 1935 - art. 57-2 (Ab)
 
 
@@ -5556,14 +5543,14 @@ saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'app
 III. - La recherche, la constatation et la poursuite des infractions mentionnées au I sont effectuées dans les conditions
 fixées par le code des douanes.
 
-Dans le cas où l'amende prévue au I est infligée, la majoration de 40 % mentionnée au premier alinéa de l'article 1759 du
+Dans le cas où l'amende prévue au I est infligée, la majoration de 40 % mentionnée au premier alinéa de l'article 1758 du
 code général des impôts n'est pas appliquée.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1759
+	  - CGI 1758
 	  - Code monétaire et financier - art. L152-1 (M)
 
 	**Anciens textes**:
@@ -5576,7 +5563,7 @@ code général des impôts n'est pas appliquée.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 24 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -6830,23 +6817,23 @@ Les obligations d'information concernant les détenteurs de titres sont fixées 
 	  - Code de commerce. - art. L228-2 (M)
 
 
-##### Section 3 : Règles applicables en cas de redressement ou liquidation judiciaire d'un intermédiaire habilité.
+##### Section 3 : Règles applicables en cas de procédure de sauvegarde, de redressement ou liquidation judiciaire d'un intermédiaire habilité.
 
 ###### Article L211-6
 
-En cas d'ouverture d'une procédure de redressement ou de liquidation judiciaires d'un établissement teneur de comptes,
-l'administrateur judiciaire ou le liquidateur, conjointement avec l'administrateur provisoire ou le liquidateur nommé, le cas
-échéant, par la commission bancaire, vérifie instrument financier par instrument financier que l'ensemble des titres détenus
-en compte courant chez un dépositaire central ou chez un autre intermédiaire au nom de l'intermédiaire défaillant, quelle que
-soit la nature des comptes ouverts chez ces derniers, sont en nombre suffisant pour que l'intermédiaire puisse remplir ses
-obligations vis-à-vis des propriétaires des instruments financiers inscrits en compte dans ses livres. En cas d'insuffisance
-du nombre de ces titres, il est procédé instrument financier par instrument financier à une répartition proportionnelle des
-titres entre les propriétaires ; à proportion des titres rendus disponibles, leurs propriétaires peuvent les faire virer à un
-compte tenu par un autre intermédiaire ou par la personne morale émettrice.
+En cas d'ouverture d'une procédure de sauvegarde, de redressement ou de liquidation judiciaires d'un établissement teneur de
+comptes, l'administrateur judiciaire ou le liquidateur, conjointement avec l'administrateur provisoire ou le liquidateur
+nommé, le cas échéant, par la commission bancaire, vérifie instrument financier par instrument financier que l'ensemble des
+titres détenus en compte courant chez un dépositaire central ou chez un autre intermédiaire au nom de l'intermédiaire
+défaillant, quelle que soit la nature des comptes ouverts chez ces derniers, sont en nombre suffisant pour que
+l'intermédiaire puisse remplir ses obligations vis-à-vis des propriétaires des instruments financiers inscrits en compte dans
+ses livres. En cas d'insuffisance du nombre de ces titres, il est procédé instrument financier par instrument financier à une
+répartition proportionnelle des titres entre les propriétaires ; à proportion des titres rendus disponibles, leurs
+propriétaires peuvent les faire virer à un compte tenu par un autre intermédiaire ou par la personne morale émettrice. 
 
 Pour la créance correspondant aux instruments financiers dont la disposition n'aura pu être rendue aux propriétaires, faute
-d'une encaisse suffisante chez le dépositaire central, ceux-ci sont dispensés de la déclaration prévue à l'article L. 621-43
-du code de commerce.
+d'une encaisse suffisante chez le dépositaire central, ceux-ci sont dispensés de la déclaration prévue à l'article L. 622-24
+du code de commerce. 
 
 Le juge commissaire est informé du résultat de la vérification opérée par l'administrateur judiciaire ou le liquidateur et,
 le cas échéant, de la répartition proportionnelle des titres ainsi que des virements de comptes effectués à la demande des
@@ -6854,26 +6841,27 @@ propriétaires.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Code monétaire et financier art. L431-6
+
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 22 () JORF 7 mai 2005
+	  - Loi n°2005-845 2005-07-26 annexe JORF 27 juillet 2006 en vigueur le 1er janvier 2006
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-43 (M)
+	  - Code de commerce. - art. L622-24 (V)
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L532-18 (VD)
 	  - Code monétaire et financier - art. L613-31 (V)
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier art. L431-6
 
 
 #### Chapitre II : Titres de capital et titres donnant accès au capital.
@@ -7384,7 +7372,7 @@ La constitution en gage des titres de créances négociables est réalisée conf
 En cas de redressement judiciaire des biens d'un intermédiaire financier teneur de comptes, les titulaires des titres de
 créances négociables inscrits en compte font virer l'intégralité de leurs droits à un compte tenu par un autre intermédiaire
 habilité ; le juge commissaire est informé de ce virement. En cas d'insuffisance des inscriptions, ils font une déclaration
-au représentant des créanciers pour le complément de leurs droits.
+au mandataire judiciaire pour le complément de leurs droits.
 
 **Liens relatifs à cet article**
 
@@ -7395,6 +7383,10 @@ au représentant des créanciers pour le complément de leurs droits.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2006 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -11742,9 +11734,9 @@ dont elle est propriétaire.
 
 ###### Article L214-56
 
-S'il y a faillite personnelle, liquidation ou redressement judiciaires atteignant l'un des associés d'une société civile
-faisant appel public à l'épargne, il est procédé à l'inscription de l'offre de cession des parts de l'associé sur le registre
-de la société mentionné à l'article L. 214-59.
+S'il y a faillite personnelle, liquidation, redressement ou sauvegarde judiciaires atteignant l'un des associés d'une société
+civile faisant appel public à l'épargne, il est procédé à l'inscription de l'offre de cession des parts de l'associé sur le
+registre de la société mentionné à l'article L. 214-59.
 
 **Liens relatifs à cet article**
 
@@ -11756,9 +11748,13 @@ de la société mentionné à l'article L. 214-59.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-59 (M)
+	  - Code monétaire et financier - art. L214-59 (V)
 
 
 ###### Article L214-57
@@ -15606,6 +15602,12 @@ remboursables, compte tenu du soutien dont il peut par ailleurs bénéficier. Lo
 intervention. Il peut en particulier subordonner celle-ci à la cession totale ou partielle de l'établissement de crédit ou à
 l'extinction de son activité, notamment par la cession de son fonds de commerce.
 
+Les sommes versées par le fonds de garantie dans le cadre de l'intervention préventive bénéficient du privilège mentionné à
+l'article L. 611-11 du code de commerce.
+
+Le fonds de garantie ne peut être tenu responsable des préjudices subis du fait des concours consentis, sauf dans les cas
+limitativement énumérés à l'article L. 650-1 du même code.
+
 III. - Pour l'application des présentes dispositions, le fonds de garantie peut participer, sur demande d'un organe central
 mentionné à l'article L. 511-30, à l'action de ce dernier en prenant en charge une partie du coût des mesures destinées à
 garantir la solvabilité d'un établissement de crédit affilié à cet organe central.
@@ -15659,8 +15661,14 @@ de la juridiction administrative.
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 172 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cite**:
 
+	  - Code de commerce. - art. L611-11 (V)
+	  - Code de commerce. - art. L650-1 (V)
 	  - Code monétaire et financier - art. L312-4 (M)
 	  - Code monétaire et financier - art. L511-30 (M)
 
@@ -16860,14 +16868,11 @@ prêts participatifs ceux-ci sont, pour les répartitions à intervenir, placés
 
 ###### Article L313-16
 
-En cas de redressement judiciaire par continuation de l'entreprise débitrice, le remboursement des prêts participatifs et le
-paiement des rémunérations prévues sont suspendus pendant toute la durée de l'exécution du plan de continuation.
+En cas de procédure de sauvegarde ou de redressement judiciaire par continuation de l'entreprise débitrice, le remboursement
+des prêts participatifs et le paiement des rémunérations prévues sont suspendus pendant toute la durée de l'exécution des
+plans de sauvegarde ou de redressement judiciaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°78-741 1978-07-13 art. 27 al. 1
 
 	**Codifié par**:
 
@@ -16875,7 +16880,7 @@ paiement des rémunérations prévues sont suspendus pendant toute la durée de 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 46 () JORF 7 mai 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 	**Cité par**:
 
@@ -18059,29 +18064,29 @@ modalités d'information du public sur la garantie accordée.
 
 ###### Article L313-51
 
-Un arrêté du ministre chargé de l'économie précise notamment :
+Un arrêté du ministre chargé de l'économie précise notamment : 
 
-1. Les modalités d'indemnisation ;
+1. Les modalités d'indemnisation ; 
 
 2. Le montant global et la formule de répartition des cotisations annuelles dues par les établissements adhérents au
 mécanisme, en tenant compte notamment d'indicateurs objectifs de la situation financière de chacun des établissements
-concernés ;
+concernés ; 
 
 3. Les conditions dans lesquelles une partie de ces contributions peut ne pas être versée au mécanisme de garantie moyennant
-la constitution de garanties appropriées.
+la constitution de garanties appropriées. 
 
 Les cotisations dues par les établissements affiliés à un des organes centraux mentionnés à l'article L. 511-30 sont
-directement versées au fonds de garantie par cet organe central.
+directement versées au fonds de garantie par cet organe central. 
 
 Dans les conditions et selon les modalités prescrites à l'article L. 313-50 et au présent article, le mécanisme de garantie
 des cautions prend en charge rétroactivement les engagements de caution exigés par un texte législatif ou réglementaire
-octroyés par tout établissement de crédit ayant fait l'objet d'une procédure de redressement judiciaire ouverte après le 1er
-janvier 1996 et qui n'a pu intégralement honorer ces engagements.
+octroyés par tout établissement de crédit ayant fait l'objet d'une procédure de sauvegarde ou de redressement judiciaire
+ouverte après le 1er janvier 1996 et qui n'a pu intégralement honorer ces engagements. 
 
 Pour l'application de ces dispositions, le fonds de garantie des dépôts assume, dès l'agrément du président de son
 directoire, la charge financière de ces engagements de caution pour le compte du mécanisme de garantie des cautions jusqu'au
 premier appel des cotisations affectées à ce mécanisme. La charge supportée du fait de cette intervention par le fonds de
-garantie des dépôts est alors imputée sur le mécanisme de garantie des cautions.
+garantie des dépôts est alors imputée sur le mécanisme de garantie des cautions. 
 
 Nonobstant les dispositions de l'article L. 621-46 du code de commerce, les sommes versées par le mécanisme de garantie à ce
 titre confèrent au fonds de garantie un droit à répartition de dividende identique à celui des autres créanciers
@@ -18092,15 +18097,10 @@ chirographaires admis à cette répartition.
 	**Anciens textes**:
 
 	  - Loi n°84-46 du 24 janvier 1984 - art. 52-16 (Ab)
-	  - Loi n°99-532 1999-06-25 art. 72 II
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -18108,11 +18108,15 @@ chirographaires admis à cette répartition.
 	  - Code monétaire et financier - art. L733-7 (Ab)
 	  - Code monétaire et financier - art. L763-7 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
+
 	**Cite**:
 
 	  - Code de commerce. - art. L621-46 (Ab)
 	  - Code monétaire et financier - art. L313-50 (V)
-	  - Code monétaire et financier - art. L511-30 (M)
+	  - Code monétaire et financier - art. L511-30 (V)
 
 
 ### Titre II : Les services d'investissement et leurs services connexes
@@ -18611,23 +18615,24 @@ procédure nationale ou internationale organisant les relations entre deux parti
 de crédit, d'institution ou d'entreprise mentionnés à l'article L. 518-1, d'entreprise d'investissement ou d'adhérent à une
 chambre de compensation ou d'établissement non résident ayant un statut comparable, permettant l'exécution à titre habituel,
 par compensation ou non, de paiements ainsi que, pour ce qui concerne les systèmes de règlement et de livraison d'instruments
-financiers, la livraison de titres entre lesdits participants.
+financiers, la livraison de titres entre lesdits participants. 
 
 Sans préjudice des dispositions du 4 du IV de l'article L. 622-7 (1), le système doit soit avoir été institué par une
 autorité publique, soit être régi par une convention-cadre respectant les principes généraux d'une convention-cadre de place
 ou par une convention type. Le ministre chargé de l'économie notifie à la Commission européenne la liste des systèmes
-bénéficiant des dispositions du présent titre.
+bénéficiant des dispositions du présent titre. 
 
-Lorsqu'une procédure de redressement ou de liquidation judiciaires est ouverte à l'encontre d'un participant à un système de
-règlement interbancaire ou de règlement et de livraison d'instruments financiers de l'Espace économique européen, les droits
-et obligations découlant de sa participation ou liés à cette participation audit système sont déterminés par la loi qui régit
-le système, sous réserve que cette loi soit celle d'un Etat partie à l'accord sur l'Espace économique européen.
+Lorsqu'une procédure de sauvegarde, de redressement ou de liquidation judiciaires est ouverte à l'encontre d'un participant à
+un système de règlement interbancaire ou de règlement et de livraison d'instruments financiers de l'Espace économique
+européen, les droits et obligations découlant de sa participation ou liés à cette participation audit système sont déterminés
+par la loi qui régit le système, sous réserve que cette loi soit celle d'un Etat partie à l'accord sur l'Espace économique
+européen. 
 
 II. - Nonobstant toute disposition législative contraire, les paiements et les livraisons d'instruments financiers effectués
 dans le cadre de systèmes de règlements interbancaires ou dans le cadre de systèmes de règlement et de livraison
-d'instruments financiers, jusqu'à l'expiration du jour où est rendu un jugement d'ouverture de redressement ou de liquidation
-judiciaires à l'encontre d'un établissement participant, directement ou indirectement, à un tel système, ne peuvent être
-annulés, même au motif qu'est intervenu ce jugement.
+d'instruments financiers, jusqu'à l'expiration du jour où est rendu un jugement d'ouverture de redressement, de sauvegarde ou
+de liquidation judiciaires à l'encontre d'un établissement participant, directement ou indirectement, à un tel système, ne
+peuvent être annulés, même au motif qu'est intervenu ce jugement. 
 
 III. - Ces dispositions sont également applicables aux instructions de paiement ainsi qu'aux instructions de livraison
 d'instruments financiers, dès lors qu'elles ont acquis un caractère irrévocable dans l'un des systèmes mentionnés au II. Le
@@ -18636,8 +18641,7 @@ règles de fonctionnement de ce système.
 
 **Nota:**
 
-NOTA : l'article L. 622-7 du code monétaire et financier a été abrogé par l'article 48 I 1° de la loi n° 2003-706 du 1er août
-2003.
+l'article L. 622-7 du code monétaire et financier a été abrogé par l'article 48 I 1° de la loi n° 2003-706 du 1er août 2003.
 
 **Liens relatifs à cet article**
 
@@ -18686,7 +18690,7 @@ NOTA : l'article L. 622-7 du code monétaire et financier a été abrogé par l'
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 30 () JORF 16 mai 2001
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 	**Cite**:
 
@@ -30595,12 +30599,12 @@ des dépôts effectués par la société de crédit foncier auprès d'établisse
 service du paiement des obligations foncières et des autres ressources privilégiées mentionnées au 2 du I de l'article L.
 515-13 ;
 
-2. Lorsqu'une société de crédit foncier fait l'objet d'une procédure de redressement ou de liquidation judiciaires, ou de
-règlement amiable, les créances nées régulièrement des opérations mentionnées au 2 du I de l'article L. 515-13 sont payées à
-leur échéance contractuelle et par priorité à toutes les autres créances, assorties ou non de privilèges ou de sûretés, y
-compris les intérêts résultant de contrats, quelle qu'en soit la durée. Jusqu'à l'entier désintéressement des titulaires des
-créances privilégiées au sens du présent article, nul autre créancier de la société de crédit foncier ne peut se prévaloir
-d'un droit quelconque sur les biens et droits de cette société ;
+2. Lorsqu'une société de crédit foncier fait l'objet d'une procédure de sauvegarde, de redressement ou de liquidation
+judiciaires, ou de règlement amiable, les créances nées régulièrement des opérations mentionnées au 2 du I de l'article L.
+515-13 sont payées à leur échéance contractuelle et par priorité à toutes les autres créances, assorties ou non de privilèges
+ou de sûretés, y compris les intérêts résultant de contrats, quelle qu'en soit la durée. Jusqu'à l'entier désintéressement
+des titulaires des créances privilégiées au sens du présent article, nul autre créancier de la société de crédit foncier ne
+peut se prévaloir d'un droit quelconque sur les biens et droits de cette société ;
 
 3. La liquidation judiciaire d'une société de crédit foncier n'a pas pour effet de rendre exigibles les obligations et autres
 dettes bénéficiant du privilège mentionné au 1 du présent article.
@@ -30616,13 +30620,11 @@ l'article L. 515-13 ainsi qu'aux sommes dues, le cas échéant, au titre du cont
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 96 () JORF 2 août 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 	**Cité par**:
 
@@ -30812,28 +30814,44 @@ les débiteurs en sont informés par simple lettre.
 
 ##### Sous-section 5 : Redressement et liquidation judiciaires
 
+##### Sous-section 5 : Sauvegarde, redressement et liquidation judiciaires
+
 ###### Article L515-25
 
-Les dispositions de l'article L. 621-108 du code de commerce ne sont pas applicables aux contrats conclus par ou avec une
+Les dispositions de l'article L. 632-2 du code de commerce ne sont pas applicables aux contrats conclus par ou avec une
 société de crédit foncier, ni aux actes juridiques accomplis par une société de crédit foncier ou à son profit, dès lors que
 ces contrats ou ces actes sont directement relatifs aux opérations prévues à l'article L. 515-13.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
 	**Anciens textes**:
 
 	  - Loi n°99-532 du 25 juin 1999 - art. 101 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°2005-845 2005-07-26 annexe JORF 27 juillet 2006 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2013-544 du 27 juin 2013 - art. 4
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-108 (M)
-	  - Code monétaire et financier - art. L515-13 (M)
+	  - Code de commerce - art. L632-2
+	  - Code monétaire et financier - art. L515-13
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L513-18 (VD)
 
 	**Cité par**:
 
@@ -30866,9 +30884,9 @@ articles L. 613-18 et L. 613-22, les dispositions de l'article L. 613-25 sont ap
 
 ###### Article L515-27
 
-Nonobstant toutes dispositions contraires, et notamment du titre II du livre VI du code de commerce, le redressement ou la
-liquidation judiciaires d'une société détenant des actions d'une société de crédit foncier ne peut être étendue à la société
-de crédit foncier.
+Nonobstant toutes dispositions contraires, et notamment du titre II du livre VI du code de commerce, la sauvegarde, le
+redressement ou la liquidation judiciaires d'une société détenant des actions d'une société de crédit foncier ne peut être
+étendue à la société de crédit foncier.
 
 **Liens relatifs à cet article**
 
@@ -30878,9 +30896,11 @@ de crédit foncier.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 	**Cité par**:
 
@@ -30889,10 +30909,11 @@ de crédit foncier.
 
 ###### Article L515-28
 
-En cas de redressement ou de liquidation judiciaires d'une société chargée de la gestion ou du recouvrement, pour le compte
-d'une société de crédit foncier, des prêts, créances assimilées, titres et valeurs, des obligations ou des autres ressources
-prévus à l'article L. 515-13, les contrats qui prévoient cette gestion ou ce recouvrement peuvent être immédiatement
-résiliés, nonobstant toutes dispositions contraires et notamment celles du titre II du livre VI du code de commerce.
+En cas de sauvegarde, de redressement ou de liquidation judiciaires d'une société chargée de la gestion ou du recouvrement,
+pour le compte d'une société de crédit foncier, des prêts, créances assimilées, titres et valeurs, des obligations ou des
+autres ressources prévus à l'article L. 515-13, les contrats qui prévoient cette gestion ou ce recouvrement peuvent être
+immédiatement résiliés, nonobstant toutes dispositions contraires et notamment celles du titre II du livre VI du code de
+commerce.
 
 **Liens relatifs à cet article**
 
@@ -30902,17 +30923,15 @@ résiliés, nonobstant toutes dispositions contraires et notamment celles du tit
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 96 () JORF 2 août 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L515-13 (M)
+	  - Code monétaire et financier - art. L515-13 (V)
 
 
 ##### Sous-section 6 : Contrôles
@@ -31013,17 +31032,17 @@ lui commises dans l'exercice de ses fonctions.
 
 ###### Article L515-31
 
-Lorsque la société de crédit foncier fait l'objet d'une procédure de redressement ou de liquidation judiciaires, le
-contrôleur spécifique procède à la déclaration prévue à l'article L. 621-43 du code de commerce au nom et pour le compte des
-titulaires des créances bénéficiant du privilège défini à l'article L. 515-19.
+Lorsque la société de crédit foncier fait l'objet d'une procédure de sauvegarde, de redressement ou de liquidation
+judiciaires, le contrôleur spécifique procède à la déclaration prévue à l'article L. 622-24 du code de commerce au nom et
+pour le compte des titulaires des créances bénéficiant du privilège défini à l'article L. 515-19.
 
-Les dispositions des articles L. 225-233, L. 225-236, L. 225-239, L. 225-242, L. 820-4 à L. 820-7, L. 822-6, L. 822-7 et L.
-822-10 à L. 822-13 du code de commerce et l'article L. 613-9 du présent code sont applicables au contrôleur. La commission
-bancaire peut exercer l'action prévue à l'article L. 225-233 du code de commerce.
+Les dispositions des articles L. 823-7, L. 823-13, L. 823-14, L. 823-18, L. 822-18, L. 820-4 à L. 820-7, L. 822-6, L. 822-7
+et L. 822-10 à L. 822-13 du code de commerce et l'article L. 613-9 du présent code sont applicables au contrôleur. La
+commission bancaire peut exercer l'action prévue à l'article L. 823-7 du code de commerce.
 
-Par dérogation aux dispositions du dernier alinéa de l'article L. 225-236 du code de commerce, le droit d'information du
-contrôleur peut s'étendre à la communication des pièces, contrats et documents détenus par la société chargée de la gestion
-ou du recouvrement des prêts, créances assimilées, titres et valeurs, des obligations et autres ressources, en application de
+Par dérogation aux dispositions de l'article L. 823-14 du code de commerce, le droit d'information du contrôleur peut
+s'étendre à la communication des pièces, contrats et documents détenus par la société chargée de la gestion ou du
+recouvrement des prêts, créances assimilées, titres et valeurs, des obligations et autres ressources, en application de
 l'article L. 515-22, à condition que ces pièces, contrats et documents soient directement en rapport avec les opérations
 réalisées par cette société pour le compte de la société de crédit foncier.
 
@@ -31042,18 +31061,21 @@ réalisées par cette société pour le compte de la société de crédit foncie
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 66 () JORF 7 mai 2005
+	  - Loi n°2005-845 2005-07-26 annexe JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
 
 	**Cite**:
 
-	  - Code de commerce L621-43, L225-233, L225-236, L225-239, L225-242, L820-4 à L820-7, L822-6, L822-7, L822-10 à L822-13
-	  - Code de commerce. - art. L225-233 (M)
-	  - Code de commerce. - art. L225-236 (Ab)
-	  - Code de commerce. - art. L225-239 (M)
-	  - Code de commerce. - art. L225-242 (Ab)
-	  - Code de commerce. - art. L621-43 (M)
+	  - Code de commerce L622-24, L823-7, L823-13, L823-14, L823-18, L822-18, L820-4 à L820-7, L822-6, L822-7, L822-10 à L822-13
+	  - Code de commerce. - art. L622-24 (M)
+	  - Code de commerce. - art. L822-18 (V)
 	  - Code de commerce. - art. L822-6 (V)
 	  - Code de commerce. - art. L822-7 (V)
+	  - Code de commerce. - art. L823-13 (V)
+	  - Code de commerce. - art. L823-14 (V)
+	  - Code de commerce. - art. L823-18 (V)
+	  - Code de commerce. - art. L823-7 (V)
 	  - Code monétaire et financier - art. L515-19 (M)
 	  - Code monétaire et financier - art. L515-22 (M)
 	  - Code monétaire et financier - art. L613-9 (M)
@@ -40324,7 +40346,7 @@ Le montant de l'indemnisation revenant aux détenteurs non identifiés est consi
 
 ###### Article L613-26
 
-Par dérogation aux dispositions de l'article L. 621-1 du code de commerce, sont en état de cessation des paiements les
+Par dérogation aux dispositions de l'article L. 631-1 du code de commerce, sont en état de cessation des paiements les
 établissements de crédit qui ne sont pas en mesure d'assurer leurs paiements, immédiatement ou à terme rapproché.
 
 La procédure de liquidation judiciaire peut être ouverte à l'égard des établissements de crédit qui ont fait l'objet d'une
@@ -40344,11 +40366,11 @@ effectivement supérieur à l'actif diminué des provisions devant être constit
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 173 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-1 (M)
+	  - Code de commerce. - art. L631-1 (V)
 
 
 ###### Article L613-27
@@ -40383,7 +40405,7 @@ alinéas ci-dessus.
 
 Lorsqu'un administrateur provisoire a été désigné par la commission bancaire en application de l'article L. 613-18, le
 tribunal ne peut charger l'administrateur judiciaire que de la surveillance des opérations de gestion, telle qu'elle est
-prévue au 1° du II de l'article L. 621-22 du code de commerce.
+prévue au 1° du II de l'article L. 622-1 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -40397,7 +40419,7 @@ prévue au 1° du II de l'article L. 621-22 du code de commerce.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+	  - Loi n°2005-845 2005-07-26 annexe JORF 27 juillet 2006 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -40405,7 +40427,7 @@ prévue au 1° du II de l'article L. 621-22 du code de commerce.
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-22 (M)
+	  - Code de commerce. - art. L622-1 (M)
 	  - Code monétaire et financier - art. L613-18 (M)
 
 
@@ -40413,12 +40435,12 @@ prévue au 1° du II de l'article L. 621-22 du code de commerce.
 
 En cas d'ouverture ou de prononcé d'une procédure de liquidation judiciaire à l'égard d'un établissement de crédit ou d'une
 entreprise d'investissement, la commission bancaire nomme un liquidateur qui procède à l'inventaire des actifs, aux
-opérations de liquidation ainsi qu'aux licenciements, dans les conditions et selon les modalités prévues au chapitre II du
-titre II du livre VI du code de commerce.
+opérations de liquidation ainsi qu'aux licenciements, dans les conditions et selon les modalités prévues au titre IV du livre
+VI du code de commerce. 
 
-Le liquidateur judiciaire désigné par le tribunal procède, en application des articles L. 622-2 ou L. 622-5 du code de
-commerce, aux opérations prévues respectivement aux deux premiers alinéas de l'article L. 622-4 ou au troisième alinéa de
-l'article L. 622-5 du même code, à l'exclusion de l'inventaire des biens de l'entreprise et des opérations de liquidation.
+Le liquidateur judiciaire désigné par le tribunal procède, en application des articles L. 641-1 ou L. 622-5 du code de
+commerce, aux opérations prévues respectivement aux trois premiers alinéas de l'article L. 641-4 ou à l'article L. 622-5 du
+même code, à l'exclusion de l'inventaire des biens de l'entreprise et des opérations de liquidation.
 
 **Liens relatifs à cet article**
 
@@ -40432,24 +40454,25 @@ l'article L. 622-5 du même code, à l'exclusion de l'inventaire des biens de l'
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 173 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L622-2 (M)
-	  - Code de commerce. - art. L622-5 (M)
-	  - Code monétaire et financier - art. L622-4 (Ab)
+	  - Code de commerce. - art. L622-5 (V)
+	  - Code de commerce. - art. L641-1 (V)
+	  - Code de commerce. - art. L641-4 (V)
+	  - Code monétaire et financier L641-4
 
 
 ###### Article L613-30
 
 En cas d'ouverture d'une procédure de sauvegarde, de redressement ou de liquidation judiciaires à l'égard d'un établissement
-de crédit ou d'une entreprise d'investissement, sont dispensés de la déclaration prévue à l'article L. 621-43 du code de
+de crédit ou d'une entreprise d'investissement, sont dispensés de la déclaration prévue à l'article L. 622-24 du code de
 commerce, le fonds de garantie et les déposants pour leurs créances entrant pour tout ou partie dans le champ d'intervention
 du fonds.
 
 Le fonds informe les déposants du montant des créances exclues du champ d'intervention et précise les modalités de
-déclaration desdites créances auprès du représentant des créanciers.
+déclaration desdites créances auprès du mandataire judiciaire.
 
 Le représentant des créanciers établit les relevés de toutes les créances. Ces relevés doivent être mentionnés par le juge
 commissaire, déposés au greffe du tribunal de commerce et faire l'objet d'une mesure de publicité. En cas de contestation, le
@@ -40470,11 +40493,12 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2006 en vigueur le 1er janvier 2006
+	  - loi 2005-845 2005-07-26 art. 165, annexe JORF 27 juillet 2006 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-43 (M)
+	  - Code de commerce. - art. L622-24 (M)
 
 	**Cité par**:
 
@@ -40485,15 +40509,11 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 ###### Article L613-31
 
-Les dispositions relatives au redressement et à la liquidation des établissements de crédit et des entreprises
-d'investissement prévues aux articles L. 613-25 à L. 613-30 et L. 211-6 ne sont pas applicables aux procédures judiciaires
-ouvertes avant le 29 juin 1999.
+Les dispositions relatives à la sauvegarde, au redressement et à la liquidation des établissements de crédit et des
+entreprises d'investissement prévues aux articles L. 613-25 à L. 613-30 et L. 211-6 ne sont pas applicables aux procédures
+judiciaires ouvertes avant le 29 juin 1999.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°99-532 1999-06-25 art. 92 I
 
 	**Codifié par**:
 
@@ -40501,12 +40521,12 @@ ouvertes avant le 29 juin 1999.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 79 () JORF 7 mai 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-6 (M)
-	  - Code monétaire et financier L613-25 à L613-30, L211-6
+	  - Code monétaire et financier - art. L211-6 (V)
+	  - Code monétaire et financier - art. L613-25 (V)
 
 
 ##### Sous-section 2 : Mesures d'assainissement et de liquidation des établissements de crédit communautaires
@@ -40554,17 +40574,15 @@ Lorsqu'elles sont prises en France et qu'elles affectent ces droits, ces mesures
 
 1° Les mesures mentionnées au 3° du I de l'article L. 613-21 ;
 
-2° La procédure de règlement amiable mentionnée au titre Ier du livre VI du code de commerce lorsque la suspension provisoire
-des poursuites a été prononcée ;
+2° Abrogé.
 
-3° La procédure de redressement judiciaire mentionnée au titre II du livre VI du code de commerce.
+3° La procédure de redressement judiciaire mentionnée au livre VI du code de commerce.
 
 II. - Les mesures de liquidation mentionnées à la présente sous-section sont les procédures collectives ouvertes et
 contrôlées en France ou dans tout autre Etat membre par les autorités administratives ou judiciaires, destinées à réaliser le
 patrimoine sous la surveillance de ces autorités.
 
-Lorsqu'elles sont prises en France, ces mesures sont celles qui font l'objet du chapitre II du titre II du livre VI du code
-de commerce.
+Lorsqu'elles sont prises en France, ces mesures sont celles qui font l'objet du titre IV du livre VI du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -40576,9 +40594,9 @@ de commerce.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 174 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -54964,7 +54982,7 @@ Loi 2005-845 2005-07-26 annexe 1 : L'article L. 622-33 du code de commerce devie
 
 ###### Article R131-30
 
-Si la mesure d'interdiction d'émettre des chèques ayant fait l'objet d'une suspension en application de l'article L. 622-33
+Si la mesure d'interdiction d'émettre des chèques ayant fait l'objet d'une suspension en application de l'article L. 643-12
 du code de commerce reprend ses effets, l'ordonnance mentionnée à l'article 154-2 du décret n° 85-1388 du 27 décembre 1985
 relatif au redressement et à la liquidation judiciaires des entreprises est, dans les deux jours ouvrés de sa notification à
 la Banque de France, transmise par celle-ci à chaque banquier ayant déclaré un ou des incidents de paiement, accompagnée du
@@ -54987,12 +55005,11 @@ au IV de l'article L. 622-32 du code de commerce.
 
 	**Anciens textes**:
 
-	  - Décret n°92-456 1992-05-22 art 17-3
 	  - Décret n°92-456 du 22 mai 1992 - art. 17-3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V)
 
 
 ###### Article R131-31
@@ -57697,7 +57714,7 @@ VI. - Les dispositions du troisième alinéa de l'article 442-13 du code pénal 
 	  - Code monétaire et financier - art. R123-1 (M)
 
 
-#### Chapitre III : Infractions relatives aux chèques et aux cartes de paiement.
+#### Chapitre III : Infractions relatives aux chèques, aux cartes de paiement et aux virements
 
 ###### Article R163-1
 
@@ -57717,9 +57734,13 @@ conformément à l'article 132-11 du code pénal.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1738 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
-	  - Code pénal - art. 132-11 (M)
+	  - Code pénal - art. 132-11 (V)
 
 	**Cité par**:
 
@@ -57732,7 +57753,7 @@ conformément à l'article 132-11 du code pénal.
 
 Le fait, pour toute personne, d'interroger la Banque de France sur la régularité d'un chèque en méconnaissance des conditions
 fixées par le premier alinéa de l'article R. 131-5 est puni de l'amende prévue par les contraventions de la 5e classe. La
-récidive de la contravention prévue au présent article est réprimée conformément à l'article 132-11 du code pénal.
+récidive de la contravention prévue au présent article est réprimée conformément à l'article 132-11 du code pénal. 
 
 La même peine est applicable au mandataire qui ne se conforme pas aux dispositions du premier alinéa de l'article R. 131-8.
 
@@ -57747,11 +57768,15 @@ La même peine est applicable au mandataire qui ne se conforme pas aux dispositi
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1738 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
-	  - Code pénal - art. 132-11 (M)
-	  - Code monétaire et financier - art. R131-5 (M)
-	  - Code monétaire et financier - art. R131-8 (M)
+	  - Code pénal - art. 132-11 (V)
+	  - Code monétaire et financier - art. R131-5 (V)
+	  - Code monétaire et financier - art. R131-8 (V)
 
 	**Cité par**:
 
@@ -57759,6 +57784,42 @@ La même peine est applicable au mandataire qui ne se conforme pas aux dispositi
 	  - Code monétaire et financier - art. R741-3 (V)
 	  - Code monétaire et financier - art. R751-3 (V)
 	  - Code monétaire et financier - art. R761-3 (M)
+
+
+###### Article R163-3
+
+Le fait, pour toute personne chargée à un titre quelconque de la direction ou de l'administration d'un établissement de
+crédit, ou d'un des établissements ou services mentionnés à l'article L. 518-1 du code monétaire et financier, à l'exception
+du Trésor public, de facturer à un client pour ses opérations de paiement électronique en euros ou ses virements en euros
+d'un montant maximum de 50 000 euros opérés entre deux Etats membres des frais différents de ceux que l'établissement ou le
+service en cause lui facture pour des opérations nationales en euros à l'intérieur du territoire de l'Etat membre, de même
+nature et de même montant, pour lesquelles il dispose des mêmes renseignements, est puni de l'amende prévue pour les
+contraventions de 1re classe.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-467 1992-05-26 art 6
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1738 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006 rectificatif JORF 7 janvier 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-1 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R731-3 (V)
+	  - Code monétaire et financier - art. R741-3 (V)
+	  - Code monétaire et financier - art. R751-3 (V)
+	  - Code monétaire et financier - art. R761-3 (V)
 
 
 #### Chapitre V : Infractions à la législation sur les relations financières avec l'étranger
@@ -70428,6 +70489,41 @@ La récidive de la contravention au présent article est réprimée conformémen
 	  - Code monétaire et financier - art. R313-14 (V)
 
 
+###### Article R351-5
+
+Le fait, pour toute personne chargée à un titre quelconque de la direction ou de l'administration d'un établissement de
+crédit, ou d'un des établissements ou services mentionnés à l'article L. 518-1 du code monétaire et financier, à l'exception
+du Trésor public, de méconnaître l'obligation consistant, pour tout compte ayant vocation à recevoir des opérations initiées
+par des tiers, à indiquer sur le relevé de compte adressé au client, ou en annexe à celui-ci, le numéro international de
+compte bancaire (IBAN) du client et le code d'identification de banque (BIC) de l'établissement est puni de l'amende prévue
+par les contraventions de 1re classe.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-665 du 4 juillet 1972 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2005-1738 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-1 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R733-1 (V)
+	  - Code monétaire et financier - art. R743-1 (VD)
+	  - Code monétaire et financier - art. R753-1 (VD)
+	  - Code monétaire et financier - art. R763-1 (VD)
+
+
 #### Chapitre III : Infractions relatives au démarchage et à la fourniture à distance de services financiers.
 
 ###### Article R353-1
@@ -79539,21 +79635,23 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 
 ##### Paragraphe 2 : Dispositions relatives aux procédures de redressement et liquidation judiciaires et de règlement amiables applicables aux établissements de crédit et aux entreprises d'investissement.
 
+##### Paragraphe 2 : Dispositions relatives aux procédures de sauvegarde, de redressement, liquidation judiciaires et de procédures de conciliation applicables aux établissements de crédit et aux entreprises d'investissement
+
 ###### Article R613-14
 
-Avant qu'il ne soit statué sur l'ouverture d'une procédure de redressement ou de liquidation judiciaires à l'égard d'un
-établissement de crédit, d'une entreprise d'investissement ou d'un adhérent d'une chambre de compensation, le président du
-tribunal saisit la Commission bancaire d'une demande d'avis. Le greffier transmet cette demande sans délai. Il en informe le
-procureur de la République.
+Avant qu'il ne soit statué sur l'ouverture d'une procédure de sauvegarde, de redressement ou de liquidation judiciaires à
+l'égard d'un établissement de crédit, d'une entreprise d'investissement ou d'un adhérent d'une chambre de compensation, le
+président du tribunal saisit la Commission bancaire d'une demande d'avis. Le greffier transmet cette demande sans délai. Il
+en informe le procureur de la République. 
 
 La saisine de la Commission bancaire est écrite. Elle est accompagnée des pièces nécessaires à son information. Cette saisine
 est, à la diligence de la Commission bancaire, portée sans délai à la connaissance du président du directoire du fonds de
-garantie des dépôts lorsque la personne concernée est un adhérent du fonds.
+garantie des dépôts lorsque la personne concernée est un adhérent du fonds. 
 
 La Commission bancaire rend son avis dans un délai de vingt et un jours francs à compter de la réception de la demande
 d'avis. En cas d'urgence, le délai peut être abrégé par le président du tribunal, sans pouvoir toutefois être inférieur à
 cinq jours francs ouvrables. En l'absence de réponse de la Commission bancaire dans le délai imparti, son avis est réputé
-favorable à l'ouverture de la procédure.
+favorable à l'ouverture de la procédure. 
 
 L'avis de la Commission bancaire est écrit. Il précise si la personne participe à un système et, dans ce cas, rappelle les
 dispositions du troisième alinéa du I de l'article L. 330-1. Il est transmis par tout moyen au greffier, qui le remet au
@@ -79563,16 +79661,15 @@ président du tribunal et au procureur de la République. L'avis est versé au d
 
 	**Anciens textes**:
 
-	  - Décret n°84-708 du 24 juillet 1984 - art. 12-1 (M)
 	  - Décret n°84-708 du 24 juillet 1984 - art. 12-1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L330-1 (M)
+	  - Code monétaire et financier - art. L330-1 (V)
 
 	**Cité par**:
 
@@ -79582,9 +79679,9 @@ président du tribunal et au procureur de la République. L'avis est versé au d
 
 ###### Article R613-15
 
-Lorsque le tribunal décide de l'ouverture d'une procédure de redressement ou de liquidation judiciaires à l'encontre d'une
-des personnes mentionnées à l'article R. 613-14, le greffier transmet cette information, par écrit et sans délai, à la
-Commission bancaire.
+Lorsque le tribunal décide de l'ouverture d'une procédure de sauvegarde, de redressement ou de liquidation judiciaires à
+l'encontre d'une des personnes mentionnées à l'article R. 613-14, le greffier transmet cette information, par écrit et sans
+délai, à la Commission bancaire.
 
 **Liens relatifs à cet article**
 
@@ -79592,9 +79689,9 @@ Commission bancaire.
 
 	  - Décret n°84-708 du 24 juillet 1984 - art. 12-1-1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 	**Cite**:
 
@@ -79608,13 +79705,13 @@ Commission bancaire.
 ###### Article R613-16
 
 Le représentant légal d'un établissement de crédit ou d'une entreprise d'investissement qui envisage de déposer une requête
-tendant à l'ouverture d'une procédure de règlement amiable doit, par lettre recommandée avec accusé de réception ou lettre
-remise contre récépissé, saisir la Commission bancaire d'une demande d'avis préalablement à la saisine du président du
-tribunal. Cette demande comporte les pièces nécessaires à l'information de la Commission bancaire. La demande d'avis est, à
-la diligence de la Commission bancaire, portée sans délai à la connaissance du président du directoire du fonds de garantie.
+tendant à l'ouverture d'une procédure de conciliation doit, par lettre recommandée avec accusé de réception ou lettre remise
+contre récépissé, saisir la Commission bancaire d'une demande d'avis préalablement à la saisine du président du tribunal.
+Cette demande comporte les pièces nécessaires à l'information de la Commission bancaire. La demande d'avis est, à la
+diligence de la Commission bancaire, portée sans délai à la connaissance du président du directoire du fonds de garantie. 
 
 La Commission bancaire rend son avis dans un délai d'un mois à compter de la réception de la demande d'avis. En l'absence de
-réponse de la Commission bancaire dans le délai imparti, son avis est réputé favorable à l'ouverture de la procédure.
+réponse de la Commission bancaire dans le délai imparti, son avis est réputé favorable à l'ouverture de la procédure. 
 
 L'avis de la Commission bancaire est écrit et transmis par tout moyen au demandeur. Celui-ci joint cet avis, ou à défaut le
 récépissé de sa demande, à sa requête selon les modalités prévues aux deuxième et troisième alinéas de l'article 36 du décret
@@ -79631,16 +79728,16 @@ prévention et au règlement amiable des difficultés des entreprises a été ab
 
 	**Cite**:
 
-	  - Loi n°84-148 1984-03-01
-	  - Décret n°85-295 1985-03-01 art. 36
+	  - Loi n°84-148 du 1 mars 1984 (V)
+	  - Décret n°85-295 du 1 mars 1985 - art. 36 (Ab)
 
 	**Anciens textes**:
 
 	  - Décret n°84-708 du 24 juillet 1984 - art. 12-2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 	**Cité par**:
 
@@ -79880,23 +79977,19 @@ précédent.
 
 Par dérogation aux dispositions du décret n° 85-1390 du 27 décembre 1985 fixant le tarif des administrateurs judiciaires en
 matière commerciale et des mandataires judiciaires à la liquidation des entreprises, la rémunération de l'administrateur
-judiciaire, du représentant des créanciers et du liquidateur judiciaire d'un établissement de crédit ou d'une entreprise
+judiciaire, du mandataire judiciaire et du liquidateur judiciaire d'un établissement de crédit ou d'une entreprise
 d'investissement est, au vu d'un état de frais et sur justifications, arrêtée par le président du tribunal, après avis du
 juge commissaire et du procureur de la République.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°84-708 1984-07-24 art 12-3 (V)
-
 	**Cite**:
 
 	  - Décret n°85-1390 1985-12-27
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 
 ##### Sous-section 2 : Mesures d'assainissement et de liquidation des établissements de crédit communautaires
@@ -79949,45 +80042,44 @@ accueillant une succursale d'un établissement de crédit ayant son siège en Fr
 
 ###### Article R613-25
 
-I. - L'administrateur ou le liquidateur, désigné dans le cadre d'une procédure ouverte à l'égard d'un établissement de crédit
+I.-L'administrateur ou le liquidateur, désigné dans le cadre d'une procédure ouverte à l'égard d'un établissement de crédit
 ayant son siège en France, fait procéder à la publication dans les meilleurs délais au Journal officiel de l'Union européenne
 et dans deux journaux à diffusion nationale de chaque Etat membre dans lequel l'établissement a une succursale d'un extrait
-des mesures suivantes :
+des mesures suivantes : 
 
-1° Les mesures mentionnées au 3 du I de l'article L. 613-21 ;
+1° Les mesures mentionnées au 3 du I de l'article L. 613-21 ; 
 
-2° Le jugement ouvrant un règlement amiable ou un redressement judiciaire ;
+2° Le jugement ouvrant une procédure de conciliation, de sauvegarde ou de redressement judiciaire ; 
 
-3° Le jugement arrêtant un plan de continuation ou de cession ;
+3° Le jugement arrêtant un plan de sauvegarde ou de redressement judiciaire ou de cession ; 
 
-4° Le jugement ouvrant ou prononçant une liquidation judiciaire ;
+4° Le jugement ouvrant ou prononçant une liquidation judiciaire ; 
 
-5° La cession d'une ou de plusieurs unités de production sur le fondement de l'article L. 622-17 du code de commerce.
+5° La cession d'une ou de plusieurs unités de production sur le fondement de l'article L. 622-17 du code de commerce. 
 
 L'extrait prévu au premier alinéa doit mentionner, dans la langue ou les langues officielles des Etats membres concernés,
 notamment l'objet et le fondement juridique de la mesure adoptée, les délais de recours et la date d'expiration de ces
-derniers ainsi que l'adresse de la juridiction compétente pour connaître d'un recours.
+derniers ainsi que l'adresse de la juridiction compétente pour connaître d'un recours. 
 
-II. - S'agissant des décisions mentionnées aux 4° et 5° du I, l'extrait doit préciser en outre que tout créancier peut
-prendre connaissance du rapport de liquidation auprès du greffe du tribunal compétent, conformément à l'article 123 du décret
-n° 85-1388 du 27 décembre 1985 relatif au redressement et à la liquidation judiciaires des entreprises.
+II.-S'agissant des décisions mentionnées aux 4° et 5° du I, l'extrait doit préciser en outre que tout créancier peut prendre
+connaissance du rapport de liquidation auprès du greffe du tribunal compétent, conformément à l'article 123 du décret n°
+85-1388 du 27 décembre 1985 relatif au redressement et à la liquidation judiciaires des entreprises.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 123 (M)
-	  - Code de commerce. - art. L622-17 (M)
-	  - Code monétaire et financier - art. L613-21 (M)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 123 (Ab)
+	  - Code de commerce. - art. L622-17 (V)
+	  - Code monétaire et financier - art. L613-21 (V)
 
 	**Anciens textes**:
 
-	  - Décret n°2005-468 du 12 mai 2005 - art. 2, v. init.
 	  - Décret n°2005-468 du 12 mai 2005 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 	**Cité par**:
 
@@ -79996,49 +80088,47 @@ n° 85-1388 du 27 décembre 1985 relatif au redressement et à la liquidation ju
 
 ###### Article R613-26
 
-I. - En application de l'article 66 du décret n° 85-1388 du 27 décembre 1985 mentionné au II de l'article R. 613-25, le
-représentant des créanciers avertit les créanciers connus d'avoir à lui déclarer leurs créances. Cet avertissement est
-intitulé :
+I.-En application de l'article 66 du décret n° 85-1388 du 27 décembre 1985 mentionné au II de l'article R. 613-25, le
+mandataire judiciaire avertit les créanciers connus d'avoir à lui déclarer leurs créances. Cet avertissement est intitulé : 
 
-"Invitation à produire une créance. Délais à respecter". Cet intitulé est rédigé dans toutes les langues officielles de
-l'Union européenne.
+" Invitation à produire une créance. Délais à respecter ". Cet intitulé est rédigé dans toutes les langues officielles de
+l'Union européenne. 
 
-Le représentant des créanciers adresse en outre aux créanciers connus un formulaire intitulé : "Production de créance". Cet
-intitulé est également rédigé dans toutes les langues officielles de l'Union européenne.
+Le mandataire judiciaire adresse en outre aux créanciers connus un formulaire intitulé : " Production de créance ". Cet
+intitulé est également rédigé dans toutes les langues officielles de l'Union européenne. 
 
 Le créancier connu peut remplir le formulaire mentionné à l'alinéa précédent en recourant à la ou à l'une des langues
-officielles de l'Etat membre dans lequel il a son domicile, sa résidence habituelle ou son siège statutaire.
+officielles de l'Etat membre dans lequel il a son domicile, sa résidence habituelle ou son siège statutaire. 
 
-II. - Pour l'application de l'article 72 du décret du 27 décembre 1985 mentionné au II de l'article R. 613-25, le
-représentant des créanciers avise le créancier de la possibilité de présenter des observations relatives à sa créance. Cet
-avis est intitulé : "Invitation à présenter les observations relatives à une créance. Délais à respecter". Cet intitulé est
-rédigé dans toutes les langues officielles de l'Union européenne.
+II.-Pour l'application de l'article 72 du décret du 27 décembre 1985 mentionné au II de l'article R. 613-25, le mandataire
+judiciaire avise le créancier de la possibilité de présenter des observations relatives à sa créance. Cet avis est intitulé :
+" Invitation à présenter les observations relatives à une créance. Délais à respecter ". Cet intitulé est rédigé dans toutes
+les langues officielles de l'Union européenne. 
 
-Le représentant des créanciers joint à cet avis un formulaire intitulé : "Présentation des observations relatives aux
-créances". Cet intitulé est rédigé dans toutes les langues officielles de l'Union européenne.
+Le mandataire judiciaire joint à cet avis un formulaire intitulé : " Présentation des observations relatives aux créances ".
+Cet intitulé est rédigé dans toutes les langues officielles de l'Union européenne. 
 
 Le créancier peut remplir le formulaire mentionné à l'alinéa précédent en recourant à la ou à l'une des langues officielles
-de l'Etat membre dans lequel il a son domicile, sa résidence habituelle ou son siège statutaire.
+de l'Etat membre dans lequel il a son domicile, sa résidence habituelle ou son siège statutaire. 
 
-III. - Dans tous les cas, le représentant des créanciers peut exiger d'un créancier une traduction en langue française de la
+III.-Dans tous les cas, le mandataire judiciaire peut exiger d'un créancier une traduction en langue française de la
 production de la créance et des observations y afférentes.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 66 (M)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 72 (M)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 66 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 72 (Ab)
 	  - Code monétaire et financier - art. R613-25 (V)
 
 	**Anciens textes**:
 
-	  - Décret n°2005-468 du 12 mai 2005 - art. 3, v. init.
 	  - Décret n°2005-468 du 12 mai 2005 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 
 ###### Article R613-27
@@ -83420,8 +83510,8 @@ Les déclarations mentionnées à l'article R. 731-1 sont adressées à l'Instit
 
 ###### Article R731-3
 
-Sous réserve de l'article R. 731-5, les articles R. 131-1, R. 131-5 à R. 131-24, R. 131-26 à R. 131-55, R. 132-1 et R. 163-2
-sont applicables à Mayotte.
+Sous réserve de l'article R. 731-5, les articles R. 131-1, R. 131-5 à R. 131-24, R. 131-26 à R. 131-55, R. 132-1, R. 163-2 et
+R. 163-3 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -83433,13 +83523,18 @@ sont applicables à Mayotte.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1738 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. R131-1 (M)
 	  - Code monétaire et financier - art. R132-1 (V)
 	  - Code monétaire et financier - art. R163-2 (M)
+	  - Code monétaire et financier - art. R163-3 (V)
 	  - Code monétaire et financier - art. R731-5 (V)
-	  - Code monétaire et financier R731-5, R131-1, R131-5 à R131-24, R131-26 à R131-55, R132-1, R163-2
+	  - Code monétaire et financier R731-5, R131-1, R131-5 à R131-24, R131-26 à R131-55, R132-1, R163-2, R163-3
 
 
 ###### Article R731-5
@@ -83796,7 +83891,7 @@ Les articles D. 312-5 et D. 312-6 sont applicables à Mayotte.
 
 ###### Article R733-1
 
-Les articles R. 312-1 et R. 312-3 sont applicables à Mayotte.
+Les articles R. 312-1, R. 312-3 et R. 351-5 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -83804,10 +83899,15 @@ Les articles R. 312-1 et R. 312-3 sont applicables à Mayotte.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1738 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. R312-1 (V)
 	  - Code monétaire et financier - art. R312-3 (V)
+	  - Code monétaire et financier - art. R351-5 (V)
 
 
 ##### Sous-section 3 : Crédits
@@ -84519,8 +84619,10 @@ Les déclarations mentionnées à l'article R. 741-1 sont adressées à l'Instit
 
 ###### Article R741-3
 
-Sous réserve de l'article R. 741-5, les articles R. 131-1, R. 131-9 à R. 131-27, R. 131-29 à R. 131-55, R. 132-1 et R. 163-2
-sont applicables à la Nouvelle-Calédonie.
+Sous réserve de l'article R. 741-5, les articles R. 131-1, R. 131-9 à R. 131-27, R. 131-29 à R. 131-55, R. 132-1, R. 163-2 et
+R. 163-3 sont applicables à la Nouvelle-Calédonie.
+
+L'article R. 163-3 est applicable à l'Office des postes et télécommunications.
 
 **Liens relatifs à cet article**
 
@@ -84532,13 +84634,18 @@ sont applicables à la Nouvelle-Calédonie.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1738 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. R131-1 (M)
 	  - Code monétaire et financier - art. R132-1 (V)
 	  - Code monétaire et financier - art. R163-2 (M)
+	  - Code monétaire et financier - art. R163-3 (V)
 	  - Code monétaire et financier - art. R741-5 (V)
-	  - Code monétaire et financier R741-5, R131-1, R131-9 à R131-27, R131-29 à R131-55, R132-1, R163-2
+	  - Code monétaire et financier R741-5, R131-1, R131-9 à R131-27, R131-29 à R131-55, R132-1, R163-2, R163-3
 
 
 ###### Article R741-5
@@ -84896,7 +85003,9 @@ Les articles D. 312-5 et D. 312-6 sont applicables en Nouvelle-Calédonie.
 
 ###### Article R743-1
 
-Les articles R. 312-1 et R. 312-3 sont applicables en Nouvelle-Calédonie.
+Les articles R. 312-1, R. 312-3 et R. 351-5 sont applicables en Nouvelle-Calédonie.
+
+L'article R. 351-5 est applicable à l'Office des postes et télécommunication.
 
 **Liens relatifs à cet article**
 
@@ -84904,10 +85013,15 @@ Les articles R. 312-1 et R. 312-3 sont applicables en Nouvelle-Calédonie.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1738 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. R312-1 (V)
 	  - Code monétaire et financier - art. R312-3 (V)
+	  - Code monétaire et financier - art. R351-5 (V)
 
 
 ##### Sous-section 3 : Crédits
@@ -85699,8 +85813,10 @@ Les déclarations mentionnées à l'article R. 751-1 sont adressées à l'instit
 
 ###### Article R751-3
 
-Sous réserve de l'article R. 751-5, les articles R. 131-1, R. 131-9 à R. 131-24, R. 131-26 à R. 131-55, R. 132-1 et R. 163-2
-sont applicables à la Polynésie française.
+Sous réserve de l'article R. 751-5, les articles R. 131-1, R. 131-9 à R. 131-24, R. 131-26 à R. 131-55, R. 132-1, R. 163-2 et
+R. 163-3 sont applicables à la Polynésie française.
+
+L'article R. 163-3 est applicable à l'Office des postes et télécommunication.
 
 **Liens relatifs à cet article**
 
@@ -85712,13 +85828,18 @@ sont applicables à la Polynésie française.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1738 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. R131-1 (M)
 	  - Code monétaire et financier - art. R132-1 (V)
 	  - Code monétaire et financier - art. R163-2 (M)
+	  - Code monétaire et financier - art. R163-3 (V)
 	  - Code monétaire et financier - art. R751-5 (V)
-	  - Code monétaire et financier R751-5, R131-1, R131-9 à R131-24, R131-26 à R131-55, R132-1, R163-2
+	  - Code monétaire et financier R751-5, R131-1, R131-9 à R131-24, R131-26 à R131-55, R132-1, R163-2, R163-3
 
 
 ###### Article R751-5
@@ -86075,7 +86196,9 @@ Les articles D. 312-5 et D. 312-6 sont applicables en Polynésie française.
 
 ###### Article R753-1
 
-Les articles R. 312-1 et R. 312-3 sont applicables en Polynésie française.
+Les articles R. 312-1, R. 312-3 et R. 351-5 sont applicables en Polynésie française.
+
+L'article R. 351-5 est applicable à l'Office des postes et télécommunication.
 
 **Liens relatifs à cet article**
 
@@ -86083,10 +86206,15 @@ Les articles R. 312-1 et R. 312-3 sont applicables en Polynésie française.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1738 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. R312-1 (V)
 	  - Code monétaire et financier - art. R312-3 (V)
+	  - Code monétaire et financier - art. R351-5 (V)
 
 
 ##### Sous-section 3 : Crédits
@@ -86746,7 +86874,7 @@ Les déclarations mentionnées à l'article R. 761-1 sont adressées à l'Instit
 ###### Article R761-3
 
 Sous réserve des dispositions de l'article R. 761-5, les articles R. 131-1, R. 131-9 à R. 131-24, R. 131-26 à R. 131-55, R.
-132-1 et R. 163-2 sont applicables dans les îles Wallis et Futuna.
+132-1, R. 163-2 et R. 163-3 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -86758,13 +86886,18 @@ Sous réserve des dispositions de l'article R. 761-5, les articles R. 131-1, R. 
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1738 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. R131-1 (M)
 	  - Code monétaire et financier - art. R132-1 (V)
 	  - Code monétaire et financier - art. R163-2 (M)
+	  - Code monétaire et financier - art. R163-3 (V)
 	  - Code monétaire et financier - art. R761-5 (V)
-	  - Code monétaire et financier R761-5, R131-1, R131-9 à R131-24, R131-26 à R131-55, R132-1, R163-2
+	  - Code monétaire et financier R761-5, R131-1, R131-9 à R131-24, R131-26 à R131-55, R132-1, R163-2, R163-3
 
 
 ###### Article R761-5
@@ -87116,7 +87249,7 @@ Les articles D. 312-5 et D. 312-6 sont applicables dans les îles Wallis et Futu
 
 ###### Article R763-1
 
-Les articles R. 312-1 et R. 312-3 sont applicables dans les îles Wallis et Futuna.
+Les articles R. 312-1, R. 312-3 et R. 351-5 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -87124,10 +87257,15 @@ Les articles R. 312-1 et R. 312-3 sont applicables dans les îles Wallis et Futu
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2005-1738 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. R312-1 (V)
 	  - Code monétaire et financier - art. R312-3 (V)
+	  - Code monétaire et financier - art. R351-5 (V)
 
 
 ##### Sous-section 3 : Crédits.
