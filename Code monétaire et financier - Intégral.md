@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-02
 
 # Partie législative
 
@@ -10205,7 +10205,7 @@ vu notamment des conditions dans lesquelles s'exercera la gestion de ces organis
 ###### Article L214-36
 
 1. L'actif d'un fonds commun de placement à risques doit être constitué, pour 50 % au moins, de titres participatifs ou de
-titres de capital, ou donnant accès au capital, émis par des sociétés qui ne sont pas admises aux négociations sur un marché
+titres de capital de sociétés, ou donnant accès au capital de sociétés, qui ne sont pas admis aux négociations sur un marché
 d'instruments financiers français ou étranger, dont le fonctionnement est assuré par une entreprise de marché ou un
 prestataire de services d'investissement ou tout autre organisme similaire étranger, ou, par dérogation à l'article L.
 214-20, de parts de sociétés à responsabilité limitée ou de sociétés dotées d'un statut équivalent dans leur Etat de
@@ -10408,12 +10408,7 @@ gestion dans des conditions fixées par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 24 () JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 25 () JORF 7 mai 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L214-20 (M)
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 32 (V) JORF 31 décembre 2005 en vigueur le 2 janvier 2006
 
 
 ###### Article L214-37
@@ -30811,8 +30806,6 @@ les débiteurs en sont informés par simple lettre.
 
 	  - Code monétaire et financier - art. L515-30 (VT)
 
-
-##### Sous-section 5 : Redressement et liquidation judiciaires
 
 ##### Sous-section 5 : Sauvegarde, redressement et liquidation judiciaires
 
@@ -79632,8 +79625,6 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 	  - Code monétaire et financier - art. R613-11
 	  - Code monétaire et financier - art. R613-12
 
-
-##### Paragraphe 2 : Dispositions relatives aux procédures de redressement et liquidation judiciaires et de règlement amiables applicables aux établissements de crédit et aux entreprises d'investissement.
 
 ##### Paragraphe 2 : Dispositions relatives aux procédures de sauvegarde, de redressement, liquidation judiciaires et de procédures de conciliation applicables aux établissements de crédit et aux entreprises d'investissement
 
