@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-01-08
+Version Consolidée au 2006-01-16
 
 # Partie législative
 
@@ -70121,56 +70121,6 @@ personnes qui les sollicitent.
 
 	  - Code monétaire et financier - art. L341-1 (V)
 	  - Code monétaire et financier - art. L341-7 (Ab)
-
-
-###### Article D341-10
-
-Les personnes mentionnées aux 1° et 3° de l'article L. 341-3 communiquent aux autorités dont elles relèvent les informations
-prévues à l'article D. 341-12, à l'exception du numéro d'enregistrement du démarcheur. Les établissements ou entreprises
-agréés dans un autre Etat membre de la Communauté européenne habilités à intervenir sur le territoire français communiquent
-ces informations à l'autorité qui, en France, a reçu, de l'autorité du pays d'origine compétente pour ces établissements ou
-entreprises, la déclaration d'intervention en France.
-
-Les informations communiquées en application de l'alinéa précédent concernent :
-
-1° Lorsqu'ils sont soumis aux obligations d'enregistrement prévues à l'article L. 341-6, les démarcheurs, personnes
-physiques, exerçant une activité de démarchage directement pour le compte des personnes mentionnées aux 1° et 3° de l'article
-L. 341-3 ;
-
-2° Les démarcheurs, personnes morales, mandatés en application du I de l'article L. 341-4 ;
-
-3° Les démarcheurs, personnes physiques, relevant des personnes morales mandatées conformément au I de l'article L. 341-4.
-
-**Nota:**
-
-Le Conseil d'Etat, par décisions n°  274686, 285784, 285978, en date du 16 janvier 2006, a annulé la création de l'article D.
-341-10 du code monétaire et financier.
-
-**Liens relatifs à cet article**
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°274686 2006-01-16
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1018 du 28 septembre 2004 - art. 2, v. init.
-	  - Décret n°2004-1018 du 28 septembre 2004 - art. 2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. D341-12 (V)
-	  - Code monétaire et financier - art. L341-3 (M)
-	  - Code monétaire et financier - art. L341-4 (M)
-	  - Code monétaire et financier - art. L341-6 (M)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. D743-9 (V)
 
 
 ###### Article D341-11
