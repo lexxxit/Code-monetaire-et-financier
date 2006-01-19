@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-01-16
+Version Consolidée au 2006-01-20
 
 # Partie législative
 
@@ -36567,9 +36567,6 @@ donné lieu à communication des déclarations.
 Le service institué à l'article L. 562-4 est rendu destinataire de ces informations par le garde des sceaux, ministre de la
 justice.
 
-Les dispositions du présent article sont applicables à Mayotte, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-
-Futuna.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -36584,7 +36581,7 @@ Futuna.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 8 () JORF 10 décembre 2004
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V) JORF 20 janvier 2006
 
 	**Cité par**:
 
@@ -45739,14 +45736,26 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 ###### Article L721-3
 
-A Saint-Pierre-et-Miquelon, la méconnaissance de l'obligation de déclaration énoncée à l'article L. 721-2, constitue un délit
-recherché, constaté et réprimé comme en matière de douane. Elle est passible de la confiscation des sommes, titres ou valeurs
-en infraction ou, lorsque la saisie n'aura pu être faite, d'une somme en tenant lieu et d'une amende égale au montant de la
-somme sur laquelle a porté le délit ou sa tentative.
+I. - La méconnaissance des obligations énoncées à l'article L. 721-2 est punie d'une amende égale au quart de la somme sur
+laquelle a porté l'infraction ou la tentative d'infraction.
 
-Sous réserve du premier alinéa du présent article, les articles du code des douanes applicables à Saint-Pierre-et-Miquelon
-correspondant aux articles des titres II et XII du code des douanes, sont applicables aux infractions à l'obligation prévue à
-l'article L. 721-2.
+II. - En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la
+somme sur laquelle a porté l'infraction ou la tentative d'infraction, pendant une durée de trois mois, renouvelable sur
+autorisation du procureur de la République territorialement compétent, dans la limite de six mois au total.
+
+La somme consignée est saisie et sa confiscation peut être prononcée par la juridiction compétente, si, pendant la durée de
+la consignation, il est établi que l'auteur de l'infraction mentionnée au I est ou a été en possession d'objets laissant
+penser qu'il est ou a été l'auteur d'une ou plusieurs infractions prévues et réprimées par le code des douanes applicable à
+Saint-Pierre-et-Miquelon ou qu'il participe ou a participé à la commission de telles infractions ou s'il y a des raisons
+plausibles de penser que l'auteur de l'infraction mentionnée au I a commis une infraction ou plusieurs infractions prévues et
+réprimées par le code des douanes applicable à Saint-Pierre-et-Miquelon ou qu'il a participé à la commission de telles
+infractions.
+
+La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trésor, mainlevée des mesures de consignation et
+saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'application des sanctions fiscales.
+
+III. - La recherche, la constatation et la poursuite des infractions mentionnées au I sont faites dans les conditions fixées
+par le code des douanes applicable à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -45760,7 +45769,7 @@ l'article L. 721-2.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 86 () JORF 7 mai 2005
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 12 () JORF 20 janvier 2006
 
 	**Cite**:
 
@@ -45975,7 +45984,25 @@ applicables à Saint-Pierre-et-Miquelon.
 Les références aux articles du code général des impôts figurant dans l'article L. 563-2 sont remplacées, pour Saint-Pierre-
 et-Miquelon, par une référence aux dispositions ayant le même objet, prises par le conseil général.
 
+Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
+rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
+objet.
+
+Lorsqu'en application de l'article 16 de la loi n° 71-1130 du 31 décembre 1971, le nombre d'avocats inscrits au barreau n'a
+pas permis l'élection d'un conseil de l'ordre, l'avocat effectue directement la déclaration prévue à l'article L. 562-2
+auprès du service institué à l'article L. 562-43.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 16 (V)
+	  - Code monétaire et financier - art. L152-4 (M)
+	  - Code monétaire et financier - art. L161-1 (M)
+	  - Code monétaire et financier - art. L562-1 (M)
+	  - Code monétaire et financier - art. L562-2 (M)
+	  - Code monétaire et financier - art. L563-2 (M)
+	  - Code monétaire et financier L563-2, L152-4, L161-1, L562-1, L562-2, L562-43
 
 	**Anciens textes**:
 
@@ -45987,13 +46014,8 @@ et-Miquelon, par une référence aux dispositions ayant le même objet, prises p
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 86 () JORF 7 mai 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L152-4 (M)
-	  - Code monétaire et financier - art. L161-1 (M)
-	  - Code monétaire et financier - art. L563-2 (M)
+	  - Ordonnance 2006-60 2006-01-19 art. 6 II, III JORF 20 janvier 2006
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V) JORF 20 janvier 2006
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -46071,18 +46093,17 @@ Miquelon.
 ###### Article L731-1
 
 Les articles L. 131-1 à L. 131-87, à l'exception de la seconde phrase du troisième alinéa de l'article L. 131-71, les
-articles L. 132-1 à L. 132-6, ainsi que les articles L. 163-1 à L. 163-12 sont applicables à Mayotte dans des conditions
-précisées par décret en Conseil d'Etat.
+articles L. 132-1 à L. 132-6, l'article L. 133-1 ainsi que les articles L. 163-1 à L. 163-12 sont applicables à Mayotte dans
+des conditions précisées par décret en Conseil d'Etat.
 
 A Mayotte, l'institut d'émission des départements d'outre-mer assure, en liaison avec la Banque de France, la centralisation
 des incidents de paiement et des informations permettant d'identifier l'ensemble des comptes détenus par les personnes
 mentionnées à l'article L. 131-72 et au deuxième alinéa de l'article L. 163-6.
 
+Pour l'application des dispositions de l'article L. 133-1, les mots : "au sein de" sont remplacés par les mots : "en
+direction ou en provenance de".
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 74-3
 
 	**Codifié par**:
 
@@ -46090,14 +46111,19 @@ mentionnées à l'article L. 131-72 et au deuxième alinéa de l'article L. 163-
 
 	**Modifié par**:
 
-	  - Loi n°2001-1062 2001-11-15 art. 71 VI JORF 16 novembre 2001
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 10 (V) JORF 20 janvier 2006
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L131-71 (M)
 	  - Code monétaire et financier - art. L131-72 (M)
+	  - Code monétaire et financier - art. L133-1 (M)
 	  - Code monétaire et financier - art. L163-6 (M)
-	  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1 à L132-6, L163-1 à L163-12, L131-72, L163-6
+	  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1 à L132-6, L133-1, L163-1 à L163-12, L131-72, L163-6
+
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-30 art. 74-3
 
 
 ##### Section 2 : Les relations financières avec l'étranger
@@ -46182,14 +46208,25 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 ###### Article L731-4
 
-A Mayotte, la méconnaissance de l'obligation de déclaration énoncée à l'article L. 731-3, constitue un délit recherché,
-constaté et réprimé comme en matière de douane. Elle est passible de la confiscation des sommes, titres ou valeurs en
-infraction ou, lorsque la saisie n'aura pu être faite, d'une somme en tenant lieu et d'une amende égale au montant de la
-somme sur laquelle a porté le délit ou sa tentative.
+I. - La méconnaissance des obligations énoncées à l'article L. 731-3 est punie d'une amende égale au quart de la somme sur
+laquelle a porté l'infraction ou la tentative d'infraction.
 
-Sous réserve du premier alinéa du présent article, les articles du code des douanes applicables à Mayotte correspondant aux
-articles des titres II et XII du code des douanes sont applicables aux infractions à l'obligation énoncée à l'article L.
-731-3.
+II. - En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la
+somme sur laquelle a porté l'infraction ou la tentative d'infraction, pendant une durée de trois mois, renouvelable sur
+autorisation du procureur de la République territorialement compétent, dans la limite de six mois au total.
+
+La somme consignée est saisie et sa confiscation peut être prononcée par la juridiction compétente, si, pendant la durée de
+la consignation, il est établi que l'auteur de l'infraction mentionnée au I est ou a été en possession d'objets laissant
+penser qu'il est ou a été l'auteur d'une ou plusieurs infractions prévues et réprimées par le code des douanes applicable à
+Mayotte ou qu'il participe ou a participé à la commission de telles infractions ou s'il y a des raisons plausibles de penser
+que l'auteur de l'infraction mentionnée au I a commis une infraction ou plusieurs infractions prévues et réprimées par le
+code des douanes applicable à Mayotte ou qu'il a participé à la commission de telles infractions.
+
+La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trésor, mainlevée des mesures de consignation et
+saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'application des sanctions fiscales.
+
+III. - La recherche, la constatation et la poursuite des infractions mentionnées au I sont faites dans les conditions fixées
+par le code des douanes applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -46200,6 +46237,10 @@ articles des titres II et XII du code des douanes sont applicables aux infractio
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 12 () JORF 20 janvier 2006
 
 	**Cité par**:
 
@@ -46241,11 +46282,7 @@ Miquelon, les îles Wallis et Futuna, la Nouvelle-Calédonie et la Polynésie fr
 
 ###### Article L732-1
 
-Les articles L. 211-1 à L. 211-6 sont applicables à Mayotte. Les dispositions de l'article L. 211-4 sont remplacées par les
-dispositions suivantes :
-
-" Art. L. 211-4. - Les titres des sociétés par actions, autres que les SICAV, qui ne sont pas négociés sur un marché
-réglementé doivent être inscrits à un compte tenu chez elle par la société émettrice au nom du propriétaire des titres. "
+Les articles L. 211-1 à L. 211-6 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -46260,12 +46297,11 @@ réglementé doivent être inscrits à un compte tenu chez elle par la société
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 97 () JORF 7 mai 2005
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 1 (V) JORF 20 janvier 2006
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-4 (M)
-	  - Code monétaire et financier L211-1 à L211-6, L211-4
+	  - Code monétaire et financier L211-1 à L211-6
 
 
 ##### Sous-section 2 : Les titres de capital et titres donnant accès au capital
@@ -46521,24 +46557,31 @@ l'article L. 312-3, des articles L. 312-18 et L. 312-17. L'article L. 352-1 s'y 
 
 ###### Article L733-3
 
-Les articles L. 313-1 à L. 313-5 sont applicables à Mayotte.
+Les articles L. 313-1 à L. 313-5-2 sont applicables à Mayotte. L'article L. 351-1 s'y applique également.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°66-1010 du 28 décembre 1966 - art. 18-1 (Ab)
-	  - Loi n°75-619 du 11 juillet 1975 - art. 7 (M)
 	  - Loi n°75-619 du 11 juillet 1975 - art. 7 (Ab)
-	  - Loi n°84-46 1984-01-24 art. 101 I
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V) JORF 20 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
 	**Cite**:
 
-	  - Code monétaire et financier L313-1 à L313-5
+	  - Code monétaire et financier - art. L351-1
+	  - Code monétaire et financier L313-1 à L313-5-2, L351-1
 
 
 ##### Paragraphe 2 : Catégories de crédits
@@ -46987,6 +47030,49 @@ L'article L. 432-5 est applicable à Mayotte.
 	**Cite**:
 
 	  - Code monétaire et financier - art. L432-5 (V)
+
+
+##### Paragraphe 1 bis : Cessions temporaires
+
+###### Article L734-8-1
+
+I. - Les articles L. 432-6, L. 432-7, L. 432-9, L. 432-10, L. 432-12 à L. 432-15, ainsi que les articles L. 432-17 à L.
+432-19, sont applicables à Mayotte. Les dispositions fiscales des articles L. 432-6, L. 432-7 et L. 432-13 sont remplacées
+par des dispositions du code général des impôts applicable localement, ayant le même objet.
+
+II. - Les dispositions des articles L. 432-6, L. 432-7, L. 432-9 et L. 432-10 s'appliquent sous les mêmes conditions aux
+remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de l'article L. 431-7-3
+effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré aux remises de titres prévues
+au 3° de l'article L. 432-6 ainsi qu'aux remises prévues à l'article L. 330-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 2 (V) JORF 20 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L330-2 (M)
+	  - Code monétaire et financier - art. L431-7-3
+	  - Code monétaire et financier - art. L432-10
+	  - Code monétaire et financier - art. L432-13
+	  - Code monétaire et financier - art. L432-6
+	  - Code monétaire et financier - art. L432-7 (V)
+	  - Code monétaire et financier - art. L432-9 (V)
+	  - Code monétaire et financier L432-6, L432-7, L432-9, L432-10, L432-12 à L432-15, L432-17 à L432-19, L432-13, L431-7-3, L330-2
+
+	**Anciens textes**:
+
+	  - Loi n°290 1942-02-14 art. 25
 
 
 ##### Paragraphe 2 : Les opérations à terme
@@ -47584,7 +47670,32 @@ articles L. 574-1 et L. 574-2.
 Les références à l'article 415 du code des douanes sont remplacées par la référence aux dispositions du code des douanes
 applicable à Mayotte ayant le même objet.
 
+Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
+rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
+objet.
+
+Lorsqu'en application de l'article 16 de la loi n° 71-1130 du 31 décembre 1971, le nombre d'avocats inscrits au barreau n'a
+pas permis l'élection d'un conseil de l'ordre, l'avocat effectue directement la déclaration prévue à l'article L. 562-2
+auprès du service institué à l'article L. 562-43.
+
+Les conditions d'application du titre IV du livre V pour les personnes mentionnées aux 3, 3 bis et 4 de l'article L. 562-1
+sont régies par les articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et adaptation du
+droit économique et financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie françaises et dans les îles Wallis et
+Futuna.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 16 (V)
+	  - Ordonnance 2006-60 2006-01-19 art. 7, art. 8
+	  - Code des douanes - art. 415 (T)
+	  - Code monétaire et financier - art. L562-1 (M)
+	  - Code monétaire et financier - art. L562-2 (M)
+	  - Code monétaire et financier - art. L563-2 (M)
+	  - Code monétaire et financier - art. L574-1 (M)
+	  - Code monétaire et financier - art. L574-2 (M)
+	  - Code monétaire et financier L563-2, L574-1, L574-2, L562-1, L562-2, L562-43
 
 	**Anciens textes**:
 
@@ -47596,14 +47707,8 @@ applicable à Mayotte ayant le même objet.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
-
-	**Cite**:
-
-	  - Code des douanes - art. 415 (T)
-	  - Code monétaire et financier - art. L563-2 (M)
-	  - Code monétaire et financier - art. L574-1 (M)
-	  - Code monétaire et financier - art. L574-2 (M)
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V) JORF 20 janvier 2006
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 9 () JORF 20 janvier 2006
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -47804,10 +47909,23 @@ remplacés par les mots "la somme de 838 euros". Au II, les mots "la somme de tr
 ###### Article L741-2
 
 Les articles L. 131-1 à L. 131-87, à l'exception de la seconde phrase du troisième alinéa de l'article L. 131-71, les
-articles L. 132-1 à L. 132-6 et L. 163-1 à L. 163-12 sont applicables en Nouvelle-Calédonie dans des conditions précisées par
-décret en Conseil d'Etat.
+articles L. 132-1 à L. 132-6, l'article L. 133-1 et L. 163-1 à L. 163-12 sont applicables en Nouvelle-Calédonie dans des
+conditions précisées par décret en Conseil d'Etat.
+
+Pour l'application des dispositions de l'article L. 133-1, les mots : "au sein de" sont remplacés par les mots : "en
+direction ou en provenance de".
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L131-71 (M)
+	  - Code monétaire et financier - art. L133-1 (M)
+	  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1 à L132-6, L133-1
+
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-30 art. 74-3
 
 	**Codifié par**:
 
@@ -47815,20 +47933,11 @@ décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1062 2001-11-15 art. 71 VI JORF 16 novembre 2001
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 10 (V) JORF 20 janvier 2006
 
 	**Cité par**:
 
 	  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L131-71 (M)
-	  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1 à L132-6, L163-1 à L163-12
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 74-3
 
 
 ##### Section 3 : Les relations financières avec l'étranger
@@ -47912,14 +48021,25 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 ###### Article L741-5
 
-En Nouvelle-Calédonie, la méconnaissance de l'obligation de déclaration énoncée à l'article L. 741-4 constitue un délit
-recherché, constaté et réprimé comme en matière de douane. Elle est passible de la confiscation des sommes, titres ou valeurs
-en infraction ou, lorsque la saisie n'aura pu être faite, d'une somme en tenant lieu et d'une amende égale au montant de la
-somme sur laquelle a porté le délit ou sa tentative.
+I. - La méconnaissance des obligations énoncées à l'article L. 741-4 est punie d'une amende égale au quart de la somme sur
+laquelle a porté l'infraction ou la tentative d'infraction.
 
-Sous réserve du premier alinéa du présent article, les articles du code des douanes applicables en Nouvelle-Calédonie
-correspondant aux articles des titres II et XII du code des douanes sont applicables aux infractions à l'obligation prévue à
-l'article L. 741-4.
+II. - En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la
+somme sur laquelle a porté l'infraction ou la tentative d'infraction, pendant une durée de trois mois, renouvelable sur
+autorisation du procureur de la République territorialement compétent, dans la limite de six mois au total.
+
+La somme consignée est saisie et sa confiscation peut être prononcée par la juridiction compétente si, pendant la durée de la
+consignation, il est établi que l'auteur de l'infraction mentionnée au I est ou a été en possession d'objets laissant penser
+qu'il est ou a été l'auteur d'une ou plusieurs infractions prévues et réprimées par le code des douanes applicable en
+Nouvelle-Calédonie ou qu'il participe ou a participé à la commission de telles infractions ou s'il y a des raisons plausibles
+de penser que l'auteur de l'infraction mentionnée au I a commis une infraction ou plusieurs infractions prévues et réprimées
+par le code des douanes applicable en Nouvelle-Calédonie ou qu'il a participé à la commission de telles infractions.
+
+La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trésor, mainlevée des mesures de consignation et
+saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'application des sanctions fiscales.
+
+III. - La recherche, la constatation et la poursuite des infractions mentionnées au I sont faites dans les conditions fixées
+par le code des douanes applicable en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -47930,6 +48050,10 @@ l'article L. 741-4.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 12 () JORF 20 janvier 2006
 
 	**Cite**:
 
@@ -47969,11 +48093,7 @@ Mayotte, Saint-Pierre-et-Miquelon, la Polynésie française et les îles Wallis 
 
 ###### Article L742-1
 
-Les articles L. 211-1 à L. 212-6 sont applicables à la Nouvelle-Calédonie. L'article L. 211-4 est remplacé par les
-dispositions suivantes :
-
-" Art. L. 211-4. - Les titres des sociétés par actions, autres que les SICAV, qui ne sont pas négociés sur un marché
-réglementé doivent être inscrits à un compte tenu chez elle par la société émettrice au nom du propriétaire des titres. "
+Les articles L. 211-1 à L. 212-6 sont applicables à la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -47989,12 +48109,11 @@ réglementé doivent être inscrits à un compte tenu chez elle par la société
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 97 () JORF 7 mai 2005
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 1 (V) JORF 20 janvier 2006
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-4 (M)
-	  - Code monétaire et financier L211-1 à L212-6, L211-4
+	  - Code monétaire et financier L211-1 à L212-6
 
 
 ##### Sous-section 2 : Les titres de capital et titres donnant accès au capital
@@ -48206,8 +48325,16 @@ Les articles L. 311-1 à L. 311-3 sont applicables en Nouvelle-Calédonie.
 Le chapitre II du titre Ier du livre III est applicable en Nouvelle-Calédonie, à l'exception des deuxième et quatrième
 alinéas de l'article L. 312-3 et des articles L. 312-17 et L. 312-18. L'article L. 352-1 s'y applique également.
 
+Le premier alinéa du II de l'article L. 312-1-2 est remplacé par les dispositions suivantes : "Des agents de l'institut
+d'émission d'outre-mer sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation
+par procès-verbal des infractions aux dispositions du I de l'article L. 312-1-1 et au I de l'article L. 312-1-2".
+
 L'article L. 312-1 est applicable en Nouvelle-Calédonie. Dans les trois premiers alinéas de cet article, les mots : "services
 financiers de La Poste" sont remplacés par les mots : "services financiers de l'office des postes et télécommunications".
+
+Aux articles L. 312-1 et L. 312-1-1 dans leur version antérieure au 1er janvier 2006 qui reste en vigueur en Nouvelle-
+Calédonie et en Polynésie française, les mots : "services financiers de La Poste" sont remplacés par les mots : "services
+financiers de l'office des Postes et Télécommunications".
 
 **Liens relatifs à cet article**
 
@@ -48221,11 +48348,13 @@ financiers de La Poste" sont remplacés par les mots : "services financiers de l
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-729 du 22 juillet 2004 - art. 1 () JORF 24 juillet 2004
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V) JORF 20 janvier 2006
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L312-1 (M)
+	  - Code monétaire et financier - art. L312-1-1 (M)
+	  - Code monétaire et financier - art. L312-1-2 (M)
 	  - Code monétaire et financier - art. L312-17 (M)
 	  - Code monétaire et financier - art. L312-18 (M)
 	  - Code monétaire et financier - art. L312-3 (M)
@@ -48238,7 +48367,7 @@ financiers de La Poste" sont remplacés par les mots : "services financiers de l
 
 ###### Article L743-3
 
-Les articles L. 313-1 à L. 313-5 sont applicables en Nouvelle-Calédonie.
+Les articles L. 313-1 à L. 313-5-2 sont applicables en Nouvelle-Calédonie. L'article L. 351-1 s'y applique également.
 
 **Liens relatifs à cet article**
 
@@ -48252,9 +48381,14 @@ Les articles L. 313-1 à L. 313-5 sont applicables en Nouvelle-Calédonie.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V) JORF 20 janvier 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier L313-1 à L313-5
+	  - Code monétaire et financier - art. L313-1 (V)
+	  - Code monétaire et financier - art. L351-1 (V)
 
 
 ##### Paragraphe 2 : Catégories de crédits
@@ -48679,6 +48813,45 @@ L'article L. 432-5 est applicable en Nouvelle-Calédonie.
 	**Cite**:
 
 	  - Code monétaire et financier - art. L432-5 (V)
+
+
+##### Paragraphe 1 bis : Cessions temporaires
+
+###### Article L744-8-1
+
+I. - Les articles L. 432-6, L. 432-7, L. 432-9, L. 432-10, L. 432-12 à L. 432-15, ainsi que les articles L. 432-17 à L.
+432-19, sont applicables en Nouvelle-Calédonie. Les dispositions fiscales des articles L. 432-6, L. 432-7 et L. 432-13 sont
+remplacées par des dispositions du code des impôts applicable localement ayant le même objet.
+
+II. - Les dispositions des articles L. 432-6, L. 432-7, L. 432-9 et L. 432-10 s'appliquent sous les mêmes conditions aux
+remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de l'article L. 431-7-3
+effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré aux remises de titres prévues
+au 3° de l'article L. 432-6 ainsi qu'aux remises prévues à l'article L. 330-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 2 (V) JORF 20 janvier 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L330-2 (M)
+	  - Code monétaire et financier - art. L431-7-3 (V)
+	  - Code monétaire et financier - art. L432-10 (V)
+	  - Code monétaire et financier - art. L432-13 (M)
+	  - Code monétaire et financier - art. L432-6 (M)
+	  - Code monétaire et financier - art. L432-7 (V)
+	  - Code monétaire et financier - art. L432-9 (V)
+	  - Code monétaire et financier L432-6, L432-7, L432-9, L432-10, L432-12 à L432-15, L432-17 à L432-19, L432-13, L431-7-3, L330-2
+
+	**Anciens textes**:
+
+	  - Loi n°290 1942-02-14 art. 25
 
 
 ##### Paragraphe 2 : Les opérations à terme
@@ -49557,6 +49730,15 @@ Le titre VI du livre V, à l'exception des dispositions fiscales de l'article L.
 Les références à l'article 415 du code des douanes sont remplacées par la référence aux dispositions du code des douanes
 applicable en Nouvelle-Calédonie ayant le même objet.
 
+Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
+rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
+objet.
+
+Les conditions d'application du titre IV du livre V pour les personnes mentionnées aux 3, 3 bis et 4 de l'article L. 562-1
+sont régies par les articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et adaptation du
+droit économique et financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie françaises et dans les îles Wallis et
+Futuna.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -49571,16 +49753,19 @@ applicable en Nouvelle-Calédonie ayant le même objet.
 
 	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 29-1 (VT)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
-
 	**Cite**:
 
+	  - Ordonnance 2006-60 2006-01-19 art. 7, art. 8
 	  - Code des douanes - art. 415 (T)
+	  - Code monétaire et financier - art. L562-1 (M)
 	  - Code monétaire et financier - art. L563-2 (M)
 	  - Code monétaire et financier - art. L574-1 (M)
 	  - Code monétaire et financier - art. L574-2 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V) JORF 20 janvier 2006
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 9 () JORF 20 janvier 2006
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -49806,8 +49991,11 @@ la somme de trois mille francs" sont remplacés par les mots : "la somme de 502,
 ###### Article L751-2
 
 Les articles L. 131-1 à L. 131-87, à l'exception de la seconde phrase du troisième alinéa de l'article L. 131-71, les
-articles L. 132-1 à L. 132-6 et L. 163-1 à L. 163-12 sont applicables en Polynésie française dans des conditions précisées
-par décret en Conseil d'Etat.
+articles L. 132-1 à L. 132-6, l'article L. 133-1 et L. 163-1 à L. 163-12 sont applicables en Polynésie française dans des
+conditions précisées par décret en Conseil d'Etat.
+
+Pour l'application des dispositions de l'article L. 133-1, les mots : "au sein de" sont remplacés par les mots : "en
+direction ou en provenance de".
 
 **Liens relatifs à cet article**
 
@@ -49817,12 +50005,13 @@ par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1062 2001-11-15 art. 71 VI JORF 16 novembre 2001
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 10 (V) JORF 20 janvier 2006
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L131-71 (M)
-	  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1 à L132-6, L163-1 à L163-12
+	  - Code monétaire et financier - art. L133-1 (M)
+	  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1 à L132-6, L133-1
 
 	**Anciens textes**:
 
@@ -49905,14 +50094,26 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 ###### Article L751-5
 
-En Polynésie française, la méconnaissance de l'obligation de déclaration énoncée à l'article L. 751-4 constitue un délit
-recherché, constaté et réprimé comme en matière de douane. Elle est passible de la confiscation des sommes, titres ou valeurs
-en infraction ou, lorsque la saisie n'aura pu être faite, d'une somme en tenant lieu et d'une amende égale au montant de la
-somme sur laquelle a porté le délit ou sa tentative.
+I. - La méconnaissance des obligations énoncées à l'article L. 751-4 est punie d'une amende égale au quart de la somme sur
+laquelle a porté l'infraction ou la tentative d'infraction.
 
-Sous réserve du premier alinéa du présent article, les articles du code des douanes applicables en Polynésie française
-correspondant aux articles des titres II et XII du code des douanes sont applicables aux infractions à l'obligation prévue à
-l'article L. 751-4.
+II. - En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la
+somme sur laquelle a porté l'infraction ou la tentative d'infraction, pendant une durée de trois mois, renouvelable sur
+autorisation du procureur de la République territorialement compétent, dans la limite de six mois au total.
+
+La somme consignée est saisie et sa confiscation peut être prononcée par la juridiction compétente si, pendant la durée de la
+consignation, il est établi que l'auteur de l'infraction mentionnée au I est ou a été en possession d'objets laissant penser
+qu'il est ou a été l'auteur d'une ou plusieurs infractions prévues et réprimées par le code des douanes applicable en
+Polynésie française ou qu'il participe ou a participé à la commission de telles infractions ou s'il y a des raisons
+plausibles de penser que l'auteur de l'infraction mentionnée au I a commis une infraction ou plusieurs infractions prévues et
+réprimées par le code des douanes applicable en Polynésie française ou qu'il a participé à la commission de telles
+infractions.
+
+La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trésor, mainlevée des mesures de consignation et
+saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'application des sanctions fiscales.
+
+III. - La recherche, la constatation et la poursuite des infractions mentionnées au I sont faites dans les conditions fixées
+par le code des douanes applicable en Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -49923,6 +50124,10 @@ l'article L. 751-4.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 12 () JORF 20 janvier 2006
 
 	**Cite**:
 
@@ -49962,11 +50167,7 @@ Mayotte, Saint-Pierre-et-Miquelon, la Nouvelle-Calédonie et les îles Wallis et
 
 ###### Article L752-1
 
-Les articles L. 211-1 à L. 211-6 sont applicables en Polynésie française. L'article L. 211-4 est remplacé par les
-dispositions suivantes :
-
-" Art. L. 211-4. - Les titres des sociétés par actions, autres que les SICAV, qui ne sont pas négociés sur un marché
-réglementé doivent être inscrits à un compte tenu chez elle par la société émettrice au nom du propriétaire des titres. "
+Les articles L. 211-1 à L. 211-6 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -49984,12 +50185,11 @@ réglementé doivent être inscrits à un compte tenu chez elle par la société
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 97 () JORF 7 mai 2005
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 1 (V) JORF 20 janvier 2006
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-4 (M)
-	  - Code monétaire et financier L211-1 à L211-6, L211-4
+	  - Code monétaire et financier L211-1 à L211-6
 
 
 ##### Sous-section 2 : Les actions et titres donnant accès au capital
@@ -50196,9 +50396,17 @@ Les articles L. 311-1 à L. 311-3 sont applicables en Polynésie française.
 Le chapitre II du titre Ier du livre III est applicable en Polynésie française, à l'exception des deuxième et quatrième
 alinéas de l'article L. 312-3 et des articles L. 312-17 et L. 312-18. L'article L. 352-1 s'y applique également.
 
+Le premier alinéa du II de l'article L. 312-1-2 est remplacé par les dispositions suivantes : "Des agents de l'institut
+d'émission d'outre-mer sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation
+par procès-verbal des infractions aux dispositions du I de l'article L. 312-1-1 et au I de l'article L. 312-1-2".
+
 L'article L. 312-1 est applicable en Polynésie française. Dans les trois premiers alinéas de cet article, les mots :
 "services financiers de La Poste" sont remplacés par les mots : "services financiers de l'office des postes et
 télécommunications".
+
+Aux articles L. 312-1 et L. 312-1-1 dans leur version antérieure au 1er janvier 2006 qui reste en vigueur en Nouvelle-
+Calédonie et en Polynésie française, les mots : "services financiers de La Poste" sont remplacés par les mots : "services
+financiers de l'office des Postes et Télécommunications".
 
 **Liens relatifs à cet article**
 
@@ -50212,11 +50420,13 @@ télécommunications".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-729 du 22 juillet 2004 - art. 2 () JORF 24 juillet 2004
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V) JORF 20 janvier 2006
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L312-1 (M)
+	  - Code monétaire et financier - art. L312-1-1 (M)
+	  - Code monétaire et financier - art. L312-1-2 (M)
 	  - Code monétaire et financier - art. L312-17 (M)
 	  - Code monétaire et financier - art. L312-18 (M)
 	  - Code monétaire et financier - art. L312-3 (M)
@@ -50229,7 +50439,7 @@ télécommunications".
 
 ###### Article L753-3
 
-Les articles L. 313-1 à L. 313-5 sont applicables en Polynésie française.
+Les articles L. 313-1 à L. 313-5-2 sont applicables en Polynésie française. L'article L. 351-1 s'y applique également.
 
 **Liens relatifs à cet article**
 
@@ -50243,9 +50453,14 @@ Les articles L. 313-1 à L. 313-5 sont applicables en Polynésie française.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V) JORF 20 janvier 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier L313-1 à L313-5
+	  - Code monétaire et financier - art. L313-1 (V)
+	  - Code monétaire et financier - art. L351-1 (V)
 
 
 ##### Paragraphe 2 : Catégories de crédits
@@ -50676,6 +50891,55 @@ L'article L. 432-5 est applicable en Polynésie française.
 	**Cite**:
 
 	  - Code monétaire et financier - art. L432-5 (V)
+
+
+##### Paragraphe 1 bis : Cessions temporaires
+
+###### Article L754-8-1
+
+I. - Les articles L. 432-6, L. 432-7, L. 432-9 L. 432-10, L. 432-12 à L. 432-15, ainsi que les articles L. 432-17 à L.
+432-19, sont applicables en Polynésie française, sous les réserves suivantes :
+
+1° Les dispositions fiscales des articles L. 432-6, L. 432-7 et L. 432-13 sont remplacées par des dispositions du code des
+impôts applicable localement, ayant le même objet ;
+
+2° Au 3° de l'article L. 432-6, les références aux articles 1892 à 1904 du code civil sont remplacées par des références aux
+dispositions applicables localement, ayant le même objet ;
+
+3° L'article L. 432-10 est complété par un alinéa ainsi rédigé :
+
+Le prêteur ne peut exiger la restitution des titres empruntés avant la date prévue pour l'expiration du prêt.
+
+II. - Les dispositions des articles L. 432-6, L. 432-7, L. 432-9 et L. 432-10 s'appliquent sous les mêmes conditions aux
+remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de l'article L. 431-7-3
+effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré aux remises de titres prévues
+au 3° de l'article L. 432-6 ainsi qu'aux remises prévues à l'article L. 330-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 2 (V) JORF 20 janvier 2006
+
+	**Cite**:
+
+	  - Code civil 1892 à 1904
+	  - Code monétaire et financier - art. L330-2 (M)
+	  - Code monétaire et financier - art. L431-7-3 (V)
+	  - Code monétaire et financier - art. L432-10 (V)
+	  - Code monétaire et financier - art. L432-13 (M)
+	  - Code monétaire et financier - art. L432-6 (M)
+	  - Code monétaire et financier - art. L432-7 (V)
+	  - Code monétaire et financier - art. L432-9 (V)
+	  - Code monétaire et financier L432-6, L432-7, L432-9, L432-12 à L432-15, L432-17 à L432-19, L432-13, L432-10, L431-7-3, L330-2
+
+	**Anciens textes**:
+
+	  - Loi n°290 1942-02-14 art. 25
 
 
 ##### Paragraphe 2 : Les opérations à terme
@@ -51547,6 +51811,17 @@ Le titre VI du livre V, à l'exception des dispositions fiscales de l'article L.
 Les références à l'article 415 du code des douanes sont remplacées par la référence aux dispositions du code des douanes
 applicable en Polynésie française ayant le même objet.
 
+Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
+rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
+objet.
+
+service institué à l'article L. 562-43.
+
+Les conditions d'application du titre IV du livre V pour les personnes mentionnées aux 3, 3 bis et 4 de l'article L. 562-1
+sont régies par les articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et adaptation du
+droit économique et financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie françaises et dans les îles Wallis et
+Futuna.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -51561,16 +51836,20 @@ applicable en Polynésie française ayant le même objet.
 
 	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 29-1 (VT)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
-
 	**Cite**:
 
+	  - Ordonnance 2006-60 2006-01-19 art. 7, art. 8
 	  - Code des douanes - art. 415 (T)
+	  - Code monétaire et financier - art. L562-1 (M)
 	  - Code monétaire et financier - art. L563-2 (M)
 	  - Code monétaire et financier - art. L574-1 (M)
 	  - Code monétaire et financier - art. L574-2 (M)
+	  - Code monétaire et financier L563-2, L574-1, L574-2, L562-1, L562-43
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V) JORF 20 janvier 2006
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 9 () JORF 20 janvier 2006
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -51767,8 +52046,11 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 ###### Article L761-1
 
 Les articles L. 131-1 à L. 131-87, à l'exception de la seconde phrase du troisième alinéa de l'article L. 131-71, L. 132-1 à
-L. 132-6 et L. 163-1 à L. 163-12 sont applicables dans les îles Wallis-et-Futuna dans des conditions précisées par décret en
-Conseil d'Etat.
+L. 132-6, l'article L. 133-1 et L. 163-1 à L. 163-12 sont applicables dans les îles Wallis-et-Futuna dans des conditions
+précisées par décret en Conseil d'Etat.
+
+Pour l'application des dispositions de l'article L. 133-1, les mots : "au sein de" sont remplacés par les mots : "en
+direction ou en provenance de".
 
 **Liens relatifs à cet article**
 
@@ -51782,13 +52064,17 @@ Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 10 (V) JORF 20 janvier 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2010-11 du 7 janvier 2010 - art. 2 (V)
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L131-71 (M)
-	  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1 à L132-6
+	  - Code monétaire et financier - art. L133-1 (M)
+	  - Code monétaire et financier L131-1 à L131-87, L131-71, L133-1
 
 
 ##### Section 2 : Les relations financières avec l'étranger
@@ -51877,14 +52163,25 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 ###### Article L761-4
 
-Dans les îles Wallis-et-Futuna, la méconnaissance de l'obligation de déclaration énoncée à l'article L. 761-3, constitue un
-délit recherché, constaté et réprimé comme en matière de douane. Elle est passible de la confiscation des sommes, titres ou
-valeurs en infraction ou, lorsque la saisie n'aura pu être faite, d'une somme en tenant lieu et d'une amende égale au montant
-de la somme sur laquelle a porté le délit ou sa tentative.
+I. - La méconnaissance des obligations énoncées à l'article L. 761-3 est punie d'une amende égale au quart de la somme sur
+laquelle a porté l'infraction ou la tentative d'infraction.
 
-Sous réserve du premier alinéa du présent article, les articles du code des douanes applicables dans les îles Wallis-et-
-Futuna correspondant aux articles des titres II et XII du code des douanes, sont applicables aux infractions à l'obligation
-prévue à l'article L. 761-3.
+II. - En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la
+somme sur laquelle a porté l'infraction ou la tentative d'infraction, pendant une durée de trois mois, renouvelable sur
+autorisation du procureur de la République territorialement compétent, dans la limite de six mois au total.
+
+La somme consignée est saisie et sa confiscation peut être prononcée par la juridiction compétente si, pendant la durée de la
+consignation, il est établi que l'auteur de l'infraction mentionnée au I est ou a été en possession d'objets laissant penser
+qu'il est ou a été l'auteur d'une ou plusieurs infractions prévues et réprimées par le code des douanes applicable aux îles
+Wallis et Futuna ou qu'il participe ou a participé à la commission de telles infractions ou s'il y a des raisons plausibles
+de penser que l'auteur de l'infraction mentionnée au I a commis une infraction ou plusieurs infractions prévues et réprimées
+par le code des douanes applicable aux îles Wallis et Futuna ou qu'il a participé à la commission de telles infractions.
+
+La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trésor, mainlevée des mesures de consignation et
+saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'application des sanctions fiscales.
+
+III. - La recherche, la constatation et la poursuite des infractions mentionnées au I sont faites dans les conditions fixées
+par le code des douanes applicable aux îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -51898,8 +52195,7 @@ prévue à l'article L. 761-3.
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 12 () JORF 20 janvier 2006
 
 	**Cite**:
 
@@ -51945,11 +52241,7 @@ Mayotte, Saint-Pierre-et-Miquelon, la Nouvelle-Calédonie et la Polynésie fran�
 
 ###### Article L762-1
 
-Les articles L. 211-1 à L. 211-6 sont applicables dans les îles Wallis-et-Futuna. L'article L. 211-4 est remplacé par les
-dispositions suivantes :
-
-" Art. L. 211-4. - Les titres des sociétés par actions, autres que les SICAV, qui ne sont pas négociés sur un marché
-réglementé doivent être inscrits à un compte tenu chez elle par la société émettrice au nom du propriétaire des titres. "
+Les articles L. 211-1 à L. 211-6 sont applicables dans les îles Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
 
@@ -51966,14 +52258,11 @@ réglementé doivent être inscrits à un compte tenu chez elle par la société
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II, art. 97 JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 97 () JORF 7 mai 2005
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 1 (V) JORF 20 janvier 2006
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-4 (M)
-	  - Code monétaire et financier L211-1 à L211-6, L211-4
+	  - Code monétaire et financier L211-1 à L211-6
 
 
 ##### Sous-section 2 : Les titres de capital et titres donnant accès au capital
@@ -52240,7 +52529,8 @@ Les dispositions de l'article L. 312-1 qui s'appliquent aux établissements de c
 
 ###### Article L763-3
 
-Les articles L. 313-1 à L. 313-5 sont applicables dans les îles Wallis-et-Futuna.
+Les articles L. 313-1 à L. 313-5-2 sont applicables dans les îles Wallis-et-Futuna. L'article L. 351-1 s'y applique
+également.
 
 **Liens relatifs à cet article**
 
@@ -52256,12 +52546,12 @@ Les articles L. 313-1 à L. 313-5 sont applicables dans les îles Wallis-et-Futu
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V) JORF 20 janvier 2006
 
 	**Cite**:
 
-	  - Code monétaire et financier L313-1 à L313-5
+	  - Code monétaire et financier - art. L313-1 (V)
+	  - Code monétaire et financier - art. L351-1 (V)
 
 
 ##### Paragraphe 2 : Catégories de crédits
@@ -52735,6 +53025,45 @@ L'article L. 432-5 est applicable dans les îles Wallis-et-Futuna.
 	**Cite**:
 
 	  - Code monétaire et financier - art. L432-5 (V)
+
+
+##### Paragraphe 1 bis : Cessions temporaires
+
+###### Article L764-8-1
+
+I. - Les articles L. 432-6, L. 432-7, L. 432-9, L. 432-10, L. 432-12 à L. 432-15, ainsi que les articles L. 432-17 à L.
+432-19 sont applicables dans les îles Wallis et Futuna. Les dispositions fiscales des articles L. 432-6, L. 432-7 et L.
+432-13 sont remplacées par des dispositions du code des impôts applicable localement, ayant le même objet.
+
+II. - Les dispositions des articles L. 432-6, L. 432-7, L. 432-9 et L. 432-10 s'appliquent sous les mêmes conditions aux
+remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de l'article L. 431-7-3
+effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré aux remises de titres prévues
+au 3° de l'article L. 432-6 ainsi qu'aux remises prévues à l'article L. 330-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°290 1942-02-14 art. 25
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 2 (V) JORF 20 janvier 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L330-2 (M)
+	  - Code monétaire et financier - art. L431-7-3 (V)
+	  - Code monétaire et financier - art. L432-10 (V)
+	  - Code monétaire et financier - art. L432-13 (M)
+	  - Code monétaire et financier - art. L432-6 (M)
+	  - Code monétaire et financier - art. L432-7 (V)
+	  - Code monétaire et financier - art. L432-9 (V)
+	  - Code monétaire et financier L432-6, L432-7, L432-9, L432-10, L432-12 à L432-15, L432-17 à L432-19, L432-13, L431-7-3, L330-2
 
 
 ##### Paragraphe 2 : Les opérations à terme
@@ -53344,7 +53673,32 @@ Le titre VI du livre V, à l'exception des dispositions fiscales de l'article L.
 Les références à l'article 415 du code des douanes sont remplacées par la référence aux dispositions du code des douanes
 applicable dans les îles Wallis-et-Futuna ayant le même objet.
 
+Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
+rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
+objet.
+
+Lorsqu'en application de l'article 16 de la loi n° 71-1130 du 31 décembre 1971, le nombre d'avocats inscrits au barreau n'a
+pas permis l'élection d'un conseil de l'ordre, l'avocat effectue directement la déclaration prévue à l'article L. 562-2
+auprès du service institué à l'article L. 562-43.
+
+Les conditions d'application du titre IV du livre V pour les personnes mentionnées aux 3, 3 bis et 4 de l'article L. 562-1
+sont régies par les articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et adaptation du
+droit économique et financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie françaises et dans les îles Wallis et
+Futuna.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 16 (V)
+	  - Ordonnance 2006-60 2006-01-19 art. 7, art. 8
+	  - Code des douanes - art. 415 (T)
+	  - Code monétaire et financier - art. L562-1 (M)
+	  - Code monétaire et financier - art. L562-2 (M)
+	  - Code monétaire et financier - art. L563-2 (M)
+	  - Code monétaire et financier - art. L574-1 (M)
+	  - Code monétaire et financier - art. L574-2 (M)
+	  - Code monétaire et financier L563-2, L574-1, L574-2, L562-1, L562-2, L562-43
 
 	**Anciens textes**:
 
@@ -53361,15 +53715,8 @@ applicable dans les îles Wallis-et-Futuna ayant le même objet.
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
-
-	**Cite**:
-
-	  - Code des douanes - art. 415 (T)
-	  - Code monétaire et financier - art. L563-2 (M)
-	  - Code monétaire et financier - art. L574-1 (M)
-	  - Code monétaire et financier - art. L574-2 (M)
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V) JORF 20 janvier 2006
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 9 () JORF 20 janvier 2006
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
