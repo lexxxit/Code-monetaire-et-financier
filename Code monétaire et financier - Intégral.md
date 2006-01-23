@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-01-20
+Version Consolidée au 2006-01-24
 
 # Partie législative
 
@@ -36249,7 +36249,35 @@ ses fonctions par décision de justice à la demande du gestionnaire ou de tout 
 	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 21 ()
 
 
-### Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux
+### Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux, le financement des activités terroristes et les loteries, jeux et paris prohibés
+
+#### Chapitre IV : Obligations relatives à la lutte contre le financement des activités terroristes
+
+###### Article L564-5
+
+L'Etat est responsable des conséquences dommageables de la mise en oeuvre de bonne foi, par les organismes financiers et les
+personnes mentionnés à l'article L. 564-1, leurs dirigeants ou leurs préposés, des mesures de gel ou d'interdiction
+mentionnées à l'article L. 564-2. Aucune sanction professionnelle ne peut être prononcée à l'encontre de ces organismes et
+ces personnes, leurs dirigeants ou leurs préposés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L564-1 (M)
+	  - Code monétaire et financier - art. L564-2 (T)
+
+
+### Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes
 
 #### Chapitre Ier : Déclaration de certaines sommes ou opérations
 
@@ -36274,6 +36302,10 @@ service mentionné à l'article L. 562-4 qui lui fournit tous renseignements uti
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cité par**:
 
@@ -36405,8 +36437,7 @@ NOTA (1) : L'article L111-1 du code de la mutualité a été abrogé par l'artic
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 73 () JORF 7 mai 2005
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cite**:
 
@@ -36471,10 +36502,6 @@ Ce décret fixera le montant minimum des opérations soumises à déclaration.
 	  - TXT_SOURCE: Décret n°2003-1195 du 15 décembre 2003 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°2003-1195 du 15 décembre 2003 - art. 2 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
-
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 2004 - art. 315-52 (V)
@@ -36509,6 +36536,10 @@ Ce décret fixera le montant minimum des opérations soumises à déclaration.
 	  - Code monétaire et financier - art. R563-1 (Ab)
 	  - Code monétaire et financier - art. R745-10 (V)
 	  - Code monétaire et financier - art. R755-10 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cite**:
 
@@ -36579,10 +36610,6 @@ justice.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V) JORF 20 janvier 2006
-
 	**Cité par**:
 
 	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
@@ -36590,6 +36617,10 @@ justice.
 	  - Code monétaire et financier - art. R562-1 (Ab)
 	  - Code monétaire et financier - art. R562-2-2 (Ab)
 	  - Code monétaire et financier - art. R562-2-3 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 
 ###### Article L562-3
@@ -36610,7 +36641,7 @@ Toute information de nature à modifier l'appréciation portée par l'organisme 
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 33 () JORF 16 mai 2001
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cité par**:
 
@@ -36685,8 +36716,7 @@ affaires ayant fait l'objet d'une déclaration de soupçon, en application du pr
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 2004-03-09 art. 33 VII 2°, VIII JORF 10 mars 2004 en vigueur le 1er octobre 2004
-	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cite**:
 
@@ -36725,10 +36755,6 @@ droit à la requête est exécutoire sur minute avant toute notification à la p
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
-
 	**Cité par**:
 
 	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
@@ -36736,6 +36762,10 @@ droit à la requête est exécutoire sur minute avant toute notification à la p
 	  - Code monétaire et financier - art. L562-8 (V)
 	  - Code monétaire et financier - art. L562-9 (Ab)
 	  - Livre des procédures fiscales - art. L135 T (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cite**:
 
@@ -36764,10 +36794,6 @@ fixées par décret en Conseil d'Etat, l'organisme financier ou la personne qui 
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
-
 	**Cité par**:
 
 	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
@@ -36775,6 +36801,10 @@ fixées par décret en Conseil d'Etat, l'organisme financier ou la personne qui 
 	  - Code monétaire et financier - art. R562-2-2 (Ab)
 	  - Code monétaire et financier - art. R564-4 (T)
 	  - Code monétaire et financier - art. R565-4 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cite**:
 
@@ -36805,8 +36835,7 @@ administratifs et en avise le procureur de la République.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 33 () JORF 16 mai 2001
-	  - Loi n°2001-420 du 15 mai 2001 - art. 43 () JORF 16 mai 2001
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cite**:
 
@@ -36851,7 +36880,7 @@ l'article L. 562-1 sont également dégagées de toutes responsabilités.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 33 () JORF 16 mai 2001
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cite**:
 
@@ -36877,18 +36906,14 @@ l'article L. 562-1 sont également dégagées de toutes responsabilités.
 ###### Article L562-10
 
 Le service institué à l'article L. 562-4 anime un comité de liaison de la lutte contre le blanchiment des produits des crimes
-et des délits qui réunit, dans des conditions fixées par décret, les professions mentionnées à l'article L. 562-1, les
-autorités de contrôle et les services de l'Etat concernés.
+et des délits et de la lutte contre le financement des activités terroristes qui réunit, dans des conditions fixées par
+décret, les professions mentionnées à l'article L. 562-1, les autorités de contrôle et les services de l'Etat concernés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 35 () JORF 16 mai 2001
 
 	**Liens**:
 
@@ -36902,6 +36927,10 @@ autorités de contrôle et les services de l'Etat concernés.
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 12 (VD)
 	  - Code monétaire et financier - art. D562-12 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cite**:
 
@@ -36918,7 +36947,7 @@ d'assister leur client dans la préparation ou la réalisation d'une transaction
 par la présentation de tout document écrit probant. Ils s'assurent dans les mêmes conditions de l'identité de leur client
 occasionnel qui leur demande de faire des opérations dont la nature et le montant sont fixés par décret en Conseil d'Etat.
 Les personnes visées au 8 de l'article L. 562-1 satisfont à cette obligation en appliquant les mesures prévues à l'article L.
-564-1.
+565-1.
 
 Ils se renseignent sur l'identité véritable des personnes avec lesquelles ils nouent une relation contractuelle ou qui
 demandent leur assistance dans la préparation ou la réalisation d'une transaction lorsqu'il leur apparaît que ces personnes
@@ -36940,11 +36969,6 @@ l'identification ou lorsqu'elles l'assistent dans la préparation ou la réalisa
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2004-130 2004-02-11 art. 70 IV, X JORF 12 février 2004
-	  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
-
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 2004 - art. 315-56 (V)
@@ -36957,10 +36981,15 @@ l'identification ou lorsqu'elles l'assistent dans la préparation ou la réalisa
 	  - Code monétaire et financier - art. L735-3 (M)
 	  - Code monétaire et financier - art. R563-1 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2006-64 2006-01-23 art. 23 I, III JORF 24 janvier 2006
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L564-1 (M)
+	  - Code monétaire et financier - art. L565-1 (T)
 
 
 ###### Article L563-1-1
@@ -36978,14 +37007,14 @@ morales mentionnées au sixième alinéa de l'article L. 562-2 ou domiciliées, 
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
-
 	**Cité par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 12 (VD)
 	  - Code monétaire et financier - art. L562-6 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cite**:
 
@@ -37029,7 +37058,7 @@ bons, titres et valeurs mentionnés à l'article 990 A et au deuxième alinéa d
 
 	**Modifié par**:
 
-	  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cité par**:
 
@@ -37075,11 +37104,6 @@ locale y fasse obstacle, auquel cas ils en informent le service institué à l'a
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2004-130 2004-02-11 art. 70 V, X JORF 12 février 2004
-	  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
-
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 2004 - art. 315-57 (V)
@@ -37090,6 +37114,10 @@ locale y fasse obstacle, auquel cas ils en informent le service institué à l'a
 	  - Code monétaire et financier - art. L562-6 (M)
 	  - Code monétaire et financier - art. L563-4 (V)
 	  - Code monétaire et financier - art. R563-2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cite**:
 
@@ -37108,7 +37136,7 @@ Pour l'application du présent titre, le service institué à l'article L. 562-4
 ces pièces leur soient communiquées, dans le but de reconstituer l'ensemble des transactions faites par une personne physique
 ou morale et liées à une opération ayant fait l'objet d'une déclaration mentionnée à l'article L. 562-2, de l'examen
 particulier prévu à l'article L. 563-3 ou d'une information mentionnée à l'article L. 563-5, ainsi que dans le but de
-renseigner, dans les conditions prévues à l'article L. 564-2, les services des autres Etats exerçant des compétences
+renseigner, dans les conditions prévues à l'article L. 565-2, les services des autres Etats exerçant des compétences
 analogues.
 
 **Liens relatifs à cet article**
@@ -37121,11 +37149,6 @@ analogues.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2004-130 2004-02-11 art. 70 VI, X JORF 12 février 2004
-	  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
-
 	**Cité par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 12 (VD)
@@ -37133,13 +37156,18 @@ analogues.
 	  - Code monétaire et financier - art. L562-6 (M)
 	  - Code monétaire et financier - art. L563-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-64 2006-01-23 art. 23 I, III JORF 24 janvier 2006
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+
 	**Cite**:
 
+	  - Code monétaire et financier - art. L562-1 (M)
 	  - Code monétaire et financier - art. L562-2 (M)
 	  - Code monétaire et financier - art. L562-4 (M)
 	  - Code monétaire et financier - art. L563-5 (M)
-	  - Code monétaire et financier - art. L564-2 (T)
-	  - Code monétaire et financier L562-4, L562-2, L562-1 L563-3, L563-5, L564-2
+	  - Code monétaire et financier - art. L565-2 (T)
 
 
 ###### Article L563-5
@@ -37180,7 +37208,7 @@ financières, toutes les informations nécessaires à l'accomplissement de sa mi
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cite**:
 
@@ -37208,48 +37236,43 @@ professionnels ou administratifs.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2004-130 2004-02-11 art. 70 VII, X JORF 12 février 2004
-	  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
-
 	**Cité par**:
 
 	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L562-1 (M)
 
 
-#### Chapitre IV : Dispositions diverses
+#### Chapitre IV : Obligations relatives à la lutte contre le financement des activités terroristes
 
 ###### Article L564-1
 
-Les casinos qui échangent des moyens de paiement, des jetons ou plaques ou qui acceptent les jetons ou plaques d'autres
-casinos sont tenus d'enregistrer les noms et adresses des joueurs qui échangent ou apportent des jetons et plaques pour une
-somme supérieure à un montant fixé par décret.
+Les organismes financiers et personnes mentionnés aux 1 à 5 et au 7 de l'article L. 562-1, qui détiennent ou reçoivent des
+fonds, instruments financiers et ressources économiques, sont tenus d'appliquer les mesures de gel ou d'interdiction prises
+en vertu du présent chapitre.
 
-Les groupements, cercles et sociétés organisant des jeux de hasard, des loteries, des paris, des pronostics sportifs ou
-hippiques sont tenus de s'assurer, par la présentation de tout document écrit probant, de l'identité des joueurs gagnant des
-sommes supérieures à un montant fixé par décret et d'enregistrer les noms et adresses de ces joueurs, ainsi que le montant
-des sommes qu'ils ont gagnées. Ces données doivent être conservées pendant cinq ans.
+Pour l'application du présent chapitre, on entend par fonds, instruments financiers et ressources économiques les avoirs de
+toute nature, corporels ou incorporels, mobiliers ou immobiliers, acquis par quelque moyen que ce soit, et les documents ou
+instruments légaux sous quelque forme que ce soit, y compris sous forme électronique ou numérique, qui prouvent un droit de
+propriété ou un intérêt sur ces avoirs, incluant, notamment, les crédits bancaires, les chèques de voyage, les chèques
+bancaires, les mandats, les actions, les titres, les obligations, les traites et les lettres de crédit.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-614 1990-07-12 art. 18
 	  - Loi n°90-614 du 12 juillet 1990 - art. 18 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cité par**:
 
@@ -37269,35 +37292,49 @@ des sommes qu'ils ont gagnées. Ces données doivent être conservées pendant c
 	  - Code monétaire et financier - art. R562-2 (V)
 	  - Code monétaire et financier - art. R564-2 (T)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
+	**Cite**:
+
+	  - Code monétaire et financier - art. L562-1 (M)
+
 	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. L565-1 (T)
 	  - Code monétaire et financier - art. L565-1 (V)
 
 
 ###### Article L564-2
 
-Dans le respect des dispositions législatives et des conventions internationales applicables en matière de protection de la
-vie privée et de communication des données à caractère nominatif, le service institué à l'article L. 562-4 peut communiquer,
-aux autorités des autres Etats exerçant des compétences analogues, les informations qu'il détient sur des opérations qui
-paraissent avoir pour objet le placement, la dissimulation, la conversion ou le transfert de sommes provenant de l'une des
-infractions prévues aux articles 222-34 à 222-39 et 324-1 du code pénal ou à l'article 415 du code des douanes, sous réserve
-de réciprocité et à condition que les autorités étrangères compétentes soient soumises aux mêmes obligations de secret
-professionnel que le service susmentionné.
+Sans préjudice des mesures restrictives spécifiques prises en application de règlements du Conseil de l'Union européenne et
+des mesures prononcées par l'autorité judiciaire, le ministre chargé de l'économie peut décider le gel, pour une durée de six
+mois, renouvelable, de tout ou partie des fonds, instruments financiers et ressources économiques détenus auprès des
+organismes et personnes mentionnés à l'article L. 564-1 qui appartiennent à des personnes physiques ou morales qui
+commettent, ou tentent de commettre, des actes de terrorisme, définis comme il est dit au 4 de l'article 1er du règlement
+(CE) n° 2580/2001 du Conseil, du 27 décembre 2001, concernant l'adoption de mesures restrictives spécifiques à l'encontre de
+certaines personnes et entités dans le cadre de la lutte contre le terrorisme, les facilitent ou y participent et à des
+personnes morales détenues par ces personnes physiques ou contrôlées, directement ou indirectement, par elles au sens des 5
+et 6 de l'article 1er du règlement (CE) n° 2580/2001 du Conseil, du 27 décembre 2001, précité. Les fruits produits par les
+fonds, instruments et ressources précités sont également gelés.
 
-Cette communication ne peut être accordée si une procédure pénale a déjà été engagée en France sur la base des mêmes faits ou
-si cette communication porte atteinte à la souveraineté, à la sécurité, aux intérêts essentiels de la France ou à l'ordre
-public.
+Le gel des fonds, instruments financiers et ressources économiques détenus auprès des organismes et personnes mentionnés à
+l'article L. 564-1 s'entend comme toute action visant à empêcher tout mouvement, transfert ou utilisation de fonds,
+instruments financiers et ressources économiques qui auraient pour conséquence un changement de leur montant, de leur
+localisation, de leur propriété, de leur nature ou toute autre modification qui pourrait en permettre l'utilisation par les
+personnes faisant l'objet de la mesure de gel.
+
+Le ministre chargé de l'économie peut également décider d'interdire, pour une durée de six mois renouvelable, tout mouvement
+ou transfert de fonds, instruments financiers et ressources économiques au bénéfice des personnes physiques ou morales
+mentionnées au premier alinéa.
+
+Les décisions du ministre arrêtées en application du présent article sont publiées au Journal officiel et exécutoires à
+compter de la date de cette publication.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-614 1990-07-12 art. 22
 	  - Loi n°90-614 du 12 juillet 1990 - art. 22 (Ab)
 
 	**Codifié par**:
@@ -37305,7 +37342,7 @@ public.
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
@@ -37321,18 +37358,207 @@ public.
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L564-1 (M)
+	  - Règlement CE 2580/2001 2001-12-27
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L565-2 (V)
+
+
+###### Article L564-3
+
+Les mesures de gel ou d'interdiction prises en vertu du présent chapitre s'imposent à toute personne copropriétaire des
+fonds, instruments et ressources précités, ainsi qu'à toute personne titulaire d'un compte joint dont l'autre titulaire est
+une personne propriétaire, nue-propriétaire ou usufruitière mentionnée au premier alinéa de l'article L. 564-2.
+
+Ces mesures sont opposables à tout créancier et à tout tiers pouvant invoquer des droits sur les fonds, instruments
+financiers et ressources économiques considérés même si l'origine de ces créances ou autres droits est antérieure à la
+publication de l'arrêté.
+
+Les mesures mentionnées au troisième alinéa de l'article L. 564-2 s'appliquent aux mouvements ou transferts de fonds,
+instruments financiers et ressources économiques dont l'ordre d'exécution a été émis antérieurement à la date de publication
+de la décision d'interdiction.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°90-614 du 12 juillet 1990 - art. 24 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 12 (VD)
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L564-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L565-3 (V)
+
+
+###### Article L564-4
+
+Le secret bancaire ou professionnel ne fait pas obstacle à l'échange d'informations entre les organismes et personnes
+mentionnés à l'article L. 564-1 et les services de l'Etat chargés de mettre en oeuvre une mesure de gel ou d'interdiction de
+mouvement ou de transfert des fonds, des instruments financiers et des ressources économiques lorsque ces informations visent
+à vérifier l'identité des personnes concernées directement ou indirectement par cette mesure. Les informations fournies ou
+échangées ne peuvent être utilisées qu'à ces fins.
+
+Les services de l'Etat chargés de mettre en oeuvre une mesure de gel ou d'interdiction de mouvement ou de transfert des
+fonds, des instruments financiers et ressources économiques et les autorités d'agrément et de contrôle des organismes et
+personnes mentionnés à l'article L. 564-1 sont autorisés à échanger les informations nécessaires à l'exercice de leurs
+missions respectives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L564-1 (M)
+
+
+###### Article L564-6
+
+Un décret en Conseil d'Etat fixe les conditions d'application des dispositions du présent chapitre, notamment les conditions
+dans lesquelles les organismes et les personnes mentionnés à l'article L. 564-1 sont tenus d'appliquer les mesures de gel ou
+d'interdiction de mouvement ou de transfert des fonds, instruments financiers et ressources économiques prises en vertu du
+présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L564-1 (M)
+
+
+#### Chapitre V : Dispositions diverses
+
+###### Article L565-1
+
+Les casinos qui échangent des moyens de paiement, des jetons ou plaques ou qui acceptent les jetons ou plaques d'autres
+casinos sont tenus d'enregistrer les noms et adresses des joueurs qui échangent ou apportent des jetons et plaques pour une
+somme supérieure à un montant fixé par décret.
+
+Les groupements, cercles et sociétés organisant des jeux de hasard, des loteries, des paris, des pronostics sportifs ou
+hippiques sont tenus de s'assurer, par la présentation de tout document écrit probant, de l'identité des joueurs gagnant des
+sommes supérieures à un montant fixé par décret et d'enregistrer les noms et adresses de ces joueurs, ainsi que le montant
+des sommes qu'ils ont gagnées. Ces données doivent être conservées pendant cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+
+	**Transféré par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L563-1 (M)
+	  - Code monétaire et financier - art. R564-2-1 (T)
+	  - Code monétaire et financier - art. R565-2-1 (Ab)
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. L564-1 (M)
+	  - Code monétaire et financier - art. L564-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L566-1 (V)
+
+
+###### Article L565-2
+
+Dans le respect des dispositions législatives et des conventions internationales applicables en matière de protection de la
+vie privée et de communication des données à caractère nominatif, le service institué à l'article L. 562-4 peut communiquer,
+aux autorités des autres Etats exerçant des compétences analogues, les informations qu'il détient sur des opérations qui
+paraissent avoir pour objet le placement, la dissimulation, la conversion ou le transfert de sommes provenant de l'une des
+infractions prévues aux articles 222-34 à 222-39 et 324-1 du code pénal ou à l'article 415 du code des douanes, sous réserve
+de réciprocité et à condition que les autorités étrangères compétentes soient soumises aux mêmes obligations de secret
+professionnel que le service susmentionné.
+
+Cette communication ne peut être accordée si une procédure pénale a déjà été engagée en France sur la base des mêmes faits ou
+si cette communication porte atteinte à la souveraineté, à la sécurité, aux intérêts essentiels de la France ou à l'ordre
+public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+
+	**Transféré par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+
+	**Cite**:
+
 	  - Code pénal - art. 324-1 (M)
 	  - Code pénal 222-34 à 222-39, 324-1
 	  - Code des douanes - art. 415 (T)
 	  - Code monétaire et financier - art. L562-4 (M)
 
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L563-3 (V)
+	  - Code monétaire et financier - art. L563-4 (V)
+	  - Code monétaire et financier - art. L565-3 (T)
+	  - Code monétaire et financier - art. L565-4 (T)
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. L564-2 (T)
+
 	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. L565-2 (T)
-	  - Code monétaire et financier - art. L565-2 (V)
+	  - Code monétaire et financier - art. L566-2 (V)
 
 
-###### Article L564-3
+###### Article L565-3
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent titre, sans préjudice des règlements professionnels
 ou administratifs prévus par les législations applicables aux organismes financiers et aux personnes mentionnés à l'article
@@ -37379,34 +37605,31 @@ ces dispositions.
 	  - Code monétaire et financier - art. L613-21 (M)
 	  - Code monétaire et financier L562-1, L613-21, L214-1, L341-3, L341-4, 16, L543-1
 
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 24
-	  - Loi n°90-614 du 12 juillet 1990 - art. 24 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cité par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 12 (VD)
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
-	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 4 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
+	**Transféré par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. L564-3 (M)
+	  - Code monétaire et financier - art. L564-3 (T)
+
 	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. L565-3 (T)
-	  - Code monétaire et financier - art. L565-3 (V)
+	  - Code monétaire et financier - art. L566-3 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R564-1 (T)
 
 
 ### Titre VII : Dispositions pénales
@@ -38457,7 +38680,7 @@ laquelle l'infraction a été commise.
 	  - Code monétaire et financier - art. L573-9 (M)
 
 
-#### Chapitre IV : Dispositions relatives au blanchiment de capitaux
+#### Chapitre IV : Dispositions relatives à la lutte contre le blanchiment de capitaux et le financement des activités terroristes
 
 ###### Article L574-1
 
@@ -38478,10 +38701,6 @@ institué à l'article L. 562-4 ou de donner des informations sur les suites qui
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
-
 	**Cité par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 12 (VD)
@@ -38500,6 +38719,10 @@ institué à l'article L. 562-4 ou de donner des informations sur les suites qui
 	  - Code monétaire et financier - art. L755-13 (M)
 	  - Code monétaire et financier - art. L755-7-2 (M)
 	  - Code monétaire et financier - art. L765-13 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
 
 	**Cite**:
 
@@ -38525,6 +38748,10 @@ prescrite au deuxième alinéa de l'article L. 563-5, sous réserve des disposit
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+
 	**Cite**:
 
 	  - Code pénal - art. 226-13 (M)
@@ -38539,6 +38766,38 @@ prescrite au deuxième alinéa de l'article L. 563-5, sous réserve des disposit
 	  - Code monétaire et financier - art. L755-13 (M)
 	  - Code monétaire et financier - art. L755-7-2 (M)
 	  - Code monétaire et financier - art. L765-13 (M)
+
+
+###### Article L574-3
+
+Est puni des peines prévues au 1 de l'article 459 du code des douanes le fait, pour les dirigeants ou les préposés des
+organismes financiers et personnes mentionnés à l'article L. 564-1 et, pour les personnes faisant l'objet d'une mesure de gel
+ou d'interdiction prise en application du chapitre IV du titre VI du présent livre, de se soustraire aux obligations en
+résultant ou de faire obstacle à sa mise en oeuvre.
+
+Sont également applicables les dispositions relatives à la constatation des infractions, aux poursuites, au contentieux et à
+la répression des infractions des titres II et XII du code des douanes sous réserve des articles 453 à 459 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+
+	**Cite**:
+
+	  - Code des douanes - art. 459 (M)
+	  - Code des douanes 459, 453 à 459
+	  - Code monétaire et financier - art. L564-1 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L735-13 (V)
+	  - Code monétaire et financier - art. L735-4 (VT)
 
 
 ## Livre VI : Les institutions en matière bancaire et financière
@@ -47665,10 +47924,10 @@ L'article L. 573-8 s'y applique également.
 ###### Article L735-13
 
 Le titre VI du livre V à l'exception des dispositions fiscales de l'article L. 563-2 est applicable à Mayotte ainsi que les
-articles L. 574-1 et L. 574-2.
+articles L. 574-1 à L. 574-3.
 
-Les références à l'article 415 du code des douanes sont remplacées par la référence aux dispositions du code des douanes
-applicable à Mayotte ayant le même objet.
+Les références aux articles 415 et 453 à 459 ainsi qu'aux titres II et XII du code des douanes sont remplacées par la
+référence aux dispositions du code des douanes applicable à Mayotte ayant le même objet.
 
 Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
 rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
@@ -47687,15 +47946,14 @@ Futuna.
 
 	**Cite**:
 
-	  - Loi n°71-1130 du 31 décembre 1971 - art. 16 (V)
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 16
 	  - Ordonnance 2006-60 2006-01-19 art. 7, art. 8
-	  - Code des douanes - art. 415 (T)
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L563-2 (M)
-	  - Code monétaire et financier - art. L574-1 (M)
-	  - Code monétaire et financier - art. L574-2 (M)
-	  - Code monétaire et financier L563-2, L574-1, L574-2, L562-1, L562-2, L562-43
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L562-2
+	  - Code monétaire et financier - art. L563-2
+	  - Code monétaire et financier - art. L574-1
+	  - Code monétaire et financier - art. L574-3
+	  - Code monétaire et financier L563-2, L574-1, L574-3, 415, 453 à 459, L562-1, L562-2, L562-43
 
 	**Anciens textes**:
 
@@ -47707,8 +47965,11 @@ Futuna.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V) JORF 20 janvier 2006
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 9 () JORF 20 janvier 2006
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V) JORF 24 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -49724,11 +49985,11 @@ L'article L. 573-8 s'y applique également.
 
 ###### Article L745-13
 
-Le titre VI du livre V, à l'exception des dispositions fiscales de l'article L. 563-2, ainsi que les articles L. 574-1 et L.
-574-2 sont applicables en Nouvelle-Calédonie.
+Le titre VI du livre V, à l'exception des dispositions fiscales de l'article L. 563-2, ainsi que les articles L. 574-1 à L.
+574-3 sont applicables en Nouvelle-Calédonie.
 
-Les références à l'article 415 du code des douanes sont remplacées par la référence aux dispositions du code des douanes
-applicable en Nouvelle-Calédonie ayant le même objet.
+Les références aux articles 415 et 453 à 459 ainsi qu'aux titres II et XII du code des douanes sont remplacées par la
+référence aux dispositions du code des douanes applicable en Nouvelle-Calédonie ayant le même objet.
 
 Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
 rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
@@ -49756,16 +50017,13 @@ Futuna.
 	**Cite**:
 
 	  - Ordonnance 2006-60 2006-01-19 art. 7, art. 8
-	  - Code des douanes - art. 415 (T)
 	  - Code monétaire et financier - art. L562-1 (M)
 	  - Code monétaire et financier - art. L563-2 (M)
-	  - Code monétaire et financier - art. L574-1 (M)
-	  - Code monétaire et financier - art. L574-2 (M)
+	  - Code monétaire et financier L563-2, L574-1 à L574-3, 415, 453 à 459, L562-1
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V) JORF 20 janvier 2006
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 9 () JORF 20 janvier 2006
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V) JORF 24 janvier 2006
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -51805,17 +52063,15 @@ L'article L. 573-8 s'y applique également.
 
 ###### Article L755-13
 
-Le titre VI du livre V, à l'exception des dispositions fiscales de l'article L. 563-2, ainsi que les articles L. 574-1 et L.
-574-2 sont applicables en Polynésie française.
+Le titre VI du livre V, à l'exception des dispositions fiscales de l'article L. 563-2, ainsi que les articles L. 574-1 à L.
+574-3 sont applicables en Polynésie française.
 
-Les références à l'article 415 du code des douanes sont remplacées par la référence aux dispositions du code des douanes
-applicable en Polynésie française ayant le même objet.
+Les références aux articles 415 et 453 à 459 ainsi qu'aux titres II et XII du code des douanes sont remplacées par la
+référence aux dispositions du code des douanes applicable en Polynésie française ayant le même objet.
 
 Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
 rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
 objet.
-
-service institué à l'article L. 562-43.
 
 Les conditions d'application du titre IV du livre V pour les personnes mentionnées aux 3, 3 bis et 4 de l'article L. 562-1
 sont régies par les articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et adaptation du
@@ -51839,17 +52095,13 @@ Futuna.
 	**Cite**:
 
 	  - Ordonnance 2006-60 2006-01-19 art. 7, art. 8
-	  - Code des douanes - art. 415 (T)
 	  - Code monétaire et financier - art. L562-1 (M)
 	  - Code monétaire et financier - art. L563-2 (M)
-	  - Code monétaire et financier - art. L574-1 (M)
-	  - Code monétaire et financier - art. L574-2 (M)
-	  - Code monétaire et financier L563-2, L574-1, L574-2, L562-1, L562-43
+	  - Code monétaire et financier L563-2, L574-1 à L574-3, 415, 453 à 459, L562-1, L562-43
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V) JORF 20 janvier 2006
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 9 () JORF 20 janvier 2006
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V) JORF 24 janvier 2006
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -53667,11 +53919,11 @@ l'ordonnance n° 2005-429 a rectifié cette erreur.
 
 ###### Article L765-13
 
-Le titre VI du livre V, à l'exception des dispositions fiscales de l'article L. 563-2, ainsi que les articles L. 574-1 et L.
-574-2 sont applicables dans les îles Wallis-et-Futuna.
+Le titre VI du livre V, à l'exception des dispositions fiscales de l'article L. 563-2, ainsi que les articles L. 574-1 à L.
+574-3 sont applicables dans les îles Wallis-et-Futuna.
 
-Les références à l'article 415 du code des douanes sont remplacées par la référence aux dispositions du code des douanes
-applicable dans les îles Wallis-et-Futuna ayant le même objet.
+Les références aux articles 415 et 453 à 459 ainsi qu'aux titres II et XII du code des douanes sont remplacées par la
+référence aux dispositions du code des douanes applicable dans les îles Wallis-et-Futuna ayant le même objet.
 
 Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
 rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
@@ -53692,13 +53944,10 @@ Futuna.
 
 	  - Loi n°71-1130 du 31 décembre 1971 - art. 16 (V)
 	  - Ordonnance 2006-60 2006-01-19 art. 7, art. 8
-	  - Code des douanes - art. 415 (T)
 	  - Code monétaire et financier - art. L562-1 (M)
 	  - Code monétaire et financier - art. L562-2 (M)
 	  - Code monétaire et financier - art. L563-2 (M)
-	  - Code monétaire et financier - art. L574-1 (M)
-	  - Code monétaire et financier - art. L574-2 (M)
-	  - Code monétaire et financier L563-2, L574-1, L574-2, L562-1, L562-2, L562-43
+	  - Code monétaire et financier L563-2, L574-1 à L574-3, 415, 453 à 459, L562-1, L562-2, L562-43
 
 	**Anciens textes**:
 
@@ -53715,8 +53964,7 @@ Futuna.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V) JORF 20 janvier 2006
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 9 () JORF 20 janvier 2006
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V) JORF 24 janvier 2006
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
