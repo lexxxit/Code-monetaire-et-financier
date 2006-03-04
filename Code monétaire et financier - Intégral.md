@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-01-24
+Version Consolidée au 2006-03-05
 
 # Partie législative
 
@@ -82168,6 +82168,167 @@ règles de publicité et de mise en concurrence.
 
 ##### Section 4 : Pouvoirs
 
+##### Sous-section 1 : Réglementation et décisions
+
+###### Article R621-30-1
+
+Pour l'application des dispositions du IX de l'article L. 621-7, une recommandation d'investissement s'entend de toute étude,
+information ou opinion, produite dans un cadre professionnel et destinée à être rendue publique, recommandant ou suggérant
+une stratégie d'investissement relative à une personne faisant appel public à l'épargne ou aux instruments financiers qu'elle
+émet.
+
+Constituent des recommandations d'investissement :
+
+1° L'ensemble des études, informations ou opinions mentionnées au premier alinéa qui recommandent ou suggèrent, directement
+ou indirectement, une stratégie d'investissement lorsqu'elles sont produites par une entreprise d'investissement, un
+établissement de crédit, toute autre personne dont l'activité professionnelle principale est de produire de telles études,
+informations ou opinions, ou les personnes physiques travaillant pour leur compte ;
+
+2° L'ensemble des études, informations ou opinions mentionnées au premier alinéa lorsqu'elles sont produites par toute autre
+personne que celles mentionnées au 1°, notamment par un journaliste professionnel au sens de l'article L. 761-2 du code du
+travail et qui recommandent directement une stratégie d'investissement.
+
+Une recommandation directe d'une stratégie d'investissement s'entend d'une indication explicite de la décision
+d'investissement recommandée, telle que la décision d'acheter, de conserver ou de vendre. Une recommandation indirecte d'une
+stratégie d'investissement s'entend d'une indication implicite, notamment par la référence à un objectif ou à une projection
+de cours, à l'évolution de la situation d'un émetteur ou de toute autre manière de la décision d'investissement recommandée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Décret n°2006-256 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-1367 du 19 septembre 2007 - art. 1 (V)
+	  - Arrêté du 12 novembre 2004 - art. 313-25 (V)
+	  - Arrêté du 12 novembre 2004 - art. 318-16 (V)
+	  - Arrêté du 12 novembre 2004 - art. 329-1 (V)
+	  - Arrêté du 12 novembre 2004 - art. 339-1 (V)
+	  - Code monétaire et financier - art. R621-30-2 (V)
+	  - Code monétaire et financier - art. R621-30-3 (V)
+	  - Code monétaire et financier - art. R746-9 (VD)
+	  - Code monétaire et financier - art. R756-4 (VD)
+	  - Code monétaire et financier - art. R766-4 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-7 (M)
+	  - Code du travail - art. L761-2 (M)
+
+	**Modifié par**:
+
+	  - 
+
+
+###### Article R621-30-2
+
+Ne constituent pas la production de recommandations d'investissement au sens du 2° de l'article R. 621-30-1 toutes les autres
+formes du travail d'un journaliste professionnel, au sens de l'article L. 761-2 du code du travail, qui consistent à produire
+ou diffuser des informations de presse portant sur une personne faisant appel public à l'épargne, sur les instruments
+financiers qu'elle émet ou sur une recommandation d'investissement produite par un tiers sans en modifier la substance, et
+même si cette recommandation n'a pas encore été rendue publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Décret n°2006-256 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-1367 du 19 septembre 2007 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R621-30-1 (V)
+	  - Code du travail - art. L761-2 (M)
+
+	**Modifié par**:
+
+	  - 
+
+
+###### Article R621-30-3
+
+Pour l'application des dispositions du IX de l'article L. 621-7, on entend par diffusion d'une recommandation
+d'investissement le fait pour toute personne de diffuser, dans le cadre de sa profession, une recommandation d'investissement
+directe ou indirecte au sens de l'article R. 621-30-1.
+
+Ne constitue pas la diffusion d'une recommandation d'investissement le fait pour tout média de diffuser une information de
+presse, élaborée par un journaliste professionnel au sens de l'article L. 761-2 du code du travail, portant sur une personne
+faisant appel public à l'épargne, sur les instruments financiers qu'elle émet ou sur une recommandation d'investissement
+produite par un tiers ou sur son résumé, même lorsqu'elle n'a pas encore été rendue publique dès lors que cette information
+de presse n'apporte aucune modification substantielle de la recommandation dont elle rend compte, notamment au sens de celle-
+ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Décret n°2006-256 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-1367 du 19 septembre 2007 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-7 (M)
+	  - Code monétaire et financier - art. R621-30-1 (V)
+	  - Code du travail - art. L761-2 (M)
+
+	**Modifié par**:
+
+	  - 
+
+
+###### Article R621-30-4
+
+Ne constitue ni la production ni la diffusion de recommandations d'investissement au sens du IX de l'article L. 621-7 la
+fourniture de conseils sous la forme d'une recommandation personnalisée à un client ou de recommandations commerciales
+informelles, adressées par une entreprise d'investissement ou un établissement de crédit à un groupe limité de clients,
+concernant une ou plusieurs opérations sur des instruments financiers, qui ne sont pas destinés à être rendus publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Décret n°2006-256 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-1367 du 19 septembre 2007 - art. 1 (V)
+	  - Code monétaire et financier - art. R746-9 (VD)
+	  - Code monétaire et financier - art. R756-4 (VD)
+	  - Code monétaire et financier - art. R766-4 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-7 (M)
+
+
 ##### Sous-section 3 : Contrôles et enquêtes
 
 ###### Article R621-31
@@ -82556,7 +82717,7 @@ Etats membres de la Communauté européenne des décisions qu'elle prend en appl
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Sous-section 6 : Autres compétences
+##### Sous-section 7 : Autres compétences
 
 ###### Article R621-43
 
@@ -82588,10 +82749,69 @@ l'Autorité des marchés financiers.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-256 2006-03-02 art. 2 1° JORF 5 mars 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-901 du 15 mai 2007 - art. 3 () JORF 16 mai 2007 en vigueur le 1er novembre 2007
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L621-14 (M)
 	  - Code monétaire et financier - art. L621-21 (M)
+
+
+###### Article R621-43-1
+
+Les personnes mentionnées au c de l'article L. 621-18-2, qui ont des liens personnels étroits avec l'une des personnes
+mentionnées aux a ou b du même article, sont :
+
+1° Son conjoint non séparé de corps ou le partenaire avec lequel elle est liée par un pacte civil de solidarité ;
+
+2° Les enfants sur lesquels elle exerce l'autorité parentale, ou résidant chez elle habituellement ou en alternance, ou dont
+elle a la charge effective et permanente ;
+
+3° Tout autre parent ou allié résidant à son domicile depuis au moins un an à la date de la transaction concernée ;
+
+4° Toute personne morale ou entité, autre que la personne mentionnée au premier alinéa de l'article L. 621-18-2, constituée
+sur le fondement du droit français ou d'un droit étranger, et :
+
+a) Dont la direction, l'administration ou la gestion est assurée par l'une des personnes mentionnées aux a et b de l'article
+L. 621-18-2 ou par l'une des personnes mentionnées aux 1°, 2° ou 3° et agissant dans l'intérêt de l'une de ces personnes ;
+
+b) Ou qui est contrôlée, directement ou indirectement, au sens de l'article L. 233-3 du code de commerce, par l'une des
+personnes mentionnées aux a et b de l'article L. 621-18-2 ou par l'une des personnes mentionnées aux 1°, 2° ou 3° ;
+
+c) Ou qui est constituée au bénéfice de l'une des personnes mentionnées aux a et b de l'article L. 621-18-2 ou de l'une des
+personnes mentionnées aux 1°, 2° ou 3° ;
+
+d) Ou pour laquelle l'une des personnes mentionnées aux a et b de l'article L. 621-18-2, ou l'une des personnes mentionnées
+aux 1°, 2° ou 3°, bénéficie au moins de la majorité des avantages économiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1109 2003-11-21 art 25
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-256 2006-03-02 art. 2 2° JORF 5 mars 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-1367 du 19 septembre 2007 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-3 (M)
+	  - Code monétaire et financier - art. L621-18-2 (M)
 
 
 ##### Section 6 : Voies de recours
