@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-03-05
+Version Consolidée au 2006-03-24
 
 # Partie législative
 
@@ -9781,7 +9781,7 @@ II. - Les dispositions des articles L. 233-14 et L. 247-2 du code de commerce so
 I. - Un organisme de placement collectif en valeurs mobilières peut comporter deux ou plusieurs compartiments si ses statuts
 ou son règlement le prévoient. Chaque compartiment donne lieu à l'émission d'une catégorie d'actions ou de parts
 représentative des actifs de l'organisme de placement collectif en valeurs mobilières qui lui sont attribués. Par dérogation
-à l'article 2093 du code civil et sauf stipulation contraire des documents constitutifs de l'organisme de placement collectif
+à l'article 2285 du code civil et sauf stipulation contraire des documents constitutifs de l'organisme de placement collectif
 en valeurs mobilières, les actifs d'un compartiment déterminé ne répondent que des dettes, engagements et obligations et ne
 bénéficient que des créances qui concernent ce compartiment.
 
@@ -9814,11 +9814,6 @@ et la liquidation des compartiments.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 46 V 1°, art. 60 1° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 2004 - art. 313-12 (M)
@@ -9838,12 +9833,13 @@ et la liquidation des compartiments.
 	  - Code monétaire et financier - art. R214-36 (V)
 	  - Code monétaire et financier - art. R214-48 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
 	**Cite**:
 
-	  - Code civil - art. 2093 (T)
-	  - Code monétaire et financier - art. L214-11 (V)
-	  - Code monétaire et financier - art. L214-34 (M)
-	  - Code monétaire et financier - art. L214-4 (M)
+	  - Code civil 22285 Code monétaire et financier L214-11, L214-4, L214-34
 
 
 ##### Sous-section 5 : Organismes de placement collectif en valeurs mobilières maîtres et nourriciers
@@ -11225,7 +11221,7 @@ Le fonds commun de créances est une copropriété qui a pour objet d'acquérir 
 représentatives de ces créances. Il peut émettre des titres de créances.
 
 Le fonds peut comporter deux ou plusieurs compartiments si son règlement le prévoit. Chaque compartiment donne lieu à
-l'émission de parts représentatives des actifs du fonds qui lui sont attribués. Par dérogation à l'article 2093 du code civil
+l'émission de parts représentatives des actifs du fonds qui lui sont attribués. Par dérogation à l'article 2285 du code civil
 et sauf stipulation contraire des documents constitutifs du fonds, les actifs d'un compartiment déterminé ne répondent que
 des dettes, engagements et obligations et ne bénéficient que des créances qui concernent ce compartiment.
 
@@ -11304,13 +11300,7 @@ compartiment du fonds peut être valablement substituée à celle des coproprié
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 16 () JORF 27 juillet 2005
-
-	**Cite**:
-
-	  - Code civil - art. 2093 (T)
-	  - Code civil 2093, 1871 à 1873
-	  - Code monétaire et financier - art. L211-1 (M)
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 
 ###### Article L214-44
@@ -12800,6 +12790,53 @@ Un décret en Conseil d'Etat fixe les modalités d'application des sections 1, 2
 
 	  - Code monétaire et financier - art. L231-8 (V)
 	  - Code monétaire et financier - art. L752-6 (M)
+
+
+##### Section 5 : Les organismes de placement collectif immobilier
+
+##### Sous-section 5 : Organismes de placement collectif immobilier à compartiments
+
+###### Article L214-146
+
+I. - Un organisme de placement collectif immobilier peut comporter deux ou plusieurs compartiments si le règlement du fonds
+de placement immobilier ou les statuts de la société de placement à prépondérance immobilière à capital variable le
+prévoient. Chaque compartiment donne lieu à l'émission d'une ou plusieurs catégories de parts ou actions représentatives des
+actifs de l'organisme de placement collectif immobilier qui lui sont attribués. Par dérogation à l'article 2285 du code civil
+et sauf stipulation contraire des documents constitutifs de l'organisme de placement collectif immobilier, les actifs d'un
+compartiment déterminé ne répondent que des dettes, engagements et obligations et ne bénéficient que des créances qui
+concernent ce compartiment.
+
+Lorsque des compartiments sont constitués au sein d'un organisme de placement collectif immobilier, ils sont tous soumis
+individuellement aux dispositions du présent code qui régissent cet organisme.
+
+L'Autorité des marchés financiers définit les conditions dans lesquelles la constitution de chaque compartiment est soumise à
+son agrément, ainsi que les conditions dans lesquelles est déterminée, en fonction de la valeur nette des actifs attribués au
+compartiment correspondant, la valeur liquidative de chaque catégorie de parts ou actions.
+
+II. - Chaque compartiment fait l'objet, au sein de la comptabilité de l'organisme de placement collectif immobilier, d'une
+comptabilité distincte.
+
+III. - L'Autorité des marchés financiers agrée, dans des conditions qu'elle définit, la transformation, la fusion, la
+scission et la liquidation des compartiments.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-5 (V)
+	  - Code monétaire et financier - art. D214-188 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2285 (M)
 
 
 ### Titre II : Les produits d'épargne
@@ -17914,7 +17951,7 @@ tient du billet à ordre qu'il a détenu.
 Pour la radiation des inscriptions, aucune pièce justificative n'est exigée à l'appui des énonciations de l'acte de mainlevée
 établissant qu'il y a eu mise à la disposition ou remise en propriété si lesdites énonciations sont certifiées exactes dans
 cet acte. Les bénéficiaires de la mise à la disposition ou de la remise en propriété ne sont pas considérés comme parties
-intéressées, au sens de l'article 2157 du code civil, si l'acte de mainlevée ne fait pas état de l'opération intervenue à
+intéressées, au sens de l'article 2440 du code civil, si l'acte de mainlevée ne fait pas état de l'opération intervenue à
 leur profit.
 
 **Liens relatifs à cet article**
@@ -17927,9 +17964,13 @@ leur profit.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
 	**Cite**:
 
-	  - Code civil - art. 2157 (T)
+	  - Code civil - art. 2440 (V)
 
 
 ###### Article L313-48
@@ -35780,8 +35821,9 @@ Seuls peuvent exercer les activités de conservation ou d'administration d'instr
 engagements, à condition que ces membres ou associés soient des établissements ou entreprises mentionnées aux 2° et 3°
 habilités en vue de l'administration ou de la conservation d'instruments financiers ;
 
-5° Les personnes morales établies en France ayant pour objet principal ou unique l'activité de conservation ou
-d'administration d'instruments financiers ;
+5° Les personnes morales établies en France exerçant le service de conservation ou d'administration d'instruments financiers,
+y compris dans le cadre des plans mentionnés aux articles L. 443-1, L. 443-1-1 et L. 443-1-2 du code du travail et des
+accords mentionnés aux articles L. 442-5 du code du travail ;
 
 6° Les institutions mentionnées à l'article L. 518-1 ;
 
@@ -35865,18 +35907,18 @@ autorités compétentes de chaque Etat.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_SOURCE: Directive 93-22 CE 1993-05-10
-	  - TXT_SOURCE: Directive 97-9 CE 1997-03-03
+	  - Directive 93-22 CE 1993-05-10
+	  - Directive 97-9 CE 1997-03-03
+	  - Code monétaire et financier - art. L518-1 (M)
+	  - Code du travail - art. L442-5 (M)
+	  - Code du travail - art. L443-1-1 (M)
+	  - Code du travail - art. L443-1-2 (M)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 72 () JORF 7 mai 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L518-1 (M)
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 10 () JORF 24 mars 2006
 
 
 #### Chapitre III : Les sociétés de gestion d'organismes de placement collectif
@@ -42593,7 +42635,13 @@ l'article L. 542-1 ;
 
 11° Les personnes, autres que celles mentionnées aux 1° et 7°, produisant et diffusant des analyses financières ;
 
-12° Les dépositaires d'organismes de placement collectif.
+12° Les dépositaires d'organismes de placement collectif ;
+
+12° Les personnes morales administrant des institutions de retraite professionnelle collectives mentionnées au I de l'article
+8 de l'ordonnance n° 2006-344 du 23 mars 2006 ou des plans d'épargne pour la retraite collectifs mentionnés à l'article L.
+443-1-2 du code du travail ;
+
+13° Les évaluateurs immobiliers.
 
 Pour les personnes ou entités autres que celles fournissant des services mentionnés au 4 de l'article L. 321-1 ou que les
 personnes ou entités mentionnées aux 7°, 8°, 10° et 11° ci-dessus, pour lesquelles l'Autorité des marchés financiers est
@@ -42615,7 +42663,6 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	**Anciens textes**:
 
-	  - Ordonnance 67-833 1967-09-28 art. 5 A
 	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 5 A (Ab)
 
 	**Codifié par**:
@@ -42674,10 +42721,12 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 81 () JORF 7 mai 2005
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 10 () JORF 24 mars 2006
 
 	**Cite**:
 
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 8, v. init.
 	  - Code monétaire et financier - art. L141-4 (M)
 	  - Code monétaire et financier - art. L214-4 (M)
 	  - Code monétaire et financier - art. L321-1 (M)
@@ -42687,6 +42736,7 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 	  - Code monétaire et financier - art. L532-18 (M)
 	  - Code monétaire et financier - art. L542-1 (M)
 	  - Code monétaire et financier L214-4, L542-1, L421-8, L341-3, L341-4, L321-1, L141-4, L532-18, L532-19 à L532-21
+	  - Code du travail - art. L443-1-2 (M)
 
 
 ###### Article L621-9-1
@@ -43235,6 +43285,40 @@ les conditions fixées aux considérants 35 et 36.
 
 	  - Code monétaire et financier - art. L465-1 (V)
 	  - Code monétaire et financier - art. L621-15 (V)
+
+
+###### Article L621-15-2
+
+Lorsqu'une institution mentionnée à l'article L. 370-1 du code des assurances et proposant les opérations mentionnées à
+l'article L. 443-1-2 du code du travail a enfreint l'une des dispositions mentionnées au deuxième alinéa de l'article L.
+370-2 du code des assurances, l'Autorité des marchés financiers, de sa propre initiative ou sur saisine des autorités
+compétentes, notifie cette infraction sans délai à l'autorité compétente de l'Etat dans lequel est agréée l'institution, et
+lui demande, en coopération avec cette autorité de contrôle, de prendre les mesures nécessaires pour mettre un terme à
+l'infraction.
+
+Si, passé un délai de deux mois après cette notification, l'infraction persiste, l'Autorité des marchés financiers peut
+ouvrir une procédure de sanction à l'encontre de l'institution selon les modalités prévues à l'article L. 621-15. Les
+sanctions applicables sont celles mentionnées à l'article L. 621-15 (III, a).
+
+L'Autorité des marchés financiers peut décider de reporter sa décision d'ouvrir une procédure de sanction à l'issue d'un
+délai qu'elle impartit à l'institution pour prendre toute mesure de nature à mettre fin à l'infraction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 10 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-15 (M)
+	  - Code du travail - art. L443-1-2 (M)
+	  - Code des assurances - art. L370-1 (V)
+	  - Code des assurances - art. L370-2 (V)
 
 
 ###### Article L621-16
