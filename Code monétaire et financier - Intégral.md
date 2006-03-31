@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2006-04-01
 
 # Partie législative
 
@@ -556,19 +556,8 @@ de l'auteur.
 
 ###### Article L131-1
 
-Dans le présent chapitre, le mot "banquier" comprend aussi les personnes ou institutions assimilées aux établissements de
-crédit par le présent code.
-
-**Nota:**
-
-Nota : Loi 2005-516 2005-05-20 art. 16 V :
-
-1 - Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du
-2 juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par
-ces dispositions.
-
-2 - Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
-2005 fixe la date de transfert prévu au 31 décembre 2005.
+Dans le présent chapitre, le terme : "banquier" désigne les établissements de crédit et les institutions, services ou
+personnes habilités à tenir des comptes sur lesquels des chèques peuvent être tirés.
 
 **Liens relatifs à cet article**
 
@@ -578,7 +567,7 @@ ces dispositions.
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 	**Cité par**:
 
@@ -7576,6 +7565,45 @@ contre les mandataires sociaux, le ministère public ainsi que tout intéressé 
 	  - Code monétaire et financier - art. L762-4 (M)
 
 
+###### Article L213-6-1
+
+Tout acte qui interrompt la prescription des intérêts à l'égard de l'un des porteurs d'obligations émises en France par toute
+collectivité privée ou publique, société commerciale ou civile, française ou étrangère, profite aux autres obligataires du
+même emprunt.
+
+Ce même acte interrompt également au profit du Trésor la prescription des impôts et taxes qui peuvent lui être dus sur les
+intérêts visés au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+
+
+###### Article L213-6-2
+
+La décision judiciaire définitive rendue en faveur de l'un des porteurs d'obligations émises en France par toute collectivité
+privée ou publique, ou par toute société commerciale ou civile, française ou étrangère, et concernant les droits communs des
+obligataires, peut acquérir force exécutoire au profit de tout obligataire qui n'a pas figuré dans l'instance par une
+ordonnance du président du tribunal de grande instance dans la circonscription duquel l'affaire a été portée en première
+instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+
+
 ##### Sous-section 2 : Obligations émises par les groupements d'intérêt économique.
 
 ###### Article L213-7
@@ -8062,6 +8090,22 @@ Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'appli
 
 ##### Section 3 : Les titres émis par l'Etat
 
+###### Article L213-21-1
+
+Tout propriétaire de titres émis par l'Etat faisant partie d'une émission comprenant à la fois des titres au porteur et des
+titres nominatifs a la faculté de convertir ses titres dans l'autre forme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+
+
 ##### Sous-section 1 : Emprunts d'Etat
 
 ###### Article L213-22
@@ -8349,14 +8393,11 @@ I. - Les organismes de placements collectifs sont :
 
 4. Les sociétés d'épargne forestière.
 
-II. - Paragraphe transfèré à l'article L543-1.
+5. Les organismes de placement collectif immobilier.
 
-**Nota:**
-
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+II. - Tout organisme de placement collectif doit, préalablement à sa commercialisation sur le territoire de la République
+française, faire l'objet d'une autorisation délivrée par l'Autorité des marchés financiers. Un décret définit les conditions
+de délivrance de cette autorisation.
 
 **Liens relatifs à cet article**
 
@@ -8418,9 +8459,9 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 73 () JORF 7 mai 2005
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 
 ##### Section 1 : Les organismes de placement collectif en valeurs mobilières
@@ -13753,6 +13794,22 @@ afférents à plus de trois années antérieures à la constatation de l'infract
 	  - Code monétaire et financier - art. R221-81 (V)
 
 
+###### Article L221-26-1
+
+Les opérations relatives au livret jeune sont soumises au contrôle sur pièces et sur place de l'inspection générale des
+finances et les établissements et organismes collecteurs sont, à raison de cette activité, soumis au même contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+
+
 ##### Section 4 : Le compte pour le développement industriel.
 
 ###### Article L221-27
@@ -15862,16 +15919,15 @@ Le conseil de surveillance approuve les comptes et nomme les commissaires aux co
 remis au ministre chargé de l'économie un exemplaire des comptes approuvés. Le fonds de garantie est soumis au contrôle de
 l'Inspection générale des finances.
 
-Le conseil de surveillance est composé de douze membres, représentant chacun un ou plusieurs des adhérents au fonds de
-garantie et répartis comme suit :
+Le conseil de surveillance est composé de dix membres, représentant chacun un ou plusieurs des adhérents au fonds de garantie
+et répartis comme suit :
 
 1. Quatre membres représentant respectivement les quatre établissements de crédit, ou ensembles d'établissements de crédit
 affiliés à un même organe central, qui sont les plus importants contributeurs, membres de droit ;
 
-2. Deux représentants des établissements dotés d'un organe central défini à l'article L. 511-30 et qui ne sont pas membres de
-droit ;
+2. Six représentants des autres établissements de crédit ;
 
-3. Six membres représentant les autres catégories d'établissement de crédit et qui ne sont pas membres de droit.
+3. Abrogé.
 
 **Liens relatifs à cet article**
 
@@ -15882,10 +15938,6 @@ droit ;
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -15899,6 +15951,10 @@ droit ;
 	  - Arrêté du 16 mars 2016 - art. 4 (V)
 	  - Arrêté du 16 mars 2016 - art. 5 (V)
 	  - Code monétaire et financier - art. L312-11 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 	**Cite**:
 
@@ -15939,10 +15995,11 @@ l'organe central pour le compte des établissements qui lui sont affiliés.
 
 ###### Article L312-12
 
-Le directoire est composé de trois membres nommés par le conseil de surveillance, qui confère à l'un d'eux la qualité de
-président. Les membres du directoire ne peuvent exercer en même temps des fonctions au sein des établissements ou sociétés
+Le directoire est composé de deux membres au moins nommés par le conseil de surveillance, qui confère à l'un d'eux la qualité
+de président. Les membres du directoire ne peuvent exercer en même temps des fonctions au sein des établissements ou sociétés
 adhérents du fonds de garantie, ni recevoir de rétribution de l'un d'eux. Son président ne peut exercer ses fonctions
-qu'après agrément du ministre chargé de l'économie.
+qu'après agrément du ministre chargé de l'économie. Les conditions d'application des dispositions du présent article sont
+définies, en tant que de besoin, par arrêté du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -15953,6 +16010,10 @@ qu'après agrément du ministre chargé de l'économie.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 
 ###### Article L312-13
@@ -22164,107 +22225,6 @@ Les dispositions du livre VI du code de commerce, ou celles régissant toutes le
 
 #### Chapitre II : Formes particulières de cessions d'instruments financiers
 
-##### Section 1 : Vente à crédit.
-
-###### Article L432-1
-
-Toute cession, quelque forme qu'elle emprunte, consentie par acte sous signatures privées, de valeurs ou de parts de valeurs
-admises aux négociations sur un marché réglementé, moyennant un prix payable à terme en totalité ou en partie, sera déclarée
-nulle, sur la demande de l'acheteur, sans préjudice de tous dommages-intérêts, même s'il y a eu commencement d'exécution, si
-l'acte de vente ne respecte pas les formalités prévues par décret.
-
-Les paiements fractionnés ne peuvent être échelonnés sur une durée de plus de deux ans.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1900-03-12 art. 1 et art. 3
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L463-1 (Ab)
-
-
-###### Article L432-2
-
-Le vendeur est tenu de conserver le titre vendu. Il ne peut ni s'en dessaisir ni le mettre en gage. Il doit le représenter à
-toute réquisition de l'acheteur.
-
-Toute stipulation contraire est nulle.
-
-Il en est de même de toute clause ou de toute mention dérogeant directement ou indirectement aux règles générales de la
-compétence juridictionnelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1900-03-12 art. 4
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
-
-
-###### Article L432-3
-
-Les dispositions de la présente section ne sont pas applicables aux ordres de bourse.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1900-03-12 art. 7
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
-
-
-###### Article L432-4
-
-La vente à tempérament des valeurs à lots s'effectuant par paiements fractionnés, est interdite.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1926-12-14 art. 1
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L463-2 (Ab)
-
-
 ##### Section 2 : Adjudication.
 
 ###### Article L432-5
@@ -22796,9 +22756,59 @@ opérations se résoudraient par le paiement d'une simple différence.
 
 ###### Article L433-1
 
-Afin d'assurer l'égalité des actionnaires et la transparence des marchés, le règlement général de l'Autorité des marchés
-financiers fixe les règles relatives aux offres publiques portant sur des instruments financiers négociés sur un marché
-réglementé ainsi que celles mentionnées aux articles L. 433-3 et L. 433-4.
+I. - Afin d'assurer l'égalité des actionnaires et la transparence des marchés, le règlement général de l'Autorité des marchés
+financiers fixe les règles relatives aux offres publiques portant sur des instruments financiers émis par une société dont le
+siège social est établi en France et qui sont admis aux négociations sur un marché réglementé français.
+
+II. - Ces règles s'appliquent également aux offres publiques visant des instruments financiers émis par une société dont le
+siège statutaire est établi sur le territoire d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen autre que la France lorsque les titres de capital de cette société auxquels sont
+attachés des droits de vote :
+
+1° Ne sont pas admis aux négociations sur un marché réglementé de l'Etat sur le territoire duquel la société a son siège
+statutaire et
+
+2° Ont été admis aux négociations sur un marché réglementé d'un Etat membre de la Communauté européenne ou d'un autre Etat
+partie à l'Espace économique européen pour la première fois en France.
+
+Lorsque la première admission mentionnée au 2° est intervenue simultanément dans plusieurs Etats membres de la Communauté
+européenne ou d'autres Etats parties à l'accord sur l'Espace économique européen avant le 20 mai 2006, l'Autorité des marchés
+financiers fixe les règles mentionnées au I lorsqu'elle a été déclarée autorité compétente pour le contrôle de l'offre par
+les autorités de contrôle des autres Etats membres de la Communauté européenne concernés. A défaut, lorsque cette déclaration
+n'est pas intervenue dans les quatre semaines suivant le 20 mai 2006, l'Autorité des marchés financiers fixe les règles
+mentionnées au I lorsqu'elle a été déclarée autorité compétente pour le contrôle de l'offre par la société qui fait l'objet
+de l'offre.
+
+Lorsque la première admission mentionnée au 2° intervient simultanément dans plusieurs Etats membres de la Communauté
+européenne ou d'autres Etats parties à l'accord sur l'Espace économique européen après le 20 mai 2006, l'Autorité des marchés
+financiers fixe les règles lorsqu'elle a été déclarée compétente pour le contrôle de l'offre par la société qui fait l'objet
+de l'offre.
+
+Dans les conditions et selon les modalités fixées par le règlement général de l'Autorité des marchés financiers, la société
+qui fait l'objet de l'offre et qui déclare l'Autorité des marchés financiers autorité compétente pour le contrôle de l'offre
+en informe cette dernière, qui rend cette décision publique.
+
+III. - Le règlement général de l'Autorité des marchés financiers fixe les conditions dans lesquelles les règles mentionnées
+au I s'appliquent aux offres publiques visant des instruments financiers émis par des sociétés dont le siège statutaire est
+établi hors d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen et qui sont admis aux négociations sur un marché réglementé français.
+
+IV. - Le règlement général de l'Autorité des marchés financiers peut également fixer les conditions dans lesquelles les
+règles prévues au I s'appliquent aux offres publiques visant des instruments financiers qui sont admis aux négociations sur
+un marché d'instruments financiers autre qu'un marché réglementé, à la demande de la personne qui le gère.
+
+V. - Toute personne, dont il y a des motifs raisonnables de penser qu'elle prépare une offre publique, peut être tenue de
+déclarer ses intentions à l'Autorité des marchés financiers, dans des conditions et selon des formes fixées par le règlement
+général de celle-ci. Il en est ainsi, en particulier, quand des instruments financiers admis aux négociations sur un marché
+réglementé français font l'objet d'un mouvement significatif.
+
+Une information concernant cette déclaration est portée à la connaissance du public dans les conditions fixées par le
+règlement général de l'Autorité des marchés financiers.
+
+Le règlement général détermine les conséquences qui résultent de cette déclaration d'intention. Il précise notamment les
+conditions dans lesquelles le dépôt d'un projet d'offre publique par toute personne qui aurait, dans un délai fixé par le
+règlement général de l'Autorité des marchés financiers, démenti avoir l'intention de déposer une telle offre peut être
+refusé.
 
 **Liens relatifs à cet article**
 
@@ -22809,13 +22819,7 @@ réglementé ainsi que celles mentionnées aux articles L. 433-3 et L. 433-4.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -22832,10 +22836,9 @@ réglementé ainsi que celles mentionnées aux articles L. 433-3 et L. 433-4.
 	  - Code monétaire et financier - art. L734-1 (VT)
 	  - Code monétaire et financier - art. L754-10 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code monétaire et financier - art. L433-3 (M)
-	  - Code monétaire et financier - art. L433-4 (M)
+	  - Loi n°2006-387 du 31 mars 2006 - art. 1 () JORF 1 avril 2006
 
 
 ###### Article L433-1-1
@@ -22862,24 +22865,22 @@ offres publiques portant sur les titres de ladite société.
 
 ###### Article L433-2
 
-La suspension, en période d'offre publique, des délégations consenties par l'assemblée générale au conseil d'administration
-pour réaliser des augmentations de capital est régie par l'article L. 225-129-3 du code de commerce reproduit ci-après :
-
-"Art. L. 225-129-3 : Toute délégation de l'assemblée générale est suspendue en période d'offre publique d'achat ou d'échange
-sur les titres de la société, sauf si elle s'inscrit dans le cours normal de l'activité de la société et que sa mise en
-oeuvre n'est pas susceptible de faire échouer l'offre."
+En période d'offre publique, les mesures dont la mise en oeuvre est susceptible de faire échouer l'offre et les restrictions
+au transfert d'actions et au droit de vote sont régies par les articles L. 233-32 à L. 233-40 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-604 2004-06-24 art. 53 JORF 26 juin 2004
+	  - Loi n°2006-387 du 31 mars 2006 - art. 22 (V) JORF 1 avril 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-32 (V)
 
 
 ##### Section 2 : Obligation de déposer un projet d'offre publique
@@ -22888,15 +22889,29 @@ oeuvre n'est pas susceptible de faire échouer l'offre."
 
 I. - Le règlement général de l'Autorité des marchés financiers fixe les conditions dans lesquelles toute personne physique ou
 morale agissant seule ou de concert au sens des dispositions de l'article L. 233-10 du code de commerce et venant à détenir,
-directement ou indirectement, une fraction du capital ou des droits de vote d'une société dont les actions sont admises aux
-négociations sur un marché réglementé, est tenue d'en informer immédiatement l'Autorité et de déposer un projet d'offre
-publique en vue d'acquérir une quantité déterminée des titres de la société ; à défaut d'avoir procédé à ce dépôt, les titres
-qu'elle détient au-delà de la fraction du capital ou des droits de vote sont privés du droit de vote.
+directement ou indirectement, une fraction du capital ou des droits de vote d'une société dont le siège social est établi en
+France et dont les actions sont admises aux négociations sur un marché réglementé d'un Etat membre de la Communauté
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, est tenue d'en informer immédiatement
+l'Autorité et de déposer un projet d'offre publique en vue d'acquérir une quantité déterminée des titres de la société ; à
+défaut d'avoir procédé à ce dépôt, les titres qu'elle détient au-delà de la fraction du capital ou des droits de vote sont
+privés du droit de vote.
+
+Le prix proposé doit être au moins équivalent au prix le plus élevé payé par l'auteur de l'offre, agissant seul ou de concert
+au sens des dispositions de l'article L. 233-10 du code de commerce, sur une période de douze mois précédant le dépôt de
+l'offre. L'Autorité des marchés financiers peut demander ou autoriser la modification du prix proposé dans les circonstances
+et selon les critères fixés dans son règlement général.
+
+Le règlement général de l'Autorité des marchés financiers fixe également les conditions dans lesquelles l'autorité peut
+accorder une dérogation à l'obligation de déposer un projet d'offre publique portant sur des instruments financiers émis par
+une société dont le siège social est établi en France et dont les instruments financiers sont admis aux négociations sur un
+marché réglementé d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen.
 
 II. - Le règlement général de l'Autorité des marchés financiers fixe également les conditions dans lesquelles le projet
-d'acquisition d'un bloc de titres conférant la majorité du capital ou des droits de vote d'une société dont les actions sont
-admises aux négociations sur un marché réglementé oblige le ou les acquéreurs à acheter les titres qui leur sont alors
-présentés au cours ou au prix auquel la cession du bloc est réalisée.
+d'acquisition d'un bloc de titres conférant la majorité du capital ou des droits de vote d'une société dont le siège social
+est établi en France et dont les actions sont admises aux négociations sur un marché réglementé d'un Etat membre de la
+Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen oblige le ou les acquéreurs à
+acheter les titres qui leur sont alors présentés au cours ou au prix auquel la cession du bloc est réalisée.
 
 III. - L'Autorité des marchés financiers peut prévoir que les règles mentionnées au II sont également applicables, dans des
 conditions et selon des modalités fixées par son règlement général, aux instruments financiers négociés sur tout marché
@@ -22908,8 +22923,8 @@ lorsque l'offre porte sur une société qui détient plus du tiers du capital ou
 étrangère dont des titres de capital sont admis aux négociations sur un marché réglementé d'un Etat partie à l'accord sur
 l'Espace économique européen ou sur un marché équivalent régi par un droit étranger et qui constitue un actif essentiel de la
 société détentrice, être accompagné des documents permettant de prouver qu'un projet d'offre publique irrévocable et loyale
-est ou sera déposé sur l'ensemble du capital de la société contrôlée ou qui constitue un actif essentiel, au plus tard à la
-date d'ouverture de la première offre publique.
+est ou sera déposé sur l'ensemble du capital de ladite société française ou étrangère, au plus tard à la date d'ouverture de
+la première offre publique.
 
 **Liens relatifs à cet article**
 
@@ -22952,7 +22967,7 @@ date d'ouverture de la première offre publique.
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 34 () JORF 27 juillet 2005
+	  - Loi n°2006-387 du 31 mars 2006 - art. 2 () JORF 1 avril 2006
 
 	**Cite**:
 
@@ -22964,11 +22979,13 @@ date d'ouverture de la première offre publique.
 ###### Article L433-4
 
 I. - Le règlement général de l'Autorité des marchés financiers fixe les conditions applicables aux procédures d'offre et de
-demande de retrait, lorsque le ou les actionnaires majoritaires d'une société dont les actions sont admises aux négociations
-sur un marché réglementé ou dont les titres ont cessé d'être négociés sur un marché réglementé détiennent de concert, au sens
-des dispositions de l'article L. 233-10 du code de commerce, une fraction déterminée des droits de vote ou lorsqu'une société
-dont les actions sont admises aux négociations sur un marché réglementé prend la forme d'une société en commandite par
-actions.
+demande de retrait, lorsque le ou les actionnaires majoritaires d'une société dont le siège social est établi en France et
+dont les actions sont admises aux négociations sur un marché réglementé ou dont les titres ont cessé d'être négociés sur un
+marché réglementé d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen détiennent de concert, au sens des dispositions de l'article L. 233-10 du code de commerce, une fraction déterminée
+des droits de vote ou lorsqu'une société dont le siège social est établi en France et dont les actions sont admises aux
+négociations sur un marché réglementé d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen prend la forme d'une société en commandite par actions.
 
 II. - Le règlement général de l'Autorité des marchés financiers fixe également les conditions dans lesquelles, à l'issue
 d'une procédure d'offre ou de demande de retrait, les titres non présentés par les actionnaires minoritaires, dès lors qu'ils
@@ -22978,6 +22995,24 @@ cession d'actifs tient compte, selon une pondération appropriée à chaque cas,
 réalisés, de la valeur boursière, de l'existence de filiales et des perspectives d'activité. L'indemnisation est égale, par
 titre, au résultat de l'évaluation précitée ou, s'il est plus élevé, au prix proposé lors de l'offre ou la demande de
 retrait. Le montant de l'indemnisation revenant aux détenteurs non identifiés est consigné.
+
+III. - Sans préjudice des dispositions du II, le règlement général de l'Autorité des marchés financiers fixe également les
+conditions dans lesquelles, à l'issue de toute offre publique et dans un délai de trois mois à l'issue de la clôture de cette
+offre, les titres non présentés par les actionnaires minoritaires, dès lors qu'ils ne représentent pas plus de 5 % du capital
+ou des droits de vote, sont transférés aux actionnaires majoritaires à leur demande, et les détenteurs indemnisés. Dans les
+conditions et selon les modalités fixées par le règlement général de l'Autorité des marchés financiers, l'indemnisation est
+égale, par titre, au prix proposé lors de la dernière offre ou, le cas échéant, au résultat de l'évaluation mentionnée au II.
+Lorsque la première offre publique a eu lieu en tout ou partie sous forme d'échange de titres, l'indemnisation peut consister
+en un règlement en titres, à condition qu'un règlement en numéraire soit proposé à titre d'option, dans les conditions et
+selon les modalités fixées par le règlement général de l'Autorité des marchés financiers. Lorsque les titulaires de titres ne
+sont pas identifiés, dans les conditions mentionnées à l'article L. 228-6-3 du code de commerce, l'indemnisation est
+effectuée en numéraire et son montant consigné.
+
+IV. - Le règlement général de l'Autorité des marchés financiers fixe également les conditions dans lesquelles la procédure
+mentionnée aux II et III porte sur les titres donnant ou pouvant donner accès au capital, dès lors que les titres de capital
+susceptibles d'être créés par conversion, souscription, échange, remboursement, ou de toute autre manière, des titres donnant
+ou pouvant donner accès au capital non présentés, une fois additionnés avec les titres de capital existants non présentés, ne
+représentent pas plus de 5 % de la somme des titres de capital existants et susceptibles d'être créés.
 
 **Liens relatifs à cet article**
 
@@ -23007,11 +23042,8 @@ retrait. Le montant de l'indemnisation revenant aux détenteurs non identifiés 
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de commerce. - art. L233-10 (M)
+	  - Loi n°2006-387 du 31 mars 2006 - art. 2 () JORF 1 avril 2006
+	  - Loi n°2006-387 du 31 mars 2006 - art. 5 () JORF 1 avril 2006
 
 
 ### Titre IV : Les entreprises de marché et les chambres de compensation
@@ -23624,8 +23656,8 @@ total de droits de vote et le nombre d'actions composant le capital de la socié
 antérieurement, dans des conditions et selon des modalités fixées par le règlement général de l'Autorité des marchés
 financiers. Ces sociétés sont réputées remplir l'obligation prévue au I."
 
-"Art. L. 233-9. -  I. - Sont assimilés aux actions ou aux droits de vote possédés par la personne tenue à l'information
-prévue au I de l'article L. 233-7 :
+"Art. L. 233-9. - I. - Sont assimilés aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue
+au I de l'article L. 233-7 :
 
 1° Les actions ou les droits de vote possédés par d'autres personnes pour le compte de cette personne ;
 
@@ -23676,6 +23708,11 @@ directoire ou ses gérants ;
 III. - Les personnes agissant de concert sont tenues solidairement aux obligations qui leur sont faites par les lois et
 règlements."
 
+" Art. L. 233-10-1 - En cas d'offre publique d'acquisition, sont considérées comme agissant de concert les personnes qui ont
+conclu un accord avec l'auteur d'une offre publique visant à obtenir le contrôle de la société qui fait l'objet de l'offre.
+Sont également considérées comme agissant de concert les personnes qui ont conclu un accord avec la société qui fait l'objet
+de l'offre afin de faire échouer cette offre. "
+
 "Art. L. 233-11 - Toute clause d'une convention prévoyant des conditions préférentielles de cession ou d'acquisition
 d'actions admises aux négociations sur un marché réglementé et portant sur au moins 0,5 % du capital ou des droits de vote de
 la société qui a émis ces actions doit être transmise dans un délai de cinq jours de bourse à compter de la signature de la
@@ -23706,7 +23743,7 @@ conclu un accord avec l'auteur d'une offre publique visant à obtenir le contrô
 Sont également considérées comme agissant de concert les personnes qui ont conclu un accord avec la société qui fait l'objet
 de l'offre afin de faire échouer cette offre.
 
-"Art. L. 233-13 -  En fonction des informations reçues en application des articles L. 233-7 et L. 233-12, le rapport présenté
+"Art. L. 233-13 - En fonction des informations reçues en application des articles L. 233-7 et L. 233-12, le rapport présenté
 aux actionnaires sur les opérations de l'exercice mentionne l'identité des personnes physiques ou morales détenant
 directement ou indirectement plus du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, du tiers, de la
 moitié, des deux tiers ou des dix-neuf vingtièmes du capital social ou des droits de vote aux assemblées générales. Il fait
@@ -23714,8 +23751,8 @@ moitié, des deux tiers ou des dix-neuf vingtièmes du capital social ou des dro
 part du capital de la société qu'elles détiennent. Il en est fait mention, le cas échéant, dans le rapport des commissaires
 aux comptes."
 
-"Art. L. 233-14 -  A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux I et II de l'article L.
-233-7, les actions excédant la fraction qui aurait dû être déclarée, lorsqu'elles sont admises aux négociations sur un marché
+"Art. L. 233-14 - A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux I et II de l'article L. 233-7,
+les actions excédant la fraction qui aurait dû être déclarée, lorsqu'elles sont admises aux négociations sur un marché
 réglementé ou sur un marché d'instruments financiers admettant aux négociations des actions pouvant être inscrites en compte
 chez un intermédiaire habilité dans les conditions prévues à l'article L. 211-4 du code monétaire et financier, sont privées
 du droit de vote pour toute assemblée d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la
@@ -23744,13 +23781,12 @@ général de l'Autorité des marchés financiers."
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 33 (V) JORF 27 juillet 2005
+	  - Loi n°2006-387 du 31 mars 2006 - art. 4
 
 	**Cite**:
 
 	  - Code de commerce. - art. L228-1 (M)
 	  - Code de commerce. - art. L228-3-3 (M)
-	  - Code monétaire et financier L233-14, L233-7, L233-3, L233-12
 
 
 ##### Section 3 : Obligation d'information sur le rachat d'actions
@@ -23799,10 +23835,10 @@ certaines catégories d'entre eux.
 
 Ces associations sont :
 
-- les associations agréées, dans des conditions fixées par décret après avis du ministère public et de l'Autorité des marchés
-financiers, lorsqu'elles justifient de six mois d'existence et, pendant cette même période, d'au moins deux cents membres
-cotisant individuellement et lorsque leurs dirigeants remplissent des conditions d'honorabilité et de compétence fixées par
-décret ;
+- les associations agréées, dans des conditions fixées par décret, après avis du ministère public et de l'Autorité des
+marchés financiers, lorsqu'elles justifient de six mois d'existence et, pendant cette même période, d'au moins deux cents
+membres cotisant individuellement et lorsque leurs dirigeants remplissent des conditions d'honorabilité et de compétence
+fixées par décret ;
 
 - les associations qui répondent aux critères de détention de droits de vote définis par l'article L. 225-120 du code de
 commerce si elles ont communiqué leurs statuts à l'Autorité des marchés financiers.
@@ -23827,16 +23863,16 @@ l'exécution de son ordonnance, une astreinte versée au Trésor public.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 126 () JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 11 (V)
 	  - Code monétaire et financier - art. D452-1 (V)
 	  - Code monétaire et financier - art. D452-4 (V)
 	  - Code monétaire et financier - art. L452-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 	**Cite**:
 
@@ -24027,68 +24063,6 @@ L'article L. 245-2 du code de commerce a été abrogé par l'article 122 2° de 
 	  - Code monétaire et financier - art. L744-3 (AbD)
 	  - Code monétaire et financier - art. L754-3 (AbD)
 	  - Code monétaire et financier - art. L764-3 (AbD)
-
-
-#### Chapitre III : Infractions relatives aux négociations sur instruments financiers.
-
-###### Article L463-1
-
-Est puni des peines prévues à l'article 314-1 du code pénal le fait, pour le vendeur, de détourner, dissiper ou mettre en
-gage, au préjudice de l'acquéreur, des titres vendus dans les conditions prévues à l'article L. 432-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1900-03-12 art. 5
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
-
-	**Cité par**:
-
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 314-1 (M)
-	  - Code monétaire et financier - art. L432-1 (Ab)
-
-
-###### Article L463-2
-
-Est puni des peines prévues aux articles 313-1, 313-7 et 313-8 du code pénal, le fait, pour toute personne, de méconnaître
-l'interdiction édictée par l'article L. 432-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
-
-	**Cité par**:
-
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 313-1 (M)
-	  - Code pénal - art. 313-7 (MMN)
-	  - Code pénal - art. 313-8 (M)
-	  - Code monétaire et financier - art. L432-4 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1926-12-14 art. 3
 
 
 #### Chapitre IV : Infractions relatives aux entreprises de marché et aux chambres de compensation
@@ -26360,20 +26334,13 @@ partielle de leur fonds de commerce.
 
 ###### Article L511-32
 
-I. - Sans préjudice des pouvoirs de contrôle sur pièces et sur place conférés à la commission bancaire sur les établissements
-qui leur sont affiliés, les organes centraux concourent, chacun pour ce qui le concerne, à l'application des dispositions
+Sans préjudice des pouvoirs de contrôle sur pièces et sur place conférés à la commission bancaire sur les établissements qui
+leur sont affiliés, les organes centraux concourent, chacun pour ce qui le concerne, à l'application des dispositions
 législatives et réglementaires régissant les établissements de crédit.
 
 A ce titre, ils saisissent la commission bancaire des infractions à ces dispositions.
 
-II. - Le ministre chargé de l'économie nomme un commissaire du Gouvernement auprès de tout organe central mentionné à
-l'article L. 511-30 ou établissement de crédit lorsque l'Etat leur a confié des prérogatives de puissance publique ou une
-mission d'intérêt public.
-
-Un décret définit les modalités d'application du présent article. Il précise notamment les conditions dans lesquelles le
-commissaire du Gouvernement peut s'opposer aux décisions des organes délibérants de l'organe central ou de l'établissement de
-crédit relatives à la mise en oeuvre des prérogatives de puissance publique ou de la mission d'intérêt public qui lui ont été
-confiées.
+II. - Transféré sous l'article L. 615-1 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
@@ -26400,6 +26367,15 @@ confiées.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-387 2006-03-31 art. 26 VII, X JORF 1 avril 2006
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L615-1 (V)
 
 
 ##### Section 5 : Le secret professionnel
@@ -27061,14 +27037,10 @@ Les statuts de chaque banque populaire indiquent si la société étend à d'aut
 ses opérations.
 
 Ils stipulent que les ouvertures de crédit sont accordées dans les limites déterminées pour la banque par la Banque fédérale
-des banques populaires en exécution des prescriptions du deuxième alinéa de l'article 10 de la loi du 24 juillet 1929 (1).
+des banques populaires.
 
 Ils fixent les conditions nécessaires à la modification des statuts et à la dissolution de la société. Ils sont modifiés
 après agrément de la banque fédérale des banques populaires.
-
-**Nota:**
-
-NOTA : La loi du 24 juillet 1929 a été abrogée par l'article 27 VII de la loi n° 2001-420 du 15 janvier 2001.
 
 **Liens relatifs à cet article**
 
@@ -27078,15 +27050,11 @@ NOTA : La loi du 24 juillet 1929 a été abrogée par l'article 27 VII de la loi
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 27 (V) JORF 16 mai 2001
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 	**Anciens textes**:
 
 	  - Décret n°1936-12-21 du 21 décembre 1936 - art. 1 (Ab)
-
-	**Cite**:
-
-	  - Loi n°1929-07-24 art. 10
 
 
 ###### Article L512-6
@@ -28187,9 +28155,8 @@ caisses de crédit agricole mutuel.
 
 ###### Article L512-55
 
-Les caisses de crédit mutuel qui ne sont pas régies par la section 3 ou par les lois particulières comportant un contrôle de
-l'Etat sont soumises aux dispositions de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération et à celles
-de la présente section.
+Les caisses de crédit mutuel sont soumises aux dispositions de la loi n° 47-1775 du 10 septembre 1947 portant statut de la
+coopération et à celles de la présente section.
 
 Elles ont exclusivement pour objet le crédit mutuel.
 
@@ -28205,7 +28172,7 @@ entre elles la caisse centrale du crédit mutuel.
 
 	**Cite**:
 
-	  - Loi n°47-1775 1947-09-10
+	  - Loi n°47-1775 du 10 septembre 1947 (V)
 
 	**Anciens textes**:
 
@@ -28214,6 +28181,10 @@ entre elles la caisse centrale du crédit mutuel.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 	**Cité par**:
 
@@ -28316,6 +28287,43 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les mesures néc
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+
+##### Section 5 : Le crédit mutuel agricole et rural
+
+###### Article L512-60
+
+Les caisses de Crédit mutuel agricole et rural sont régies par les règles fixées à la section 3, à l'exception des
+dispositions visant spécifiquement les caisses de Crédit agricole mutuel soumises aux dispositions de l'article L. 512-35.
+Elles ont pour organe central la Confédération nationale du crédit mutuel. Elles doivent adhérer à la Fédération du Crédit
+mutuel agricole et rural, qui elle-même adhère à la Confédération nationale du crédit mutuel.
+
+**Nota:**
+
+Ordonnance 2005-429 2005-05-06 art. 59 : La section 5 a été rétablie avec un nouvel intitulé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°92-643 du 13 juillet 1992 - art. 62 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 93 (V)
+	  - Code général des impôts, CGI. - art. 223 A (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L512-35 (V)
 
 
 ##### Section 6 : Les sociétés coopératives de banque
@@ -28735,18 +28743,18 @@ côtiers.
 
 ###### Article L512-75
 
-Les caisses régionales de crédit maritime mutuel et les unions sont constituées pour une durée limitée.
+Les caisses régionales de crédit maritime mutuel et les unions sont constituées pour une durée limitée. 
 
 Leur capital social est variable. Il est représenté par des parts nominatives. Il ne peut être réduit à un montant inférieur
 à celui du capital de fondation, fixé par les statuts à un montant au moins égal au minimum auquel les caisses régionales de
-crédit maritime mutuel et, le cas échéant, les unions sont astreintes en leur qualité d'établissement de crédit.
+crédit maritime mutuel et, le cas échéant, les unions sont astreintes en leur qualité d'établissement de crédit. 
 
-La valeur nominale des parts ne peut être inférieure à un minimum fixé par le décret prévu par l'article L. 512-84.
+La valeur nominale des parts est fixée par les statuts prévus à l'article L. 512-73. 
 
 Le montant des parts souscrites par les sociétaires mentionnés aux 3 et 4 de l'article L. 512-74 ne peut dépasser la moitié
-du capital social. Les statuts peuvent fixer une proportion inférieure.
+du capital social. Les statuts peuvent fixer une proportion inférieure. 
 
-Une caisse régionale ou une union n'est définitivement constituée qu'après versement du quart du capital souscrit.
+Une caisse régionale ou une union n'est définitivement constituée qu'après versement du quart du capital souscrit. 
 
 Les sociétaires ne supportent les pertes qu'à concurrence du montant de leurs parts dans le capital social.
 
@@ -28754,19 +28762,20 @@ Les sociétaires ne supportent les pertes qu'à concurrence du montant de leurs 
 
 	**Anciens textes**:
 
-	  - Loi n°75-628 du 11 juillet 1975 - art. 10 (M)
 	  - Loi n°75-628 du 11 juillet 1975 - art. 10 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L512-74 (M)
-	  - Code monétaire et financier - art. L512-84 (V)
+	  - Code monétaire et financier - art. L512-73 (V)
+	  - Code monétaire et financier - art. L512-74 (V)
 
 
 ##### Sous-section 2 : Administration
@@ -32299,6 +32308,26 @@ Le contrôle sur la Caisse des dépôts et consignations par la Cour des comptes
 	**Cite**:
 
 	  - Code des juridictions financières - art. L131-3 (V)
+
+
+##### Paragraphe 5 : Présentation et certification des comptes
+
+###### Article L518-15-1
+
+Chaque année, la Caisse des dépôts et consignations présente aux commissions de l'Assemblée nationale et du Sénat chargées
+des finances ses comptes annuels et consolidés, certifiés par deux commissaires aux comptes. La commission de surveillance de
+la Caisse des dépôts et consignations désigne les commissaires aux comptes ainsi que leurs suppléants sur proposition du
+directeur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 
 ##### Sous-section 3 : Affectation du résultat de la Caisse des dépôts et consignations
@@ -39153,6 +39182,37 @@ caisses de crédit municipal ;
 	  - Code monétaire et financier - art. L611-1 (M)
 
 
+###### Article L611-7
+
+Les règlements du Comité de la réglementation bancaire et financière en vigueur antérieurement à la loi n° 2003-706 du 1er
+août 2003 de sécurité financière peuvent être modifiés ou abrogés par arrêté du ministre chargé de l'économie pris dans les
+conditions prévues à l'article L. 611-1.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°84-46 du 24 janvier 1984 - art. 29 (Ab)
+	  - Loi n°84-46 du 24 janvier 1984 - art. 30 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cite**:
+
+	  - Loi n°2003-706 du 1 août 2003 (V)
+	  - Code monétaire et financier - art. L611-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 (V)
+
+
 #### Chapitre II : Comité des établissements de crédit et des entreprises d'investissement
 
 ##### Section 1 : Missions.
@@ -41542,6 +41602,57 @@ Un décret précise les modalités d'application du présent article.
 	  - Décret n°2008-1029 du 9 octobre 2008 - art. 1
 
 
+#### Chapitre V : Autres institutions
+
+##### Section unique : Commissaires du Gouvernement et mission de contrôle des activités financières
+
+###### Article L615-1
+
+Le ministre chargé de l'économie nomme un commissaire du Gouvernement auprès de tout organe central mentionné à l'article L.
+511-30 ou établissement de crédit lorsque l'Etat leur a confié des prérogatives de puissance publique ou une mission
+d'intérêt public. 
+
+Un décret définit les modalités d'application du présent article. Il précise notamment les conditions dans lesquelles le
+commissaire du Gouvernement peut s'opposer aux décisions des organes délibérants de l'organe central ou de l'établissement de
+crédit relatives à la mise en oeuvre des prérogatives de puissance publique ou de la mission d'intérêt public qui lui ont été
+confiées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Décret n°2005-732 du 30 juin 2005 - art. 15 (Ab)
+	  - Décret n°2011-116 du 27 janvier 2011 - art. 2 (V)
+	  - Arrêté du 22 avril 2011 (V)
+	  - Code de la construction et de l'habitation. - art. R452-27 (V)
+	  - Code monétaire et financier - art. D615-1 (V)
+	  - Code monétaire et financier - art. D615-3 (V)
+	  - Code monétaire et financier - art. L511-32 (V)
+	  - Code monétaire et financier - art. L736-4-1 (Ab)
+	  - Code monétaire et financier - art. L746-4-1 (V)
+	  - Code monétaire et financier - art. L756-4-2 (V)
+	  - Code monétaire et financier - art. L766-4-1 (V)
+	  - Code monétaire et financier - art. R513-41 (T)
+	  - Code monétaire et financier - art. R515-24 (V)
+	  - Code monétaire et financier - art. R516-19 (T)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-30 (VT)
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier L511-32 II
+
+
 ### Titre II : L'Autorité des marchés financiers
 
 #### Chapitre unique : L'Autorité des marchés financiers
@@ -42437,10 +42548,9 @@ une note complémentaire au document mentionné au I. Cette note fait l'objet d'
 règlement général de l'Autorité des marchés financiers.
 
 IX. - Dans des conditions et selon des modalités fixées par son règlement général, l'Autorité des marchés financiers appose
-également un visa préalable quand une personne physique ou morale fait une offre publique d'acquisition de titres de capital
-ou de titres de créance d'un émetteur faisant appel public à l'épargne en France. La note sur laquelle la commission appose
-un visa préalable contient les orientations en matière d'emploi de la personne physique ou morale qui effectue l'offre
-publique.
+également un visa préalable quand une personne physique ou morale fait une offre publique d'acquisition d'instruments
+financiers dans les conditions prévues par l'article L. 433-1. La note sur laquelle la commission appose un visa préalable
+contient les orientations en matière d'emploi de la personne physique ou morale qui effectue l'offre publique.
 
 **Liens relatifs à cet article**
 
@@ -42481,12 +42591,13 @@ publique.
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
+	  - Loi n°2006-387 du 31 mars 2006 - art. 3 () JORF 1 avril 2006
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L212-7 (M)
 	  - Code monétaire et financier - art. L412-1 (M)
+	  - Code monétaire et financier - art. L433-1 (M)
 	  - Directive 2004-39 CE 2004-04-21
 
 
@@ -48058,6 +48169,25 @@ Futuna.
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
 
+###### Article L736-4-1
+
+L'article L. 615-1 est applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L615-1 (V)
+
+
 ###### Article L736-5
 
 Le titre II du livre VI est applicable à Mayotte, à l'exception du deuxième alinéa de l'article L. 621-21. Les articles L.
@@ -48321,19 +48451,15 @@ d'application de l'article L. 151-2.
 
 ###### Article L741-4
 
-En Nouvelle-Calédonie, les personnes physiques doivent déclarer, dans des conditions fixées par décret en Conseil d'Etat, les
-sommes, titres ou valeurs qu'elles transfèrent en provenance ou à destination de l'étranger sans l'intermédiaire d'un
-organisme soumis aux dispositions du titre Ier du livre V ou de l'article L. 518-1.
+En Nouvelle-Calédonie, les personnes physiques doivent déclarer les sommes, titres ou valeurs qu'elles transfèrent en
+provenance ou à destination de l'étranger sans l'intermédiaire d'un organisme soumis aux dispositions du titre Ier du livre V
+ou de l'article L. 518-1.
 
 Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 542 euros.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
@@ -48356,6 +48482,10 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	  - Code monétaire et financier - art. L741-6 (V)
 	  - Code monétaire et financier - art. R741-6 (VD)
 	  - Code monétaire et financier - art. R741-8 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 	**Cite**:
 
@@ -50242,6 +50372,27 @@ supprimés.
 	  - Code monétaire et financier - art. L641-2 (Ab)
 
 
+##### Sous-section 5 : Autres institutions
+
+###### Article L746-4-1
+
+L'article L. 615-1 est applicable en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L615-1 (V)
+
+
 ##### Section 2 : L'Autorité des marchés financiers
 
 ###### Article L746-5
@@ -50395,9 +50546,9 @@ d'application de l'article L. 151-2.
 
 ###### Article L751-4
 
-En Polynésie française, les personnes physiques doivent déclarer, dans des conditions fixées par décret en Conseil d'Etat,
-les sommes, titres ou valeurs qu'elles transfèrent en provenance ou à destination de l'étranger sans l'intermédiaire d'un
-organisme soumis aux dispositions du titre Ier du livre V ou de l'article L. 518-1.
+En Polynésie française, les personnes physiques doivent déclarer les sommes, titres ou valeurs qu'elles transfèrent en
+provenance ou à destination de l'étranger sans l'intermédiaire d'un organisme soumis aux dispositions du titre Ier du livre V
+ou de l'article L. 518-1.
 
 Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 542 euros.
 
@@ -50413,10 +50564,6 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1440 2002-12-05 (modalités d'application)
-
 	**Cité par**:
 
 	  - Arrêté du 1 juillet 2003 - art. 1 (V)
@@ -50426,6 +50573,10 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	  - Code monétaire et financier - art. L751-6 (V)
 	  - Code monétaire et financier - art. R751-6 (VD)
 	  - Code monétaire et financier - art. R751-8 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 	**Cite**:
 
@@ -52320,6 +52471,63 @@ supprimés.
 	  - Code monétaire et financier - art. L614-2 (V)
 
 
+##### Sous-section 5 : Comité consultatif du crédit auprès du conseil des ministres de la Polynésie française
+
+###### Article L756-4-1
+
+La composition du comité consultatif auprès du conseil des ministres de la Polynésie française est fixée par l'article 101 de
+la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, ci-après reproduit : 
+
+Art. 101.-Il est créé, auprès du conseil des ministres, un comité consultatif du crédit. 
+
+Ce comité est composé à parts égales de : 
+
+1° Représentants de l'Etat ; 
+
+2° Représentants du gouvernement de la Polynésie française ; 
+
+3° Représentants des établissements bancaires et financiers exerçant une activité en Polynésie française ; 
+
+4° Représentants des organisations professionnelles et syndicales intéressées. 
+
+Un décret détermine les règles d'organisation et de fonctionnement du comité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cite**:
+
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 101 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+
+
+##### Sous-section 6 : Autres institutions
+
+###### Article L756-4-2
+
+L'article L. 615-1 est applicable en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L615-1 (V)
+
+
 ##### Section 2 : L'Autorité des marchés financiers
 
 ###### Article L756-5
@@ -52455,9 +52663,9 @@ d'application de l'article L. 151-2.
 
 ###### Article L761-3
 
-Dans les îles Wallis-et-Futuna, les personnes physiques doivent déclarer, dans des conditions fixées par décret en Conseil
-d'Etat, les sommes, titres ou valeurs qu'elles transfèrent en provenance ou à destination de l'étranger sans l'intermédiaire
-d'un organisme soumis aux dispositions du titre Ier du livre V ou de l'article L. 518-1.
+Dans les îles Wallis-et-Futuna, les personnes physiques doivent déclarer les sommes, titres ou valeurs qu'elles transfèrent
+en provenance ou à destination de l'étranger sans l'intermédiaire d'un organisme soumis aux dispositions du titre Ier du
+livre V ou de l'article L. 518-1.
 
 Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 542 euros.
 
@@ -52473,10 +52681,6 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1440 2002-12-05 (modalités d'application)
-
 	**Cité par**:
 
 	  - Arrêté du 1 juillet 2003 - art. 1 (V)
@@ -52489,34 +52693,35 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L518-1 (M)
 
 
+##### Sous-section 3 : Constatation et poursuite des infractions
+
 ###### Article L761-4
 
-I. - La méconnaissance des obligations énoncées à l'article L. 761-3 est punie d'une amende égale au quart de la somme sur
-laquelle a porté l'infraction ou la tentative d'infraction.
+I.-La méconnaissance des obligations énoncées à l'article L. 761-3 est punie d'une amende égale au quart de la somme sur
+laquelle a porté l'infraction ou la tentative d'infraction. 
 
-II. - En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la
+II.-En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la
 somme sur laquelle a porté l'infraction ou la tentative d'infraction, pendant une durée de trois mois, renouvelable sur
-autorisation du procureur de la République territorialement compétent, dans la limite de six mois au total.
+autorisation du procureur de la République territorialement compétent, dans la limite de six mois au total. 
 
 La somme consignée est saisie et sa confiscation peut être prononcée par la juridiction compétente si, pendant la durée de la
 consignation, il est établi que l'auteur de l'infraction mentionnée au I est ou a été en possession d'objets laissant penser
 qu'il est ou a été l'auteur d'une ou plusieurs infractions prévues et réprimées par le code des douanes applicable aux îles
 Wallis et Futuna ou qu'il participe ou a participé à la commission de telles infractions ou s'il y a des raisons plausibles
 de penser que l'auteur de l'infraction mentionnée au I a commis une infraction ou plusieurs infractions prévues et réprimées
-par le code des douanes applicable aux îles Wallis et Futuna ou qu'il a participé à la commission de telles infractions.
+par le code des douanes applicable aux îles Wallis et Futuna ou qu'il a participé à la commission de telles infractions. 
 
 La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trésor, mainlevée des mesures de consignation et
-saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'application des sanctions fiscales.
+saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'application des sanctions fiscales. 
 
-III. - La recherche, la constatation et la poursuite des infractions mentionnées au I sont faites dans les conditions fixées
+III.-La recherche, la constatation et la poursuite des infractions mentionnées au I sont faites dans les conditions fixées
 par le code des douanes applicable aux îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
@@ -52531,11 +52736,11 @@ par le code des douanes applicable aux îles Wallis et Futuna.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 12 () JORF 20 janvier 2006
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L761-3 (M)
+	  - Code monétaire et financier - art. L761-3 (V)
 
 	**Cité par**:
 
@@ -52560,13 +52765,7 @@ Mayotte, Saint-Pierre-et-Miquelon, la Nouvelle-Calédonie et la Polynésie fran�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 95 () JORF 7 mai 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L761-3 (M)
-	  - Code monétaire et financier - art. L761-4 (M)
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 
 #### Chapitre II : Les produits
@@ -54181,6 +54380,27 @@ Communautés européennes ".
 	**Cite**:
 
 	  - Code monétaire et financier - art. L614-1 (V)
+
+
+##### Sous-section 5 : Autres institutions
+
+###### Article L766-4-1
+
+L'article L. 615-1 est applicable dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L615-1 (V)
 
 
 ##### Section 2 : L'Autorité des marchés financiers
@@ -69016,31 +69236,29 @@ intérêts.
 
 ###### Article D312-5
 
-Les services bancaires de base mentionnés aux troisième et quatrième alinéas de l'article L. 312-1 comprennent :
+Les services bancaires de base mentionnés aux troisième et quatrième alinéas de l'article L. 312-1 comprennent : 
 
-1° L'ouverture, la tenue et la clôture du compte ;
+1° L'ouverture, la tenue et la clôture du compte ; 
 
-2° Un changement d'adresse par an ;
+2° Un changement d'adresse par an ; 
 
-3° La délivrance à la demande de relevés d'identité bancaire ou postale ;
+3° La délivrance à la demande de relevés d'identité bancaire ; 
 
-4° La domiciliation de virements bancaires ou postaux ;
+4° La domiciliation de virements bancaires ; 
 
-5° L'envoi mensuel d'un relevé des opérations effectuées sur le compte ;
+5° L'envoi mensuel d'un relevé des opérations effectuées sur le compte ; 
 
-6° La réalisation des opérations de caisse ;
+6° La réalisation des opérations de caisse ; 
 
-7° L'encaissement de chèques et de virements bancaires ou postaux ;
+7° L'encaissement de chèques et de virements bancaires ; 
 
-8° Les dépôts et les retraits d'espèces au guichet de l'organisme teneur de compte ;
+8° Les dépôts et les retraits d'espèces au guichet de l'organisme teneur de compte ; 
 
-9° Les paiements par prélèvement, titre interbancaire de paiement ou virement bancaire ou postal ;
+9° Les paiements par prélèvement, titre interbancaire de paiement ou virement bancaire ; 
 
-10° Des moyens de consultation à distance du solde du compte ;
+10° Des moyens de consultation à distance du solde du compte ; 
 
-11° Une carte de paiement à autorisation systématique, si l'établissement de crédit est en mesure de la délivrer ou, à
-défaut, une carte de retrait autorisant des retraits hebdomadaires sur les distributeurs de billets de l'établissement de
-crédit ;
+11° Une carte de paiement dont chaque utilisation est autorisée par l'établissement de crédit qui l'a émise ; 
 
 12° Deux formules de chèques de banque par mois ou moyens de paiement équivalents offrant les mêmes services.
 
@@ -69070,9 +69288,13 @@ crédit ;
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-384 du 27 mars 2006 - art. 1 () JORF 31 mars 2006 en vigueur le 1er avril 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L312-1 (M)
+	  - Code monétaire et financier - art. L312-1 (V)
 
 
 ###### Article D312-6
@@ -81107,8 +81329,8 @@ public peut faire appel en tant que de besoin au secrétariat général du comit
 ###### Article D615-1
 
 Les commissaires du Gouvernement représentent l'Etat auprès des organismes dans lesquels ils sont nommés en application des
-dispositions du II de l'article L. 511-32. Ils assurent également cette représentation auprès des organismes dotés d'un
-commissaire du Gouvernement en vertu des textes législatifs ou réglementaires spécifiques.
+dispositions de l'article L. 615-1. Ils assurent également cette représentation auprès des organismes dotés d'un commissaire
+du Gouvernement en vertu des textes législatifs ou réglementaires spécifiques.
 
 **Liens relatifs à cet article**
 
@@ -81121,6 +81343,10 @@ commissaire du Gouvernement en vertu des textes législatifs ou réglementaires 
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1er avril 2006
+
 	**Cité par**:
 
 	  - Arrêté du 22 avril 2011 - art. 1 (V)
@@ -81130,7 +81356,7 @@ commissaire du Gouvernement en vertu des textes législatifs ou réglementaires 
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L511-32 (M)
+	  - Code monétaire et financier - art. L615-1 (V)
 
 
 ###### Article D615-2
@@ -81153,7 +81379,7 @@ désignés parmi les contrôleurs d'Etat sont nommés après avis du chef du ser
 
 ###### Article D615-3
 
-Les commissaires du Gouvernement nommés auprès d'un organisme en application des dispositions du II de l'article L. 511-32
+Les commissaires du Gouvernement nommés auprès d'un organisme en application des dispositions de l'article L. 615-1
 s'assurent que celui-ci, soit directement, soit par l'intermédiaire de ses filiales ou des établissements dont il détient le
 contrôle, exerce son activité d'intérêt public conformément aux textes qui le régissent. Ils rendent compte au ministre
 chargé de l'économie des missions d'intérêt public confiées à l'organisme auprès duquel ils sont nommés et lui adressent un
@@ -81170,13 +81396,17 @@ rapport annuel sur l'activité de l'établissement.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1er avril 2006
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. D615-5 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L511-32 (M)
+	  - Code monétaire et financier - art. L615-1 (V)
 
 
 ###### Article D615-4
