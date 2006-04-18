@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-04-01
+Version Consolidée au 2006-04-19
 
 # Partie législative
 
@@ -10931,13 +10931,14 @@ travail. Les cinquième et sixième alinéas de l'article L. 214-40 s'appliquent
 
 I. - Les fonds communs de placement dans l'innovation sont des fonds communs de placement à risques dont l'actif est
 constitué, pour 60 % au moins, de valeurs mobilières, parts de société à responsabilité limitée et avances en compte courant,
-telles que définies par le 1° et le a du 2° de l'article L. 214-36, émises par des sociétés ayant leur siège dans un Etat
-membre de la Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
-avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude
-ou l'évasion fiscale, qui sont soumises à l'impôt sur les sociétés dans les conditions de droit commun ou en seraient
-passibles dans les mêmes conditions si l'activité était exercée en France, qui comptent moins de deux mille salariés, dont le
-capital n'est pas détenu majoritairement, directement ou indirectement, par une ou plusieurs personnes morales ayant des
-liens de dépendance avec une autre personne morale au sens du III et qui remplissent l'une des conditions suivantes ;
+dont au moins 6 % dans des entreprises dont le capital est compris entre 100 000 euros et deux millions d'euros, telles que
+définies par le 1° et le a du 2° de l'article L. 214-36, émises par des sociétés ayant leur siège dans un Etat membre de la
+Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France
+une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion
+fiscale, qui sont soumises à l'impôt sur les sociétés dans les conditions de droit commun ou en seraient passibles dans les
+mêmes conditions si l'activité était exercée en France, qui comptent moins de deux mille salariés, dont le capital n'est pas
+détenu majoritairement, directement ou indirectement, par une ou plusieurs personnes morales ayant des liens de dépendance
+avec une autre personne morale au sens du III et qui remplissent l'une des conditions suivantes ;
 
 a) Avoir réalisé, au cours des trois exercices précédents, des dépenses cumulées de recherche visées aux a à f du II de
 l'article 244 quater B du code général des impôts, d'un montant au moins égal au tiers du chiffre d'affaires le plus élevé
@@ -11068,14 +11069,14 @@ même tierce société.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 32 (V) JORF 31 décembre 2005
-
 	**Cite**:
 
 	  - CGI 244 quater B, 34
 	  - Code monétaire et financier - art. L214-36 (M)
+
+	**Modifié par**:
+
+	  - loi n°2006-450 du 18 avril 2006 - art. 29 () JORF 19 avril 2006
 
 
 ##### Sous-section 13 : Fonds d'investissement de proximité
