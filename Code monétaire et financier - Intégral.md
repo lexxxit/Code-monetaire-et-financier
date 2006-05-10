@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-04-19
+Version Consolidée au 2006-05-11
 
 # Partie législative
 
@@ -74998,8 +74998,11 @@ IV du code de la construction et de l'habitation.
 
 ###### Article R516-3
 
-L'Agence française de développement, ci-après dénommée "l'agence", est un établissement public industriel et commercial doté
-de la personnalité civile et de l'autonomie financière, dont les statuts et les missions sont fixés par la présente section.
+L'Agence française de développement, ci-après dénommée "l'agence", est un établissement public de l'Etat à caractère
+industriel et commercial, dont les missions et l'organisation sont fixées par la présente section.
+
+Elle a pour mission de mettre en oeuvre, outre-mer et à l'étranger, des opérations financières favorisant le développement
+économique et social dans le respect de l'environnement, ainsi que d'autres prestations de service concourant à cet objectif.
 
 L'agence est soumise aux dispositions du présent code relatives à l'activité et au contrôle des établissements de crédit.
 
@@ -75012,6 +75015,10 @@ L'agence est soumise aux dispositions du présent code relatives à l'activité 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-530 du 9 mai 2006 - art. 1 () JORF 11 mai 2006
 
 	**Cité par**:
 
@@ -75044,17 +75051,20 @@ public ou de droit privé, à des organisations internationales ou à des person
 
 ###### Article R516-5
 
-L'agence finance des projets d'investissement contribuant au développement des Etats appartenant à la zone de solidarité
-prioritaire déterminée par le comité interministériel de la coopération internationale et du développement institué par le
-décret n° 98-66 du 4 février 1998 portant création du comité interministériel de la coopération internationale et du
-développement.
+Les concours financiers de l'agence à l'étranger sont attribués dans les Etats de la zone de solidarité prioritaire
+déterminée, en application de l'article 3 du décret n° 98-66 du 4 février 1998 portant création du comité interministériel de
+la coopération internationale et du développement, par ce comité.
 
-L'agence finance également des programmes de développement économique ou de redressement financier dans les Etats définis à
-l'alinéa précédent.
+Ils peuvent en outre être consentis :
 
-Elle finance enfin des projets d'investissement contribuant au développement d'Etats n'appartenant pas à la zone de
-solidarité prioritaire et dont la liste est établie par arrêté conjoint du ministre chargé de l'économie et du ministre des
-affaires étrangères.
+a) Sur autorisation donnée par décision conjointe du ministre des affaires étrangères, du ministre chargé de l'économie et du
+ministre chargé de l'outre-mer, dans les Etats adhérant à des accords de coopération régionale mentionnés aux articles L.
+3441-2 à L. 3441-6, L. 3551-15 à L. 3551-21, L. 4433-4-1 à L. 4433-4-6 du code général des collectivités territoriales, aux
+articles 28, 29 et 33 de la loi organique n° 99-209 relative à la Nouvelle-Calédonie et aux articles 17, 38 et 39 de la loi
+organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française ;
+
+b) Sur autorisation donnée par décision conjointe du ministre des affaires étrangères et du ministre chargé de l'économie,
+dans les autres Etats.
 
 **Liens relatifs à cet article**
 
@@ -75064,11 +75074,28 @@ affaires étrangères.
 
 	**Cite**:
 
-	  - Décret n°98-66 1998-02-04
+	  - Décret n°98-66 du 4 février 1998 - art. 3
+	  - Loi n°99-209 du 19 mars 1999 - art. 28
+	  - Loi n°99-209 du 19 mars 1999 - art. 29
+	  - Loi n°99-209 du 19 mars 1999 - art. 33
+	  - Loi organique n°2004-192 du 27 février 2004
+	  - Code général des collectivités territoriales
 
 	**Codifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2005-1007 du 2 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-530 du 9 mai 2006 - art. 2 () JORF 11 mai 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-26 (T)
 
 	**Cité par**:
 
@@ -75077,8 +75104,8 @@ affaires étrangères.
 
 ###### Article R516-6
 
-L'agence exerce également ses attributions en faveur des collectivités régies par les articles 73 et 74 de la Constitution et
-de la Nouvelle-Calédonie.
+L'agence exerce également ses attributions dans les collectivités régies par les articles 73 et 74 de la Constitution et en
+Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -75091,6 +75118,10 @@ de la Nouvelle-Calédonie.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-530 du 9 mai 2006 - art. 3 () JORF 11 mai 2006
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R516-14 (V)
@@ -75100,8 +75131,8 @@ de la Nouvelle-Calédonie.
 
 ###### Article R516-7
 
-L'agence gère pour le compte de l'Etat des opérations financées sur des crédits qui lui sont attribués par les ministres
-concernés dans des termes fixés par des conventions spécifiques.
+L'agence gère pour le compte de l'Etat et aux risques de celui-ci des opérations financées sur le budget de l'Etat. Les
+termes de ces opérations font l'objet de conventions spécifiques signées au nom de l'Etat par le ou les ministres compétents.
 
 **Liens relatifs à cet article**
 
@@ -75113,6 +75144,18 @@ concernés dans des termes fixés par des conventions spécifiques.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-530 du 9 mai 2006 - art. 4 () JORF 11 mai 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-29 (T)
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R516-14 (V)
@@ -75123,10 +75166,21 @@ concernés dans des termes fixés par des conventions spécifiques.
 ###### Article R516-8
 
 L'agence peut assurer la représentation d'autres établissements de crédit français ou étrangers ainsi que de la Communauté
-européenne ou d'institutions ou d'organismes internationaux dans le cadre de conventions conclues avec eux.
+européenne, d'Etats ou d'institutions ou d'organismes internationaux dans le cadre de conventions conclues avec eux.
 
-Elle peut également gérer des opérations financées par la Communauté européenne ou par des institutions ou organismes
-internationaux dans le cadre de conventions conclues avec eux.
+Elle peut également gérer des opérations financées par la Communauté européenne, par des Etats ou par des institutions ou
+organismes internationaux dans le cadre de conventions conclues avec eux.
+
+L'agence peut, par convention, confier aux entités mentionnées à l'alinéa précédent la gestion d'opérations qu'elle a
+décidées et financées.
+
+L'agence peut, au nom et pour le compte d'autres collectivités territoriales d'outre-mer ou de leurs groupements et en vertu
+de conventions de mandat, assurer la gestion et le paiement d'opérations décidées et financées par ces collectivités ou
+groupements.
+
+L'agence peut également, au nom et pour le compte d'autres collectivités territoriales ou de leurs groupements, assurer dans
+les mêmes conditions la gestion et le paiement d'opérations entrant dans des programmes de coopération décentralisée décidés
+et financés par ces collectivités ou groupements.
 
 **Liens relatifs à cet article**
 
@@ -75137,6 +75191,18 @@ internationaux dans le cadre de conventions conclues avec eux.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-530 du 9 mai 2006 - art. 5 () JORF 11 mai 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-30 (T)
 
 	**Cité par**:
 
@@ -75184,9 +75250,9 @@ L'agence peut ouvrir des agences ou des représentations.
 
 ###### Article R516-11
 
-Le montant de la dotation initiale de l'agence est de 400 millions d'euros.
+Le montant de la dotation de l'agence est, au 1er août 2001, de quatre cent millions d'euros.
 
-Cette dotation peut être augmentée par incorporation de réserves sur délibération du conseil de surveillance approuvée par
+Cette dotation peut être augmentée par incorporation de réserves sur délibération du conseil d'administration approuvée par
 arrêté du ministre chargé de l'économie.
 
 Elle peut également être augmentée par affectation de fonds publics conformément aux textes législatifs ou réglementaires en
@@ -75202,15 +75268,27 @@ vigueur.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-530 du 9 mai 2006 - art. 6 () JORF 11 mai 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-32 (T)
+
 
 ###### Article R516-12
 
-La direction et l'administration de l'agence sont confiées à un directeur général nommé pour trois ans par décret pris sur
-proposition du ministre chargé de l'économie après consultation du ministre des affaires étrangères, du ministre chargé de la
-coopération et du développement et du ministre chargé de l'outre-mer.
+La direction et l'administration de l'agence sont confiées à un directeur général nommé pour trois ans par décret.
 
 Le directeur général représente et engage l'agence. Il nomme le personnel et fixe les conditions de son emploi. Il est
 habilité à donner toute délégation nécessaire au fonctionnement de l'agence.
+
+Il exerce les compétences qui lui sont déléguées par le conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -75222,38 +75300,64 @@ habilité à donner toute délégation nécessaire au fonctionnement de l'agence
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-530 du 9 mai 2006 - art. 7 () JORF 11 mai 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-33 (T)
+
 
 ###### Article R516-13
 
-I. - Le conseil de surveillance comprend quinze membres :
+I. - Le conseil d'administration de l'agence comprend, outre son président, quinze membres, désignés dans les conditions
+suivantes :
 
-1° Dix membres, nommés pour trois ans par décret pris sur le rapport du ministre chargé de l'économie et du ministre chargé
-de la coopération et du développement dont :
+1° Cinq membres représentant l'Etat, dont :
 
-a) Le président ;
+a) Deux membres nommés par décret pris sur le rapport du ministre chargé de l'économie ;
 
-b) Six membres représentant l'Etat, dont deux membres représentant le ministre chargé de l'économie, trois membres
-représentant le ministre des affaires étrangères et un membre représentant le ministre chargé de l'outre-mer ;
+b) Deux membres nommés par décret pris sur le rapport du ministre chargé de la coopération et du développement ;
 
-c) Trois membres désignés en raison de leur connaissance des problèmes économiques et financiers ;
+c) Un membre nommé par décret pris sur le rapport du ministre chargé de l'outre-mer ;
 
-2° Deux députés désignés par l'Assemblée nationale ;
+2° Quatre membres désignés en raison de leur connaissance des questions économiques et financières, nommés par décret pris
+sur le rapport du ministre chargé de l'économie, du ministre chargé de la coopération et du développement et du ministre
+chargé de l'outre-mer ;
 
-3° Un sénateur désigné par le Sénat ;
+3° Un membre désigné en raison de sa connaissance de l'écologie et du développement durable, nommé par décret pris sur le
+rapport du ministre chargé de l'écologie et du développement durable ;
 
-4° Deux membres représentant le personnel et élus au scrutin secret pour trois ans dans les conditions fixées par un
-règlement pris par le directeur général.
+4° Deux députés ;
 
-II. - Pour chaque membre, autre que le président, il est procédé à la nomination d'un suppléant dans les mêmes conditions que
-le titulaire.
+5° Un sénateur ;
 
-En cas d'empêchement, le président est suppléé par le plus âgé des six membres représentant l'Etat.
+6° Deux membres représentant le personnel et élus dans les conditions fixées par un règlement pris par le directeur général.
 
-Lorsqu'un membre n'exerce pas son mandat jusqu'à son terme, son suppléant est désigné pour la durée de ce mandat restant à
-courir.
+Chaque membre du conseil d'administration est remplacé en cas d'absence ou d'empêchement par un suppléant désigné dans les
+mêmes conditions que le titulaire.
 
-Le mandat des parlementaires membres du conseil de surveillance prend fin de plein droit à l'expiration du mandat électif au
-titre duquel ils ont été désignés.
+II. - Le président du conseil d'administration est nommé par décret pris sur le rapport du ministre chargé de l'économie, du
+ministre chargé de la coopération et du développement et du ministre chargé de l'outre-mer.
+
+Il dispose d'une voix prépondérante en cas de partage égal des voix.
+
+En cas d'absence ou d'empêchement, le président est suppléé par le plus âgé des cinq membres représentant l'Etat.
+
+III. - Le mandat des membres du conseil d'administration est de trois ans.
+
+Toutefois, le mandat des parlementaires au sein du conseil d'administration prend fin de plein droit à l'expiration du mandat
+électif au titre duquel ils ont été désignés.
+
+En cas de vacance du siège d'un membre du conseil d'administration représentant le personnel, son suppléant exerce cette
+fonction pour la durée restant à courir du mandat initial.
+
+IV. - Le mandat des membres du conseil d'administration est gratuit.
 
 **Nota:**
 
@@ -75270,7 +75374,7 @@ d'administration leur mandat jusqu'à l'expiration de celui-ci.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
 
 	**Anciens textes**:
 
@@ -75280,6 +75384,10 @@ d'administration leur mandat jusqu'à l'expiration de celui-ci.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-530 du 9 mai 2006 - art. 8 () JORF 11 mai 2006
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R516-15 (M)
@@ -75287,40 +75395,36 @@ d'administration leur mandat jusqu'à l'expiration de celui-ci.
 
 ###### Article R516-14
 
-Sont soumis à l'approbation du conseil de surveillance :
+Sont soumis à la délibération du conseil d'administration de l'agence :
 
-1° Les conventions mentionnées à l'article R. 516-7 ainsi que les concours prévus par ces conventions si celles-ci le
-précisent ainsi que les concours ou participations mentionnés aux articles R. 516-5 et R. 516-6 ;
+1° Les orientations stratégiques de l'établissement ;
 
-2° Le montant annuel des emprunts à contracter par l'agence dans les limites fixées par le ministre chargé de l'économie ;
+2° L'approbation de la convention-cadre et des contrats d'objectifs conclus avec l'Etat ;
 
-3° L'état prévisionnel des produits et des charges d'exploitation ;
+3° Les conventions mentionnées à l'article R. 516-7 ;
 
-4° Le barème des taux d'intérêt appliqués par l'agence ;
+4° Les concours financiers mentionnés aux articles R. 516-5 et R. 516-6 ;
 
-5° Les comptes annuels et le rapport de gestion établis par le directeur général ;
+5° Les conventions conclues en application des deuxième, troisième, quatrième et cinquième alinéas de l'article R. 516-8 ;
 
-6° Les achats et les ventes d'immeubles ;
+6° Le montant annuel des emprunts à contracter par l'agence ;
 
-7° Les créations ou suppressions d'agence ou de représentation ;
+7° L'état prévisionnel des produits et des charges d'exploitation ;
 
-8° Les transactions sur les intérêts de l'agence et les clauses compromissoires ;
+8° Les conditions générales des concours ;
 
-9° Les conventions conclues en application du deuxième alinéa de l'article R. 516-8 dès lors qu'elles concernent des
-opérations d'un montant supérieur à un seuil fixé par le conseil de surveillance.
+9° Les comptes annuels et le rapport de gestion établis par le directeur général ;
 
-**Nota:**
+10° Les achats et les ventes d'immeubles ;
 
-NOTA : Décret 2006-530 2006-05-09 art 14 :
+11° Les créations ou suppressions d'agences ou de représentations ;
 
-Les dispositions des articles R. 516-13 à R. 516-15 dans leur rédaction antérieure au présent décret sont maintenues en
-vigueur et le mandat des membres du conseil de surveillance de l'agence est prorogé jusqu'à la désignation de l'ensemble des
-membres du conseil d'administration dans la composition fixée par l'article 8 (1).
+12° Les transactions sur les intérêts de l'agence et les clauses compromissoires ;
 
-Les représentants élus du personnel au sein du conseil de surveillance poursuivent en qualité de membres du conseil
-d'administration leur mandat jusqu'à l'expiration de celui-ci.
+13° La désignation des commissaires aux comptes.
 
-((1) Décret du 9 mai 2007, publié au JORF du 10 mai 2007).
+Le conseil d'administration est informé des évaluations, analyses et appréciations de qualité relatives à l'agence et à ses
+opérations.
 
 **Liens relatifs à cet article**
 
@@ -75331,6 +75435,10 @@ d'administration leur mandat jusqu'à l'expiration de celui-ci.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-530 du 9 mai 2006 - art. 9 () JORF 11 mai 2006
 
 	**Cité par**:
 
@@ -75346,54 +75454,55 @@ d'administration leur mandat jusqu'à l'expiration de celui-ci.
 
 ###### Article R516-15
 
-I. - Le conseil de surveillance se réunit au moins six fois par an sur convocation de son président, soit sur l'initiative de
-celui-ci, soit à la demande de trois de ses membres.
+I. - Le conseil d'administration se réunit en séance ordinaire au moins quatre fois par an, sur convocation de son président.
+Il examine toute question inscrite à son ordre du jour par le président ou par le conseil statuant à la majorité simple.
 
-II. - Il peut déléguer une partie de ses pouvoirs aux comités énumérés ci-après et constitués en son sein. Ces comités
-peuvent s'adjoindre des personnalités extérieures au conseil. Il lui est rendu compte des opérations approuvées par ces
-comités. Le président du conseil de surveillance est président de droit de ces comités.
+Il se réunit en outre sur demande émanant du tiers au moins de ses membres titulaires.
 
-Un comité délibère sur les concours consentis dans les collectivités régies par les articles 73 et 74 de la Constitution et
-de la Nouvelle-Calédonie. Il comprend, en plus des membres appartenant au conseil de surveillance et désignés par celui-ci,
-deux représentants du ministre chargé de l'outre-mer et un représentant du ministre chargé de l'économie nommés chacun par
-arrêté du ministre qu'il représente. Un suppléant est désigné dans les mêmes conditions pour chaque représentant.
+II. - Le conseil d'administration établit son règlement intérieur, qui prévoit notamment les modalités de la consultation à
+distance ou écrite de ses membres par le président sur une délibération d'urgence. Ces modalités comportent au moins un délai
+minimal de consultation, des règles de quorum, et le droit pour tout membre du conseil et pour le commissaire du Gouvernement
+de s'opposer à cette modalité de consultation.
 
-Un ou plusieurs comités délibère sur les concours de faible montant consentis aux collectivités et Etats autres que ceux qui
-sont mentionnés aux deux alinéas qui précèdent. Les ministres intéressés peuvent désigner, pour siéger dans ces comités, en
-plus des membres appartenant au conseil et désignés par celui-ci, des représentants de leur administration, choisis en raison
-de leur compétence particulière, en dehors de la catégorie des membres, désignés au titre des ministères, mentionnée au b du
-1° du I de l'article R. 516-13.
+III. - Le conseil d'administration peut déléguer une partie de ses pouvoirs mentionnés aux 3°, 4°, 5° et 12° de l'article R.
+516-14, dans la mesure qu'il détermine, aux deux comités spécialisés suivants :
 
-Les comités peuvent décider, sur proposition du commissaire du Gouvernement ou du directeur général ou de l'un des membres du
-comité, de soumettre pour décision toute affaire au conseil de surveillance. Dans ce cas, les dossiers doivent être
-accompagnés de l'avis du comité.
+1° Le comité spécialisé pour les opérations dans les collectivités d'outre-mer ;
 
-III. - Le conseil de surveillance peut également déléguer une partie de ses pouvoirs au directeur général, qui lui rend
-compte des décisions qu'il a prises.
+2° Le comité spécialisé pour les opérations à l'étranger.
 
-Le conseil de surveillance fixe le règlement de ses séances et les modalités d'adoption et d'enregistrement de ses
-délibérations.
+Chacun de ces comités spécialisés comprend :
 
-Le mandat des membres du conseil de surveillance est gratuit.
+1. Deux personnalités qualifiées désignées par le conseil d'administration, dont une siégeant à ce conseil ;
 
-Le délégué interministériel à la coopération régionale dans la zone Caraïbe et le secrétaire permanent pour le Pacifique Sud
-assistent, avec voix consultatives, aux délibérations qui les concernent.
+2. Un des représentants du personnel au conseil d'administration, choisi par ces représentants.
 
-Le président du conseil de surveillance et le directeur général peuvent inviter toute personne dont la présence leur paraît
-utile à être entendue par le conseil de surveillance.
+En outre, le comité spécialisé pour les opérations dans les collectivités d'outre-mer comprend trois représentants de l'Etat,
+dont deux nommés par arrêté du ministre chargé de l'outre-mer et un nommé par arrêté du ministre chargé de l'économie. Le
+comité spécialisé pour les opérations à l'étranger comprend quatre représentants de l'Etat, dont deux nommés par arrêté du
+ministre des affaires étrangères et deux nommés par arrêté du ministre chargé de l'économie.
 
-**Nota:**
+Ces comités spécialisés peuvent être complétés par un ou plusieurs membres du conseil d'administration sur décision de celui-
+ci. Ils sont présidés par le président du conseil d'administration.
 
-NOTA : Décret 2006-530 2006-05-09 art 14 :
+Pour les membres des comités spécialisés autres que le président et les membres du conseil d'administration, un suppléant est
+désigné dans les mêmes conditions que le titulaire.
 
-Les dispositions des articles R. 516-13 à R. 516-15 dans leur rédaction antérieure au présent décret sont maintenues en
-vigueur et le mandat des membres du conseil de surveillance de l'agence est prorogé jusqu'à la désignation de l'ensemble des
-membres du conseil d'administration dans la composition fixée par l'article 8 (1).
+La durée du mandat des membres des comités spécialisés et les conditions de leur remplacement éventuel sont les mêmes que
+celles fixées pour les membres du conseil d'administration.
 
-Les représentants élus du personnel au sein du conseil de surveillance poursuivent en qualité de membres du conseil
-d'administration leur mandat jusqu'à l'expiration de celui-ci.
+Les comités spécialisés peuvent décider de soumettre à la délibération du conseil d'administration toute affaire de leur
+compétence. En pareil cas, ils transmettent au conseil leur avis sur l'affaire renvoyée.
 
-((1) Décret du 9 mai 2007 publié au JORF du 10 mai 2007).
+IV. - Le conseil d'administration peut également déléguer une partie de ses pouvoirs au directeur général, qui lui rend
+compte à chaque séance des décisions qu'il a prises en vertu de cette délégation. La délégation au directeur général est
+exclusive de celles données aux comités spécialisés et ne peut porter sur les matières mentionnées aux 1°, 2°, 6°, 7°, 9° et
+13° de l'article R. 516-14.
+
+V. - Le conseil d'administration désigne un comité d'audit de trois à cinq membres qualifiés en matière d'analyse financière
+et d'évaluation des risques, dont un au moins pris en son sein. Ce comité d'audit donne un avis au conseil d'administration,
+chaque fois que nécessaire et au moins une fois l'an, sur les états financiers de l'agence, l'efficacité de son contrôle
+interne et la gestion de ses risques.
 
 **Liens relatifs à cet article**
 
@@ -75405,9 +75514,13 @@ d'administration leur mandat jusqu'à l'expiration de celui-ci.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-530 du 9 mai 2006 - art. 10 () JORF 11 mai 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. R516-13 (M)
+	  - Code monétaire et financier - art. R516-14 (M)
 
 
 ##### Sous-section 3 : Dispositions diverses.
@@ -75461,30 +75574,14 @@ règles applicables aux établissements de crédit.
 	  - Code monétaire et financier - art. R513-40 (T)
 
 
-###### Article R516-18
-
-L'agence ne distribue aucun bénéfice. L'affectation du solde créditeur du compte de résultat fait l'objet d'une décision du
-conseil de surveillance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1176 du 30 octobre 1992 - art. Annexe, art. 17 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-530 du 9 mai 2006 - art. 11 () JORF 11 mai 2006
-
-
 ###### Article R516-19
 
 Un commissaire du Gouvernement, désigné par le ministre chargé de l'économie, exerce auprès de l'agence la mission définie
-dans le respect des règles applicables aux établissements de crédit.
+par l'article L. 615-1 et les articles D. 615-1 à D. 615-8 du présent code.
+
+**Nota:**
+
+Loi n° 2006-387 du 31 mars 2006 art. 26 VII 2° : l'article II de l'article L511-32 devient l'article L615-1.
 
 **Liens relatifs à cet article**
 
@@ -75496,11 +75593,28 @@ dans le respect des règles applicables aux établissements de crédit.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-530 du 9 mai 2006 - art. 12 () JORF 11 mai 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L615-1
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-41 (T)
+
 
 ###### Article R516-20
 
-Le contrôle des comptes de l'agence est exercé par deux commissaires aux comptes désignés par arrêté du ministre chargé de
-l'économie sur proposition du conseil de surveillance et après avis de la Commission bancaire.
+Le contrôle des comptes de l'agence est exercé par deux commissaires aux comptes désignés en application des dispositions de
+l'article L. 511-38 et des articles D. 511-8 à R. 511-14 du présent code.
 
 Les commissaires aux comptes sont soumis aux obligations prévues à l'article L. 511-38.
 
@@ -75512,11 +75626,24 @@ Les commissaires aux comptes sont soumis aux obligations prévues à l'article L
 
 	**Codifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2005-1007 du 2 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-530 du 9 mai 2006 - art. 13 () JORF 11 mai 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L511-38 (M)
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L511-38
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-42 (T)
 
 
 ##### Section 2 : Les sociétés de développement régional.
