@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-06-16
+Version Consolidée au 2006-06-27
 
 # Partie législative
 
@@ -79346,17 +79346,34 @@ relatif à l'organisation et au statut professionnel des commissaires aux compte
 
 ###### Article R562-1
 
-Tout organisme financier ou personne mentionnés à l'article L. 562-1 communique au service prévu à l'article L. 562-4 et à
-l'autorité de contrôle l'identité de ses dirigeants et préposés normalement habilités à faire la déclaration mentionnée à
-l'article L. 562-2.
+Tout organisme financier mentionné à l'article L. 562-1 communique à la cellule TRACFIN et à l'autorité de contrôle
+l'identité de ses dirigeants ou préposés normalement habilités à faire la déclaration prévue à l'article L. 562-2.
 
-Tout dirigeant ou préposé d'un organisme financier, même s'il n'est pas normalement habilité par application des dispositions
-de l'alinéa qui précède, peut prendre l'initiative de déclarer lui-même au service, dans des cas exceptionnels et en raison
-notamment de l'urgence, une opération lui paraissant relever de l'article L. 562-2. Il en rend compte dans les meilleurs
-délais à l'une des personnes normalement habilitées.
+Pour les autres personnes relevant de l'article L. 562-1, la communication de l'identité et de la qualité de la personne
+normalement habilitée à faire cette déclaration est effectuée par document distinct, joint à l'appui de la première
+déclaration de soupçon transmise à la cellule TRACFIN.
+
+Tout changement concernant les dirigeants, préposés et personnes normalement habilités, mentionnés aux deux alinéas
+précédents, doit être porté, sans délai, à la connaissance de la cellule TRACFIN et, le cas échéant, de l'autorité de
+contrôle.
+
+Tout dirigeant ou préposé d'un organisme financier ou de toute autre personne morale relevant de l'article L. 562-1, même
+s'il n'est pas normalement habilité par application des deux premiers alinéas, peut prendre l'initiative de déclarer lui-même
+à la cellule TRACFIN, dans des cas exceptionnels et en raison notamment de l'urgence, une opération lui paraissant relever de
+l'article L. 562-2. Il en rend compte dans les meilleurs délais à l'une des personnes normalement habilitées qui confirme la
+déclaration.
+
+Les commissaires aux comptes, les notaires, les huissiers de justice, les administrateurs judiciaires et mandataires
+judiciaires, les avocats au Conseil d'Etat et à la Cour de cassation, les avocats, les avoués près les cours d'appel et les
+commissaires-priseurs judiciaires sont seuls habilités à faire la déclaration mentionnée à l'article L. 562-2, quelles que
+soient les modalités de leur exercice professionnel. Pour les avocats au Conseil d'Etat et à la Cour de cassation, les
+avocats ou les avoués près les cours d'appel, cette déclaration est faite selon les modalités prévues aux huitième et
+neuvième alinéas de l'article L. 562-2-1.
 
 Lorsque la déclaration porte sur une opération qui n'a pas encore été exécutée, elle est assortie de l'indication de son
-délai d'exécution.
+délai d'exécution chaque fois que cela est possible.
+
+Le ministre chargé de l'économie définit par arrêté la forme de la déclaration mentionnée à l'article L. 562-2.
 
 **Liens relatifs à cet article**
 
@@ -79367,6 +79384,10 @@ délai d'exécution.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-736 2006-06-26 art. 1 1° JORF 27 juin 2006
 
 	**Cité par**:
 
@@ -79385,17 +79406,37 @@ délai d'exécution.
 
 	  - Code monétaire et financier - art. L562-1 (M)
 	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L562-4 (M)
+	  - Code monétaire et financier - art. L562-2-1 (M)
 
 
 ###### Article R562-2
 
-Tout organisme financier ou personne mentionnés à l'article L. 562-1 communique au service mentionné à l'article L. 562-4 et
-à l'autorité de contrôle l'identité de ses dirigeants ou préposés chargés de répondre à toute demande, y compris celle qui
-est mentionnée à l'article R. 563-2, émanant du service ou de l'autorité de contrôle, de recevoir les accusés de réception
-des déclarations faites par l'organisme en application des dispositions de l'article L. 562-2, et d'assurer la diffusion aux
-membres concernés du personnel des informations, avis ou recommandations de caractère général en provenance du service ou de
-l'autorité de contrôle.
+Chaque organisme financier communique à la cellule TRACFIN et à l'autorité de contrôle l'identité de ses dirigeants ou
+préposés chargés de répondre à toute demande, y compris celle mentionnée à l'article R. 563-2, émanant de cette cellule ou de
+l'autorité de contrôle, de recevoir les accusés de réception des déclarations faites par l'organisme en application des
+dispositions de l'article L. 562-2 et d'assurer la diffusion aux membres concernés du personnel des informations, avis ou
+recommandations de caractère général en provenance de la cellule TRACFIN ou de l'autorité de contrôle.
+
+Les autres personnes relevant de l'article L. 562-1 communiquent à la cellule TRACFIN l'identité et la qualité de la personne
+chargée de répondre à toute demande, y compris celle mentionnée à l'article R. 563-2, de recevoir les accusés de réception
+des déclarations faites au titre de l'article L. 562-2 et d'assurer la diffusion aux membres concernés du personnel des
+informations, avis ou recommandations de caractère général émanant de cette cellule ou de l'instance de régulation si cette
+dernière existe pour la profession. Ces éléments d'information sont transmis dans le document mentionné à l'article R. 562-1,
+accompagnant la première déclaration mentionnée à l'article L. 562-2.
+
+Sous réserve des dispositions du deuxième alinéa de l'article R. 562-2-2, les commissaires aux comptes, les notaires, les
+huissiers de justice, les administrateurs judiciaires et mandataires judiciaires, les avocats au Conseil d'Etat et à la Cour
+de cassation, les avocats et les avoués près les cours d'appel et les commissaires-priseurs judiciaires sont chargés, à titre
+individuel, de répondre aux demandes de la cellule TRACFIN et de recevoir les accusés de réception, quelles que soient les
+modalités de leur exercice professionnel. 
+  **(1)**
+
+**Nota:**
+
+(1) Le Conseil d'Etat, dans sa décision n° 296845 en date du 10 avril 2008, a annulé l'article 1er du décret du 26 juin 2006
+relatif à la lutte contre le blanchiment de capitaux, en tant qu'il introduit, au troisième alinéa de l'article R. 562-2 du
+code monétaire et financier, des dispositions qui prévoient une relation directe entre les personnes mentionnées au 12 de
+l'article L. 562-1 et la cellule TRACFIN dans les cas où ces personnes répondent aux demandes de cette dernière.
 
 **Liens relatifs à cet article**
 
@@ -79406,6 +79447,10 @@ l'autorité de contrôle.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-736 2006-06-26 art. 1 1° JORF 27 juin 2006
 
 	**Cité par**:
 
@@ -79425,8 +79470,96 @@ l'autorité de contrôle.
 
 	  - Code monétaire et financier - art. L562-1 (M)
 	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L562-4 (M)
+	  - Code monétaire et financier - art. R562-1 (M)
+	  - Code monétaire et financier - art. R562-2-2 (M)
 	  - Code monétaire et financier - art. R563-2 (M)
+
+
+###### Article R562-2-1
+
+Les organismes financiers établis en France appartenant à un groupe mentionné notamment à l'article L. 511-34 peuvent
+désigner, pour l'application des articles R. 562-1 et R. 562-2, des personnes spécialement habilitées à cet effet d'un autre
+organisme financier établi en France et appartenant au même groupe, après accord de cet organisme et de la société mère. Dans
+ce cas, le groupe communique l'identité de ces personnes à la cellule TRACFIN et à chaque autorité de contrôle concernée.
+
+Les personnes désignées en application des articles R. 562-1 et R. 562-2 au sein des organismes financiers mentionnés à
+l'alinéa précédent assurent l'organisation de la lutte contre le blanchiment et le financement du terrorisme dans les
+organismes financiers filiales établis en France et, si le droit qui leur est applicable le permet, dans les entités
+étrangères. L'organisation de la lutte contre le blanchiment et le financement du terrorisme mentionnée à l'article L. 511-34
+comprend l'échange des informations nécessaires à la vigilance dans le groupe, y compris des informations relatives à la
+clientèle dans les conditions prévues par ce texte. Elle comprend également la définition des procédures coordonnées
+permettant d'assurer dans les entités étrangères du groupe un niveau de vigilance au moins égal à celui imposé en France,
+sauf si le droit de l'Etat où ces entités sont implantées y fait obstacle. Dans ce cas, l'organisme financier en informe la
+cellule TRACFIN et l'autorité de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-736 2006-06-26 art. 1 2° JORF 27 juin 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-34 (M)
+	  - Code monétaire et financier - art. R562-1 (M)
+	  - Code monétaire et financier - art. R562-2 (M)
+
+
+###### Article R562-2-2
+
+Dans les cas prévus au neuvième alinéa de l'article L. 562-2-1, la déclaration mentionnée à l'article L. 562-2 est transmise
+à la cellule TRACFIN dans un délai maximum de huit jours francs à compter de sa réception par l'autorité destinataire.
+
+La cellule TRACFIN accuse réception de la déclaration auprès de l'avocat ou de l'avoué ou de l'avocat au Conseil d'Etat et à
+la Cour de cassation à l'origine de la déclaration ainsi qu'auprès de l'autorité qui le lui a transmise. Si le déclarant a
+indiqué, conformément à l'article L. 562-6, ne pas souhaiter recevoir d'accusé de réception, la cellule TRACFIN n'accuse pas
+non plus réception auprès de l'autorité ayant transmis la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-736 2006-06-26 art. 2 2° JORF 27 juin 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L562-2 (M)
+	  - Code monétaire et financier - art. L562-2-1 (M)
+	  - Code monétaire et financier - art. L562-6 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R562-2 (V)
+
+
+###### Article R562-2-3
+
+Les rapports établis par le président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, le président du
+Conseil national des barreaux et le président de la Chambre nationale des avoués sont transmis chaque semestre au garde des
+sceaux, ministre de la justice, en application du dixième alinéa de l'article L. 562-2-1. Ce dernier en rend destinataire la
+cellule TRACFIN dans le mois suivant sa réception en application du onzième alinéa de l'article L. 562-2-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-736 2006-06-26 art. 1 2° JORF 27 juin 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L562-2-1 (M)
 
 
 ##### Section 2 : Cellule TRACFIN.
@@ -79698,7 +79831,7 @@ de la protection des secrets relevant de la défense nationale.
 Le chef de la cellule TRACFIN est nommé par décision des ministres chargé de l'économie et chargé du budget.
 
 Peuvent seuls être affectés à cette cellule les agents publics de l'Etat ayant reçu une habilitation préalable délivrée par
-les ministres chargé de l'économie et chargé du budget.
+le ministre chargé de l'économie ou le ministre chargé du budget.
 
 Le ministre de l'intérieur désigne, parmi les agents affectés au service chargé de la répression de la grande délinquance
 financière, les officiers de police judiciaire mentionnés à l'article L. 563-5.
@@ -79716,6 +79849,14 @@ de l'article L. 563-5. Ces listes et leur mise à jour sont également communiqu
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-736 2006-06-26 art. 1 3° JORF 27 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1541 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
 
 	**Cite**:
 
@@ -79867,25 +80008,117 @@ extraordinaire sur une question importante et urgente.
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-#### Chapitre III : Autres obligations de vigilance des organismes financiers.
+#### Chapitre III : Autres obligations de vigilance.
 
 ###### Article R563-1
 
-Avant d'ouvrir un compte, l'organisme financier mentionné à l'article L. 562-1 s'assure de l'identité de son cocontractant,
-par la présentation, lorsqu'il s'agit d'une personne physique, d'un document officiel portant la photographie de celle-ci.
-L'organisme financier conserve les références ou la copie de ce document.
+I. - Est considérée comme client occasionnel pour l'application de l'article L. 563-1 la personne qui s'adresse à un
+organisme financier ou à une personne mentionnés à l'article L. 562-1 dans le but exclusif de réaliser une opération
+ponctuelle. Ces organismes financiers et ces personnes vérifient l'identité de leur client occasionnel avant de réaliser une
+opération ponctuelle lorsque son montant excède 8 000 euros, qu'elle soit effectuée en une seule ou en plusieurs opérations
+entre lesquelles un lien semble exister.
 
-Pour les personnes morales, l'organisme financier demande la présentation de l'original ou l'expédition ou la copie certifiée
-conforme de tout acte ou extrait de registre officiel constatant la dénomination, la forme juridique et le siège social,
-ainsi que les pouvoirs des personnes agissant au nom de la personne morale. Il en conserve les références ou la copie.
+Cependant, lorsqu'ils réalisent une opération de transfert de fonds pour un client occasionnel, lorsqu'ils ouvrent un compte
+ou un livret ou offrent des services de garde des avoirs ou lorsqu'ils concluent tout contrat d'assurance ou de
+capitalisation donnant lieu à la constitution d'une provision mathématique, les organismes financiers procèdent à la
+vérification d'identité quel que soit le montant.
 
-L'organisme financier s'assure dans les mêmes conditions de l'identité de tout client occasionnel qui leur demande de faire
-toute opération portant sur une somme supérieure à 8 000 euros, ou de louer un coffre.
+Les personnes mentionnées au 9 et au 13 de l'article L. 562-1 ne procèdent à l'identification qu'en cas de règlement en
+espèces d'un montant supérieur à 3 000 euros.
 
-Lorsqu'il apparaît à l'organisme financier que la personne qui demande l'ouverture d'un compte ou la réalisation d'une
-opération pourrait ne pas agir pour son propre compte, en dehors des cas où la personne est elle-même un organisme financier,
-il se renseigne sur l'identité véritable de la ou des personnes au bénéfice desquelles le compte serait ouvert ou l'opération
-réalisée. Il demande à cet effet la présentation de tout document ou justificatif qu'il estime nécessaire.
+Pour les sommes ou opérations mentionnées à l'article L. 562-2, la vérification d'identité a lieu même si le montant de
+l'opération ponctuelle est inférieur au seuil.
+
+II. - Pour l'application de l'article L. 563-1, les organismes financiers et les personnes mentionnés à l'article L. 562-1
+vérifient l'identité d'une personne physique par la présentation d'un document officiel en cours de validité portant sa
+photographie. Ils conservent la copie de ce document ou ses références. Les mentions relatives à l'identité à vérifier
+comprennent les nom, prénoms ainsi que les date et lieu de naissance. Outre ces mentions, les références à conserver incluent
+la nature, le numéro, les date et lieu de délivrance du document ainsi que le nom de l'autorité ou personne qui l'a délivré
+ou authentifié.
+
+Pour les personnes morales, les organismes financiers et les personnes mentionnés à l'article L. 562-1 demandent la
+présentation de l'original ou l'expédition ou la copie certifiée conforme de tout acte ou extrait de registre officiel
+constatant la dénomination, la forme juridique et le siège social. Ils en conservent les références ou la copie.
+
+Les organismes financiers et les personnes mentionnés à l'article L. 562-1 s'assurent, selon les modalités prévues aux deux
+alinéas précédents, de l'identité et des pouvoirs des personnes agissant au nom de leur cocontractant avec lesquelles ils
+sont en relation. Ils conservent les références ou la copie des documents obtenus.
+
+III. - La vérification de l'identité des personnes physiques peut ne pas avoir lieu en présence de la personne à identifier.
+Dans ce cas, outre l'obtention d'une copie du document exigé au II, les organismes financiers et les personnes mentionnés à
+l'article L. 562-1 prennent les dispositions spécifiques et adéquates nécessaires, en adoptant des mesures parmi l'une au
+moins des quatre catégories de mesures suivantes :
+
+1° Obtenir des pièces justificatives supplémentaires permettant d'établir l'identité du cocontractant ;
+
+2° Mettre en oeuvre des mesures de vérification et de certification de la copie de la pièce officielle d'identité mentionnée
+au II par un tiers indépendant de la personne à identifier ;
+
+3° Exiger que le premier paiement des opérations soit effectué par un compte ouvert au nom du client auprès d'un organisme
+financier établi dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen ;
+
+4° Obtenir une attestation de confirmation de l'identité d'un client de la part d'un organisme financier établi dans un Etat
+membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen. L'attestation
+mentionne les éléments d'identification cités au II, est adressée directement par cet organisme à la personne demandant
+l'identification et précise le nom et les coordonnées du représentant de l'organisme l'ayant délivrée. Cette attestation peut
+également être obtenue d'un organisme financier établi sur le territoire d'un Etat figurant sur la liste établie conformément
+aux dispositions du quatrième alinéa du IV, qui est en relation d'affaires suivie avec l'organisme financier ou la personne
+mentionnés à l'article L. 562-1 établis en France et qui déclare avoir procédé à des mesures d'identification équivalentes à
+celles applicables en France.
+
+Les organismes financiers et les personnes mentionnés à l'article L. 562-1 conservent les documents et les résultats obtenus
+à la suite des vérifications.
+
+Pour l'ouverture d'un compte, la mesure prévue au 3° ne constitue pas une disposition suffisante et doit être accompagnée
+d'une autre mesure parmi celles énumérées ci-dessus. Les règlements professionnels ou administratifs prévus à l'article L.
+565-3 précisent en tant que de besoin quelles mesures ou combinaison de mesures parmi celles prévues ci-dessus sont
+spécifiquement nécessaires pour certaines catégories d'opérations.
+
+IV. - Lorsqu'il apparaît aux organismes financiers et aux personnes mentionnés à l'article L. 562-1 que leur cocontractant
+pourrait ne pas agir pour son propre compte, ils se renseignent sur l'identité du bénéficiaire effectif des transactions
+réalisées ou envisagées. Au sens de ce chapitre, est considérée comme bénéficiaire effectif la personne pour le compte de
+laquelle l'opération est en réalité effectuée ou demandée.
+
+Ils demandent à cet effet la présentation de tout document ou justificatif qu'ils estiment nécessaires et en conservent les
+références ou la copie.
+
+Pour les fiducies et les autres structures similaires de gestion d'un patrimoine d'affectation, les bénéficiaires effectifs
+sont les constituants, les fiduciaires et les bénéficiaires de la structure ainsi que toute personne exerçant un pouvoir de
+décision sur le fonctionnement de cette structure.
+
+Les organismes financiers et les personnes mentionnés à l'article L. 562-1 n'ont pas à identifier le bénéficiaire effectif
+lorsque le cocontractant est un organisme financier établi dans un Etat membre de la Communauté européenne, dans un autre
+Etat partie à l'accord sur l'Espace économique européen ou dans un Etat qui impose des obligations équivalentes à celles qui
+s'appliquent aux organismes financiers français en matière de lutte contre le blanchiment et contre le financement du
+terrorisme. Le ministre chargé de l'économie détermine par arrêté la liste de ces derniers Etats. Les Etats membres de
+l'instance internationale de concertation et de coordination en matière de lutte contre le blanchiment d'argent figurent sur
+cette liste à moins que le ministre constate que l'équivalence n'est pas satisfaite.
+
+Lorsque le cocontractant est un organisme financier établi dans un Etat non mentionné à l'alinéa précédent, l'obligation
+d'identification du bénéficiaire effectif est réputée satisfaite si l'organisme financier étranger est la filiale d'un
+organisme financier ayant son siège social dans l'un des Etats mentionnés à l'alinéa précédent et que la société mère atteste
+à l'organisme financier français ou à la personne française mentionné à l'article L. 562-1, d'une part, qu'elle vérifie
+l'application par sa filiale de l'identification du bénéficiaire effectif et, d'autre part, qu'elle a la possibilité
+d'accéder aux éléments d'identification.
+
+Lorsque le cocontractant est un organisme financier qui ne répond pas aux conditions fixées aux deux alinéas précédents,
+l'obligation d'identification du bénéficiaire effectif est réputée satisfaite si l'organisme financier français ou la
+personne française mentionnés à l'article L. 562-1 s'assure que l'organisme financier étranger applique des procédures
+d'identification équivalentes à celles des Etats membres et si l'organisme financier français ou la personne française
+mentionnés à l'article L. 562-1 a accès à l'identité des bénéficiaires effectifs. Toutefois, l'organisme financier français
+ou la personne française mentionnés à l'article L. 562-1 ne peut pas bénéficier de cette présomption si l'organisme financier
+étranger est établi dans un pays tiers :
+
+1° Soit qui a fait l'objet d'une décision de la Commission européenne constatant qu'il n'impose pas d'obligations
+équivalentes à celles des Etats membres ;
+
+2° Soit dont l'instance internationale mentionnée au quatrième alinéa a considéré la législation comme insuffisante ou les
+pratiques comme faisant obstacle à la lutte contre le blanchiment des capitaux.
+
+Les exceptions et présomptions prévues aux cinq alinéas précédents ne s'appliquent pas lorsque le cocontractant est un
+changeur manuel, un intermédiaire en biens divers, un démarcheur, un conseiller en investissements financiers ou relève d'une
+profession étrangère équivalente.
 
 **Liens relatifs à cet article**
 
@@ -79910,19 +80143,24 @@ réalisée. Il demande à cet effet la présentation de tout document ou justifi
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-736 du 26 juin 2006 - art. 2 () JORF 27 juin 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L562-1 (M)
+	  - Code monétaire et financier - art. L562-2 (M)
+	  - Code monétaire et financier - art. L563-1 (M)
 
 
 ###### Article R563-2
 
-Lorsque les opérations effectuées par un client ne sont pas habituellement supérieures à 150 000 euros, la somme prévue à
-l'article L. 563-3 est fixée à ce montant.
+La somme prévue à l'article L. 563-3 est de 150 000 euros.
 
-L'organisme financier prend les mesures d'organisation nécessaires pour être à même de communiquer dans les meilleurs délais
-à la cellule TRACFIN ou à l'autorité de contrôle, sur leur demande, les documents écrits mentionnés au deuxième alinéa de
-l'article L. 563-3.
+L'organisme financier ou la personne mentionnés à l'article L. 562-1 prend les mesures d'organisation nécessaires pour être à
+même de communiquer dans les meilleurs délais à la cellule TRACFIN ou à l'autorité de contrôle si cette dernière existe pour
+la profession, sur leur demande, les documents écrits mentionnés au deuxième alinéa de l'article L. 563-3.
 
 **Liens relatifs à cet article**
 
@@ -79935,8 +80173,13 @@ l'article L. 563-3.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-736 du 26 juin 2006 - art. 2 () JORF 27 juin 2006
+
 	**Cite**:
 
+	  - Code monétaire et financier - art. L562-1 (M)
 	  - Code monétaire et financier - art. L563-3 (M)
 
 	**Cité par**:
@@ -79950,11 +80193,19 @@ l'article L. 563-3.
 
 ###### Article R563-3
 
-Les organismes financiers adoptent des règles écrites internes définissant les procédures destinées à mettre en oeuvre les
-dispositions afférentes aux obligations relatives à la lutte contre le blanchiment des capitaux prévues aux articles L. 561-1
-à L. 564-3, R. 562-1, R. 562-2, R. 563-1, R. 563-2 et R. 564-1.
+Les organismes financiers et les personnes mentionnés à l'article L. 562-1 adoptent des procédures internes adaptées à leurs
+activités destinées à mettre en oeuvre les obligations de lutte contre le blanchiment des capitaux et le financement du
+terrorisme prévues par le présent titre VI, ainsi qu'un dispositif de contrôle interne destiné à assurer le respect des
+procédures. Ces procédures, qui sont consignées par écrit, organisent une vigilance constante destinée à permettre la
+détection des opérations devant faire l'objet d'un examen particulier ou d'une déclaration.
 
-Ils assurent l'information et la formation de tous les membres concernés de leur personnel.
+Les procédures mentionnées au premier alinéa sont définies le cas échéant soit par arrêté du ministre compétent, soit par des
+règlements professionnels homologués par le ministre compétent, soit par le règlement général de l'Autorité des marchés
+financiers. Les organismes financiers et les personnes mentionnés à l'article L. 562-1 assurent la formation et l'information
+de tous les membres concernés de leur personnel.
+
+Lorsqu'une personne physique relevant de l'article L. 562-1 exerce son activité professionnelle au sein d'une structure dotée
+de la personnalité morale, les obligations fixées par le présent article s'imposent exclusivement à la personne morale.
 
 **Liens relatifs à cet article**
 
@@ -79966,19 +80217,61 @@ Ils assurent l'information et la formation de tous les membres concernés de leu
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-736 du 26 juin 2006 - art. 2 () JORF 27 juin 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. R562-1 (M)
-	  - Code monétaire et financier - art. R562-2 (M)
-	  - Code monétaire et financier - art. R563-1 (M)
-	  - Code monétaire et financier - art. R563-2 (M)
-	  - Code monétaire et financier L561-1 à L564-3, R562-1, R562-2, R563-1, R563-2, R564-1
+	  - Code monétaire et financier - art. L562-1 (M)
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R564-1 (M)
 	  - Code monétaire et financier - art. R735-10 (M)
 	  - Code monétaire et financier - art. R765-10 (M)
+
+
+###### Article R563-4
+
+Les personnes mentionnées au 12 de l'article L. 562-1 n'appliquent les dispositions du présent chapitre que lorsque, dans le
+cadre de leur activité non juridictionnelle, elles réalisent au nom et pour le compte de leur client toute transaction
+financière ou immobilière ou lorsqu'elles participent en assistant leur client à la préparation ou à la réalisation des
+transactions concernant :
+
+1° L'achat et la vente de biens immeubles ou de fonds de commerce ;
+
+2° La gestion de fonds, titres ou autres actifs appartenant au client ;
+
+3° L'ouverture de comptes bancaires, d'épargne ou de titres ;
+
+4° L'organisation des apports nécessaires à la création de sociétés ;
+
+5° La constitution, la gestion ou la direction de sociétés ;
+
+6° La constitution, la gestion ou la direction de fiducies de droit étranger ou de toute autre structure similaire.
+
+**Nota:**
+
+Conseil d'Etat, décision n° 296845 en date du 10 avril 2008 , art. 3 : Le III de l'article 2 du décret du 26 juin 2006
+relatif à la lutte contre le blanchiment de capitaux et modifiant le code monétaire et financier, qui introduit un article R.
+563-4 rappelant les obligations imposées par le chapitre III au personnes mentionnées au 12 de l'article L. 562-1, est annulé
+en tant qu'il n'a pas assorti ce rappel des réserves relatives aux informations que ces personnes détiennent ou reçoivent
+dans le cadre d'une consultation juridique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-736 2006-06-26 art. 1 2° JORF 27 juin 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L562-1 (M)
 
 
 #### Chapitre IV : Dispositions diverses.
@@ -80061,16 +80354,20 @@ mise.
 
 ###### Article R564-1
 
-Les règlements professionnels ou administratifs pris pour l'application des dispositions afférentes aux obligations relatives
-à la lutte contre le blanchiment des capitaux prévues aux articles L. 561-1 à L. 564-3, R. 562-1, R. 562-2, R. 563-3, R.
-562-11, R. 563-1, R. 563-2, D. 564-2, R. 725-1, R. 735-4, R. 745-4, R. 755-4 et R. 765-4 tiennent compte de la situation
-particulière de chaque catégorie d'organisme financier.
+Les arrêtés ministériels ou les règlements professionnels homologués par le ministre compétent ou les dispositions du
+règlement général de l'Autorité des marchés financiers pris pour l'application du titre VI du livre V tiennent compte de la
+situation particulière de chaque catégorie d'organismes financiers ou de personnes mentionnés à l'article L. 562-1 ainsi que
+de la nature de leur activité.
 
-Le ministre chargé de l'économie établit ces règlements pour les agents des marchés interbancaires et les organismes
-mentionnés à l'article L. 518-1.
+Le ministre chargé de l'économie arrête les modalités d'application des obligations de vigilance des organismes financiers
+mentionnés aux 1 et 6 de l'article L. 562-1 et à l'article L. 611-3 dans les conditions prévues aux articles L. 520-2, L.
+611-1 et L. 611-3.
 
-Le contrôle de l'inspection générale des finances sur La Poste prévu à l'article L. 564-3 est exercé en liaison avec
+Le contrôle de l'inspection générale des finances sur La Poste prévu à l'article L. 565-3 est exercé en liaison avec
 l'inspection générale des postes et télécommunications.
+
+Les changeurs manuels résidant dans les départements d'outre-mer adressent leur déclaration d'activité à l'Institut
+d'émission des départements d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -80080,19 +80377,15 @@ l'inspection générale des postes et télécommunications.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
+	  - Décret n°2006-736 du 26 juin 2006 - art. 3 () JORF 27 juin 2006
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. D564-2 (T)
-	  - Code monétaire et financier - art. L518-1 (M)
-	  - Code monétaire et financier - art. R562-1 (M)
-	  - Code monétaire et financier - art. R562-11 (M)
-	  - Code monétaire et financier - art. R562-2 (M)
-	  - Code monétaire et financier - art. R563-1 (M)
-	  - Code monétaire et financier - art. R563-2 (M)
-	  - Code monétaire et financier - art. R725-1 (V)
-	  - Code monétaire et financier L561-1 à L564-3, R562-1, R562-2, R563-3, R562-11, R563-1, R563-2, D564-2, R725-1, R735-4, R745-4, R755-4, R765-4, L518-1
+	  - Code monétaire et financier - art. L520-2 (M)
+	  - Code monétaire et financier - art. L562-1 (M)
+	  - Code monétaire et financier - art. L565-3 (T)
+	  - Code monétaire et financier - art. L611-1 (M)
+	  - Code monétaire et financier - art. L611-3 (M)
 
 	**Cité par**:
 
@@ -80105,6 +80398,75 @@ l'inspection générale des postes et télécommunications.
 	**Nouveaux textes**:
 
 	  - Code monétaire et financier - art. R565-1 (V)
+
+
+###### Article R564-2-1
+
+Les informations portées sur le registre prévu à l'article L. 565-1 ne peuvent être utilisées qu'à des fins de lutte contre
+le blanchiment et le financement du terrorisme. Ces informations font mention des sommes apportées ou échangées par le
+joueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-736 2006-06-26 art. 3 2° JORF 27 juin 2006
+
+	**Transféré par**:
+
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L565-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R565-2-1 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R735-10 (M)
+	  - Code monétaire et financier - art. R745-10 (M)
+	  - Code monétaire et financier - art. R755-10 (M)
+
+
+###### Article R564-4
+
+Pour l'application du deuxième alinéa de l'article L. 562-6, la cellule TRACFIN informe les personnes habilitées, mentionnées
+à l'article R. 562-2, de la saisine du procureur de la République dans un délai de deux semaines après cette saisine.
+L'information est effectuée par envoi recommandé avec accusé de réception ou par tout autre moyen sécurisé accepté par les
+deux parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-736 2006-06-26 art. 3 3° JORF 27 juin 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L562-6 (M)
+	  - Code monétaire et financier - art. R562-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R565-4 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R735-10 (M)
+	  - Code monétaire et financier - art. R745-10 (M)
+	  - Code monétaire et financier - art. R755-10 (M)
+	  - Code monétaire et financier - art. R765-10 (M)
 
 
 ### Titre VII : Dispositions pénales
@@ -85820,7 +86182,8 @@ Les dispositions de l'article D. 564-2 sont applicables à Mayotte.
 
 ###### Article R735-10
 
-Les articles R. 562-1, R. 562-2, R. 562-11, R. 563-1, R. 563-2, R. 563-3 et R. 564-1 sont applicables à Mayotte.
+Les articles R. 562-1, R. 562-2, R. 562-2-1 à R. 562-2-3, R. 563-1 à R. 563-4, R. 564-1, R. 564-2-1 et R. 564-4 sont
+applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -85832,15 +86195,18 @@ Les articles R. 562-1, R. 562-2, R. 562-11, R. 563-1, R. 563-2, R. 563-3 et R. 5
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-736 du 26 juin 2006 - art. 4 () JORF 27 juin 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. R562-1 (M)
-	  - Code monétaire et financier - art. R562-11 (M)
 	  - Code monétaire et financier - art. R562-2 (M)
-	  - Code monétaire et financier - art. R563-1 (M)
-	  - Code monétaire et financier - art. R563-2 (M)
-	  - Code monétaire et financier - art. R563-3 (M)
 	  - Code monétaire et financier - art. R564-1 (M)
+	  - Code monétaire et financier - art. R564-2-1 (T)
+	  - Code monétaire et financier - art. R564-4 (M)
+	  - Code monétaire et financier R562-1, R562-2, R562-2-1 à R562-2-3, R563-1 à R563-4, R564-1, R564-2-1, R564-4
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière.
@@ -86891,7 +87257,8 @@ Les dispositions de l'article D. 564-2 sont applicables en Nouvelle-Calédonie.
 
 ###### Article R745-10
 
-Les articles R. 562-1, R. 562-2, R. 562-11 à R. 563-3 et R. 564-1 sont applicables en Nouvelle-Calédonie.
+Les articles R. 562-1, R. 562-2, R. 562-2-1 à R. 563-2-3, R. 563-1 à R. 563-4, R. 564-1, R. 564-2-1 et R. 564-4 sont
+applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -86903,6 +87270,10 @@ Les articles R. 562-1, R. 562-2, R. 562-11 à R. 563-3 et R. 564-1 sont applicab
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-736 du 26 juin 2006 - art. 4 () JORF 27 juin 2006
+
 	**Cité par**:
 
 	  - Décret n°2016-1523 du 10 novembre 2016 (V)
@@ -86913,7 +87284,9 @@ Les articles R. 562-1, R. 562-2, R. 562-11 à R. 563-3 et R. 564-1 sont applicab
 	  - Code monétaire et financier - art. R562-1 (M)
 	  - Code monétaire et financier - art. R562-2 (M)
 	  - Code monétaire et financier - art. R564-1 (M)
-	  - Code monétaire et financier R562-1, R562-2, R562-11 à R563-3, R564-1
+	  - Code monétaire et financier - art. R564-2-1 (T)
+	  - Code monétaire et financier - art. R564-4 (M)
+	  - Code monétaire et financier R562-1, R562-2, R562-2-1 à R563-2-3, R563-1 à R563-4, R564-1, R564-2-1, R564-4
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -88085,7 +88458,8 @@ Les dispositions de l'article D. 564-2 sont applicables en Polynésie française
 
 ###### Article R755-10
 
-Les articles R. 562-1, R. 562-2, R. 562-11, R. 563-1 à R. 563-3 et R. 564-1 sont applicables en Polynésie française.
+Les articles R. 562-1, R. 562-2, R. 562-2-1 à R. 562-2-3, R. 563-1 à R. 563-4, R. 564-1, R. 564-2-1 et R. 564-4 sont
+applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -88097,6 +88471,10 @@ Les articles R. 562-1, R. 562-2, R. 562-11, R. 563-1 à R. 563-3 et R. 564-1 son
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-736 du 26 juin 2006 - art. 4 () JORF 27 juin 2006
+
 	**Cité par**:
 
 	  - Décret n°2016-1523 du 10 novembre 2016 (V)
@@ -88105,10 +88483,11 @@ Les articles R. 562-1, R. 562-2, R. 562-11, R. 563-1 à R. 563-3 et R. 564-1 son
 	**Cite**:
 
 	  - Code monétaire et financier - art. R562-1 (M)
-	  - Code monétaire et financier - art. R562-11 (M)
 	  - Code monétaire et financier - art. R562-2 (M)
 	  - Code monétaire et financier - art. R564-1 (M)
-	  - Code monétaire et financier R562-1, R562-2, R562-11, R563-1 à R563-3, R564-1
+	  - Code monétaire et financier - art. R564-2-1 (T)
+	  - Code monétaire et financier - art. R564-4 (M)
+	  - Code monétaire et financier R562-1, R562-2, R562-2-1 à R562-2-3, R563-1 à R563-4, R564-1, R564-2-1, R564-4
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -89124,8 +89503,8 @@ Les dispositions de l'article D. 564-2 sont applicables dans les îles Wallis et
 
 ###### Article R765-10
 
-Les articles R. 562-1, R. 562-2, R. 562-11, R. 563-1, R. 563-2, R. 563-3 et R. 564-1 sont applicables dans les îles Wallis et
-Futuna.
+Les articles R. 562-1, R. 562-2, R. 562-2-1 à R. 562-2-3, R. 563-1 à R. 563-4, R. 564-1 à R. 564-2-1 et R. 564-4 sont
+applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -89137,6 +89516,10 @@ Futuna.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-736 du 26 juin 2006 - art. 4 () JORF 27 juin 2006
+
 	**Cité par**:
 
 	  - Décret n°2016-1523 du 10 novembre 2016 (V)
@@ -89144,12 +89527,9 @@ Futuna.
 	**Cite**:
 
 	  - Code monétaire et financier - art. R562-1 (M)
-	  - Code monétaire et financier - art. R562-11 (M)
 	  - Code monétaire et financier - art. R562-2 (M)
-	  - Code monétaire et financier - art. R563-1 (M)
-	  - Code monétaire et financier - art. R563-2 (M)
-	  - Code monétaire et financier - art. R563-3 (M)
-	  - Code monétaire et financier - art. R564-1 (M)
+	  - Code monétaire et financier - art. R564-4 (M)
+	  - Code monétaire et financier R562-1, R562-2, R562-2-1 à R562-2-3, R563-1 à R563-4, R564-1 à R564-2-1, R564-4
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
