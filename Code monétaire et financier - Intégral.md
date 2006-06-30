@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-06-27
+Version Consolidée au 2006-07-01
 
 # Partie législative
 
@@ -139,7 +139,9 @@ l'initiative économique ;
 (n° 76-1232 du 29 décembre 1976) ;
 
 8° Les prêts accordés aux personnes morales ainsi qu'aux personnes physiques pour les besoins de leur activité
-professionnelle.
+professionnelle ;
+
+9° Les loyers prévus par les conventions portant sur un local d'habitation.
 
 **Liens relatifs à cet article**
 
@@ -150,24 +152,13 @@ professionnelle.
 	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 79, v. init.
 	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 79 (V)
 
-	**Cite**:
-
-	  - Loi n°76-1232 1976-12-29 art. 80 Finances pour 1977
-	  - Loi n°84-578 du 9 juillet 1984 - art. 1, v. init.
-	  - Code monétaire et financier - art. L112-2 (M)
-	  - Code monétaire et financier - art. L211-1 (M)
-	  - Code monétaire et financier - art. L221-1 (M)
-	  - Code monétaire et financier - art. L221-13 (V)
-	  - Code monétaire et financier - art. L221-27 (M)
-	  - Code de la construction et de l'habitation. - art. L315-1 (M)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2004-804 du 9 août 2004 - art. 3 () JORF 11 août 2004
+	  - Loi n°2005-841 2005-07-26 art. 35 I JORF 27 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -5196,6 +5187,24 @@ régies par la législation civile et commerciale.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+
+###### Article L144-2-1
+
+Les biens immobiliers appartenant à la Banque de France sont soumis aux dispositions du code général de la propriété des
+personnes publiques applicables aux établissements publics de l'Etat.
+
+Les biens mobiliers appartenant à la Banque de France sont insaisissables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ###### Article L144-3
@@ -42051,30 +42060,32 @@ général rend compte de la gestion des services au collège dans des conditions
 
 ###### Article L621-5-2
 
-L'Autorité des marchés financiers dispose de l'autonomie financière. Son budget est arrêté par le collège sur proposition du
-secrétaire général. Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne
-lui sont pas applicables.
+I.-L'Autorité des marchés financiers dispose de l'autonomie financière. Son budget est arrêté par le collège sur proposition
+du secrétaire général. Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées
+ne lui sont pas applicables. 
 
-Elle perçoit le produit des taxes établies à l'article L. 621-5-3.
+Elle perçoit le produit des taxes établies à l'article L. 621-5-3. 
 
 Un décret en Conseil d'Etat fixe le régime indemnitaire de ses membres, son régime comptable et les modalités d'application
-du présent article.
+du I. 
+
+II.-Les biens immobiliers appartenant à l'Autorité des marchés financiers sont soumis aux dispositions du code général de la
+propriété des personnes publiques applicables aux établissements publics de l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°1922-08-10
-	  - Code monétaire et financier - art. L621-5-3 (M)
+	  - Loi du 10 août 1922 (V)
+	  - Code monétaire et financier - art. L621-5-3 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 7 (V) JORF 2 août 2003
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ###### Article L621-5-3
