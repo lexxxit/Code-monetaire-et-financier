@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-07-01
+Version Consolidée au 2006-07-09
 
 # Partie législative
 
@@ -59187,11 +59187,11 @@ Les émetteurs doivent faire connaître, le cas échéant, lors de l'émission, 
 ###### Article D213-2
 
 La Banque de France veille au respect par les émetteurs de titres de créance négociables des conditions d'émission prévues
-par les articles L. 213-1 à L. 213-4, par la présente sous-section et par les arrêtés mentionnés à l'article D. 213-11-1.
+par les articles L. 213-1 à L. 213-4, par la présente sous-section et par les arrêtés mentionnés à l'article D. 213-7.
 
 Pour l'exercice de cette mission, elle est informée de l'entrée de nouveaux émetteurs sur ce marché dans les conditions
-prévues à l'article D. 213-4 et elle reçoit communication immédiate par les émetteurs des documents établis en application de
-leurs obligations d'information conformément à l'article L. 213-4 et prévus par les articles D. 213-5 à D. 213-9.
+prévues à l'article D. 213-3 et elle reçoit communication immédiate par les émetteurs des documents établis en application de
+leurs obligations d'information conformément à l'article L. 213-4 et prévus par les articles D. 213-9 à D. 213-12.
 
 Elle peut suspendre ou interdire d'émission un émetteur qui manque au respect de ces dispositions.
 
@@ -59210,35 +59210,41 @@ Elle peut suspendre ou interdire d'émission un émetteur qui manque au respect 
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-817 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier L213-1 à L213-4, D213-11-1, D213-4, D213-5 à D213-9
+	  - Code monétaire et financier - art. D213-3 (M)
+	  - Code monétaire et financier - art. D213-7 (M)
+	  - Code monétaire et financier L213-1 à L213-4, D213-7, D213-3, D213-9 à D213-12
 
 
 ###### Article D213-3
 
 Les émetteurs doivent rendre publique une notation de leur programme d'émission, obtenue auprès d'une agence spécialisée
 figurant sur une liste arrêtée par l'autorité administrative compétente ou, le cas échéant, disposer d'un garant bénéficiant
-d'une telle notation.
+d'une telle notation. 
 
-Sont exemptés de cette obligation :
+Sont exemptés de cette obligation : 
 
-1° Les établissements de crédit et les entreprises d'investissement établis dans l'Espace économique européen ;
+1° Les établissements de crédit et les entreprises d'investissement établis dans l'Espace économique européen ; 
 
-2° La Caisse des dépôts et consignations ;
+2° La Caisse des dépôts et consignations ; 
 
-3° Les émetteurs dont des titres sont admis aux négociations sur un marché réglementé de l'Espace économique européen ;
+3° Les émetteurs dont des titres sont admis aux négociations sur un marché réglementé de l'Espace économique européen ; 
 
 4° Les autres émetteurs bénéficiant d'un visa de l'Autorité des marchés financiers portant sur leur programme d'émission à la
 date d'entrée en vigueur de cette obligation, à condition de communiquer à la Banque de France les mises à jour périodiques
-de leur situation trimestrielle de trésorerie et de leur rapport semestriel sur leur activité et leur résultat.
+de leur situation trimestrielle de trésorerie et de leur rapport semestriel sur leur activité et leur résultat. 
 
 Les émetteurs mentionnés au 4° bénéficient de cette exemption pour une durée d'un an à compter de l'entrée en vigueur de
-cette obligation.
+cette obligation. 
 
 L'ensemble des émetteurs informent la Banque de France, deux semaines au moins avant leur première émission, de leur
 intention d'entrer sur ce marché, par envoi de la documentation financière établie selon les modalités définies aux articles
-D. 213-5 à D. 213-9.
+D. 213-9 à D. 213-12.
 
 **Liens relatifs à cet article**
 
@@ -59251,6 +59257,10 @@ D. 213-5 à D. 213-9.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-817 du 7 juillet 2006 - art. 2 () JORF 9 juillet 2006
+
 	**Cité par**:
 
 	  - Arrêté du 19 décembre 2006 - art. 1 (V)
@@ -59260,7 +59270,7 @@ D. 213-5 à D. 213-9.
 
 	**Cite**:
 
-	  - Code monétaire et financier D213-5 à D213-9
+	  - Code monétaire et financier - art. D213-9 (V)
 
 
 ###### Article D213-5
@@ -59517,10 +59527,10 @@ d'émission.
 
 Les émetteurs de titres de créance négociables communiquent sans délai et sans frais leur documentation financière et ses
 mises à jour aux établissements domiciliataires de leurs titres, à ceux qui assurent le rôle d'intermédiaires pour l'achat et
-la vente de ces titres, et à toute personne qui en fait la demande.
+la vente de ces titres, et à toute personne qui en fait la demande. 
 
 La Banque de France met en ligne sur son site internet les dossiers de présentation financière, leur mise à jour et, le cas
-échéant, le résumé mentionné à l'article D. 213-8.
+échéant, le résumé mentionné à l'article D. 213-11.
 
 **Liens relatifs à cet article**
 
@@ -59533,17 +59543,21 @@ La Banque de France met en ligne sur son site internet les dossiers de présenta
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-817 du 7 juillet 2006 - art. 3 () JORF 9 juillet 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. D213-8 (V)
+	  - Code monétaire et financier - art. D213-11 (V)
 
 
 ###### Article D213-14
 
 Les émetteurs de titres de créance négociables communiquent à la Banque de France des informations statistiques sur leurs
-titres, dans les conditions définies par les arrêtés mentionnés à l'article D. 213-11-1.
+titres, dans les conditions définies par les arrêtés mentionnés à l'article D. 213-7. 
 
-La Banque de France assure régulièrement la diffusion de ces informations.
+La Banque de France assure régulièrement la diffusion de ces informations. 
 
 Les émetteurs de titres de créance négociables rendent compte à la Banque de France des remboursements anticipés de leurs
 titres. La Banque de France fixe la fréquence de la fourniture de ces informations.
@@ -59559,9 +59573,13 @@ titres. La Banque de France fixe la fréquence de la fourniture de ces informati
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-817 du 7 juillet 2006 - art. 4 () JORF 9 juillet 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier D213-11-1
+	  - Code monétaire et financier - art. D213-7 (V)
 
 
 ##### Section 2 : Les obligations.
@@ -88905,7 +88923,7 @@ Les dispositions de l'article D.* 213-4 sont applicables dans les îles Wallis e
 
 ###### Article D762-3
 
-Les articles D. 213-1 à D. 213-3 et D. 213-5 à D. 213-12 sont applicables dans les îles Wallis et Futuna.
+Les articles D. 213-1 à D. 213-3 et D. 213-5 à D. 213-14 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -88917,9 +88935,13 @@ Les articles D. 213-1 à D. 213-3 et D. 213-5 à D. 213-12 sont applicables dans
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-817 du 7 juillet 2006 - art. 5 () JORF 9 juillet 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier D213-1 à D213-3, D213-5 à D213-12
+	  - Code monétaire et financier D213-1 à D213-3, D213-5 à D213-14
 
 
 ##### Sous-section 4 : Les placements collectifs
