@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-07-25
+Version Consolidée au 2006-07-29
 
 # Partie législative
 
@@ -47379,9 +47379,18 @@ Le chapitre III du titre IV du livre III ainsi que l'article L. 353-6 sont appli
 
 ###### Article L734-1
 
-Les articles L. 411-1 et L. 411-2 sont applicables à Mayotte.
+Les articles L. 411-1 et L. 411-2 sont applicables à Mayotte et sous réserve de l'adaptation suivante :
+
+Pour l'application de l'article L. 411-2, les mots : "et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution
+de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable" sont supprimés."
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-2138 1945-09-19
+	  - Code monétaire et financier - art. L411-1 (V)
+	  - Code monétaire et financier - art. L411-2 (M)
 
 	**Anciens textes**:
 
@@ -47391,32 +47400,35 @@ Les articles L. 411-1 et L. 411-2 sont applicables à Mayotte.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code monétaire et financier - art. L411-1 (V)
-	  - Code monétaire et financier - art. L411-2 (M)
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
 
 
 ##### Sous-section 2 : Conditions de l'appel public à l'épargne
 
 ###### Article L734-2
 
-Les articles L. 412-1, à l'exception de son dernier alinéa, et L. 412-2 sont applicables à Mayotte.
+Les articles L. 412-1, et L. 412-2 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°81-1 1981-01-02 art. 15
 	  - Loi n°81-1 du 2 janvier 1981 - art. 15 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L412-1 (M)
+	  - Code monétaire et financier - art. L412-2 (M)
 
 
 ##### Section 2 : Les catégories de marché
@@ -47645,7 +47657,10 @@ L'article L. 432-20 est applicable à Mayotte.
 
 ###### Article L734-10
 
-Le chapitre III du titre III du livre IV est applicable à Mayotte.
+Le chapitre III du titre III du livre IV est applicable à Mayotte et sous réserve de l'adaptation suivante : 
+
+Pour l'application du IV de l'article L 433-3, après les mots "marché réglementé", les mots : "d'un Etat partie à l'accord
+sur l'Espace économique européen" sont remplacés par le mot "français".
 
 **Liens relatifs à cet article**
 
@@ -47656,6 +47671,18 @@ Le chapitre III du titre III du livre IV est applicable à Mayotte.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L433-3
 
 
 ##### Section 4 : Les entreprises de marché et les chambres de compensation
@@ -47692,7 +47719,21 @@ Les articles L. 464-1, et L. 464-2 s'y appliquent également.
 
 ###### Article L734-12
 
-Les articles L. 465-1 à L. 465-3 sont applicables à Mayotte.
+I. - Les articles L. 451-1-1, L. 451-1-2, L. 451-1-4, L. 451-3, L. 465-1 et L. 465-2 sont applicables à Mayotte sous réserve
+des adaptations prévues au II.
+
+II. - 1° Pour l'application de l'article L. 451-1-1 :
+
+a) Les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont remplacés par le mot : "français" ;
+
+b) Les mots : "dans l'Espace économique européen ou un pays tiers" sont remplacés par les mots : "à l'étranger" ;
+
+2° Pour l'application de l'article L. 451-1-2 :
+
+a) Au I, aux 1° et 3° du II, au III et au IV, les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont
+remplacés par le mot français" ;
+
+b) Au 3° du II, les mots : "de l'Espace économique européen" sont remplacés par les mots : "de France".
 
 **Liens relatifs à cet article**
 
@@ -47704,9 +47745,22 @@ Les articles L. 465-1 à L. 465-3 sont applicables à Mayotte.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
 	**Cite**:
 
-	  - Code monétaire et financier L465-1 à L465-3
+	  - Code monétaire et financier - art. L451-1-1 (V)
+	  - Code monétaire et financier - art. L451-1-2 (V)
+	  - Code monétaire et financier - art. L451-1-4 (V)
+	  - Code monétaire et financier - art. L451-3 (V)
+	  - Code monétaire et financier - art. L465-1 (M)
+	  - Code monétaire et financier - art. L465-2 (M)
 
 
 ##### Sous-section 2 : Obligations d'information sur les prises de participation
@@ -49177,9 +49231,18 @@ Le chapitre III du titre IV du livre III ainsi que l'article L. 353-6 sont appli
 
 ###### Article L744-1
 
-Les articles L. 411-1 et L. 411-2 sont applicables en Nouvelle-Calédonie.
+Les articles L. 411-1 et L. 411-2 sont applicables en Nouvelle-Calédonie et sous réserve de l'adaptation suivante :
+
+Pour l'application de l'article L. 411-2, les mots : "et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution
+de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable" sont supprimés.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-2138 1945-09-19
+	  - Code monétaire et financier - art. L411-1 (V)
+	  - Code monétaire et financier - art. L411-2 (M)
 
 	**Anciens textes**:
 
@@ -49189,17 +49252,16 @@ Les articles L. 411-1 et L. 411-2 sont applicables en Nouvelle-Calédonie.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code monétaire et financier - art. L411-1 (V)
-	  - Code monétaire et financier - art. L411-2 (M)
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
 
 
 ##### Sous-section 2 : Conditions de l'appel public à l'épargne.
 
 ###### Article L744-2
 
-Les articles L. 412-1, à l'exception de son dernier alinéa, et L. 412-2 sont applicables en Nouvelle-Calédonie.
+Les articles L. 412-1, et L. 412-2 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -49212,9 +49274,14 @@ Les articles L. 412-1, à l'exception de son dernier alinéa, et L. 412-2 sont a
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L412-1 (M)
+	  - Code monétaire et financier - art. L412-2 (M)
 
 
 ##### Section 2 : Les catégories de marché
@@ -49441,7 +49508,10 @@ L'article L. 432-20 est applicable en Nouvelle-Calédonie.
 
 ###### Article L744-10
 
-Le chapitre III du titre III du livre IV est applicable en Nouvelle-Calédonie.
+Le chapitre III du titre III du livre IV est applicable en Nouvelle-Calédonie et sous réserve de l'adaptation suivante :
+
+Pour l'application du IV de l'article L. 433-3, après les mots : "marché réglementé", les mots : "d'un Etat partie à l'accord
+sur l'Espace économique européen" sont remplacés par le mot "français".
 
 **Liens relatifs à cet article**
 
@@ -49452,6 +49522,14 @@ Le chapitre III du titre III du livre IV est applicable en Nouvelle-Calédonie.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L433-3 (M)
 
 
 ##### Section 4 : Les entreprises de marché et les chambres de compensation
@@ -49492,8 +49570,21 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 ###### Article L744-12
 
-Le chapitre Ier du titre V du livre IV est applicable en Nouvelle-Calédonie. Les articles L. 465-1 à L. 465-3 y sont
-également applicables.
+I. - Les articles L. 451-1-1, L. 451-1-2, L. 451-1-4, L. 451-3, L. 465-1 et L. 465-2 sont applicables en Nouvelle-Calédonie
+sous réserve des adaptations prévues au II.
+
+II. - 1° Pour l'application de l'article L. 451-1-1 :
+
+a) Les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont remplacés par le mot : "français" ;
+
+b) Les mots : "dans l'Espace économique européen ou un pays tiers" sont remplacés par les mots : "à l'étranger" ;
+
+2° Pour l'application de l'article L. 451-1-2 :
+
+a) Au I, aux 1° et 3° du II, au III et au IV, les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont
+remplacés par le mot : "français" ;
+
+b) Au 3° du II, les mots : "de l'Espace économique européen" sont remplacés par les mots : "de France".
 
 **Liens relatifs à cet article**
 
@@ -49506,9 +49597,18 @@ Le chapitre Ier du titre V du livre IV est applicable en Nouvelle-Calédonie. Le
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier L465-1 à L465-3
+	  - Code monétaire et financier - art. L451-1-1 (V)
+	  - Code monétaire et financier - art. L451-1-2 (V)
+	  - Code monétaire et financier - art. L451-1-4 (V)
+	  - Code monétaire et financier - art. L451-3 (V)
+	  - Code monétaire et financier - art. L465-1 (M)
+	  - Code monétaire et financier - art. L465-2 (M)
 
 
 ##### Sous-section 2 : Obligation d'information sur les prises de participation
@@ -50480,9 +50580,33 @@ L'article L. 615-1 est applicable en Nouvelle-Calédonie.
 
 ###### Article L746-5
 
-Le titre II du livre VI est applicable en Nouvelle-Calédonie sous réserve de supprimer, au premier alinéa de l'article L.
-621-15, les mots : ", ou par le président de l'autorité de contrôle des assurances et des mutuelles" ainsi que le deuxième
-alinéa de l'article L. 621-21. Les articles L. 642-1 à L. 642-3 y sont également applicables.
+Art. L. 746-5. - I. - Les articles L. 621-1 à L. 621-7-1, les I, II, III, IV, VII, VIII, IX de l'article L. 621-8, les
+articles L. 621-8-1, L. 621-8-2, L. 621-9 à L. 621-20-1, l'article L. 621-21, à l'exception du deuxième alinéa, les articles
+L. 621-22 à L. 621-35 ainsi que les articles L. 642-1 et L. 642-3 sont applicables en Nouvelle-Calédonie sous réserve des
+adaptations prévues au II.
+
+II. - 1° Pour l'application du I de l'article L. 621-8 :
+
+a) Au I, les mots : "ou tout document équivalent requis par la législation d'un autre Etat partie à l'accord sur l'Espace
+économique européen" sont supprimés ;
+
+b) Le III est ainsi rédigé :
+
+III. - Le projet de document mentionné au I est également soumis au visa préalable de l'Autorité des marchés financiers dans
+les cas fixés par son règlement général pour toute opération réalisée sur le territoire français lorsque l'émetteur des
+titres qui font l'objet de l'opération a son siège statutaire hors du territoire de l'Espace économique européen et que
+l'opération porte sur des instruments financiers dont la première émission ou cession dans le public ou la première admission
+sur un marché réglementé a eu lieu en France ;
+
+2° Pour l'application de l'article L. 621-32, les mots :
+
+"conformément à la directive 2003/125/CE de la Commission du 22 décembre 2003 portant modalités d'application de la directive
+2003/6/CE du Parlement européen et du Conseil en ce qui concerne la présentation équitable des recommandations
+d'investissement et la mention des conflits d'intérêts" sont supprimés.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -50497,13 +50621,18 @@ alinéa de l'article L. 621-21. Les articles L. 642-1 à L. 642-3 y sont égalem
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 2 (V) JORF 29 juillet 2006
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L621-15 (M)
 	  - Code monétaire et financier - art. L621-21 (M)
-	  - Code monétaire et financier L621-15, L621-21, L642-1 à L642-3
+	  - Code monétaire et financier - art. L621-32 (V)
+	  - Code monétaire et financier - art. L621-8 (M)
+	  - Code monétaire et financier - art. L621-8-1 (V)
+	  - Code monétaire et financier - art. L621-8-2 (V)
+	  - Code monétaire et financier - art. L642-1 (M)
+	  - Code monétaire et financier - art. L642-3 (M)
+	  - Code monétaire et financier L621-1 à L621-7-1, L621-8, L621-8-1, L621-8-2, L621-9 à L621-20-1, L621-21, L621-22 à L621-35, L642-1, L642-3, L621-32
 
 
 ##### Section 3 : Echanges d'informations
@@ -50874,20 +51003,16 @@ L'article L. 213-7 est applicable en Polynésie française.
 ###### Article L752-6
 
 Le chapitre IV du titre Ier du livre II est applicable en Polynésie française, à l'exception du 4 du I de l'article L. 214-1,
-du 4 du II de l'article L. 214-34, des articles L. 214-39 à L. 214-41-1, des articles L. 214-85 à L. 214-88, et sous réserve
-de l'adaptation suivante :
+du 4 du II de l'article L. 214-34, des articles L. 214-39 à L. 214-41-1, de la section 5, des articles L. 214-85 à L. 214-88,
+et sous réserve de l'adaptation suivante :
 
 A l'article L. 214-18, les mots : "les dispositions de l'ordonnance n° 45-2710 du 2 novembre 1945 relative aux sociétés
 d'investissement ainsi que" sont supprimés.
 
+Pour l'application de l'article L. 214-43, les références au code de commerce sont remplacées par les références aux
+dispositions applicables localement ayant le même objet.
+
 Les articles L. 231-3 à L. 231-21 sont également applicables en Polynésie française.
-
-**Nota:**
-
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -50902,7 +51027,7 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 98 () JORF 7 mai 2005
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 3 (V) JORF 29 juillet 2006
 
 	**Cite**:
 
@@ -51269,9 +51394,18 @@ Le chapitre III du titre IV du livre III ainsi que l'article L. 353-6 sont appli
 
 ###### Article L754-1
 
-Les articles L. 411-1 et L. 411-2 sont applicables en Polynésie française.
+Les articles L. 411-1 et L. 411-2 sont applicables en Polynésie française et sous réserve de l'adaptation suivante :
+
+Pour l'application de l'article L. 411-2, les mots : "et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution
+de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable" sont supprimés.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-2138 1945-09-19
+	  - Code monétaire et financier - art. L411-1 (V)
+	  - Code monétaire et financier - art. L411-2 (M)
 
 	**Anciens textes**:
 
@@ -51281,10 +51415,9 @@ Les articles L. 411-1 et L. 411-2 sont applicables en Polynésie française.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code monétaire et financier - art. L411-1 (V)
-	  - Code monétaire et financier - art. L411-2 (M)
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
 
 
 ##### Sous-section 2 : Conditions de l'appel public à l'épargne.
@@ -51306,11 +51439,12 @@ Les articles L. 412-1, et L. 412-2 sont applicables en Polynésie française.
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L412-1 (M)
+	  - Code monétaire et financier - art. L412-2 (M)
 
 
 ##### Section 2 : Les catégories de marché
@@ -51547,7 +51681,12 @@ L'article L. 432-20 est applicable en Polynésie française.
 
 ###### Article L754-10
 
-Le chapitre III du titre III du livre IV est applicable en Polynésie française.
+Le chapitre III du titre III du livre IV est applicable en Polynésie française et sous réserve de l'adaptation suivante :
+
+Pour l'application du IV de l'article L. 433-3, après les mots :
+
+"marché réglementé", les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont remplacés par le mot
+"français".
 
 **Liens relatifs à cet article**
 
@@ -51558,6 +51697,14 @@ Le chapitre III du titre III du livre IV est applicable en Polynésie française
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L433-3 (M)
 
 
 ##### Section 4 : Les entreprises de marché et les chambres de compensation
@@ -51598,7 +51745,24 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 ###### Article L754-12
 
-Les articles L. 465-1 à L. 465-3 sont applicables en Polynésie française.
+I. - Les articles L. 451-1-1, L. 451-1-2, L. 451-1-4, L. 451-3, L. 465-1 et L. 465-2 sont applicables en Polynésie française
+sous réserve des adaptations prévues au II.
+
+II. - 1° Pour l'application de l'article L. 451-1-1 :
+
+a) Les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont remplacés par le mot : "français" ;
+
+b) Les mots : "dans l'Espace économique européen ou un pays tiers" sont remplacés par les mots : "à l'étranger" ;
+
+2° Pour l'application de l'article L. 451-1-2 :
+
+a) Au I, aux 1° et 3° du II, au III et au IV, les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont
+remplacés par le mot : "français" ;
+
+b) Au 3° du II, les mots : "de l'Espace économique européen" sont remplacés par les mots : "de France".
+
+3° Pour l'application des articles L. 451-3 et L. 465-1, les références au code de commerce sont remplacées par les
+références aux dispositions applicables localement ayant le même objet.
 
 **Liens relatifs à cet article**
 
@@ -51610,9 +51774,18 @@ Les articles L. 465-1 à L. 465-3 sont applicables en Polynésie française.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier L465-1 à L465-3
+	  - Code monétaire et financier - art. L451-1-1 (V)
+	  - Code monétaire et financier - art. L451-1-2 (V)
+	  - Code monétaire et financier - art. L451-1-4 (V)
+	  - Code monétaire et financier - art. L451-3 (V)
+	  - Code monétaire et financier - art. L465-1 (M)
+	  - Code monétaire et financier - art. L465-2 (M)
 
 
 ##### Sous-section 2 : Obligations d'information sur les prises de participation
@@ -52615,9 +52788,36 @@ L'article L. 615-1 est applicable en Polynésie française.
 
 ###### Article L756-5
 
-Le titre II du livre VI est applicable en Polynésie française sous réserve de supprimer, au premier alinéa de l'article L.
-621-15, les mots : ", ou par le président de l'autorité de contrôle des assurances et des mutuelles" ainsi que le deuxième
-alinéa de l'article L. 621-21. Les articles L. 642-1 à L. 642-3 y sont également applicables.
+I. - Les articles L. 621-1 à L. 621-7-1, les I, II, III, IV, VII, VIII, IX de l'article L. 621-8, les articles L. 621-8-1, L.
+621-8-2, L. 621-9 à L. 621-20-1, l'article L. 621-21, à l'exception du deuxième alinéa, les articles L. 621-22 à L. 621-35
+ainsi que les articles L. 642-1 et L. 642-3 sont applicables en Polynésie française sous réserve des adaptations prévues au
+II.
+
+II. - 1° Pour l'application du I de l'article L. 621-8 :
+
+a) Au I, les mots : "ou tout document équivalent requis par la législation d'un autre Etat partie à l'accord sur l'Espace
+économique européen" sont supprimés ;
+
+b) Le III est ainsi rédigé :
+
+III. - Le projet de document mentionné au I est également soumis au visa préalable de l'Autorité des marchés financiers dans
+les cas fixés par son règlement général pour toute opération réalisée sur le territoire français lorsque l'émetteur des
+titres qui font l'objet de l'opération a son siège statutaire hors du territoire de l'Espace économique européen et que
+l'opération porte sur des instruments financiers dont la première émission ou cession dans le public ou la première admission
+sur un marché réglementé a eu lieu en France ;
+
+2° Pour l'application du IV de l'article L. 621-22, les références au code de commerce sont remplacées par les références aux
+dispositions applicables localement ayant le même objet.
+
+3° Pour l'application de l'article L. 621-32, les mots :
+
+"conformément à la directive 2003/125/CE de la Commission du 22 décembre 2003 portant modalités d'application de la directive
+2003/6/CE du Parlement européen et du Conseil en ce qui concerne la présentation équitable des recommandations" sont
+supprimés.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -52632,13 +52832,20 @@ alinéa de l'article L. 621-21. Les articles L. 642-1 à L. 642-3 y sont égalem
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 2 (V) JORF 29 juillet 2006
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L621-15 (M)
 	  - Code monétaire et financier - art. L621-21 (M)
-	  - Code monétaire et financier L621-15, L621-21, L642-1 à L642-3
+	  - Code monétaire et financier - art. L621-22 (M)
+	  - Code monétaire et financier - art. L621-32 (V)
+	  - Code monétaire et financier - art. L621-8 (M)
+	  - Code monétaire et financier - art. L621-8-1 (V)
+	  - Code monétaire et financier - art. L621-8-2 (V)
+	  - Code monétaire et financier - art. L642-1 (M)
+	  - Code monétaire et financier - art. L642-3 (M)
+	  - Code monétaire et financier L621-1 à L621-7-1, L621-8, L621-8-1, L621-8-2, L621-9 à L621-20-1, L621-21, L621-22 à L621-35, L642-1, L642-3, L621-22, L621-32
+	  - Directive 2003-125 2003-12-22
 
 
 ##### Section 3 : Echanges d'informations
@@ -53430,9 +53637,18 @@ L'article L. 353-6 s'y applique également.
 
 ###### Article L764-1
 
-Les articles L. 411-1 et L. 411-2 sont applicables dans les îles Wallis-et-Futuna.
+Les articles L. 411-1 et L. 411-2 sont applicables dans les îles Wallis-et-Futuna et sous réserve de l'adaptation suivante :
+
+Pour l'application de l'article L. 411-2, les mots : "et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution
+de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable" sont supprimés.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-2138 1945-09-19
+	  - Code monétaire et financier - art. L411-1 (V)
+	  - Code monétaire et financier - art. L411-2 (M)
 
 	**Anciens textes**:
 
@@ -53444,13 +53660,7 @@ Les articles L. 411-1 et L. 411-2 sont applicables dans les îles Wallis-et-Futu
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L411-1 (V)
-	  - Code monétaire et financier - art. L411-2 (M)
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
 
 
 ##### Sous-section 2 : Conditions de l'appel public à l'épargne.
@@ -53471,11 +53681,12 @@ Les articles L. 412-1, et L. 412-2 sont applicables dans les îles Wallis et Fut
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L412-1 (M)
+	  - Code monétaire et financier - art. L412-2 (M)
 
 
 ##### Section 2 : Les plates-formes de négociation
@@ -53714,7 +53925,11 @@ L'article L. 432-20 est applicable dans les îles Wallis et Futuna.
 
 ###### Article L764-10
 
-Le chapitre III du titre III du livre IV est applicable dans les îles Wallis-et-Futuna.
+Le chapitre III du titre III du livre IV est applicable dans les îles Wallis-et-Futuna et sous réserve de l'adaptation
+suivante :
+
+Pour l'application du IV de l'article L. 433-3, après les mots "marché réglementés", les mots "d'un Etat partie à l'accord
+sur l'Espace économique européen" sont remplacés par le mot "français".
 
 **Liens relatifs à cet article**
 
@@ -53728,8 +53943,11 @@ Le chapitre III du titre III du livre IV est applicable dans les îles Wallis-et
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L433-3 (M)
 
 
 ##### Section 4 : Les entreprises de marché et les chambres de compensation
@@ -53771,7 +53989,21 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 ###### Article L764-12
 
-Les articles L. 465-1 à L. 465-3 sont applicables dans les îles Wallis-et-Futuna.
+I. - Les articles L. 451-1-1, L. 451-1-2, L. 451-1-4, L. 451-3, L. 465-1 et L. 465-2 sont applicables dans les îles Wallis et
+Futuna sous réserve des adaptations prévues au II.
+
+II. - 1° Pour l'application de l'article L. 451-1-1 :
+
+a) Les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont remplacés par le mot : "français" ;
+
+b) Les mots : "dans l'Espace économique européen ou un pays tiers" sont remplacés par les mots : "à l'étranger" ;
+
+2° Pour l'application de l'article L. 451-1-2 :
+
+a) Au I, aux 1° et 3° du II, au III et au IV, les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont
+remplacés par le mot : "français" ;
+
+b) Au 3° du II, les mots : "de l'Espace économique européen" sont remplacés par les mots : "de France".
 
 **Liens relatifs à cet article**
 
@@ -53785,8 +54017,16 @@ Les articles L. 465-1 à L. 465-3 sont applicables dans les îles Wallis-et-Futu
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L451-1-1 (V)
+	  - Code monétaire et financier - art. L451-1-2 (V)
+	  - Code monétaire et financier - art. L451-1-4 (V)
+	  - Code monétaire et financier - art. L451-3 (V)
+	  - Code monétaire et financier - art. L465-1 (M)
+	  - Code monétaire et financier - art. L465-2 (M)
 
 
 ##### Sous-section 2 : Obligations d'information relative aux prises de participation
@@ -54490,8 +54730,33 @@ L'article L. 615-1 est applicable dans les îles Wallis et Futuna.
 
 ###### Article L766-5
 
-Le titre II du livre VI est applicable dans les îles Wallis et Futuna, à l'exception du deuxième alinéa de l'article L.
-621-21. Les articles L. 642-1 à L. 642-3 y sont également applicables.
+I. - Les articles L. 621-1 à L. 621-7-1, les I, II, III, IV, VII, VIII, IX de l'article L. 621-8, les articles L. 621-8-1, L.
+621-8-2, L. 621-9 à L. 621-20-1, l'article L. 621-21, à l'exception du deuxième alinéa, les articles L. 621-22 à L. 621-35
+ainsi que les articles L. 642-1 et L. 642-3 sont applicables dans les îles Wallis et Futuna sous réserve des adaptations
+prévues au II.
+
+II. - 1° Pour l'application du I de l'article L. 621-8 :
+
+a) Au I, les mots : "ou tout document équivalent requis par la législation d'un autre Etat partie à l'accord sur l'Espace
+économique européen" sont supprimés.
+
+b) Le III est ainsi rédigé :
+
+III. - Le projet de document mentionné au I est également soumis au visa préalable de l'Autorité des marchés financiers dans
+les cas fixés par son règlement général pour toute opération réalisée sur le territoire français lorsque l'émetteur des
+titres qui font l'objet de l'opération a son siège statutaire hors du territoire de l'Espace économique européen et que
+l'opération porte sur des instruments financiers dont la première émission ou cession dans le public ou la première admission
+sur un marché réglementé a eu lieu en France ;
+
+2° Pour l'application de l'article L. 621-32, les mots :
+
+"conformément à la directive 2003/125/CE de la Commission du 22 décembre 2003 portant modalités d'application de la directive
+2003/6/CE du Parlement européen et du Conseil en ce qui concerne la présentation équitable des recommandations" sont
+supprimés.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -54506,12 +54771,18 @@ Le titre II du livre VI est applicable dans les îles Wallis et Futuna, à l'exc
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 2 (V) JORF 29 juillet 2006
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L621-21 (M)
+	  - Code monétaire et financier - art. L621-32 (V)
+	  - Code monétaire et financier - art. L621-8 (M)
+	  - Code monétaire et financier - art. L621-8-1 (V)
+	  - Code monétaire et financier - art. L621-8-2 (V)
+	  - Code monétaire et financier - art. L642-1 (M)
+	  - Code monétaire et financier - art. L642-3 (M)
+	  - Directive 2003-125 CE 2003-12-22
 
 
 ##### Section 3 : Echanges d'informations
