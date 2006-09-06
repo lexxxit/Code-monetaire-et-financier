@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-08-01
+Version Consolidée au 2006-09-07
 
 # Partie législative
 
@@ -55383,11 +55383,9 @@ son rapport annuel au Président de la République et au Parlement.
 
 ### Titre III : Les instruments de la monnaie scripturale
 
-#### Chapitre Ier : Le chèque
+#### Chapitre Ier : Le chèque bancaire
 
-##### Section 1 : Le chèque bancaire
-
-##### Sous-section 1 : Dispositions générales.
+##### Section 1 : Dispositions générales.
 
 ###### Article R131-1
 
@@ -55405,6 +55403,10 @@ personnes habilités à tenir des comptes sur lesquels des chèques peuvent êtr
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R731-3 (V)
@@ -55413,18 +55415,33 @@ personnes habilités à tenir des comptes sur lesquels des chèques peuvent êtr
 	  - Code monétaire et financier - art. R761-3 (V)
 
 
-##### Sous-section 2 : Création et forme du chèque.
+###### Article R131-1-1
+
+La Banque de France et les autorités de contrôle propres à chaque catégorie d'établissements tirés veillent, conformément aux
+dispositions législatives en vigueur, au respect par les banquiers des dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
+
+##### Section 2 : Création et forme du chèque.
 
 ###### Article R131-2
 
 La certification résulte de l'apposition sur le chèque par le tiré d'une formule comportant, outre sa signature, les mentions
 relatives à la certification et à la date de celle-ci, au montant pour lequel le chèque a été établi et à la désignation de
 l'établissement tiré. Ces mentions doivent être apposées au moyen d'un procédé de marquage ou d'impression indélébile offrant
-toute garantie de sécurité.
+toute garantie de sécurité. 
 
 Dans tous les cas où la remise d'un chèque certifié est exigée, il peut être valablement satisfait à cette exigence par la
-remise d'un chèque émis dans les conditions prévues par le troisième alinéa de l'article L. 131-7 ou d'un chèque émis sur le
-compte courant postal d'un chef de centre de chèques postaux.
+remise d'un chèque émis dans les conditions prévues par le troisième alinéa de l'article L. 131-7.
 
 **Liens relatifs à cet article**
 
@@ -55436,6 +55453,10 @@ compte courant postal d'un chef de centre de chèques postaux.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
 
 	**Cité par**:
 
@@ -55449,12 +55470,12 @@ compte courant postal d'un chef de centre de chèques postaux.
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-7 (M)
+	  - Code monétaire et financier - art. L131-7 (V)
 
 
-##### Sous-section 5 : Présentation et paiement
+##### Section 5 : Présentation et paiement.
 
-##### Paragraphe 1 : Délais de présentation et échéances de paiement.
+##### Sous-section 1 : Délais de présentation et échéances de paiement.
 
 ###### Article R131-3
 
@@ -55465,6 +55486,10 @@ Les délais prévus par le présent chapitre ne comprennent pas le jour qui leur
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
 
 	**Cité par**:
 
@@ -55494,13 +55519,17 @@ exigé ni aucun protêt dressé.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Anciens textes**:
 
 	  - Décret-loi 1935-10-30 art 59
 	  - Décret-loi du 30 octobre 1935 - art. 59 (Ab)
 
 
-##### Paragraphe 2 : Procédures de vérification auprès de la Banque de France.
+##### Sous-section 2 : Procédures de vérification auprès de la Banque de France.
 
 ###### Article R131-5
 
@@ -55528,6 +55557,10 @@ Le service ainsi rendu donne lieu à rémunération.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 
 ###### Article R131-6
 
@@ -55545,9 +55578,13 @@ mentionnées à l'article R. 131-5 un code d'accès au fichier constitué à cet
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. R131-5 (M)
+	  - Code monétaire et financier - art. R131-5 (V)
 
 
 ###### Article R131-7
@@ -55574,6 +55611,10 @@ c) Les coordonnées bancaires du tireur.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R131-8 (V)
@@ -55582,7 +55623,7 @@ c) Les coordonnées bancaires du tireur.
 ###### Article R131-8
 
 La réponse de la Banque de France est transmise sans délai à la personne qui consulte le fichier. S'il s'agit d'un
-mandataire, celui-ci en informe sans délai son mandant.
+mandataire, celui-ci en informe sans délai son mandant. 
 
 Lorsque la Banque de France constate que l'émission d'un chèque n'est pas régulière pour une des causes mentionnées au
 premier alinéa de l'article R. 131-5, elle en informe la personne qui a consulté le fichier sans indiquer la nature de
@@ -55600,10 +55641,14 @@ une durée minimale de deux mois.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. R131-5 (M)
-	  - Code monétaire et financier - art. R131-7 (M)
+	  - Code monétaire et financier - art. R131-5 (V)
+	  - Code monétaire et financier - art. R131-7 (V)
 
 	**Cité par**:
 
@@ -55627,16 +55672,20 @@ l'article 226-21 du code pénal.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code pénal - art. 226-21 (M)
+	  - Code pénal - art. 226-21 (V)
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R741-3 (V)
 
 
-##### Sous-section 11 : Protêt.
+##### Section 11 : Protêt.
 
 ###### Article R131-10
 
@@ -55654,15 +55703,19 @@ n° 50-737 du 24 juin 1950 pris pour son application sont applicables au protêt
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R745-4-1 (T)
 	  - Code monétaire et financier - art. R755-4-1 (T)
 
 
-##### Sous-section 12 : Incidents de paiement et sanctions
+##### Section 12 : Incidents de paiement et sanctions
 
-##### Paragraphe 1 : Enregistrement par les banquiers des incidents de paiement de chèques tenant à un défaut de provision suffisante.
+##### Sous-section 1 : Enregistrement par les banquiers des incidents de paiement de chèques tenant à un défaut de provision suffisante.
 
 ###### Article R131-11
 
@@ -55686,6 +55739,10 @@ Le nouveau refus de paiement d'un chèque ayant déjà fait l'objet d'un enregis
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R741-3 (V)
@@ -55696,34 +55753,34 @@ Le nouveau refus de paiement d'un chèque ayant déjà fait l'objet d'un enregis
 ###### Article R131-12
 
 L'enregistrement par le banquier tiré des incidents de paiement de chèques tenant à un défaut de provision suffisante
-comporte, pour chaque incident, les renseignements suivants :
+comporte, pour chaque incident, les renseignements suivants : 
 
 1° Le numéro du compte, l'indication qu'il s'agit d'un compte individuel ou d'un compte collectif ainsi que les éléments
-permettant l'identification précise du tiré ;
+permettant l'identification précise du tiré ; 
 
-2° Le nom ou la dénomination ou raison sociale du titulaire du compte, son adresse ainsi que :
+2° Le nom ou la dénomination ou raison sociale du titulaire du compte, son adresse ainsi que : 
 
 a) S'il s'agit d'une personne physique, ses prénoms, date et lieu de naissance et, le cas échéant, le nom d'usage, lorsqu'il
-est connu du tiré ;
+est connu du tiré ; 
 
-b) S'il s'agit d'une personne morale, sa forme juridique ;
+b) S'il s'agit d'une personne morale, sa forme juridique ; 
 
 c) En outre, le numéro national d'identification des entreprises prévu par les dispositions réglementaires en vigueur, s'il
-s'agit d'une entreprise individuelle ou d'une personne morale qui en est pourvue ;
+s'agit d'une entreprise individuelle ou d'une personne morale qui en est pourvue ; 
 
-3° Le numéro du chèque ;
+3° Le numéro du chèque ; 
 
 4° Le montant du chèque exprimé en euros et, le cas échéant, sa date de création lorsque le titulaire du compte a émis le
-chèque au mépris d'une interdiction d'émettre toujours en vigueur lors du refus de paiement ;
+chèque au mépris d'une interdiction d'émettre toujours en vigueur lors du refus de paiement ; 
 
-5° La date du refus de paiement du chèque ;
+5° La date du refus de paiement du chèque ; 
 
-6° La cause du refus de paiement et le montant de l'insuffisance de la provision ;
+6° La cause du refus de paiement et le montant de l'insuffisance de la provision ; 
 
 7° L'indication, s'il y a lieu, que le chèque a été émis au mépris d'une injonction faite en application de l'article L.
-131-73, ou en violation d'une interdiction prononcée en application de l'article L. 163-6 ;
+131-73, ou en violation d'une interdiction prononcée en application de l'article L. 163-6 ; 
 
-8° L'indication, s'il y a lieu, que le compte sur lequel le chèque a été émis était clôturé lors du refus de paiement.
+8° L'indication, s'il y a lieu, que le compte sur lequel le chèque a été émis était clôturé lors du refus de paiement. 
 
 L'enregistrement est complété par la date de régularisation de l'incident dès que celle-ci intervient.
 
@@ -55738,10 +55795,14 @@ L'enregistrement est complété par la date de régularisation de l'incident dè
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-73 (M)
-	  - Code monétaire et financier - art. L163-6 (M)
+	  - Code monétaire et financier - art. L131-73 (V)
+	  - Code monétaire et financier - art. L163-6 (V)
 
 	**Cité par**:
 
@@ -55772,13 +55833,17 @@ dans les mêmes conditions les levées d'interdiction.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R131-14 (M)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R131-42 (M)
+	  - Code monétaire et financier - art. R131-42 (V)
 
 
 ###### Article R131-14
@@ -55798,13 +55863,16 @@ justifiés pendant un an à compter de la date de régularisation ou, à défaut
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. R131-12 (M)
-	  - Code monétaire et financier - art. R131-13 (M)
+	  - Code monétaire et financier - art. R131-12 (V)
 
 
-##### Paragraphe 2 : Injonction, régularisation et pénalité libératoire.
+##### Sous-section 2 : Injonction, régularisation et pénalité libératoire.
 
 ###### Article D131-25
 
@@ -55825,6 +55893,10 @@ concerné à l'occasion du rejet d'un chèque.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. D731-4 (V)
@@ -55836,19 +55908,19 @@ concerné à l'occasion du rejet d'un chèque.
 ###### Article R131-15
 
 Le tiré qui a refusé en tout ou en partie le paiement d'un chèque pour défaut de provision suffisante adresse au titulaire du
-compte l'injonction prévue par l'article L. 131-73 par lettre recommandée avec demande d'avis de réception.
+compte l'injonction prévue par l'article L. 131-73 par lettre recommandée avec demande d'avis de réception. 
 
 Il lui précise le numéro et le montant du chèque dont le règlement n'a pu être assuré, ainsi que la situation du compte à la
-date du refus de paiement.
+date du refus de paiement. 
 
 Il lui enjoint de restituer à tous les banquiers dont il est le client les formules de chèques en sa possession et en celle
 de ses mandataires. Il lui interdit d'émettre à l'avenir des chèques, sauf des chèques de retrait ou certifiés, jusqu'à la
 régularisation effectuée dans les conditions prévues par les articles R. 131-20 à R. 131-22 ou, à défaut, pendant cinq ans à
-compter de l'injonction.
+compter de l'injonction. 
 
 Il informe par tout moyen tout mandataire que le titulaire, à sa demande, lui aura fait connaître comme étant en possession
 de chèques utilisables sur le compte qu'il ne lui est plus possible, jusqu'à régularisation, d'émettre des chèques sur ce
-compte.
+compte. 
 
 En cas de refus de paiement du même chèque lors d'une nouvelle présentation, le tiré n'adresse pas de lettre d'injonction.
 
@@ -55870,10 +55942,14 @@ En cas de refus de paiement du même chèque lors d'une nouvelle présentation, 
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-73 (M)
-	  - Code monétaire et financier L131-73, R131-20 à R131-22
+	  - Code monétaire et financier - art. L131-73 (V)
+	  - Code monétaire et financier - art. R131-20 (V)
 
 
 ###### Article R131-16
@@ -55898,6 +55974,10 @@ cette pénalité.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
 
 	**Cite**:
 
@@ -55928,6 +56008,10 @@ libératoires afférentes à chaque chèque rejeté et dont le montant est indiq
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 
 ###### Article R131-18
 
@@ -55945,6 +56029,10 @@ compter de la date de clôture de compte.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
 
 
 ###### Article R131-19
@@ -55967,13 +56055,21 @@ conditions prévues à l'article R. 131-2.
 
 	**Codifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2005-1007 du 2 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-243 du 4 mars 2011 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-75 (M)
-	  - Code monétaire et financier - art. L131-76 (M)
-	  - Code monétaire et financier - art. R131-2 (M)
+	  - Code monétaire et financier - art. L131-75
+	  - Code monétaire et financier - art. L131-76
+	  - Code monétaire et financier - art. R131-2
 
 
 ###### Article R131-20
@@ -55991,6 +56087,10 @@ règlement par la remise de ce chèque au tiré, ainsi que, le cas échéant, du
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
 
 	**Cité par**:
 
@@ -56013,6 +56113,10 @@ justifie aussi, le cas échéant, du paiement de la pénalité libératoire.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
 
 	**Cité par**:
 
@@ -56045,6 +56149,10 @@ sont conservées pendant un an par le tiré.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
 
 	**Cite**:
 
@@ -56084,6 +56192,10 @@ incident qui aurait été constaté sur un autre compte.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 
 ###### Article R131-24
 
@@ -56104,8 +56216,12 @@ titulaire.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
 
-##### Paragraphe 3 : Déclaration à la Banque de France des incidents de paiement et des régularisations.
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
+
+##### Sous-section 3 : Déclaration à la Banque de France des incidents de paiement et des régularisations.
 
 ###### Article R131-26
 
@@ -56133,6 +56249,10 @@ l'expiration de ce délai.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L131-84 (M)
@@ -56146,17 +56266,17 @@ l'expiration de ce délai.
 
 ###### Article R131-27
 
-La Banque de France annule la déclaration d'incident de paiement sur la demande du tiré dans les cas suivants :
+La Banque de France annule la déclaration d'incident de paiement sur la demande du tiré dans les cas suivants : 
 
-1° Lorsque le refus de paiement ou l'établissement de l'avis de non-paiement résulte d'une erreur du tiré ;
+1° Lorsque le refus de paiement ou l'établissement de l'avis de non-paiement résulte d'une erreur du tiré ; 
 
 2° Lorsqu'il est établi par le titulaire du compte qu'un événement qui n'est pas imputable à l'une des personnes habilitées à
-tirer des chèques sur le compte a entraîné la disparition de la provision.
+tirer des chèques sur le compte a entraîné la disparition de la provision. 
 
-La mesure d'interdiction d'émettre des chèques mise en oeuvre par le tiré cesse alors d'avoir effet.
+La mesure d'interdiction d'émettre des chèques mise en oeuvre par le tiré cesse alors d'avoir effet. 
 
 La Banque de France avise le tiré qu'elle a procédé à l'annulation. Le tiré doit en informer son client et compléter
-l'enregistrement prévu par l'article R. 131-12 par la mention de l'annulation et de sa cause.
+l'enregistrement prévu par l'article R. 131-12 par la mention de l'annulation et de sa cause. 
 
 Lorsque le titulaire du compte lui demande de faire application de la procédure prévue par le présent article, le tiré, s'il
 donne suite, saisit la Banque de France au plus tard le dixième jour ouvré suivant cette demande. Il en avise son client dans
@@ -56173,9 +56293,13 @@ le même délai. Son silence à l'issue du délai vaut refus.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. R131-12 (M)
+	  - Code monétaire et financier - art. R131-12 (V)
 
 	**Cité par**:
 
@@ -56188,11 +56312,11 @@ le même délai. Son silence à l'issue du délai vaut refus.
 
 Les décisions mentionnées à l'article 103-1 du décret n° 85-1388 du 27 décembre 1985 relatif au redressement et à la
 liquidation judiciaires des entreprises sont, dans les deux jours ouvrés de leur notification à la Banque de France,
-transmises par celle-ci à chaque banquier ayant déclaré des incidents de paiement de chèques.
+transmises par celle-ci à chaque banquier ayant déclaré des incidents de paiement de chèques. 
 
 En cas de suspension des effets d'une mesure d'interdiction d'émettre des chèques, le tiré transmet à la Banque de France, au
 plus tard le deuxième jour ouvré suivant la réception de la décision du tribunal, les demandes d'annulation de chacune des
-déclarations des incidents mentionnés par cette décision.
+déclarations des incidents mentionnés par cette décision. 
 
 En cas de résolution du plan prononcée en application de l'article L. 621-82 du code de commerce, le tiré, dans les mêmes
 délais, procède selon les modalités fixées par l'article R. 131-12 du présent code à un nouvel enregistrement des incidents
@@ -56204,9 +56328,9 @@ reprend effet à compter de sa date initiale.
 
 	**Cite**:
 
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 103-1 (M)
-	  - Code de commerce. - art. L621-82 (Ab)
-	  - Code monétaire et financier - art. R131-12 (M)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 103-1 (Ab)
+	  - Code de commerce - art. L621-82 (Ab)
+	  - Code monétaire et financier - art. R131-12 (V)
 
 	**Anciens textes**:
 
@@ -56216,6 +56340,10 @@ reprend effet à compter de sa date initiale.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
 
 	**Cité par**:
 
@@ -56230,10 +56358,6 @@ code de commerce, le tiré transmet à la Banque de France, au plus tard le deux
 débiteur de l'expédition du jugement de clôture accompagnée du relevé des incidents de paiement, les demandes d'annulation de
 chacune des déclarations d'incidents concernant les chèques émis avant le jugement d'ouverture de la procédure.
 
-**Nota:**
-
-Loi 2005-845 2005-07-26 annexe 1 : L'article L. 622-33 du code de commerce devient l'article L. 643-12 du même code.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -56245,9 +56369,13 @@ Loi 2005-845 2005-07-26 annexe 1 : L'article L. 622-33 du code de commerce devie
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code de commerce. - art. L643-12 (V)
+	  - Code de commerce - art. L643-12 (V)
 
 	**Cité par**:
 
@@ -56263,7 +56391,7 @@ Si la mesure d'interdiction d'émettre des chèques ayant fait l'objet d'une sus
 du code de commerce reprend ses effets, l'ordonnance mentionnée à l'article 154-2 du décret n° 85-1388 du 27 décembre 1985
 relatif au redressement et à la liquidation judiciaires des entreprises est, dans les deux jours ouvrés de sa notification à
 la Banque de France, transmise par celle-ci à chaque banquier ayant déclaré un ou des incidents de paiement, accompagnée du
-relevé d'incidents communiqué par le greffier.
+relevé d'incidents communiqué par le greffier. 
 
 Le tiré procède, au plus tard le deuxième jour ouvré suivant la réception de l'ordonnance et du relevé d'incidents, à un
 nouvel enregistrement des incidents de paiement dont il avait demandé l'annulation dans les conditions prévues à l'article R.
@@ -56275,18 +56403,23 @@ au IV de l'article L. 622-32 du code de commerce.
 
 	**Cite**:
 
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 154-2 (M)
-	  - Code de commerce. - art. L622-32 (M)
-	  - Code de commerce. - art. L622-33 (M)
-	  - Code monétaire et financier - art. R131-29 (M)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 154-2 (Ab)
+	  - Code de commerce - art. L622-32 (V)
+	  - Code de commerce - art. L643-12 (V)
+	  - Code monétaire et financier - art. R131-29 (V)
 
 	**Anciens textes**:
 
+	  - Décret n°92-456 1992-05-22 art 17-3
 	  - Décret n°92-456 du 22 mai 1992 - art. 17-3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V)
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
 
 
 ###### Article R131-31
@@ -56307,19 +56440,24 @@ seul avis de la régularisation de tous les incidents.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R131-22 (V)
 
 
-##### Paragraphe 4 : Déclaration à la Banque de France des comptes clôturés et des vols ou pertes de formules de chèques.
+##### Sous-section 4 : Déclaration à la Banque de France des comptes clôturés et des vols ou pertes de formules de chèques.
 
 ###### Article R131-32
 
 Le banquier avise la Banque de France des clôtures de comptes autres que celles qui résultent d'un transfert dans son
 établissement et des oppositions à paiement mentionnées à l'article L. 131-84 dans le meilleur délai et au plus tard le
 premier jour ouvré suivant la clôture du compte ou l'opposition à paiement. A cette fin, il communique les renseignements
-prévus au 1° de l'article R. 131-12, ainsi que, s'il en a connaissance, les numéros des formules de chèque volées ou perdues.
+prévus au 1° de l'article R. 131-12, ainsi que, s'il en a connaissance, les numéros des formules de chèque volées ou
+perdues. 
 
 Le banquier enregistre les faits et les renseignements mentionnés ci-dessus. Il conserve cet enregistrement pendant un délai
 d'un an à compter de l'avis.
@@ -56335,10 +56473,13 @@ d'un an à compter de l'avis.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-84 (M)
-	  - Code monétaire et financier - art. R131-12 (M)
+	  - Code monétaire et financier - art. L131-84 (V)
 
 	**Cité par**:
 
@@ -56346,18 +56487,18 @@ d'un an à compter de l'avis.
 	  - Code monétaire et financier - art. R131-36 (V)
 
 
-##### Paragraphe 5 : Interdiction d'émettre des chèques prononcée par le juge pénal.
+##### Sous-section 5 : Interdiction d'émettre des chèques prononcée par le juge pénal.
 
 ###### Article R131-33
 
 Lorsque l'interdiction prévue par l'article L. 163-6 a été prononcée, le ministère public notifie sans délai la décision
-exécutoire à la Banque de France qui en accuse réception. Cette notification comporte les renseignements suivants :
+exécutoire à la Banque de France qui en accuse réception. Cette notification comporte les renseignements suivants : 
 
-1° La référence du parquet ;
+1° La référence du parquet ; 
 
-2° L'état civil complet du condamné, sa dernière adresse connue et, le cas échéant, le nom d'usage ;
+2° L'état civil complet du condamné, sa dernière adresse connue et, le cas échéant, le nom d'usage ; 
 
-3° L'indication de la juridiction qui a prononcé l'interdiction et la date de la décision ;
+3° L'indication de la juridiction qui a prononcé l'interdiction et la date de la décision ; 
 
 4° La durée de la mesure, sa date de prise d'effet ainsi que sa date d'expiration.
 
@@ -56372,12 +56513,16 @@ exécutoire à la Banque de France qui en accuse réception. Cette notification 
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L163-6 (M)
+	  - Code monétaire et financier - art. L163-6 (V)
 
 
-##### Paragraphe 6 : Déclaration à la Banque de France des violations des interdictions d'émettre des chèques.
+##### Sous-section 6 : Déclaration à la Banque de France des violations des interdictions d'émettre des chèques.
 
 ###### Article R131-34
 
@@ -56399,6 +56544,10 @@ effectuée au plus tard le deuxième jour ouvré suivant l'expiration de ce dél
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
 
 	**Cite**:
 
@@ -56428,9 +56577,13 @@ présentation.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L163-6 (M)
+	  - Code monétaire et financier - art. L163-6 (V)
 
 	**Cité par**:
 
@@ -56454,11 +56607,14 @@ Les déclarations prescrites par les articles R. 131-34 et R. 131-35 doivent com
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. R131-12 (M)
-	  - Code monétaire et financier - art. R131-34 (M)
-	  - Code monétaire et financier - art. R131-35 (M)
+	  - Code monétaire et financier - art. R131-32 (V)
+	  - Code monétaire et financier - art. R131-34 (V)
 
 
 ###### Article R131-37
@@ -56472,27 +56628,29 @@ aux dispositions des articles L. 131-73 ou L. 163-6.
 
 	**Anciens textes**:
 
-	  - Décret n°92-456 1992-05-22 art 24
 	  - Décret n°92-456 du 22 mai 1992 - art. 24 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-73 (M)
-	  - Code monétaire et financier - art. L163-6 (M)
-	  - Code monétaire et financier - art. R131-26 (M)
-	  - Code monétaire et financier - art. R131-34 (M)
-	  - Code monétaire et financier - art. R131-35 (M)
+	  - Code monétaire et financier - art. L131-73 (V)
+	  - Code monétaire et financier - art. L163-6 (V)
+	  - Code monétaire et financier - art. R131-26 (V)
+	  - Code monétaire et financier - art. R131-34 (V)
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R712-18 (V)
 
 
-##### Paragraphe 7 : Information de l'autorité judiciaire par la Banque de France.
+##### Sous-section 7 : Information de l'autorité judiciaire par la Banque de France.
 
 ###### Article R131-38
 
@@ -56511,10 +56669,14 @@ interdiction résultant de l'application des articles L. 131-73 ou L. 163-6.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-73 (M)
-	  - Code monétaire et financier - art. L163-6 (M)
+	  - Code monétaire et financier - art. L131-73 (V)
+	  - Code monétaire et financier - art. L163-6 (V)
 
 
 ###### Article R131-39
@@ -56535,9 +56697,13 @@ la date de prise d'effet de la deuxième interdiction suit immédiatement la dat
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L163-6 (M)
+	  - Code monétaire et financier - art. L163-6 (V)
 
 
 ###### Article R131-40
@@ -56557,6 +56723,10 @@ de compte.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R131-41 (V)
@@ -56565,13 +56735,13 @@ de compte.
 
 ###### Article R131-41
 
-La demande présentée en application de l'article R. 131-40 doit préciser :
+La demande présentée en application de l'article R. 131-40 doit préciser : 
 
 1° Lorsqu'elle concerne une personne physique, son nom patronymique, ses prénoms, date et lieu de naissance et, le cas
-échéant, le nom d'usage ;
+échéant, le nom d'usage ; 
 
 2° Lorsqu'elle concerne une personne morale, sa dénomination ou raison sociale, son numéro national d'entreprise si elle en
-est pourvue, l'adresse de son siège et sa forme juridique.
+est pourvue, l'adresse de son siège et sa forme juridique. 
 
 Dans sa réponse, la Banque de France indique, s'il y a lieu, que les chèques impayés lui ont été signalés comme ayant été
 émis en infraction aux dispositions des articles L. 131-73 ou L. 163-6. Elle indique également, s'il y a lieu, que la
@@ -56589,27 +56759,31 @@ articles et précise les caractéristiques de cette interdiction.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-73 (M)
-	  - Code monétaire et financier - art. L163-6 (M)
-	  - Code monétaire et financier - art. R131-40 (M)
+	  - Code monétaire et financier - art. L131-73 (V)
+	  - Code monétaire et financier - art. L163-6 (V)
+	  - Code monétaire et financier - art. R131-40 (V)
 
 
-##### Paragraphe 8 : Information des banquiers par la Banque de France.
+##### Sous-section 8 : Information des banquiers par la Banque de France.
 
 ###### Article R131-42
 
 La Banque de France informe tout banquier intéressé des interdictions d'émettre des chèques résultant de l'application des
 articles L. 131-73 ou L. 163-6, au plus tard le deuxième jour ouvré suivant la réception de l'avis envoyé par
-l'administration des impôts en application de l'article L. 131-85.
+l'administration des impôts en application de l'article L. 131-85. 
 
 Dans les mêmes délais, la Banque de France informe tout banquier intéressé des levées des interdictions résultant de
 l'application de l'article L. 131-73, des annulations et des nouvelles déclarations d'incidents effectuées en application des
-articles R. 131-27 et R. 131-28, et des annulations effectuées en application de l'article R. 131-27.
+articles R. 131-27 et R. 131-28, et des annulations effectuées en application de l'article R. 131-27. 
 
 Les banquiers sont réputés avoir connaissance des informations mentionnées aux alinéas ci-dessus au plus tard le troisième
-jour suivant leur réception.
+jour suivant leur réception. 
 
 Préalablement à l'enregistrement des informations mentionnées aux deux premiers alinéas, le banquier s'assure de la
 concordance entre ces informations et les éléments d'identification dont il dispose, notamment le numéro du compte, le nom,
@@ -56629,13 +56803,16 @@ délai prévu au troisième alinéa.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-73 (M)
-	  - Code monétaire et financier - art. L131-85 (M)
-	  - Code monétaire et financier - art. L163-6 (M)
-	  - Code monétaire et financier - art. R131-27 (M)
-	  - Code monétaire et financier - art. R131-28 (M)
+	  - Code monétaire et financier - art. L131-73 (V)
+	  - Code monétaire et financier - art. L131-85 (V)
+	  - Code monétaire et financier - art. L163-6 (V)
+	  - Code monétaire et financier - art. R131-27 (V)
 
 	**Cité par**:
 
@@ -56658,6 +56835,10 @@ chèques enregistrés dans son fichier central au nom de toute personne désign�
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
 
 	**Cité par**:
 
@@ -56685,6 +56866,10 @@ Les réponses doivent être conservées pendant deux ans.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 
 ###### Article R131-45
 
@@ -56705,8 +56890,12 @@ diffusion par la Banque de France.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
 
-##### Paragraphe 9 : Dispositions diverses.
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
+
+##### Sous-section 9 : Dispositions diverses.
 
 ###### Article R131-46
 
@@ -56738,6 +56927,10 @@ Les documents remis au bénéficiaire comportent les renseignements énumérés 
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L131-73 (M)
@@ -56766,13 +56959,17 @@ L'avis est annexé au chèque lors de la restitution de celui-ci au présentateu
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 
 ###### Article R131-48
 
 Le certificat de non-paiement prévu par l'article L. 131-73 doit être conforme à un modèle fixé par arrêté conjoint du garde
 des sceaux, ministre de la justice, et du ministre chargé de l'économie. Il doit comporter tous renseignements permettant
 d'identifier le tireur et le tiré, ainsi que les numéro et montant du chèque dont le paiement a été refusé. Ce certificat est
-délivré par le tiré au plus tard quinze jours après la demande du porteur.
+délivré par le tiré au plus tard quinze jours après la demande du porteur. 
 
 Dans le cas d'une nouvelle présentation infructueuse et passé le délai de trente jours prévu à l'article L. 131-73, le
 banquier tiré délivre d'office le certificat de non-paiement au porteur du chèque, le cas échéant par l'intermédiaire du
@@ -56789,13 +56986,17 @@ banquier de celui-ci. Cette délivrance se fera sans frais pour le porteur.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cité par**:
 
 	  - Arrêté du 20 avril 2011 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-73 (M)
+	  - Code monétaire et financier - art. L131-73 (V)
 
 
 ###### Article R131-49
@@ -56828,6 +57029,10 @@ Le certificat de non-paiement fait l'objet d'une publicité par le greffier dans
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 
 ###### Article R131-50
 
@@ -56844,6 +57049,10 @@ chèque au titulaire du compte.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
 
 
 ###### Article R131-51
@@ -56863,48 +57072,13 @@ pour laquelle cette opposition ne peut être admise.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-35 (M)
-
-
-##### Section 2 : Le chèque postal.
-
-###### Article R131-52
-
-La Banque de France et les autorités de contrôle propres à chaque catégorie d'établissements tirés veillent, conformément aux
-dispositions législatives en vigueur, au respect par les banquiers des dispositions de la section première du chapitre Ier du
-titre III du livre Ier du présent code.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-456 1992-05-22 art 42 (ecqc les chèques)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
-
-
-###### Article R131-53
-
-Les règles spécifiques au chèque postal sont fixées par les articles R. 52-10, R. 52-11 et D. 488 à D. 520 du code des postes
-et des communications électroniques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+	  - Code monétaire et financier - art. L131-35 (V)
 
 
 #### Chapitre II : La carte de paiement.
@@ -67288,8 +67462,7 @@ est servi aux déposants puisse excéder 1,05 % ni être inférieure à 0,95 %.
 ###### Article R221-25
 
 Les taux des intérêts servis par la Caisse nationale d'épargne à ses déposants ne peuvent être supérieurs à ceux servis par
-les caisses d'épargne et de prévoyance pour les livrets de même catégorie, à l'exception des livrets supplémentaire et livret
-jeune.
+les caisses d'épargne et de prévoyance pour les livrets de même catégorie.
 
 **Liens relatifs à cet article**
 
@@ -67300,6 +67473,14 @@ jeune.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 3
 
 
 ###### Article R221-26
@@ -70418,17 +70599,17 @@ tout paiement au titre de cette/ ces créance (s) à... " ;
 
 Lorsque la créance est cédée en vertu d'un contrat d'affacturage, la société d'affacturage doit, dans le cadre de la
 notification au débiteur cédé de cette cession de créance, en application des articles L. 313-23 à L. 313-35, faire figurer
-sur la facture afférente à la créance qui lui a été cédée, les mentions obligatoires suivantes :
+sur la facture afférente à la créance qui lui a été cédée, les mentions obligatoires suivantes : 
 
-1° Le nom de la société d'affacturage, comme suit :
+1° Le nom de la société d'affacturage, comme suit : 
 
-"La créance relative à la présente facture a été cédée à... dans le cadre des articles L. 313-23 à L. 313-35 du code
-monétaire et financier" ;
+" La créance relative à la présente facture a été cédée à... dans le cadre des articles L. 313-23 à L. 313-35 du code
+monétaire et financier " ; 
 
-2° Le mode de règlement, comme suit :
+2° Le mode de règlement, comme suit : 
 
-"Le paiement doit être effectué par chèque, traite, billets, etc., établi à l'ordre de (nom de la société d'affacturage ou de
-son mandataire)... et adressé à... ou par virement au compte n° ... chez... ou au CCP n° ..."
+" Le paiement doit être effectué par chèque, traite, billets, etc., établi à l'ordre de (nom de la société d'affacturage ou
+de son mandataire)... et adressé à... ou par virement au compte n°... chez....
 
 **Liens relatifs à cet article**
 
@@ -70440,9 +70621,13 @@ son mandataire)... et adressé à... ou par virement au compte n° ... chez... o
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
 	**Cite**:
 
-	  - Code monétaire et financier L313-23 à L313-35
+	  - Code monétaire et financier - art. L313-23 (V)
 
 
 ###### Article R313-17
@@ -77414,9 +77599,9 @@ chargé des postes et télécommunications et par le ministre chargé de l'écon
 
 La gestion administrative et commerciale du livret A, assurée par l'établissement de crédit mentionné à l'article L. 518-26
 pour le compte de l'Etat, dans les conditions prévues par l'article R. 518-46, fait l'objet d'une commission prenant en
-compte le coût de collecte, les gains de productivité et une incitation à la collecte, selon des modalités fixées par le
-contrat de plan. Cette commission est due à l'établissement de crédit mentionné à l'article L. 518-26 quel que soit le
-rendement du portefeuille géré par la Caisse des dépôts et consignations.
+compte le coût de collecte, les gains de productivité et une incitation à la collecte, selon des modalités fixées par la
+convention mentionnée à l'article L. 518-26. Cette commission est due à l'établissement de crédit mentionné à l'article L.
+518-26 quel que soit le rendement du portefeuille géré par la Caisse des dépôts et consignations.
 
 **Liens relatifs à cet article**
 
@@ -77426,12 +77611,16 @@ rendement du portefeuille géré par la Caisse des dépôts et consignations.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L518-26 (M)
-	  - Code monétaire et financier - art. R518-46 (M)
+	  - Code monétaire et financier - art. L518-26
+	  - Code monétaire et financier - art. R518-46
 
 
 ###### Article R518-49
@@ -77482,8 +77671,9 @@ d'épargne prévu par la loi du 5 décembre 1922 sur les habitations à loyer mo
 ###### Article R518-51
 
 Les actes relatifs aux cessions, aux saisies conservatoires et aux saisies-attribution pratiquées à l'encontre des titulaires
-de compte de la Caisse nationale d'épargne sont notifiés au siège de l'établissement de crédit mentionné à l'article L.
-518-26.
+d'un compte de la Caisse nationale d'épargne ne sont valablement notifiés qu'au siège social de l'établissement de crédit
+mentionné à l'article L. 518-26 ou au lieu de domiciliation du compte du titulaire. Ils ne peuvent être notifiés dans un
+bureau de poste.
 
 **Liens relatifs à cet article**
 
@@ -77493,7 +77683,11 @@ de compte de la Caisse nationale d'épargne sont notifiés au siège de l'établ
 
 	**Modifié par**:
 
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
 
 	**Anciens textes**:
 
@@ -77501,7 +77695,7 @@ de compte de la Caisse nationale d'épargne sont notifiés au siège de l'établ
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L518-26 (M)
+	  - Code monétaire et financier - art. L518-26
 
 	**Cité par**:
 
