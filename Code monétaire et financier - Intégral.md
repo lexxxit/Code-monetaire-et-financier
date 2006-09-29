@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-09-07
+Version Consolidée au 2006-09-30
 
 # Partie législative
 
@@ -87723,6 +87723,93 @@ Les articles D. 517-1 à D. 517-3 et D. 517-6 à D. 517-7 sont applicables en No
 	  - Code monétaire et financier D517-1 à D517-3, D517-6 à D517-7
 
 
+##### Section 2 : Les services financiers de l'office des postes et télécommunications
+
+###### Article R745-4-1
+
+Les articles R. 741-1 à R. 741-3, à l'exception de la référence à l'article R. 131-10 figurant dans l'article R. 741-3, ainsi
+que les articles R. 741-5 et R. 745-10 sont applicables aux services financiers de l'office des postes et télécommunications
+de Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1201 du 28 septembre 2006 - art. 1 () JORF 30 septembre 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1452 du 24 décembre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R131-10 (M)
+	  - Code monétaire et financier - art. R741-5 (V)
+	  - Code monétaire et financier - art. R745-10 (M)
+	  - Code monétaire et financier R741-1 à R741-3, R131-10, R741-5, R745-10
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R745-4-3 (V)
+
+
+###### Article R745-4-2
+
+L'office des postes et télécommunications peut, à titre exceptionnel, autoriser des découverts sur les comptes qu'il gère
+dans des conditions définies par une convention conclue avec les titulaires des comptes. Cette convention fixe notamment le
+montant maximum des dépassements de provision autorisés et le mode de calcul des agios auxquels ils donnent lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1201 du 28 septembre 2006 - art. 1 () JORF 30 septembre 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1452 du 24 décembre 2012 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R745-4-4 (V)
+
+
+###### Article R745-4-3
+
+Trois mois avant la fin du délai fixé à l'article L. 745-7-6, l'office des postes et télécommunications avise, par lettre
+recommandée avec accusé de réception, les titulaires de comptes ou leurs ayants droit de la déchéance encourue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1201 du 28 septembre 2006 - art. 1 () JORF 30 septembre 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1452 du 24 décembre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L745-7-6 (V)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R745-4-5 (V)
+
+
 ##### Section 3 : Les changeurs manuels
 
 ###### Article R745-5
@@ -88921,6 +89008,93 @@ Les articles D. 517-1 à D. 517-3 et D. 517-6 à D. 517-7 sont applicables en Po
 	**Cite**:
 
 	  - Code monétaire et financier D517-1 à D517-3, D517-6 à D517-7
+
+
+##### Section 1 bis : Les services financiers de l'office des postes et télécommunications
+
+###### Article R755-4-1
+
+Les articles R. 751-1 à R. 751-3, à l'exception de la référence à l'article R. 131-10 figurant dans l'article R. 751-3, ainsi
+que les articles R. 751-5 et R. 755-10 sont applicables aux services financiers de l'office des postes et télécommunications
+de Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1201 du 28 septembre 2006 - art. 2 () JORF 30 septembre 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1452 du 24 décembre 2012 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R131-10 (M)
+	  - Code monétaire et financier - art. R751-5 (V)
+	  - Code monétaire et financier - art. R755-10 (M)
+	  - Code monétaire et financier R751-1 à R751-3, R131-10, R751-5, R755-10
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R755-4-3 (V)
+
+
+###### Article R755-4-2
+
+L'office des postes et télécommunications peut, à titre exceptionnel, autoriser des découverts sur les comptes qu'il gère
+dans des conditions définies par une convention conclue avec les titulaires des comptes. Cette convention fixe notamment le
+montant maximum des dépassements de provision autorisés et le mode de calcul des agios auxquels ils donnent lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1201 du 28 septembre 2006 - art. 2 () JORF 30 septembre 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1452 du 24 décembre 2012 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R755-4-4 (V)
+
+
+###### Article R755-4-3
+
+Trois mois avant la fin du délai fixé à l'article L. 755-7-6, l'office des postes et télécommunications avise, par lettre
+recommandée avec accusé de réception, les titulaires de comptes ou leurs ayants droit de la déchéance encourue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1201 du 28 septembre 2006 - art. 2 () JORF 30 septembre 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1452 du 24 décembre 2012 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L755-7-6 (V)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R755-4-5 (V)
 
 
 ##### Section 2 : Les changeurs manuels
