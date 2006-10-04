@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-09-30
+Version Consolidée au 2006-10-05
 
 # Partie législative
 
@@ -86226,6 +86226,34 @@ Les articles R. 214-116 à R. 214-143 sont applicables à Mayotte.
 	**Cite**:
 
 	  - Code monétaire et financier
+
+
+##### Section 2 : Produits d'épargne
+
+##### Sous-section 1 : Epargne-logement
+
+###### Article R732-8
+
+Les règles relatives à l'épargne-logement sont applicables à Mayotte dans les conditions prévues à l'article R. 315-43 du
+code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1215 du 3 octobre 2006 - art. 2 () JORF 5 octobre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation.
 
 
 #### Chapitre III : Les services.
