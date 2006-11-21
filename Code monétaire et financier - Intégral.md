@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-10-05
+Version Consolidée au 2006-11-22
 
 # Partie législative
 
@@ -63248,7 +63248,7 @@ mentionnés à l'article L. 214-40.
 ###### Article D214-71
 
 Les demandes établies par les entreprises afin d'obtenir la reconnaissance du caractère innovant de leurs produits, procédés
-ou techniques, mentionnée à l'article L. 214-41, sont déposées auprès de l'Agence nationale de valorisation de la recherche.
+ou techniques, mentionnée à l'article L. 214-41, sont déposées auprès de la société OSEO ANVAR.
 
 Elles doivent être accompagnées :
 
@@ -63265,9 +63265,14 @@ prévisionnelle pour les trois années suivantes ;
 4° Du plan de financement du projet ainsi que des bilans et des comptes de résultats prévisionnels de l'entreprise pour les
 trois premières années où il sera mis en oeuvre.
 
-Ces demandes sont instruites dans les mêmes conditions que les demandes d'aides à l'innovation attribuées par l'Agence
-nationale de valorisation de la recherche. Elles font l'objet d'une décision du directeur général de l'agence ou de son
-délégué prise après avis de la commission territoriale d'attribution des aides à l'innovation.
+Ces demandes sont instruites dans les mêmes conditions que les demandes d'aides à l'innovation attribuées par la société OSEO
+ANVAR. Elles font l'objet d'une décision du directeur général de l'agence ou de son délégué prise après avis de la commission
+territoriale d'attribution des aides à l'innovation.
+
+Pour l'instruction des demandes déposées par les sociétés mentionnées au premier alinéa du 1 du I quinquies de l'article L.
+214-41, la société OSEO ANVAR peut demander en tant que de besoin à ces dernières de lui produire les documents prévus aux 1°
+à 4° pour chaque filiale mentionnée au d du 1 du I quinquies précité, ainsi que les documents prévus aux 3° et 4° pour
+chacune des autres sociétés mentionnées à ce même 1 du I quinquies.
 
 **Liens relatifs à cet article**
 
@@ -63278,6 +63283,10 @@ délégué prise après avis de la commission territoriale d'attribution des aid
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1414 du 20 novembre 2006 - art. 2 () JORF 22 novembre 2006
 
 	**Cite**:
 
