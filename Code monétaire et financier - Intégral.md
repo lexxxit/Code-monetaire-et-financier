@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-12-23
+Version Consolidée au 2006-12-27
 
 # Partie législative
 
@@ -447,6 +447,8 @@ désigné.
 
 #### Chapitre Ier : Les monnaies métalliques
 
+##### Section 1 : Les pièces métalliques
+
 ###### Article L121-1
 
 Sous réserve de celles qui ont cours légal en France, les pièces métalliques de fabrication étrangère ne peuvent être admises
@@ -458,6 +460,10 @@ dans les caisses publiques en paiement de droits et de contributions de quelque 
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
+
 	**Anciens textes**:
 
 	  - Code des instruments monétaires et des médailles - art. 18 (Ab)
@@ -465,14 +471,18 @@ dans les caisses publiques en paiement de droits et de contributions de quelque 
 
 ###### Article L121-2
 
-Les pièces métalliques sont fabriquées en France par l'Etat. Toutefois, la fabrication des monnaies françaises de billon peut
-être confiée à l'industrie privée, dans des conditions fixées par voie réglementaire.
+Les pièces métalliques ayant cours légal et pouvoir libératoire destinées à la circulation en France sont fabriquées par la
+Monnaie de Paris.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
 
 	**Cité par**:
 
@@ -484,6 +494,123 @@ Les pièces métalliques sont fabriquées en France par l'Etat. Toutefois, la fa
 	  - Code des instruments monétaires et des médailles 1 et 3
 	  - Code des instruments monétaires et des médailles - art. 1 (Ab)
 	  - Code des instruments monétaires et des médailles - art. 3 (Ab)
+
+
+##### Section 2 : La Monnaie de Paris
+
+###### Article L121-3
+
+La Monnaie de Paris est un établissement public de l'Etat à caractère industriel et commercial. Cet établissement est
+chargé :
+
+1° A titre exclusif, de fabriquer pour le compte de l'Etat les pièces métalliques mentionnées à l'article L. 121-2 ;
+
+2° De fabriquer et commercialiser pour le compte de l'Etat les monnaies de collection françaises ayant cours légal et pouvoir
+libératoire ;
+
+3° De lutter contre la contrefaçon des pièces métalliques et procéder à leur expertise et à leur contrôle, dans les
+conditions prévues à l'article L. 162-2 ;
+
+4° De fabriquer et commercialiser les instruments de marque, tous les poinçons de garantie des matières d'or, d'argent et de
+platine, les monnaies métalliques courantes étrangères, les monnaies de collection étrangères ainsi que les décorations ;
+
+5° De conserver, protéger, restaurer et présenter au public ses collections historiques et mettre en valeur le patrimoine
+immobilier historique dont il a la gestion ;
+
+6° De préserver, développer et transmettre son savoir-faire artistique et technique ; il peut à ce titre, et en complément de
+ses autres missions, fabriquer et commercialiser des médailles, jetons, fontes, bijoux et autres objets d'art.
+
+La Monnaie de Paris peut, pour garantir des coûts compétitifs, assurer en tout ou partie la fabrication des flans nécessaires
+à la frappe des monnaies métalliques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 523 (V)
+	  - Code monétaire et financier - art. L121-5 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L121-2 (M)
+	  - Code monétaire et financier - art. L162-2 (M)
+
+
+###### Article L121-4
+
+L'établissement public La Monnaie de Paris est régi par les dispositions de la loi n° 83-675 du 26 juillet 1983 relative à la
+démocratisation du secteur public qui s'appliquent aux établissements mentionnés au 1 de son article 1er. 
+
+En vue de l'élection de leurs représentants au conseil d'administration, les personnels de l'établissement sont, par
+dérogation au chapitre II du titre II de la loi n° 83-675 du 26 juillet 1983 précitée, répartis en plusieurs collèges dans
+des conditions propres à assurer la représentation de toutes les catégories de personnels. 
+
+Par dérogation à l'article 9 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et au
+chapitre II de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de
+l'Etat, les fonctionnaires techniques en fonction dans l'établissement public La Monnaie de Paris participent à son
+organisation et à son fonctionnement ainsi qu'à la gestion de son action sociale, par l'intermédiaire des institutions
+représentatives prévues aux titres II et III du livre IV du code du travail. Des adaptations justifiées par la situation
+particulière de ces fonctionnaires techniques peuvent être apportées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 9 (V)
+	  - Loi n°83-675 du 26 juillet 1983 (V)
+	  - Loi n°84-16 du 11 janvier 1984 -  Chapitre II : Organismes consultatifs. (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006 rectificatif JORF 20 janvier 2007
+
+
+###### Article L121-5
+
+Les ressources de l'établissement public sont constituées notamment par les recettes tirées des activités mentionnées à
+l'article L. 121-3, les autres produits liés à l'exploitation des biens qui lui sont apportés, remis en dotation ou qu'il
+acquiert, les dons et legs ainsi que les produits d'emprunts et autres dettes financières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L121-3 (V)
+
+
+###### Article L121-6
+
+Les modalités d'application de la présente section sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
 
 
 #### Chapitre II : Les billets de banque
@@ -5716,11 +5843,10 @@ articles 442-1 à 442-15 du code pénal.
 ###### Article L162-2
 
 Toute personne qui a reçu des signes monétaires contrefaits ou falsifiés a l'obligation de les remettre ou de les faire
-remettre à la Banque de France ou à l'administration des monnaies et médailles, selon qu'il s'agit de billets de banque ou de
-monnaies métalliques.
+remettre à la Banque de France ou à la Monnaie de Paris, selon qu'il s'agit de billets de banque ou de monnaies métalliques.
 
-La Banque de France et l'administration des monnaies et médailles sont habilitées à retenir et éventuellement à détruire les
-signes monétaires qu'elles reconnaissent comme contrefaits ou falsifiés.
+La Banque de France et la Monnaie de Paris sont habilitées à retenir et éventuellement à détruire les signes monétaires
+qu'elles reconnaissent comme contrefaits ou falsifiés.
 
 **Liens relatifs à cet article**
 
@@ -5730,7 +5856,7 @@ signes monétaires qu'elles reconnaissent comme contrefaits ou falsifiés.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 19 () JORF 7 mai 2005
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
 
 	**Cité par**:
 
@@ -10959,9 +11085,9 @@ Les dispositions du 4° et du 5° de l'article L. 214-36 s'appliquent dans les m
 dans l'innovation sous réserve du respect du I bis du présent article et du quota d'investissement de 60 % qui leur est
 propre.
 
-I bis. - Sont également éligibles au quota d'investissement de 60 % mentionné au I, dans la limite de 20 % de l'actif du
-fonds, les titres mentionnés au 3 de l'article L. 214-36, sous réserve que la société émettrice réponde aux conditions
-mentionnées au I, à l'exception de celle tenant à la non-cotation.
+I bis. - Sont également éligibles au quota d'investissement de 60 % mentionné au I les titres mentionnés au 3 de l'article L.
+214-36 dans la limite, pour les titres qui sont admis aux négociations sur un marché réglementé, de 20 % de l'actif du fonds,
+sous réserve que la société émettrice réponde aux conditions prévues au I, à l'exception de celle tenant à la non-cotation.
 
 I ter. - Abrogé.
 
@@ -11011,6 +11137,13 @@ le pouvoir de décision ;
 
 - ou bien lorsqu'elles sont placées l'une et l'autre dans les conditions définies à l'alinéa précédent sous le contrôle d'une
 même tierce société.
+
+**Nota:**
+
+Loi 2006-1666 2006-12-21 Finances pour 2007 art. 65 VIII : 
+
+Le présent article s'applique à compter du 1er janvier 2007 aux fonds communs de placement dans l'innovation agréés par
+l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -11076,14 +11209,9 @@ même tierce société.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cite**:
-
-	  - CGI 244 quater B, 34
-	  - Code monétaire et financier - art. L214-36 (M)
-
 	**Modifié par**:
 
-	  - loi n°2006-450 du 18 avril 2006 - art. 29 () JORF 19 avril 2006
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 65 (V) JORF 27 décembre 2006
 
 
 ##### Sous-section 13 : Fonds d'investissement de proximité
