@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-12-27
+Version Consolidée au 2006-12-30
 
 # Partie législative
 
@@ -60772,15 +60772,24 @@ placement collectif en valeurs mobilières sont :
 
 2° Soit admis à la négociation sur un marché réglementé en fonctionnement régulier d'un Etat ni membre de la Communauté
 européenne, ni partie à l'accord sur l'Espace économique européen pour autant que ce marché ne figure pas sur une liste de
-marchés exclus établie par l'Autorité des marchés financiers.
+marchés exclus établie par l'Autorité des marchés financiers ;
 
-Sont assimilés à des instruments financiers admis à la négociation sur un marché réglementé les instruments financiers émis
-dès lors que leur admission à la négociation a été demandée. Toutefois, cette assimilation cesse de produire effet un an
-après l'émission, si, à cette date, l'admission à la négociation n'a pas été obtenue.
+3° Soit négociés sur un marché d'instruments financiers non mentionné au 1°, ouvert au public et en fonctionnement régulier,
+dont les règles d'organisation sont approuvées par l'Autorité des marchés financiers à la demande de la personne qui gère ce
+marché, et qui se soumet aux dispositions du règlement général de cette même autorité relatives aux abus de marché ;
 
-II. - Sont assimilés à des actifs admis à la négociation sur un marché réglementé mentionnés aux 1° et 2° du I les titres de
-créance négociables émis sur le fondement du droit français ou d'un droit étranger et soumis à un contrôle public particulier
-visant à protéger les détenteurs de ces titres et répondant à chacune des quatre conditions suivantes :
+4° Soit négociés sur un marché d'instruments financiers non mentionné aux 1° et 3°, ouvert au public et en fonctionnement
+régulier, dont le siège est fixé dans un Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur
+l'Espace économique européen, et ayant des règles d'organisation et de protection des investisseurs comparables à celles des
+marchés relevant du 3° et reconnues par l'autorité compétente de ce même Etat partie.
+
+Sont assimilés à des instruments financiers mentionnés au 1° à 4° les instruments financiers émis dès lors que leur admission
+à la négociation a été demandée. Toutefois, cette assimilation cesse de produire effet un an après l'émission, si, à cette
+date, l'admission à la négociation n'a pas été obtenue.
+
+II. - Sont assimilés à des actifs admis à la négociation sur un marché relevant du I les titres de créance négociables émis
+sur le fondement du droit français ou d'un droit étranger et soumis à un contrôle public particulier visant à protéger les
+détenteurs de ces titres et répondant à chacune des quatre conditions suivantes :
 
 1° Préalablement à la première émission, l'émetteur rédige une documentation financière portant sur son activité et sa
 situation économique et financière et sur le programme d'émission ; il en assure la mise à jour au moins annuelle et
@@ -60829,7 +60838,7 @@ entité de titrisation bénéficiant d'une ligne de financement bancaire.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1542 2006-12-06 art. 4 3° JORF 8 décembre 2006
+	  - Décret n°2006-1726 du 23 décembre 2006 - art. 3 () JORF 30 décembre 2006
 
 	**Cite**:
 
@@ -62635,7 +62644,7 @@ spécifique.
 
 ###### Article R214-38
 
-Pour l'appréciation du quota de 50 % figurant au 1 de l'article L. 214-36 :
+I. - Pour l'appréciation du quota de 50 % figurant au 1 de l'article L. 214-36 :
 
 1° Le numérateur est constitué par le prix de souscription ou d'acquisition des titres ou droits du portefeuille et la valeur
 comptable des autres actifs.
@@ -62682,6 +62691,30 @@ régularise sa situation au plus tard lors de l'inventaire suivant sous réserve
 le service des impôts auprès duquel elle dépose sa déclaration de résultats dans le mois suivant l'inventaire ayant fait
 apparaître que le quota n'a pas été respecté et, d'autre part, qu'il s'agisse du premier manquement.
 
+II. - 1° Pour l'application du 3 de l'article L. 214-36, la capitalisation boursière d'une société est déterminée par le
+produit du nombre de ses titres de capital admis à la négociation à l'ouverture du jour de négociation précédant celui de
+l'investissement par la moyenne des cours d'ouverture des soixante jours de négociation précédant celui de l'investissement.
+
+Toutefois, lorsque durant ces soixante jours les titres de capital de la société sont pour la première fois admis à la
+négociation, la moyenne retenue est celle des cours d'ouverture des jours de négociation depuis le jour de l'admission à la
+négociation jusqu'au jour précédant celui de l'investissement. Il en est de même en cas d'augmentation de capital ou
+d'opération de fusion, scission ou apport partiel d'actif réalisée durant ces soixante jours et emportant admission à la
+négociation de nouveaux titres de capital de la société absorbante ou bénéficiaire.
+
+2° Par dérogation aux dispositions du 1°, en cas d'investissement le jour de la première cotation des titres de capital d'une
+société, sa capitalisation boursière est déterminée par le produit du nombre de titres de capital ainsi admis à la
+négociation par le prix auquel ces titres sont placés dans le public, à savoir le prix auquel ces titres sont vendus au
+public avant la première cotation.
+
+De même, en cas d'investissement le jour où de nouveaux titres de capital de la société sont admis à la négociation à la
+suite d'une augmentation de capital ou à une opération de fusion, scission ou apport partiel d'actif, sa capitalisation
+boursière est déterminée par le produit du nombre total des titres de capital de la société absorbante ou bénéficiaire admis
+à la négociation à l'issue de l'opération par le cours de clôture du dernier jour de négociation précédant l'admission à la
+négociation de ces nouveaux titres de capital.
+
+3° Le jour de l'investissement mentionné aux 1° et 2° s'entend du jour d'acquisition ou de souscription des titres de capital
+admis à la négociation.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -62692,6 +62725,10 @@ apparaître que le quota n'a pas été respecté et, d'autre part, qu'il s'agiss
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1726 du 23 décembre 2006 - art. 1 () JORF 30 décembre 2006
+
 	**Cite**:
 
 	  - Code de commerce L234-1, L237-1 à L237-13, L224-2
@@ -62699,12 +62736,12 @@ apparaître que le quota n'a pas été respecté et, d'autre part, qu'il s'agiss
 	  - Code de commerce. - art. L234-1 (M)
 	  - Code monétaire et financier - art. L214-36 (M)
 	  - Code monétaire et financier - art. R214-43 (M)
+	  - Code monétaire et financier - art. R214-44 (V)
 	  - Code monétaire et financier L214-36, 163, R214-43, R214-44
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 AM (V)
-	  - Code monétaire et financier - art. R214-44 (V)
 
 
 ###### Article R214-39
@@ -64108,6 +64145,64 @@ le fonds détient des participations.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+
+###### Article R214-73-1
+
+Pour les sociétés mentionnées au premier alinéa du 1 du I quinquies de l'article L. 214-41, l'effectif est déterminé par la
+somme de l'effectif de la société et de l'effectif de chacune des sociétés mentionnées au c du 1 du même I quinquies.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°97-237 du 14 mars 1997 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1726 du 23 décembre 2006 - art. 2 () JORF 30 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-922 du 1er août 2011 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-41
+
+
+###### Article R214-73-2
+
+Pour les sociétés mentionnées au premier alinéa du 1 du I quinquies de l'article L. 214-41, la condition relative à
+l'exclusivité des participations détenues est remplie lorsque les titres participatifs, les titres de capital ou donnant
+accès au capital émis par des sociétés autres que les sociétés filiales mentionnées au c du 1 du même I quinquies, ainsi que
+les avances en compte courant consenties à ces sociétés, représentent au plus 10 % de leur actif brut comptable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°97-237 du 14 mars 1997 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1726 du 23 décembre 2006 - art. 2 () JORF 30 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-922 du 1er août 2011 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-41
 
 
 ###### Article R214-74
