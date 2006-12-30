@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-12-30
+Version Consolidée au 2006-12-31
 
 # Partie législative
 
@@ -8709,7 +8709,7 @@ supérieure à 10 % des actifs.
 Un organisme de placement collectif en valeurs mobilières ne peut détenir plus de 10 % d'une même catégorie de valeurs
 mobilières d'un même émetteur. Un décret en Conseil d'Etat fixe les catégories de valeurs mobilières ainsi que les conditions
 dans lesquelles il peut être dérogé à cette limite. Ce seuil est porté à 25 % lorsque l'émetteur est une entreprise solidaire
-visée à l'article L. 443-3-1 du code du travail, et dont les fonds propres sont inférieurs à 150 000 euros.
+visée à l'article L. 443-3-2 du code du travail, et dont les fonds propres sont inférieurs à 150 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -8779,12 +8779,7 @@ visée à l'article L. 443-3-1 du code du travail, et dont les fonds propres son
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 58 1° JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L211-1 (M)
-	  - Code du travail - art. L443-3-1 (M)
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 37 () JORF 31 décembre 2006
 
 
 ###### Article L214-5
@@ -10735,9 +10730,10 @@ commerce (1) et du titre IV du livre IV du code du travail relatif à l'intéres
 prévoit l'institution d'un conseil de surveillance et les cas où la société de gestion doit recueillir l'avis de ce conseil.
 
 Le conseil de surveillance est composé de salariés représentant les porteurs de parts, eux-mêmes porteurs de parts et, pour
-moitié au plus, de représentants de l'entreprise ou, si le fonds réunit les valeurs acquises avec des sommes provenant de
-réserves de participation ou versées dans des plans d'épargne d'entreprise constitués dans plusieurs entreprises, des
-représentants de ces entreprises.
+moitié au plus, de représentants de l'entreprise. Lorsque le fonds réunit les valeurs acquises avec des sommes provenant de
+réserves de participation ou versées dans des plans d'épargne d'entreprise constitués dans plusieurs entreprises, le
+règlement détermine, dans des conditions fixées par décret, les modalités de représentation des entreprises dans le conseil
+de surveillance et de désignation de leurs représentants.
 
 Le règlement précise les modalités de désignation des représentants des porteurs de parts soit par élection, soit par choix
 opéré par le ou les comités d'entreprise intéressés ou par les organisations syndicales représentatives au sens de l'article
@@ -10789,10 +10785,10 @@ du plan d'épargne pour la retraite collectif mentionné à l'article L. 443-1-2
 est composé :
 
 a) Pour une part, comprise entre 5 et 10 %, de titres émis par des entreprises solidaires agréées en application de l'article
-L. 443-3-1 du code du travail ou par des sociétés de capital-risque visées à l'article 1er-1 de la loi n° 85-695 du 11
+L. 443-3-2 du code du travail ou par des sociétés de capital-risque visées à l'article 1er-1 de la loi n° 85-695 du 11
 juillet 1985 portant diverses dispositions d'ordre économique et financier ou par des fonds communs de placements à risques,
 visés à l'article L. 214-36, sous réserve que leur actif soit composé d'au moins 40 % de titres émis par des entreprises
-solidaires mentionnées à l'article L. 443-3-1 du code du travail ;
+solidaires mentionnées à l'article L. 443-3-2 du code du travail ;
 
 b) Pour le surplus, de valeurs mobilières admises aux négociations sur un marché réglementé, de parts d'organismes de
 placement collectif en valeurs mobilières investies dans ces mêmes valeurs et, à titre accessoire, de liquidités.
@@ -10805,8 +10801,8 @@ détenues par le fonds.
 
 **Nota:**
 
-NOTA : Les articles L. 225-187 et L. 225-194 du code de commerce ont été abrogés par l'article 29 4° de la loi n° 2001-152 du
-19 février 2001.
+Les articles L. 225-187 et L. 225-194 du code de commerce ont été abrogés par l'article 29 4° de la loi n° 2001-152 du 19
+février 2001.
 
 **Liens relatifs à cet article**
 
@@ -10822,7 +10818,7 @@ NOTA : Les articles L. 225-187 et L. 225-194 du code de commerce ont été abrog
 	  - Code du travail - art. L132-2 (M)
 	  - Code du travail - art. L442-7 (M)
 	  - Code du travail - art. L442-8 (Ab)
-	  - Code du travail - art. L443-3-1 (M)
+	  - Code du travail - art. L443-3-2 (AbD)
 	  - Code du travail - art. L443-6 (M)
 	  - Code du travail - art. L444-3 (M)
 
@@ -10883,7 +10879,8 @@ NOTA : Les articles L. 225-187 et L. 225-194 du code de commerce ont été abrog
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 24 () JORF 7 mai 2005
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 22 () JORF 31 décembre 2006
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 37 () JORF 31 décembre 2006
 
 
 ###### Article L214-40
@@ -10932,6 +10929,10 @@ l'information aux porteurs de parts.
 
 Les porteurs de parts peuvent opter pour un rachat en espèces des parts du fonds.
 
+Le règlement prévoit que les dividendes et les coupons attachés aux titres compris à l'actif du fonds sont distribués aux
+porteurs de parts, à leur demande expresse, suivant des modalités qu'il détermine. Il prévoit, le cas échéant, différentes
+catégories de parts.
+
 Dans une société dont les actions sont admises aux négociations sur un marché réglementé, un fonds rassemblant en majorité
 les actions de cette société détenues par des salariés ou anciens salariés doit être géré par un intermédiaire indépendant.
 
@@ -10947,15 +10948,22 @@ Lorsque l'entreprise est régie par la loi n° 47-1775 du 10 septembre 1947 pré
 peut investir dans les titres de capital qu'elle émet, sans préjudice des dispositions spécifiques qui régissent, le cas
 échéant, la souscription de ces titres par les salariés et dans les conditions fixées par décret.
 
+Lorsque les titres émis par l'entreprise ou toute société qui lui est liée au sens du second alinéa de l'article L. 444-3 du
+code du travail ne sont pas admis aux négociations sur un marché mentionné aux articles L. 421-3, L. 422-1 ou L. 423-1 du
+présent code, le fonds commun de placement d'entreprise peut être partie à un pacte d'actionnaires afin de favoriser la
+transmission de l'entreprise, la stabilité de l'actionnariat ou la liquidité du fonds.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°47-1775 1947-09-10
-	  - Loi n°2001-152 2001-02-19
 	  - Code monétaire et financier - art. L214-25 (M)
 	  - Code monétaire et financier - art. L214-31 (V)
 	  - Code monétaire et financier - art. L214-39 (M)
+	  - Code monétaire et financier - art. L421-3 (M)
+	  - Code monétaire et financier - art. L422-1 (M)
+	  - Code monétaire et financier - art. L423-1 (M)
 	  - Code du travail - art. L432-4 (T)
 	  - Code du travail - art. L432-4-2 (M)
 	  - Code du travail - art. L434-6 (T)
@@ -11016,14 +11024,18 @@ peut investir dans les titres de capital qu'elle émet, sans préjudice des disp
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 24 () JORF 7 mai 2005
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 35 (V) JORF 31 décembre 2006
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 36 () JORF 31 décembre 2006
 
 
 ###### Article L214-40-1
 
 Une société d'investissement à capital variable peut avoir pour objet la gestion d'un portefeuille de valeurs mobilières
 émises par l'entreprise ou par toute société qui lui est liée dans les conditions prévues à l'article L. 443-3 du code du
-travail. Les cinquième et sixième alinéas de l'article L. 214-40 s'appliquent à son conseil d'administration.
+travail. Les cinquième et sixième alinéas de l'article L. 214-40 s'appliquent à son conseil d'administration. Les statuts
+prévoient que les dividendes et les coupons attachés aux titres compris à l'actif de la société sont distribués aux
+actionnaires, à leur demande expresse, suivant des modalités qu'ils déterminent. Ils prévoient, le cas échéant, différentes
+catégories d'actions.
 
 **Liens relatifs à cet article**
 
@@ -11050,7 +11062,7 @@ travail. Les cinquième et sixième alinéas de l'article L. 214-40 s'appliquent
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 24 () JORF 7 mai 2005
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 35 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -12971,6 +12983,710 @@ Un décret en Conseil d'Etat fixe les modalités d'application des sections 1, 2
 
 ##### Section 5 : Les organismes de placement collectif immobilier
 
+##### Sous-section 1 : Dispositions communes
+
+##### Paragraphe 1 : Constitution et règles de composition de l'actif de l'organisme de placement collectif immobilier
+
+###### Article L214-92
+
+I. - Dans les conditions et limites fixées par décret en Conseil d'Etat, l'actif d'un organisme de placement collectif
+immobilier est exclusivement constitué :
+
+a) Des immeubles construits ou acquis, en vue de la location et des droits réels portant sur de tels biens et énumérés par le
+décret en Conseil d'Etat mentionné à l'alinéa précédent ;
+
+b) Des parts de sociétés de personnes qui ne sont pas admises aux négociations sur un marché mentionné aux articles L. 421-3,
+L. 422-1 et L. 423-1, et qui satisfont aux conditions suivantes :
+
+1° Les associés répondent du passif au-delà de leurs apports sauf dans les cas où, en application de l'article L. 214-55 ou
+d'une disposition équivalente de droit étranger, ils ne sont tenus du passif que dans la limite de leurs apports ;
+
+2° L'actif est principalement constitué d'immeubles acquis ou construits en vue de la location, de droits réels portant sur
+de tels biens, de droits détenus en qualité de crédit-preneur afférents à des contrats de crédit-bail portant sur des
+immeubles en vue de leur location, ou de participations directes ou indirectes dans des sociétés répondant aux conditions du
+présent b ;
+
+3° Les autres actifs sont des avances en compte courant visées à l'article L. 214-98, des créances résultant de leur activité
+principale, des liquidités mentionnées au i ou des instruments financiers à caractère liquide mentionnés au h ;
+
+4° Les instruments financiers qu'elles émettent ne sont pas admis aux négociations sur un marché mentionné aux articles L.
+421-3, L. 422-1 et L. 423-1 ;
+
+c) Des parts de sociétés de personnes autres que celles mentionnées au b, des parts ou des actions de sociétés autres que des
+sociétés de personnes qui ne sont pas admises aux négociations sur un marché mentionné aux articles L. 421-3, L. 422-1 et L.
+423-1. Ces sociétés satisfont aux conditions suivantes :
+
+1° La responsabilité des associés ou actionnaires est limitée au montant de leurs apports ;
+
+2° L'actif est principalement constitué d'immeubles acquis ou construits en vue de la location, de droits réels portant sur
+de tels biens, de droits détenus en qualité de crédit-preneur afférents à des contrats de crédit-bail portant sur des
+immeubles en vue de leur location ou de participations directes ou indirectes dans des sociétés répondant aux conditions des
+1°, 2° et 4° du b ou du présent c ;
+
+3° Les instruments financiers qu'elles émettent ne sont pas admis aux négociations sur un marché mentionné aux articles L.
+421-3, L. 422-1 et L. 423-1 ;
+
+d) Des actions négociées sur un marché mentionné aux articles L. 421-3, L. 422-1 et L. 423-1 et émises par une société dont
+l'actif est principalement constitué d'immeubles acquis ou construits en vue de la location, de droits réels portant sur de
+tels biens, de droits détenus en qualité de crédit-preneur afférents à des contrats de crédit-bail portant sur des immeubles
+en vue de leur location ou de participations directes ou indirectes dans des sociétés dont l'actif répond aux mêmes
+conditions ;
+
+e) Des parts ou actions d'organismes de placement collectif immobilier et de parts, actions ou droits détenus dans des
+organismes de droit étranger ayant un objet équivalent, quelle que soit leur forme ;
+
+f) Des instruments financiers mentionnés au I de l'article L. 211-1 admis aux négociations sur un marché mentionné aux
+articles L. 421-3, L. 422-1 et L. 423-1 ainsi que les instruments financiers énumérés au II de l'article L. 211-1 à
+l'exception de ceux prévus au 4 ;
+
+g) Des parts ou actions d'organismes de placement collectif en valeurs mobilières, à l'exception de ceux visés aux sous-
+sections 9 à 14 de la section 1 du chapitre IV du titre Ier du livre II, agréés par l'Autorité des marchés financiers ou
+autorisés à la commercialisation en France ;
+
+h) Des dépôts et des instruments financiers à caractère liquide définis par décret en Conseil d'Etat ;
+
+i) Des liquidités définies par décret en Conseil d'Etat ;
+
+j) Des avances en compte courant consenties en application de l'article L. 214-98.
+
+Un décret en Conseil d'Etat définit les règles de dispersion et de plafonnement des risques, notamment en matière de
+construction, applicables à l'organisme de placement collectif immobilier.
+
+II. - Un organisme de placement collectif immobilier et les sociétés mentionnées au b du I ne peuvent détenir d'actions,
+parts, droits financiers ou droits de vote dans une entité, quelle que soit sa forme, dont les associés ou membres répondent
+indéfiniment et solidairement des dettes de l'entité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-61 (V)
+	  - Arrêté du 12 novembre 2004 - art. 315-63 (V)
+	  - Arrêté du 12 novembre 2004 - art. 315-64 (V)
+	  - Arrêté du 12 novembre 2004 - art. 315-64-1 (V)
+	  - Arrêté du 12 novembre 2004 - art. 315-65 (V)
+	  - Arrêté du 12 novembre 2004 - art. 315-66 (V)
+	  - Arrêté du 12 novembre 2004 - art. 322-84-6 (V)
+	  - Arrêté du 12 novembre 2004 - art. 322-84-7 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 322-84-8 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-17 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-20 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-25 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-42 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-43 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-44 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-45 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-46 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-59 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-9 (V)
+	  - Code général des impôts, CGI. - art. 14 A (V)
+	  - Code général des impôts, CGI. - art. 208 C (V)
+	  - Code général des impôts, CGI. - art. 219 (V)
+	  - Code monétaire et financier - art. D214-192 (Ab)
+	  - Code monétaire et financier - art. D214-207 (Ab)
+	  - Code monétaire et financier - art. L214-107 (V)
+	  - Code monétaire et financier - art. L214-111 (V)
+	  - Code monétaire et financier - art. L214-118 (V)
+	  - Code monétaire et financier - art. L214-119 (V)
+	  - Code monétaire et financier - art. L214-124 (V)
+	  - Code monétaire et financier - art. L214-128 (V)
+	  - Code monétaire et financier - art. L214-130 (V)
+	  - Code monétaire et financier - art. L214-135 (V)
+	  - Code monétaire et financier - art. L214-139 (V)
+	  - Code monétaire et financier - art. L214-140 (V)
+	  - Code monétaire et financier - art. L214-93 (V)
+	  - Code monétaire et financier - art. L214-95 (V)
+	  - Code monétaire et financier - art. L214-98 (V)
+	  - Code monétaire et financier - art. L214-99 (V)
+	  - Code monétaire et financier - art. R214-160 (V)
+	  - Code monétaire et financier - art. R214-161 (V)
+	  - Code monétaire et financier - art. R214-162 (V)
+	  - Code monétaire et financier - art. R214-162-1 (Ab)
+	  - Code monétaire et financier - art. R214-163 (V)
+	  - Code monétaire et financier - art. R214-164 (V)
+	  - Code monétaire et financier - art. R214-165 (V)
+	  - Code monétaire et financier - art. R214-167 (V)
+	  - Code monétaire et financier - art. R214-170 (Ab)
+	  - Code monétaire et financier - art. R214-171 (V)
+	  - Code monétaire et financier - art. R214-172 (V)
+	  - Code monétaire et financier - art. R214-173 (V)
+	  - Code monétaire et financier - art. R214-174 (V)
+	  - Code monétaire et financier - art. R214-175 (V)
+	  - Code monétaire et financier - art. R214-176 (V)
+	  - Code monétaire et financier - art. R214-183 (V)
+	  - Code monétaire et financier - art. R214-185 (V)
+	  - Code monétaire et financier - art. R214-186 (V)
+	  - Code monétaire et financier - art. R214-187 (V)
+	  - Code monétaire et financier - art. R214-189 (V)
+	  - Code monétaire et financier - art. R214-194 (V)
+	  - Code monétaire et financier - art. R214-195 (Ab)
+	  - Code monétaire et financier - art. R214-200 (V)
+	  - Code monétaire et financier - art. R214-203 (V)
+	  - Code monétaire et financier - art. R214-33 (Ab)
+	  - Code monétaire et financier - art. R214-5 (Ab)
+	  - Code monétaire et financier - art. R214-82 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 140 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1 (M)
+	  - Code monétaire et financier - art. L214-55 (M)
+	  - Code monétaire et financier - art. L421-3 (M)
+	  - Code monétaire et financier - art. L422-1 (M)
+	  - Code monétaire et financier - art. L423-1 (M)
+
+
+###### Article L214-93
+
+Dans les conditions et limites fixées par décret en Conseil d'Etat, l'actif d'un organisme de placement collectif en
+immobilier est composé : 
+
+1° A hauteur de 60 % au moins d'actifs immobiliers. Dans le cas de la société de placement à prépondérance immobilière à
+capital variable, ces actifs immobiliers sont ceux mentionnés aux a à e du I de l'article L. 214-92, les actifs mentionnés
+aux a à c et au e du I de l'article précité devant représenter au minimum 51 % de l'actif. Dans le cas du fonds de placement
+immobilier, ces actifs sont ceux mentionnés aux a et b du I de l'article L. 214-92 et, sous réserve qu'il s'agisse d'une
+participation contrôlée, les parts de fonds de placement immobilier et de parts ou droits dans des organismes de droit
+étranger ayant un objet équivalent et de forme similaire mentionnés au e du même I ; 
+
+2° A hauteur de 10 % au moins d'actifs mentionnés au h et au i du I de l'article L. 214-92. Ces actifs doivent être libres de
+toutes sûretés ou droits au profit de tiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 422-204 (V)
+	  - Arrêté du 12 novembre 2004 - art. 422-205 (V)
+	  - Arrêté du 12 novembre 2004 - art. 422-238 (V)
+	  - Code monétaire et financier - art. L214-102 (V)
+	  - Code monétaire et financier - art. L214-107 (V)
+	  - Code monétaire et financier - art. L214-120 (Ab)
+	  - Code monétaire et financier - art. L214-140 (V)
+	  - Code monétaire et financier - art. L214-145 (V)
+	  - Code monétaire et financier - art. L214-90 (V)
+	  - Code monétaire et financier - art. L214-96 (V)
+	  - Code monétaire et financier - art. L214-99 (V)
+	  - Code monétaire et financier - art. R214-162-1 (Ab)
+	  - Code monétaire et financier - art. R214-167 (V)
+	  - Code monétaire et financier - art. R214-168 (V)
+	  - Code monétaire et financier - art. R214-169 (V)
+	  - Code monétaire et financier - art. R214-179 (Ab)
+	  - Code monétaire et financier - art. R214-180 (Ab)
+	  - Code monétaire et financier - art. R214-181 (Ab)
+	  - Code monétaire et financier - art. R214-189 (V)
+	  - Code monétaire et financier - art. R214-216 (Ab)
+	  - Code monétaire et financier - art. R214-219 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 140 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (V)
+
+
+##### Paragraphe 2 : Dispositions comptables et financières
+
+###### Article L214-106
+
+Le règlement d'un fonds de placement immobilier ou les statuts d'une société de placement à prépondérance immobilière à
+capital variable fixent la durée des exercices comptables qui ne peut excéder douze mois. Toutefois, le premier exercice peut
+s'étendre sur une durée supérieure sans excéder dix-huit mois.
+
+Dans un délai de six semaines à compter de la fin de chaque semestre de l'exercice, la société de placement à prépondérance
+immobilière à capital variable ou la société de gestion du fonds établissent l'inventaire de l'actif de l'organisme de
+placement collectif immobilier sous le contrôle du dépositaire.
+
+La société de placement à prépondérance immobilière à capital variable ou la société de gestion du fonds établit les comptes
+annuels de l'organisme de placement collectif immobilier et un rapport écrit sur la gestion de l'organisme de placement
+collectif immobilier dont le contenu, défini par décret en Conseil d'Etat, expose notamment la situation de l'endettement et
+de la liquidité de l'organisme de placement collectif immobilier. Ce rapport est mis à la disposition des actionnaires ou des
+porteurs de parts dans des conditions et limites précisées par le règlement général de l'Autorité des marchés financiers.
+
+Par dérogation aux dispositions du premier alinéa de l'article L. 123-22 du code de commerce, la comptabilité d'un organisme
+de placement immobilier peut être tenue en toute unité monétaire selon des modalités fixées par décret.
+
+Les documents mentionnés au présent article sont mis à la disposition du commissaire aux comptes dans les conditions fixées
+par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 323-19 (V)
+	  - Arrêté du 12 novembre 2004 - art. 424-44 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-49 (Ab)
+	  - Code monétaire et financier - art. R214-151 (V)
+	  - Code monétaire et financier - art. R214-206 (V)
+	  - Code monétaire et financier - art. R214-208 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 66 (V) JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L123-22 (M)
+
+
+###### Article L214-107
+
+Le résultat net de l'exercice d'un organisme de placement collectif immobilier est égal à la somme : 
+
+1° Des produits relatifs aux actifs immobiliers mentionnés aux a à c et au e du I de l'article L. 214-92 pour la société de
+placement à prépondérance immobilière à capital variable et aux a, b et e du I du même article pour le fonds de placement
+immobilier, diminués du montant des frais et charges y afférent ; 
+
+2° Des produits et rémunérations dégagés par la gestion des autres actifs diminués du montant des frais et charges y
+afférent ; 
+
+3° Des autres produits, diminués des frais de gestion et des autres frais et charges, qui ne peuvent être directement
+rattachés aux actifs mentionnés aux 1° et 2°. 
+
+Les modalités d'affectation des frais et charges du 1° à 3° sont définies par décret. 
+
+Pour l'application du présent article, les produits et plus-values réalisés par une société mentionnée au b du I de l'article
+L. 214-92 et par un fonds de placement immobilier ou un organisme de droit étranger, tels que mentionnés à la dernière phrase
+du 1° de l'article L. 214-93, sont réputés avoir été réalisés par le fonds de placement immobilier à concurrence de ses
+droits directs ou indirects dans cette société ou dans ce fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 140 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 14 A (V)
+	  - Code monétaire et financier - art. D214-207 (Ab)
+	  - Code monétaire et financier - art. L214-128 (V)
+	  - Code monétaire et financier - art. L214-140 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (V)
+	  - Code monétaire et financier - art. L214-93 (V)
+
+
+##### Paragraphe 5 : Société de gestion de l'organisme de placement collectif immobilier
+
+###### Article L214-119
+
+La gestion des organismes de placement collectif immobilier est assurée par une société de gestion de portefeuille mentionnée
+à l'article L. 532-9 et désignée dans les statuts ou le règlement de l'organisme de placement collectif immobilier.
+
+Lorsqu'elle gère au moins un organisme de placement collectif immobilier, la société de gestion de portefeuille peut gérer à
+titre principal des actifs immobiliers faisant l'objet de mandats de gestion spécifiques ou des sociétés civiles de placement
+immobilier et, à titre accessoire, exercer une activité de conseil en investissement immobilier. Pour gérer des organismes de
+placement collectif immobilier, des sociétés civiles de placement immobilier ou des actifs immobiliers dans le cadre de
+mandats de gestion, la société de gestion de portefeuille dispose d'un programme d'activité spécifique.
+
+Elle peut également être dirigeante des sociétés dans lesquelles l'organisme de placement collectif immobilier qu'elle gère
+détient les participations mentionnées aux b et c du I de l'article L. 214-92.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-60 (M)
+	  - Arrêté du 12 novembre 2004 - art. 315-61 (V)
+	  - Code des assurances - art. L160-19 (V)
+	  - Code général des impôts, CGI. - art. 199 ter-0 B (V)
+	  - Code général des impôts, CGI. - art. 242 ter B (V)
+	  - Code général des impôts, CGI. - art. 31 (V)
+	  - Code général des impôts, CGI. - art. 828 bis (V)
+	  - Code monétaire et financier - art. L214-67 (V)
+	  - Code monétaire et financier - art. L214-91 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 66 (V) JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (MMN)
+	  - Code monétaire et financier - art. L532-9 (M)
+
+
+##### Sous-section 2 : Règles particulières relatives aux sociétés de placement à prépondérance immobilière à capital variable
+
+###### Article L214-120
+
+La société de placement à prépondérance immobilière à capital variable est une société anonyme à capital variable soumise aux
+règles de la présente sous-section.
+
+Sous réserve des dispositions des articles L. 214-101 et L. 214-126 et dans les conditions fixées par le règlement général de
+l'Autorité des marchés financiers, les actions de la société de placement à prépondérance immobilière à capital variable sont
+émises et rachetées à la demande des actionnaires à la valeur liquidative majorée ou diminuée, selon le cas, des frais et
+commissions.
+
+Le montant du capital est égal à tout moment à la valeur de l'actif net de la société de placement à prépondérance
+immobilière à capital variable, déduction faite des sommes distribuables définies au I de l'article L. 214-128.
+
+Le capital initial d'une société de placement à prépondérance immobilière à capital variable ne peut être inférieur à un
+montant fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 66 (V) JORF 31 décembre 2006 Rectificatif JORF 20 janvier 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-101 (V)
+	  - Code monétaire et financier - art. L214-126 (V)
+	  - Code monétaire et financier - art. L214-128 (MMN)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L214-91 (V)
+	  - Code monétaire et financier - art. R214-29 (V)
+	  - Code monétaire et financier - art. R214-32 (V)
+	  - Code monétaire et financier - art. R214-33 (Ab)
+	  - Code monétaire et financier - art. R214-5-1 (Ab)
+
+
+###### Article L214-124
+
+Une société de placement à prépondérance immobilière à capital variable peut être constituée par apports en numéraire,
+apports en nature d'actifs immobiliers mentionnés à l'article L. 214-92, fusion ou scission. Elle peut aussi être constituée
+par fusion, scission ou transformation de sociétés civiles de placement immobilier. 
+
+Des apports en nature peuvent être effectués dans une société de placement à prépondérance immobilière à capital variable
+après sa constitution, notamment en cas de fusion avec une société civile de placement immobilier ou une autre société de
+placement à prépondérance immobilière à capital variable, ou lorsqu'une société civile de placement immobilier lui transmet,
+par voie de scission, une partie de son patrimoine. 
+
+La libération des apports et, après la constitution de la société, les souscriptions d'actions ne peuvent s'effectuer par
+compensation avec des créances liquides et exigibles détenues sur la société. 
+
+Le commissaire aux comptes apprécie, sous sa responsabilité, la valeur de tout apport en nature, au vu de l'estimation
+réalisée par deux évaluateurs immobiliers remplissant les conditions mentionnées à l'article L. 214-112 et désignés par la
+société de gestion. Le rapport du commissaire aux comptes est joint aux statuts et déposé au greffe du tribunal. Les statuts
+contiennent l'évaluation des apports en nature effectués lors de la constitution de la société de placement à prépondérance
+immobilière à capital variable. Les apports en nature effectués au cours de la vie de la société font l'objet d'une
+information des actionnaires dans les conditions définies par le règlement général de l'Autorité des marchés financiers. Un
+décret en Conseil d'Etat détermine les conditions d'application du présent alinéa. 
+
+Le règlement général de l'Autorité des marchés financiers fixe, le cas échéant par dérogation au deuxième alinéa de l'article
+L. 225-128 du code de commerce, les conditions et limites des apports effectués tant à la constitution qu'au cours de la vie
+de la société.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-16 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-17 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-22 (Ab)
+	  - Code forestier (nouveau) - art. L321-1 (VT)
+	  - Code monétaire et financier - art. L214-80 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 66 (V) JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-128 (V)
+	  - Code monétaire et financier - art. L214-112 (V)
+	  - Code monétaire et financier - art. L214-92 (V)
+
+
+###### Article L214-128
+
+I.-Les sommes distribuables par une société de placement à prépondérance immobilière à capital variable au titre d'un
+exercice sont constituées par : 
+
+1° Le résultat distribuable afférent aux produits réalisés par la société qui est égal au résultat net mentionné à l'article
+L. 214-107, augmenté du report à nouveau, majoré ou diminué du solde des comptes de régularisation définis par décret ; 
+
+2° Les plus-values de cession d'actifs réalisées au cours de l'exercice, nettes de frais et diminuées des moins-values nettes
+de frais réalisées au cours du même exercice, augmentées des plus-values nettes réalisées au cours d'exercices antérieurs
+n'ayant pas fait l'objet d'une distribution et majorées ou diminuées du solde des comptes de régularisation définis par
+décret. 
+
+II.-La société distribue à hauteur des sommes définies au I : 
+
+1° A hauteur de 85 % au moins, la fraction du résultat distribuable afférent aux produits des actifs mentionnés au a du I de
+l'article L. 214-92, au titre de l'exercice de leur réalisation. Pour la détermination du montant à distribuer, les produits
+nets sont diminués d'un abattement forfaitaire égal à 1,5 % du prix de revient des immeubles mentionnés au a du I de
+l'article L. 214-92 détenus directement par la société ; 
+
+2° A hauteur de 50 % au moins, les plus-values réalisées lors de la cession des actifs mentionnés au a du I de l'article L.
+214-92, des parts de sociétés mentionnées aux b ou c du même I qui ne sont pas passibles de l'impôt sur les sociétés ou d'un
+impôt équivalent, des parts ou actions de sociétés mentionnées au c du même I lorsqu'elles bénéficient d'un régime
+d'exonération d'impôt sur les sociétés sur leur activité immobilière et des parts ou actions d'organismes mentionnées au e du
+même I, au plus tard au titre de l'exercice suivant leur réalisation. Pour la détermination du montant à distribuer, les
+plus-values nettes réalisées sur les immeubles mentionnés au a du I de l'article L. 214-92 détenus directement par la société
+sont augmentées de l'abattement forfaitaire pratiqué conformément au 1° depuis leur acquisition ; 
+
+3° L'intégralité de la fraction du résultat distribuable afférent aux produits distribués par les sociétés mentionnée au c du
+I de l'article L. 214-92 lorsqu'elles bénéficient d'un régime d'exonération d'impôt sur les sociétés sur leur activité
+immobilière au titre de l'exercice de leur réalisation. 
+
+III.-Pour l'application des 1° et 2° du II, les produits et plus-values réalisés par une société mentionnée au b ou au c du I
+de l'article L. 214-92 et qui n'est pas passible de l'impôt sur les sociétés ou d'un impôt équivalent, ainsi que les produits
+et plus-values réalisés par les organismes mentionnés au e du même I, sont réputés réalisés, à concurrence de ses droits, par
+la société de placement à prépondérance immobilière à capital variable au titre de l'exercice qui suit celui au cours duquel
+la société mentionnée au b ou au c du I de l'article L. 214-92 ou l'organisme mentionné au e du même I a réalisé les produits
+ou les plus-values. 
+
+Ne sont pas pris en compte pour la détermination des montants à distribuer les produits et les plus-values relatifs à des
+actifs immobiliers situés hors de France lorsque les conventions fiscales conclues avec la France en vue d'éviter les doubles
+impositions en matière d'impôt sur les revenus prévoient l'imposition de ces produits et plus-values au lieu de situation des
+actifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-53 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 115 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 115 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter A bis (V)
+	  - Code monétaire et financier - art. D214-179 (V)
+	  - Code monétaire et financier - art. D214-207 (Ab)
+	  - Code monétaire et financier - art. L214-108 (V)
+	  - Code monétaire et financier - art. L214-120 (V)
+	  - Code monétaire et financier - art. L214-145 (V)
+	  - Code monétaire et financier - art. R214-162 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 140 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-107 (V)
+	  - Code monétaire et financier - art. L214-92 (V)
+
+
+##### Sous-section 3 : Règles particulières relatives aux fonds de placement immobilier
+
+###### Article L214-132
+
+Le fonds de placement immobilier est, dans les conditions prévues par le règlement général de l'Autorité des marchés
+financiers, constitué par une société de gestion de portefeuille chargée de sa gestion.
+
+La société de gestion établit le règlement du fonds.
+
+Ce règlement prévoit l'institution d'un conseil de surveillance composé uniquement de représentants des porteurs de parts. Ce
+conseil est composé de cinq membres au moins et de neuf membres au plus, dont un président élu par les membres, tenus à la
+discrétion sur les informations présentant un caractère confidentiel et données comme telles par le président. Il ne peut
+s'immiscer dans la gestion du fonds. Le règlement général de l'Autorité des marchés financiers fixe les conditions dans
+lesquelles il exerce sa mission, les conditions et les modalités de désignation de ses membres ainsi que les moyens mis à
+leur disposition. Les membres du conseil de surveillance sont responsables des fautes personnelles commises dans l'exécution
+de leur mandat. Ils n'encourent aucune responsabilité à raison des actes de la gestion et de leur résultat. Le règlement
+général de l'Autorité des marchés financiers fixe les règles relatives au cumul de mandats au sein des conseils de
+surveillance et détermine les règles d'incompatibilité.
+
+Chaque fois qu'il le juge nécessaire et au moins une fois par an, le conseil de surveillance établit un rapport rendant
+compte de sa mission. Le règlement général de l'Autorité des marchés financiers fixe les conditions dans lesquelles ce
+rapport est porté à la connaissance des porteurs de parts.
+
+L'alinéa précédent ne s'applique pas lorsque le document d'information prévu au III de l'article L. 214-91 prévoit que le
+fonds de placement immobilier est réservé à vingt porteurs de parts au plus ou à une catégorie d'investisseurs dont les
+caractéristiques sont définies par ce règlement général.
+
+La souscription ou l'acquisition de parts d'un fonds de placement immobilier emporte acceptation de son règlement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-4 (V)
+	  - Code monétaire et financier - art. L214-84-2 (Ab)
+	  - Code monétaire et financier - art. R214-200 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 66 (V) JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-91 (V)
+
+
+###### Article L214-135
+
+Un fonds de placement immobilier peut être constitué par apports en numéraire, apports en nature d'actifs immobiliers
+mentionnés à l'article L. 214-92, fusion ou scission. Il peut aussi être constitué par fusion, scission ou transformation de
+sociétés civiles de placement immobilier. 
+
+Des apports en nature peuvent être effectués dans un fonds de placement immobilier après sa constitution, notamment en cas de
+fusion avec une société civile de placement immobilier ou un autre fonds de placement immobilier ou lorsqu'une société civile
+de placement immobilier lui transmet, par voie de scission, une partie de son patrimoine. 
+
+La libération des apports et, après la constitution du fonds, les souscriptions de parts ne peuvent s'effectuer par
+compensation avec des créances liquides et exigibles détenues sur le fonds. 
+
+Le règlement général de l'Autorité des marchés financiers fixe les conditions et limites des apports au fonds. 
+
+La création de fonds de placement immobilier par voie de fusion ou de scission de sociétés civiles de placement immobilier,
+de même que la transformation de sociétés civiles de placement immobilier en fonds de placement immobilier, entraînent la
+dissolution des sociétés concernées et la transmission universelle de leur patrimoine au fonds sans qu'il y ait lieu à
+liquidation. 
+
+Le commissaire aux comptes apprécie, sous sa responsabilité, la valeur de tout apport en nature, au vu de l'estimation
+réalisée par deux évaluateurs immobiliers remplissant les conditions mentionnées à l'article L. 214-112 et désignés par la
+société de gestion. Lorsque l'apport en nature est effectué lors de la constitution du fonds de placement immobilier, le
+règlement contient l'évaluation de ces apports. Le rapport du commissaire aux comptes est joint au règlement. Il est mis à la
+disposition des porteurs de parts. Les apports en nature effectués après la constitution du fonds de placement immobilier
+font l'objet d'une information des porteurs dans les conditions définies par le règlement général de l'Autorité des marchés
+financiers. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application de cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-16 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-17 (Ab)
+	  - Code monétaire et financier - art. L214-80 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 66 (V) JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-112 (V)
+	  - Code monétaire et financier - art. L214-92 (V)
+
+
+###### Article L214-140
+
+I.-Les sommes distribuables par un fonds de placement immobilier au titre d'un exercice sont constituées par : 
+
+1° Le résultat distribuable afférent aux produits réalisés par le fonds, qui est égal au résultat net mentionné à l'article
+L. 214-107, augmenté du report à nouveau, majoré ou diminué du solde des comptes de régularisation tels que définis par
+décret ; 
+
+2° Les plus-values de cession d'actifs mentionnés aux a et b du I de l'article L. 214-92, et au e du même I tels que définis
+à la dernière phrase du 1° de l'article L. 214-93, réalisées au cours de l'exercice, nettes de frais, majorées des plus-
+values de même nature réalisées au cours d'exercices antérieurs n'ayant pas fait l'objet d'une distribution et, le cas
+échéant, diminuées ou augmentées du solde des comptes de régularisation tels que définis par décret ; 
+
+3° Les plus-values de cession d'actifs autres que ceux mentionnés aux a et b du I de l'article L. 214-92 réalisées au cours
+de l'exercice, nettes de frais et diminuées des moins-values nettes de frais réalisées au cours du même exercice, majorées
+des plus-values de même nature réalisées au cours d'exercices antérieurs n'ayant pas fait l'objet d'une distribution et, le
+cas échéant, diminuées ou augmentées du solde des comptes de régularisation tels que définis par décret. 
+
+Pour l'application du I, les produits et plus-values réalisés par une société mentionnée au b du I de l'article L. 214-92 et
+par un fonds de placement immobilier ou organisme de droit étranger, tels que mentionnés à la dernière phrase du 1° de
+l'article L. 214-93, sont réputés réalisés par le fonds de placement immobilier à concurrence de ses droits directs ou
+indirects dans cette société ou dans ce fonds. 
+
+II.-Le fonds de placement immobilier distribue : 
+
+1° A hauteur de 85 % au moins, la fraction du résultat distribuable au sens du 1° du I relative aux actifs suivants : 
+
+a) Actifs immobiliers mentionnés au a du I de l'article L. 214-92 que le fonds détient directement ou par l'intermédiaire,
+selon le cas, d'une société mentionnée à l'article L. 214-139 ou d'un fonds de placement immobilier ou d'un organisme de
+droit étranger similaire mentionnés à la dernière phrase du 1° de l'article L. 214-93, au titre de l'année de leur
+réalisation. Pour la détermination du montant à distribuer, les produits nets sont diminués d'un abattement forfaitaire égal
+à 1,5 % du prix de revient des immeubles détenus directement par le fonds ; 
+
+b) Autres actifs que le fonds détient directement ou par l'intermédiaire d'une société mentionnée à l'article L. 214-139 au
+titre de l'exercice de leur réalisation. 
+
+2° A hauteur de 85 % au moins, les plus-values distribuables, mentionnées au 2° du I, réalisées aux cours de l'exercice,
+diminuées le cas échéant de l'abattement prévu au I de l'article 150 VC du code général des impôts, réalisées par le fonds ou
+par l'intermédiaire d'une société mentionnée à l'article L. 214-139 : 
+
+a) Lors de la cession des actifs immobiliers mentionnés au a du I de l'article L. 214-92 au titre de l'année de cession ; 
+
+b) Lors de la cession des parts de sociétés mentionnées au b du I de l'article L. 214-92, au titre de l'année de cession ; 
+
+c) Lors de la cession des parts de fonds de placement immobilier ou d'organismes de droit étranger, tels que mentionnés à la
+dernière phrase du 1° de l'article L. 214-93.
+
+3° A hauteur de 85 % au moins, les plus-values réalisées directement par le fonds et par l'intermédiaire, selon le cas, d'une
+société mentionnée à l'article L. 214-139, d'un fonds de placement immobilier ou d'un organisme de droit étranger, tels que
+mentionnés à la dernière phrase du 1° de l'article L. 214-93, lors de la cession des actifs autres que ceux mentionnés au 2°,
+au titre de l'exercice de leur réalisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-53 (Ab)
+	  - Code général des impôts, CGI. - art. 137 ter (V)
+	  - Code général des impôts, CGI. - art. 150 UC (V)
+	  - Code général des impôts, CGI. - art. 150-0 F (V)
+	  - Code général des impôts, CGI. - art. 199 ter-0 B (V)
+	  - Code général des impôts, CGI. - art. 239 nonies (V)
+	  - Code général des impôts, CGI. - art. 31 (V)
+	  - Code monétaire et financier - art. D214-207 (Ab)
+	  - Code monétaire et financier - art. L214-108 (V)
+	  - Code monétaire et financier - art. L214-141 (V)
+	  - Code monétaire et financier - art. R214-162 (V)
+	  - Code monétaire et financier - art. R214-186 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 140 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-107 (V)
+	  - Code monétaire et financier - art. L214-139 (V)
+	  - Code monétaire et financier - art. L214-92 (V)
+	  - Code monétaire et financier - art. L214-93 (V)
+
+
 ##### Sous-section 5 : Organismes de placement collectif immobilier à compartiments
 
 ###### Article L214-146
@@ -14172,9 +14888,9 @@ Les sommes versées sur un plan d'épargne en actions ne peuvent être employée
 conditions mentionnées à l'article 80 bis du code général des impôts ;
 
 2° Les titres ou parts dont la souscription a permis au titulaire du plan de bénéficier des avantages fiscaux résultant des
-dispositions des 2° quater et 2° quinquies de l'article 83, des articles 83 ter, 163 septdecies, 199 undecies (1), 199
-undecies A et 199 terdecies A, du I bis de l'article 163 bis C du code général des impôts, ainsi que du deuxième alinéa du II
-de l'article 726 du même code ne peuvent figurer dans le plan ;
+dispositions des 2° quater et 2° quinquies de l'article 83, des articles 83 ter, 199 unvicies, 199 undecies (1), 199 undecies
+A et 199 terdecies A, du I bis de l'article 163 bis C du code général des impôts, ainsi que du deuxième alinéa du II de
+l'article 726 du même code ne peuvent figurer dans le plan ;
 
 3° Le titulaire du plan, son conjoint et leurs ascendants et descendants ne doivent pas, pendant la durée du plan, détenir
 ensemble, directement ou indirectement, plus de 25 % des droits dans les bénéfices de sociétés dont les titres figurent au
@@ -14186,15 +14902,16 @@ dans les mêmes conditions que les versements.
 
 **Nota:**
 
-NOTA : L'article 199 undecies a été périmé par l'article 1er du décret n° 2003-933 du 30 septembre 2003.
+L'article 199 undecies a été périmé par l'article 1er du décret n° 2003-933 du 30 septembre 2003.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 44 sexies, 208, 208 C, 150-0 A, 80 bis, 163 bis C, 726
+	  - CGI 44 sexies, 208, 150-0 A, 80 bis, 163 bis C, 726, 83, 83 ter, 199 unvicies, 199 undecies, 199 undecies A, 199 terdecies A
 	  - Loi n°47-1775 1947-09-10
-	  - Code monétaire et financier L221-30 à L221-32, 208, 83
+	  - Décret n°2003-933 du 30 septembre 2003 - art. 1, v. init.
+	  - Code monétaire et financier L221-30 à L221-32
 	  - Code des assurances - art. L131-1 (M)
 	  - Directive 85-611 CE 1985-12-20
 
@@ -14202,9 +14919,9 @@ NOTA : L'article 199 undecies a été périmé par l'article 1er du décret n° 
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 41 () JORF 7 mai 2005
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 102 (V) JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -19448,15 +20165,37 @@ plusieurs mandats, et des produits et services faisant l'objet du démarchage.
 
 ###### Article L341-6
 
-Les personnes mentionnées à l'article L. 341-3 et celles mandatées en application du I de l'article L. 341-4, selon
-respectivement leur nature ou la nature de leur mandant, font enregistrer en tant que démarcheurs, auprès de l'Autorité des
-marchés financiers, du Comité des établissements de crédit et des entreprises d'investissement et du Comité des entreprises
-d'assurance les personnes salariées, employées ou mandataires à qui elles confient le soin de se livrer pour leur compte à
-des actes de démarchage bancaire ou financier. Ces dispositions sont applicables aux conseillers en investissements
-financiers personnes physiques lorsqu'ils sont mandatés par l'une des personnes mentionnées à l'article L. 341-3 et par
-celles mandatées en application du I de l'article L. 341-4.
+Les personnes mentionnées à l'article L. 341-3, selon leur nature, font enregistrer en tant que démarcheurs auprès de
+l'Autorité des marchés financiers, du Comité des établissements de crédit et des entreprises d'investissement et du Comité
+des entreprises d'assurance :
 
-Ne sont pas soumises aux dispositions de l'alinéa précédent les personnes morales mentionnées au 1° de l'article L. 341-3
+1° Leurs personnels salariés ou employés à qui elles confient le soin de se livrer pour leur compte à des actes de démarchage
+bancaire ou financier ;
+
+2° Les personnes physiques ou les personnes morales mandataires à qui elles confient le soin de se livrer pour leur compte à
+des actes de démarchage bancaire ou financier, ainsi que les salariés ou employés de ces personnes ;
+
+3° Les personnes physiques mandatées à cet effet par les personnes morales mandatées au 2° ainsi que les salariés de ces
+personnes physiques ;
+
+4° Leur représentant légal ou leurs dirigeants ainsi que celui ou ceux d'une des personnes mentionnées aux 2° et 3° lorsque
+ces personnes se livrent ou recourent à des activités de démarchage bancaire ou financier.
+
+Les établissements ou entreprises agréés dans un autre Etat membre de la Communauté européenne ou dans un Etat partie à
+l'accord sur l'Espace économique européen habilités à intervenir sur le territoire français font enregistrer, dans les mêmes
+conditions, les personnes mentionnées aux deuxième à cinquième alinéas auprès de l'autorité compétente en France à laquelle a
+été notifiée par l'autorité d'origine compétente pour ces établissements et entreprises la déclaration d'intervention sur le
+territoire français au titre de leurs activités bénéficiant de la reconnaissance mutuelle des agréments.
+
+Lorsqu'un conseiller en investissements financiers défini à l'article L. 541-1 a recours à des personnes physiques pour
+exercer une activité de démarchage portant exclusivement sur les opérations prévues au 5° de l'article L. 341-1, ces
+personnes sont enregistrées pour le compte du conseiller en investissements financiers par l'association, agréée par
+l'Autorité des marchés financiers en application de l'article L. 541-4, à laquelle il adhère.
+
+Les personnes mentionnées au 1° de l'article L. 341-3 peuvent utiliser les services d'une autre personne mentionnée au même
+article afin de procéder à l'enregistrement des démarcheurs auxquels elles ont recours.
+
+Ne sont pas soumises aux dispositions des alinéas précédents les personnes morales mentionnées au 1° de l'article L. 341-3
 pour ceux de leurs salariés ou employés qui ne se livrent à aucun acte de démarchage impliquant un déplacement physique du
 démarcheur au domicile des personnes démarchées, sur leur lieu de travail ou dans les lieux non destinés à la
 commercialisation de produits, instruments et services financiers. Ces personnes morales doivent à tout moment être en mesure
@@ -19464,23 +20203,21 @@ de justifier, à la demande des personnes démarchées, de la qualité de salari
 leur compte à un acte de démarchage.
 
 Lorsqu'une personne physique, salariée, employée ou mandataire exerce une activité de démarchage pour le compte de plusieurs
-personnes morales mentionnées à l'article L. 341-3, chacune de ces personnes morales est tenue de faire enregistrer ce
-démarcheur auprès des autorités mentionnées au premier alinéa.
+personnes mentionnées à l'article L. 341-3, chacune de ces personnes est tenue de faire enregistrer ce démarcheur auprès des
+autorités mentionnées au premier alinéa.
 
-L'autorité saisie aux fins d'enregistrement dans les conditions prévues aux premier et troisième alinéas attribue à chaque
-démarcheur un numéro d'enregistrement. Ce numéro d'enregistrement doit obligatoirement être communiqué par le démarcheur à
-toute personne démarchée et doit figurer sur tous les documents émanant des démarcheurs.
+L'autorité saisie aux fins d'enregistrement dans les conditions prévues aux premier à huitième alinéas et au dixième alinéa
+attribue à chaque démarcheur un numéro d'enregistrement. Ce numéro d'enregistrement doit obligatoirement être communiqué par
+le démarcheur à toute personne démarchée et doit figurer sur tous les documents émanant des démarcheurs.
 
-Les personnes morales mentionnées à l'article L. 341-3 et les personnes mandatées en application du I de l'article L. 341-4
-sont tenues de s'assurer auprès de toutes les personnes salariées, employées ou mandataires à qui elles confient le soin de
-se livrer pour leur compte à des actes de démarchage bancaire ou financier, sur la base des informations que celles-ci
-fournissent, qu'elles remplissent les conditions exigées à l'article L. 341-9 et, s'agissant des mandataires, aux articles L.
-341-4 et L. 341-5.
+Les personnes mentionnées à l'article L. 341-3 et les personnes mandatées en application du I de l'article L. 341-4 sont
+tenues de s'assurer auprès de toutes les personnes mentionnées aux deuxième à cinquième alinéas, sur la base des informations
+que celles-ci fournissent, qu'elles remplissent les conditions exigées à l'article L. 341-9 et, s'agissant des mandataires,
+aux articles L. 341-4 et L. 341-5.
 
-Les personnes morales ayant fait enregistrer en tant que démarcheurs les personnes salariées, employées ou mandataires à qui
-elles confient pour leur compte des activités de démarchage bancaire ou financier doivent, lorsque les personnes enregistrées
-ne remplissent plus les conditions d'enregistrement, en informer l'autorité auprès de laquelle l'enregistrement a été
-effectué.
+Les personnes ayant fait enregistrer en tant que démarcheurs les personnes mentionnées aux deuxième à cinquième alinéas
+doivent, lorsque les personnes enregistrées ne remplissent plus les conditions d'enregistrement, en informer l'autorité
+auprès de laquelle l'enregistrement a été effectué.
 
 **Liens relatifs à cet article**
 
@@ -19513,7 +20250,7 @@ effectué.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 63 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -20844,7 +21581,7 @@ l'émission ou la cession d'instruments financiers :
 3° Emis par la Banque centrale européenne ou la banque centrale d'un Etat partie à l'accord sur l'Espace économique
 européen ;
 
-4° Emis par un organisme mentionné au 1 du I de l'article L. 214-1.
+4° Emis par un organisme mentionné au 1 ou au 5 du I de l'article L. 214-1.
 
 II. - Ne constitue pas une opération par appel public à l'épargne l'émission ou la cession d'instruments financiers lorsque :
 
@@ -20949,7 +21686,7 @@ l'épargne.
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 25 () JORF 27 juillet 2005
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 66 (V) JORF 31 décembre 2006
 
 
 #### Chapitre II : Conditions de l'appel public à l'épargne
@@ -26493,11 +27230,24 @@ organes dirigeants des personnes morales concernées doivent au préalable avoir
 derniers sont chargés de la liquidation des établissements de crédit qui leur sont affiliés ou de la cession totale ou
 partielle de leur fonds de commerce.
 
+Les organes centraux notifient toute décision d'affiliation ou de retrait d'affiliation à l'établissement concerné et au
+Comité des établissements de crédit et des entreprises d'investissement.
+
+Peut être affilié à plusieurs organes centraux tout établissement de crédit qui est directement ou indirectement sous leur
+contrôle conjoint, au sens de l'article L. 233-16 du code de commerce, et dont l'activité est nécessaire au fonctionnement
+des réseaux de ces organes centraux. Une convention passée entre les organes centraux définit les modalités d'exercice de
+leurs pouvoirs respectifs sur l'établissement affilié ainsi que de mise en oeuvre de leurs obligations à son égard, en
+particulier en matière de liquidité et de solvabilité. Les organes centraux notifient toute affiliation multiple au Comité
+des établissements de crédit et des entreprises d'investissement, qui peut subordonner l'agrément ou l'autorisation de
+prendre ou détenir le contrôle conjoint de l'établissement concerné au respect d'engagements pris par les organes centraux
+sur les principes de mise en oeuvre de l'affiliation.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°47-1775 1947-09-10 art. 19 tervicies
+	  - Code de commerce. - art. L233-16 (M)
 	  - Code monétaire et financier - art. L511-30 (M)
 
 	**Anciens textes**:
@@ -26532,7 +27282,7 @@ partielle de leur fonds de commerce.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 55 () JORF 7 mai 2005
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 42 () JORF 31 décembre 2006
 
 
 ###### Article L511-32
@@ -36053,9 +36803,9 @@ Seuls peuvent exercer les activités de conservation ou d'administration d'instr
 engagements, à condition que ces membres ou associés soient des établissements ou entreprises mentionnées aux 2° et 3°
 habilités en vue de l'administration ou de la conservation d'instruments financiers ;
 
-5° Les personnes morales établies en France exerçant le service de conservation ou d'administration d'instruments financiers,
-y compris dans le cadre des plans mentionnés aux articles L. 443-1, L. 443-1-1 et L. 443-1-2 du code du travail et des
-accords mentionnés aux articles L. 442-5 du code du travail ;
+5° Les personnes morales établies en France ayant pour objet principal ou unique l'activité de conservation ou
+d'administration d'instruments financiers, ainsi que celles ayant pour objet exclusif d'administrer une ou plusieurs
+institutions de retraite professionnelle collective ;
 
 6° Les institutions mentionnées à l'article L. 518-1 ;
 
@@ -36150,7 +36900,7 @@ autorités compétentes de chaque Etat.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 10 () JORF 24 mars 2006
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 64 (V) JORF 31 décembre 2006
 
 
 #### Chapitre III : Les sociétés de gestion d'organismes de placement collectif
@@ -42330,6 +43080,8 @@ de l'opération. Son taux, fixé par décret, ne peut être supérieur à 0,20 p
 donnant accès ou pouvant donner accès au capital et à 0,05 pour mille lorsque l'opération est réalisée sur des titres de
 créance.
 
+La même contribution est due en cas de rachat de titres dans le cadre du programme de rachat que l'émetteur met en oeuvre.
+
 Cette contribution est exigible le jour de la clôture de l'opération ou, dans le cas d'un rachat de titres, le jour de la
 publication du résultat de l'opération. Son montant ne peut être inférieur à 1 000 euros lorsque l'opération porte sur des
 titres donnant accès ou pouvant donner accès au capital, et ne peut être supérieur à 5 000 euros dans les autres cas ;
@@ -42339,21 +43091,21 @@ calculée comme suit :
 
 a) Pour les personnes mentionnées aux 1° et 2° du II de l'article L. 621-9, la contribution est fixée à un montant par
 service d'investissement pour lequel elles sont agréées autre que le service d'investissement mentionné au 4 de l'article L.
-321-1, et par service connexe pour lequel elles sont habilitées fixé par décret et supérieur à 2 000 euros et inférieur ou
-égal à 3 000 euros. Ce montant est multiplié par deux si les fonds propres de la personne concernée sont supérieurs à 45
+321-1, et par service connexe pour lequel elles sont habilitées fixé par décret et supérieur à 3 000 euros et inférieur ou
+égal à 5 000 euros. Ce montant est multiplié par deux si les fonds propres de la personne concernée sont supérieurs à 45
 millions d'euros et inférieurs ou égaux à 75 millions d'euros, par trois s'ils sont supérieurs à 75 millions d'euros et
 inférieurs ou égaux à 150 millions d'euros, par quatre s'ils sont supérieurs à 150 millions d'euros et inférieurs ou égaux à
 750 millions d'euros, par six s'ils sont supérieurs à 750 millions d'euros et inférieurs ou égaux à 1,5 milliard d'euros et
 par huit s'ils sont supérieurs à 1,5 milliard d'euros ; la contribution due par l'ensemble des personnes relevant d'un même
 groupe ou par l'ensemble constitué par les personnes affiliées à un organe central au sens de l'article L. 511-30 et par cet
-organe ne peut excéder 250 000 euros ;
+organe ne peut excéder un montant fixé par décret et supérieur à 250 000 Euros et inférieur ou égal à 1,5 million d'euros ;
 
 b) Pour les personnes mentionnées au 4° du II de l'article L. 621-9, la contribution est égale à un montant fixé par décret
 et supérieur à 500 euros et inférieur ou égal à 1 000 euros ;
 
 c) Pour les personnes mentionnées aux 3°, 5° et 6° du II de l'article L. 621-9, la contribution est fixée à un montant égal à
 leur produit d'exploitation réalisé au cours de l'exercice précédent et déclaré au plus tard dans les trois mois suivant sa
-clôture, multiplié par un taux fixé par décret qui ne peut dépasser 0,3 % ;
+clôture, multiplié par un taux fixé par décret qui ne peut dépasser 0,9 % ;
 
 d) Pour les prestataires de services d'investissement habilités à exercer le service d'investissement mentionné au 4 de
 l'article L. 321-1 ainsi que pour les personnes mentionnées aux 7° et 8° du II de l'article L. 621-9, la contribution est
@@ -42372,11 +43124,6 @@ III. - Les décrets prévus par le présent article sont pris après avis du col
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 7 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -42406,6 +43153,10 @@ III. - Les décrets prévus par le présent article sont pris après avis du col
 	  - Code monétaire et financier - art. R621-16 (V)
 	  - Code monétaire et financier - art. R621-17 (V)
 	  - Code monétaire et financier - art. R621-19 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 111 () JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -42953,11 +43704,11 @@ l'article L. 542-1 ;
 
 12° Les dépositaires d'organismes de placement collectif ;
 
-12° Les personnes morales administrant des institutions de retraite professionnelle collectives mentionnées au I de l'article
+13° Les personnes morales administrant des institutions de retraite professionnelle collectives mentionnées au I de l'article
 8 de l'ordonnance n° 2006-344 du 23 mars 2006 ou des plans d'épargne pour la retraite collectifs mentionnés à l'article L.
 443-1-2 du code du travail ;
 
-13° Les évaluateurs immobiliers.
+14° Les évaluateurs immobiliers.
 
 Pour les personnes ou entités autres que celles fournissant des services mentionnés au 4 de l'article L. 321-1 ou que les
 personnes ou entités mentionnées aux 7°, 8°, 10° et 11° ci-dessus, pour lesquelles l'Autorité des marchés financiers est
@@ -42967,13 +43718,6 @@ seule compétente, le contrôle s'exerce sous réserve des compétences de la Co
 L'Autorité des marchés financiers est également chargée d'assurer le respect, par les prestataires de services
 d'investissement mentionnés à l'article L. 532-18, des dispositions législatives et réglementaires qui leur sont applicables,
 dans les conditions prévues aux articles L. 532-19 à L. 532-21.
-
-**Nota:**
-
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -43035,11 +43779,6 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 	  - Code monétaire et financier - art. R621-45 (V)
 	  - Livre des procédures fiscales - art. L135 F (V)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
-	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 10 () JORF 24 mars 2006
-
 	**Cite**:
 
 	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 8, v. init.
@@ -43053,6 +43792,10 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 	  - Code monétaire et financier - art. L542-1 (M)
 	  - Code monétaire et financier L214-4, L542-1, L421-8, L341-3, L341-4, L321-1, L141-4, L532-18, L532-19 à L532-21
 	  - Code du travail - art. L443-1-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 64 (V) JORF 31 décembre 2006
 
 
 ###### Article L621-9-1
@@ -43417,12 +44160,12 @@ rendre publique la transmission.
 II. - La commission des sanctions peut, après une procédure contradictoire, prononcer une sanction à l'encontre des personnes
 suivantes :
 
-a) Les personnes mentionnées aux 1° à 8°, 11° et 12° du II de l'article L. 621-9, au titre de tout manquement à leurs
+a) Les personnes mentionnées aux 1° à 8° et 11° à 14° du II de l'article L. 621-9, au titre de tout manquement à leurs
 obligations professionnelles définies par les lois, règlements et règles professionnelles approuvées par l'Autorité des
 marchés financiers en vigueur, sous réserve des dispositions de l'article L. 613-21 ;
 
-b) Les personnes physiques placées sous l'autorité ou agissant pour le compte de l'une des personnes mentionnées aux 1° à 8°,
-11° et 12° du II de l'article L. 621-9 au titre de tout manquement à leurs obligations professionnelles définies par les
+b) Les personnes physiques placées sous l'autorité ou agissant pour le compte de l'une des personnes mentionnées aux 1° à 8°
+et 11° à 14° du II de l'article L. 621-9 au titre de tout manquement à leurs obligations professionnelles définies par les
 lois, règlements et règles professionnelles approuvées par l'Autorité des marchés financiers en vigueur, sous réserve des
 dispositions de l'article L. 613-21 ;
 
@@ -43550,8 +44293,7 @@ désigne. Les frais sont supportés par les personnes sanctionnées.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 10 () JORF 24 mars 2006
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 64 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -44128,8 +44870,14 @@ des actionnaires est informée des opérations mentionnées au présent article.
 ###### Article L621-18-3
 
 Les personnes morales faisant appel public à l'épargne rendent publiques les informations relevant des matières mentionnées
-au dernier alinéa des articles L. 225-37 et L. 225-68 du code de commerce dans des conditions fixées par le règlement général
-de l'Autorité des marchés financiers. Celle-ci établit chaque année un rapport sur la base de ces informations.
+aux deux derniers alinéas des articles L. 225-37 et L. 225-68 du code de commerce dans des conditions fixées par le règlement
+général de l'Autorité des marchés financiers. Celle-ci établit chaque année un rapport sur la base de ces informations et
+peut approuver toute recommandation qu'elle juge utile.
+
+**Nota:**
+
+Loi 2006-1770 2006-12-30 art. 62 V : Ces dispositions s'appliquent aux options consenties et aux actions attribuées à compter
+de la date de publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -44145,12 +44893,7 @@ de l'Autorité des marchés financiers. Celle-ci établit chaque année un rappo
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-37 (M)
-	  - Code de commerce. - art. L225-68 (M)
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 62 () JORF 31 décembre 2006
 
 
 ###### Article L621-18-4
