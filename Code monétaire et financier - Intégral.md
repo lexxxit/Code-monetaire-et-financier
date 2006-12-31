@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-01
 
 # Partie législative
 
@@ -13197,6 +13197,50 @@ toutes sûretés ou droits au profit de tiers.
 	  - Code monétaire et financier - art. L214-92 (V)
 
 
+###### Article L214-95
+
+Un organisme de placement collectif immobilier peut contracter des emprunts dans la limite de 40 % de la valeur des actifs
+immobiliers mentionnés aux a à c et au e du I de l'article L. 214-92.
+
+Pour l'appréciation de cette limite, il est tenu compte de l'ensemble des emprunts et dettes souscrits par l'organisme de
+placement collectif immobilier, par les sociétés visées aux b et c du I de l'article L. 214-92 et par les organismes visés au
+e du même I, à concurrence du pourcentage de participation détenue directement ou indirectement par l'organisme dans ces
+sociétés ou organismes. 
+
+Les obligations relatives à l'information des actionnaires et des porteurs de parts sur les conditions dans lesquelles
+l'organisme de placement collectif immobilier peut recourir à l'endettement sont précisées par le règlement général de
+l'Autorité des marchés financiers. 
+
+Les conditions d'application du présent article, notamment en ce qui concerne la capacité et la nature de l'endettement, sont
+fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 140 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L214-96 (V)
+	  - Code monétaire et financier - art. L214-97 (V)
+	  - Code monétaire et financier - art. R214-162 (V)
+	  - Code monétaire et financier - art. R214-182 (Ab)
+	  - Code monétaire et financier - art. R214-183 (V)
+	  - Code monétaire et financier - art. R214-184 (Ab)
+	  - Code monétaire et financier - art. R214-185 (V)
+	  - Code monétaire et financier - art. R214-215 (V)
+	  - Code monétaire et financier - art. R214-218 (V)
+
+
 ##### Paragraphe 2 : Dispositions comptables et financières
 
 ###### Article L214-106
@@ -14662,18 +14706,24 @@ finances et les établissements et organismes collecteurs sont, à raison de cet
 	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
 
 
-##### Section 4 : Le compte pour le développement industriel.
+##### Section 4 : Le livret de développement durable
 
 ###### Article L221-27
 
-Le compte pour le développement industriel est ouvert dans les établissements et organismes autorisés à recevoir des dépôts.
-Les sommes déposées sur ce compte servent au financement des petites et moyennes entreprises.
+Le livret de développement durable est ouvert par les personnes physiques ayant leur domicile fiscal en France dans les
+établissements et organismes autorisés à recevoir des dépôts. Les sommes déposées sur ce livret servent au financement des
+petites et moyennes entreprises et des travaux d'économies d'énergie dans les bâtiments anciens.
 
-Les modalités d'ouverture et de fonctionnement du compte pour le développement industriel sont fixées par le 9° quater de
-l'article 157 du code général des impôts et par décret.
+Le plafond des versements sur ce livret est fixé par voie réglementaire.
 
-Les opérations relatives aux comptes pour le développement industriel sont soumises au contrôle sur pièces et sur place de
-l'inspection générale des finances.
+Il ne peut être ouvert qu'un livret par contribuable ou un livret pour chacun des époux ou partenaires liés par un pacte
+civil de solidarité, soumis à une imposition commune.
+
+Les modalités d'ouverture et de fonctionnement du livret de développement durable, ainsi que la nature des travaux
+d'économies d'énergie auxquels sont affectées les sommes déposées sur ce livret, sont fixées par voie réglementaire.
+
+Les opérations relatives au livret de développement durable sont soumises au contrôle sur pièces et sur place de l'inspection
+générale des finances.
 
 **Liens relatifs à cet article**
 
@@ -14704,20 +14754,20 @@ l'inspection générale des finances.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 40 () JORF 7 mai 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier 157
+	  - Loi n°2006-1771 2006-12-30 art. 30 I, II Finances rectificative pour 2006 JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 30 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article L221-28
 
-Les établissements recevant des dépôts sur des comptes pour le développement industriel mettent à la disposition des
-titulaires de ces comptes, une fois par an, une information écrite sur les concours financiers en faveur de l'équipement
-industriel, accordés à l'aide des fonds ainsi collectés.
+Les établissements recevant des dépôts sur des livrets de développement durable mettent à la disposition des titulaires de
+ces livrets, une fois par an, une information écrite sur les concours financiers accordés à l'aide des fonds ainsi collectés.
 
-La forme et le contenu de cette information écrite sont fixés par arrêté du ministre chargé de l'économie.
+Ces établissements fournissent, une fois par trimestre, au ministre chargé de l'économie, une information écrite sur les
+concours financiers accordés à l'aide des fonds ainsi collectés.
+
+La forme et le contenu des informations écrites mentionnées aux deux alinéas précédents sont fixés par arrêté du ministre
+chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -14732,6 +14782,10 @@ La forme et le contenu de cette information écrite sont fixés par arrêté du 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 145
 
 
 ##### Section 5 : L'épargne-logement
@@ -17234,15 +17288,11 @@ actuariel des adjudications de bons du Trésor à taux fixe à treize semaines.
 
 En cas de condamnation pécuniaire par décision de justice, le taux de l'intérêt légal est majoré de cinq points à
 l'expiration d'un délai de deux mois à compter du jour où la décision de justice est devenue exécutoire, fût-ce par
-provision.
+provision. Cet effet est attaché de plein droit au jugement d'adjudication sur saisie immobilière, quatre mois après son
+prononcé.
 
 Toutefois, le juge de l'exécution peut, à la demande du débiteur ou du créancier, et en considération de la situation du
 débiteur, exonérer celui-ci de cette majoration ou en réduire le montant.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -17255,6 +17305,10 @@ décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvie
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 15 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+
 	**Cité par**:
 
 	  - Décret n°2012-182 du 7 février 2012 (V)
@@ -17264,6 +17318,10 @@ décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvie
 	  - Code des assurances - art. L421-8-1 (V)
 	  - Code du travail - art. L145-13 (AbD)
 	  - Code monétaire et financier - art. D313-2 (M)
+
+	**Cite**:
+
+	  - Code monétaire et financier 23
 
 
 ##### Paragraphe 2 : Taux effectif global
@@ -71128,18 +71186,13 @@ observations, procéder à un retrait total ou partiel de son habilitation.
 	  - Code monétaire et financier - art. R221-98 (V)
 
 
-##### Section 4 : Le compte pour le développement industriel.
+##### Section 4 : Le livret de développement durable.
 
 ###### Article D221-103
 
-Le plafond prévu au 9° quater de l'article 157 du code général des impôts est fixé à 4 600 euros par compte pour le
-développement industriel (Codevi).
+Le plafond prévu à l'article L. 221-27 est fixé à 6 000 euros par livret de développement durable.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 157
 
 	**Anciens textes**:
 
@@ -71150,10 +71203,20 @@ développement industriel (Codevi).
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-161 du 6 février 2007 - art. 1 () JORF 8 février 2007 en vigueur le 1er janvier 2007
+	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-27 (M)
+
 
 ###### Article D221-104
 
-La capitalisation des intérêts peut porter les sommes inscrites au crédit d'un Codevi au-delà de ce plafond.
+La capitalisation des intérêts peut porter les sommes inscrites au crédit d'un livret de développement durable au-delà de ce
+plafond.
 
 **Liens relatifs à cet article**
 
@@ -71166,20 +71229,27 @@ La capitalisation des intérêts peut porter les sommes inscrites au crédit d'u
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
+
 
 ###### Article D221-105
 
-Les sommes inscrites au crédit des Codevi doivent être placées :
+Les sommes inscrites au crédit des livrets de développement durable doivent être :
 
-1° En obligations émises, individuellement ou par l'intermédiaire de groupements, par des établissements ou organismes
-autorisés à recevoir des dépôts et ayant passé avec la Caisse des dépôts et consignations, agissant tant pour le compte de
-l'Etat qu'en son nom propre, une convention conforme à l'un des modèles types approuvés par le ministre chargé de
+1° Placées en obligations émises, individuellement ou par l'intermédiaire de groupements, par des établissements ou
+organismes autorisés à recevoir des dépôts et ayant passé avec la Caisse des dépôts et consignations, agissant tant pour le
+compte de l'Etat qu'en son nom propre, une convention conforme à l'un des modèles types approuvés par le ministre chargé de
 l'économie ;
 
-2° En titres pour le développement industriel émis par la Caisse des dépôts et consignations dans des conditions fixées par
-arrêté du ministre chargé de l'économie.
+1° bis Affectées à l'achat de créances relatives à des prêts consentis par les établissements et organismes mentionnés au 1°
+ci-dessus ;
 
-La répartition entre ces catégories de valeurs et les règles relatives aux fonds en instance d'emploi sont fixées par arrêté
+2° Placées en titres pour le développement industriel émis par la Caisse des dépôts et consignations dans des conditions
+fixées par arrêté du ministre chargé de l'économie.
+
+La répartition entre les catégories ci-dessus et les règles relatives aux fonds en instance d'emploi sont fixées par arrêté
 du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
@@ -71192,6 +71262,15 @@ du ministre chargé de l'économie.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-161 du 6 février 2007 - art. 2 () JORF 8 février 2007 en vigueur le 1er janvier 2007
+	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1266 du 4 décembre 2008 - art. 2
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. D221-106 (VT)
@@ -71199,9 +71278,10 @@ du ministre chargé de l'économie.
 
 ###### Article D221-106
 
-Les valeurs acquises en application de l'article D. 221-105 et les fonds en instance d'emploi font l'objet d'une gestion
-collective par l'établissement où les Codevi ont été ouverts, dans les conditions fixées par un règlement de gestion
-collective conforme à l'un des modèles types approuvés par arrêté du ministre chargé de l'économie.
+Les valeurs mentionnées aux 1°, 1° bis et 2° de l'article D. 221-105 et les fonds en instance d'emploi font l'objet d'une
+gestion collective par l'établissement où les livrets de développement durable ont été ouverts, dans les conditions fixées
+par un règlement de gestion collective conforme à l'un des modèles types approuvés par arrêté du ministre chargé de
+l'économie.
 
 **Liens relatifs à cet article**
 
@@ -71219,18 +71299,28 @@ collective conforme à l'un des modèles types approuvés par arrêté du minist
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-161 du 6 février 2007 - art. 3 () JORF 8 février 2007 en vigueur le 1er janvier 2007
+	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1266 du 4 décembre 2008 - art. 2
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. D221-105 (M)
+	  - Code monétaire et financier - art. D221-105
 
 
 ###### Article D221-107
 
-L'ouverture d'un Codevi doit faire l'objet d'une convention entre l'établissement et son client. Cette convention doit
-reproduire le règlement mentionné à l'article précédent.
+L'ouverture d'un livret de développement durable doit faire l'objet d'une convention entre l'établissement et son client.
+Cette convention doit reproduire le règlement mentionné à l'article précédent.
 
 Dans cette convention, le client doit déclarer sur l'honneur qu'il a la qualité de contribuable ayant son domicile fiscal en
-France ou de conjoint d'un tel contribuable et qu'il ne détient aucun autre Codevi dans quelque établissement que ce soit.
+France ou de conjoint ou de partenaire lié par un pacte civil de solidarité d'un tel contribuable et qu'il ne détient aucun
+autre livret de développement durable dans quelque établissement que ce soit.
 
 **Liens relatifs à cet article**
 
@@ -71241,6 +71331,11 @@ France ou de conjoint d'un tel contribuable et qu'il ne détient aucun autre Cod
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-161 du 6 février 2007 - art. 4 () JORF 8 février 2007 en vigueur le 1er janvier 2007
+	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
 
 
 ##### Section 5 : L'épargne-logement.
@@ -79198,8 +79293,8 @@ rapport des pièces régularisées.
 
 ###### Article R518-34
 
-Pour assurer la régularité des paiements requis par suite d'ordre, il est fait par le greffier du tribunal un extrait du
-procès-verbal dressé par le juge, lequel extrait contiendra :
+Pour assurer la régularité des paiements sollicité en conséquence d'une procédure de distribution du prix de vente d'un
+immeuble, il est fait par le greffier du tribunal un extrait du procès-verbal dressé par le juge, lequel extrait contiendra :
 
 1° Les noms et prénoms des créanciers colloqués ;
 
@@ -79214,7 +79309,8 @@ dépôts et consignations, à peine de dommages-intérêts envers les créancier
 préjudiciable.
 
 La Caisse des dépôts et consignations ne peut être tenue de payer aucun mandement ou bordereau de collocation avant la remise
-de cet extrait, si ce n'est dans le cas de l'article 773 du code de procédure civile relative aux consignations.
+de cet extrait, si ce n'est dans le cas des articles 112 et 125 du décret n° 2006-936 du 27 juillet 2006 relatif aux
+procédures de saisie immobilière et de distribution du prix d'un immeuble.
 
 **Liens relatifs à cet article**
 
@@ -79224,7 +79320,11 @@ de cet extrait, si ce n'est dans le cas de l'article 773 du code de procédure c
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 773 (Ab)
+	  - Décret n°2006-936 2006-07-27 art. 112, art. 125
+
+	**Modifié par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 146 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
 
 	**Anciens textes**:
 
