@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-01-20
 
 # Partie législative
 
@@ -24565,6 +24565,237 @@ financiers.
 	  - Directive 2004-39 CE 2004-04-21
 
 
+###### Article L451-1-2
+
+I. - Les émetteurs français dont des titres de capital, ou des titres de créance dont la valeur nominale est inférieure à 1
+000 euros et qui ne sont pas des instruments du marché monétaire, au sens de la directive 2004/39/CE du Parlement et du
+Conseil, du 21 avril 2004, précitée, dont l'échéance est inférieure à douze mois, sont admis aux négociations sur un marché
+réglementé d'un Etat partie à l'accord sur l'Espace économique européen, publient et déposent auprès de l'Autorité des
+marchés financiers un rapport financier annuel dans les quatre mois qui suivent la clôture de leur exercice.
+
+Ce rapport financier annuel est tenu à la disposition du public pendant cinq ans, selon des modalités prévues par le
+règlement général de l'Autorité des marchés financiers. Il comprend les comptes annuels, les comptes consolidés le cas
+échéant, un rapport de gestion, une déclaration des personnes physiques qui assument la responsabilité de ces documents et le
+rapport des commissaires aux comptes ou des contrôleurs légaux ou statutaires sur les comptes précités.
+
+II. - Le règlement général de l'Autorité des marchés financiers précise également les cas dans lesquels les émetteurs autres
+que ceux mentionnés au I sont soumis à l'obligation prévue au I. Ces émetteurs sont :
+
+1° Les émetteurs français dont des titres donnant accès au capital au sens de l'article L. 212-7, des titres de créance
+donnant le droit d'acquérir ou de vendre tout autre titre ou donnant lieu à un règlement en espèces, notamment des warrants
+ou des titres de créance dont la valeur nominale est supérieure ou égale à 1 000 euros et qui ne sont pas des instruments du
+marché monétaire, au sens de la directive 2004/39/CE du Parlement et du Conseil, du 21 avril 2004, précitée, dont l'échéance
+est inférieure à douze mois sont admis aux négociations sur un marché réglementé d'un Etat partie à l'accord sur l'Espace
+économique européen ;
+
+2° Les émetteurs dont le siège est établi hors de France dont des titres mentionnés au 1° sont admis aux négociations sur un
+marché réglementé français ;
+
+3° Les émetteurs dont le siège est établi hors de l'Espace économique européen dont des titres mentionnés au I sont admis aux
+négociations sur un marché réglementé d'un Etat partie à l'accord sur l'Espace économique européen.
+
+III. - Les émetteurs mentionnés aux I et II et soumis aux obligations définies au I, dont des titres de capital ou des titres
+de créance sont admis aux négociations sur un marché réglementé d'un Etat partie à l'accord sur l'Espace économique européen,
+publient également et déposent auprès de l'Autorité des marchés financiers un rapport financier semestriel dans les deux mois
+qui suivent la fin du premier semestre de leur exercice.
+
+Ce rapport financier semestriel comprend des comptes condensés pour le semestre écoulé, présentés sous forme consolidée le
+cas échéant, un rapport semestriel d'activité, une déclaration des personnes physiques qui assument la responsabilité de ces
+documents et le rapport des commissaires aux comptes ou des contrôleurs légaux ou statutaires sur l'examen limité des comptes
+précités.
+
+IV. - Les émetteurs mentionnés aux I et II et soumis aux obligations définies au I, dont des titres de capital sont admis aux
+négociations sur un marché réglementé d'un Etat partie à l'accord sur l'Espace économique européen, publient également et
+déposent auprès de l'Autorité des marchés financiers une information financière trimestrielle dans les quarante-cinq jours
+qui suivent la fin des premier et troisième trimestres de leur exercice.
+
+Cette information financière comprend :
+
+1° Une explication des opérations et événements importants qui ont eu lieu pendant la période considérée et une explication
+de leur incidence sur la situation financière de l'émetteur et des entités qu'il contrôle ;
+
+2° Une description générale de la situation financière et des résultats de l'émetteur et des entités qu'il contrôle pendant
+la période considérée ;
+
+3° Le montant net par branche d'activité du chiffre d'affaires du trimestre écoulé et, le cas échéant, de chacun des
+trimestres précédents de l'exercice en cours et de l'ensemble de cet exercice, ainsi que l'indication des chiffres d'affaires
+correspondants de l'exercice précédent. Ce montant est établi individuellement ou, le cas échéant, de façon consolidée.
+
+V. - Sans préjudice des règles du code de commerce applicables aux comptes annuels, aux comptes consolidés, au rapport de
+gestion et au rapport semestriel d'activité ainsi qu'aux rapports des commissaires aux comptes, le règlement général de
+l'Autorité des marchés financiers précise le contenu des documents mentionnés aux I, III et IV.
+
+VI. - Les émetteurs mentionnés aux I et II et soumis aux obligations définies au I communiquent à l'Autorité des marchés
+financiers, ainsi qu'aux personnes qui gèrent des marchés réglementés de l'Espace économique européen sur lesquels leurs
+titres sont admis aux négociations, tout projet de modification de leurs statuts, dans un délai fixé par le règlement général
+de l'Autorité des marchés financiers.
+
+VII. - Sans préjudice des obligations prévues par le code de commerce, le règlement général de l'Autorité des marchés
+financiers fixe les modalités de publication, de dépôt et de conservation des documents et informations mentionnés au présent
+article.
+
+VIII. - L'Autorité des marchés financiers peut dispenser les émetteurs dont le siège est établi hors de l'Espace économique
+européen des obligations définies au présent article si elle estime équivalentes les obligations auxquelles ceux-ci sont
+soumis. L'Autorité des marchés financiers arrête et publie régulièrement la liste des Etats tiers dont les dispositions
+législatives ou réglementaires sont estimées équivalentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 221-1 (M)
+	  - Arrêté du 12 novembre 2004 - art. 221-6 (V)
+	  - Arrêté du 12 novembre 2004 - art. 222-1 (V)
+	  - Arrêté du 12 novembre 2004 - art. 222-10 (V)
+	  - Arrêté du 12 novembre 2004 - art. 222-16 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 222-3 (V)
+	  - Arrêté du 12 novembre 2004 - art. 222-4 (V)
+	  - Arrêté du 12 novembre 2004 - art. 241-3 (V)
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V)
+	  - Décret n°2009-557 du 19 mai 2009 - art. 4
+	  - Ordonnance n°2009-798 du 24 juin 2009 - art. 8 (V)
+	  - Arrêté du 14 décembre 2016 - art.
+	  - Code de commerce - art. L225-102-3 (V)
+	  - Code de commerce - art. L232-7 (V)
+	  - Code de commerce - art. R236-3 (V)
+	  - Code de commerce. - art. R232-11 (VD)
+	  - Code de commerce. - art. R232-13 (VD)
+	  - Code de commerce. - art. R330-1 (V)
+	  - Code monétaire et financier - art. D214-32-5 (V)
+	  - Code monétaire et financier - art. L451-1-3 (V)
+	  - Code monétaire et financier - art. L451-1-4 (V)
+	  - Code monétaire et financier - art. L451-1-5 (V)
+	  - Code monétaire et financier - art. L451-2-1 (V)
+	  - Code monétaire et financier - art. L621-14 (VD)
+	  - Code monétaire et financier - art. L621-15 (VT)
+	  - Code monétaire et financier - art. L621-18 (V)
+	  - Code monétaire et financier - art. L621-21 (Ab)
+	  - Code monétaire et financier - art. L632-16 (V)
+	  - Code monétaire et financier - art. L734-12 (V)
+	  - Code monétaire et financier - art. L734-8 (VT)
+	  - Code monétaire et financier - art. L744-12 (VT)
+	  - Code monétaire et financier - art. L754-12 (VT)
+	  - Code monétaire et financier - art. L764-12 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 32 (V) JORF 27 juillet 2005 en vigueur le 20 janvier 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L212-7 (M)
+	  - Directive 2004-39 CE 2004-04-21
+
+
+###### Article L451-1-3
+
+L'Autorité des marchés financiers veille à ce que les émetteurs dont le siège est établi hors de France, qui ne sont pas
+soumis aux obligations définies à l'article L. 451-1-2, et dont des titres mentionnés aux I et II du même article sont admis
+aux négociations uniquement sur un marché réglementé français publient l'information réglementée au sens de la directive
+2004/109/ CE du Parlement européen et du Conseil, du 15 décembre 2004, sur l'harmonisation des obligations de transparence
+concernant l'information sur les émetteurs dont les valeurs mobilières sont admises à la négociation sur un marché réglementé
+et modifiant la directive 2001/34/ CE, dans les conditions et selon les modalités prévues par le règlement général de
+l'Autorité des marchés financiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 32 (V) JORF 27 juillet 2005 en vigueur le 20 janvier 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L451-1-2 (V)
+	  - Directive 2004-190 CE 2004-12-15
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L621-21 (Ab)
+
+
+###### Article L451-1-4
+
+Les obligations prévues à l'article L. 451-1-2 ne s'appliquent pas aux émetteurs suivants :
+
+1° Les Etats parties à l'accord sur l'Espace économique européen et leurs collectivités territoriales ;
+
+2° La Banque centrale européenne et les banques centrales des Etats mentionnés au 1° ;
+
+3° Les organismes internationaux à caractère public dont l'un des Etats mentionnés au 1° fait partie ;
+
+4° Les émetteurs de titres de créance inconditionnellement et irrévocablement garantis par l'Etat ou par une collectivité
+territoriale française ;
+
+5° Les émetteurs dont des titres de créance ont une valeur nominale supérieure ou égale à 50 000 euros et dont aucun autre
+instrument financier mentionné aux I et II de l'article L. 451-1-2 n'est admis aux négociations sur un marché réglementé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 221-2 (V)
+	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V)
+	  - Ordonnance n°2012-1240 du 8 novembre 2012 - art. 5 (V)
+	  - Code monétaire et financier - art. L734-12 (V)
+	  - Code monétaire et financier - art. L744-12 (M)
+	  - Code monétaire et financier - art. L754-12 (M)
+	  - Code monétaire et financier - art. L764-12 (M)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 32 (V) JORF 27 juillet 2005 en vigueur le 20 janvier 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L451-1-2 (V)
+
+
+###### Article L451-1-5
+
+Lorsque l'Autorité des marchés financiers n'est pas l'autorité compétente pour contrôler le respect des obligations
+d'information prévues aux articles L. 451-1-1 et L. 451-1-2 et qu'elle établit qu'il y a eu violation par l'émetteur de ses
+obligations d'information, elle en informe l'autorité de contrôle de l'Etat partie à l'Espace économique européen compétente
+pour le contrôle de ces obligations d'information.
+
+Si en dépit des mesures prises par cette dernière ou en raison de leur inadéquation l'émetteur ou les établissements
+financiers chargés du placement persistent à violer les dispositions législatives ou réglementaires qui leur sont
+applicables, l'Autorité des marchés financiers peut, après avoir informé l'autorité de contrôle compétente pour contrôler les
+obligations d'information périodique, prendre toutes les mesures qui s'imposent pour protéger les investisseurs.
+
+L'Autorité des marchés financiers informe la Commission européenne de ces mesures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 32 (V) JORF 27 juillet 2005 en vigueur le 20 janvier 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L451-1-1 (V)
+	  - Code monétaire et financier - art. L451-1-2 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L734-1 (VT)
+
+
 ##### Section 2 : Obligation d'information sur les prises de participations
 
 ###### Article L451-2
@@ -45196,7 +45427,8 @@ alinéa de l'article L. 234-1 du code de commerce. Ils transmettent également �
 envisagent de présenter à l'assemblée générale en application de l'article L. 823-12 et L. 822-15 du même code.
 
 V. - Les commissaires aux comptes sont déliés du secret professionnel et leur responsabilité ne peut de ce seul fait être
-engagée pour les informations données en exécution des obligations prévues au présent article.
+engagée pour les informations données en exécution des obligations et démarches prévues au présent article et à l'article L.
+621-18.
 
 **Liens relatifs à cet article**
 
@@ -45208,12 +45440,6 @@ engagée pour les informations données en exécution des obligations prévues a
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 113
-	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
 
 	**Cité par**:
 
@@ -45227,10 +45453,16 @@ engagée pour les informations données en exécution des obligations prévues a
 	  - Code monétaire et financier - art. L756-5 (VT)
 	  - Code monétaire et financier - art. L766-5 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 32 (V) JORF 27 juillet 2005 en vigueur le 20 janvier 2007
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+
 	**Cite**:
 
 	  - Code de commerce. - art. L234-1 (M)
-	  - Code de commerce. - art. L823-12 (V)
+	  - Code monétaire et financier - art. L621-18 (M)
+	  - Code monétaire et financier L823-12, L621-18
 
 
 ###### Article L621-23
