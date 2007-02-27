@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-02-22
+Version Consolidée au 2007-02-28
 
 # Partie législative
 
@@ -56203,6 +56203,8 @@ Conseil du 3 mai 1998 concernant l'introduction de l'euro.
 
 #### Chapitre Ier : Les monnaies métalliques.
 
+##### Section 1 : Les pièces métalliques.
+
 ###### Article D121-1
 
 Les types des faces nationales des pièces françaises de monnaie libellées en euros destinées à la circulation sont fixés par
@@ -56219,12 +56221,16 @@ arrêté du ministre chargé de l'économie.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
 
 ###### Article D121-2
 
-La direction des monnaies et médailles et la Banque de France, agissant pour le compte du Trésor public, sont autorisées à
-reprendre à leurs détenteurs, pour leur valeur nominale et après vérification de leur authenticité, les pièces de monnaies
-détériorées émises par l'Etat et ayant cours légal.
+La Monnaie de Paris et la Banque de France, agissant pour le compte du Trésor public, sont autorisées à reprendre à leurs
+détenteurs, pour leur valeur nominale et après vérification de leur authenticité, les pièces de monnaies détériorées émises
+par l'Etat et ayant cours légal.
 
 Pour ce qui concerne les pièces bimétalliques, le remboursement n'est effectué que sur présentation d'un minimum résiduel
 constitué de la partie centrale.
@@ -56240,6 +56246,10 @@ constitué de la partie centrale.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
 
 ###### Article R121-3
 
@@ -56248,7 +56258,7 @@ opérations de traitement des pièces en euros à titre professionnel se livrent
 pièces en euros, celles-ci ont été préalablement triées et contrôlées au moyen d'équipements qui détectent les pièces
 fausses, contrefaites ou n'ayant pas cours légal en France et les séparent des pièces authentiques en euros.
 
-Ces équipements sont ceux dont un type a satisfait aux tests effectués par l'administration des monnaies et médailles. Celle-
+Ces équipements sont ceux dont un type a satisfait aux tests effectués par l'établissement public La Monnaie de Paris. Celle-
 ci publie la liste des types d'équipements ayant subi un test positif, notamment sur son site internet.
 
 **Liens relatifs à cet article**
@@ -56273,6 +56283,11 @@ ci publie la liste des types d'équipements ayant subi un test positif, notammen
 	  - Code monétaire et financier - art. R740-3 (V)
 	  - Code monétaire et financier - art. R750-2 (V)
 	  - Code monétaire et financier - art. R760-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+	  - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
 
 
 ###### Article R121-4
@@ -56300,6 +56315,10 @@ Banque de France conformément aux règles fixées par la Banque centrale europ�
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. R121-3 (M)
@@ -56307,6 +56326,487 @@ Banque de France conformément aux règles fixées par la Banque centrale europ�
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R711-19 (Ab)
+
+
+##### Section 2 : La Monnaie de Paris
+
+##### Sous-section 1 : Dispositions générales.
+
+###### Article R121-5
+
+L'établissement public La Monnaie de Paris est placé sous la tutelle du ministre chargé de l'économie.
+
+Il peut être désigné par le sigle "MdP".
+
+Son siège est fixé à Paris, au 11, quai de Conti.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R740-1 (T)
+
+
+###### Article R121-6
+
+Un contrat d'entreprise pluriannuel est conclu entre l'Etat et l'établissement public conformément aux dispositions de
+l'article 140 de la loi n° 2001-420 du 15 mai 2001 relative aux nouvelles régulations économiques. Ce contrat détermine
+notamment les conditions d'évolution des prix de cession des pièces métalliques fabriquées pour le compte de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2001-420 du 15 mai 2001 - art. 140 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 6 (V)
+
+
+##### Sous-section 2 : Organisation et fonctionnement.
+
+###### Article R121-7
+
+L'établissement est administré par un conseil d'administration et dirigé par un président-directeur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+
+###### Article R121-8
+
+Le conseil d'administration comprend vingt et un membres :
+
+1° Sept représentants de l'Etat ;
+
+2° Sept personnalités choisies en raison de leurs compétences dans des domaines en rapport avec l'activité de l'établissement
+public ou la gestion des entreprises ;
+
+3° Sept représentants des personnels élus, dont trois représentants des ouvriers, deux représentants des fonctionnaires
+techniques autres que les ingénieurs, un représentant des fonctionnaires techniques ingénieurs et un représentant des agents
+contractuels.
+
+Les membres mentionnés au 1° et au 2° sont nommés par décret pris sur le rapport du ministre chargé de l'économie.
+
+L'autorité chargée du contrôle économique et financier de l'Etat assiste aux séances du conseil d'administration avec voix
+consultative. Toute personne dont la présence est jugée utile par le président peut être invitée à assister à une ou
+plusieurs séances avec voix consultative.
+
+Les fonctions de membre du conseil d'administration sont exercées à titre gratuit, sans préjudice du remboursement par
+l'établissement public des frais exposés pour l'exercice dudit mandat.
+
+Chaque représentant du personnel siégeant au conseil d'administration dispose pour l'exercice de son mandat d'un crédit
+d'heures égal à quinze heures par mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+
+###### Article R121-9
+
+Sans préjudice des dispositions de l'article 7 de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du
+secteur public, le conseil d'administration détermine les orientations de l'activité de l'établissement et veille à leur mise
+en oeuvre. 
+
+Il délibère notamment sur : 
+
+1° Les mesures générales relatives à l'organisation et au fonctionnement de l'établissement ; 
+
+2° Les projets de contrat d'entreprise pluriannuel ; 
+
+3° Le budget et ses éventuelles modifications en cours d'exercice ; 
+
+4° Le rapport annuel d'activité ; 
+
+5° Le programme annuel des travaux d'aménagement, d'entretien et de grosses réparations des immeubles appartenant à
+l'établissement public et des immeubles qui lui sont remis en dotation ; 
+
+6° Les comptes de l'établissement et l'affectation des résultats de l'exercice ; 
+
+7° La création de filiales et les prises, cessions ou extensions de participations financières ainsi que la participation à
+des groupements d'intérêt économique et groupements d'intérêt public ; 
+
+8° Tout investissement ou désinvestissement industriel, toute acquisition ou cession de fonds de commerce ou branche complète
+d'activité ; 
+
+9° Tout emprunt émis ou contracté par l'établissement public et ses éventuelles filiales ; 
+
+10° L'octroi par l'établissement de tout aval, caution ou garantie ; 
+
+11° L'acceptation ou le refus des dons et legs ; 
+
+12° Les conditions générales de recrutement, d'emploi et de rémunération des personnels ; 
+
+13° Les contrats, conventions et marchés ; 
+
+14° Les acquisitions ou aliénations d'immeubles relevant du domaine propre de l'établissement ; 
+
+15° Les actions en justice et toute transaction ou compromis destiné notamment à prévenir ou mettre un terme à des différends
+commerciaux ; 
+
+16° La mise en oeuvre de la politique financière de l'établissement et la surveillance et le contrôle des risques. 
+
+Le conseil est régulièrement informé de la marche de l'établissement et, le cas échéant, de celle de ses filiales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-675 du 26 juillet 1983 - art. 7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R121-12 (VT)
+
+
+###### Article R121-10
+
+I.-Le conseil d'administration se réunit aussi souvent que l'intérêt de l'établissement l'exige, et en tout état de cause au
+moins quatre fois par an. 
+
+La réunion a lieu au siège de l'établissement ou en tout autre endroit indiqué dans la convocation. 
+
+Les réunions du conseil d'administration peuvent, dans des conditions prévues par le règlement intérieur conformément au
+troisième alinéa de l'article L. 225-37 du code de commerce et aux dispositions réglementaires prises pour son application,
+avoir lieu par voie de visioconférence. 
+
+La convocation du conseil est faite cinq jours ouvrables au moins à l'avance par lettre, télégramme, télécopie ou courrier
+électronique. Elle mentionne l'ordre du jour et est accompagnée de tout document permettant aux administrateurs de participer
+utilement aux réunions. Toutefois, la convocation peut être faite vingt-quatre heures à l'avance en cas d'urgence motivée. 
+
+Le conseil d'administration est convoqué par le président-directeur général ou par le tiers au moins de ses membres dans les
+conditions prévues à l'article 8 de la loi du 26 juillet 1983 mentionnée ci-dessus. 
+
+Chaque administrateur peut obtenir communication des informations et documents nécessaires à l'exercice de sa mission. 
+
+II.-Les réunions du conseil d'administration sont présidées par le président du conseil d'administration ou, à défaut, par le
+doyen d'âge des administrateurs représentant l'Etat. 
+
+Le conseil ne délibère valablement que si la moitié au moins de ses membres est présente. Le règlement intérieur peut prévoir
+que sont réputés présents, pour le calcul du quorum et de la majorité, les administrateurs qui participent à la réunion par
+voie de visioconférence. Si ce quorum n'est pas atteint, le conseil est à nouveau convoqué avec le même ordre du jour dans un
+délai maximum de dix jours ; il délibère alors valablement quel que soit le nombre de membres présents. 
+
+Les membres du conseil d'administration peuvent, en cas d'absence ou d'empêchement, donner mandat à un autre membre du
+conseil. Un même membre ne peut détenir qu'un seul mandat. 
+
+Les décisions sont prises à la majorité des membres présents ou représentés. En cas de partage égal des voix, celle du
+président de séance est prépondérante. 
+
+III.-Il est tenu un registre de présence, qui est signé par les administrateurs présents à la séance du conseil
+d'administration. Ce registre mentionne également le nom des administrateurs participant à la séance par visioconférence. 
+
+Les délibérations du conseil sont constatées par des procès-verbaux signés par le président de séance et par un
+administrateur ou, en cas d'empêchement du président de séance, par deux administrateurs. Les copies ou extraits de procès-
+verbaux des délibérations sont valablement certifiés par le président-directeur général ou un agent de l'établissement
+habilité à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-675 du 26 juillet 1983 - art. 8 (V)
+	  - Code de commerce - art. L225-37 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+
+###### Article R121-11
+
+Le conseil d'administration adopte un règlement intérieur précisant le cadre d'exercice de ses fonctions.
+
+Il peut mettre en place en son sein des comités spécialisés consultatifs dont il fixe la composition et les attributions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+
+###### Article R121-12
+
+Le conseil d'administration peut, dans les matières énumérées aux 7°, 8°, 9°, 10°, 11°, 13°, 14° et 15° de l'article R.
+121-9, déléguer ses pouvoirs au président-directeur général dans des conditions et limites, de seuil financier le cas
+échéant, qu'il détermine. Le président-directeur général rend compte, lors de la plus prochaine séance du conseil, des
+décisions qu'il a prises en vertu d'une telle délégation. 
+
+Parmi les décisions modificatives du budget prévues au 3° de cet article, sont seules soumises au conseil celles qui
+comportent soit une augmentation du montant total des dépenses, soit des virements de crédits entre la section des opérations
+en capital et la section de fonctionnement ou des chapitres de personnel vers les chapitres de fonctionnement. Les autres
+décisions modificatives sont prises par le président-directeur général après consultation de l'autorité chargée du contrôle
+économique et financier de l'Etat. Il en est rendu compte au conseil d'administration à sa plus proche séance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R121-13 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R121-9 (V)
+
+
+###### Article R121-13
+
+Les délibérations du conseil d'administration sont exécutoires quinze jours après la réception du procès-verbal par le
+ministre chargé de l'économie, sauf opposition de celui-ci. Toutefois : 
+
+1° Les délibérations portant sur le budget, les comptes annuels, les acquisitions, aliénations et échanges d'immeubles sont
+exécutoires quinze jours après la réception du procès-verbal par le ministre chargé de l'économie et par le ministre chargé
+du budget, sauf opposition de l'un de ces ministres ; 
+
+2° Les délibérations portant sur les emprunts ainsi que celles portant sur les prises, extensions et cessions de
+participations financières ne sont exécutoires qu'après approbation par arrêté conjoint de ces mêmes ministres ; 
+
+3° Les délibérations relatives aux délégations consenties au président-directeur général en application de l'article R.
+121-12 ne sont exécutoires qu'après approbation expresse par le ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R121-12 (VT)
+
+
+###### Article R121-14
+
+I.-La direction générale de l'établissement La Monnaie de Paris est assurée par le président du conseil d'administration, qui
+est nommé dans les conditions prévues à l'article 10 de la loi du 26 juillet 1983 mentionnée ci-dessus et porte le titre de
+président-directeur général. 
+
+Le président-directeur général prépare, organise et dirige les travaux du conseil d'administration et exécute ses décisions. 
+
+Il veille au bon fonctionnement du conseil d'administration et s'assure en particulier que les administrateurs disposent de
+tous les éléments nécessaires à l'exercice de leur mission. 
+
+Il représente l'établissement La Monnaie de Paris en justice, dans tous les actes de la vie civile, dans ses rapports avec
+les tiers et dans ses relations internationales. 
+
+Il est habilité à représenter l'Etat dans les instances européennes et internationales compétentes en matière de monnaies
+métalliques. 
+
+II.-Le président-directeur général a autorité sur l'ensemble des services et du personnel de l'établissement. Il procède au
+recrutement de l'ensemble des personnels de l'établissement, à l'exception des fonctionnaires techniques du ministère de
+l'économie, des finances et de l'industrie régis par le décret n° 68-270 du 19 mars 1968. Il accomplit les actes de gestion
+individuelle à l'égard de tous les agents, sous réserve des pouvoirs relevant de la compétence du ministre chargé de
+l'économie. 
+
+Il détient à l'égard des fonctionnaires régis par le décret du 19 mars 1968 le pouvoir d'infliger les sanctions
+disciplinaires des premier et deuxième groupes prévues à. l'article 66 de la loi du 11 janvier 1984 portant dispositions
+statutaires relatives à la fonction publique de l'Etat, le pouvoir d'infliger des sanctions disciplinaires des troisième et
+quatrième groupes à l'encontre de ces mêmes fonctionnaires relevant de la seule compétence du ministre chargé de l'économie.
+Toutefois, dans tous les cas, il appartient au président-directeur général d'engager la procédure disciplinaire et de saisir
+par un rapport la commission administrative paritaire compétente siégeant en conseil de discipline lorsque sa consultation
+est nécessaire. 
+
+La décision du ministre chargé de l'économie prononçant une sanction du troisième ou quatrième groupe ou renonçant
+explicitement à infliger une telle sanction est transmise au président-directeur général, qui la notifie au fonctionnaire
+poursuivi. En cas de renonciation expresse du ministre à infliger une sanction du troisième ou quatrième groupe ou faute de
+décision du ministre dans le délai de quatre mois à compter de la réception de la proposition du président-directeur général,
+celui-ci peut décider d'infliger au fonctionnaire poursuivi l'une des sanctions des deux premiers groupes prévues à l'article
+66 de la loi du 11 janvier 1984 mentionnée ci-dessus. 
+
+III.-Le président-directeur général peut déléguer ses pouvoirs de gestion et en autoriser la subdélégation dans les
+conditions de procédure, de forme et de durée déterminées par le conseil d'administration de l'établissement. Il a la faculté
+de consentir des délégations de signature. Ces délégations et subdélégations font l'objet d'une publication au Bulletin
+officiel du ministère de l'économie, des finances et de l'industrie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°68-270 du 19 mars 1968 (V)
+	  - Loi n°83-675 du 26 juillet 1983 - art. 10 (V)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 66 (V)
+
+	**Cité par**:
+
+	  - Décret n°68-270 du 19 mars 1968 - art. 8 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+
+###### Article R121-15
+
+Le conseil d'administration peut, sur proposition du président-directeur général, nommer un directeur général adjoint qui a
+pour mission d'assister le président-directeur général. Le conseil d'administration précise, le cas échéant, les attributions
+du directeur général adjoint et détermine la durée de son mandat.
+
+Lorsque le président-directeur général cesse ou est empêché d'exercer ses fonctions, le directeur général adjoint conserve,
+sauf décision contraire du conseil, ses fonctions et ses attributions, le cas échéant jusqu'à la nomination du nouveau
+président-directeur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+
+##### Sous-section 3 : Régime financier et comptable.
+
+###### Article R121-16
+
+L'établissement public La Monnaie de Paris est soumis en matière de gestion financière et comptable aux règles applicables
+aux entreprises industrielles et commerciales. Il tient sa comptabilité générale conformément aux règlements du comité de la
+réglementation comptable. Il tient une comptabilité analytique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+
+###### Article R121-17
+
+Les dépenses de l'établissement comprennent les frais de fonctionnement, les dépenses d'acquisition de biens meubles et
+immeubles, les frais de travaux d'aménagement, d'entretien et de grosses réparations afférents aux immeubles qui lui sont
+remis en dotation et, de façon générale, toutes les dépenses nécessaires à l'exercice de ses missions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+
+###### Article R121-18
+
+Le budget de l'établissement et ses comptes annuels sont établis par année du 1er janvier au 31 décembre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+
+###### Article R121-19
+
+Sauf décision contraire du ministre chargé de l'économie, les fonds de l'établissement public sont déposés chez un comptable
+du Trésor et ne sont pas productifs d'intérêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+
+###### Article R121-20
+
+L'établissement est soumis au contrôle économique et financier dans les conditions fixées par le décret n° 53-707 du 9 août
+1953 relatif au contrôle de l'Etat sur les entreprises publiques nationales et certains organismes ayant un objet d'ordre
+économique ou social et par le décret n° 55-733 du 26 mai 1955 relatif au contrôle économique et financier de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-707 du 9 août 1953 (V)
+	  - Décret n°55-733 du 26 mai 1955 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
 
 
 #### Chapitre II : Les billets de banque.
@@ -56601,15 +57101,15 @@ IV. - Des conventions types sont approuvées par arrêté du ministre chargé de
 
 Les établissements de crédit, La Poste, les prestataires effectuant au nom et pour le compte de ceux-ci des opérations de
 traitement des billets et des pièces en euros, ainsi que les changeurs manuels remettent sans délai à la Banque de France ou
-à l'administration des monnaies et médailles, respectivement les billets et pièces en euros dont ils ont des raisons
+à l'établissement public La Monnaie de Paris, respectivement les billets et pièces en euros dont ils ont des raisons
 suffisantes de penser qu'ils sont faux.
 
 A cet effet, ils établissent des règles écrites internes, dont ils contrôlent la mise en oeuvre, qui organisent les
-procédures de remise sans délai à la Banque de France et à l'administration des Monnaies et médailles des billets et pièces
+procédures de remise sans délai à la Banque de France et à l'établissement public La Monnaie de Paris des billets et pièces
 mentionnés à l'alinéa précédent. Ces procédures tiennent compte des recommandations faites par le Comité français
 d'organisation et de normalisation bancaire.
 
-La Banque de France et l'administration des Monnaies et médailles authentifient les billets et les pièces qui leur sont remis
+La Banque de France et l'établissement public La Monnaie de Paris authentifient les billets et les pièces qui leur sont remis
 en application du premier alinéa. Elles retiennent les signes monétaires qu'elles reconnaissent comme contrefaits ou
 falsifiés.
 
@@ -56623,6 +57123,10 @@ falsifiés.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
 
 	**Cité par**:
 
@@ -60342,8 +60846,8 @@ l'article R. 642-4 du code pénal.
 ###### Article R162-4
 
 Le fait, pour une personne ayant reçu des pièces de monnaie ou billets de banque ayant cours légal en France contrefaits ou
-falsifiés, de refuser de les remettre ou de les faire remettre à la Banque de France ou à l'administration des monnaies et
-médailles est réprimé conformément à l'article R. 645-9 du code pénal.
+falsifiés, de refuser de les remettre ou de les faire remettre à la Banque de France ou à l'établissement public La Monnaie
+de Paris est réprimé conformément à l'article R. 645-9 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -60351,13 +60855,17 @@ médailles est réprimé conformément à l'article R. 645-9 du code pénal.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
+
 	**Cité par**:
 
 	  - Décret n°2007-259 du 27 février 2007 - art. 8 (V)
 
 	**Cite**:
 
-	  - Code pénal - art. R645-9 (M)
+	  - Code pénal - art. R645-9 (V)
 
 
 ###### Article R162-5
@@ -60389,7 +60897,7 @@ euros en sachant qu'elles n'ont pas été préalablement triées et contrôlées
 
 6° D'un établissement de crédit, de La Poste, d'un prestataire effectuant au nom et pour le compte de ceux-ci des opérations
 de traitement des billets ou de pièces en euros à titre professionnel ou d'un changeur manuel, de ne pas remettre sans délai
-à la Banque de France ou à l'administration des Monnaies et médailles les pièces de monnaie ou les billets en euros dont il a
+à la Banque de France ou à l'établissement public La Monnaie de Paris les pièces de monnaie ou les billets en euros dont il a
 des raisons suffisantes de penser qu'ils sont faux ;
 
 N'est pas pénalement responsable de l'infraction définie au 6° l'employé qui justifie avoir effectué les contrôles et
@@ -60448,6 +60956,10 @@ VI. - Les dispositions du troisième alinéa de l'article 442-13 du code pénal 
 	  - Décret n°2005-1007 du 2 août 2005 - art. 6 (V)
 	  - Décret n°2007-259 du 27 février 2007 - art. 8 (V)
 	  - Code monétaire et financier - art. R711-19 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2007-259 du 27 février 2007 - art. 8 (V) JORF 28 février 2007
 
 	**Cite**:
 
