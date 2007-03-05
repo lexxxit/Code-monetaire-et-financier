@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-03-01
+Version Consolidée au 2007-03-06
 
 # Partie législative
 
@@ -3450,19 +3450,7 @@ jours à compter de la réception de la notification ou de la signification dél
 titre exécutoire.
 
 En tout état de cause, les frais de toute nature qu'occasionne le rejet d'un chèque sans provision sont à la charge du
-tireur. Lorsque le montant du chèque rejeté est inférieur à 50 euros, les frais perçus par le tiré ne peuvent excéder un
-montant fixé par décret.
-
-**Nota:**
-
-Nota : Loi 2005-516 2005-05-20 art. 16 V :
-
-1 - Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du
-2 juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par
-ces dispositions.
-
-2 - Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
-2005 fixe la date de transfert prévu au 31 décembre 2005.
+tireur. Les frais perçus par le tiré ne peuvent excéder un montant fixé par décret.
 
 **Liens relatifs à cet article**
 
@@ -3524,7 +3512,7 @@ ces dispositions.
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+	  - Loi n°2007-290 du 5 mars 2007 - art. 70 () JORF 6 mars 2007
 
 	**Cite**:
 
@@ -16361,6 +16349,10 @@ conditions et tarifs applicables à son compte de dépôt.
 II. - Sauf si la convention de compte en dispose autrement, toutes les opérations en crédit et en débit d'un compte de dépôt
 doivent être portées à la connaissance du client à intervalle régulier n'excédant pas un mois.
 
+III. - Le montant des frais bancaires consécutifs à un incident de paiement autre que le rejet d'un chèque est plafonné dans
+des conditions fixées par décret en fonction de la nature et du montant de l'incident, sans excéder en tout état de cause ce
+dernier montant.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -16422,7 +16414,7 @@ doivent être portées à la connaissance du client à intervalle régulier n'ex
 
 	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 106 () JORF 31 décembre 2004
+	  - Loi n°2007-290 du 5 mars 2007 - art. 70 () JORF 6 mars 2007
 
 
 ###### Article L312-1-2
