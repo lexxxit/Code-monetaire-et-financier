@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-03-14
+Version Consolidée au 2007-03-27
 
 # Partie législative
 
@@ -57663,15 +57663,10 @@ l'article 226-21 du code pénal.
 
 ###### Article R131-10
 
-Les dispositions de l'article 3 de la loi n° 49-1093 du 2 août 1949 relative à la publicité des protêts et celles du décret
-n° 50-737 du 24 juin 1950 pris pour son application sont applicables au protêt dressé faute de paiement d'un chèque.
+Les dispositions des articles R. 511-2 à R. 511-11 du code du commerce sont applicables au protêt dressé faute de paiement
+d'un chèque.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°50-737 1950-06-24
-	  - Loi n°49-1093 du 2 août 1949 - art. 3 (M)
 
 	**Codifié par**:
 
@@ -57679,7 +57674,11 @@ n° 50-737 du 24 juin 1950 pris pour son application sont applicables au protêt
 
 	**Modifié par**:
 
-	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. R511-2 (V)
 
 	**Cité par**:
 
@@ -58979,20 +58978,13 @@ Lorsque le titulaire du compte est soumis à l'obligation d'immatriculation au r
 répertoire des métiers et que le montant du chèque impayé est supérieur à un montant déterminé par arrêté conjoint du garde
 des sceaux, ministre de la justice, et du ministre chargé de l'économie, le tiré dénonce au greffier du tribunal de commerce
 ou, le cas échéant, du tribunal de grande instance statuant en matière commerciale dans le ressort duquel se trouve le
-domicile du titulaire du compte, le certificat de non-paiement établi en application de l'article L. 131-73.
+domicile du titulaire du compte, le certificat de non-paiement établi en application de l'article L. 131-73. 
 
 Le certificat de non-paiement fait l'objet d'une publicité par le greffier dans les conditions fixées par les articles L.
-511-56 à L. 511-60 du code de commerce et les dispositions réglementaires prises pour leur application et par le décret n°
-50-737 du 24 juin 1950 pris pour l'application de la loi n° 49-1093 du 2 août 1949 relative à la publicité des protêts.
+511-56 à L. 511-60 du code de commerce et les dispositions réglementaires prises pour leur application et par les articles R.
+511-2 à R. 511-11 du code du commerce.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°50-737 1950-06-24
-	  - Code de commerce L511-56 à L511-60
-	  - Code monétaire et financier - art. L131-73 (M)
-	  - Loi n°49-1093 1949-08-02
 
 	**Anciens textes**:
 
@@ -59005,7 +58997,13 @@ Le certificat de non-paiement fait l'objet d'une publicité par le greffier dans
 
 	**Modifié par**:
 
-	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. L511-56 (V)
+	  - Code de commerce - art. R511-2 (V)
+	  - Code monétaire et financier - art. L131-73 (V)
 
 
 ###### Article R131-50
@@ -61473,19 +61471,23 @@ part, de laisser les titres au porteur ou assimilés en dépôt auprès de celui
 
 ###### Article R211-9
 
-Les règles relatives à l'identification des détenteurs de titres sont définies par les articles 151-3 et 151-4 du décret n°
-67-236 du 23 mars 1967 sur les sociétés commerciales.
+Les règles relatives à l'identification des détenteurs de titres sont définies par les articles R. 228-3 et R. 228-4 du code
+du commerce.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-236 du 23 mars 1967 - art. 151-3 (Ab)
-	  - Décret n°67-236 du 23 mars 1967 - art. 151-4 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce. - art. R228-3 (V)
+	  - Code de commerce. - art. R228-4 (V)
 
 
 #### Chapitre II : Titres de capital et titres donnant accès au capital.
@@ -61496,70 +61498,83 @@ Les règles relatives à l'identification des détenteurs de titres sont défini
 
 ###### Article R212-1
 
-Les règles relatives aux actions de préférence sont définies par les articles 206 à 206-7 du décret n° 67-236 du 23 mars 1967
-sur les sociétés commerciales.
+Les règles relatives aux actions de préférence sont définies par les articles R. 228-15 à R. 228-22 du code de commerce.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-236 1967-03-23 art. 206 à 206-7
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. R228-15 (V)
 
 
 ##### Sous-section 4 : Dispositions applicables aux catégories de titres en voie d'extinction.
 
 ###### Article R212-2
 
-Les règles relatives aux actions à dividende prioritaire sans droit de vote sont définies par les articles 153-4 à 153-11 du
-décret n° 67-236 du 23 mars 1967 sur les sociétés commerciales.
+Les règles relatives aux actions à dividende prioritaire sans droit de vote sont définies par les articles R. 228-40 à R.
+228-48 du code du commerce.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-236 1967-03-23 art. 153-4 à 153-11
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. R228-40 (V)
 
 
 ###### Article R212-3
 
-Les règles relatives aux certificats d'investissements sont définies par les articles 169-2 à 169-8 du décret n° 67-236 du 23
-mars 1967 sur les sociétés commerciales.
+Les règles relatives aux certificats d'investissements sont définies par les articles R. 228-33 à 39 du code de commerce.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-236 1967-03-23 art. 169-2 à 169-8
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. R228-33 (V)
 
 
 ##### Section 2 : Les titres donnant accès au capital.
 
 ###### Article R212-4
 
-Les règles relatives aux titres donnant accès au capital sont définies par les articles 242-8 à 242-16 du décret n° 67-236 du
-23 mars 1967 sur les sociétés commerciales.
+Les règles relatives aux titres donnant accès au capital sont définies par les articles R. 228-87 à 95 du code de commerce.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-236 1967-03-23 art. 242-8 à 242-16
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. R228-87 (V)
 
 
 ##### Section 3 : Régimes particuliers d'accès au capital en faveur du personnel salarié.
@@ -61610,38 +61625,44 @@ les conditions dans lesquelles les dispositions de cette ordonnance leur sont ap
 
 ###### Article R212-7
 
-Les règles relatives aux opérations d'augmentation de capital réservées aux salariés sont définies soit par les articles
-174-22 à 174-41 du décret n° 67-236 du 23 mars 1967 sur les sociétés commerciales, soit par les dispositions du chapitre III
-du titre IV du livre IV du code de travail et par les articles 154 à 155-2 du décret n° 67-236 du 23 mars 1967 sur les
-sociétés commerciales.
+Les règles relatives aux opérations d'augmentation de capital réservées aux salariés sont définies par les dispositions du
+chapitre III du titre IV du livre IV du code de travail et par les articles R. 225-113 à R. 225-116 du code de commerce.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-236 1967-03-23 art. 174-22 à 174-41, art. 154 à 155-2
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. R225-113 (V)
 
 
 ##### Sous-section 3 : Options de souscription ou d'achat d'actions.
 
 ###### Article R212-8
 
-Les règles relatives aux options de souscription ou d'achat d'actions sont définies par les articles 174-8 à 174-21 du décret
-n° 67-236 du 23 mars 1967 sur les sociétés commerciales.
+Les règles relatives aux options de souscription ou d'achat d'actions sont définies par les articles R. 225-137 à R. 225-145
+du code de commerce.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-236 1967-03-23 art. 174-8 à 174-21
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. R225-137 (V)
 
 
 #### Chapitre III : Titres de créance.
@@ -62121,18 +62142,22 @@ titres. La Banque de France fixe la fréquence de la fourniture de ces informati
 
 ###### Article R213-15
 
-Les règles relatives aux obligations émises par les sociétés commerciales sont définies par les articles 211 à 241 du décret
-n° 67-236 du 23 mars 1967 sur les sociétés commerciales.
+Les règles relatives aux obligations émises par les sociétés commerciales sont définies par les articles R. 228-57 à R.
+228-86 du code de commerce.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-236 1967-03-23 art. 211 à 241
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. R228-57 (V)
 
 
 ###### Article R213-16
@@ -62220,21 +62245,11 @@ Il est remis ou adressé à toute personne dont la souscription est sollicitée.
 ###### Article D213-18
 
 Sous réserve des dispositions de l'article D. 213-19, lorsque l'association émettrice fait appel public à l'épargne pour le
-placement des titres mentionnés aux articles L. 213-8 et L. 213-9, les dispositions des articles 211, 212 et 213 du décret n°
-67-236 du 23 mars 1967 sur les sociétés commerciales sont applicables à la notice mentionnée à l'article L. 213-11 pour
-autant qu'elles sont compatibles avec le régime juridique des associations.
+placement des titres mentionnés aux articles L. 213-8 et L. 213-9, les dispositions des articles R. 228-57 à 59 du code de
+commerce sont applicables à la notice mentionnée à l'article L. 213-11 pour autant qu'elles sont compatibles avec le régime
+juridique des associations.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-236 1967-03-23 art. 211, art. 212, art. 213
-	  - Décret n°67-236 du 23 mars 1967 - art. 212 (M)
-	  - Décret n°67-236 du 23 mars 1967 - art. 213 (M)
-	  - Code monétaire et financier - art. D213-19 (V)
-	  - Code monétaire et financier - art. L213-11 (M)
-	  - Code monétaire et financier - art. L213-8 (V)
-	  - Code monétaire et financier - art. L213-9 (V)
 
 	**Anciens textes**:
 
@@ -62243,6 +62258,18 @@ autant qu'elles sont compatibles avec le régime juridique des associations.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce R228-57 à 59
+	  - Code monétaire et financier - art. D213-19 (V)
+	  - Code monétaire et financier - art. L213-11 (M)
+	  - Code monétaire et financier - art. L213-8 (V)
+	  - Code monétaire et financier - art. L213-9 (V)
 
 
 ###### Article D213-19
@@ -62416,16 +62443,11 @@ une copie de la délibération est déposée dans le même délai.
 
 ###### Article R213-25
 
-Sous réserve des dispositions de l'article D. 213-19, les dispositions des articles 214 à 242 du décret n° 67-236 du 23 mars
-1967 sur les sociétés commerciales, pour autant qu'elles soient compatibles avec le régime juridique des associations,
-s'appliquent aux obligations émises par les associations.
+Sous réserve des dispositions de l'article D. 213-19, les dispositions des articles R. 228-60 à R. 228-86 du code de
+commerce, pour autant qu'elles soient compatibles avec le régime juridique des associations, s'appliquent aux obligations
+émises par les associations.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-236 1967-03-23 art. 214 à 242
-	  - Code monétaire et financier - art. D213-19 (V)
 
 	**Anciens textes**:
 
@@ -62435,6 +62457,15 @@ s'appliquent aux obligations émises par les associations.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. R228-60 (V)
+	  - Code monétaire et financier - art. D213-19 (V)
+
 
 ##### Section 4 : Les titres participatifs.
 
@@ -62442,17 +62473,21 @@ s'appliquent aux obligations émises par les associations.
 
 Les règles relatives aux titres participatifs émis par des sociétés par actions appartenant au secteur public et les sociétés
 coopératives constituées sous la forme de sociétés anonymes ou de sociétés à responsabilité limitée sont définies par les
-articles 242-1 à 242-7 du décret n° 67-236 du 23 mars 1967 sur les sociétés commerciales.
+articles R. 228-49 à R. 228-55 du code de commerce.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-236 1967-03-23 art. 242-1 à 242-7
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. R228-49 (V)
 
 
 ###### Article D213-27
@@ -68332,16 +68367,29 @@ Un mois au plus tard après avoir reçu le rapport de gestion ou, le cas échéa
 leurs observations, les commissaires aux comptes déposent au siège social de la société leur rapport ainsi que le rapport
 spécial prévu à l'article L. 214-76.
 
-Les commissaires aux comptes sont soumis, dans l'exercice de leurs fonctions, aux dispositions des articles 64 à 67 et 69 du
-décret n° 69-810 du 12 août 1969 relatif à l'organisation et au statut professionnel des commissaires aux comptes de
-sociétés.
+Les commissaires aux comptes sont soumis, dans l'exercice de leurs fonctions, aux dispositions des articles R. 821-23 à R.
+822-4, R. 822-6 à R. 823-10 du code de commerce ainsi qu'à l'article 5 du décret n° 69-810 du 12 août 1969 relatif à
+l'organisation et au statut professionnel des commissaires aux comptes de sociétés.
+
+**Nota:**
+
+Le décret n° 69-810 du 12 août 1969 relatif à l'organisation de la profession et au statut professionnel des commissaires aux
+comptes est abrogé ; toutefois, son article 5 reste applicable, dans sa rédaction antérieure à l'entrée en vigueur du décret
+n° 2007-179 du 9 février 2007 modifiant le décret n° 69-810 du 12 août 1969 relatif à l'organisation de la profession et au
+statut professionnel des commissaires aux comptes, jusqu'au 1er juin 2008, (art 5 II 2° du décret n° 2007-431).  Les articles
+R. 822-5 et R. 821-27 du code de commerce entreront en vigueur le 1er juin 2008, (art. 5 III du décret n° 2007-431).  La
+présente version de cet article est en vigueur jusqu'au 1er juin 2008.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°69-810 1969-08-12 art. 64 à 67, art. 69
-	  - Décret n°69-810 du 12 août 1969 - art. 69 (M)
+	  - Décret n°69-810 du 12 août 1969 - art. 5 (M)
+	  - Décret n°2007-179 2007-02-09
+	  - Décret n°2007-431 du 25 mars 2007 - art. 5, v. init.
+	  - Code de commerce R821-23 à R822-4, R822-6 à R823-10, R822-5, R821-27
+	  - Code de commerce. - art. R821-27 (VD)
+	  - Code de commerce. - art. R822-5 (VD)
 	  - Code monétaire et financier - art. L214-76 (V)
 
 	**Anciens textes**:
@@ -68352,6 +68400,10 @@ sociétés.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
 
 	**Cité par**:
 
@@ -73596,32 +73648,31 @@ Le défaut de publicité entraîne l'inopposabilité aux tiers dans les conditio
 
 ###### Article R313-14
 
-I. - Les sociétés commerciales qui recourent à des opérations de crédit-bail pour se procurer des biens d'équipement, des
+I.-Les sociétés commerciales qui recourent à des opérations de crédit-bail pour se procurer des biens d'équipement, des
 matériels ou des immeubles à usage professionnel et qui ne bénéficient pas du régime de présentation simplifiée, tel qu'il
-est prévu à l'article L. 123-16 du code de commerce et à l'article 17 du décret n° 83-1020 du 29 novembre 1983 pris en
-application de la loi n° 83-353 du 30 avril 1983 et relatif aux obligations comptables des commerçants, mentionnent dans
-l'annexe prévue à l'article L. 123-12 du même code les informations suivantes :
+est prévu à l'article L. 123-16 du code de commerce et à l'article R. 123-200 du code de commerce, mentionnent dans l'annexe
+prévue à l'article L. 123-12 du même code les informations suivantes : 
 
-1° La valeur de ces biens au moment de la signature du contrat ;
+1° La valeur de ces biens au moment de la signature du contrat ; 
 
-2° Le montant des redevances afférentes à l'exercice ainsi que le montant cumulé des redevances des exercices précédents ;
+2° Le montant des redevances afférentes à l'exercice ainsi que le montant cumulé des redevances des exercices précédents ; 
 
 3° Les dotations aux amortissements qui auraient été enregistrées pour ces biens au titre de l'exercice clos s'ils avaient
 été acquis par l'entreprise ainsi que le montant cumulé des amortissements qui auraient été effectués au titre des exercices
-précédents ;
+précédents ; 
 
 4° L'évaluation à la date de clôture du bilan des redevances restant à payer ainsi que du prix d'achat résiduel de ces biens
-stipulé aux contrats.
+stipulé aux contrats. 
 
 Les informations prévues aux 1° à 4° sont ventilées selon les postes du bilan dont auraient relevé les biens en cause ; les
 informations prévues au 4° sont ventilées selon les échéances à un an au plus, à plus d'un an et cinq ans au plus et à plus
-de cinq ans.
+de cinq ans. 
 
-II. - Les autres personnes morales et les personnes physiques ayant la qualité de commerçants doivent, en distinguant les
-opérations de crédit-bail mobilier et les opérations de crédit-bail immobilier :
+II.-Les autres personnes morales et les personnes physiques ayant la qualité de commerçants doivent, en distinguant les
+opérations de crédit-bail mobilier et les opérations de crédit-bail immobilier : 
 
 1° Faire apparaître séparément, dans leur compte de résultat, les loyers correspondant à l'exécution des contrats relatifs
-aux opérations précitées ;
+aux opérations précitées ; 
 
 2° Evaluer dans l'annexe et à la date de clôture du bilan le montant total des redevances leur restant à supporter en
 exécution des obligations stipulées dans un ou plusieurs contrats de crédit-bail.
@@ -73630,16 +73681,7 @@ exécution des obligations stipulées dans un ou plusieurs contrats de crédit-b
 
 	**Anciens textes**:
 
-	  - Décret n°72-665 du 4 juillet 1972 - art. 12 (M)
 	  - Décret n°72-665 du 4 juillet 1972 - art. 12 (Ab)
-
-	**Cite**:
-
-	  - Loi n°83-353 1983-04-30
-	  - Décret n°83-1020 du 29 novembre 1983 - art. 17 (M)
-	  - Code de commerce. - art. L123-12 (V)
-	  - Code de commerce. - art. L123-16 (V)
-	  - Code monétaire et financier annexe
 
 	**Cité par**:
 
@@ -73650,6 +73692,16 @@ exécution des obligations stipulées dans un ou plusieurs contrats de crédit-b
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. L123-16 (V)
+	  - Code de commerce - art. R123-12 (V)
+	  - Code de commerce - art. R123-200 (Ab)
 
 
 ##### Sous-section 2 : Crédits aux entreprises.
@@ -77420,22 +77472,25 @@ la Banque fédérale des banques populaires, qui vérifie qu'ils sont conformes 
 ###### Article R512-30
 
 Les établissements de crédit maritime mutuel sont soumis aux formalités de publicité auxquelles sont assujetties les sociétés
-commerciales par le décret n° 84-406 du 30 mai 1984 relatif au registre du commerce et des sociétés.
+commerciales par les articles R. 123-150 à R. 123-162 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°76-1011 du 19 octobre 1976 - art. 6 (M)
 	  - Décret n°76-1011 du 19 octobre 1976 - art. 6 (Ab)
-
-	**Cite**:
-
-	  - Décret n°84-406 1984-05-30
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. R123-150 (V)
 
 
 ###### Article R512-31
@@ -83296,16 +83351,34 @@ Le commissaire aux comptes mentionné à l'article L. 550-2 est désigné par or
 commerce du lieu du domicile ou du siège social du gestionnaire, après avis de l'Autorité des marchés financiers. Ce tribunal
 est compétent pour relever les commissaires aux comptes de leurs fonctions dans les cas prévus à l'article L. 550-5.
 
-Pour l'exercice de sa mission, le commissaire aux comptes est soumis aux dispositions du décret n° 69-810 du 12 août 1969
-relatif à l'organisation et au statut professionnel des commissaires aux comptes de sociétés.
+Pour l'exercice de sa mission, le commissaire aux comptes est soumis aux dispositions des articles R. 821-1 à R. 822-4, R.
+822-6 à R. 823-21 du code de commerce ainsi qu'à l'article 5 du décret n° 69-810 du 12 août 1969 relatif à l'organisation et
+au statut professionnel des commissaires aux comptes de sociétés.
+
+**Nota:**
+
+Le décret n° 69-810 du 12 août 1969 relatif à l'organisation de la profession et au statut professionnel des commissaires aux
+comptes est abrogé ; toutefois, son article 5 reste applicable, dans sa rédaction antérieure à l'entrée en vigueur du décret
+n° 2007-179 du 9 février 207 modifiant le décret n° 69-810 du 12 août 1969 relatif à l'organisation de la profession et au
+statut professionel des commissaires aux comptes, jusqu'au 1er juin 2008, (art. 5 II 2° du décret n° 2007-431).
+
+L'article R. 823-21 du code de commerce entrera en vigueur pour les exercices clos après le 1er juin 2008.
+
+Les articles R. 822-5 et R. 821-27 entreront en vigueur le 1er juin 2008 (art. 5 III du décret n° 2007-431).
+
+La présente version de cet article est en vigueur jusqu'au 1er juin 2008.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°69-810 1969-08-12
+	  - Décret n°69-810 du 12 août 1969 - art. 5 (M)
+	  - Décret n°2007-179 2007-02-09
+	  - Décret n°2007-431 2007-03-25
+	  - Code de commerce R821-1 à R822-4, R822-6 à R823-21
 	  - Code monétaire et financier - art. L550-2 (V)
 	  - Code monétaire et financier - art. L550-5 (M)
+	  - Code monétaire et financier L550-2, L550-5, R822-5, R821-27
 
 	**Anciens textes**:
 
@@ -83315,6 +83388,10 @@ relatif à l'organisation et au statut professionnel des commissaires aux compte
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
 
 
 ### Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux
@@ -85392,21 +85469,28 @@ précédent.
 
 ###### Article R613-23
 
-Par dérogation aux dispositions du décret n° 85-1390 du 27 décembre 1985 fixant le tarif des administrateurs judiciaires en
-matière commerciale et des mandataires judiciaires à la liquidation des entreprises, la rémunération de l'administrateur
+Par dérogation aux dispositions des articles R. 814-27 et R. 814-28 du code de commerce, la rémunération de l'administrateur
 judiciaire, du mandataire judiciaire et du liquidateur judiciaire d'un établissement de crédit ou d'une entreprise
 d'investissement est, au vu d'un état de frais et sur justifications, arrêtée par le président du tribunal, après avis du
 juge commissaire et du procureur de la République.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Décret n°85-1390 1985-12-27
+	  - Décret n°84-708 1984-07-24 art 12-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce. - art. R814-27 (V)
 
 
 ##### Sous-section 2 : Mesures d'assainissement et de liquidation des établissements de crédit communautaires
