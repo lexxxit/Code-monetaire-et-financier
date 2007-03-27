@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-03-27
+Version Consolidée au 2007-03-28
 
 # Partie législative
 
@@ -59933,35 +59933,34 @@ chargé de l'économie.
 ###### Article R144-5
 
 Les articles L. 123-12 à L. 123-14, le premier alinéa de l'article L. 123-15 et les articles L. 123-17 à L. 123-22 du code de
-commerce ainsi que l'article 10, les deuxième et cinquième alinéas de l'article 19 et l'article 23 du décret n° 83-1020 du 29
-novembre 1983 pris en application de la loi n° 83-353 du 30 avril 1983 et relatif aux obligations comptables des commerçants
-sont applicables à la Banque de France, sous réserve des dérogations prévues aux articles R. 144-6 et R. 144-7.
+commerce ainsi que l'article R. 123-181, le deuxième alinéa de l'article R. 123-186, le premier alinéa de l'article R.
+123-187 et R. 123-189 du code de commerce sont applicables à la Banque de France, sous réserve des dérogations prévues aux
+articles R. 143-6 et R. 143-7.
 
-Un arrêté du ministre chargé de l'économie pris après avis du Conseil de la politique monétaire fixe le classement des
+Un arrêté du ministre chargé de l'économie pris après avis du conseil de la politique monétaire fixe le classement des
 éléments du bilan et du compte de résultat, ainsi que les mentions à inclure dans l'annexe mentionnée à l'article L. 123-13
 du code de commerce.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°83-353 1983-04-30
-	  - Décret n°83-1020 1983-11-29 art. 23, art. 19
-	  - Décret n°83-1020 du 29 novembre 1983 - art. 23 (Ab)
-	  - Code de commerce L123-17 à L123-22, L123-13
-	  - Code de commerce. - art. L123-13 (V)
-	  - Code monétaire et financier - art. R144-6 (M)
-	  - Code monétaire et financier - art. R144-7 (V)
-	  - Code monétaire et financier L123-12 à L123-14, L123-15, 10, R144-6, R144-7, annexe
-
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
 
 	**Cité par**:
 
 	  - Arrêté du 8 novembre 2010 (V)
 	  - Code monétaire et financier - art. R612-16 (V)
+
+	**Cite**:
+
+	  - Code de commerce L123-17 à L123-22, L123-13
+	  - Code de commerce. - art. L123-13 (V)
+	  - Code monétaire et financier L123-12 à L123-14, L123-15, R123-181, R123-186, R123-187, R143-6, R143-7, annexe
 
 
 ###### Article R144-6
@@ -78803,19 +78802,19 @@ lui proposer un autre nom.
 
 ###### Article R515-13
 
-I. - Les fonctions des contrôleurs spécifiques, titulaire et suppléant, expirent après la remise du rapport et des états
+I.-Les fonctions des contrôleurs spécifiques, titulaire et suppléant, expirent après la remise du rapport et des états
 certifiés arrêtés à la fin du quatrième exercice suivant leur nomination. Leur mandat est renouvelable. Lorsqu'ils souhaitent
 renouveler le mandat desdits contrôleurs, les dirigeants de la société de crédit foncier adressent leur proposition à la
-Commission bancaire au moins trois mois avant la fin du quatrième exercice qui suit la nomination de ces contrôleurs.
+Commission bancaire au moins trois mois avant la fin du quatrième exercice qui suit la nomination de ces contrôleurs. 
 
-II. - Le contrôleur spécifique désigné en remplacement de celui dont les fonctions ont pris fin avant leur terme normal
-achève le mandat de celui qu'il remplace.
+II.-Le contrôleur spécifique désigné en remplacement de celui dont les fonctions ont pris fin avant leur terme normal achève
+le mandat de celui qu'il remplace. 
 
-III. - Les dispositions de l'article 188 du décret du 23 mars 1967 sur les sociétés commerciales sont applicables au
-contrôleur spécifique. La demande de récusation du contrôleur spécifique est faite par lettre recommandée avec demande d'avis
-de réception lorsqu'elle émane de la commission bancaire.
+III.-Les dispositions de l'article R. 823-5 du code de commerce sont applicables au contrôleur spécifique. La demande de
+récusation du contrôleur spécifique est faite par lettre recommandée avec demande d'avis de réception lorsqu'elle émane de la
+commission bancaire. 
 
-IV. - Le contrôleur spécifique atteste du respect de la règle prévue à l'article L. 515-20 sur la base d'un programme
+IV.-Le contrôleur spécifique atteste du respect de la règle prévue à l'article L. 515-20 sur la base d'un programme
 trimestriel d'émissions de ressources bénéficiant du privilège mentionné à l'article L. 515-19. Il atteste du respect de
 cette même règle pour toute émission de ressources bénéficiant de ce privilège et dont la valeur unitaire est supérieure ou
 égale à 500 millions d'euros, ou son équivalent dans l'unité monétaire de l'émission.
@@ -78826,15 +78825,15 @@ cette même règle pour toute émission de ressources bénéficiant de ce privil
 
 	  - Décret n°99-710 du 3 août 1999 - art. 9 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L515-19 (M)
-	  - Code monétaire et financier - art. L515-20 (M)
-	  - Décret n°67-XXXX 1967-03-23 art. 188
+	  - Code de commerce - art. R823-5 (V)
+	  - Code monétaire et financier - art. L515-19 (V)
+	  - Code monétaire et financier - art. L515-20 (V)
 
 	**Cité par**:
 
