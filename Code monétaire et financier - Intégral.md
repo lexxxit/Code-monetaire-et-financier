@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-03-28
+Version Consolidée au 2007-04-12
 
 # Partie législative
 
@@ -79274,7 +79274,8 @@ Chaque membre du conseil d'administration est remplacé en cas d'absence ou d'em
 mêmes conditions que le titulaire.
 
 II. - Le président du conseil d'administration est nommé par décret pris sur le rapport du ministre chargé de l'économie, du
-ministre chargé de la coopération et du développement et du ministre chargé de l'outre-mer.
+ministre chargé de la coopération et du développement et du ministre chargé de l'outre-mer. La limite d'âge applicable au
+président du conseil d'aministration est de 70 ans.
 
 Il dispose d'une voix prépondérante en cas de partage égal des voix.
 
@@ -79290,22 +79291,10 @@ fonction pour la durée restant à courir du mandat initial.
 
 IV. - Le mandat des membres du conseil d'administration est gratuit.
 
-**Nota:**
-
-NOTA : Décret 2006-530 2006-05-09 art 14 :
-
-Les dispositions des articles R. 516-13 à R. 516-15 dans leur rédaction antérieure au présent décret sont maintenues en
-vigueur et le mandat des membres du conseil de surveillance de l'agence est prorogé jusqu'à la désignation de l'ensemble des
-membres du conseil d'administration dans la composition fixée par l'article 8.
-
-Les représentants élus du personnel au sein du conseil de surveillance poursuivent en qualité de membres du conseil
-d'administration leur mandat jusqu'à l'expiration de celui-ci.
+Toutefois, le président du conseil d'administration perçoit une indemnité de fonction dont le montant est fixé par arrêté
+conjoint des ministres chargés de l'économie, de la coopération et de l'outre-mer.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
 
 	**Anciens textes**:
 
@@ -79317,7 +79306,7 @@ d'administration leur mandat jusqu'à l'expiration de celui-ci.
 
 	**Modifié par**:
 
-	  - Décret n°2006-530 du 9 mai 2006 - art. 8 () JORF 11 mai 2006
+	  - Décret n°2007-538 du 11 avril 2007 - art. 1 () JORF 12 avril 2007
 
 	**Cité par**:
 
