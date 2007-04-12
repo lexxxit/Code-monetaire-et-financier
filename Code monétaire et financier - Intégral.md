@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-04-12
+Version Consolidée au 2007-04-13
 
 # Partie législative
 
@@ -83382,9 +83382,9 @@ La présente version de cet article est en vigueur jusqu'au 1er juin 2008.
 	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
 
 
-### Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux
+### Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes.
 
-#### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite
+#### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite.
 
 ##### Section 1 : Communication et déclaration.
 
@@ -83432,7 +83432,11 @@ Le ministre chargé de l'économie définit par arrêté la forme de la déclara
 
 	**Modifié par**:
 
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 2 (V) JORF 8 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -83449,9 +83453,9 @@ Le ministre chargé de l'économie définit par arrêté la forme de la déclara
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L562-2-1 (M)
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L562-2
+	  - Code monétaire et financier - art. L562-2-1
 
 
 ###### Article R562-2
@@ -83474,8 +83478,8 @@ Sous réserve des dispositions du deuxième alinéa de l'article R. 562-2-2, les
 huissiers de justice, les administrateurs judiciaires et mandataires judiciaires, les avocats au Conseil d'Etat et à la Cour
 de cassation, les avocats et les avoués près les cours d'appel et les commissaires-priseurs judiciaires sont chargés, à titre
 individuel, de répondre aux demandes du service à compétence nationale TRACFIN et de recevoir les accusés de réception,
-quelles que soient les modalités de leur exercice professionnel.
-  ** (1)**
+quelles que soient les modalités de leur exercice professionnel. 
+  **(1)**
 
 **Nota:**
 
@@ -83496,7 +83500,7 @@ l'article L. 562-1 et la cellule TRACFIN dans les cas où ces personnes réponde
 
 	**Modifié par**:
 
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 2 (V) JORF 8 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -83547,13 +83551,17 @@ service à compétence nationale TRACFIN et l'autorité de contrôle.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 2 (V) JORF 8 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L511-34 (M)
-	  - Code monétaire et financier - art. R562-1 (M)
-	  - Code monétaire et financier - art. R562-2 (M)
+	  - Code monétaire et financier - art. L511-34
+	  - Code monétaire et financier - art. R562-1
+	  - Code monétaire et financier - art. R562-2
 
 
 ###### Article R562-2-2
@@ -83575,13 +83583,17 @@ service à compétence nationale TRACFIN n'accuse pas non plus réception auprè
 
 	**Modifié par**:
 
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 2 (V) JORF 8 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L562-2-1 (M)
-	  - Code monétaire et financier - art. L562-6 (M)
+	  - Code monétaire et financier - art. L562-2
+	  - Code monétaire et financier - art. L562-2-1
+	  - Code monétaire et financier - art. L562-6
 
 	**Cité par**:
 
@@ -83604,14 +83616,18 @@ service à compétence nationale TRACFIN dans le mois suivant sa réception en a
 
 	**Modifié par**:
 
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 2 (V) JORF 8 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-2-1 (M)
+	  - Code monétaire et financier - art. L562-2-1
 
 
-##### Section 2 : Pôle ministériel de lutte contre les circuits financiers clandestins : service TRACFIN et conseil d'orientation
+##### Section 2 : Pôle ministériel de lutte contre les circuits financiers clandestins : service TRACFIN et conseil d'orientation.
 
 ###### Article R562-3
 
@@ -83631,9 +83647,13 @@ clandestins) ;
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Anciens textes**:
 
@@ -83641,7 +83661,7 @@ clandestins) ;
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-4 (M)
+	  - Code monétaire et financier - art. L562-4
 
 
 ###### Article R562-4
@@ -83671,9 +83691,13 @@ financement du terrorisme.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Anciens textes**:
 
@@ -83681,7 +83705,7 @@ financement du terrorisme.
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-2 (M)
+	  - Code monétaire et financier - art. L562-2
 
 
 ###### Article R562-5
@@ -83716,9 +83740,13 @@ Le secrétariat du conseil est assuré par le service à compétence nationale T
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Anciens textes**:
 
@@ -83739,9 +83767,13 @@ dans des conditions fixées par un arrêté conjoint des ministres chargés de l
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Anciens textes**:
 
@@ -83760,9 +83792,13 @@ qui leur sont nécessaires au titre de la protection des secrets relevant de la 
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Anciens textes**:
 
@@ -83788,9 +83824,13 @@ information au ministre de la justice.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Anciens textes**:
 
@@ -83798,22 +83838,23 @@ information au ministre de la justice.
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-4 (M)
-	  - Code monétaire et financier - art. L563-5 (M)
+	  - Code monétaire et financier - art. L562-4
+	  - Code monétaire et financier - art. L563-5
 
 
-##### Section 3 : Comité de liaison de la lutte contre le blanchiment des produits des crimes.
+##### Section 3 : Comité de liaison de la lutte contre le blanchiment des produits des crimes et délits et de la lutte contre le financement des activités terroristes.
 
 ###### Article D562-12
 
-Le comité de liaison de la lutte contre le blanchiment des produits des crimes et des délits institué par l'article L. 562-10
-a pour objet :
+Le comité de liaison de la lutte contre le blanchiment des produits des crimes et des délits et de la lutte contre le
+financement des activités terroristes institué par l'article L. 562-10 a pour objet :
 
 1° D'assurer une meilleure information réciproque des professions mentionnées à l'article L. 562-1 et des services de l'Etat
 et autorités de contrôle concernés, sur l'ensemble de la matière traitée dans ce titre, afin d'améliorer la participation de
-ces professions à la lutte contre le blanchiment de capitaux ;
+ces professions à la lutte contre le blanchiment de capitaux et le financement des activités terroristes ;
 
-2° De faire des propositions sur les améliorations à apporter au dispositif national de lutte contre le blanchiment.
+2° De faire des propositions sur les améliorations à apporter au dispositif national de lutte contre le blanchiment et le
+financement des activités terroristes.
 
 **Liens relatifs à cet article**
 
@@ -83826,10 +83867,18 @@ ces professions à la lutte contre le blanchiment de capitaux ;
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-69 du 18 janvier 2010 - art. 1
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-10 (M)
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L562-10
 
 
 ###### Article D562-13
@@ -83851,7 +83900,11 @@ en assure le secrétariat.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 2 (V) JORF 8 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-69 du 18 janvier 2010 - art. 1
 
 
 ###### Article D562-14
@@ -83918,11 +83971,15 @@ ponctuellement concernés.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-69 du 18 janvier 2010 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1 (M)
+	  - Code monétaire et financier - art. L562-1
 
 
 ###### Article D562-15
@@ -83941,6 +83998,14 @@ extraordinaire sur une question importante et urgente.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2010-69 du 18 janvier 2010 - art. 1
 
 
 #### Chapitre III : Autres obligations de vigilance.
@@ -84007,7 +84072,7 @@ Les organismes financiers et les personnes mentionnés à l'article L. 562-1 con
 
 Pour l'ouverture d'un compte, la mesure prévue au 3° ne constitue pas une disposition suffisante et doit être accompagnée
 d'une autre mesure parmi celles énumérées ci-dessus. Les règlements professionnels ou administratifs prévus à l'article L.
-565-3 précisent en tant que de besoin quelles mesures ou combinaison de mesures parmi celles prévues ci-dessus sont
+566-3 (1) précisent en tant que de besoin quelles mesures ou combinaison de mesures parmi celles prévues ci-dessus sont
 spécifiquement nécessaires pour certaines catégories d'opérations.
 
 IV. - Lorsqu'il apparaît aux organismes financiers et aux personnes mentionnés à l'article L. 562-1 que leur cocontractant
@@ -84055,6 +84120,11 @@ Les exceptions et présomptions prévues aux cinq alinéas précédents ne s'app
 changeur manuel, un intermédiaire en biens divers, un démarcheur, un conseiller en investissements financiers ou relève d'une
 profession étrangère équivalente.
 
+**Nota:**
+
+L'article L565-3 du code monétaire et financier a été transféré à l'article L566-3 du même code par l'article 36 de la loi n°
+2007-297 du 5 mars 2007 JORF 7 mars 2007.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -84080,13 +84150,18 @@ profession étrangère équivalente.
 
 	**Modifié par**:
 
-	  - Décret n°2006-736 du 26 juin 2006 - art. 2 () JORF 27 juin 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L563-1 (M)
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L562-2
+	  - Code monétaire et financier - art. L563-1
+	  - Code monétaire et financier - art. L566-3
 
 
 ###### Article R563-2
@@ -84111,12 +84186,16 @@ dernière existe pour la profession, sur leur demande, les documents écrits men
 
 	**Modifié par**:
 
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 2 (V) JORF 8 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L563-3 (M)
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L563-3
 
 	**Cité par**:
 
@@ -84155,11 +84234,15 @@ de la personnalité morale, les obligations fixées par le présent article s'im
 
 	**Modifié par**:
 
-	  - Décret n°2006-736 du 26 juin 2006 - art. 2 () JORF 27 juin 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1 (M)
+	  - Code monétaire et financier - art. L562-1
 
 	**Cité par**:
 
@@ -84201,110 +84284,32 @@ dans le cadre d'une consultation juridique.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Créé par**:
-
-	  - Décret n°2006-736 2006-06-26 art. 1 2° JORF 27 juin 2006
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L562-1 (M)
-
-
-#### Chapitre IV : Dispositions diverses.
-
-###### Article D564-2
-
-Pour l'application du premier alinéa de l'article L. 564-1, les casinos doivent enregistrer les noms et adresses des joueurs
-qui remettent ou qui reçoivent des moyens de paiement en échange de jetons ou de plaques, ainsi que la référence du document
-probant d'identité produit, dès lors que les sommes en cause excèdent 1 000 euros par séance.
-
-Le registre doit être conservé pendant dix ans.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°91-160 du 13 février 1991 - art. 8 (Ab)
-	  - Décret n°92-362 1992-04-01 art 1
-	  - Décret n°92-362 du 1 avril 1992 - art. 1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
 
-	**Cité par**:
+	**Abrogé par**:
 
-	  - Arrêté du 14 mai 2007 - art. 36 (V)
-	  - Arrêté du 14 mai 2007 - art. 67-1 (V)
-	  - Code monétaire et financier - art. D735-11 (Ab)
-	  - Code monétaire et financier - art. D745-11 (V)
-	  - Code monétaire et financier - art. D755-11 (V)
-	  - Code monétaire et financier - art. D765-11 (V)
-	  - Code monétaire et financier - art. R564-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. D565-2 (V)
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L564-1 (M)
+	  - Code monétaire et financier - art. L562-1
 
 
-###### Article D564-3
-
-Les dispositions du deuxième alinéa de l'article L. 564-1 s'appliquent à partir d'un montant de 5 000 euros. Ce montant
-s'apprécie par référence au gain produit pour chaque type de jeu, par prise de jeu, ou pour chaque type de pari, par unité de
-mise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Transféré par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Cité par**:
-
-	  - Décret n°2016-774 du 10 juin 2016 (V)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. D565-3 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L564-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°2005-05-12 art 1
-
+#### Chapitre IV : Dispositions relatives à la lutte contre le financement des activités terroristes.
 
 ###### Article R564-1
 
-Les arrêtés ministériels ou les règlements professionnels homologués par le ministre compétent ou les dispositions du
-règlement général de l'Autorité des marchés financiers pris pour l'application du titre VI du livre V tiennent compte de la
-situation particulière de chaque catégorie d'organismes financiers ou de personnes mentionnés à l'article L. 562-1 ainsi que
-de la nature de leur activité.
+Lorsqu'une mesure de gel des fonds, instruments financiers et ressources économiques mentionnée à l'article L. 564-2 a été
+prise par le ministre chargé de l'économie, la personne qui en a fait l'objet peut faire une demande afin de disposer
+mensuellement, dans la limite des avoirs ou fonds disponibles, d'une somme à caractère alimentaire d'un montant au plus égal
+à celui du revenu mensuel minimum d'insertion.
 
-Le ministre chargé de l'économie arrête les modalités d'application des obligations de vigilance des organismes financiers
-mentionnés aux 1 et 6 de l'article L. 562-1 et à l'article L. 611-3 dans les conditions prévues aux articles L. 520-2, L.
-611-1 et L. 611-3.
-
-Le contrôle de l'inspection générale des finances sur La Poste prévu à l'article L. 565-3 est exercé en liaison avec
-l'inspection générale des postes et télécommunications.
-
-Les changeurs manuels résidant dans les départements d'outre-mer adressent leur déclaration d'activité à l'Institut
-d'émission des départements d'outre-mer ; ceux qui résident en Nouvelle-Calédonie, en Polynésie française et dans les îles
-Wallis et Futuna adressent leur déclaration d'activité à l'Institut d'émission d'outre-mer.
+La demande est adressée au ministre chargé de l'économie, qui notifie sa décision à l'intéressé dans un délai de quinze jours
+à compter de la réception de celle-ci. Il informe l'organisme teneur du compte ou du contrat de sa décision. L'absence de
+notification d'une décision au demandeur dans le délai de quinze jours à compter de la réception de la demande vaut décision
+de rejet.
 
 **Liens relatifs à cet article**
 
@@ -84314,19 +84319,15 @@ Wallis et Futuna adressent leur déclaration d'activité à l'Institut d'émissi
 
 	**Modifié par**:
 
-	  - Décret n°2006-1504 du 4 décembre 2006 - art. 2 () JORF 5 décembre 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 2 () JORF 13 avril 2007
 
-	**Transféré par**:
+	**Abrogé par**:
 
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+	  - Décret n°2009-716 du 18 juin 2009 - art. 7
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L520-2 (M)
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L565-3 (T)
-	  - Code monétaire et financier - art. L611-1 (M)
-	  - Code monétaire et financier - art. L611-3 (M)
+	  - Code monétaire et financier - art. L564-2
 
 	**Cité par**:
 
@@ -84341,7 +84342,199 @@ Wallis et Futuna adressent leur déclaration d'activité à l'Institut d'émissi
 	  - Code monétaire et financier - art. R565-1 (V)
 
 
-###### Article R564-2-1
+###### Article R564-2
+
+Pour l'application des mesures visées à l'article L. 564-2 :
+
+1° Les organismes et personnes mentionnés à l'article L. 564-1 qui détiennent ou reçoivent des fonds, des instruments
+financiers ou des ressources économiques mentionnés à ce même article pour le compte d'un client habituel ou occasionnel
+faisant l'objet d'une mesure de gel mettent immédiatement en oeuvre cette mesure et en informent sans délai le ministre
+chargé de l'économie.
+
+2° Les organismes et personnes mentionnés à l'article L. 564-1 qui reçoivent l'ordre d'un client habituel ou occasionnel,
+autre qu'un organisme ou une personne mentionné à l'article L. 564-1, d'exécuter pour son compte un transfert hors de France
+de fonds, d'instruments financiers ou de ressources économiques mentionnés à ce même article au profit d'une personne faisant
+l'objet d'une mesure de gel en informent sans délai le ministre chargé de l'économie.
+
+Ils suspendent l'exécution de cet ordre jusqu'à une autorisation ultérieure du ministre chargé de l'économie.
+
+Le ministre chargé de l'économie peut, le cas échéant, autoriser la restitution des fonds, instruments financiers ou
+ressources économiques au donneur d'ordre.
+
+3° Les organismes et personnes mentionnés à l'article L. 564-1 qui reçoivent de l'étranger des fonds, des instruments
+financiers ou des ressources économiques mentionnés au même article d'une personne faisant l'objet d'une mesure de gel au
+profit d'un client habituel ou occasionnel, autre qu'un organisme financier ou une personne mentionné à l'article L. 564-1,
+en informent sans délai le ministre chargé de l'économie. Toutefois, dans le cas d'un transfert en provenance d'un pays de la
+Communauté européenne, cette obligation ne s'applique pas s'ils n'ont pas connaissance de l'identité du donneur d'ordre par
+application du paragraphe 1 de l'article 6 du règlement (CE) n° 1781/2006 du Parlement et du Conseil du 15 novembre 2006
+relatif aux informations concernant le donneur d'ordre accompagnant les virements de fonds.
+
+Ils suspendent l'exécution de cet ordre jusqu'à une autorisation ultérieure du ministre chargé de l'économie.
+
+Ils ne versent les fonds, instruments financiers ou ressources économiques au bénéficiaire que sur autorisation préalable du
+ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-545 du 11 avril 2007 - art. 2 () JORF 13 avril 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L564-1
+	  - Code monétaire et financier - art. L564-2
+	  - Règlement (CE) 1781-2006 2006-11-15 art. 6
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R562-2 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R735-10 (Ab)
+	  - Code monétaire et financier - art. R745-10 (V)
+	  - Code monétaire et financier - art. R755-10 (V)
+	  - Code monétaire et financier - art. R765-10 (V)
+
+
+#### Chapitre V : Dispositions diverses.
+
+###### Article D565-2
+
+Pour l'application du premier alinéa de l'article L. 564-1, les casinos doivent enregistrer les noms et adresses des joueurs
+qui remettent ou qui reçoivent des moyens de paiement en échange de jetons ou de plaques, ainsi que la référence du document
+probant d'identité produit, dès lors que les sommes en cause excèdent 1 000 euros par séance.
+
+Le registre doit être conservé pendant dix ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1013 du 25 août 2009 - art. 1
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. D564-2 (T)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L564-1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R755-10 (V)
+	  - Code monétaire et financier - art. R765-10 (V)
+
+
+###### Article D565-3
+
+Les dispositions du deuxième alinéa de l'article L. 564-1 s'appliquent à partir d'un montant de 5 000 euros. Ce montant
+s'apprécie par référence au gain produit pour chaque type de jeu, par prise de jeu, ou pour chaque type de pari, par unité de
+mise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. D564-3 (T)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L564-1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R735-10 (Ab)
+	  - Code monétaire et financier - art. R745-10 (V)
+	  - Code monétaire et financier - art. R755-10 (V)
+	  - Code monétaire et financier - art. R765-10 (V)
+
+
+###### Article R565-1
+
+Les arrêtés ministériels ou les règlements professionnels homologués par le ministre compétent ou les dispositions du
+règlement général de l'Autorité des marchés financiers pris pour l'application du titre VI du livre V tiennent compte de la
+situation particulière de chaque catégorie d'organismes financiers ou de personnes mentionnés à l'article L. 562-1 ainsi que
+de la nature de leur activité.
+
+Le ministre chargé de l'économie arrête les modalités d'application des obligations de vigilance des organismes financiers
+mentionnés aux 1 et 6 de l'article L. 562-1 et à l'article L. 611-3 dans les conditions prévues aux articles L. 520-2, L.
+611-1 et L. 611-3.
+
+Le contrôle de l'inspection générale des finances sur La Poste prévu à l'article L. 566-3 est exercé en liaison avec
+l'inspection générale des postes et télécommunications.
+
+Les changeurs manuels résidant dans les départements d'outre-mer adressent leur déclaration d'activité à l'Institut
+d'émission des départements d'outre-mer ; ceux qui résident en Nouvelle-Calédonie, en Polynésie française et dans les îles
+Wallis et Futuna adressent leur déclaration d'activité à l'Institut d'émission d'outre-mer.
+
+**Nota:**
+
+L'article L565-3 du code de commerce a été transféré à l'article L566-3 du même code par l'article 36 de la loi n° 2007-297
+du 5 mars 2007 JORF 7 mars 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L520-2 (M)
+	  - Code monétaire et financier - art. L562-1 (M)
+	  - Code monétaire et financier - art. L566-3 (V)
+	  - Code monétaire et financier - art. L611-1 (M)
+	  - Code monétaire et financier - art. L611-3 (M)
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. R564-1 (M)
+	  - Code monétaire et financier - art. R564-1 (T)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R735-10 (Ab)
+	  - Code monétaire et financier - art. R745-10 (V)
+	  - Code monétaire et financier - art. R755-10 (V)
+	  - Code monétaire et financier - art. R765-10 (V)
+
+
+###### Article R565-2-1
 
 Les informations portées sur le registre prévu à l'article L. 565-1 ne peuvent être utilisées qu'à des fins de lutte contre
 le blanchiment et le financement du terrorisme. Ces informations font mention des sommes apportées ou échangées par le
@@ -84355,28 +84548,27 @@ joueur.
 
 	**Créé par**:
 
-	  - Décret n°2006-736 2006-06-26 art. 3 2° JORF 27 juin 2006
-
-	**Transféré par**:
-
 	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L565-1 (T)
+	  - Code monétaire et financier - art. L565-1
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code monétaire et financier - art. R565-2-1 (V)
+	  - Code monétaire et financier - art. R564-2-1 (T)
 
 	**Cité par**:
 
-	  - Code monétaire et financier - art. R735-10 (M)
-	  - Code monétaire et financier - art. R745-10 (M)
-	  - Code monétaire et financier - art. R755-10 (M)
+	  - Code monétaire et financier - art. R735-10 (Ab)
+	  - Code monétaire et financier - art. R765-10 (V)
 
 
-###### Article R564-4
+###### Article R565-4
 
 Pour l'application du deuxième alinéa de l'article L. 562-6, le service à compétence nationale TRACFIN informe les personnes
 habilitées, mentionnées à l'article R. 562-2, de la saisine du procureur de la République dans un délai de deux semaines
@@ -84389,29 +84581,30 @@ sécurisé accepté par les deux parties.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Modifié par**:
-
-	  - Décret n°2006-1541 du 6 décembre 2006 - art. 2 (V) JORF 8 décembre 2006
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
 
+	**Abrogé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-6 (M)
-	  - Code monétaire et financier - art. R562-2 (M)
+	  - Code monétaire et financier - art. L562-6
+	  - Code monétaire et financier - art. R562-2
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code monétaire et financier - art. R565-4 (V)
+	  - Code monétaire et financier - art. R564-4 (M)
+	  - Code monétaire et financier - art. R564-4 (T)
 
 	**Cité par**:
 
-	  - Code monétaire et financier - art. R735-10 (M)
-	  - Code monétaire et financier - art. R745-10 (M)
-	  - Code monétaire et financier - art. R755-10 (M)
-	  - Code monétaire et financier - art. R765-10 (M)
+	  - Code monétaire et financier - art. R735-10 (Ab)
+	  - Code monétaire et financier - art. R745-10 (V)
+	  - Code monétaire et financier - art. R755-10 (V)
+	  - Code monétaire et financier - art. R765-10 (V)
 
 
 ### Titre VII : Dispositions pénales
@@ -90161,7 +90354,7 @@ Les articles D. 541-1 à D. 541-9 sont applicables à Mayotte.
 	  - Code monétaire et financier
 
 
-##### Section 6 : Obligations relatives à la lutte contre le blanchiment de capitaux
+##### Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes
 
 ###### Article D735-11
 
@@ -90173,15 +90366,23 @@ Les dispositions de l'article D. 564-2 sont applicables à Mayotte.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-545 du 11 avril 2007 - art. 3 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. D564-2 (T)
+	  - Code monétaire et financier - art. D564-2
 
 
 ###### Article R735-10
 
-Les articles R. 562-1, R. 562-2, R. 562-2-1 à R. 562-2-3, R. 563-1 à R. 563-4, R. 564-1, R. 564-2-1 et R. 564-4 sont
-applicables à Mayotte.
+Les articles R. 562-1, R. 562-2, R. 562-2-1 à R. 562-2-3, R. 563-1 à R. 563-4, R. 564-1, R. 564-2, R. 565-1, D. 565-3, R.
+565-2-1, D. 562-2 et R. 565-4 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -90195,16 +90396,23 @@ applicables à Mayotte.
 
 	**Modifié par**:
 
-	  - Décret n°2006-736 du 26 juin 2006 - art. 4 () JORF 27 juin 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 3 () JORF 13 avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R562-1 (M)
-	  - Code monétaire et financier - art. R562-2 (M)
-	  - Code monétaire et financier - art. R564-1 (M)
-	  - Code monétaire et financier - art. R564-2-1 (T)
-	  - Code monétaire et financier - art. R564-4 (M)
-	  - Code monétaire et financier R562-1, R562-2, R562-2-1 à R562-2-3, R563-1 à R563-4, R564-1, R564-2-1, R564-4
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. D565-3
+	  - Code monétaire et financier - art. R562-1
+	  - Code monétaire et financier - art. R562-2
+	  - Code monétaire et financier - art. R564-1
+	  - Code monétaire et financier - art. R564-2
+	  - Code monétaire et financier - art. R565-1
+	  - Code monétaire et financier - art. R565-2-1
+	  - Code monétaire et financier - art. R565-4
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière.
@@ -91401,7 +91609,7 @@ du code des assurances" est supprimé.
 	  - Code monétaire et financier D541-1 à D541-9, D541-8
 
 
-##### Section 7 : Obligations relatives à la lutte contre le blanchiment de capitaux.
+##### Section 7 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes
 
 ###### Article D745-11
 
@@ -91413,6 +91621,10 @@ Les dispositions de l'article D. 564-2 sont applicables en Nouvelle-Calédonie.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-545 du 11 avril 2007 - art. 3 () JORF 13 avril 2007
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. D564-2 (T)
@@ -91420,8 +91632,8 @@ Les dispositions de l'article D. 564-2 sont applicables en Nouvelle-Calédonie.
 
 ###### Article R745-10
 
-Les articles R. 562-1, R. 562-2, R. 562-2-1 à R. 563-2-3, R. 563-1 à R. 563-4, R. 564-1, R. 564-2-1 et R. 564-4 sont
-applicables en Nouvelle-Calédonie.
+Les articles R. 562-1, R. 562-2, R. 562-2-1 à R. 563-2-3, R. 563-1 à R. 563-4, R. 564-1, R. 564-2, R. 565-1, D. 562-2 R.
+565-2-1, D. 565-3 et R. 565-4 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -91435,7 +91647,7 @@ applicables en Nouvelle-Calédonie.
 
 	**Modifié par**:
 
-	  - Décret n°2006-736 du 26 juin 2006 - art. 4 () JORF 27 juin 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 3 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -91444,12 +91656,14 @@ applicables en Nouvelle-Calédonie.
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. D565-3 (V)
 	  - Code monétaire et financier - art. R562-1 (M)
 	  - Code monétaire et financier - art. R562-2 (M)
 	  - Code monétaire et financier - art. R564-1 (M)
-	  - Code monétaire et financier - art. R564-2-1 (T)
-	  - Code monétaire et financier - art. R564-4 (M)
-	  - Code monétaire et financier R562-1, R562-2, R562-2-1 à R563-2-3, R563-1 à R563-4, R564-1, R564-2-1, R564-4
+	  - Code monétaire et financier - art. R564-2 (V)
+	  - Code monétaire et financier - art. R565-1 (V)
+	  - Code monétaire et financier - art. R565-4 (V)
+	  - Code monétaire et financier R562-1, R562-2, R562-2-1 à R563-2-3, R563-1 à R563-4, R564-1, R564-2, R565-1, D562-2, D565-3, R565-4
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -92772,7 +92986,7 @@ Pour l'application de l'article D. 541-8, le membre de phrase :
 	  - Code monétaire et financier D541-1 à D541-9, D541-8
 
 
-##### Section 6 : Obligations relatives à la lutte contre le blanchiment de capitaux
+##### Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes
 
 ###### Article D755-11
 
@@ -92784,6 +92998,10 @@ Les dispositions de l'article D. 564-2 sont applicables en Polynésie française
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-545 du 11 avril 2007 - art. 3 () JORF 13 avril 2007
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. D564-2 (T)
@@ -92791,8 +93009,8 @@ Les dispositions de l'article D. 564-2 sont applicables en Polynésie française
 
 ###### Article R755-10
 
-Les articles R. 562-1, R. 562-2, R. 562-2-1 à R. 562-2-3, R. 563-1 à R. 563-4, R. 564-1, R. 564-2-1 et R. 564-4 sont
-applicables en Polynésie française.
+Les articles R. 562-1, R. 562-2, R. 562-2-1 à R. 562-2-3, R. 563-1 à R. 563-4, R. 564-1, R. 564-2, R. 565-1, D. 565-2, R.
+565-2-1, D. 565-3 et R. 565-4 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -92806,7 +93024,7 @@ applicables en Polynésie française.
 
 	**Modifié par**:
 
-	  - Décret n°2006-736 du 26 juin 2006 - art. 4 () JORF 27 juin 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 3 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -92815,12 +93033,15 @@ applicables en Polynésie française.
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. D565-2 (V)
+	  - Code monétaire et financier - art. D565-3 (V)
 	  - Code monétaire et financier - art. R562-1 (M)
 	  - Code monétaire et financier - art. R562-2 (M)
 	  - Code monétaire et financier - art. R564-1 (M)
-	  - Code monétaire et financier - art. R564-2-1 (T)
-	  - Code monétaire et financier - art. R564-4 (M)
-	  - Code monétaire et financier R562-1, R562-2, R562-2-1 à R562-2-3, R563-1 à R563-4, R564-1, R564-2-1, R564-4
+	  - Code monétaire et financier - art. R564-2 (V)
+	  - Code monétaire et financier - art. R565-1 (V)
+	  - Code monétaire et financier - art. R565-4 (V)
+	  - Code monétaire et financier R562-1, R562-2, R562-2-1 à R562-2-3, R563-1 à R563-4, R564-1, R564-2, R565-1, D565-2, D565-3, R565-4
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -93899,7 +94120,7 @@ Les articles D. 541-1 à D. 541-9 sont applicables dans les îles Wallis et Futu
 	  - Code monétaire et financier D541-1 à D541-9
 
 
-##### Section 6 : Obligations relatives à la lutte contre le blanchiment de capitaux.
+##### Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes
 
 ###### Article D765-11
 
@@ -93911,6 +94132,10 @@ Les dispositions de l'article D. 564-2 sont applicables dans les îles Wallis et
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-545 du 11 avril 2007 - art. 3 () JORF 13 avril 2007
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. D564-2 (T)
@@ -93918,8 +94143,8 @@ Les dispositions de l'article D. 564-2 sont applicables dans les îles Wallis et
 
 ###### Article R765-10
 
-Les articles R. 562-1, R. 562-2, R. 562-2-1 à R. 562-2-3, R. 563-1 à R. 563-4, R. 564-1 à R. 564-2-1 et R. 564-4 sont
-applicables dans les îles Wallis et Futuna.
+Les articles R. 562-1, R. 562-2, R. 562-2-1 à R. 562-2-3, R. 563-1 à R. 563-4, R. 564-1, R. 564-2, R. 565-1, D. 565-2, R.
+565-2-1, D. 565-3 et R. 565-4 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -93933,7 +94158,7 @@ applicables dans les îles Wallis et Futuna.
 
 	**Modifié par**:
 
-	  - Décret n°2006-736 du 26 juin 2006 - art. 4 () JORF 27 juin 2006
+	  - Décret n°2007-545 du 11 avril 2007 - art. 3 () JORF 13 avril 2007
 
 	**Cité par**:
 
@@ -93941,10 +94166,16 @@ applicables dans les îles Wallis et Futuna.
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. D565-2 (V)
+	  - Code monétaire et financier - art. D565-3 (V)
 	  - Code monétaire et financier - art. R562-1 (M)
 	  - Code monétaire et financier - art. R562-2 (M)
-	  - Code monétaire et financier - art. R564-4 (M)
-	  - Code monétaire et financier R562-1, R562-2, R562-2-1 à R562-2-3, R563-1 à R563-4, R564-1 à R564-2-1, R564-4
+	  - Code monétaire et financier - art. R564-1 (M)
+	  - Code monétaire et financier - art. R564-2 (V)
+	  - Code monétaire et financier - art. R565-1 (V)
+	  - Code monétaire et financier - art. R565-2-1 (V)
+	  - Code monétaire et financier - art. R565-4 (V)
+	  - Code monétaire et financier R562-1, R562-2, R562-2-1 à R562-2-3, R563-1 à R563-4, R564-1, R564-2, R565-1, D565-2, R565-2-1, D565-3, R565-4
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
