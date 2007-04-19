@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-04-19
+Version Consolidée au 2007-04-20
 
 # Partie législative
 
@@ -28114,24 +28114,22 @@ leurs activités.
 
 ###### Article L511-41
 
-Les établissements de crédit sont tenus, dans des conditions définies par le ministre chargé de l'économie, de respecter des
-normes de gestion destinées à garantir leur liquidité et leur solvabilité à l'égard des déposants et, plus généralement, des
-tiers, ainsi que l'équilibre de leur structure financière.
+Les établissements de crédit sont tenus de respecter des normes de gestion destinées à garantir leur liquidité et leur
+solvabilité à l'égard des déposants et, plus généralement, des tiers, ainsi que l'équilibre de leur structure financière.
 
 Ils doivent en particulier respecter des ratios de couverture et de division de risques.
+
+Pour le respect des normes relatives à la solvabilité, ils peuvent être autorisés à utiliser leurs approches internes
+d'évaluation des risques.
 
 Les établissements de crédit doivent également disposer d'un système adéquat de contrôle interne leur permettant notamment de
 mesurer les risques et la rentabilité de leurs activités. Lorsque la surveillance est exercée sur la base de la situation
 financière consolidée, les groupes financiers ou mixtes doivent adopter des procédures de contrôle interne adéquates pour la
 production des informations et renseignements utiles aux fins de l'exercice de cette surveillance. Les établissements de
 crédit notifient à la commission bancaire les transactions importantes entre les établissements de crédit d'un groupe mixte
-et la compagnie mixte ou ses filiales, dans les conditions définies à l'article L. 613-8. Un arrêté du ministre chargé de
-l'économie définit les conditions d'application du présent alinéa.
+et la compagnie mixte ou ses filiales, dans les conditions définies à l'article L. 613-8.
 
-**Nota:**
-
-NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
-la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+Un arrêté du ministre chargé de l'économie définit les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -28169,14 +28167,9 @@ la surveillance des comptes de l'exercice social commençant le 1er janvier 2005
 	  - Code monétaire et financier - art. L613-20-4 (V)
 	  - Code monétaire et financier - art. R518-30-2 (V)
 
-	**Cite**:
-
-	  - Ordonnance 2004-1201 2004-11-12
-	  - Code monétaire et financier - art. L613-8 (M)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 5 () JORF 16 novembre 2004
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 1 () JORF 20 avril 2007
 
 
 ###### Article L511-41-1
@@ -28220,6 +28213,37 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 	  - Code monétaire et financier - art. L765-1-1 (VT)
 
 
+###### Article L511-41-2
+
+Les établissements de crédit qui ont pour filiale au moins un établissement de crédit, une entreprise d'investissement ou un
+établissement financier ou qui détiennent une participation dans un tel établissement ou entreprise sont tenus de respecter,
+sur la base de leur situation financière consolidée, des normes de gestion déterminées par un arrêté du ministre chargé de
+l'économie ainsi que les règles relatives aux participations mentionnées à l'article L. 511-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 1 () JORF 20 avril 2007
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 235 ter ZE (VD)
+	  - Code monétaire et financier - art. L511-48 (V)
+	  - Code monétaire et financier - art. L517-5 (V)
+	  - Code monétaire et financier - art. L517-9 (V)
+	  - Code monétaire et financier - art. L612-20 (VD)
+	  - Code monétaire et financier - art. L613-20-1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-2 (V)
+
+
 ###### Article L511-42
 
 Lorsqu'il apparaît que la situation d'un établissement de crédit le justifie, le gouverneur de la Banque de France, président
@@ -28257,6 +28281,48 @@ Les établissements de crédit agréés en France adhèrent au fond de garantie 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L312-4 (V)
+
+
+###### Article L511-44
+
+La Commission bancaire établit et tient à jour la liste des organismes externes d'évaluation de crédit dont les évaluations
+peuvent être utilisées par les établissements de crédit et les entreprises d'investissement pour les besoins de la mise en
+oeuvre de la réglementation prévue par l'article L. 511-41. Elle précise pour chaque organisme les échelons de qualité de
+crédit auxquelles correspondent les évaluations réalisées.
+
+Un organisme ne peut être inscrit sur cette liste que si son activité et son expérience en matière d'évaluation du crédit
+sont de nature à assurer la crédibilité de ses évaluations, s'il procède régulièrement au réexamen de celles-ci et si ses
+méthodes répondent à des conditions d'objectivité, d'indépendance, de constance et de transparence.
+
+Un arrêté du ministre chargé de l'économie précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 1 () JORF 20 avril 2007
+
+	**Cité par**:
+
+	  - Loi n°2008-1061 du 16 octobre 2008 - art. 6 (V)
+	  - Arrêté du 20 octobre 2008 - art. 1 (V)
+	  - Code monétaire et financier - art. L513-4 (V)
+	  - Code monétaire et financier - art. L515-14 (VT)
+	  - Code monétaire et financier - art. L515-15 (VT)
+	  - Code monétaire et financier - art. L515-16 (VT)
+	  - Code monétaire et financier - art. L515-35 (VT)
+	  - Code monétaire et financier - art. R513-6 (V)
+	  - Code monétaire et financier - art. R515-4 (V)
+	  - Code monétaire et financier - art. R515-7 (V)
+	  - Code monétaire et financier - art. R515-7-1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-41 (M)
 
 
 #### Chapitre II : Les banques mutualistes ou coopératives
@@ -31681,12 +31747,12 @@ Les modalités d'application de la présente section sont fixées par décret en
 I. - Les sociétés de crédit foncier sont des établissements de crédit, agréés en qualité de société financière par le comité
 des établissements de crédit et des entreprises d'investissement, qui ont pour objet exclusif :
 
-1. De consentir ou d'acquérir des prêts garantis, des prêts à des personnes publiques et des titres et valeurs, mentionnés
-aux articles L. 515-14 à L. 515-17 ;
+1. De consentir ou d'acquérir des prêts garantis, des expositions sur des personnes publiques et des titres et valeurs tels
+que définis aux articles L. 515-14 à L. 515-17 ;
 
-2. Pour le financement de ces catégories de prêts ou de titres et valeurs, d'émettre des obligations appelées obligations
-foncières bénéficiant du privilège défini à l'article L. 515-19 et de recueillir d'autres ressources, dont le contrat
-d'émission ou de souscription mentionne ce privilège.
+2. Pour le financement de ces catégories de prêts, d'expositions, de titres et valeurs, d'émettre des obligations appelées
+obligations foncières bénéficiant du privilège défini à l'article L. 515-19 et de recueillir d'autres ressources, dont le
+contrat d'émission ou de souscription mentionne ce privilège.
 
 II. - Les sociétés de crédit foncier peuvent également assurer le financement des activités mentionnées ci-dessus par
 l'émission d'emprunts ou de ressources ne bénéficiant pas de ce privilège. Elles ne peuvent émettre de billets à ordre
@@ -31696,15 +31762,13 @@ III. - Nonobstant toutes dispositions ou stipulations contraires, les sociétés
 conformément aux articles L. 313-23 à L. 313-34, l'ensemble des créances qu'elles détiennent, quelle que soit la nature,
 professionnelle ou non, de ces créances. Dans ce cas, les énonciations figurant au bordereau mentionné à l'article L. 313-23
 sont déterminées par décret. Les sociétés de crédit foncier peuvent également procéder à des cessions temporaires de leurs
-titres dans les conditions fixées aux articles L. 432-6 à L. 432-19 (1). Les créances ou titres ainsi mobilisés ou cédés ne
-sont pas comptabilisés par ces sociétés au titre de l'article L. 515-20.
+titres dans les conditions fixées aux articles L. 432-6 à L. 432-19. Les créances ou titres ainsi mobilisés ou cédés ne sont
+pas comptabilisés par ces sociétés au titre de l'article L. 515-20.
 
 IV. - Les sociétés de crédit foncier peuvent acquérir et posséder tous biens immeubles ou meubles nécessaires à
 l'accomplissement de leur objet ou provenant du recouvrement de leurs créances.
 
-**Nota:**
-
-NOTA (1) : Les articles L. 432-8 et L. 432-16 ont été abrogés par l'article 38 2° de la loi n° 2003-706 du 1er août 2003.
+V. - Les sociétés de crédit foncier ne peuvent détenir de participations.
 
 **Liens relatifs à cet article**
 
@@ -31747,46 +31811,39 @@ NOTA (1) : Les articles L. 432-8 et L. 432-16 ont été abrogés par l'article 3
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 94 1° JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L313-23 (V)
-	  - Code monétaire et financier - art. L515-20 (M)
-	  - Code monétaire et financier L515-14 à L515-17, L515-19, L313-42 à L313-48, L313-23 à L313-34, L313-23, L432-6 à L432-19, L515-20
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
 
 
 ##### Sous-section 2 : Opérations
 
 ###### Article L515-14
 
-I. - Les prêts garantis sont des prêts assortis ;
+I.-Les prêts garantis sont des prêts assortis : 
 
-1. D'une hypothèque de premier rang ou d'une sûreté immobilière conférant une garantie au moins équivalente ;
+1.D'une hypothèque de premier rang ou d'une sûreté immobilière conférant une garantie au moins équivalente ; 
 
-2. Ou, dans des limites et des conditions déterminées par décret en Conseil d'Etat, imposant notamment un apport personnel
-minimal de l'emprunteur et le respect d'une quotité de la valeur du bien financé et sous réserve que le prêt garanti soit
+2. Ou, dans des limites et des conditions déterminées par décret en Conseil d'Etat, sous réserve que le prêt garanti soit
 exclusivement affecté au financement d'un bien immobilier, d'un cautionnement d'un établissement de crédit ou d'une
 entreprise d'assurance n'entrant pas dans le périmètre de consolidation défini à l'article L. 233-16 du code de commerce dont
-relève la société de crédit foncier.
+relève la société de crédit foncier. 
 
-II. - Les prêts garantis par une sûreté immobilière mentionnée au 1 du I ci-dessus ne peuvent excéder une quotité de la
-valeur du bien sur lequel porte la garantie. Cette quotité est fixée dans des conditions déterminées par décret en Conseil
-d'Etat. Elle peut toutefois être dépassée lorsque ces prêts bénéficient de la garantie du fonds de garantie de l'accession
-sociale à la propriété mentionné à l'article L. 312-1 du code de la construction et de l'habitation ou lorsque ces prêts sont
-couverts, pour la partie excédant la quotité fixée et dans la limite de la valeur du bien sur lequel porte la garantie, par
-un cautionnement répondant aux conditions mentionnées au 2 du I ci-dessus ou par la garantie d'une ou plusieurs des personnes
-morales de droit public mentionnées à l'article L. 515-15.
+II.-Les prêts garantis par une sûreté immobilière mentionnée au 1 du I et les prêts cautionnés mentionnés au 2 du I sont
+éligibles au financement par des ressources privilégiées dans la limite d'une quotité du bien financé ou apporté en garantie.
+Cette quotité est déterminée par décret en Conseil d'Etat. 
 
-Cette quotité peut, le cas échéant, être dépassée lorsque ces prêts sont financés, pour la partie excédant la quotité fixée
-et dans une limite déterminée par décret en Conseil d'Etat, par les ressources non privilégiées mentionnées au II de
-l'article L. 515-13.
+Des conditions spécifiques d'éligibilité sont fixées par décret en Conseil d'Etat pour ceux de ces prêts qui bénéficient de
+la garantie du fonds de garantie de l'accession sociale à la propriété mentionné à l'article L. 312-1 du code de la
+construction et de l'habitation ou de toute entité ou personne qui viendrait à s'y substituer ainsi que pour ceux de ces
+prêts qui sont couverts, pour la partie excédant la quotité fixée et dans la limite de la valeur du bien sur lequel porte la
+garantie, par un cautionnement répondant aux conditions mentionnées au 2 du I ou par la garantie d'une ou plusieurs des
+personnes publiques mentionnées à l'article L. 515-15. 
 
-III. - Le bien apporté en garantie ou le bien financé par un prêt cautionné doit être situé dans l'Espace économique
-européen, dans les collectivités d'outre-mer régies par l'article 74 de la Constitution, en Nouvelle-Calédonie, en Suisse,
-aux Etats- Unis d'Amérique, au Canada ou au Japon. Sa valeur est déterminée de manière prudente et exclut tout élément
-d'ordre spéculatif. Les modalités d'évaluation sont fixées par un arrêté du ministre chargé de l'économie, qui prévoit
-notamment dans quels cas il doit être recouru à une expertise.
+III.-Le bien apporté en garantie ou le bien financé par un prêt cautionné doit être situé en France, dans un autre Etat
+membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou dans un Etat bénéficiant du
+meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu par la Commission
+bancaire conformément à l'article L. 511-44. Sa valeur est déterminée de manière prudente et exclut tout élément d'ordre
+spéculatif. Les modalités d'évaluation sont fixées par un arrêté du ministre chargé de l'économie, qui prévoit notamment dans
+quels cas il doit être recouru à une expertise.
 
 **Liens relatifs à cet article**
 
@@ -31802,13 +31859,14 @@ notamment dans quels cas il doit être recouru à une expertise.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 63 () JORF 7 mai 2005
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
 
 	**Cite**:
 
-	  - Code de commerce. - art. L233-16 (M)
-	  - Code monétaire et financier - art. L515-15 (M)
-	  - Code de la construction et de l'habitation. - art. L312-1 (M)
+	  - Code de commerce. - art. L233-16 (V)
+	  - Code monétaire et financier - art. L511-44 (V)
+	  - Code monétaire et financier - art. L515-15 (V)
+	  - Code de la construction et de l'habitation. - art. L312-1 (V)
 
 	**Cité par**:
 
@@ -31830,25 +31888,48 @@ notamment dans quels cas il doit être recouru à une expertise.
 
 ###### Article L515-15
 
-Les prêts aux personnes publiques sont des prêts accordés aux Etats, aux collectivités territoriales ou à leurs groupements
-et aux établissements publics de l'Espace économique européen, de Suisse, des Etats-Unis d'Amérique, du Canada ou du Japon,
-ou totalement garantis par un ou plusieurs de ces Etats ou collectivités territoriales ou groupements de celles-ci.
+I. - Les expositions sur des personnes publiques mentionnées à l'article L. 515-13 sont des éléments d'actif, tels que des
+prêts, ou des engagements hors bilan sur les personnes énumérées ci-après ou totalement garanties par elles :
 
-Sont assimilés aux prêts aux personnes publiques les titres de créances émis par les Etats, les collectivités territoriales
-ou leurs groupements et les établissements publics de l'Espace économique européen, de Suisse, des Etats-Unis d'Amérique, du
-Canada ou du Japon, ou totalement garantis par un ou plusieurs de ces Etats ou collectivités territoriales ou groupements de
-celles-ci. Ces titres doivent être acquis avec une intention de conservation durable jusqu'à leur échéance et, en
-conséquence, être traités sur le plan comptable conformément à un règlement du comité de la réglementation comptable.
+1. Administrations centrales, banques centrales, établissements publics, collectivités territoriales ou leurs groupements,
+d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ;
 
-Sont assimilées aux prêts aux personnes publiques les créances de sommes d'argent, y compris celles résultant d'un contrat à
-exécution successive, sur des personnes publiques mentionnées au premier alinéa et figurant sur une liste fixée par décret en
-Conseil d'Etat ou totalement garanties par une ou plusieurs de ces personnes publiques.
+2. Administrations centrales ou banques centrales d'Etats non membres de la Communauté européenne ni parties à l'accord sur
+l'Espace économique européen et bénéficiant du meilleur échelon de qualité de crédit établi par un organisme externe
+d'évaluation de crédit reconnu par la Commission bancaire conformément à l'article L. 511-44 ;
 
-Sont assimilées aux prêts à des personnes publiques les créances nées de contrats de crédit-bail auxquels des personnes
-publiques françaises mentionnées au premier alinéa sont parties en qualité de crédit-preneur ou les créances nées de contrat
-de crédit-bail totalement garanties par une ou plusieurs de ces personnes publiques. Les sociétés de crédit foncier acquérant
-les créances résultant d'un contrat de crédit-bail peuvent également acquérir tout ou partie de la créance qui résultera de
-la vente du bien loué.
+3. Communauté européenne, Fonds monétaire international, Banque des règlements internationaux, banques multilatérales de
+développement dont la liste est établie par arrêté du ministre chargé de l'économie ; autres organisations internationales et
+banques multilatérales de développement bénéficiant du meilleur échelon de qualité de crédit établi par un organisme externe
+d'évaluation de crédit reconnu par la Commission bancaire conformément à l'article L. 511-44 ;
+
+4. Etablissements publics et collectivités territoriales ou leurs groupements relevant d'Etats non membres de la Communauté
+européenne ni parties à l'accord sur l'Espace économique européen lorsque les expositions sur ces personnes sont assorties,
+pour la détermination des exigences de fonds propres, de la même pondération que celle des créances accordées à des
+administrations centrales, des banques centrales ou des établissements de crédit, ou totalement garanties par ces mêmes
+personnes, et qu'elles bénéficient du meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de
+crédit reconnu par la Commission bancaire conformément à l'article L. 511-44 ;
+
+5. Etablissements publics et collectivités territoriales ou groupements mentionnés au 4 ci-dessus bénéficiant du deuxième
+meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu par la Commission
+bancaire conformément à l'article L. 511-44.
+
+II. - Les expositions sur des personnes publiques comprennent notamment :
+
+1. Les titres de créances émis, ou totalement garantis, par l'une des personnes publiques mentionnées aux 1 à 5 du I ;
+
+2. Les créances de sommes d'argent, y compris celles résultant d'un contrat à exécution successive, sur des personnes
+publiques mentionnées aux 1 à 5 du I ou totalement garanties par une ou plusieurs de ces personnes publiques ;
+
+3. Les créances nées de contrats de crédit-bail ou contrats équivalents auxquels des personnes publiques françaises
+mentionnées aux 1 à 5 du I sont parties en qualité de crédit-preneur ou les créances nées de contrats de crédit-bail ou
+contrats équivalents totalement garanties par une ou plusieurs de ces personnes publiques. Les sociétés de crédit foncier
+acquérant les créances résultant d'un contrat de crédit-bail peuvent également acquérir tout ou partie de la créance qui
+résultera de la vente du bien loué.
+
+III. - Un décret en Conseil d'Etat précise les modalités et, le cas échéant, les limites de prise en compte des expositions
+mentionnées au I assorties d'une condition d'évaluation de crédit par un organisme externe d'évaluation de crédit reconnu par
+la Commission bancaire conformément à l'article L. 511-44.
 
 **Liens relatifs à cet article**
 
@@ -31864,7 +31945,7 @@ la vente du bien loué.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 64 () JORF 7 mai 2005
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
 
 	**Cité par**:
 
@@ -31882,15 +31963,21 @@ la vente du bien loué.
 
 ###### Article L515-16
 
-Sont assimilés aux prêts mentionnés aux articles L. 515-14 et L. 515-15 les parts et titres de créances émis par des fonds
-communs de créances ainsi que les parts ou titres de créances émis par des entités similaires soumises au droit d'un Etat
-appartenant à l'Espace économique européen, de la Suisse, des Etats-Unis d'Amérique, du Canada ou du Japon, dès lors que
-l'actif de ces fonds communs de créances ou entités similaires est composé, à l'exclusion des sommes momentanément
-disponibles et en instance d'affectation, des garanties, sûretés ou autres privilèges dont ils bénéficient, à hauteur de 90 %
-au moins, de créances de même nature que les prêts répondant aux caractéristiques définies au I de l'article L. 515-14 ainsi
-qu'à l'article L. 515-15 ou, dans des conditions fixées par décret en Conseil d'Etat, de créances assorties de garanties
-équivalentes à celles des prêts mentionnés aux articles L. 515-14 et L. 515-15 et à l'exclusion des parts spécifiques ou
-titres de créances supportant le risque de défaillance des débiteurs de créances.
+Dans les conditions fixées par décret en Conseil d'Etat, sont assimilés aux prêts et expositions mentionnés aux articles L.
+515-14 et L. 515-15 les parts et titres de créances émis par des fonds communs de créances ainsi que les parts ou titres de
+créances émis par des entités similaires soumises au droit d'un Etat membre de la Communauté européenne ou partie à l'accord
+sur l'Espace économique européen, dès lors que les conditions suivantes sont respectées :
+
+1. L'actif de ces fonds communs de créances ou entités similaires est composé, à l'exclusion des sommes momentanément
+disponibles et en instance d'affectation, des garanties, sûretés ou autres privilèges dont ils bénéficient ainsi que des
+valeurs conservées par ces fonds communs de créances ou entités similaires à titre de réserve ou de garantie en application
+des dispositions qui les régissent, à hauteur de 90 % au moins, de créances de même nature que les prêts et expositions
+répondant aux caractéristiques définies au I de l'article L. 515-14 ainsi qu'à l'article L. 515-15, ou de créances assorties
+de garanties équivalentes à celles des prêts et expositions mentionnés aux articles L. 515-14 et L. 515-15 et à l'exclusion
+des parts spécifiques ou titres de créances supportant le risque de défaillance des débiteurs de créances ;
+
+2. Ces parts ou titres bénéficient du meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation
+reconnu par la Commission bancaire conformément à l'article L. 511-44.
 
 **Liens relatifs à cet article**
 
@@ -31914,35 +32001,62 @@ titres de créances supportant le risque de défaillance des débiteurs de créa
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 65 () JORF 7 mai 2005
+	  - Ordonnance 2007-571 2007-04-19 art. 2 2° JORF 20 avril 2007
+
+
+###### Article L515-16-1
+
+Sont assimilés aux prêts mentionnés à l'article L. 515-14 les billets à ordre régis par les articles L. 313-42 et suivants,
+dès lors que les créances mobilisées par eux respectent les conditions mentionnées à l'article L. 515-14. L'encours de ces
+billets à ordre ne peut excéder 10 % de l'actif d'une société de crédit foncier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2013-544 du 27 juin 2013 - art. 4
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L515-14 (M)
-	  - Code monétaire et financier - art. L515-15 (M)
+	  - Code monétaire et financier - art. L313-42
+	  - Code monétaire et financier - art. L515-14
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L513-6 (VD)
 
 
 ###### Article L515-17
 
-Les sociétés de crédit foncier ne peuvent détenir de participations.
-
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles des titres et valeurs, parmi lesquels les obligations
-foncières émises par d'autres sociétés de crédit foncier, sont suffisamment sûrs et liquides pour être détenus comme valeurs
-de remplacement par les sociétés de crédit foncier. Ce décret fixe la part maximale que ces valeurs de remplacement peuvent
-représenter dans l'actif de ces sociétés.
+Dans des conditions précisées par décret en Conseil d'Etat, des titres, valeurs et dépôts suffisamment sûrs et liquides
+peuvent être détenus comme valeurs de remplacement par les sociétés de crédit foncier. Ce décret fixe la part maximale que
+ces valeurs de remplacement peuvent représenter.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°99-532 1999-06-25 art. 94 IV
-	  - Loi n°99-532 du 25 juin 1999 - art. 94 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Anciens textes**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 94 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
 
 	**Cité par**:
 
@@ -31950,37 +32064,49 @@ représenter dans l'actif de ces sociétés.
 	  - Code monétaire et financier - art. L515-34 (VT)
 	  - Code monétaire et financier - art. R515-7 (V)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L513-7 (VD)
+
 
 ###### Article L515-18
 
-Afin d'assurer la couverture des opérations de gestion des prêts mentionnés aux articles L. 515-14 à L. 515-17, des
-obligations foncières ou des autres ressources bénéficiant du privilège défini à l'article L. 515-19, les sociétés de crédit
-foncier peuvent recourir à des instruments financiers à terme, tels que définis à l'article L. 211-1.
+Afin d'assurer la couverture des opérations de gestion des prêts et expositions mentionnés aux articles L. 515-14 à L.
+515-17, des obligations foncières ou des autres ressources bénéficiant du privilège défini à l'article L. 515-19, les
+sociétés de crédit foncier peuvent recourir à des instruments financiers à terme, tels que définis à l'article L. 211-1. 
 
-Les sommes dues au titre des instruments financiers à terme conclus par les sociétés de crédit foncier pour la couverture de
-leurs éléments d'actif et de passif, le cas échéant après compensation, bénéficient du privilège mentionné à l'article L.
-515-19 de même que les sommes dues au titre des instruments financiers à terme conclus par les sociétés de crédit foncier
-pour la gestion ou la couverture du risque global sur l'actif, le passif et le hors-bilan de ces sociétés.
+Toutefois, les sommes dues au titre des instruments financiers à terme conclus par les sociétés de crédit foncier pour la
+couverture de leurs éléments d'actif et de passif, le cas échéant après compensation, bénéficient du privilège mentionné à
+l'article L. 515-19, de même que les sommes dues au titre des instruments financiers à terme conclus par les sociétés de
+crédit foncier pour la gestion ou la couverture du risque global sur l'actif, le passif et le hors-bilan de ces sociétés. 
 
 Les sommes dues au titre des instruments financiers à terme utilisés pour la couverture des opérations mentionnées au II de
-l'article L. 515-13 ne bénéficient pas de ce privilège.
+l'article L. 515-13 ne bénéficient pas de ce privilège. 
+
+Les titres, sommes et valeurs reçus par une société de crédit foncier en garantie des opérations de couverture mentionnées au
+présent article ne sont pas pris en compte dans le calcul de la part maximale mentionnée à l'article L. 515-17.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°99-532 1999-06-25 art. 95 al. 1 et al. 3
-	  - Loi n°99-532 du 25 juin 1999 - art. 95 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Anciens textes**:
+
+	  - Loi n°99-532 du 25 juin 1999 - art. 95 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 94 2° JORF 2 août 2003
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
 
 	**Cité par**:
 
@@ -31989,52 +32115,63 @@ l'article L. 515-13 ne bénéficient pas de ce privilège.
 	  - Code monétaire et financier - art. R515-7 (V)
 	  - Code monétaire et financier - art. R515-7-1 (T)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-1 (M)
-	  - Code monétaire et financier - art. L515-13 (M)
-	  - Code monétaire et financier L515-14 à L515-17, L515-19, L211-1, L515-13
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L515-13
+	  - Code monétaire et financier - art. L515-14
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L513-10 (VD)
 
 
 ##### Sous-section 3 : Privilège des créances nées des opérations
 
 ###### Article L515-19
 
-Nonobstant toutes dispositions législatives contraires, et notamment celles du titre Ier et du titre II du livre VI du code
-de commerce :
+Nonobstant toutes dispositions législatives contraires, et notamment celles du livre VI du code de commerce : 
 
-1. Les sommes provenant de prêts ou créances assimilées, titres et valeurs mentionnés aux articles L. 515-14 à L. 515-17 des
-instruments financiers mentionnés à l'article L. 515-18, le cas échéant après compensation, ainsi que les créances résultant
-des dépôts effectués par la société de crédit foncier auprès d'établissements de crédit, sont affectées par priorité au
-service du paiement des obligations foncières et des autres ressources privilégiées mentionnées au 2 du I de l'article L.
-515-13 ;
+1. Les sommes provenant de prêts ou créances assimilées, expositions, titres et valeurs mentionnés aux articles L. 515-14 à
+L. 515-17 des instruments financiers mentionnés à l'article L. 515-18, le cas échéant après compensation, ainsi que les
+créances résultant des dépôts effectués par la société de crédit foncier auprès d'établissements de crédit, sont affectées
+par priorité au service du paiement des obligations foncières et des autres ressources privilégiées mentionnées au 2 du I de
+l'article L. 515-13 ; 
 
 2. Lorsqu'une société de crédit foncier fait l'objet d'une procédure de sauvegarde, de redressement ou de liquidation
-judiciaires, ou de règlement amiable, les créances nées régulièrement des opérations mentionnées au 2 du I de l'article L.
-515-13 sont payées à leur échéance contractuelle et par priorité à toutes les autres créances, assorties ou non de privilèges
-ou de sûretés, y compris les intérêts résultant de contrats, quelle qu'en soit la durée. Jusqu'à l'entier désintéressement
-des titulaires des créances privilégiées au sens du présent article, nul autre créancier de la société de crédit foncier ne
-peut se prévaloir d'un droit quelconque sur les biens et droits de cette société ;
+judiciaires, ou d'une procédure de conciliation, les créances nées régulièrement des opérations mentionnées au 2 du I de
+l'article L. 515-13 sont payées à leur échéance contractuelle et par priorité à toutes les autres créances, assorties ou non
+de privilèges ou de sûretés, y compris les intérêts résultant de contrats, quelle qu'en soit la durée. Jusqu'à l'entier
+désintéressement des titulaires des créances privilégiées au sens du présent article, nul autre créancier de la société de
+crédit foncier ne peut se prévaloir d'un droit quelconque sur les biens et droits de cette société ; 
 
 3. La liquidation judiciaire d'une société de crédit foncier n'a pas pour effet de rendre exigibles les obligations et autres
-dettes bénéficiant du privilège mentionné au 1 du présent article.
+dettes bénéficiant du privilège mentionné au 1 du présent article. 
 
 Les règles définies aux 1 et 2 ci-dessus s'appliquent aux frais annexes aux opérations mentionnées aux 1 et 2 du I de
 l'article L. 515-13 ainsi qu'aux sommes dues, le cas échéant, au titre du contrat prévu à l'article L. 515-22.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°99-532 du 25 juin 1999 - art. 98 (Ab)
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
+	  - Loi n°99-532 du 25 juin 1999 - art. 98 (Ab)
 
 	**Cité par**:
 
@@ -32048,10 +32185,22 @@ l'article L. 515-13 ainsi qu'aux sommes dues, le cas échéant, au titre du cont
 	  - Code monétaire et financier - art. R515-8 (V)
 	  - Code monétaire et financier - art. R515-9 (T)
 
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L513-11 (VD)
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L515-22 (M)
-	  - Code monétaire et financier L515-14 à L515-17, L515-18, L515-13, L515-22
+	  - Code monétaire et financier - art. L515-14
+	  - Code monétaire et financier - art. L515-22
 
 
 ##### Sous-section 4 : Règles régissant les opérations des sociétés de crédit foncier
@@ -32101,33 +32250,41 @@ d'évaluation de ces éléments d'actif et de passif.
 
 ###### Article L515-21
 
-La cession à une société de crédit foncier des prêts mentionnés à l'article L. 515-13 et des créances assimilées s'effectue
-par la seule remise d'un bordereau au cessionnaire, dont les énonciations sont fixées par décret. Nonobstant l'ouverture
-éventuelle de toute procédure de redressement ou de liquidation judiciaires à l'encontre du cédant postérieurement à la
-cession, la cession prend effet entre les parties et devient opposable aux tiers à la date apposée sur le bordereau lors de
-sa remise, quelle que soit la date de naissance, d'échéance ou d'exigibilité des créances, sans qu'il soit besoin d'autre
-formalité, et ce quelle que soit la loi applicable aux créances et la loi du pays de résidence des débiteurs. La remise du
-bordereau entraîne de plein droit le transfert des sûretés, des garanties et des accessoires attachés à chaque prêt, y
-compris les sûretés hypothécaires, ainsi que son opposabilité aux tiers sans qu'il soit besoin d'autre formalité.
+La cession à une société de crédit foncier des prêts et expositions mentionnés à l'article L. 515-13 et des créances
+assimilées s'effectue par la seule remise d'un bordereau au cessionnaire, dont les énonciations sont fixées par décret.
+Nonobstant l'ouverture éventuelle de toute procédure de sauvegarde, de redressement ou de liquidation judiciaires à
+l'encontre du cédant postérieurement à la cession, la cession prend effet entre les parties et devient opposable aux tiers à
+la date apposée sur le bordereau lors de sa remise, quelle que soit la date de naissance, d'échéance ou d'exigibilité des
+créances, sans qu'il soit besoin d'autre formalité, et ce quelle que soit la loi applicable aux créances et la loi du pays de
+résidence des débiteurs. La remise du bordereau entraîne de plein droit le transfert des sûretés, des garanties et des
+accessoires attachés à chaque prêt et chaque exposition, y compris les sûretés hypothécaires, ainsi que son opposabilité aux
+tiers sans qu'il soit besoin d'autre formalité. 
 
-Lorsque les créances résultent d'un contrat de crédit-bail, la survenance d'un redressement ou d'une liquidation judiciaires
-du crédit-bailleur cédant en cours de contrat ne peut remettre en cause la poursuite du contrat de crédit-bail.
+Lorsque les créances résultent d'un contrat de crédit-bail, la survenance d'une procédure de sauvegarde, de redressement ou
+de liquidation judiciaires du crédit-bailleur cédant en cours de contrat ne peut remettre en cause la poursuite du contrat de
+crédit-bail.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Anciens textes**:
 
 	  - Loi n°99-532 du 25 juin 1999 - art. 105 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 96 () JORF 2 août 2003
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 4
 
 	**Cité par**:
 
@@ -32135,32 +32292,34 @@ du crédit-bailleur cédant en cours de contrat ne peut remettre en cause la pou
 	  - Code monétaire et financier - art. L515-21-1 (VT)
 	  - Code monétaire et financier - art. R515-11 (V)
 
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L513-13 (VD)
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L515-13 (M)
+	  - Code monétaire et financier - art. L515-13
 
 
 ###### Article L515-22
 
-La gestion ou le recouvrement des prêts, créances assimilées, titres et valeurs, des obligations ou des autres ressources
-prévus à l'article L. 515-13 ne peuvent être assurés que par un établissement de crédit lié à la société de crédit foncier
-par contrat.
+La gestion ou le recouvrement des prêts, expositions, créances assimilées, titres et valeurs, des obligations ou des autres
+ressources prévus à l'article L. 515-13 ne peuvent être assurés que par un établissement de crédit lié à la société de crédit
+foncier par contrat.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Anciens textes**:
 
 	  - Loi n°99-532 du 25 juin 1999 - art. 99 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 96 () JORF 2 août 2003
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
 
 	**Cité par**:
 
@@ -32168,28 +32327,54 @@ par contrat.
 	  - Code monétaire et financier - art. L515-19 (M)
 	  - Code monétaire et financier - art. L515-31 (VT)
 
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L513-15 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L515-13
+
 
 ###### Article L515-23
 
-L'établissement de crédit chargé de la gestion des prêts, créances assimilées, titres et valeurs, est habilité à agir en
-justice tant en demande qu'en défense et à exercer toutes voies d'exécution au nom et pour le compte de la société de crédit
-foncier.
+L'établissement de crédit chargé de la gestion des prêts, expositions, créances assimilées, titres et valeurs, est habilité à
+agir en justice tant en demande qu'en défense et à exercer toutes voies d'exécution au nom et pour le compte de la société de
+crédit foncier.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Anciens textes**:
 
 	  - Loi n°99-532 du 25 juin 1999 - art. 100 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 96 () JORF 2 août 2003
+	  - Ordonnance 2007-571 2007-04-19 art. 2 5° JORF 20 avril 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L513-16 (VD)
 
 	**Cité par**:
 
@@ -32198,24 +32383,34 @@ foncier.
 
 ###### Article L515-24
 
-En cas de changement de l'entité juridique chargée de gérer ou de procéder au recouvrement des prêts ou créances assimilées,
-les débiteurs en sont informés par simple lettre.
+En cas de changement de l'entité juridique chargée de gérer ou de procéder au recouvrement des prêts, expositions ou créances
+assimilées, les débiteurs en sont informés par simple lettre.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Anciens textes**:
 
 	  - Loi n°99-532 du 25 juin 1999 - art. 106 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 96 () JORF 2 août 2003
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L513-17 (VD)
 
 	**Cité par**:
 
@@ -32292,8 +32487,8 @@ articles L. 613-18 et L. 613-22, les dispositions de l'article L. 613-25 sont ap
 
 ###### Article L515-27
 
-Nonobstant toutes dispositions contraires, et notamment du titre II du livre VI du code de commerce, la sauvegarde, le
-redressement ou la liquidation judiciaires d'une société détenant des actions d'une société de crédit foncier ne peut être
+Nonobstant toutes dispositions contraires, et notamment des titres III et IV du livre VI du code de commerce, la sauvegarde,
+le redressement ou la liquidation judiciaires d'une société détenant des actions d'une société de crédit foncier ne peut être
 étendue à la société de crédit foncier.
 
 **Liens relatifs à cet article**
@@ -32304,11 +32499,13 @@ redressement ou la liquidation judiciaires d'une société détenant des actions
 
 	**Codifié par**:
 
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
 
 	**Cité par**:
 
@@ -32318,10 +32515,10 @@ redressement ou la liquidation judiciaires d'une société détenant des actions
 ###### Article L515-28
 
 En cas de sauvegarde, de redressement ou de liquidation judiciaires d'une société chargée de la gestion ou du recouvrement,
-pour le compte d'une société de crédit foncier, des prêts, créances assimilées, titres et valeurs, des obligations ou des
-autres ressources prévus à l'article L. 515-13, les contrats qui prévoient cette gestion ou ce recouvrement peuvent être
-immédiatement résiliés, nonobstant toutes dispositions contraires et notamment celles du titre II du livre VI du code de
-commerce.
+pour le compte d'une société de crédit foncier, des prêts, expositions, créances assimilées, titres et valeurs, des
+obligations ou des autres ressources prévus à l'article L. 515-13, les contrats qui prévoient cette gestion ou ce
+recouvrement peuvent être immédiatement résiliés, nonobstant toutes dispositions contraires et notamment celles des titres
+III et IV du livre VI du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -32331,15 +32528,13 @@ commerce.
 
 	**Codifié par**:
 
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L515-13 (V)
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
 
 
 ##### Sous-section 6 : Contrôles
@@ -32442,17 +32637,17 @@ lui commises dans l'exercice de ses fonctions.
 
 Lorsque la société de crédit foncier fait l'objet d'une procédure de sauvegarde, de redressement ou de liquidation
 judiciaires, le contrôleur spécifique procède à la déclaration prévue à l'article L. 622-24 du code de commerce au nom et
-pour le compte des titulaires des créances bénéficiant du privilège défini à l'article L. 515-19.
+pour le compte des titulaires des créances bénéficiant du privilège défini à l'article L. 515-19. 
 
 Les dispositions des articles L. 823-7, L. 823-13, L. 823-14, L. 823-18, L. 822-18, L. 820-4 à L. 820-7, L. 822-6, L. 822-7
 et L. 822-10 à L. 822-13 du code de commerce et l'article L. 613-9 du présent code sont applicables au contrôleur. La
-commission bancaire peut exercer l'action prévue à l'article L. 823-7 du code de commerce.
+commission bancaire peut exercer l'action prévue à l'article L. 823-7 du code de commerce. 
 
 Par dérogation aux dispositions de l'article L. 823-14 du code de commerce, le droit d'information du contrôleur peut
 s'étendre à la communication des pièces, contrats et documents détenus par la société chargée de la gestion ou du
-recouvrement des prêts, créances assimilées, titres et valeurs, des obligations et autres ressources, en application de
-l'article L. 515-22, à condition que ces pièces, contrats et documents soient directement en rapport avec les opérations
-réalisées par cette société pour le compte de la société de crédit foncier.
+recouvrement des prêts, expositions, créances assimilées, titres et valeurs, des obligations et autres ressources, en
+application de l'article L. 515-22, à condition que ces pièces, contrats et documents soient directement en rapport avec les
+opérations réalisées par cette société pour le compte de la société de crédit foncier.
 
 **Liens relatifs à cet article**
 
@@ -32469,24 +32664,22 @@ réalisées par cette société pour le compte de la société de crédit foncie
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 2005-07-26 annexe JORF 27 juillet 2005 en vigueur le 1er janvier 2006
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
-	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
 
 	**Cite**:
 
-	  - Code de commerce L622-24, L823-7, L823-13, L823-14, L823-18, L822-18, L820-4 à L820-7, L822-6, L822-7, L822-10 à L822-13
-	  - Code de commerce. - art. L622-24 (M)
+	  - Code de commerce. - art. L622-24 (V)
+	  - Code de commerce. - art. L820-4 (V)
+	  - Code de commerce. - art. L822-10 (V)
 	  - Code de commerce. - art. L822-18 (V)
 	  - Code de commerce. - art. L822-6 (V)
-	  - Code de commerce. - art. L822-7 (V)
 	  - Code de commerce. - art. L823-13 (V)
 	  - Code de commerce. - art. L823-14 (V)
 	  - Code de commerce. - art. L823-18 (V)
 	  - Code de commerce. - art. L823-7 (V)
-	  - Code monétaire et financier - art. L515-19 (M)
-	  - Code monétaire et financier - art. L515-22 (M)
-	  - Code monétaire et financier - art. L613-9 (M)
+	  - Code monétaire et financier - art. L515-19 (V)
+	  - Code monétaire et financier - art. L515-22 (V)
+	  - Code monétaire et financier - art. L613-9 (V)
 
 
 ##### Sous-section 7 : Dispositions diverses
@@ -32946,16 +33139,11 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 ###### Article L517-5
 
 Les compagnies financières sont soumises aux dispositions prévues au deuxième alinéa de l'article L. 511-13, à l'article L.
-511-21, aux articles L. 511-35 à L. 511-38, L. 511-41, L. 571-3, L. 571-4, L. 613-8 à L. 613-11, L. 613-16, L. 613-18, L.
-613-21 et L. 613-22 dans des conditions précisées par voie réglementaire.
+511-21, aux articles L. 511-35 à L. 511-38, L. 511-41, L. 511-41-2, L. 571-3, L. 571-4, L. 613-8 à L. 613-11, L. 613-16, L.
+613-18, L. 613-21 et L. 613-22 dans des conditions précisées par voie réglementaire.
 
 Les commissaires aux comptes de ces entreprises sont également soumis à l'ensemble des dispositions applicables aux
 commissaires aux comptes des établissements de crédit et des entreprises d'investissement.
-
-**Nota:**
-
-NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
-la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
 
 **Liens relatifs à cet article**
 
@@ -32965,9 +33153,9 @@ la surveillance des comptes de l'exercice social commençant le 1er janvier 2005
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 6 () JORF 16 novembre 2004
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 3 () JORF 20 avril 2007
 
 	**Cité par**:
 
@@ -32981,13 +33169,14 @@ la surveillance des comptes de l'exercice social commençant le 1er janvier 2005
 	  - Code monétaire et financier - art. L511-13 (M)
 	  - Code monétaire et financier - art. L511-21 (V)
 	  - Code monétaire et financier - art. L511-41 (M)
+	  - Code monétaire et financier - art. L511-41-2 (V)
 	  - Code monétaire et financier - art. L571-3 (M)
 	  - Code monétaire et financier - art. L571-4 (M)
 	  - Code monétaire et financier - art. L613-16 (M)
 	  - Code monétaire et financier - art. L613-18 (M)
 	  - Code monétaire et financier - art. L613-21 (M)
 	  - Code monétaire et financier - art. L613-22 (M)
-	  - Code monétaire et financier L511-13, L511-21, L511-35 à L511-38, L511-41, L571-3, L571-4, L613-8 à L613-11, L613-16, L613-18, L613-21, L613-22
+	  - Code monétaire et financier L511-13, L511-21, L511-35 à L511-38, L511-41, L511-41-2, L571-3, L571-4, L613-8 à L613-11, L613-16, L613-18, L613-21, L613-22
 
 
 ##### Sous-section 2 : Conglomérats financiers
@@ -33123,20 +33312,20 @@ Les compagnies financières holding mixtes dont le coordinateur est la commissio
 deuxième alinéa de l'article L. 511-13, aux dispositions des articles L. 511-35 à L. 511-38 ainsi qu'à la surveillance
 complémentaire prévue à l'article L. 517-8.
 
-**Nota:**
-
-NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
-la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
+Elles sont en outre soumises aux obligations énoncées aux articles L. 511-41-2 et L. 533-4-1 pour ce qui concerne le secteur
+bancaire et les services d'investissement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 6 () JORF 16 novembre 2004
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 3 () JORF 20 avril 2007
 
 	**Cité par**:
 
@@ -33149,8 +33338,10 @@ la surveillance des comptes de l'exercice social commençant le 1er janvier 2005
 	**Cite**:
 
 	  - Code monétaire et financier - art. L511-13 (M)
+	  - Code monétaire et financier - art. L511-41-2 (V)
 	  - Code monétaire et financier - art. L517-8 (V)
-	  - Code monétaire et financier L511-13, L511-35 à L511-38, L517-8
+	  - Code monétaire et financier - art. L533-4-1 (V)
+	  - Code monétaire et financier L511-13, L511-35 à L511-38, L517-8, L511-41-2, L533-4-1
 
 
 #### Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque
@@ -36394,6 +36585,43 @@ la surveillance des comptes de l'exercice social commençant le 1er janvier 2005
 	**Abrogé par**:
 
 	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+
+
+##### Section 2 : Normes de gestion
+
+###### Article L533-4-1
+
+Les entreprises d'investissement, autres que les sociétés de gestion de portefeuille, qui ont pour filiale au moins un
+établissement de crédit, une entreprise d'investissement ou un établissement financier ou qui détiennent une participation
+dans un tel établissement ou entreprise sont tenus de respecter, sur la base de leur situation financière consolidée, des
+normes de gestion déterminées par un arrêté du ministre chargé de l'économie ainsi que les règles relatives aux
+participations mentionnées à l'article L. 531-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 4 () JORF 20 avril 2007
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-859 du 15 juillet 2015 - art. 3 (V)
+	  - Code général des impôts, CGI. - art. 235 ter ZE (VD)
+	  - Code monétaire et financier - art. L517-5 (V)
+	  - Code monétaire et financier - art. L517-9 (V)
+	  - Code monétaire et financier - art. L612-20 (VD)
+	  - Code monétaire et financier - art. L613-20-1 (V)
+	  - Code monétaire et financier - art. L745-11 (VT)
+	  - Code monétaire et financier - art. L755-11 (VT)
+	  - Code monétaire et financier - art. L765-11 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L531-5 (V)
 
 
 ##### Section 2 : Obligations comptables et déclaratives
@@ -41337,6 +41565,8 @@ En cas de partage égal des voix, la voix du président est prépondérante.
 
 ##### Section 4 : Exercice du contrôle.
 
+##### Sous-section 1 : Dispositions générales.
+
 ###### Article L613-6
 
 Le secrétariat général de la commission bancaire, sur instruction de la commission bancaire, effectue des contrôles sur
@@ -41358,6 +41588,10 @@ les conditions fixées par son considérant 9.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
 
 	**Cité par**:
 
@@ -41381,12 +41615,15 @@ personne compétente dans le cadre de conventions qu'il passe à cet effet.
 
 	**Anciens textes**:
 
-	  - Loi n°84-46 1984-01-24 art. 39 al. 2
 	  - Loi n°84-46 du 24 janvier 1984 - art. 39 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
 
 	**Cité par**:
 
@@ -41416,6 +41653,10 @@ utiles.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
+
 	**Cité par**:
 
 	  - Arrêté du 5 mai 2009 (V)
@@ -41431,51 +41672,51 @@ utiles.
 
 ###### Article L613-9
 
-I. - La commission bancaire peut demander aux commissaires aux comptes des personnes soumises à son contrôle en application
-des articles L. 613-1 et L. 613-2 et des personnes morales définies au 4 de l'article L. 511-21 tout renseignement sur
-l'activité et sur la situation financière de l'entité qu'ils contrôlent ainsi que sur les diligences qu'ils y ont effectuées
-dans le cadre de leur mission.
+I.-La commission bancaire peut demander aux commissaires aux comptes des personnes soumises à son contrôle en application des
+articles L. 613-1 et L. 613-2 et des personnes morales définies au 4 de l'article L. 511-21 tout renseignement sur l'activité
+et sur la situation financière de l'entité qu'ils contrôlent ainsi que sur les diligences qu'ils y ont effectuées dans le
+cadre de leur mission. 
 
 La commission bancaire peut également transmettre aux commissaires aux comptes des personnes mentionnées au précédent alinéa,
 des organismes de placement collectif en valeurs mobilières et des sociétés de gestion mentionnées à l'article L. 214-25 les
-informations nécessaires à l'accomplissement de leur mission.
+informations nécessaires à l'accomplissement de leur mission. 
 
-Les informations ainsi transmises sont couvertes par la règle du secret professionnel.
+Les informations ainsi transmises sont couvertes par la règle du secret professionnel. 
 
 La commission bancaire peut, en outre, transmettre des observations écrites aux commissaires aux comptes qui sont alors tenus
-d'apporter des réponses en cette forme.
+d'apporter des réponses en cette forme. 
 
-II. - Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais à la commission bancaire tout fait ou
+II.-Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais à la commission bancaire tout fait ou
 décision concernant les personnes mentionnées au premier alinéa du I du présent article dont ils ont eu connaissance dans
-l'exercice de leur mission, de nature :
+l'exercice de leur mission, de nature : 
 
-1. A constituer une violation des dispositions législatives ou réglementaires qui leur sont applicables et susceptibles
-d'avoir des effets significatifs sur la situation financière, le résultat ou le patrimoine ;
+1.A constituer une violation des dispositions législatives ou réglementaires qui leur sont applicables et susceptibles
+d'avoir des effets significatifs sur la situation financière, le résultat ou le patrimoine ; 
 
-2. A porter atteinte à la continuité d'exploitation ;
+2.A porter atteinte à la continuité d'exploitation ; 
 
-3. A entraîner l'émission de réserves ou le refus de la certification des comptes.
+3.A entraîner l'émission de réserves ou le refus de la certification des comptes. 
 
 La même obligation s'applique aux faits et aux décisions mentionnés ci-dessus dont les commissaires aux comptes viendraient à
 avoir connaissance dans l'exercice de leur mission auprès d'une société mère ou filiale d'un établissement, compagnie ou
-entreprise.
+entreprise. 
 
 Lorsque les commissaires aux comptes exercent leur mission dans un établissement de crédit affilié à l'un des organes
 centraux mentionnés à l'article L. 511-30, les faits et décisions mentionnés aux alinéas précédents sont transmis
-simultanément à cet organe central et à la commission bancaire.
+simultanément à cet organe central et à la commission bancaire. 
 
 Les commissaires aux comptes mentionnés au premier alinéa du I du présent article sont déliés du secret professionnel à
 l'égard de la commission bancaire et le cas échéant des organes centraux mentionnés à l'article L. 511-30 pour les
 obligations ci-dessus énumérées, et leur responsabilité ne peut être engagée pour les informations ou divulgations de faits
-auxquelles ils procèdent en exécution de ces mêmes obligations.
+auxquelles ils procèdent en exécution de ces mêmes obligations. 
 
 Lorsqu'elle a connaissance d'une infraction aux dispositions du présent code commise par un commissaire aux comptes d'une
 personne mentionnée au premier alinéa du I du présent article, ou lorsqu'elle considère que les conditions d'indépendance
 nécessaires au bon déroulement de la mission de ce commissaire aux comptes ne sont pas remplies, la commission bancaire peut
 demander au tribunal compétent de relever celui-ci de ses fonctions selon les modalités prévues à l'article L. 823-7 du code
-de commerce.
+de commerce. 
 
-La commission bancaire peut également dénoncer cette infraction à l'autorité disciplinaire compétente. A cette fin, la
+La commission bancaire peut également dénoncer cette infraction à l'autorité disciplinaire compétente.A cette fin, la
 commission bancaire peut communiquer tous les renseignements nécessaires à la bonne information de cette autorité.
 
 **Liens relatifs à cet article**
@@ -41491,16 +41732,15 @@ commission bancaire peut communiquer tous les renseignements nécessaires à la 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
 
 	**Cite**:
 
 	  - Code de commerce. - art. L823-7 (V)
-	  - Code monétaire et financier - art. L214-25 (M)
-	  - Code monétaire et financier - art. L511-21 (V)
-	  - Code monétaire et financier - art. L511-30 (M)
+	  - Code monétaire et financier - art. L214-25 (V)
+	  - Code monétaire et financier - art. L511-21 (VD)
+	  - Code monétaire et financier - art. L511-30 (VD)
 	  - Code monétaire et financier - art. L613-1 (V)
-	  - Code monétaire et financier - art. L613-2 (M)
 
 	**Cité par**:
 
@@ -41513,11 +41753,6 @@ Les contrôles sur place peuvent être étendus aux filiales d'un établissement
 Ils peuvent également l'être aux personnes morales qui contrôlent directement ou indirectement, au sens de l'article L. 233-3
 du code de commerce, un établissement de crédit ou une entreprise d'investissement, aux filiales de ces personnes morales
 ainsi qu'à toute autre entreprise ou personne morale appartenant au même groupe.
-
-**Nota:**
-
-NOTA : Ordonnance 2004-1201 art. 20 : "Les dispositions de la présente ordonnance sont applicables, pour la première fois, à
-la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année".
 
 **Liens relatifs à cet article**
 
@@ -41532,11 +41767,11 @@ la surveillance des comptes de l'exercice social commençant le 1er janvier 2005
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 11 () JORF 16 novembre 2004
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
 
 	**Cite**:
 
-	  - Code de commerce. - art. L233-3 (M)
+	  - Code de commerce. - art. L233-3 (V)
 
 	**Cité par**:
 
@@ -41576,216 +41811,20 @@ Elle communique à l'organe central les résultats de ce contrôle.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 6
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L511-28 (V)
 	  - Code monétaire et financier - art. L520-2 (V)
 	  - Code monétaire et financier - art. L520-6 (VT)
 
-
-###### Article L613-15
-
-Lorsqu'un établissement de crédit a manqué aux règles de bonne conduite de la profession, la commission bancaire, après avoir
-mis ses dirigeants en mesure de présenter leurs explications, peut leur adresser une mise en garde.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 du 24 janvier 1984 - art. 42 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L312-1 (V)
-	  - Code monétaire et financier - art. L511-28 (V)
-	  - Code monétaire et financier - art. L561-36 (VD)
-
-
-###### Article L613-16
-
-La commission bancaire peut adresser à un établissement de crédit et aux personnes mentionnées à l'article L. 613-2 une
-recommandation de prendre les mesures appropriées pour restaurer ou renforcer leur situation financière, améliorer leurs
-méthodes de gestion ou assurer l'adéquation de leur organisation à leurs activités ou à leurs objectifs de développement.
-L'établissement concerné est tenu de répondre dans un délai de deux mois en détaillant les mesures prises à la suite de cette
-recommandation.
-
-La commission bancaire peut, indépendamment des dispositions prévues à l'alinéa précédent, adresser à tout établissement de
-crédit, toute entreprise ou toute personne soumise à son contrôle en application de l'article L. 613-2 une injonction à
-l'effet notamment de prendre dans un délai déterminé toutes mesures destinées à restaurer ou renforcer sa situation
-financière, à améliorer ses méthodes de gestion ou à assurer l'adéquation de son organisation à ses activités ou à ses
-objectifs de développement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 du 24 janvier 1984 - art. 43 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 29 octobre 2009 - art. 32 (V)
-	  - Code monétaire et financier - art. L511-28 (V)
-	  - Code monétaire et financier - art. L517-1 (M)
-	  - Code monétaire et financier - art. L517-5 (V)
-	  - Code monétaire et financier - art. L613-21 (Ab)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L613-2 (M)
-
-
-###### Article L613-17
-
-Les mises en garde et les injonctions que la commission bancaire adresse à un établissement de crédit affilié à un organe
-central sont communiquées à cet organe central.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 du 24 janvier 1984 - art. 47 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-
-###### Article L613-18
-
-La commission bancaire peut désigner un administrateur provisoire auprès d'un établissement de crédit, ou d'une des personnes
-mentionnées au premier alinéa de l'article L. 613-2, auquel sont transférés tous les pouvoirs d'administration, de direction
-et de représentation de la personne morale.
-
-Cette désignation est faite soit à la demande des dirigeants lorsqu'ils estiment ne plus être en mesure d'exercer normalement
-leurs fonctions, soit à l'initiative de la commission lorsque la gestion de l'établissement ou de l'entreprise ne peut plus
-être assurée dans des conditions normales, ou lorsque a été prise l'une des sanctions mentionnées aux 4 et 5 du I de
-l'article L. 613-21.
-
-Lorsque la situation laisse craindre à terme une incapacité de l'établissement ou de l'entreprise à assurer la rémunération
-de l'administrateur provisoire, le fonds de garantie des dépôts peut, sur proposition de la Commission bancaire, décider d'en
-garantir le paiement. La charge correspondante est imputée au mécanisme de garantie des titres pour les personnes mentionnées
-au premier alinéa de l'article L. 613-2 autres que les établissements de crédit. Elle est imputée au fonds de garantie des
-cautions pour les établissements pour lesquels ce mécanisme est mis en oeuvre. En cas de mise en oeuvre conjointe, la charge
-est imputée à parts égales sur les différents mécanismes de garanties mis en oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 du 24 janvier 1984 - art. 44 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 75 1° JORF 2 août 2003
-
-	**Cité par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 5 (V)
-	  - Code monétaire et financier - art. L511-28 (V)
-	  - Code monétaire et financier - art. L515-26 (V)
-	  - Code monétaire et financier - art. L517-1 (M)
-	  - Code monétaire et financier - art. L517-5 (V)
-	  - Code monétaire et financier - art. L613-22 (Ab)
-	  - Code monétaire et financier - art. L613-23 (Ab)
-	  - Code monétaire et financier - art. L613-25 (V)
-	  - Code monétaire et financier - art. L613-28 (V)
-	  - Code monétaire et financier - art. R613-10 (V)
-	  - Code monétaire et financier - art. R613-12 (V)
-	  - Code monétaire et financier - art. R613-13-1 (Ab)
-	  - Code monétaire et financier - art. R613-2 (Ab)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L613-2 (M)
-	  - Code monétaire et financier - art. L613-21 (M)
-
-
-###### Article L613-19
-
-Dans le cas d'un établissement de crédit affilié à un organe central, l'organe central peut demander à la commission bancaire
-de désigner un administrateur provisoire dans l'établissement de crédit qui lui est affilié.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 du 24 janvier 1984 - art. 47 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L512-80 (VD)
-	  - Code monétaire et financier - art. R613-10 (V)
-
-
-###### Article L613-20
-
-I. - Toute personne qui participe ou a participé au contrôle des personnes mentionnées aux articles L. 613-1, L. 613-2 et L.
-613-10, dans les conditions prévues au présent chapitre, est tenue au secret professionnel. Ce secret n'est pas opposable à
-l'autorité judiciaire agissant dans le cadre soit d'une procédure de liquidation judiciaire ouverte à l'égard d'un
-établissement de crédit, d'une entreprise d'investissement ou d'une compagnie financière, soit d'une procédure pénale.
-
-II. - Ce secret n'est pas opposable aux juridictions administratives saisies d'un contentieux relatif à l'activité de la
-commission bancaire.
-
-Ce secret n'est pas opposable en cas d'audition par une commission d'enquête dans les conditions prévues au quatrième alinéa
-du II de l'article 6 de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires.
-
-III. - Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 précitée, la commission bancaire peut
-transmettre des informations aux autorités chargées de la surveillance des personnes mentionnées au I dans d'autres pays,
-sous réserve de réciprocité et à condition que ces autorités soient elles-mêmes soumises au secret professionnel avec les
-mêmes garanties qu'en France.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 (M)
-	  - Loi n°68-678 1968-07-26
-	  - Code monétaire et financier - art. L613-1 (V)
-	  - Code monétaire et financier - art. L613-10 (M)
-	  - Code monétaire et financier - art. L613-2 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 du 24 janvier 1984 - art. 49 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 18 () JORF 16 mai 2001
-
-	**Cité par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V)
-	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD)
-	  - Code monétaire et financier - art. L520-6 (VT)
-	  - Code monétaire et financier - art. L524-6 (VD)
-	  - Code monétaire et financier - art. L561-36 (VD)
-	  - Code monétaire et financier - art. L566-3 (Ab)
-	  - Code monétaire et financier - art. L632-15 (V)
-	  - Code monétaire et financier - art. L641-2 (Ab)
-
-
-##### Sous-section 1 : Dispositions générales.
 
 ###### Article L613-12
 
@@ -41946,6 +41985,408 @@ Sous réserve des attributions de l'Autorité des marchés financiers, les dispo
 	**Abrogé par**:
 
 	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 5 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+
+
+###### Article L613-15
+
+Lorsqu'un établissement de crédit a manqué aux règles de bonne conduite de la profession, la commission bancaire, après avoir
+mis ses dirigeants en mesure de présenter leurs explications, peut leur adresser une mise en garde.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°84-46 du 24 janvier 1984 - art. 42 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 6
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L312-1 (V)
+	  - Code monétaire et financier - art. L511-28 (V)
+	  - Code monétaire et financier - art. L561-36 (VD)
+
+
+###### Article L613-16
+
+La commission bancaire peut adresser à un établissement de crédit et aux personnes mentionnées à l'article L. 613-2 une
+recommandation de prendre les mesures appropriées pour restaurer ou renforcer leur situation financière, améliorer leurs
+méthodes de gestion ou assurer l'adéquation de leur organisation à leurs activités ou à leurs objectifs de
+développement.L'établissement concerné est tenu de répondre dans un délai de deux mois en détaillant les mesures prises à la
+suite de cette recommandation. 
+
+La commission bancaire peut, indépendamment des dispositions prévues à l'alinéa précédent, adresser à tout établissement de
+crédit, toute entreprise ou toute personne soumise à son contrôle en application de l'article L. 613-2 une injonction à
+l'effet notamment de prendre dans un délai déterminé toutes mesures destinées à restaurer ou renforcer sa situation
+financière, à améliorer ses méthodes de gestion ou à assurer l'adéquation de son organisation à ses activités ou à ses
+objectifs de développement. 
+
+La Commission bancaire peut en particulier enjoindre à ces établissements, entreprises ou personnes de détenir des fonds
+propres d'un montant supérieur au montant minimal prévu par la réglementation applicable et exiger d'eux qu'ils appliquent à
+leurs actifs une politique spécifique de provisionnement ou un traitement spécifique au regard des exigences de fonds
+propres. Elle peut aussi leur enjoindre de restreindre ou de limiter à titre temporaire leur activité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°84-46 du 24 janvier 1984 - art. 43 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
+
+	**Cité par**:
+
+	  - Arrêté du 29 octobre 2009 - art. 32 (V)
+	  - Code monétaire et financier - art. L511-28 (V)
+	  - Code monétaire et financier - art. L517-1 (M)
+	  - Code monétaire et financier - art. L517-5 (V)
+	  - Code monétaire et financier - art. L613-21 (Ab)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-2 (V)
+
+
+###### Article L613-17
+
+Les mises en garde et les injonctions que la commission bancaire adresse à un établissement de crédit affilié à un organe
+central sont communiquées à cet organe central.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°84-46 du 24 janvier 1984 - art. 47 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 6
+
+
+###### Article L613-18
+
+La commission bancaire peut désigner un administrateur provisoire auprès d'un établissement de crédit, ou d'une des personnes
+mentionnées au premier alinéa de l'article L. 613-2, auquel sont transférés tous les pouvoirs d'administration, de direction
+et de représentation de la personne morale. 
+
+Cette désignation est faite soit à la demande des dirigeants lorsqu'ils estiment ne plus être en mesure d'exercer normalement
+leurs fonctions, soit à l'initiative de la commission lorsque la gestion de l'établissement ou de l'entreprise ne peut plus
+être assurée dans des conditions normales, ou lorsque a été prise l'une des sanctions mentionnées aux 4 et 5 du I de
+l'article L. 613-21. 
+
+Lorsque la situation laisse craindre à terme une incapacité de l'établissement ou de l'entreprise à assurer la rémunération
+de l'administrateur provisoire, le fonds de garantie des dépôts peut, sur proposition de la Commission bancaire, décider d'en
+garantir le paiement. La charge correspondante est imputée au mécanisme de garantie des titres pour les personnes mentionnées
+au premier alinéa de l'article L. 613-2 autres que les établissements de crédit. Elle est imputée au fonds de garantie des
+cautions pour les établissements pour lesquels ce mécanisme est mis en oeuvre. En cas de mise en oeuvre conjointe, la charge
+est imputée à parts égales sur les différents mécanismes de garanties mis en oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°84-46 du 24 janvier 1984 - art. 44 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 5 (V)
+	  - Code monétaire et financier - art. L511-28 (V)
+	  - Code monétaire et financier - art. L515-26 (V)
+	  - Code monétaire et financier - art. L517-1 (M)
+	  - Code monétaire et financier - art. L517-5 (V)
+	  - Code monétaire et financier - art. L613-22 (Ab)
+	  - Code monétaire et financier - art. L613-23 (Ab)
+	  - Code monétaire et financier - art. L613-25 (V)
+	  - Code monétaire et financier - art. L613-28 (V)
+	  - Code monétaire et financier - art. R613-10 (V)
+	  - Code monétaire et financier - art. R613-12 (V)
+	  - Code monétaire et financier - art. R613-13-1 (Ab)
+	  - Code monétaire et financier - art. R613-2 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-2 (V)
+	  - Code monétaire et financier - art. L613-21 (VD)
+
+
+###### Article L613-19
+
+Dans le cas d'un établissement de crédit affilié à un organe central, l'organe central peut demander à la commission bancaire
+de désigner un administrateur provisoire dans l'établissement de crédit qui lui est affilié.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°84-46 du 24 janvier 1984 - art. 47 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 6
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L512-80 (VD)
+	  - Code monétaire et financier - art. R613-10 (V)
+
+
+###### Article L613-20
+
+I. - Toute personne qui participe ou a participé au contrôle des personnes mentionnées aux articles L. 613-1, L. 613-2 et L.
+613-10, dans les conditions prévues au présent chapitre, est tenue au secret professionnel. Ce secret n'est pas opposable à
+l'autorité judiciaire agissant dans le cadre soit d'une procédure de liquidation judiciaire ouverte à l'égard d'un
+établissement de crédit, d'une entreprise d'investissement ou d'une compagnie financière, soit d'une procédure pénale.
+
+II. - Ce secret n'est pas opposable aux juridictions administratives saisies d'un contentieux relatif à l'activité de la
+commission bancaire.
+
+Ce secret n'est pas opposable en cas d'audition par une commission d'enquête dans les conditions prévues au quatrième alinéa
+du II de l'article 6 de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires.
+
+III. - Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 précitée, la commission bancaire peut
+transmettre des informations aux autorités chargées de la surveillance des personnes mentionnées au I dans d'autres pays,
+sous réserve de réciprocité et à condition que ces autorités soient elles-mêmes soumises au secret professionnel avec les
+mêmes garanties qu'en France.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 (M)
+	  - Loi n°68-678 1968-07-26
+	  - Code monétaire et financier - art. L613-1 (V)
+	  - Code monétaire et financier - art. L613-10 (M)
+	  - Code monétaire et financier - art. L613-2 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°84-46 du 24 janvier 1984 - art. 49 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V)
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD)
+	  - Code monétaire et financier - art. L520-6 (VT)
+	  - Code monétaire et financier - art. L524-6 (VD)
+	  - Code monétaire et financier - art. L561-36 (VD)
+	  - Code monétaire et financier - art. L566-3 (Ab)
+	  - Code monétaire et financier - art. L632-15 (V)
+	  - Code monétaire et financier - art. L641-2 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
+
+
+##### Sous-section 2 : Surveillance sur une base consolidée.
+
+###### Article L613-20-1
+
+La Commission bancaire exerce la surveillance sur une base consolidée d'un groupe au sens des articles L. 511-41-2 et L.
+533-4-1 lorsque l'entreprise mère de ce groupe dans la Communauté européenne ou l'Espace économique européen est un
+établissement de crédit ou une entreprise d'investissement relevant de son contrôle. Lorsque l'entreprise mère est une
+compagnie financière ou une compagnie financière holding mixte au sens respectivement des articles L. 517-1 et L. 517-4, la
+Commission bancaire exerce la surveillance sur une base consolidée si cette compagnie répond à des critères définis par
+arrêté du ministre chargé de l'économie.
+
+Lorsque la Commission bancaire est chargée d'exercer la surveillance sur un groupe en application du premier alinéa du
+présent article, elle exerce ses compétences à l'égard des entités surveillées sur une base consolidée dans l'ensemble de
+l'Espace économique européen. A ce titre, elle assure en particulier :
+
+1. La coordination de la collecte et de la diffusion des informations utiles dans la marche normale des affaires comme dans
+les situations d'urgence ;
+
+2. La planification et la coordination des activités de surveillance prudentielle, en coopération avec les autorités
+compétentes intéressées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance 2007-571 2007-04-19 art. 5 3° JORF 20 avril 2007
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 (V)
+	  - Arrêté du 3 novembre 2014 - art. 2 (V)
+	  - Arrêté du 3 novembre 2014 - art. 8 (V)
+	  - Code de la mutualité - art. L212-7-4-1 (VT)
+	  - Code des assurances - art. L334-3-2 (V)
+	  - Code monétaire et financier - art. L511-41-1 B (V)
+	  - Code monétaire et financier - art. L517-9 (VD)
+	  - Code monétaire et financier - art. L518-15-2 (V)
+	  - Code monétaire et financier - art. L518-15-3 (VD)
+	  - Code monétaire et financier - art. L533-2-2 (V)
+	  - Code monétaire et financier - art. L561-36 (VD)
+	  - Code monétaire et financier - art. L566-3 (Ab)
+	  - Code monétaire et financier - art. L613-31-11 (V)
+	  - Code monétaire et financier - art. L613-32-1 (VT)
+	  - Code monétaire et financier - art. L746-3 (V)
+	  - Code monétaire et financier - art. L756-3 (V)
+	  - Code monétaire et financier - art. L766-3 (V)
+	  - Code monétaire et financier - art. R613-1 B (V)
+	  - Code monétaire et financier - art. R613-3 (V)
+	  - Code monétaire et financier - art. R613-3-1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-41-2 (V)
+	  - Code monétaire et financier - art. L517-1 (M)
+	  - Code monétaire et financier - art. L517-4 (V)
+	  - Code monétaire et financier - art. L533-4-1 (V)
+
+
+###### Article L613-20-2
+
+Afin de faciliter l'exercice du contrôle des groupes sur une base consolidée, la Commission bancaire peut conclure avec les
+autorités compétentes d'autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique
+européen des accords définissant des modalités spécifiques de prise de décision et de coopération, qui peuvent comprendre
+l'exercice par ces dernières autorités de certaines tâches et compétences relevant de la Commission bancaire et,
+réciproquement, l'exercice par la Commission bancaire de certaines tâches et compétences relevant de ses homologues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance 2007-571 2007-04-19 art. 5 3° JORF 20 avril 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L561-36 (VD)
+	  - Code monétaire et financier - art. L613-20-6 (V)
+	  - Code monétaire et financier - art. L613-37 (V)
+	  - Code monétaire et financier - art. L756-3 (V)
+	  - Code monétaire et financier - art. R612-24 (V)
+	  - Code monétaire et financier - art. R613-1 (V)
+	  - Code monétaire et financier - art. R613-2 (V)
+	  - Code monétaire et financier - art. R613-33 (V)
+	  - Code monétaire et financier - art. R756-2 (V)
+	  - Code monétaire et financier - art. R766-2 (V)
+
+
+###### Article L613-20-3
+
+Les dispositions du chapitre II du titre III du présent livre, notamment celles des articles L. 632-1, L. 632-3, L. 632-5 et
+L. 632-12, sont applicables à l'exercice des compétences et aux accords mentionnés dans la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance 2007-571 2007-04-19 art. 5 3° JORF 20 avril 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L632-1 (M)
+	  - Code monétaire et financier - art. L632-12 (V)
+	  - Code monétaire et financier - art. L632-3 (V)
+	  - Code monétaire et financier - art. L632-5 (V)
+
+
+###### Article L613-20-4
+
+Lorsque, en tant qu'autorité chargée de la surveillance sur une base consolidée, la Commission bancaire est saisie d'une
+demande d'autorisation portant sur l'utilisation d'une approche interne d'évaluation des risques telle que mentionnée à
+l'article L. 511-41 pour le compte de plusieurs établissements de crédit ou entreprises d'investissement appartenant à un
+même groupe et établis dans au moins deux Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace
+économique européen, elle se concerte avec les autorités intéressées en vue d'aboutir à une décision faisant l'objet d'un
+accord de leur part. Dans le cas où un tel accord ne peut être obtenu, elle se prononce et communique la décision prise aux
+autorités intéressées.
+
+Lorsqu'une autorité d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen
+consulte la Commission bancaire sur une demande d'autorisation portant sur l'utilisation d'une approche interne d'évaluation
+des risques dont elle a été saisie en tant qu'autorité chargée de la surveillance sur une base consolidée, la Commission
+bancaire coopère en vue d'aboutir à une décision faisant l'objet d'un accord de sa part. Dans le cas où cette autorité, ne
+pouvant obtenir un tel accord, se prononce seule sur la demande, la décision qu'elle prend est applicable en France dès sa
+communication à la Commission bancaire.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance 2007-571 2007-04-19 art. 5 3° JORF 20 avril 2007
+
+	**Cité par**:
+
+	  - Loi n°2008-1061 du 16 octobre 2008 - art. 6 (V)
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code monétaire et financier - art. L612-34-1 (V)
+	  - Code monétaire et financier - art. L613-32-1 (VD)
+	  - Code monétaire et financier - art. L736-1 (VT)
+	  - Code monétaire et financier - art. R613-1 A (V)
+	  - Code monétaire et financier - art. R613-3-1 (V)
+	  - Code monétaire et financier - art. R613-3-2 (V)
+	  - Code monétaire et financier - art. R613-3-3 (V)
+	  - Code monétaire et financier - art. R613-3-4 (V)
+	  - Code monétaire et financier - art. R613-3-6 (V)
+	  - Code monétaire et financier - art. R613-3-8 (V)
+	  - Code monétaire et financier - art. R613-4-1 (M)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-41 (M)
 
 
 ##### Section 5 : Exercice du pouvoir disciplinaire.
