@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-04-20
+Version Consolidée au 2007-05-10
 
 # Partie législative
 
@@ -74477,23 +74477,27 @@ l'article L. 313-29 est constaté par un écrit intitulé :
 
 ###### Article R313-20
 
-La quotité prévue au dernier alinéa de l'article L. 313-42 est définie, lorsqu'elle est appréciée au moment de la conclusion
-du contrat de prêt, par le rapport entre le capital dû et la valeur du bien et, lorsqu'elle est appréciée au moment de la
-mise à disposition au profit du porteur du billet, par le rapport entre le capital restant dû et la valeur du bien.
+I.-Une créance garantie au sens de l'article L. 313-42 ne peut être mobilisée par application des dispositions de cet article
+que dans la limite du plus petit des montants ci-dessous : 
 
-Elle est fixée à 60 % de la valeur du bien financé pour les créances cautionnées ou du bien apporté en garantie pour les
-créances hypothécaires.
+1. Le montant du capital restant dû de cette créance ; 
 
-Elle peut être portée à 80 % de la valeur du bien si les prêts mis à la disposition du porteur du billet à ordre par la
-société émettrice de ce billet ont été consentis à des personnes physiques pour financer la construction ou l'acquisition de
-logements ou pour financer à la fois l'acquisition d'un terrain à bâtir et le coût des travaux de construction de logements.
-Sont assimilés à la construction les travaux ayant pour objet la création ou la transformation d'une surface habitable, par
-agrandissement ou par remise en état. Pour les créances hypothécaires, il faut également que le bien apporté en garantie soit
-un logement.
+2. Le produit de la quotité de financement définie au II et de la valeur du bien financé ou apporté en garantie. 
 
-L'évaluation des biens financés ou apportés en garantie correspondant aux créances mobilisées est effectuée par les émetteurs
-de billets à ordre selon les modalités prévues par un arrêté du ministre chargé de l'économie, pris après avis du Comité
-consultatif de la législation et de la réglementation financières.
+II.-La quotité mentionnée au 2 du Ier est égale à : 
+
+1.60 % de la valeur du bien financé pour les créances cautionnées ou du bien apporté en garantie pour les créances
+hypothécaires ; 
+
+2.80 % de la valeur du bien pour les prêts mis à la disposition du porteur du billet à ordre par la société émettrice de ce
+billet qui ont été consentis à des personnes physiques pour financer la construction ou l'acquisition de logements ou pour
+financer à la fois l'acquisition d'un terrain à bâtir et le coût des travaux de construction de logements. 
+
+Sont assimilés à la construction de logements les travaux ayant pour objet, en vue de la réalisation d'un logement, la
+création ou la transformation d'une surface habitable, par agrandissement ou par remise en état. 
+
+III.-L'évaluation des biens financés ou apportés en garantie correspondant aux créances mobilisées est faite par les
+émetteurs de billets à ordre selon les modalités prévues par un arrêté du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -74505,9 +74509,13 @@ consultatif de la législation et de la réglementation financières.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-745 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L313-42 (M)
+	  - Code monétaire et financier - art. L313-42 (V)
 
 	**Cité par**:
 
@@ -74516,16 +74524,16 @@ consultatif de la législation et de la réglementation financières.
 
 ###### Article R313-21
 
-La quotité de financement mentionnée à l'avant-dernier alinéa de l'article R. 313-20 peut être dépassée :
+La quotité mentionnée au 2 du II de l'article R. 313-20 est portée à :
 
-1° Dans la limite de 90 % de la valeur du bien lorsque le montant des créances mobilisées excède de 25 % au moins celui des
-billets à ordre qu'elles garantissent ;
+1. 90 % de la valeur du bien lorsque le montant des créances mobilisées excède de 25 % au moins celui des billets à ordre
+qu'elles garantissent ;
 
-2° Dans la limite de 100 % de la valeur du bien apporté en garantie, pour les prêts bénéficiant de la garantie du fonds de
-garantie à l'accession sociale à la propriété mentionné à l'article L. 312-1 du code de la construction et de l'habitation ou
-les prêts couverts, pour la partie excédant la quotité fixée, par un cautionnement répondant aux conditions posées à
-l'article L. 313-42 du présent code ou par la garantie d'une ou plusieurs personnes morales de droit public mentionnées à
-l'article L. 515-15 du même code.
+2. 100 % de la valeur du bien apporté en garantie, pour les prêts bénéficiant de la garantie du fonds de garantie à
+l'accession sociale à la propriété mentionné à l'article L. 312-1 du code de la construction et de l'habitation ou de toute
+personne qui viendrait à s'y substituer ou les prêts couverts, pour la partie excédant la quotité fixée, par un cautionnement
+répondant aux conditions posées à l'article L. 313-42 du présent code ou par la garantie d'une ou plusieurs personnes
+publiques mentionnées à l'article L. 515-15 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -74537,11 +74545,15 @@ l'article L. 515-15 du même code.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-745 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L313-42 (M)
+	  - Code monétaire et financier - art. L515-15 (M)
 	  - Code monétaire et financier - art. R313-20 (M)
-	  - Code de la construction et de l'habitation L312-1, L515-15
 	  - Code de la construction et de l'habitation. - art. L312-1 (M)
 
 
@@ -74567,38 +74579,12 @@ préférence aux autres créanciers.
 	  - Code monétaire et financier - art. L313-42 (V)
 
 
-###### Article R313-23
-
-Pour les créances cautionnées, l'apport personnel ne peut être inférieur :
-
-1° A 10 % du prix d'achat du bien immobilier hors frais et taxes s'il s'agit d'un logement ;
-
-2° A 5 % du prix du bien immobilier hors frais et taxes s'il s'agit d'un logement et si l'apport est constitué à partir de
-dépôts sur un plan contractuel d'épargne logement.
-
-L'apport personnel ne peut être constitué par emprunt.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-664 du 17 juillet 2000 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2007-745 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
-
-
 ###### Article R313-24
 
 Pour l'application du 2° du I de l'article L. 515-14, les créances cautionnées éligibles sont celles dont un établissement de
 crédit ou une entreprise d'assurances détenant des capitaux propres d'au moins 12 millions d'euros est caution solidaire.
 
-Le montant total des créances cautionnées mobilisées ne peut dépasser 20 % du montant total des créances mises à disposition
+Le montant total des créances cautionnées mobilisées ne peut dépasser 35 % du montant total des créances mises à disposition
 au profit de l'établissement détenteur des billets à ordre émis en application des articles L. 313-42 à L. 313-48.
 
 **Liens relatifs à cet article**
@@ -74611,6 +74597,10 @@ au profit de l'établissement détenteur des billets à ordre émis en applicati
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-745 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
 
 	**Cite**:
 
@@ -74632,7 +74622,7 @@ Le contrat d'émission des obligations émises en application de l'article L. 31
 
 2° L'objet exclusif de l'établissement de crédit émetteur ;
 
-3° La dérogation prévue à l'article R. 214-8 ;
+3° La dérogation prévue à l'article R. 214-7 ;
 
 4° Le privilège dont bénéficie l'établissement de crédit émetteur conformément aux dispositions des articles L. 313-42 à L.
 313-49.
@@ -74647,11 +74637,15 @@ Le contrat d'émission des obligations émises en application de l'article L. 31
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-745 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L313-42 (M)
-	  - Code monétaire et financier - art. R214-8 (V)
-	  - Code monétaire et financier L313-42, R214-8, L313-42 à L313-49
+	  - Code monétaire et financier - art. R214-7 (M)
+	  - Code monétaire et financier L313-42, R214-7, L313-42 à L313-49
 
 	**Cité par**:
 
@@ -78836,19 +78830,27 @@ Dans ce cas, le respect des règles arrêtées par le ministre chargé de l'éco
 
 ###### Article R515-2
 
-Les quotités prévues à l'article L. 515-14 sont définies, lorsqu'elles sont appréciées au moment de la conclusion du contrat
-de prêt, par le rapport entre le capital dû et la valeur du bien, lorsqu'elles sont appréciées au moment de l'acquisition de
-la créance si le prêt a été consenti par un tiers, par le rapport entre le capital restant dû et la valeur du bien.
+I. - Un prêt garanti au sens de l'article L. 515-14 ne peut être refinancé par des ressources privilégiées que dans la limite
+du plus petit des montants ci-dessous :
 
-Elles sont fixées à 60 % de la valeur du bien financé pour les prêts cautionnés ou du bien apporté en garantie pour les prêts
-hypothécaires.
+1. Le montant du capital restant dû de ce prêt ;
 
-Elles peuvent être portées à 80 % de la valeur du bien lorsque tous les prêts garantis figurant à l'actif de la société de
-crédit foncier ont été consentis à des personnes physiques pour financer la construction ou l'acquisition de logements ou
-pour financer à la fois l'acquisition d'un terrain à bâtir et le coût des travaux de construction de logements. Sont
-assimilés à la construction les travaux ayant pour objet la création ou la transformation d'une surface habitable, par
-agrandissement ou par remise en état. Pour les prêts hypothécaires, il faut également que le bien apporté en garantie soit un
-logement.
+2. Le produit de la quotité de financement définie au II et de la valeur du bien financé ou apporté en garantie.
+
+II. - La quotité mentionnée au 2 du I est égale à :
+
+1. 60 % de la valeur du bien financé pour les prêts cautionnés ou du bien apporté en garantie pour les prêts hypothécaires ;
+
+2. 80 % de la valeur du bien pour les prêts garantis figurant à l'actif de la société de crédit foncier consentis à des
+personnes physiques pour financer la construction ou l'acquisition de logements ou pour financer à la fois l'acquisition d'un
+terrain à bâtir et le coût des travaux de construction de logements.
+
+3. 100 % de la valeur du bien apporté en garantie, pour les prêts bénéficiant de la garantie du fonds de garantie à
+l'accession sociale à la propriété mentionné à l'article L. 312-1 du code de la construction et de l'habitation ou de toute
+personne qui viendrait à s'y substituer.
+
+Pour l'application du 2, sont assimilés à la construction de logements les travaux ayant pour objet, en vue de la réalisation
+d'un logement, la création ou la transformation d'une surface habitable, par agrandissement ou par remise en état.
 
 **Liens relatifs à cet article**
 
@@ -78860,9 +78862,14 @@ logement.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-745 du 9 mai 2007 - art. 2 () JORF 10 mai 2007
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L515-14 (M)
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
 
 	**Cité par**:
 
@@ -78875,18 +78882,13 @@ logement.
 
 ###### Article R515-3
 
-Les prêts garantis assortis d'une sûreté immobilière conférant une garantie équivalente au sens du 1° du I de l'article L.
-515-14 sont des prêts assortis d'une sûreté qui confère au créancier, quelle que soit la situation juridique du débiteur, le
-droit de faire procéder à la vente de l'immeuble grevé par cette sûreté dans quelques mains qu'il se trouve et de se faire
-payer sur le prix de vente par préférence aux autres créanciers.
+I. - L'évaluation de la qualité de crédit des personnes publiques mentionnée aux 2 à 5 de l'article L. 515-15 est celle
+retenue par l'organisme externe d'évaluation de crédit lors de l'inscription de l'exposition à l'actif de la société de
+crédit foncier.
 
-Les garanties équivalentes au sens de l'article L. 515-16 sont celles qui, selon le droit qui leur est applicable, confèrent
-aux titulaires des créances qui en sont assorties le droit de percevoir, directement ou indirectement, le remboursement d'un
-prêt sous-jacent ou d'un ensemble de prêts sous-jacents répondant aux caractéristiques définies au I de l'article L. 515-14
-ou à l'article L. 515-15 et le produit de l'exécution des garanties attachées à ces prêts, dans les conditions contractuelles
-prévues lors de l'octroi de ces prêts. Ce droit doit pouvoir être exercé, même en cas de défaillance du débiteur du prêt
-sous-jacent ou d'une entité interposée, sans subir le concours d'un autre créancier à l'exception de ceux qui tirent leurs
-droits de la gestion des créances cédées et des garanties.
+II. - Les expositions mentionnées au 5 du I de l'article L. 515-15 ne peuvent excéder 20 % du montant nominal des obligations
+foncières et autres ressources bénéficiant du privilège mentionnées au 2 du I de l'article L. 515-13, émises par la société
+de crédit foncier.
 
 **Liens relatifs à cet article**
 
@@ -78898,32 +78900,57 @@ droits de la gestion des créances cédées et des garanties.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-745 du 9 mai 2007 - art. 2 () JORF 10 mai 2007
+
 	**Cité par**:
 
 	  - Code de commerce - art. R823-17 (MMN)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L515-14 (M)
+	  - Code monétaire et financier - art. L515-13 (M)
 	  - Code monétaire et financier - art. L515-15 (M)
-	  - Code monétaire et financier - art. L515-16 (M)
 
 
 ###### Article R515-4
 
-La quotité de financement mentionnée au II de l'article L. 515-14 peut être dépassée :
+I. - Les parts ou titres de créances émis par un fonds commun de créances ou une entité similaire mentionnés à l'article L.
+515-16 ne peuvent être refinancés par des ressources privilégiées que dans la limite du plus petit des montants ci-dessous :
 
-1° Dans la limite de 100 % de la valeur du bien apporté en garantie, pour les prêts bénéficiant de la garantie du fonds de
-garantie à l'accession sociale à la propriété mentionné à l'article L. 312-1 du code de la construction et de l'habitation,
-ou les prêts couverts, pour la partie excédant la quotité fixée, par un cautionnement d'un établissement de crédit ou d'une
-entreprise d'assurance mentionnés à l'article L. 515-14 ou par la garantie d'une ou plusieurs des personnes morales de droit
-public mentionnées à l'article L. 515-15 ;
+1. L'encours des parts ou titres émis par ce fonds commun de créances ou entité similaire et détenus par la société de crédit
+foncier, à l'exclusion des parts spécifiques et titres de créances supportant le risque de défaillance des débiteurs ;
 
-2° Dans la limite de 80 % de la valeur du bien apporté en garantie, lorsque ces prêts, pour la partie excédant la quotité
-fixée, sont financés par des ressources non privilégiées. Les sociétés de crédit foncier calculent le montant du dépassement
-sur l'ensemble des prêts qu'elles détiennent et pour chaque prêt ayant fait l'objet d'un dépassement au moment de l'octroi ou
-de l'acquisition de ce prêt. La somme arithmétique des dépassements calculés sur l'ensemble des prêts doit être en permanence
-inférieure ou égale à l'encours des ressources non privilégiées de la société de crédit foncier.
+2. La somme des capitaux restant dus des prêts à l'actif de ce fonds commun de créances ou entité similaire, majorée des
+liquidités de ce fonds commun de créances ou entité similaire définies à l'article R. 214-95 ;
+
+3. Le produit de la valeur des biens financés ou apportés en garantie des prêts figurant à l'actif du fonds commun de
+créances ou de l'entité similaire par les quotités visées à l'article R. 515-2 en fonction de la nature de l'actif du fonds.
+Ce produit est majoré des liquidités du fonds commun de créances ou entité similaire définies à l'article R. 214-95.
+
+Ces montants sont ceux constatés lors du lancement du fonds commun de créances ou de l'entité similaire, le cas échéant lors
+d'un rechargement ultérieur ou lors de l'inscription des parts ou titres à l'actif de la société de crédit foncier.
+
+II. - L'acquisition des parts ou titres mentionnés à l'article L. 515-16 émis par des fonds communs de créances ou entités
+similaires mentionnées audit article, dont l'actif est constitué à au moins 90 % de prêts consentis à des personnes physiques
+pour financer la construction ou l'acquisition de logement ou pour financer à la fois l'acquisition d'un terrain à bâtir et
+le coût des travaux de construction de logement tels que mentionnés au troisième alinéa de l'article R. 515-2, est limitée à
+20 % du montant nominal des obligations foncières, et autres ressources bénéficiant du privilège mentionnées au 2 du I de
+l'article L. 515-13, émises par la société de crédit foncier.
+
+III. - L'acquisition des parts ou titres mentionnés à l'article L. 515-16 émis par des fonds communs de créances ou entités
+similaires mentionnées audit article, dont l'actif est constitué à au moins 90 % de prêts mentionnés à l'article L. 515-14 et
+qui ne relèvent pas du II ci-dessus, est limitée à 20 % du montant nominal des obligations foncières et autres ressources
+bénéficiant du privilège mentionnées au 2 du I de l'article L. 515-13, émises par la société de crédit foncier.
+
+IV. - Les parts ou titres de créances qui bénéficient de la meilleure évaluation de crédit établie par un organisme externe
+d'évaluation de crédit reconnu par la Commission bancaire conformément à l'article L. 511-44 pour les obligations foncières
+ou autres ressources bénéficiant du privilège mentionnées au 2° du I de l'article L. 515-13 du code monétaire et financier
+peuvent représenter 100 % du montant nominal des obligations foncières, et autres ressources bénéficiant du privilège
+mentionnées au 2° du I de l'article L. 515-13, émises par la société de crédit foncier.
+
+Au plus tard le 31 décembre 2010, les conditions d'éligibilité de ces actifs font l'objet d'un nouvel examen.
 
 **Liens relatifs à cet article**
 
@@ -78935,11 +78962,9 @@ inférieure ou égale à l'encours des ressources non privilégiées de la soci�
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code monétaire et financier - art. L515-14 (M)
-	  - Code monétaire et financier - art. L515-15 (M)
-	  - Code de la construction et de l'habitation. - art. L312-1 (M)
+	  - Décret n°2007-745 du 9 mai 2007 - art. 2 () JORF 10 mai 2007
 
 	**Cité par**:
 
@@ -78950,16 +78975,19 @@ inférieure ou égale à l'encours des ressources non privilégiées de la soci�
 
 ###### Article R515-5
 
-L'apport personnel mentionné au 2° du I de l'article L. 515-14 ne peut être inférieur à :
+Les prêts garantis assortis d'une sûreté immobilière conférant une garantie équivalente au sens du 1 du I de l'article L.
+515-14 sont des prêts assortis d'une sûreté qui confère au créancier, quelle que soit la situation juridique du débiteur, le
+droit de faire procéder à la vente de l'immeuble grevé par cette sûreté dans quelques mains qu'il se trouve et de se faire
+payer sur le prix de vente par préférence aux autres créanciers.
 
-1° 20 % du prix d'achat du bien immobilier hors frais et taxes s'il s'agit d'un bien à usage professionnel ;
-
-2° 10 % du prix d'achat du bien immobilier hors frais et taxes s'il s'agit d'un logement ;
-
-3° 5 % du prix d'achat du bien immobilier hors frais et taxes s'il s'agit d'un logement et si l'apport est constitué à partir
-de dépôts sur un plan contractuel d'épargne logement.
-
-L'apport personnel ne peut être constitué par emprunt.
+Les garanties équivalentes au sens de l'article L. 515-16 sont celles qui, selon le droit qui leur est applicable, confèrent
+aux titulaires des créances qui en sont assorties le droit de percevoir, directement ou indirectement, le remboursement d'un
+prêt sous-jacent ou d'un ensemble de prêts sous-jacents répondant aux caractéristiques définies au I de l'article L. 515-14
+ou à l'article L. 515-15 et le produit de l'exécution des garanties attachées à ces prêts, dans les conditions contractuelles
+prévues lors de l'octroi de ces prêts. Ce droit doit pouvoir être exercé, même en cas de défaillance du débiteur du prêt
+sous-jacent ou d'une entité interposée, sans subir le concours d'un autre créancier de rang supérieur à l'exception
+éventuelle de ceux qui tirent leurs droits de la gestion des créances cédées et des garanties ou de la gestion ou du
+fonctionnement de l'entité interposée.
 
 **Liens relatifs à cet article**
 
@@ -78971,9 +78999,15 @@ L'apport personnel ne peut être constitué par emprunt.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-745 du 9 mai 2007 - art. 2 () JORF 10 mai 2007
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L515-14 (M)
+	  - Code monétaire et financier - art. L515-15 (M)
+	  - Code monétaire et financier - art. L515-16 (M)
 
 	**Cité par**:
 
@@ -78989,7 +79023,7 @@ Pour l'application du 2° du I de l'article L. 515-14, les prêts cautionnés é
 sont les prêts dont un établissement de crédit ou une entreprise d'assurances détenant des capitaux propres d'au moins 12
 millions d'euros est caution solidaire.
 
-Le montant total des prêts cautionnés ne peut dépasser 20 % du montant total de l'actif des sociétés de crédit foncier.
+Le montant total des prêts cautionnés ne peut dépasser 35 % du montant total de l'actif des sociétés de crédit foncier.
 
 **Liens relatifs à cet article**
 
@@ -79002,50 +79036,35 @@ Le montant total des prêts cautionnés ne peut dépasser 20 % du montant total 
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Cite**:
-
-	  - Code monétaire et financier - art. L515-14 (M)
-
-
-###### Article R515-6-1
-
-La liste prévue au troisième alinéa de l'article L. 515-15 comprend les personnes publiques suivantes :
-
-1° Les Etats mentionnés au premier alinéa du même article ;
-
-2° Les collectivités territoriales mentionnées audit alinéa, dès lors qu'elles ont plus de 5 000 habitants ;
-
-3° Les groupements de collectivités territoriales mentionnés à ce même alinéa, dès lors qu'ils réunissent plus de 10 000
-habitants ;
-
-4° Les établissements publics ou organismes de droit public assimilés rattachés aux personnes publiques mentionnées aux 1°,
-2° et 3°.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2005-1400 du 10 novembre 2005 - art. 1 () JORF 15 novembre 2005
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2007-745 du 9 mai 2007 - art. 2 () JORF 10 mai 2007
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L515-15 (M)
+	  - Code monétaire et financier - art. L515-14 (M)
 
 
 ###### Article R515-7
 
-Pour l'application de l'article L. 515-17, les titres et valeurs suffisamment sûrs et liquides sont les actifs susceptibles
-d'être mobilisés auprès du Système européen de banques centrales ainsi que les créances à moins d'un an sur des
-établissements de crédit. La part de ces actifs sûrs et liquides ne peut excéder 20 % du total de l'actif des sociétés de
-crédit foncier. Sur autorisation de la commission bancaire, cette part peut être temporairement portée à 30 %.
+Pour l'application de l'article L. 515-17, sont regardés comme suffisamment sûrs et liquides les titres, valeurs et dépôts
+dont sont débiteurs des établissements de crédit ou entreprises d'investissement bénéficiant du meilleur échelon de qualité
+de crédit établi par un organisme externe d'évaluation de crédit reconnu par la commission bancaire en application des
+dispositions de l'article L. 511-44. Le montant total de ces valeurs de remplacement ne peut excéder 15 % du montant nominal
+des obligations foncières et autres ressources bénéficiant du privilège mentionné au 2 du I de l'article L. 515-13, émises
+par la société de crédit foncier.
+
+Les créances liées au paiement ou à la gestion des sommes dues au titre des prêts, contrats ou des différents titres,
+valeurs, parts et instruments financiers à terme, mentionnés à l'article L. 515-18 ou les garanties reçues des établissements
+de crédit pour couvrir ces actifs et inscrites au bilan ou au hors bilan de la société de crédit foncier, ainsi que les
+expositions liées à la liquidation de ces prêts, contrats, titres, valeurs et parts ne sont pas prises en compte dans le
+calcul de cette limite.
+
+Lorsque leur échéance résiduelle ne dépasse pas cent jours, les créances sur les établissements de crédit ou entreprises
+d'investissement établis dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen sont également reconnues comme titres, valeurs et dépôts suffisamment sûrs et liquides lorsqu'elles bénéficient du
+second meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu par la commission
+bancaire en application des dispositions de l'article L. 511-44.
 
 **Liens relatifs à cet article**
 
@@ -79057,9 +79076,16 @@ crédit foncier. Sur autorisation de la commission bancaire, cette part peut êt
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-745 du 9 mai 2007 - art. 2 () JORF 10 mai 2007
+
 	**Cite**:
 
+	  - Code monétaire et financier - art. L511-44 (V)
+	  - Code monétaire et financier - art. L515-13 (M)
 	  - Code monétaire et financier - art. L515-17 (M)
+	  - Code monétaire et financier - art. L515-18 (M)
 
 	**Cité par**:
 
@@ -85363,6 +85389,8 @@ paraissent nécessaires.
 
 ##### Section 4 : Exercice du contrôle
 
+##### Sous-section 1 : Dispositions générales
+
 ###### Article D613-3
 
 Les conventions conclues par la Commission bancaire en vertu de l'article L. 613-13 avec des autorités chargées d'une mission
@@ -85378,9 +85406,46 @@ similaire à celle confiée en France à la Commission bancaire sont publiées a
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-745 du 9 mai 2007 - art. 3 () JORF 10 mai 2007
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L613-13 (Ab)
+
+
+##### Sous-section 2 : Surveillance sur une base consolidée
+
+###### Article R613-3-1
+
+Lorsque la commission bancaire est saisie d'une demande d'autorisation en application de l'article L. 613-20-4, elle se
+prononce au plus tard dans un délai de six mois à compter de la réception du dossier complet de demande.
+
+La commission bancaire transmet, dans les meilleurs délais, la demande aux autres autorités compétentes intéressées des Etats
+membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, et se concerte avec elles en vue
+de parvenir à une décision faisant l'objet d'un accord de leur part.
+
+Dans le cas où un tel accord n'a pu être obtenu, elle tient compte dans la motivation de sa décision des avis et réserves des
+autres autorités. Cette décision est immédiatement notifiée au demandeur et aux autres autorités intéressées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-745 du 9 mai 2007 - art. 3 () JORF 10 mai 2007
+
+	**Transféré par**:
+
+	  - Décret n°2007-1685 du 29 novembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-20-4 (V)
 
 
 ##### Section 5 : Exercice du pouvoir disciplinaire
