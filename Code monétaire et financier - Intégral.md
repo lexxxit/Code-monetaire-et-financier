@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-05-10
+Version Consolidée au 2007-05-16
 
 # Partie législative
 
@@ -59578,24 +59578,14 @@ peuvent être rendus publics par le ministre.
 
 #### Chapitre II : Organisation de la banque.
 
-##### Section 2 : Le Conseil de la politique monétaire
+##### Section 2 : Le Conseil général.
 
-##### Sous-section 1 : Désignation des membres du Conseil de la politique monétaire.
+##### Sous-section 1 : Composition du conseil général.
 
 ###### Article R142-1
 
-Deux mois avant la date d'un renouvellement ordinaire du Conseil de la politique monétaire ou immédiatement s'il y a lieu de
-remplacer un membre du conseil, le ministre chargé de l'économie demande au président du Sénat, au président de l'Assemblée
-nationale et au président du Conseil économique et social d'engager la procédure d'établissement de la liste prévue par le
-troisième alinéa de l'article L. 142-3.
-
-La liste, établie d'un commun accord ou à défaut à parts égales, est transmise par le président du Sénat au gouverneur de la
-Banque de France qui la soumet pour avis au Conseil de la politique monétaire. Dans les quinze jours suivant la transmission
-de la liste, le Conseil de la politique monétaire fait part de son avis au président du Sénat, au président de l'Assemblée
-nationale et au président du Conseil économique et social. La liste, accompagnée de cet avis, est transmise par le président
-du Sénat au ministre chargé de l'économie.
-
-La composition de la liste et la teneur de l'avis du Conseil de la politique monétaire ne sont pas rendues publiques.
+Un avis relatif à la composition du conseil général est publié au Journal officiel de la République française à chaque
+renouvellement ou remplacement.
 
 **Liens relatifs à cet article**
 
@@ -59607,16 +59597,16 @@ La composition de la liste et la teneur de l'avis du Conseil de la politique mon
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code monétaire et financier - art. L142-3 (M)
+	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 
-##### Sous-section 2 : Fonctionnement du Conseil de la politique monétaire.
+##### Sous-section 2 : Fonctionnement du conseil général.
 
 ###### Article R142-2
 
-Le Conseil de la politique monétaire établit un règlement intérieur.
+Le conseil général établit son règlement intérieur.
 
 **Liens relatifs à cet article**
 
@@ -59628,15 +59618,18 @@ Le Conseil de la politique monétaire établit un règlement intérieur.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
 
 ###### Article R142-3
 
-Les délibérations du Conseil de la politique monétaire sont constatées par des procès-verbaux inscrits sur un registre
-spécial. Le projet de procès-verbal de chaque séance du conseil est soumis à l'approbation du Conseil de la politique
-monétaire à la séance suivante du conseil.
+Le conseil général se réunit aussi souvent que l'intérêt de la Banque de France l'exige, et au moins six fois par an, sur
+convocation du gouverneur.
 
-Le Conseil de la politique monétaire détermine les conditions dans lesquelles ces délibérations font éventuellement l'objet
-d'une information rendue publique.
+Il se réunit à titre extraordinaire lorsque la demande en est faite, soit par la moitié au moins des membres du conseil
+général, soit par le censeur.
 
 **Liens relatifs à cet article**
 
@@ -59648,14 +59641,32 @@ d'une information rendue publique.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
 
-##### Section 3 : Le Conseil général
+	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
-##### Sous-section 1 : Fonctionnement du conseil général.
 
 ###### Article R142-4
 
-Le conseil général établit un règlement intérieur.
+Chaque membre du conseil général, autre que le gouverneur, les sous-gouverneurs et le conseiller général représentant le
+personnel, perçoit pour chaque réunion du conseil général à laquelle il assiste une indemnité fixée par le conseil général
+dans la limite du cinquième de la moyenne de la rémunération mensuelle la plus basse et de la rémunération mensuelle la plus
+haute attachée au grade de conseiller d'Etat.
+
+Chaque membre du comité monétaire du conseil général, autre que le gouverneur et les sous-gouverneurs, peut en outre
+percevoir une indemnité forfaitaire mensuelle fixée par le conseil général dans la limite du quart de la moyenne de la
+rémunération mensuelle la plus basse et de la rémunération mensuelle la plus haute attachée au grade de conseiller d'Etat.
+
+**Nota:**
+
+Décret 2007-902 du 15 mai 2007 art. 3 : 
+
+I.-Le décret n° 93-1278 du 3 décembre 1993 sur la Banque de France est abrogé. 
+
+II.-Toutefois, par dérogation aux dispositions de l'article R. 142-4 du code monétaire et financier, les membres de droit du
+comité monétaire mentionnés au quatrième alinéa de l'article L. 142-5 continuent d'être rémunérés conformément aux
+dispositions de l'article 5 et sont soumis aux prescriptions de l'article 6 de ce décret, jusqu'à l'expiration de leur
+mandat.
 
 **Liens relatifs à cet article**
 
@@ -59667,6 +59678,10 @@ Le conseil général établit un règlement intérieur.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
 	**Cité par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 3 (V)
@@ -59674,11 +59689,8 @@ Le conseil général établit un règlement intérieur.
 
 ###### Article R142-5
 
-Le conseil général se réunit aussi souvent que l'intérêt de la Banque de France l'exige, et au moins six fois par an, sur la
-convocation du gouverneur.
-
-Il se réunit extraordinairement lorsque la demande en est faite soit par la moitié au moins des membres du conseil général,
-soit par le censeur.
+Les ministres mentionnés au troisième alinéa de l'article L. 142-2 sont le ministre chargé de l'économie et le ministre
+chargé du budget.
 
 **Liens relatifs à cet article**
 
@@ -59690,12 +59702,23 @@ soit par le censeur.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L142-2 (V)
+
+
+##### Sous-section 3 : Election et rémunération du conseiller représentant le personnel.
 
 ###### Article R142-6
 
-Les délibérations du conseil général sont constatées par des procès-verbaux inscrits sur un registre spécial. A l'issue de
-chaque séance, le projet de procès-verbal est transmis aux membres du conseil général et au censeur en vue de son approbation
-à la séance suivante.
+Le conseiller général représentant le personnel de la Banque de France est élu au scrutin uninominal majoritaire à un tour.
+Il est rééligible.
+
+L'élection a lieu au scrutin secret.
 
 **Liens relatifs à cet article**
 
@@ -59708,59 +59731,12 @@ chaque séance, le projet de procès-verbal est transmis aux membres du conseil 
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-
-###### Article R142-7
-
-Les ministres mentionnés au troisième alinéa de l'article L. 142-6 sont le ministre chargé de l'économie et le ministre
-chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-1278 du 3 décembre 1993 - art. 11 (Ab)
-	  - Code monétaire et financier - art. R142-9 (T)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L142-6 (M)
-
-
-##### Sous-section 2 : Election et rémunération du conseiller représentant le personnel.
-
-###### Article R142-8
-
-Le conseiller général représentant le personnel de la Banque de France est élu au scrutin uninominal majoritaire à un tour.
-Il est rééligible.
-
-L'élection a lieu au scrutin secret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-1278 du 3 décembre 1993 - art. 12 (Ab)
-	  - Code monétaire et financier - art. R142-10 (T)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
-	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. R142-6 (M)
-	  - Code monétaire et financier - art. R142-6 (V)
-
-
-###### Article R142-9
+###### Article R142-7
 
 Sont électeurs sans conditions d'âge :
 
@@ -59773,24 +59749,19 @@ position de détachement, soit en disponibilité pour un service national, soit 
 
 	**Anciens textes**:
 
-	  - Décret n°93-1278 du 3 décembre 1993 - art. 13 (Ab)
-	  - Code monétaire et financier - art. R142-11 (T)
+	  - Décret n°93-1278 du 3 décembre 1993 - art. 11 (Ab)
+	  - Code monétaire et financier - art. R142-9 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
-	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. R142-7 (M)
-	  - Code monétaire et financier - art. R142-7 (V)
-
-
-###### Article R142-10
+###### Article R142-8
 
 Ne sont pas admis à participer au vote les agents privés soit momentanément, soit définitivement, de la jouissance de leurs
 droits civils et, le cas échéant, politiques, ainsi que ceux qui, au jour du scrutin, font l'objet d'une suspension de
@@ -59800,24 +59771,23 @@ fonctions pour quelque motif que ce soit.
 
 	**Anciens textes**:
 
-	  - Décret n°93-1278 du 3 décembre 1993 - art. 14 (Ab)
-	  - Code monétaire et financier - art. R142-12 (T)
+	  - Décret n°93-1278 du 3 décembre 1993 - art. 12 (Ab)
+	  - Code monétaire et financier - art. R142-10 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. R142-8 (T)
-	  - Code monétaire et financier - art. R142-8 (V)
+	  - Code monétaire et financier - art. R142-6 (V)
 
 
-###### Article R142-11
+###### Article R142-9
 
 Le conseiller représentant le personnel doit être élu parmi les agents ayant la qualité d'électeur, sous réserve :
 
@@ -59830,24 +59800,23 @@ mobilisés ou détachés avec ou sans traitement ;
 
 	**Anciens textes**:
 
-	  - Décret n°93-1278 du 3 décembre 1993 - art. 15 (Ab)
-	  - Code monétaire et financier - art. R142-13 (T)
+	  - Décret n°93-1278 du 3 décembre 1993 - art. 13 (Ab)
+	  - Code monétaire et financier - art. R142-11 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. R142-9 (T)
-	  - Code monétaire et financier - art. R142-9 (V)
+	  - Code monétaire et financier - art. R142-7 (V)
 
 
-###### Article R142-12
+###### Article R142-10
 
 Le mandat de conseiller représentant le personnel est incompatible avec toute autre fonction de représentation légale des
 intérêts du personnel à l'intérieur de l'entreprise. Son mandat cesse de plein droit par suite de démission ou si l'intéressé
@@ -59857,24 +59826,23 @@ perd ses droits à l'éligibilité.
 
 	**Anciens textes**:
 
-	  - Décret n°93-1278 du 3 décembre 1993 - art. 16 (Ab)
-	  - Code monétaire et financier - art. R142-14 (T)
+	  - Décret n°93-1278 du 3 décembre 1993 - art. 14 (Ab)
+	  - Code monétaire et financier - art. R142-12 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. R142-10 (T)
-	  - Code monétaire et financier - art. R142-10 (V)
+	  - Code monétaire et financier - art. R142-8 (V)
 
 
-###### Article R142-13
+###### Article R142-11
 
 Chaque fois qu'il y a lieu d'élire un conseiller, le gouverneur fixe la date du scrutin. Cette date doit être annoncée au
 plus tard le trentième jour avant celui qui est fixé pour le scrutin.
@@ -59887,24 +59855,23 @@ le scrutin. Le gouverneur accuse aussitôt réception de cet envoi.
 
 	**Anciens textes**:
 
-	  - Décret n°93-1278 du 3 décembre 1993 - art. 17 (Ab)
-	  - Code monétaire et financier - art. R142-15 (T)
+	  - Décret n°93-1278 du 3 décembre 1993 - art. 15 (Ab)
+	  - Code monétaire et financier - art. R142-13 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. R142-11 (T)
-	  - Code monétaire et financier - art. R142-11 (V)
+	  - Code monétaire et financier - art. R142-9 (V)
 
 
-###### Article R142-14
+###### Article R142-12
 
 L'organisation et la surveillance des opérations électorales, le dépouillement du scrutin et la proclamation des résultats de
 l'élection sont confiés à une commission dénommée Commission supérieure de l'élection, qui fixe également la date à laquelle
@@ -59921,24 +59888,23 @@ commission avec voix consultative. Ils peuvent s'y faire représenter.
 
 	**Anciens textes**:
 
-	  - Décret n°93-1278 du 3 décembre 1993 - art. 18 (Ab)
-	  - Code monétaire et financier - art. R142-16 (T)
+	  - Décret n°93-1278 du 3 décembre 1993 - art. 16 (Ab)
+	  - Code monétaire et financier - art. R142-14 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. R142-12 (T)
-	  - Code monétaire et financier - art. R142-12 (V)
+	  - Code monétaire et financier - art. R142-10 (V)
 
 
-###### Article R142-15
+###### Article R142-13
 
 Des extraits de la liste électorale sont affichés dans chaque unité administrative de la Banque de France.
 
@@ -59951,24 +59917,23 @@ administratives concernées les additions ou les radiations qu'elle opère.
 
 	**Anciens textes**:
 
-	  - Décret n°93-1278 du 3 décembre 1993 - art. 19 (Ab)
-	  - Code monétaire et financier - art. R142-17 (T)
+	  - Décret n°93-1278 du 3 décembre 1993 - art. 17 (Ab)
+	  - Code monétaire et financier - art. R142-15 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. R142-13 (T)
-	  - Code monétaire et financier - art. R142-13 (V)
+	  - Code monétaire et financier - art. R142-11 (V)
 
 
-###### Article R142-16
+###### Article R142-14
 
 La commission arrête définitivement, immédiatement après l'expiration du délai fixé pour le dépôt des candidatures, la liste
 de celles qui sont reconnues recevables. Elle la remet au gouverneur, qui notifie sans délai cette liste au personnel.
@@ -59980,24 +59945,23 @@ administrative selon des modalités arrêtées par la commission.
 
 	**Anciens textes**:
 
-	  - Décret n°93-1278 du 3 décembre 1993 - art. 20 (Ab)
-	  - Code monétaire et financier - art. R142-18 (T)
+	  - Décret n°93-1278 du 3 décembre 1993 - art. 18 (Ab)
+	  - Code monétaire et financier - art. R142-16 (T)
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. R142-14 (T)
-	  - Code monétaire et financier - art. R142-14 (V)
+	  - Code monétaire et financier - art. R142-12 (V)
 
 
-###### Article R142-17
+###### Article R142-15
 
 Le scrutin est ouvert dans les lieux et aux heures fixés par la commission et portés par circulaire à la connaissance du
 personnel. Les électeurs votent personnellement. Les électeurs absents votent par correspondance en envoyant directement
@@ -60011,6 +59975,57 @@ sous peine de nullité du vote, utiliser les imprimés mis à leur disposition p
 
 	**Anciens textes**:
 
+	  - Décret n°93-1278 du 3 décembre 1993 - art. 19 (Ab)
+	  - Code monétaire et financier - art. R142-17 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R142-13 (V)
+
+
+###### Article R142-16
+
+La commission établit et remet au gouverneur un procès-verbal faisant apparaître le nom de l'agent élu et éventuellement un
+rapport dans lequel sont mentionnées les réclamations signées par un ou plusieurs électeurs et adressées à la commission et
+les observations formulées par chacun des membres de la commission, ainsi que, le cas échéant, celles des candidats.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1278 du 3 décembre 1993 - art. 20 (Ab)
+	  - Code monétaire et financier - art. R142-18 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R142-14 (V)
+
+
+###### Article R142-17
+
+Le conseiller représentant le personnel de la Banque de France conserve la rémunération et les droits à l'avancement
+correspondant au grade dont il est titulaire à la date de son élection.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
 	  - Décret n°93-1278 du 3 décembre 1993 - art. 21 (Ab)
 	  - Code monétaire et financier - art. R142-19 (T)
 
@@ -60018,21 +60033,20 @@ sous peine de nullité du vote, utiliser les imprimés mis à leur disposition p
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. R142-15 (T)
 	  - Code monétaire et financier - art. R142-15 (V)
 
 
+##### Section 3 : Le comité monétaire du conseil général.
+
 ###### Article R142-18
 
-La commission établit et remet au gouverneur un procès-verbal faisant apparaître le nom de l'agent élu et éventuellement un
-rapport dans lequel sont mentionnées les réclamations signées par un ou plusieurs électeurs et adressées à la commission et
-les observations formulées par chacun des membres de la commission, ainsi que, le cas échéant, celles des candidats.
+Le comité monétaire du conseil général établit son règlement intérieur.
 
 **Liens relatifs à cet article**
 
@@ -60044,20 +60058,28 @@ les observations formulées par chacun des membres de la commission, ainsi que, 
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
+	**Abrogé par**:
+
+	  - Décret n°2009-269 du 9 mars 2009 - art. 1
+
 	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. R142-16 (T)
 	  - Code monétaire et financier - art. R142-16 (V)
 
 
+##### Section 4 : Le gouverneur et les sous-gouverneurs.
+
 ###### Article R142-19
 
-Le conseiller représentant le personnel de la Banque de France conserve la rémunération et les droits à l'avancement
-correspondant au grade dont il est titulaire à la date de son élection.
+Le gouverneur reçoit de la Banque de France une rémunération d'activité équivalente à celle de vice-président du Conseil
+d'Etat ; les deux sous-gouverneurs reçoivent une rémunération équivalente à celle de président de section au Conseil d'Etat.
+
+Les dépenses de logement du gouverneur et des sous-gouverneurs sont prises en charge par la Banque de France. Une indemnité
+de représentation peut leur être allouée.
 
 **Liens relatifs à cet article**
 
@@ -60069,7 +60091,7 @@ correspondant au grade dont il est titulaire à la date de son élection.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
@@ -60079,11 +60101,8 @@ correspondant au grade dont il est titulaire à la date de son élection.
 
 	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. R142-17 (T)
 	  - Code monétaire et financier - art. R142-17 (V)
 
-
-##### Section 4 : Le gouverneur et les sous-gouverneurs.
 
 ###### Article R142-20
 
@@ -60330,18 +60349,25 @@ Les dépenses d'investissement ne peuvent être imputées que sur des réserves 
 
 L'exercice commence le 1er janvier et finit le 31 décembre. A la fin de l'exercice, le gouverneur arrête les comptes annuels,
 ainsi qu'un rapport écrit sur la situation de la Banque de France et l'activité de celle-ci pendant l'exercice écoulé. Ce
-rapport est transmis aux membres du conseil général, au censeur, à son suppléant, au comité central d'entreprise et aux
-commissaires aux comptes quinze jours avant la réunion du conseil général prévue à l'alinéa suivant.
+rapport est transmis aux membres du conseil général, au censeur, à son suppléant et aux commissaires aux comptes quinze jours
+avant la réunion du conseil général prévue à l'alinéa suivant.
 
 Le conseil général est réuni dans les quatre mois de la clôture de l'exercice pour délibérer et statuer sur les comptes
 annuels de l'exercice écoulé. Après lecture de son rapport, le gouverneur présente au conseil général les comptes annuels.
 Les commissaires aux comptes relatent, dans leur rapport, l'accomplissement de leur mission.
+
+Les comptes annuels et le rapport des commissaires aux comptes sont transmis au comité central d'entreprise dans les trois
+jours qui suivent la réunion du conseil général qui délibère et statue sur les comptes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-902 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
 
 
 ###### Article R144-4
@@ -60418,10 +60444,10 @@ de la publicité foncière, ainsi que les méthodes de comptabilisation et d'év
 la réglementation comptable mentionnés au I de l'article 4 de la même loi, s'appliquent à la Banque de France pour les
 opérations autres que celles comptabilisées et évaluées selon les règles mentionnées au premier alinéa du présent article.
 
-Le conseil général arrête, après avis du Conseil de la politique monétaire, la présentation des états comptables publiés. Sur
-proposition du Conseil de la politique monétaire, il peut limiter le détail des informations rendues publiques.
+Le conseil général arrête, après avis du comité monétaire du conseil général, la présentation des états comptables publiés.
+Sur proposition du comité monétaire du conseil général, il peut limiter le détail des informations rendues publiques.
 
-Toutefois, le conseil général, après avis du Conseil de la politique monétaire, peut, par dérogation au deuxième alinéa du
+Toutefois, le conseil général, après avis du comité monétaire du conseil général, peut, par dérogation au deuxième alinéa du
 présent article, rendre applicables à la Banque de France les règles de comptabilisation et d'évaluation recommandées par la
 Banque centrale européenne.
 
@@ -60436,6 +60462,10 @@ Banque centrale européenne.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-902 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
 
 	**Cité par**:
 
@@ -60467,15 +60497,17 @@ l'article L. 141-2.
 
 ###### Article R144-8
 
-Le conseil général de la Banque de France nomme les commissaires aux comptes sur proposition du gouverneur.
+Le conseil général de la Banque de France nomme les commissaires aux comptes sur recommandation du conseil des gouverneurs de
+la Banque centrale européenne et après agrément par le Conseil de l'Union européenne. 
 
 Les commissaires aux comptes vérifient que les comptes annuels sont réguliers et sincères et donnent une image fidèle du
 résultat des opérations de l'exercice écoulé ainsi que de la situation financière et du patrimoine de la Banque de France à
-la fin de l'exercice.
+la fin de l'exercice. 
 
-Les articles L. 820-3-1, L. 822-1, L. 822-3, L. 822-10,  L. 822-17, L. 822-18, L. 823-1, L. 823-2, L. 823-3,  L. 823-4,
-823-5, L. 823-7, L. 823-8, L. 823-10, L. 823-12, L. 823-13, L. 823-14, L. 823-15,  L. 823-16 du code de commerce sont
-applicables à la Banque de France.
+Les articles L. 820-3-1, L. 822-1, L. 822-3, L. 822-10, L. 822-17, L. 822-18, L. 823-1, L. 823-2, L. 823-3, L. 823-4, L.
+823-5, L. 823-7, L. 823-8, 
+L. 823-10, L. 823-12, L. 823-13, L. 823-14, L. 823-15 et L. 823-16 du code de commerce sont applicables à la Banque de
+France. 
 
 Le conseil général exerce les fonctions dévolues par ces dispositions à l'assemblée générale et au conseil d'administration.
 
@@ -60487,52 +60519,19 @@ Le conseil général exerce les fonctions dévolues par ces dispositions à l'as
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
-
-	**Cite**:
-
-	  - Code de commerce. - art. L820-3-1 (V)
-	  - Code de commerce. - art. L822-1 (V)
-	  - Code de commerce. - art. L822-10 (V)
-	  - Code de commerce. - art. L822-17 (V)
-	  - Code de commerce. - art. L822-18 (V)
-	  - Code de commerce. - art. L822-3 (V)
-	  - Code de commerce. - art. L823-1 (V)
-	  - Code de commerce. - art. L823-10 (M)
-	  - Code de commerce. - art. L823-12 (V)
-	  - Code de commerce. - art. L823-13 (V)
-	  - Code de commerce. - art. L823-14 (V)
-	  - Code de commerce. - art. L823-15 (V)
-	  - Code de commerce. - art. L823-16 (V)
-	  - Code de commerce. - art. L823-2 (V)
-	  - Code de commerce. - art. L823-3 (V)
-	  - Code de commerce. - art. L823-4 (V)
-	  - Code de commerce. - art. L823-5 (V)
-	  - Code de commerce. - art. L823-7 (V)
-	  - Code de commerce. - art. L823-8 (V)
-
-
-###### Article R144-9
-
-Le montant des honoraires versés aux commissaires aux comptes est fixé d'un commun accord entre ceux-ci et le conseil
-général, eu égard à l'importance effective du travail nécessaire à l'accomplissement de leur mission. En cas de désaccord, la
-procédure suivie est celle prévue aux articles 126 et 126-1 du décret n° 69-810 du 12 août 1969 relatif à l'organisation et
-au statut professionnel des commissaires aux comptes de sociétés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°69-810 du 12 août 1969 - art. 126 (M)
-	  - Décret n°69-810 du 12 août 1969 - art. 126-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
 	  - Décret n°2007-902 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. L820-3-1 (V)
+	  - Code de commerce - art. L822-1 (V)
+	  - Code de commerce - art. L822-10 (V)
+	  - Code de commerce - art. L822-17 (V)
+	  - Code de commerce - art. L822-3 (V)
+	  - Code de commerce - art. L823-1 (V)
+	  - Code de commerce - art. L823-10 (V)
+	  - Code de commerce - art. L823-12 (V)
+	  - Code de commerce - art. L823-7 (V)
 
 
 ##### Section 3 : Dispositions diverses.
@@ -60559,23 +60558,6 @@ Le siège de la Banque de France est établi à Paris, 1, rue La Vrillière.
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-###### Article R144-12
-
-Le Conseil de la politique monétaire et le Conseil général peuvent créer, auprès de chacun d'eux ou auprès des directeurs des
-succursales, des commissions ou des comités à caractère consultatif comportant des personnalités extérieures à la Banque de
-France.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2007-902 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
-
-
 ###### Article R144-13
 
 L'inspection générale des finances peut vérifier la situation des établissements annexes et succursales de la Banque de
@@ -60590,14 +60572,18 @@ France.
 
 ###### Article R144-14
 
-Des actes du Conseil de la politique monétaire ou du Conseil général peuvent être publiés au Journal officiel de la
-République française sur proposition de ces conseils.
+Des actes du conseil général ou du comité monétaire du conseil général peuvent être publiés au Journal officiel de la
+République française sur proposition, respectivement, de ce conseil ou de ce comité.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-902 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
 
 
 ### Titre V : Les relations financières avec l'étranger
