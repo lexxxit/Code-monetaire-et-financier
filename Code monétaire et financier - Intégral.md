@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-05-17
+Version Consolidée au 2007-06-01
 
 # Partie législative
 
@@ -6669,15 +6669,15 @@ livrées moyennant un règlement monétaire par le vendeur ;
 
 6. Tous autres instruments de marché à terme.
 
-III. - Les instruments financiers ne peuvent être émis que par l'Etat, une personne morale, un fonds commun de placement ou
-un fonds commun de créances.
+III. - Les instruments financiers ne peuvent être émis que par l'Etat, une personne morale, un fonds commun de placement, un
+fonds de placement immobilier ou un fonds commun de créances.
 
 **Nota:**
 
 NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
 suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
 portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier.
+placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -6827,12 +6827,11 @@ placement collectif immobilier.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 	**Liens**:
 
 	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-	  - SPEC_APPLI: Ordonnance 2005-1278 art. 7 : date de fin de vigueur indéterminée
 
 
 ##### Section 2 : Règles générales applicables aux valeurs mobilières.
@@ -6843,14 +6842,15 @@ Constituent des valeurs mobilières, les titres émis par des personnes morales,
 inscription en compte ou tradition, qui confèrent des droits identiques par catégorie et donnent accès, directement ou
 indirectement, à une quotité du capital de la personne morale émettrice ou à un droit de créance général sur son patrimoine.
 
-Sont également des valeurs mobilières les parts de fonds communs de placement et de fonds communs de créance.
+Sont également des valeurs mobilières les parts de fonds communs de placement, les parts de fonds de placement immobilier et
+de fonds communs de créance.
 
 **Nota:**
 
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -6862,6 +6862,10 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -6936,8 +6940,8 @@ Les valeurs mobilières émises en territoire français et soumises à la légis
 doivent être inscrites en comptes tenus par l'émetteur ou par un intermédiaire habilité.
 
 Les titres des sociétés par actions qui ne sont pas admis aux négociations sur un marché réglementé, à l'exception des
-actions de sociétés d'investissement à capital variable "SICAV", doivent être inscrits à un compte tenu chez lui par
-l'émetteur au nom du propriétaire des titres.
+actions de sociétés d'investissement à capital variable "SICAV" ou de sociétés de placement à prépondérance immobilière à
+capital variable, doivent être inscrits à un compte tenu chez lui par l'émetteur au nom du propriétaire des titres.
 
 Par dérogation aux obligations de l'alinéa précédent, lorsque les titres sont admis aux opérations d'un dépositaire central,
 ils peuvent être inscrits en compte chez un intermédiaire habilité si cela est prévu dans les statuts de la personne morale
@@ -6964,7 +6968,7 @@ de l'alinéa précédent.
 Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
 celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
 homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
-collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -6978,7 +6982,7 @@ collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié a
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -7172,8 +7176,9 @@ Les actions de numéraire relèvent des dispositions de l'article L. 228-9 du co
 ###### Article L212-3
 
 I. - Sous réserve des dispositions du troisième alinéa de l'article L. 211-4, les actions émises en territoire français et
-soumises à la législation française, des sociétés par actions, autres que les SICAV, qui ne sont pas admises aux négociations
-sur un marché réglementé revêtent la forme nominative.
+soumises à la législation française, des sociétés par actions, autres que les SICAV ou les sociétés de placement à
+prépondérance immobilière à capital variable, qui ne sont pas admises aux négociations sur un marché réglementé revêtent la
+forme nominative.
 
 II. - Cette obligation doit être satisfaite dans un délai de six mois à compter de la date d'émission des actions concernées
 ou de la date à laquelle celles-ci ont cessé d'être admises aux opérations d'un dépositaire central.
@@ -7194,10 +7199,10 @@ conditions prévues au III.
 
 **Nota:**
 
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -7212,8 +7217,7 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-604 2004-06-24 art. 52 III, IV, V JORF 26 juin 2004
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -12349,12 +12353,22 @@ La société de gestion doit être agréée par l'Autorité des marchés financi
 
 L'Autorité des marchés financiers peut, par décision motivée, retirer l'agrément d'une société de gestion.
 
+Les sociétés de gestion gérant des sociétés civiles de placement immobilier ne peuvent créer des organismes de placement
+collectif immobilier avant d'avoir mis leurs statuts, leur organisation et leurs moyens en harmonie avec la section 5 et
+d'être agréées par l'Autorité des marchés financiers dans les conditions prévues par le règlement général de l'Autorité des
+marchés financiers.
+
+Lorsque l'une des sociétés civiles de placement immobilier gérées par une société de gestion s'est transformée en un
+organisme de placement collectif immobilier dont la gestion sera assurée par cette société dès lors qu'elle remplit les
+conditions prévues à l'article L. 214-119, les autres sociétés civiles de placement immobilier peuvent continuer à être
+gérées par cette société.
+
 **Nota:**
 
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -12366,10 +12380,6 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 02 août 2003
-
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 2004 - art. 321-41 (Ab)
@@ -12377,6 +12387,14 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 	  - Arrêté du 12 novembre 2004 - art. 321-49 (Ab)
 	  - Code monétaire et financier - art. L214-87 (V)
 	  - Code monétaire et financier - art. L231-21 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 3 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-119 (MMN)
 
 
 ###### Article L214-68
@@ -12770,17 +12788,17 @@ présenté par les commissaires aux comptes et approuvé par celle-ci.
 
 ###### Article L214-80
 
-Une société civile de placement immobilier ne peut fusionner qu'avec une autre société civile de placement immobilier gérant
-un patrimoine de composition comparable.
+A l'exception des cas prévus aux articles L. 214-124 et L. 214-135, une société civile de placement immobilier ne peut
+fusionner qu'avec une autre société civile de placement immobilier gérant un patrimoine de composition comparable.
 
 Les conditions d'application du présent article sont fixées par le décret mentionné à l'article L. 214-85.
 
 **Nota:**
 
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -12792,14 +12810,20 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-124 (MMN)
+	  - Code monétaire et financier - art. L214-135 (MMN)
+	  - Code monétaire et financier - art. L214-85 (M)
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L214-81 (V)
 	  - Code monétaire et financier - art. L214-87 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L214-85 (M)
 
 
 ###### Article L214-81
@@ -12882,6 +12906,152 @@ dispositions de l'article L. 214-57.
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R214-119 (V)
+
+
+##### Sous-section 8 : Dispositions transitoires
+
+###### Article L214-84-1
+
+Dans les conditions fixées par décret en Conseil d'Etat, une société civile de placement immobilier peut transmettre son
+patrimoine par voie de scission à des organismes de placement collectif immobilier de forme différente.
+
+Préalablement à la scission, les sociétés civiles de placement immobilier sont, par dérogation à l'article L. 214-50,
+autorisées le cas échéant à faire apport de tout ou partie de leur patrimoine à des sociétés civiles nouvelles, afin que les
+parts de ces dernières soient transmises dès que possible aux organismes de placement collectif immobilier dans le cadre de
+la scission.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 4 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-50 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-143-1 (Ab)
+
+
+###### Article L214-84-2
+
+Les sociétés civiles de placement immobilier disposent d'un délai de cinq ans, à compter de l'homologation des dispositions
+du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif immobilier, pour
+tenir l'assemblée générale extraordinaire des associés afin qu'elle se prononce sur la question inscrite à l'ordre du jour
+relative à la possibilité de se transformer en organisme de placement collectif immobilier.
+
+Cette assemblée opte, dans les conditions de quorum et de majorité fixées par les statuts de la société à la date de
+publication de l'ordonnance n° 2005-1278 du 13 octobre 2005 définissant le régime juridique des organismes de placement
+collectif immobilier et les modalités de transformation des sociétés civiles de placement immobilier en organismes de
+placement collectif immobilier, pour l'une des deux formes de l'organisme de placement collectif immobilier mentionnées au
+premier alinéa de l'article L. 214-89 qu'elle souhaite voir adoptée à l'issue de la transformation.
+
+Si l'organisme de placement collectif immobilier est constitué sous forme de fonds de placement immobilier, le règlement du
+fonds doit prévoir la mise en place du conseil de surveillance prévu à l'article L. 214-132.
+
+Lorsqu'une société civile de placement immobilier opte pour le régime des organismes de placement collectif immobilier, cette
+opération se fait sans frais directs ou indirects pour les porteurs de parts.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cite**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005
+	  - Code monétaire et financier - art. L214-132
+	  - Code monétaire et financier - art. L214-89
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 4 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 28 (VD)
+	  - Code des assurances - art. L160-19 (V)
+	  - Code général des impôts, CGI. - art. 828 bis (VD)
+	  - Code monétaire et financier - art. L214-84-3 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
+
+
+###### Article L214-84-3
+
+Dans les conditions définies par le règlement général de l'Autorité des marchés financiers, les sociétés de gestion des
+sociétés civiles de placement immobilier informent du régime des organismes de placement collectif immobilier défini à la
+section 5 du présent chapitre :
+
+1° Les souscripteurs de parts de sociétés civiles de placement immobilier préalablement à leur souscription ou acquisition
+conformément aux dispositions des articles L. 214-59 et suivants ;
+
+2° Les associés de sociétés civiles de placement immobilier au plus tard dans les douze mois à compter de la publication de
+l'ordonnance n° 2005-1278 du 13 octobre 2005 définissant le régime juridique des organismes de placement collectif immobilier
+et les modalités de transformation des sociétés civiles de placement immobilier en organismes de placement collectif
+immobilier.
+
+Cette information porte en particulier sur l'obligation qui est faite aux sociétés civiles de placement immobilier de
+convoquer une assemblée générale dans les conditions prévues à l'article L. 214-84-2 pour soumettre au vote des associés la
+possibilité de se placer sous ce régime.
+
+Cette information est sincère, complète et claire et est rédigée en des termes aisément accessibles et compréhensibles afin
+de permettre aux souscripteurs de parts ou aux associés de disposer des renseignements essentiels et nécessaires à la prise
+de leurs décisions en toute connaissance de cause.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 422-46-1 (Ab)
+
+	**Cite**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005
+	  - Code monétaire et financier - art. L214-59
+	  - Code monétaire et financier - art. L214-84-2
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 4 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
 
 
 ##### Sous-section 7 : Règles de bonne conduite
@@ -13091,6 +13261,135 @@ Un décret en Conseil d'Etat fixe les modalités d'application des sections 1, 2
 ##### Sous-section 1 : Dispositions communes
 
 ##### Paragraphe 1 : Constitution et règles de composition de l'actif de l'organisme de placement collectif immobilier
+
+###### Article L214-89
+
+Les organismes de placement collectif immobilier prennent la forme soit de sociétés de placement à prépondérance immobilière
+à capital variable, soit de fonds de placement immobilier.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 150-0 D bis (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 990 E (V)
+	  - Code général des impôts, CGI. - art. 150-0 A (V)
+	  - Code général des impôts, CGI. - art. 208 (V)
+	  - Code monétaire et financier - art. L214-36 (V)
+	  - Code monétaire et financier - art. L214-84-2 (Ab)
+
+
+###### Article L214-90
+
+Les organismes de placement collectif immobilier ont pour objet l'investissement dans des immeubles qu'ils donnent en
+location ou qu'ils font construire exclusivement en vue de leur location, qu'ils détiennent directement ou indirectement, y
+compris en état futur d'achèvement, toutes opérations nécessaires à leur usage ou à leur revente, la réalisation de travaux
+de toute nature dans ces immeubles, notamment les opérations afférentes à leur construction, leur rénovation et leur
+réhabilitation en vue de leur location et accessoirement la gestion d'instruments financiers et de dépôts. Les actifs
+immobiliers ne peuvent être acquis exclusivement en vue de leur revente.
+
+Les organismes de placement collectif immobilier peuvent comprendre différentes catégories de parts ou d'actions dans les
+conditions fixées respectivement par le règlement du fonds de placement immobilier ou les statuts de la société de placement
+à prépondérance immobilière à capital variable selon les prescriptions du règlement général de l'Autorité des marchés
+financiers.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-182 (Ab)
+
+
+###### Article L214-91
+
+I. - La constitution, la transformation, la fusion, la scission ou la liquidation d'un organisme de placement collectif
+immobilier sont soumises à l'agrément de l'Autorité des marchés financiers. Le dossier d'agrément, dont le contenu est fixé
+par le règlement général de l'Autorité des marchés financiers, décrit notamment la politique d'investissement qu'entend mener
+l'organisme de placement collectif immobilier ainsi que ses choix de financement, notamment le recours à l'endettement.
+
+II. - Les organismes de placement collectif immobilier, le dépositaire, mentionné à l'article L. 214-117, et la société de
+gestion, mentionnée à l'article L. 214-119, agissent au bénéfice exclusif des souscripteurs. Ils doivent présenter des
+garanties suffisantes en ce qui concerne leur organisation, leurs moyens techniques et financiers, l'honorabilité et
+l'expérience de leurs dirigeants. Ils doivent prendre les dispositions propres à assurer la sécurité des opérations.
+
+Les organismes et personnes mentionnés aux articles L. 214-112, L. 214-117, L. 214-119 et L. 214-120 doivent agir de façon
+indépendante les uns par rapport aux autres.
+
+III. - L'Autorité des marchés financiers définit les conditions dans lesquelles les organismes de placement collectif
+immobilier doivent informer leurs souscripteurs et peuvent faire l'objet de publicité, en particulier audiovisuelle, ou de
+démarchage. Le règlement général de l'Autorité des marchés financiers précise le contenu du document d'information devant
+être établi par ces organismes.
+
+IV. - L'Autorité des marchés financiers peut retirer son agrément à tout organisme de placement collectif immobilier.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-5 (V)
+	  - Arrêté du 12 novembre 2004 - art. 424-57-1 (Ab)
+	  - Code des assurances - art. L160-10 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter A bis (V)
+	  - Code monétaire et financier - art. D214-207 (Ab)
+	  - Code monétaire et financier - art. D214-213 (V)
+	  - Code monétaire et financier - art. L214-100 (V)
+	  - Code monétaire et financier - art. L214-113 (V)
+	  - Code monétaire et financier - art. L214-117 (V)
+	  - Code monétaire et financier - art. L214-132 (V)
+	  - Code monétaire et financier - art. R214-200 (V)
+	  - Code monétaire et financier - art. R214-203 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-112 (V)
+	  - Code monétaire et financier - art. L214-119 (MMN)
+	  - Code monétaire et financier - art. L214-120 (MMN)
+
 
 ###### Article L214-92
 
@@ -13302,6 +13601,43 @@ toutes sûretés ou droits au profit de tiers.
 	  - Code monétaire et financier - art. L214-92 (V)
 
 
+###### Article L214-94
+
+Un organisme de placement collectif immobilier peut, dans des limites et conditions fixées par décret en Conseil d'Etat,
+conclure des contrats constituant des instruments financiers à terme mentionnés au II de l'article L. 211-1 à l'exception de
+ceux prévus au 4°.
+
+**Nota:**
+
+NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
+suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
+portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
+placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D214-192 (Ab)
+	  - Code monétaire et financier - art. L214-92 (V)
+	  - Code monétaire et financier - art. L214-97 (V)
+	  - Code monétaire et financier - art. R214-192 (T)
+	  - Code monétaire et financier - art. R214-193 (V)
+	  - Code monétaire et financier - art. R214-222 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1 (M)
+
+
 ###### Article L214-95
 
 Un organisme de placement collectif immobilier peut contracter des emprunts dans la limite de 40 % de la valeur des actifs
@@ -13344,6 +13680,335 @@ fixées par décret en Conseil d'Etat.
 	  - Code monétaire et financier - art. R214-185 (V)
 	  - Code monétaire et financier - art. R214-215 (V)
 	  - Code monétaire et financier - art. R214-218 (V)
+
+
+###### Article L214-96
+
+Un organisme de placement collectif immobilier peut procéder à des emprunts d'espèces dans la limite de 10 % de la valeur de
+ses actifs autres que ceux visés à l'article L. 214-95. 
+
+Les conditions d'application de la limite mentionnée à l'alinéa précédent sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-95 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L231-9 (V)
+	  - Code monétaire et financier - art. R214-185 (V)
+	  - Code monétaire et financier - art. R214-215 (V)
+	  - Code monétaire et financier - art. R214-218 (V)
+
+
+###### Article L214-97
+
+Dans des limites et conditions fixées par un décret en Conseil d'Etat, un organisme de placement collectif immobilier peut
+consentir sur ses actifs des garanties nécessaires à la conclusion des contrats relevant de son activité, notamment ceux
+relatifs à la mise en place des emprunts mentionnés aux articles L. 214-95 et L. 214-96 et ceux mentionnés à l'article L.
+214-94.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-94 (V)
+	  - Code monétaire et financier - art. L214-95 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-222 (V)
+
+
+###### Article L214-98
+
+Dans des limites et conditions fixées par décret en Conseil d'Etat, un organisme de placement collectif immobilier peut
+consentir des avances en compte courant aux sociétés mentionnées aux b et c du I de l'article L. 214-92 dont il détient
+directement ou indirectement au moins 5 % du capital social.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L214-92 (V)
+	  - Code monétaire et financier - art. R214-199 (V)
+
+
+###### Article L214-99
+
+Les règles de dispersion et de plafonnement des risques et les quotas mentionnés respectivement aux articles L. 214-92 et L.
+214-93 doivent être respectés au plus tard trois ans après la date de délivrance de l'agrément à l'organisme de placement
+collectif immobilier. 
+
+Un décret en Conseil d'Etat détermine les seuils, les cas et les modalités dans lesquels il peut, à titre exceptionnel et
+pour une durée limitée, être dérogé aux quotas prévus à l'article L. 214-93.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L214-109 (V)
+	  - Code monétaire et financier - art. R214-166 (V)
+	  - Code monétaire et financier - art. R214-168 (V)
+	  - Code monétaire et financier - art. R214-180 (Ab)
+	  - Code monétaire et financier - art. R214-184 (Ab)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (V)
+	  - Code monétaire et financier - art. L214-93 (V)
+
+
+###### Article L214-100
+
+Dans les conditions et selon les modalités fixées par le règlement général de l'Autorité des marchés financiers, tout porteur
+ou actionnaire doit informer la personne mentionnée dans le document d'information prévu au III de l'article L. 214-91 dès
+lors qu'il franchit le seuil de 10 % des parts ou actions de l'organisme de placement collectif immobilier.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-91 (V)
+
+
+###### Article L214-101
+
+Lorsqu'un porteur de parts ou un actionnaire, qui détient plus de 20 % et moins de 99 % des parts ou actions de l'organisme
+de placement collectif immobilier, demande le rachat de parts ou d'actions, ce rachat peut être suspendu à titre provisoire
+dans les conditions prévues par le règlement général de l'Autorité des marchés financiers dès lors qu'il excède un
+pourcentage du nombre de parts ou d'actions de l'organisme de placement collectif immobilier fixé par ce règlement. 
+
+Pour le calcul des quotités mentionnées à l'alinéa précédent, sont prises en compte les parts ou actions détenues par les
+entités qui contrôlent, au sens de l'article L. 233-16 du code de commerce, la personne qui demande le rachat ou qui sont
+contrôlées dans les mêmes conditions par celle-ci ainsi que les parts ou actions des entités qui sont contrôlées dans les
+mêmes conditions par l'entité qui contrôle cette personne.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-14 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 730 quinquies (V)
+	  - Code monétaire et financier - art. L214-102 (V)
+	  - Code monétaire et financier - art. L214-115 (V)
+	  - Code monétaire et financier - art. L214-120 (V)
+	  - Code monétaire et financier - art. L214-125 (V)
+	  - Code monétaire et financier - art. L214-130 (V)
+	  - Code monétaire et financier - art. R214-156 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-16 (V)
+
+
+###### Article L214-102
+
+Les créanciers dont le titre résulte de toute opération relative aux actifs d'un organisme de placement collectif immobilier
+n'ont d'action que sur ces actifs, à l'exception des actifs mentionnés au 2° de l'article L. 214-93. 
+
+Les créanciers du dépositaire ne peuvent poursuivre le paiement de leurs créances sur les actifs d'un organisme de placement
+collectif immobilier conservés par lui.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L214-115 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-93 (V)
+
+
+###### Article L214-103
+
+Le montant minimum de l'actif net de l'organisme de placement collectif immobilier, tel que défini par le règlement général
+de l'Autorité des marchés financiers, est fixé par décret.
+
+S'il n'est pas satisfait à cette obligation dans un délai de trois ans à compter de la date de délivrance de l'agrément de
+l'organisme de placement collectif immobilier, celui-ci est dissous et les porteurs de parts ou actionnaires sont remboursés
+à concurrence de leurs droits dans le fonds ou dans la société dans les conditions prévues par le règlement général de
+l'Autorité des marchés financiers.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-25 (Ab)
+	  - Code monétaire et financier - art. R214-144 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+
+###### Article L214-104
+
+Le règlement général de l'Autorité des marchés financiers fixe les conditions d'émission, de souscription, de cession et de
+rachat des parts ou des actions émises par des organismes de placement collectif immobilier.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-143 (V)
+
+
+###### Article L214-105
+
+L'organisme de placement collectif immobilier doit obligatoirement souscrire un contrat d'assurance garantissant sa
+responsabilité civile du fait des immeubles dont il est propriétaire.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 
 ##### Paragraphe 2 : Dispositions comptables et financières
@@ -13438,6 +14103,447 @@ droits directs ou indirects dans cette société ou dans ce fonds.
 	  - Code monétaire et financier - art. L214-93 (V)
 
 
+###### Article L214-108
+
+La mise en paiement des sommes distribuables et définies aux articles L. 214-128 et L. 214-140 est effectuée dans un délai
+maximal de cinq mois suivant la clôture de l'exercice.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-128 (V)
+	  - Code monétaire et financier - art. L214-140 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L214-141 (V)
+
+
+###### Article L214-109
+
+Dans les conditions et selon une périodicité prévues par le règlement général de l'Autorité des marchés financiers, les
+sociétés de placement à prépondérance immobilière à capital variable et les sociétés de gestion du fonds de placement
+immobilier établissent un document d'information qui est porté à la connaissance respectivement des actionnaires et des
+porteurs de parts.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-64 (Ab)
+	  - Code des assurances - art. L160-11 (V)
+	  - Code monétaire et financier - art. L214-110 (V)
+	  - Code monétaire et financier - art. L214-94 (V)
+	  - Code monétaire et financier - art. L231-12 (V)
+	  - Code monétaire et financier - art. L533-13-1 (V)
+	  - Code monétaire et financier - art. R214-210 (V)
+	  - Code monétaire et financier - art. R533-15 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+
+###### Article L214-110
+
+I. - Le commissaire aux comptes certifie les comptes annuels de l'organisme de placement collectif immobilier. Dans des
+conditions définies par décret en Conseil d'Etat, il fait rapport selon le cas à l'assemblée générale de la société de
+placement à prépondérance immobilière à capital variable ou à la société de gestion du fonds de placement immobilier sur les
+opérations de fusion, d'apports en nature, de distribution d'acomptes, de scission, de dissolution et de liquidation de
+l'organisme de placement collectif immobilier.
+
+Dans des conditions fixées par décret en Conseil d'Etat, il certifie, avant publication ou diffusion, l'exactitude de
+l'information périodique mentionnée à l'article L. 214-109.
+
+II. - Les dispositions de l'article L. 214-14 s'appliquent dans les mêmes conditions au commissaire aux comptes de
+l'organisme de placement collectif immobilier.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-49 (Ab)
+	  - Code monétaire et financier - art. L214-103 (V)
+	  - Code monétaire et financier - art. L231-17 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-109 (V)
+	  - Code monétaire et financier - art. L214-14 (M)
+
+
+##### Paragraphe 3 : Evaluation des actifs immobiliers
+
+###### Article L214-111
+
+Dans les conditions fixées par le règlement général de l'Autorité des marchés financiers, les immeubles et droits réels
+détenus directement ou indirectement par l'organisme de placement collectif immobilier et par les sociétés mentionnées aux b
+et c du I de l'article L. 214-92 sont évalués par deux évaluateurs immobiliers qui agissent de manière indépendante l'un par
+rapport à l'autre. Ils établissent conjointement, sous leur responsabilité, un rapport de synthèse écrit sur
+l'accomplissement de leur mission. 
+
+La société de placement à prépondérance immobilière à capital variable ou la société de gestion du fonds prend toutes les
+dispositions nécessaires pour permettre aux évaluateurs de remplir leur mission. 
+
+Le règlement général de l'Autorité des marchés financiers fixe la mission des évaluateurs, notamment la répartition des
+tâches entre eux, les règles d'évaluation et les conditions d'élaboration du rapport. 
+
+Ce rapport est communiqué à la société de placement à prépondérance immobilière à capital variable, à la société de gestion
+du fonds, au dépositaire et au commissaire aux comptes, ainsi qu'à tout porteur de parts ou actionnaire de l'organisme de
+placement collectif immobilier en faisant la demande dans des conditions fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-67 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 322-84-9 (V)
+	  - Code monétaire et financier - art. R214-211 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (V)
+
+
+###### Article L214-112
+
+Les évaluateurs immobiliers doivent disposer d'une expérience, d'une compétence et d'une organisation adaptées à l'exercice
+de leur fonction dans le domaine de l'évaluation d'actifs immobiliers.
+
+Préalablement à sa désignation, tout évaluateur immobilier informe la société de placement à prépondérance immobilière à
+capital variable ou la société de gestion du fonds de l'existence ou non d'un contrat d'assurance couvrant les conséquences
+pécuniaires de sa responsabilité civile professionnelle.
+
+Cette information figure dans le rapport de gestion établi par la société de placement à prépondérance immobilière à capital
+variable ou par la société de gestion du fonds. Ce rapport mentionne, le cas échéant, le niveau des garanties apportées par
+l'assurance en responsabilité civile professionnelle.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L214-124 (V)
+	  - Code monétaire et financier - art. L214-135 (V)
+	  - Code monétaire et financier - art. L214-91 (V)
+	  - Code monétaire et financier - art. R214-209 (V)
+
+
+###### Article L214-113
+
+L'évaluateur immobilier, tout membre d'un organe de direction ou toute personne qui, à un titre quelconque, participe à la
+direction ou à la gestion d'un évaluateur immobilier ou qui est employée par celui-ci est tenu au secret professionnel dans
+les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal.
+
+Dans le cadre de leur mission, les évaluateurs immobiliers sont déliés de l'obligation de secret professionnel envers le
+commissaire aux comptes de l'organisme de placement collectif immobilier, l'Autorité des marchés financiers, l'Autorité de
+contrôle des assurances et des mutuelles, la Commission bancaire et l'administration fiscale.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-132 (V)
+
+
+###### Article L214-114
+
+Dans les conditions précisées par le règlement général de l'Autorité des marchés financiers, chaque évaluateur immobilier est
+désigné par la société de placement à prépondérance immobilière à capital variable ou la société de gestion du fonds pour une
+durée de quatre ans après agrément de l'Autorité des marchés financiers.
+
+La société de placement à prépondérance immobilière à capital variable ou la société de gestion du fonds ne peut mettre fin
+aux fonctions de l'évaluateur immobilier avant le terme prévu au premier alinéa qu'après avoir obtenu l'accord de l'Autorité
+des marchés financiers.
+
+L'identité des évaluateurs immobiliers désignés est portée sur le document d'information, prévu par le règlement général de
+l'Autorité des marchés financiers, de l'organisme de placement collectif immobilier.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-68 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 322-84-10 (V)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
+	  - Code général des impôts, CGI. - art. 199 septvicies (V)
+	  - Code général des impôts, CGI. - art. 199 tervicies (V)
+	  - Code général des impôts, CGI. - art. 199 undecies C (V)
+	  - Code général des impôts, CGI. - art. 239 septies (V)
+	  - Code général des impôts, CGI. - art. 31 (VT)
+	  - Code général des impôts, CGI. - art. 31 bis (V)
+	  - Code monétaire et financier - art. L211-14 (V)
+	  - Code monétaire et financier - art. L214-118 (V)
+	  - Code monétaire et financier - art. L214-93 (V)
+	  - Code monétaire et financier - art. L214-95 (V)
+	  - Code monétaire et financier - art. L231-9 (V)
+	  - Code monétaire et financier - art. R214-155 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+
+###### Article L214-115
+
+Les évaluateurs immobiliers sont responsables, tant à l'égard de la société de placement à prépondérance immobilière à
+capital variable ou de la société de gestion du fonds de placement immobilier que du dépositaire, des conséquences
+dommageables des fautes et négligences par eux commises dans l'accomplissement de leur mission.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L214-101 (V)
+	  - Code monétaire et financier - art. L214-102 (V)
+	  - Code monétaire et financier - art. R214-156 (V)
+	  - Code monétaire et financier - art. R214-157 (V)
+
+
+###### Article L214-116
+
+Les sociétés de placement à prépondérance immobilière à capital variable ou les sociétés de gestion du fonds sont tenues de
+fournir aux évaluateurs immobiliers qu'elles ont désignés tous les documents, informations et moyens d'investigation utiles à
+l'exercice de leur mission.
+
+Lorsque les évaluateurs immobiliers ne sont pas en mesure d'accomplir tout ou partie de leur mission faute, en dépit de leurs
+demandes, d'avoir obtenu les éléments ou d'avoir pu disposer des moyens d'investigation mentionnés au premier alinéa, ils en
+font mention dans leur rapport. Ce rapport expose les diligences qu'ils ont effectuées. Ils informent également l'Autorité
+des marchés financiers de cette situation selon des modalités définies par le règlement général de l'Autorité des marchés
+financiers.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 422-191 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+
+##### Paragraphe 4 : Dépositaire d'organisme de placement collectif immobilier
+
+###### Article L214-117
+
+Le dépositaire est distinct de l'organisme de placement collectif immobilier, de la société de gestion et de l'évaluateur
+immobilier. Il a le statut d'établissement de crédit ou d'entreprise d'investissement habilitée à la fourniture des services
+visés au 1° de l'article L. 321-2. Le dépositaire est désigné par l'organisme de placement collectif immobilier et mentionné
+dans le document d'information prévu au III de l'article L. 214-91. 
+
+Le dépositaire doit avoir son siège social en France. 
+
+Sa responsabilité n'est pas affectée par le fait qu'il confie à un tiers tout ou partie des actifs dont il a la garde.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code des assurances - art. L160-19 (V)
+	  - Code monétaire et financier - art. L214-125 (V)
+	  - Code monétaire et financier - art. L214-91 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L321-2 (V)
+
+
+###### Article L214-118
+
+I. - Le dépositaire a pour mission :
+
+1° La conservation et le contrôle de l'inventaire des actifs de l'organisme de placement collectif immobilier à l'exclusion
+des actifs mentionnés aux a à c du I de l'article L. 214-92 ;
+
+2° Le contrôle de l'inventaire des actifs de l'organisme de placement collectif immobilier mentionnés aux a à c du I de
+l'article L. 214-92 ;
+
+3° De s'assurer de la régularité des décisions de la société de placement à prépondérance immobilière à capital variable et
+de la société de gestion.
+
+L'étendue et les modalités d'accomplissement des missions du dépositaire sont définies dans le règlement général de
+l'Autorité des marchés financiers.
+
+II. - Le dépositaire assure également pour le compte de l'ensemble des porteurs de parts, le cas échéant, le paiement, dans
+les conditions prévues par le code général des impôts, de l'impôt sur les plus-values immobilières réalisées directement ou
+indirectement par le fonds de placement immobilier.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 323-1 (M)
+	  - Arrêté du 12 novembre 2004 - art. 323-11 (M)
+	  - Arrêté du 12 novembre 2004 - art. 323-19 (V)
+	  - Arrêté du 12 novembre 2004 - art. 323-5 (M)
+	  - Arrêté du 12 novembre 2004 - art. 333-2 (V)
+	  - Code monétaire et financier - art. D214-235 (Ab)
+	  - Code monétaire et financier - art. R214-160 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (MMN)
+
+
 ##### Paragraphe 5 : Société de gestion de l'organisme de placement collectif immobilier
 
 ###### Article L214-119
@@ -13525,6 +14631,115 @@ montant fixé par décret.
 	  - Code monétaire et financier - art. R214-5-1 (Ab)
 
 
+###### Article L214-121
+
+Par exception respectivement au premier alinéa de l'article L. 225-51-1, au premier alinéa de l'article L. 225-53 et au
+troisième alinéa de l'article L. 225-59 du code de commerce, les fonctions de directeur général, ou celles de directeur
+général délégué ou celles de président du directoire ou de directeur général unique sont exercées, selon le cas, par la
+société de gestion. 
+
+La société de gestion désigne un représentant permanent soumis aux mêmes conditions et obligations et encourant les mêmes
+responsabilités que s'il exerçait en son nom propre l'une des fonctions mentionnées au premier alinéa, sans préjudice de la
+responsabilité solidaire de cette société qu'il représente. 
+
+Lorsqu'elle met fin aux fonctions de son représentant, la société de gestion est tenue de pourvoir en même temps à son
+remplacement.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-51-1 (V)
+	  - Code de commerce - art. L225-53 (V)
+	  - Code de commerce - art. L225-59 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 199 decies H (V)
+	  - Code général des impôts, CGI. - art. 200 quindecies (V)
+	  - Code général des impôts, CGI. - art. 217 terdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ quater (V)
+	  - Code monétaire et financier - art. L211-14 (V)
+	  - Code monétaire et financier - art. L214-117 (V)
+	  - Code monétaire et financier - art. R214-161 (V)
+	  - Code monétaire et financier - art. R214-166 (V)
+
+
+###### Article L214-122
+
+La société de placement à prépondérance immobilière à capital variable et la société de gestion sont responsables, chacune
+individuellement ou solidairement selon le cas, envers les tiers ou envers les actionnaires, soit des infractions aux
+dispositions législatives ou réglementaires applicables aux sociétés de placement à prépondérance immobilière à capital
+variable, soit de la violation des statuts de la société, soit de leurs fautes.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+
+###### Article L214-123
+
+Les dispositions des 1, 3 à 8, du deuxième alinéa du 9, des 10 et 11 de l'article L. 214-17 s'appliquent dans les mêmes
+conditions aux sociétés de placement à prépondérance immobilière à capital variable.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 422-191 (V)
+	  - Code général des impôts, CGI. - art. 199 decies H (V)
+	  - Code général des impôts, CGI. - art. 200 quindecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ quater (V)
+	  - Code monétaire et financier - art. L214-145 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-17 (M)
+
+
 ###### Article L214-124
 
 Une société de placement à prépondérance immobilière à capital variable peut être constituée par apports en numéraire,
@@ -13574,6 +14789,99 @@ de la société.
 	  - Code de commerce. - art. L225-128 (V)
 	  - Code monétaire et financier - art. L214-112 (V)
 	  - Code monétaire et financier - art. L214-92 (V)
+
+
+###### Article L214-125
+
+Les articles L. 224-1, L. 224-2, L. 225-3 à L. 225-16, L. 225-258 à L. 225-270, L. 231-1 à L. 231-8, L. 242-31 et L. 247-10
+du code de commerce ne sont pas applicables aux sociétés de placement à prépondérance immobilière à capital variable.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 199 decies H (V)
+	  - Code général des impôts, CGI. - art. 200 quindecies (V)
+
+
+###### Article L214-126
+
+Le rachat par la société de ses actions peut être suspendu, à titre provisoire, par le conseil d'administration ou le
+directoire, en cas de force majeure et si l'intérêt de l'ensemble des actionnaires le commande, dans des conditions fixées
+par le règlement général de l'Autorité des marchés financiers.
+
+Le règlement général de l'Autorité des marchés financiers fixe les cas et les conditions dans lesquelles les statuts de la
+société de placement à prépondérance immobilière à capital variable prévoient, le cas échéant, que l'émission des actions est
+suspendue de façon provisoire.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-13 (V)
+	  - Code monétaire et financier - art. L214-120 (V)
+	  - Code monétaire et financier - art. L214-145 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+
+###### Article L214-127
+
+Trente jours au moins avant la réunion de l'assemblée générale qui doit les approuver, la société de placement à
+prépondérance immobilière à capital variable est tenue de publier son compte de résultats et son bilan. Elle est dispensée de
+les publier à nouveau après l'assemblée générale à moins que cette dernière ne les ait modifiés.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L651-2 (V)
+	  - Code général des impôts, CGI. - art. 208 (V)
+	  - Code général des impôts, CGI. - art. 208 A (V)
+	  - Code monétaire et financier - art. L214-128 (V)
 
 
 ###### Article L214-128
@@ -13649,7 +14957,100 @@ actifs.
 	  - Code monétaire et financier - art. L214-92 (V)
 
 
+###### Article L214-129
+
+Par dérogation aux dispositions du code de commerce, les conditions de liquidation ainsi que les modalités de la répartition
+des actifs sont déterminées par les statuts de la société. La société de gestion assume les fonctions de liquidateur, sous le
+contrôle du dépositaire ; à défaut, le liquidateur est désigné en justice à la demande de tout actionnaire, parmi les
+sociétés de gestion de portefeuille agréées.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+
 ##### Sous-section 3 : Règles particulières relatives aux fonds de placement immobilier
+
+###### Article L214-130
+
+Sous réserve des dispositions de l'article L. 214-101 et des deuxième et troisième alinéas de l'article L. 214-136, le fonds
+de placement immobilier, qui n'a pas la personnalité morale, est une copropriété composée d'actifs immobiliers, d'instruments
+financiers et autres actifs tels que définis à l'article L. 214-92, dont les parts sont, dans les conditions fixées par le
+règlement général de l'Autorité des marchés financiers, émises et rachetées à la demande des porteurs à la valeur liquidative
+majorée ou diminuée, selon le cas, des frais et commissions. 
+
+Ne s'appliquent pas au fonds de placement immobilier les dispositions du code civil relatives à l'indivision ni celles des
+articles 1871 à 1873 du même code relatives aux sociétés en participation.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code civil - art. 1871 (V)
+	  - Code monétaire et financier - art. L214-101 (V)
+	  - Code monétaire et financier - art. L214-136 (V)
+	  - Code monétaire et financier - art. L214-92 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D214-182 (V)
+	  - Code monétaire et financier - art. L214-132 (V)
+	  - Code monétaire et financier - art. R214-29 (V)
+	  - Code monétaire et financier - art. R214-32 (V)
+
+
+###### Article L214-131
+
+Dans tous les cas où des dispositions relatives à la propriété immobilière ou aux sociétés et aux instruments financiers
+exigent l'indication des nom, prénoms et domicile du titulaire de l'actif ou du titre ainsi que pour toutes les opérations
+faites pour le compte des copropriétaires, la désignation du fonds de placement immobilier ou, le cas échéant, d'un
+compartiment du fonds, peut être valablement substituée à celle de tous les copropriétaires.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
 
 ###### Article L214-132
 
@@ -13697,6 +15098,59 @@ La souscription ou l'acquisition de parts d'un fonds de placement immobilier emp
 	**Cite**:
 
 	  - Code monétaire et financier - art. L214-91 (V)
+
+
+###### Article L214-133
+
+Le fonds de placement immobilier est représenté à l'égard des tiers par la société chargée de sa gestion. Cette société peut
+agir en justice pour défendre ou faire valoir les droits ou intérêts des porteurs de parts.
+
+L'administration centrale du fonds de placement immobilier est située en France.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code de commerce - art. L823-1 (V)
+
+
+###### Article L214-134
+
+La société de gestion est responsable envers les tiers ou les porteurs de parts, soit des infractions aux dispositions
+législatives ou réglementaires applicables aux fonds de placement immobilier, soit de la violation du règlement du fonds,
+soit de ses fautes.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 
 ###### Article L214-135
@@ -13748,6 +15202,133 @@ Un décret en Conseil d'Etat fixe les conditions d'application de cet article.
 	**Cite**:
 
 	  - Code monétaire et financier - art. L214-112 (V)
+	  - Code monétaire et financier - art. L214-92 (V)
+
+
+###### Article L214-136
+
+Les parts sont totalement libérées dès l'émission.
+
+Le rachat par le fonds de placement immobilier de ses parts peut être suspendu à titre provisoire par la société de gestion
+en cas de force majeure et si l'intérêt de l'ensemble des porteurs de parts le commande, dans des conditions fixées le
+règlement général de l'Autorité des marchés financiers.
+
+Le règlement général de l'Autorité des marchés financiers fixe les cas et les conditions dans lesquelles le règlement du
+fonds prévoit, le cas échéant, que l'émission des parts est suspendue de façon provisoire.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-13 (V)
+	  - Code monétaire et financier - art. L214-130 (V)
+	  - Code monétaire et financier - art. L214-145 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+
+###### Article L214-137
+
+Les dispositions de l'article L. 214-29 sont applicables au fonds de placement immobilier.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-29 (M)
+
+
+###### Article L214-138
+
+I.-La société de gestion est tenue de souscrire les déclarations prévues à l'article L. 233-7 du code de commerce, pour
+l'ensemble des actions détenues par les organismes de placement collectif immobilier qu'elle gère. 
+
+II.-Les dispositions des articles L. 233-14 et L. 247-2 du code de commerce sont applicables à la société de gestion.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-14 (V)
+	  - Code de commerce - art. L233-7 (V)
+	  - Code de commerce - art. L247-2 (V)
+
+
+###### Article L214-139
+
+Les sociétés visées au b du I de l'article L. 214-92 dans lesquelles le fonds de placement immobilier détient une
+participation directe ou indirecte relèvent de l'article 8 du code général des impôts, ne sont pas passibles, de droit ou sur
+option, de l'impôt sur les sociétés ou d'un impôt équivalent, et ne peuvent pas détenir, directement ou indirectement, de
+droits détenus en qualité de crédit-preneur afférents à des contrats de crédit-bail.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 422-250 (V)
+	  - Code général des impôts, CGI. - art. 990 I (VT)
+	  - Code monétaire et financier - art. L214-140 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
 	  - Code monétaire et financier - art. L214-92 (V)
 
 
@@ -13834,6 +15415,207 @@ au titre de l'exercice de leur réalisation.
 	  - Code monétaire et financier - art. L214-139 (V)
 	  - Code monétaire et financier - art. L214-92 (V)
 	  - Code monétaire et financier - art. L214-93 (V)
+
+
+###### Article L214-141
+
+Par dérogation aux dispositions de l'article L. 214-108, la mise en paiement des sommes distribuables au titre des plus-
+values mentionnées au 2° du II de l'article L. 214-140 doit intervenir avant le dernier jour du sixième mois qui suit la
+cession des actifs susvisés.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 244 bis A (V)
+	  - Code monétaire et financier - art. D214-184 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-108 (V)
+	  - Code monétaire et financier - art. L214-140 (V)
+
+
+###### Article L214-142
+
+Les porteurs de parts ou leurs ayants droit ne peuvent provoquer le partage du fonds de placement immobilier.
+
+Les porteurs de parts ne sont tenus des dettes de la copropriété qu'à concurrence de l'actif du fonds et proportionnellement
+à leur quote-part.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+
+###### Article L214-143
+
+Les conditions de liquidation ainsi que les modalités de la répartition des actifs sont déterminées par le règlement du fonds
+de placement immobilier. La société de gestion assume les fonctions de liquidateur sous le contrôle du dépositaire. A défaut,
+le liquidateur est désigné en justice à la demande de tout porteur de parts.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 423-1 (V)
+	  - Code monétaire et financier - art. R214-172 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+
+##### Sous-section 4 : Organismes de placement collectif immobilier à règles de fonctionnement allégées
+
+###### Article L214-144
+
+Il peut être créé un organisme de placement collectif immobilier à règles de fonctionnement allégées. 
+
+La souscription et l'acquisition de parts ou d'actions d'un organisme de placement collectif immobilier à règles de
+fonctionnement allégées sont réservées aux investisseurs qualifiés mentionnés à l'article L. 411-2 ainsi qu'aux investisseurs
+étrangers appartenant à une catégorie équivalente sur le fondement du droit du pays dans lequel est situé leur siège. 
+
+Le règlement général de l'Autorité des marchés financiers fixe les conditions dans lesquelles la souscription et
+l'acquisition des parts ou actions de ces organismes sont ouvertes à d'autres investisseurs, en fonction en particulier de la
+nature de ceux-ci et du niveau de risque de l'organisme. 
+
+Le dépositaire ou la personne désignée à cet effet par le règlement ou les statuts de l'organisme s'assure que le
+souscripteur ou l'acquéreur est un investisseur tel que défini à l'alinéa précédent. Il s'assure également que le
+souscripteur ou l'acquéreur a effectivement déclaré avoir été informé que cet organisme était régi par les dispositions de la
+présente sous-section.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 423-2 (V)
+	  - Arrêté du 12 novembre 2004 - art. 424-69 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 990 E (V)
+	  - Code monétaire et financier - art. L214-153-1 (V)
+	  - Code monétaire et financier - art. L214-155 (V)
+	  - Code monétaire et financier - art. L214-160 (V)
+	  - Code monétaire et financier - art. L214-162-1 (V)
+	  - Code monétaire et financier - art. R214-186 (V)
+	  - Code monétaire et financier - art. R214-32-19 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L411-2 (V)
+
+
+###### Article L214-145
+
+Un organisme de placement collectif immobilier à règles de fonctionnement allégées peut, dans les conditions et limites
+fixées par décret en Conseil d'Etat, déroger aux limites prévues aux articles L. 214-93 à L. 214-97.
+
+Les parts ou actions d'un organisme de placement collectif immobilier à règles de fonctionnement allégées peuvent donner lieu
+à des droits différents sur l'actif net ou les produits de l'organisme et à des modalités d'émission, de cession ou de
+rachats dérogeant à l'article L. 214-126 ainsi qu'aux deuxième et troisième alinéas de l'article L. 214-136, dans des
+conditions définies par les statuts de la société de placement à prépondérance immobilière à capital variable ou le règlement
+du fonds de placement immobilier.
+
+Par dérogation respectivement aux dispositions du 1 de l'article L. 214-17 auxquelles renvoie l'article L. 214-123 et du
+premier alinéa de l'article L. 214-136, les statuts d'une société de placement à prépondérance immobilière à capital variable
+à règles de fonctionnement allégées ou le règlement d'un fonds de placement immobilier peuvent prévoir une libération
+fractionnée du montant des parts ou actions souscrites. Ces parts sont nominatives.
+
+Lorsque les parts ou actions n'ont pas été entièrement libérées, le souscripteur et les cessionnaires successifs sont tenus
+solidairement du montant non libéré de celles-ci. A défaut pour le porteur de parts ou actionnaire de libérer aux époques
+fixées par la société de gestion du fonds ou la société de placement à prépondérance immobilière à capital variable les
+sommes restant à verser sur le montant des parts ou actions détenues, une mise en demeure lui est adressée. Un mois après
+cette mise en demeure restée sans effet, la société de gestion du fonds ou la société de placement à prépondérance
+immobilière à capital variable peut procéder, sans aucune autorisation de justice, à la cession de ces parts ou actions.
+Toutefois, le souscripteur ou cessionnaire qui a cédé ses parts ou actions cesse d'être tenu des versements non encore
+appelés par la société de gestion du fonds ou la société de placement à prépondérance immobilière à capital variable, deux
+ans après le virement de compte à compte des parts ou actions cédées.
+
+Le règlement du fonds de placement immobilier ou les statuts de la société de placement à prépondérance immobilière à capital
+variable peut n'autoriser le rachat des parts ou actions de l'organisme de placement collectif à règles de fonctionnement
+allégées qu'à l'échéance d'un délai qui ne peut excéder trois ans après la constitution de l'organisme.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-70 (Ab)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-123 (V)
+	  - Code monétaire et financier - art. L214-126 (V)
+	  - Code monétaire et financier - art. L214-136 (V)
+	  - Code monétaire et financier - art. L214-17 (M)
+	  - Code monétaire et financier L214-93 à L214-97, L214-126, L214-136, L214-17, L214-123
 
 
 ##### Sous-section 5 : Organismes de placement collectif immobilier à compartiments
@@ -15396,7 +17178,7 @@ obligations sans respecter les conditions prévues par les articles L. 213-8 et 
 
 ##### Section 2 : Infractions relatives aux placements collectifs
 
-##### Sous-section 1 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières.
+##### Sous-section 1 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières, aux fonds communs de créances et aux organismes de placement collectif immobilier
 
 ###### Article L231-3
 
@@ -15406,10 +17188,10 @@ retrait d'agrément.
 
 **Nota:**
 
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -15417,14 +17199,14 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 24 (Ab)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -15437,26 +17219,26 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 ###### Article L231-4
 
 I. - Est puni d'un emprisonnement de deux ans et d'une amende de 15 000 euros le fait, pour les dirigeants de la société de
-gestion d'un fonds commun de placement ou d'un fonds commun de créances, de ne pas provoquer la désignation du commissaire
-aux comptes du fonds dans les conditions prévues à l'article L. 214-29.
+gestion d'un fonds commun de placement, fonds de placement immobilier ou d'un fonds commun de créances, de ne pas provoquer
+la désignation du commissaire aux comptes du fonds dans les conditions prévues à l'article L. 214-29.
 
 II. - Est puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros le fait, pour tout commissaire aux comptes,
 soit en son nom personnel, soit au titre d'associé dans une société de commissaires aux comptes, de donner ou confirmer des
-informations mensongères sur la situation du fonds commun de placement ou du fonds commun de créances, ou de ne pas révéler
-au procureur de la République les faits délictueux dont il a eu connaissance.
+informations mensongères sur la situation du fonds commun de placement, fonds de placement immobilier ou du fonds commun de
+créances, ou de ne pas révéler au procureur de la République les faits délictueux dont il a eu connaissance.
 
 III. - Est puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros le fait, pour les dirigeants de la société de
-gestion ou de la personne morale dépositaire d'un fonds commun de placement ou d'un fonds commun de créances, et pour toutes
-personnes placées sous leur autorité, de mettre obstacle aux vérifications ou contrôles des commissaires aux comptes ou de
-leur refuser la communication sur place de toutes les pièces utiles à l'exercice de leur mission et, notamment, de tous
-contrats, livres, documents comptables et registres de procès-verbaux.
+gestion ou de la personne morale dépositaire d'un fonds commun de placement, fonds de placement immobilier ou d'un fonds
+commun de créances, et pour toutes personnes placées sous leur autorité, de mettre obstacle aux vérifications ou contrôles
+des commissaires aux comptes ou de leur refuser la communication sur place de toutes les pièces utiles à l'exercice de leur
+mission et, notamment, de tous contrats, livres, documents comptables et registres de procès-verbaux.
 
 **Nota:**
 
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -15464,18 +17246,14 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 46 (Ab)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code monétaire et financier - art. L214-29 (M)
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -15490,10 +17268,10 @@ dernier alinéa de l'article L. 214-44.
 
 **Nota:**
 
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -15506,6 +17284,10 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 	**Cite**:
 
@@ -15525,23 +17307,23 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 Toute condamnation prononcée définitivement à l'encontre des dirigeants de la société de gestion ou de ceux du dépositaire,
 en application de l'article L. 231-3, du I et du III de l'article L. 231-4, des articles L. 231-5 et L. 231-7, entraîne de
-plein droit la cessation de leurs fonctions et l'incapacité d'exercer lesdites fonctions.
+plein droit la cessation de leurs fonctions et l'incapacité d'exercer lesdites fonctions. 
 
 Le tribunal saisi de l'action en responsabilité prévue à l'article L. 214-28 peut prononcer à la demande de tout porteur de
-parts la révocation des dirigeants de la société de gestion ou de ceux du dépositaire.
+parts la révocation des dirigeants de la société de gestion ou de ceux du dépositaire. 
 
 En outre, le dépositaire peut demander au tribunal la révocation des dirigeants de la société de gestion ; il doit en
-informer le commissaire aux comptes.
+informer le commissaire aux comptes. 
 
 Dans ces trois cas, un administrateur provisoire est nommé par le tribunal jusqu'à la désignation de nouveaux dirigeants ou,
 si cette désignation apparaît impossible, jusqu'à la liquidation.
 
 **Nota:**
 
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -15554,13 +17336,17 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L214-28 (V)
-	  - Code monétaire et financier - art. L231-3 (M)
-	  - Code monétaire et financier - art. L231-4 (M)
-	  - Code monétaire et financier - art. L231-5 (M)
-	  - Code monétaire et financier - art. L231-7 (M)
+	  - Code monétaire et financier - art. L231-3 (V)
+	  - Code monétaire et financier - art. L231-4 (V)
+	  - Code monétaire et financier - art. L231-5 (V)
+	  - Code monétaire et financier - art. L231-7 (V)
 
 
 ###### Article L231-7
@@ -15571,10 +17357,10 @@ l'Autorité des marchés financiers.
 
 **Nota:**
 
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -15589,11 +17375,36 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 02 août 2003
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L231-6 (V)
+
+
+###### Article L231-7-1
+
+Est puni d'un emprisonnement de deux ans et d'une amende de 750 000 Euros le fait, pour un dirigeant de fait ou de droit d'un
+organisme de placement collectif en immobilier, de procéder au placement de parts ou d'actions de cet organisme sans que
+celui-ci ait été agréé ou s'il poursuit son activité malgré un retrait d'agrément.
+
+**Nota:**
+
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 
 ##### Sous-section 2 : Dispositions relatives aux sociétés civiles de placement immobilier
@@ -26173,7 +27984,7 @@ assurances, ni les sociétés de réassurance, ni les organismes agréés soumis
 mutualité pour les opérations visées au e du 1° de l'article L. 111-1 dudit code, ni les entreprises d'investissement, ni les
 organismes collecteurs de la participation des employeurs à l'effort de construction pour les opérations prévues par le code
 de la construction et de l'habitation, ni les fonds communs de créances, ni les organismes de placement collectif en valeurs
-mobilières.
+mobilières ni les organismes de placement collectif immobilier.
 
 L'interdiction relative aux opérations de crédit ne s'applique pas :
 
@@ -26200,10 +28011,10 @@ personnes morales mentionnées à l'article L. 313-21-1 pour la délivrance des 
 
 **Nota:**
 
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -26271,17 +28082,7 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 18 () JORF 27 juillet 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L214-36 (M)
-	  - Code monétaire et financier - art. L313-21-1 (V)
-	  - Code monétaire et financier - art. L511-5 (V)
-	  - Code monétaire et financier - art. L518-1 (M)
-	  - Code monétaire et financier L511-5, L518-1, L214-36, L313-13 à L313-17, L313-21-1
-	  - Code de la mutualité - art. L111-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 
 ###### Article L511-7
@@ -48854,8 +50655,8 @@ conditions fixées par les articles L. 228-36 et L. 228-37 du code de commerce.
 ###### Article L732-7
 
 Le chapitre IV du titre Ier du livre II est applicable à Mayotte, à l'exception du 4° du I de l'article L. 214-1, du 4° du II
-de l'article L. 214-34, des articles L. 214-39 à L. 214-41-1, des articles L. 214-85 à L. 214-88, et sous réserve de
-l'adaptation suivante :
+de l'article L. 214-34, des articles L. 214-39 à L. 214-41-1, de la section 5, des articles L. 214-85 à L. 214-88, et sous
+réserve de l'adaptation suivante :
 
 A l'article L. 214-18, les mots : "les dispositions de l'ordonnance n° 45-2710 du 2 novembre 1945 relative aux sociétés
 d'investissement ainsi que" sont supprimés.
@@ -48882,13 +50683,17 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 98 () JORF 7 mai 2005
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-1 (M)
-	  - Code monétaire et financier - art. L214-18 (V)
-	  - Code monétaire et financier - art. L214-34 (M)
+	  - Code monétaire et financier - art. L214-1
+	  - Code monétaire et financier - art. L214-18
+	  - Code monétaire et financier - art. L214-34
 	  - Code monétaire et financier L214-1, L214-34, L214-39 à L214-41-1, L214-85 à L214-88, L214-18, L231-3 à L231-21
 
 
@@ -50768,8 +52573,8 @@ L'article L. 213-7 est applicable en Nouvelle-Calédonie.
 ###### Article L742-6
 
 Le chapitre IV du titre Ier du livre II est applicable en Nouvelle-Calédonie, à l'exception du 4° du I de l'article L. 214-1,
-du 4° du II de l'article L. 214-34, des articles L. 214-39 à L. 214-41-1, des articles L. 214-85 à L. 214-88, et sous réserve
-de l'adaptation suivante :
+du 4° du II de l'article L. 214-34, des articles L. 214-39 à L. 214-41-1, de la section 5, des articles L. 214-85 à L.
+214-88, et sous réserve de l'adaptation suivante :
 
 A l'article L. 214-18, les mots : "les dispositions de l'ordonnance n° 45-2710 du 2 novembre 1945 relative aux sociétés
 d'investissement ainsi que" sont supprimés.
@@ -50778,10 +52583,10 @@ Les articles L. 231-3 à L. 231-21 sont également applicables en Nouvelle-Calé
 
 **Nota:**
 
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -50796,7 +52601,7 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 98 () JORF 7 mai 2005
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 	**Cité par**:
 
@@ -55156,8 +56961,8 @@ L'article L. 213-7 est applicable dans les îles Wallis-et-Futuna.
 ###### Article L762-6
 
 Le chapitre IV du titre Ier du livre II est applicable dans les îles Wallis et Futuna, à l'exception du 4 du I de l'article
-L. 214-1, du 4 du II de l'article L. 214-34, des articles L. 214-39 à L. 214-41-1, des articles L. 214-85 à L. 214-88, et
-sous réserve de l'adaptation suivante :
+L. 214-1, du 4 du II de l'article L. 214-34, des articles L. 214-39 à L. 214-41-1, de la section 5, des articles L. 214-85 à
+L. 214-88, et sous réserve de l'adaptation suivante :
 
 A l'article L. 214-18, les mots : "les dispositions de l'ordonnance n° 45-2710 du 2 novembre 1945 relative aux sociétés
 d'investissement ainsi que" sont supprimés.
@@ -55166,10 +56971,10 @@ Les articles L. 231-3 à L. 231-21 sont également applicables dans les îles Wa
 
 **Nota:**
 
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
+celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
+homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
+collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -55192,9 +56997,7 @@ placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II, art. 98 IV JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 98 () JORF 7 mai 2005
+	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
 
 
 ##### Section 2 : Les produits d'épargne
@@ -63283,7 +65086,7 @@ délais.
 
 ###### Article R214-5
 
-Par dérogation aux dispositions de l'article R. 214-1, l'actif d'un organisme de placement collectif en valeurs mobilières
+Par dérogation aux dispositions de l'article R. 214-1-1, l'actif d'un organisme de placement collectif en valeurs mobilières
 peut également comprendre dans la limite de 10 % :
 
 1° Des bons de souscription ;
@@ -63317,8 +65120,11 @@ mentionnés à l'article L. 214-41 et fonds d'investissement de proximité menti
 
 g) Fonds communs d'intervention sur les marchés à terme mentionnés à l'article L. 214-42.
 
-7° Des instruments financiers mentionnés à l'article R. 214-1 lorsqu'ils ne répondent pas aux conditions prévues à l'article
-R. 214-2.
+7° Des instruments financiers mentionnés à l'article R. 214-1-1 lorsqu'ils ne répondent pas aux conditions prévues à
+l'article R. 214-2 ;
+
+8° Des parts ou actions d'organismes de placement collectif immobilier ou d'organismes étrangers mentionnées au e du I de
+l'article L. 214-92.
 
 En outre, sont incluses dans la limite de 10 % fixée au présent article les parts ou actions d'organismes de placement
 collectif en valeurs mobilières ou de fonds d'investissement eux-mêmes investis à plus de 10 % en parts ou actions
@@ -63342,6 +65148,7 @@ immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal 
 
 	  - Arrêté du 12 novembre 2004 - art. 411-34 (M)
 	  - Décret n°2006-1542 du 6 décembre 2006 - art. 6 (V)
+	  - Code monétaire et financier - art. R214-1 (T)
 	  - Code monétaire et financier - art. R214-1-1 (Ab)
 	  - Code monétaire et financier - art. R214-13 (V)
 	  - Code monétaire et financier - art. R214-18 (V)
@@ -63360,21 +65167,33 @@ immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal 
 
 	**Codifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2005-1007 du 2 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1542 2006-12-06 art. 4 3°, 6° JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-922 du 1er août 2011 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-34 (M)
-	  - Code monétaire et financier - art. L214-35 (M)
-	  - Code monétaire et financier - art. L214-35-2 (M)
-	  - Code monétaire et financier - art. L214-36 (M)
-	  - Code monétaire et financier - art. L214-37 (M)
-	  - Code monétaire et financier - art. L214-38 (M)
-	  - Code monétaire et financier - art. L214-41 (M)
-	  - Code monétaire et financier - art. L214-41-1 (M)
-	  - Code monétaire et financier - art. L214-42 (M)
-	  - Code monétaire et financier - art. R214-1 (T)
-	  - Code monétaire et financier - art. R214-2 (M)
+	  - Code monétaire et financier - art. L214-34
+	  - Code monétaire et financier - art. L214-35
+	  - Code monétaire et financier - art. L214-35-2
+	  - Code monétaire et financier - art. L214-36
+	  - Code monétaire et financier - art. L214-37
+	  - Code monétaire et financier - art. L214-38
+	  - Code monétaire et financier - art. L214-41
+	  - Code monétaire et financier - art. L214-41-1
+	  - Code monétaire et financier - art. L214-42
+	  - Code monétaire et financier - art. L214-92
+	  - Code monétaire et financier - art. R214-2
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
 
 
 ###### Article R214-6
@@ -68952,6 +70771,59 @@ versements ne seront ni diminués ni majorés des frais et commissions de rachat
 	  - Code monétaire et financier - art. R214-137 (V)
 
 
+###### Article R214-143-1
+
+Une société civile de placement immobilier peut transmettre son patrimoine par voie de scission mentionnée au premier alinéa
+de l'article L. 214-84-1 à plusieurs organismes de placement collectif immobilier prenant la forme de fonds de placement
+immobilier ou de société de placement à prépondérance immobilière à capital variable, y compris à règles de fonctionnement
+allégées.
+
+Un mois au moins avant la date de l'assemblée générale appelée à se prononcer sur la scission, le projet de scission fait
+l'objet d'un avis inséré au Bulletin des annonces légales  obligatoires et d'un dépôt au greffe du tribunal de commerce du
+siège de la société civile de placement immobilier. Cet avis comporte les indications suivantes :
+
+1° Les motifs, les buts et les conditions de la transmission du patrimoine par voie de scission ;
+
+2° Les projets de statuts ou règlements des organismes de placement collectif immobilier faisant l'objet de l'opération ;
+
+3° L'évaluation de l'actif dont la transmission aux organismes de placement collectif immobilier est prévue ;
+
+4° Les rapports d'échanges des droits sociaux ;
+
+5° Le montant prévu de la prime de scission ;
+
+6° La date prévue pour la scission.
+
+Les commissaires aux comptes de la société civile de placement immobilier établissent un rapport sur les modalités de la
+scission et sur l'évaluation de l'actif à transmettre aux organismes de placement collectif immobilier. Ce rapport est
+communiqué aux associés quinze jours au moins avant la date de l'assemblée générale.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 du 2 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 2 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-84-1
+
+
 ##### Section 4 : Les sociétés d'épargne forestière.
 
 ##### Sous-section 1 : Les sociétés d'épargne forestière relevant de l'article L. 214-85.
@@ -69543,6 +71415,173 @@ attestation ou une évaluation écrite indiquant la valeur vénale de la part d'
 
 ##### Sous-paragraphe 1 : Règles applicables aux actifs immobiliers.
 
+###### Article R214-160
+
+Les immeubles mentionnés au a du I de l'article L. 214-92 éligibles à l'actif d'un organisme de placement collectif
+immobilier sont :
+
+1° Les immeubles loués ou offerts à la location à la date de leur acquisition par l'organisme ;
+
+2° Les immeubles qu'il fait construire, réhabiliter ou rénover en vue de la location ;
+
+3° Les terrains nus situés dans une zone urbaine ou à urbaniser délimitée par un document d'urbanisme.
+
+Les immeubles mentionnés au 2° peuvent être acquis par des contrats de vente à terme, de vente en l'état futur d'achèvement
+ou de vente d'immeubles à rénover ou à réhabiliter.
+
+L'organisme de placement collectif immobilier peut conclure des contrats de promotion immobilière en vue de la construction
+d'immeubles mentionnés au 2°.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (MMN)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-162 (V)
+
+
+###### Article R214-161
+
+Les droits réels mentionnés au a du I de l'article L. 214-92 sont :
+
+1° La propriété, la nue-propriété et l'usufruit ;
+
+2° L'emphytéose ;
+
+3° Les servitudes ;
+
+4° Les droits du preneur d'un bail à construction ou d'un bail à réhabilitation ;
+
+5° Tout droit réel conféré par un titre ou par un bail emphytéotique à raison de l'occupation d'une dépendance du domaine
+public de l'Etat, d'une collectivité territoriale, ou d'un établissement public sur les ouvrages, constructions et
+installations de caractère immobilier réalisés sur cette dépendance ;
+
+6° Les autres droits de superficie ;
+
+7° Tout droit relevant d'un droit étranger et comparable à l'un des droits mentionnés aux 1° à 6°.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (MMN)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-162 (V)
+	  - Code monétaire et financier - art. R214-165 (V)
+	  - Code monétaire et financier - art. R214-167 (V)
+
+
+###### Article R214-162
+
+Les participations directes ou indirectes dans des sociétés mentionnées aux b et c du I de l'article L. 214-92 ne sont
+éligibles à l'actif d'un organisme de placement collectif immobilier que si les trois conditions suivantes sont satisfaites :
+
+1° Ces sociétés établissent des comptes annuels et des comptes intermédiaires d'une fréquence au moins semestrielle ;
+
+2° Les immeubles et droits réels à l'actif de ces sociétés satisfont aux conditions énoncées aux articles R. 214-160 et R.
+214-161 ;
+
+3° Les relations entre l'organisme de placement collectif immobilier et ces sociétés correspondent à l'un des cas suivants :
+
+a) L'organisme de placement collectif immobilier détient directement ou indirectement la majorité des droits de vote dans ces
+sociétés ;
+
+b) L'organisme de placement collectif immobilier ou sa société de gestion désigne, pendant deux exercices successifs, la
+majorité des membres des organes d'administration, de direction ou de surveillance de ces sociétés. L'organisme de placement
+collectif immobilier est présumé avoir effectué cette désignation lorsqu'il a disposé au cours de cette période, directement
+ou indirectement, d'une fraction supérieure à 40 % des droits de vote, et qu'aucun autre associé ou actionnaire ne détenait,
+directement ou indirectement, une fraction supérieure à la sienne ;
+
+c) L'organisme de placement collectif immobilier ou sa société de gestion dispose du droit d'exercer une influence dominante
+sur ces sociétés en vertu d'un contrat ou de clauses statutaires, lorsque le droit applicable le permet ;
+
+d) L'organisme de placement collectif immobilier ou sa société de gestion exerce l'un des droits ou pouvoirs mentionnés aux a
+à c conjointement avec d'autres organismes mentionnés au e du I de l'article L. 214-92 qui sont gérés soit par la société de
+gestion de l'organisme de placement collectif immobilier, soit, au sens de l'article L. 233-3 du code de commerce, par une
+société qui est contrôlée par elle, par une société qui la contrôle ou par une société contrôlée par une société qui la
+contrôle ;
+
+e) Ces sociétés s'engagent, par un accord écrit avec l'organisme de placement collectif immobilier ou sa société de gestion,
+à transmettre à la société de gestion de l'organisme les informations qui lui sont nécessaires, en vue notamment de
+l'évaluation des actifs et passifs de ces sociétés, au calcul des limites et quotas d'investissement en actifs immobiliers de
+l'organisme, de la limite d'endettement mentionnée à l'article L. 214-95 et à la détermination et la mise à disposition des
+sommes distribuables par l'organisme, définies aux articles L. 214-128 et L. 214-140.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 422-246 (V)
+	  - Arrêté du 12 novembre 2004 - art. 424-45 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 424-46 (Ab)
+	  - Code monétaire et financier - art. R214-162-1 (Ab)
+	  - Code monétaire et financier - art. R214-163 (V)
+	  - Code monétaire et financier - art. R214-165 (V)
+	  - Code monétaire et financier - art. R214-167 (V)
+	  - Code monétaire et financier - art. R214-183 (V)
+	  - Code monétaire et financier - art. R214-199 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-3 (M)
+	  - Code monétaire et financier - art. L214-128 (MMN)
+	  - Code monétaire et financier - art. L214-140 (MMN)
+	  - Code monétaire et financier - art. L214-92 (MMN)
+	  - Code monétaire et financier - art. L214-95 (MMN)
+	  - Code monétaire et financier - art. R214-160 (V)
+	  - Code monétaire et financier - art. R214-161 (V)
+
+
 ###### Article R214-163
 
 Par dérogation à l'article R. 214-162, l'actif d'une société de placement à prépondérance immobilière à capital variable peut
@@ -69690,6 +71729,46 @@ collectif immobilier.
 	  - Code monétaire et financier - art. R214-217 (V)
 
 
+###### Article R214-166
+
+La limite de 10 % mentionnée à l'article R. 214-163, le quota de cinq immeubles et le ratio de 20 % mentionnés à l'article R.
+214-164 sont respectés le 30 juin et le 31 décembre de chaque exercice, à l'issue de la période de trois ans mentionnée à
+l'article L. 214-99.
+
+La société de gestion de l'organisme de placement collectif immobilier informe immédiatement le dépositaire de l'organisme de
+tout non-respect de cette limite, de ce quota ou de ce ratio. Elle en informe également, dans les plus brefs délais et au
+plus tard dans les quinze jours suivant sa constatation, l'Autorité des marchés financiers. Elle indique les raisons du non-
+respect et décrit les mesures qu'elle entend mettre en oeuvre afin de régulariser sa situation dans un délai maximum d'un an.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-99 (V)
+	  - Code monétaire et financier - art. R214-163 (M)
+	  - Code monétaire et financier - art. R214-164 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-167 (V)
+	  - Code monétaire et financier - art. R214-168 (V)
+
+
 ###### Article R214-167
 
 I. - Pour l'appréciation des quotas de 60 % et 51 % mentionnés au 1° de l'article L. 214-93, il est tenu compte, au
@@ -69765,7 +71844,112 @@ collectif immobilier.
 	  - Code monétaire et financier - art. R214-163 (M)
 
 
+###### Article R214-168
+
+Les quotas de 60 % et 51 % mentionnés au 1° de l'article L. 214-93 sont respectés le 30 juin et le 31 décembre de chaque
+exercice, à l'issue de la période de trois ans mentionnée à l'article L. 214-99.
+
+En cas de non-respect de l'un de ces quotas, la société de gestion de l'organisme de placement collectif immobilier doit
+régulariser la situation dans des délais raisonnables et de telle manière que chaque quota soit respecté au moins sept fois
+par période fixe de cinq ans à compter de la période de trois ans mentionnée à l'article L. 214-99. La société de gestion
+informe immédiatement le dépositaire de l'organisme de tout non-respect de l'un de ces quotas. Elle en informe également,
+dans les plus brefs délais et au plus tard dans les quinze jours suivant sa constatation, l'Autorité des marchés financiers
+et le service des impôts auprès duquel elle dépose sa déclaration de résultats ou celui auprès duquel l'organisme de
+placement collectif immobilier dépose la sienne. La société de gestion indique les raisons du non-respect et décrit les
+mesures qu'elle entend mettre en oeuvre pour régulariser la situation.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-93 (MMN)
+	  - Code monétaire et financier - art. L214-99 (V)
+
+
+###### Article R214-169
+
+A compter de la date d'agrément de la dissolution de l'organisme de placement collectif immobilier par l'Autorité des marchés
+financiers, la limite de 10 % mentionnée à l'article R. 214-163, le quota de cinq immeubles ainsi que le ratio de 20 %
+mentionnés à l'article R. 214-164 et les quotas de 60 % et 51 % mentionnés au 1° de l'article L. 214-93 ne sont plus
+applicables.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-93 (MMN)
+	  - Code monétaire et financier - art. R214-163 (M)
+	  - Code monétaire et financier - art. R214-164 (M)
+
+
 ##### Sous-paragraphe 2 : Règles applicables aux instruments financiers, aux dépôts et aux liquidités.
+
+###### Article R214-170
+
+Les parts ou actions d'un organisme de droit étranger mentionné au e du I de l'article L. 214-92 ne sont éligibles à l'actif
+d'un organisme de placement collectif immobilier que si l'organisme de droit étranger répond à des critères fixés par le
+règlement général de l'Autorité des marchés financiers.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-54 (Ab)
+	  - Code monétaire et financier - art. R214-200 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92
+
 
 ###### Article R214-171
 
@@ -69812,6 +71996,109 @@ collectif immobilier.
 	  - Code monétaire et financier - art. R214-179 (Ab)
 
 
+###### Article R214-172
+
+Les instruments financiers à caractère liquide mentionnés au h du I de l'article L. 214-92 sont :
+
+1° Les bons du Trésor ;
+
+2° Les titres de créance négociables satisfaisant aux conditions du I ou du II de l'article R. 214-2 et dont la rémunération
+ne dépend pas, directement ou indirectement, de la valeur d'un ou plusieurs instruments financiers à terme ;
+
+3° Les obligations négociées sur un marché mentionné aux articles L. 421-3, L. 422-1 et L. 423-1 qui sont émises ou garanties
+par un Etat membre de l'Organisation de coopération et de développement économique, par les collectivités territoriales d'un
+Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen, ou par un organisme
+international à caractère public dont un ou plusieurs Etats membres de la Communauté européenne ou parties à l'accord sur
+l'Espace économique européen font partie ou qui sont émises par la caisse d'amortissement de la dette sociale ;
+
+4° Les parts ou actions d'organismes de placement collectif en valeurs mobilières qui satisfont aux deux conditions
+suivantes :
+
+a) Ces organismes sont des organismes de placement collectif en valeurs mobilières de droit français relevant des sous-
+sections 1 à 8 de la section 1 du chapitre IV du titre Ier du livre II ou des organismes de placement collectif en valeurs
+mobilières de droit étranger bénéficiant d'une procédure de reconnaissance mutuelle des agréments au sens de la directive
+85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et
+administratives concernant certains organismes de placement collectif en valeurs mobilières ;
+
+b) Ces organismes sont investis et exposés à plus de 90 % de leur actif net sur des titres mentionnés aux 1° à 3° ou sur des
+dépôts ou liquidités mentionnés aux articles R. 214-3 et R. 214-4.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-56 (Ab)
+	  - Code monétaire et financier - art. R214-175 (V)
+	  - Code monétaire et financier - art. R214-176 (V)
+	  - Code monétaire et financier - art. R214-179 (Ab)
+	  - Code monétaire et financier - art. R214-195 (Ab)
+	  - Code monétaire et financier - art. R214-36 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (MMN)
+	  - Code monétaire et financier - art. L421-3 (M)
+	  - Code monétaire et financier - art. L422-1 (M)
+	  - Code monétaire et financier - art. L423-1 (M)
+	  - Code monétaire et financier - art. R214-2 (M)
+	  - Code monétaire et financier - art. R214-3 (M)
+	  - Code monétaire et financier - art. R214-4 (M)
+	  - Directive 85-611 CEE 1985-12-20 Conseil
+
+
+###### Article R214-173
+
+Les liquidités mentionnées au i du I de l'article L. 214-92 sont :
+
+1° Les dépôts à vue effectués auprès du dépositaire de l'organisme de placement collectif immobilier, qui satisfont aux
+conditions 3° et 4° de l'article R. 214-171 et dont la rémunération ne dépend pas, directement ou indirectement, de la valeur
+d'un ou plusieurs instruments financiers à terme. Ces dépôts à vue sont effectués par l'organisme dans la stricte limite des
+besoins liés à la gestion de ses flux ;
+
+2° Les créances d'exploitation de l'organisme de placement collectif immobilier.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (MMN)
+	  - Code monétaire et financier - art. R214-171 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-179 (Ab)
+
+
 ###### Article R214-174
 
 Les parts ou actions d'organismes mentionnées au e du I de l'article L. 214-92 ne peuvent représenter plus de 5 % de l'actif
@@ -69846,7 +72133,316 @@ collectif immobilier.
 	  - Code monétaire et financier - art. L214-92 (MMN)
 
 
+###### Article R214-175
+
+I. - Les instruments financiers mentionnés aux f et g du I de l'article L. 214-92 et à l'article R. 214-172 émis par une même
+entité ne peuvent représenter plus de 5 % de l'actif de l'organisme de placement collectif immobilier.
+
+La limite mentionnée au premier alinéa ne s'applique pas :
+
+1° Aux obligations mentionnées au 3° de l'article R. 214-172 ;
+
+2° Aux obligations relevant du f du I de l'article L. 214-92 constituant des obligations foncières émises par les sociétés de
+crédit foncier en application du 2° du I de l'article L. 515-13 ou des obligations émises par un établissement de crédit
+ayant son siège social dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen
+et soumis à un contrôle public particulier visant à protéger les détenteurs de ces obligations. Les sommes provenant de
+l'émission de ces obligations doivent être investies dans des actifs qui couvrent à suffisance, pendant toute la durée de
+validité des obligations, les engagements en découlant et qui sont affectés par privilège au remboursement du capital et au
+paiement des intérêts courus en cas de défaillance de l'émetteur ;
+
+3° Aux obligations relevant du f du I de l'article L. 214-92 émises par un établissement de crédit dont l'objet exclusif est
+de refinancer les billets à ordre répondant aux dispositions des articles L. 313-42 à L. 313-49, émis pour mobiliser des
+créances de long terme représentatives de prêts au logement, à la condition que ces obligations aient des caractéristiques
+identiques à celles des billets.
+
+II. - Les obligations mentionnées aux 2° et 3° du I du présent article et les actions mentionnées au d du I de l'article L.
+214-92 émises par une même société ne peuvent représenter plus de 10 % de l'actif d'un organisme de placement collectif
+immobilier.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-56 (Ab)
+	  - Code monétaire et financier - art. R214-176 (V)
+	  - Code monétaire et financier - art. R214-177 (V)
+	  - Code monétaire et financier - art. R214-217 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (MMN)
+	  - Code monétaire et financier - art. L515-13 (M)
+	  - Code monétaire et financier - art. R214-172 (V)
+	  - Code monétaire et financier L214-92, R214-172, L515-13, L313-42 à L313-49
+
+
+###### Article R214-176
+
+Un organisme de placement collectif immobilier ne peut détenir plus de 10 % d'une même catégorie d'instruments financiers
+mentionnés aux d, f et g du I de l'article L. 214-92 et à l'article R. 214-172 d'une même entité.
+
+Pour l'appréciation de cette limite, chacun des instruments financiers suivants constitue une catégorie :
+
+1° Les actions ou parts d'une même entité ;
+
+2° Les valeurs mobilières donnant directement ou indirectement accès au capital d'une même entité ;
+
+3° Les titres de créances conférant directement ou indirectement un droit de créance général sur le patrimoine d'une même
+entité.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (MMN)
+	  - Code monétaire et financier - art. R214-172 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-177 (V)
+	  - Code monétaire et financier - art. R214-217 (V)
+
+
+###### Article R214-177
+
+Dans des limites et conditions définies dans le règlement général de l'Autorité des marchés financiers, les limites définies
+aux articles R. 214-175 et R. 214-176 ne sont pas applicables aux parts ou actions d'organismes de placement collectif en
+valeurs mobilières de droit français relevant des sous-sections 1 à 8 de la section 1 du chapitre IV du titre Ier du livre II
+ou d'organismes de placement collectif en valeurs mobilières de droit étranger bénéficiant d'une procédure de reconnaissance
+mutuelle des agréments au sens de la directive 85/611/CEE du Conseil du 20 décembre 1985 portant coordination des
+dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs
+mobilières.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R214-175 (V)
+	  - Code monétaire et financier - art. R214-176 (V)
+	  - Code monétaire et financier R214-175, R214-176, 6
+	  - Directive 85-611 CEE 1985-12-20 Conseil
+
+
+###### Article R214-178
+
+Les dépôts à terme mentionnés à l'article R. 214-171 effectués auprès d'un même établissement de crédit par l'organisme de
+placement collectif immobilier ne peuvent représenter plus de 10 % de son actif. Ce ratio ne s'applique pas aux dépôts à
+terme effectués auprès du dépositaire de l'organisme.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 du 2 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R214-171
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-217 (V)
+
+
+###### Article R214-179
+
+Pour l'appréciation du quota mentionné au 2° de l'article L. 214-93, il est tenu compte :
+
+1° Des dépôts mentionnés à l'article R. 214-171 et au 1° de l'article R. 214-173 effectués par l'organisme de placement
+collectif immobilier ;
+
+2° Des instruments financiers à caractère liquide mentionnés à l'article R. 214-172 détenus par l'organisme.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 du 2 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-93
+	  - Code monétaire et financier - art. R214-171
+	  - Code monétaire et financier - art. R214-172
+	  - Code monétaire et financier - art. R214-173
+
+
+###### Article R214-180
+
+En cas de non-respect du quota mentionné au 2° de l'article L. 214-93 à l'issue de la période de trois ans mentionnée à
+l'article L. 214-99, la société de gestion de l'organisme de placement collectif immobilier doit régulariser la situation
+dans les plus brefs délais, et dans la limite d'un mois. Toutefois, lorsque l'organisme de placement collectif immobilier ne
+dispose pas à son actif d'une valeur d'instruments financiers suffisante pour combler ce quota, le délai de régularisation
+est de six mois.
+
+La société de gestion doit informer immédiatement le dépositaire de l'organisme de tout non-respect de ce quota. Elle doit
+également en informer, dans les plus brefs délais et au plus tard dans les quinze jours suivant sa constatation, l'Autorité
+des marchés financiers. Cette information explique les raisons du non-respect, décrit les mesures que la société de gestion
+met en oeuvre pour régulariser la situation et précise, en le justifiant, le délai de régularisation envisagé.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 du 2 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-93
+	  - Code monétaire et financier - art. L214-99
+
+
+###### Article R214-181
+
+A compter de la date d'agrément de la dissolution de l'organisme de placement collectif immobilier par l'Autorité des marchés
+financiers, le quota mentionné au 2° de l'article L. 214-93 et les limites et ratios prévus au présent sous-paragraphe ne
+sont plus applicables.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 du 2 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-93
+
+
 ##### Sous-paragraphe 3 : Endettement de l'organisme de placement collectif immobilier.
+
+###### Article R214-182
+
+Pour l'application de l'article L. 214-95, l'organisme de placement collectif immobilier souscrit des emprunts auprès
+d'établissements de crédit dont le siège est établi dans un Etat membre de la Communauté européenne ou partie à l'accord sur
+l'Espace économique européen ou dans un Etat membre de l'Organisation de coopération et de développement économique.
+
+Ces emprunts ont pour objet de financer les opérations mentionnées à l'article L. 214-90. Ils peuvent également lui permettre
+de faire face, à titre temporaire, à des demandes de rachat de parts ou actions par les porteurs ou actionnaires de
+l'organisme.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
 
 ###### Article R214-183
 
@@ -69889,6 +72485,46 @@ collectif immobilier.
 	  - Code monétaire et financier - art. R214-165 (M)
 
 
+###### Article R214-184
+
+I. - La limite mentionnée à l'article L. 214-95 doit être respectée le 30 juin et le 31 décembre de chaque exercice, à
+l'issue de la période de trois ans mentionnée à l'article L. 214-99.
+
+La société de gestion de l'organisme de placement collectif immobilier informe immédiatement le dépositaire de l'organisme de
+tout non-respect de cette limite. Elle en informe également, dans les plus brefs délais et au plus tard dans les quinze jours
+suivant sa constatation, l'Autorité des marchés financiers. Elle indique les raisons du non-respect et décrit les mesures
+qu'elle entend mettre en oeuvre afin de régulariser sa situation dans un délai maximum d'un an.
+
+II. - A compter de la date d'agrément de la dissolution de l'organisme de placement collectif immobilier par l'Autorité des
+marchés financiers, la limite mentionnée à l'article L. 214-95 n'est plus applicable.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-95
+	  - Code monétaire et financier - art. L214-99
+
+
 ###### Article R214-185
 
 I. - Pour l'appréciation de la limite mentionnée à l'article L. 214-96, il est tenu compte :
@@ -69926,6 +72562,248 @@ collectif immobilier.
 
 
 ##### Sous-paragraphe 4 : Règles relatives aux garanties, aux instruments financiers à terme et aux acquisitions et cessions temporaires de titres.
+
+###### Article R214-186
+
+Un organisme de placement collectif immobilier peut recevoir ou octroyer des sûretés réelles sur les immeubles ou droits
+réels mentionnés au a du I de l'article L. 214-92 ou sur les parts ou actions de sociétés mentionnées aux b et c du I de ce
+même article, ainsi que des sûretés personnelles afférentes à ces mêmes actifs.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R931-10-21 (V)
+	  - Code des assurances - art. R332-2 (V)
+	  - Code monétaire et financier - art. R214-191 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (MMN)
+
+
+###### Article R214-187
+
+Dans le cadre de la gestion de participations dans des sociétés mentionnées aux b et c du I de l'article L. 214-92, un
+organisme de placement collectif immobilier peut conclure avec des tiers des conventions de garanties d'actif et de passif
+ainsi que toute convention faisant peser sur l'organisme un engagement financier autre qu'un engagement d'achat ou de vente
+de telles participations, lorsque les conditions suivantes sont remplies :
+
+1° Le montant des engagements correspondants doit être déterminable ;
+
+2° La société de gestion ne peut conclure des conventions par l'effet desquelles pèseraient sur l'actif de l'organisme des
+engagements à hauteur globalement de plus de 50 % ;
+
+3° La société de gestion tient à la disposition des porteurs de parts ou d'actions de l'organisme une liste de ces
+engagements indiquant leur nature et leur montant estimé.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (MMN)
+
+
+###### Article R214-188
+
+Un organisme de placement collectif immobilier peut recevoir des garanties mentionnées à l'article L. 431-7-3 aux conditions
+définies à ce même article, ainsi que les garanties relevant de cautions solidaires ou les garanties à première demande.
+
+L'organisme de placement collectif immobilier ne peut recevoir des garanties que si elles lui sont octroyées par un
+établissement ayant la qualité de dépositaire d'organisme de placement collectif immobilier ou de dépositaire d'organisme de
+placement collectif en valeurs mobilières, par un établissement de crédit dont le siège est établi dans un Etat membre de
+l'Organisation de coopération et de développement économique ou une entreprise d'investissement dont le siège est situé dans
+un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen et qui est habilitée à
+fournir le service mentionné au 1 de l'article L. 321-2 et dont le montant des fonds propres, au sens de la directive
+2000/12/CE du Parlement européen et du Conseil du 20 mars 2000 concernant l'accès à l'activité des établissements de crédit
+et son exercice, est au moins égal à 3,8 millions d'euros.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L321-2 (M)
+	  - Code monétaire et financier - art. L431-7-3 (V)
+	  - Directive 2000-12 CE 2000-03-20 Parlement et Conseil
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-192 (T)
+	  - Code monétaire et financier - art. R214-195 (Ab)
+
+
+###### Article R214-189
+
+Un organisme de placement collectif immobilier peut octroyer des garanties mentionnées à l'article L. 431-7-3 aux conditions
+définies à ce même article et aux conditions supplémentaires suivantes :
+
+1° Les garanties octroyées par l'organisme portent sur les instruments financiers mentionnés aux d à g du I de l'article L.
+214-92 détenus par l'organisme ou sur les instruments financiers et dépôts mentionnés aux h et i du I de l'article L. 214-92
+détenus par l'organisme au-delà du quota de 10 % mentionné au 2° de l'article L. 214-93 ;
+
+2° Lorsque les garanties octroyées par l'organisme sont des sûretés, l'acte constitutif de ces sûretés définit :
+
+a) La nature des biens ou droits que le bénéficiaire des sûretés peut utiliser ou aliéner ;
+
+b) Le montant maximal des biens ou droits que le bénéficiaire des sûretés peut utiliser ou aliéner. Ce montant maximal ne
+peut excéder 100 % de la créance du bénéficiaire sur l'organisme. Le règlement général de l'Autorité des marchés financiers
+précise les modalités de calcul de la créance du bénéficiaire sur l'organisme ;
+
+3° Les modalités d'évaluation des biens ou droits remis en garantie par l'organisme sont définies dans l'acte constitutif des
+garanties ou dans un contrat annexe conclu entre les parties. Le règlement général de l'Autorité des marchés financiers
+précise les modalités d'évaluation des biens ou droits remis en garantie par l'organisme.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-57 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92 (MMN)
+	  - Code monétaire et financier - art. L214-93 (MMN)
+	  - Code monétaire et financier - art. L431-7-3 (V)
+	  - Code monétaire et financier L431-7-3, L214-92, L214-93, annexe
+
+
+###### Article R214-190
+
+I. - Le risque de contrepartie sur un même cocontractant est le risque que celui-ci manque à une de ses obligations et amène
+de ce fait l'organisme de placement collectif immobilier à subir une perte financière. Le risque de contrepartie sur un même
+cocontractant est égal à la valeur de marché des contrats diminuée des garanties constituées, le cas échéant, au profit de
+l'organisme.
+
+II. - L'exposition d'un organisme de placement collectif immobilier au risque de contrepartie sur un même cocontractant
+résultant des contrats d'instruments financiers à terme mentionnés aux articles R. 214-192 et R. 214-193 et des opérations
+d'acquisitions et de cession temporaires de titres mentionnés à l'article R. 214-195 ne doit pas excéder 10 % de son actif
+net.
+
+III. - Le recours par un organisme de placement collectif immobilier à des instruments financiers à terme, des opérations de
+pension, ainsi que toute autre opération assimilée d'acquisition ou de cession temporaire de titres ne doit pas amener cet
+organisme à s'écarter des objectifs d'investissements exposés dans les documents d'information destinés aux souscripteurs.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. R212-31 (V)
+	  - Code de la sécurité sociale. - art. R931-10-21 (V)
+	  - Code des assurances - art. R332-2 (V)
+	  - Code monétaire et financier - art. D214-192 (V)
+	  - Code monétaire et financier - art. R214-191 (V)
+	  - Code monétaire et financier - art. R214-192 (T)
+	  - Code monétaire et financier - art. R214-193 (V)
+	  - Code monétaire et financier - art. R214-195 (Ab)
+	  - Code monétaire et financier - art. R214-32-42 (V)
+
+
+###### Article R214-191
+
+L'engagement d'un organisme de placement collectif immobilier sur des instruments financiers à terme est constitué par le
+montant le plus élevé entre la perte potentielle de l'organisme évaluée à tout moment et le produit de l'effet de levier que
+ces instruments procurent à l'organisme par l'actif de l'organisme. Les modalités de calcul de l'engagement sont définies par
+le règlement général de l'Autorité des marchés financiers.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-63 (V)
+	  - Arrêté du 12 novembre 2004 - art. 424-57 (Ab)
+	  - Code monétaire et financier - art. D214-192 (V)
+	  - Code monétaire et financier - art. R214-192 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
 
 ###### Article R214-192
 
@@ -70104,7 +72982,236 @@ collectif immobilier.
 	  - Code monétaire et financier L214-92, R214-190 à R214-193
 
 
+###### Article R214-195
+
+I. - Un organisme de placement collectif immobilier peut effectuer, dans la limite de 30 % de son actif, des opérations de
+cession temporaire d'instruments financiers mentionnés aux d à g du I de l'article L. 214-92.
+
+II. - Un organisme de placement collectif immobilier peut effectuer, dans la limite de 5 % de son actif, des opérations
+d'acquisition temporaire d'instruments financiers mentionnés aux d à g du I de l'article L. 214-92 ou à l'article R. 214-172.
+
+Les valeurs liquidatives des actions ou parts d'un organisme de placement collectif immobilier sont déterminées en tenant
+compte des variations de valeur des titres cédés temporairement.
+
+III. - Pour effectuer des opérations mentionnées aux I et II, un organisme de placement collectif immobilier doit respecter
+chacune des conditions suivantes :
+
+1° Ces opérations sont réalisées avec un établissement mentionné au deuxième alinéa de l'article R. 214-188 ;
+
+2° Elles sont régies par une convention-cadre mentionnée à l'article L. 431-7 ;
+
+3° Elles doivent être prises en compte pour l'application des dispositions prévues aux articles R. 214-174 à R. 214-179, des
+règles d'exposition au risque de contrepartie définies à l'article R. 214-190 et de la règle d'engagement définie au 1° de
+l'article R. 214-192 ;
+
+4° Elles peuvent être dénouées ou liquidées à tout moment, à leur valeur de marché ou à une valeur prédéterminée, à
+l'initiative de l'organisme.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-190 (V)
+	  - Code monétaire et financier - art. R214-196 (V)
+	  - Code monétaire et financier - art. R214-217 (V)
+
+
+###### Article R214-196
+
+La limite mentionnée au II de l'article R. 214-195 est portée à 40 % lorsque l'organisme de placement collectif immobilier
+remet des espèces en paiement d'opérations de prise en pension, à la condition que les instruments financiers pris en pension
+ne fassent l'objet d'aucune opération de cession y compris temporaire ou de remise en garantie.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R214-195 (V)
+
+
+###### Article R214-197
+
+Pour l'appréciation des limites et ratios prévus au présent sous-paragraphe, les créances d'exploitation de l'organisme de
+placement collectif immobilier ne sont pas prises en compte à l'actif de l'organisme.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+
+##### Sous-paragraphe 5 : Montant minimum d'actif net.
+
+###### Article D214-198
+
+Le montant minimum de l'actif net d'un organisme de placement collectif immobilier s'élève à 25 millions d'euros.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-16 (Ab)
+	  - Code monétaire et financier - art. D214-201 (Ab)
+	  - Code monétaire et financier - art. D214-204 (Ab)
+	  - Code monétaire et financier - art. D214-214 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+
+##### Sous-paragraphe 6 : Avances en compte courant.
+
+###### Article R214-199
+
+L'organisme ne peut consentir des avances en compte courant mentionnées à l'article L. 214-98 à des sociétés ne répondant pas
+aux conditions fixées aux 2° et 3° de l'article R. 214-162 que dans la limite de 10 % de son actif.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-98 (V)
+	  - Code monétaire et financier - art. R214-162 (V)
+
+
 ##### Sous-paragraphe 7 : Règles particulières applicables aux organismes de placement collectif immobilier destinés à vingt souscripteurs au plus ou à une catégorie d'investisseurs.
+
+###### Article D214-201
+
+Par dérogation à l'article D. 214-198, le montant minimum de l'actif net d'un organisme de placement collectif immobilier
+relevant de l'article R. 214-200 s'élève à deux millions d'euros.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 du 2 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D214-198
+	  - Code monétaire et financier - art. R214-200
+
+
+###### Article D214-202
+
+Par dérogation à l'article D. 214-212, le montant minimum du capital initial d'une société de placement à prépondérance
+immobilière à capital variable relevant de l'article R. 214-200 s'élève à 400 000 euros.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D214-212
+	  - Code monétaire et financier - art. R214-200
+
 
 ###### Article R214-200
 
@@ -70159,6 +73266,115 @@ collectif immobilier.
 	  - Code monétaire et financier - art. R214-174 (M)
 
 
+##### Sous-paragraphe 8 : Règles particulières applicables aux organismes de placement collectif immobilier issus de sociétés civiles de placement immobilier.
+
+###### Article D214-204
+
+Par dérogation à l'article D. 214-198, le montant minimum de l'actif net d'un organisme de placement collectif immobilier
+relevant de l'article R. 214-203 s'élève à un million d'euros.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D214-198
+	  - Code monétaire et financier - art. R214-203
+
+
+###### Article D214-205
+
+Par dérogation à l'article D. 214-212, le montant minimum du capital initial d'une société de placement à prépondérance
+immobilière à capital variable relevant de l'article R. 214-203 s'élève à 760 000 euros.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 du 2 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D214-212
+	  - Code monétaire et financier - art. R214-203
+
+
+###### Article R214-203
+
+I. - Un organisme de placement collectif immobilier issu de la transformation ou de la scission d'une société civile de
+placement immobilier peut déroger aux dispositions de l'article R. 214-164.
+
+Lorsqu'il est fait usage de cette dérogation, le document d'information des souscripteurs prévu au III de l'article L. 214-91
+en fait mention.
+
+II. - Lorsqu'un organisme mentionné au I fusionne avec une autre société civile de placement immobilier ou avec un autre
+organisme de placement collectif immobilier, ou bénéficie d'un apport en nature d'actifs immobiliers mentionnés à l'article
+L. 214-92 d'une autre société civile de placement immobilier ou d'un autre organisme de placement collectif immobilier, les
+dispositions de l'article R. 214-164 sont applicables à l'expiration d'un délai de trois ans suivant la fusion ou l'apport en
+nature.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D214-204 (Ab)
+	  - Code monétaire et financier - art. D214-205 (Ab)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-91 (V)
+	  - Code monétaire et financier - art. L214-92 (MMN)
+	  - Code monétaire et financier - art. R214-164 (M)
+
+
 ##### Paragraphe 2 : Dispositions comptables et financières.
 
 ###### Article D214-207
@@ -70193,9 +73409,375 @@ collectif immobilier.
 	  - Code monétaire et financier - art. L214-91 (V)
 
 
+###### Article R214-206
+
+Le rapport annuel de gestion d'un organisme de placement collectif immobilier, mentionné au troisième alinéa de l'article L.
+214-106, comprend les informations suivantes :
+
+1° Un résumé de l'objectif de gestion de l'organisme ;
+
+2° Une description de l'évolution des marchés immobiliers et financiers au cours de l'exercice ;
+
+3° Une description commentée sur les événements significatifs de l'exercice ;
+
+4° Des informations chiffrées et commentées sur les éléments principaux de la gestion de l'organisme ;
+
+5° Un tableau des cinq derniers exercices incluant les distributions effectuées ;
+
+6° Une information générale sur l'évaluation des actifs immobiliers ;
+
+7° La situation à la clôture de l'exercice de l'organisme ;
+
+8° Les changements de méthodes de valorisation et leurs motifs dans la présentation des comptes annuels ;
+
+9° Les informations relatives aux modalités d'organisation et de fonctionnement des organes de gestion, d'administration et
+de surveillance de l'organisme ;
+
+10° Les informations relatives au respect des règles de bonne conduite et de déontologie applicables à la société de gestion
+de l'organisme ;
+
+11° L'évolution prévisible de l'activité de l'organisme au moins pour l'exercice à venir, au regard de l'évolution des
+marchés immobiliers et des marchés financiers ;
+
+12° La situation de l'endettement et de liquidité de l'organisme ;
+
+13° Un inventaire faisant apparaître les principales caractéristiques du portefeuille immobilier et d'instruments financiers
+de l'organisme, s'il ne figure pas dans les comptes annuels ;
+
+14° Les événements importants survenus après la clôture de l'exercice.
+
+Le règlement général de l'Autorité des marchés financiers précise le contenu de chacune de ces informations.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-106 (MMN)
+
+
+###### Article R214-208
+
+La mise à la disposition du commissaire aux comptes des comptes annuels mentionnés à l'article L. 214-106 s'effectue dans un
+délai de quarante-cinq jours suivant la clôture de l'exercice.
+
+La mise à la disposition du commissaire aux comptes du rapport de gestion mentionné à l'article L. 214-106 s'effectue dans un
+délai de soixante-quinze jours suivant la clôture de l'exercice.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-106 (MMN)
+
+
+###### Article R214-209
+
+I. - Le rapport du commissaire aux comptes sur les opérations de fusion ou de scission d'un organisme de placement collectif
+immobilier est tenu à la disposition des porteurs ou actionnaires de l'organisme huit jours au moins avant la date de
+l'assemblée générale de la société de placement à prépondérance immobilière à capital variable appelée à se prononcer sur
+l'opération, ou, dans les cas d'un fonds de placement immobilier, huit jours au moins avant la date d'établissement de la
+valeur liquidative constatant la fusion ou la scission.
+
+Ce rapport porte sur les modalités de la fusion ou de la scission et sur l'évaluation des apports en nature effectués dans le
+cadre de cette opération.
+
+II. - Le rapport du commissaire aux comptes sur les opérations d'apports en nature d'un organisme de placement collectif
+immobilier est tenu à la disposition des porteurs ou actionnaires de l'organisme huit jours au moins avant la date de
+l'assemblée générale de la société de placement à prépondérance immobilière à capital variable appelée à se prononcer sur
+l'opération, ou, dans le cas d'un fonds de placement immobilier, huit jours au moins avant la date d'établissement de la
+valeur liquidative constatant l'apport. Pour la société de placement à prépondérance immobilière à capital variable, ce
+rapport est déposé au greffe dans le même délai.
+
+Ce rapport décrit chacun des apports, indique le mode d'évaluation adopté au vu de l'évaluation réalisée par les évaluateurs
+immobiliers mentionnés à l'article L. 214-112.
+
+III. - Le rapport du commissaire aux comptes sur les opérations de distribution d'acomptes d'un organisme de placement
+collectif immobilier est transmis au conseil d'administration ou au directoire de la société de placement à prépondérance
+immobilière à capital variable ou à la société de gestion du fonds de placement immobilier.
+
+IV. - Le rapport du commissaire aux comptes sur les opérations de dissolution et de liquidation est mis à la disposition des
+actionnaires ou des porteurs dans un délai maximum de quarante-cinq jours suivant la liquidation. Ce rapport mentionne les
+opérations intervenues depuis la clôture de l'exercice.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 424-21 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-112 (V)
+
+
+###### Article R214-210
+
+Aux fins de la certification de l'exactitude de l'information périodique mentionnée à l'article L. 214-109, le commissaire
+aux comptes en reçoit communication au moins deux semaines avant la date prévue pour sa publication.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-109 (V)
+
+
+##### Paragraphe 3 : Evaluation des actifs immobiliers.
+
+###### Article R214-211
+
+Le rapport de synthèse sur l'accomplissement de la mission des évaluateurs, mentionné à l'article L. 214-111, est mis à la
+disposition des porteurs ou actionnaires qui en font la demande, dans les quarante-cinq jours suivant la publication du
+rapport annuel de l'organisme de placement collectif immobilier. Lorsqu'un porteur ou un actionnaire demande à recevoir le
+rapport sous format papier, les frais liés à son expédition par voie postale peuvent être mis à sa charge.
+
+Dans le cas d'un fonds de placement immobilier, il est mis à la disposition des membres du conseil de surveillance du fonds
+dans les cinq jours qui suivent son établissement, selon des modalités définies par le règlement du fonds.
+
+Ce rapport de synthèse est communiqué au dépositaire, au commissaire aux comptes et à la société de gestion du fonds ou à la
+société de placement à prépondérance immobilière à capital variable, dans le même délai de cinq jours.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-111 (V)
+
+
+##### Sous-section 2 : Règles particulières relatives aux sociétés de placement à prépondérance immobilière à capital variable.
+
+###### Article D214-212
+
+Le montant minimum du capital initial d'une société de placement à prépondérance immobilière à capital variable s'élève à un
+million d'euros.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D214-202 (Ab)
+	  - Code monétaire et financier - art. D214-205 (Ab)
+	  - Code monétaire et financier - art. D214-214 (V)
+
+
 ##### Sous-section 4 : Organismes de placement collectif immobilier à règles de fonctionnement allégées.
 
+##### Paragraphe 1 : Dispositions communes
+
+###### Article D214-213
+
+Par dérogation à l'article D. 214-207, les organismes de placement collectif immobilier à règles de fonctionnement allégées
+peuvent changer d'unité monétaire d'un exercice comptable à un autre. Ce changement ne peut intervenir qu'à la date
+d'ouverture d'un exercice. Le document d'information des souscripteurs prévu au III de l'article L. 214-91 précise dans quels
+cas et conditions il peut être procédé à un tel changement d'unité monétaire.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D214-207 (M)
+	  - Code monétaire et financier - art. L214-91 (V)
+
+
+###### Article D214-214
+
+Par dérogation à l'article D. 214-198, le montant minimum de l'actif net des organismes de placement collectif immobilier à
+règles de fonctionnement allégées s'élève à 500 000 euros.
+
+Pour les sociétés de placement à prépondérance immobilière à capital variable, les dispositions de l'article D. 214-212
+relatives au montant minimum du capital initial ne s'appliquent pas.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D214-198 (V)
+	  - Code monétaire et financier - art. D214-212 (V)
+
+
 ##### Paragraphe 2 : Organismes de placement collectif immobilier à règles de fonctionnement allégées sans effet de levier
+
+###### Article R214-215
+
+Les organismes de placement collectif immobilier à règles de fonctionnement allégées sont dits sans effet de levier
+lorsqu'ils restent soumis aux limites d'endettement prévues aux articles L. 214-95 et L. 214-96.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-95 (MMN)
+	  - Code monétaire et financier - art. L214-96 (V)
+
+
+###### Article R214-216
+
+Le quota d'investissement en actifs liquides prévu au 2° de l'article L. 214-93 est ramené à 5 %.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 du 2 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-93
+
 
 ###### Article R214-217
 
@@ -70247,6 +73829,159 @@ collectif immobilier.
 	  - Code monétaire et financier - art. R214-178 (V)
 	  - Code monétaire et financier - art. R214-195 (V)
 	  - Code monétaire et financier - art. R214-200 (M)
+
+
+##### Paragraphe 3 : Organismes de placement collectif immobilier à règles de fonctionnement allégées avec effet de levier
+
+###### Article R214-218
+
+Les organismes de placement collectif immobilier à règles de fonctionnement allégées sont dits avec effet de levier
+lorsqu'ils dérogent aux limites d'endettement prévues aux articles L. 214-95 et L. 214-96.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D214-219 (V)
+	  - Code monétaire et financier - art. R214-220 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-95 (MMN)
+	  - Code monétaire et financier - art. L214-96 (V)
+
+
+###### Article R214-219
+
+Le quota d'investissement en actifs liquides prévu au 2° de l'article L. 214-93 n'est pas applicable.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-93
+
+
+###### Article R214-220
+
+La limite prévue à l'article R. 214-163 n'est pas applicable.
+
+Le quota de cinq immeubles et le ratio de 20 % mentionnés à l'article R. 214-164 ne sont pas applicables.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D214-216-3 (V)
+	  - Code monétaire et financier - art. R214-225 (V)
+	  - Code monétaire et financier - art. R513-3 (V)
+	  - Code monétaire et financier - art. R515-4 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R214-163 (M)
+	  - Code monétaire et financier - art. R214-164 (M)
+
+
+###### Article R214-221
+
+Les règles prévues aux sous-paragraphes 2 à 4 de la sous-section 1 de la présente section ne sont pas applicables.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+
+###### Article R214-222
+
+Le règlement ou les statuts d'un organisme de placement collectif immobilier à règles de fonctionnement allégées avec effet
+de levier fixent les règles de constitution et de composition de l'actif de l'organisme et les règles de recours à l'emprunt,
+de recours aux instruments financiers à terme mentionnés à l'article L. 214-94 et aux opérations d'acquisitions et de
+cessions temporaires de titres, ainsi qu'aux garanties mentionnées à l'article L. 214-97.
+
+**Nota:**
+
+Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
+publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
+des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
+immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-94 (M)
+	  - Code monétaire et financier - art. L214-97 (V)
 
 
 ### Titre II : Les produits d'épargne
