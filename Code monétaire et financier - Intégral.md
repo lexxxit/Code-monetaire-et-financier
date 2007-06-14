@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-06-01
+Version Consolidée au 2007-06-15
 
 # Partie législative
 
@@ -5656,11 +5656,11 @@ l'autorisation préalable exigée sur le fondement du c du 1 de l'article L. 151
 
 ###### Article L152-1
 
-Les personnes physiques qui transfèrent vers l'étranger ou en provenance de l'étranger des sommes, titres ou valeurs, sans
-l'intermédiaire d'un établissement de crédit, ou d'un organisme ou service mentionné à l'article L. 518-1 doivent en faire la
-déclaration dans des conditions fixées par décret.
+Les personnes physiques qui transfèrent vers un Etat membre de l'Union européenne ou en provenance d'un Etat membre de
+l'Union européenne des sommes, titres ou valeurs, sans l'intermédiaire d'un établissement de crédit, ou d'un organisme ou
+service mentionné à l'article L. 518-1 doivent en faire la déclaration dans des conditions fixées par décret. 
 
-Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 600 euros.
+Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 10 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -5670,7 +5670,7 @@ Une déclaration est établie pour chaque transfert à l'exclusion des transfert
 
 	**Modifié par**:
 
-	  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 96 (V) JORF 31 décembre 2006 en vigueur le 15 juin 2007
 
 	**Cité par**:
 
@@ -5694,7 +5694,7 @@ Une déclaration est établie pour chaque transfert à l'exclusion des transfert
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L518-1 (M)
+	  - Code monétaire et financier - art. L518-1 (V)
 
 
 ###### Article L152-2
@@ -5758,8 +5758,9 @@ premier alinéa.
 
 ###### Article L152-4
 
-I. - La méconnaissance des obligations déclaratives énoncées à l'article L. 152-1 est punie d'une amende égale au quart de la
-somme sur laquelle a porté l'infraction ou la tentative d'infraction.
+I. - La méconnaissance des obligations déclaratives énoncées à l'article L. 152-1 et dans le règlement (CE) n° 1889/2005 du
+Parlement européen et du Conseil, du 26 octobre 2005, relatif aux contrôles de l'argent liquide entrant ou sortant de la
+Communauté est punie d'une amende égale au quart de la somme sur laquelle a porté l'infraction ou la tentative d'infraction.
 
 II. - En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la
 somme sur laquelle a porté l'infraction ou la tentative d'infraction, pendant une durée de trois mois, renouvelable sur
@@ -5784,11 +5785,6 @@ code général des impôts n'est pas appliquée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1758
-	  - Code monétaire et financier - art. L152-1 (M)
-
 	**Anciens textes**:
 
 	  - Loi n°90-614 1990-07-12 art. 23 II
@@ -5799,7 +5795,7 @@ code général des impôts n'est pas appliquée.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 24 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 96 (V) JORF 31 décembre 2006 en vigueur le 15 juin 2007
 
 	**Cité par**:
 
@@ -5808,6 +5804,11 @@ code général des impôts n'est pas appliquée.
 	  - Code général des impôts, CGI. - art. 1758 (V)
 	  - Code général des impôts, CGI. - art. 1759 (M)
 	  - Code monétaire et financier - art. L725-3 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L152-1 (M)
+	  - Règlement 1889-2005 2005-10-26 Parlement et Conseil
 
 
 ###### Article L152-5
@@ -49929,9 +49930,9 @@ numéro de ces formules " n'est pas applicable à Saint-Pierre-et-Miquelon.
 
 A Saint-Pierre-et-Miquelon, les personnes physiques doivent déclarer les sommes, titres ou valeurs qu'elles transfèrent en
 provenance ou à destination de l'étranger, sans l'intermédiaire d'un organisme soumis aux dispositions du titre Ier du livre
-V ou de l'article L. 518-1.
+V ou de l'article L. 518-1. 
 
-Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 600 euros.
+Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 10 000 euros. 
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
@@ -49962,12 +49963,11 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 86 () JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 93 () JORF 7 mai 2005
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 96 (V) JORF 31 décembre 2006 en vigueur le 15 juin 2007
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L518-1 (M)
+	  - Code monétaire et financier - art. L518-1 (V)
 
 
 ##### Sous-section 2 : Constatation et poursuite des infractions
@@ -50404,15 +50404,11 @@ A Mayotte, les personnes physiques doivent déclarer les sommes, titres ou valeu
 destination de l'étranger sans l'intermédiaire d'un organisme soumis soit aux dispositions du titre Ier du livre V soit à
 celles de l'article L. 518-1.
 
-Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 600 euros.
+Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 10 000 euros.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
@@ -50420,7 +50416,6 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2002-1440 2002-12-05 (modalités d'application)
 	  - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002
 	  - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 2 (Ab)
@@ -50436,6 +50431,10 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	  - Code monétaire et financier - art. L731-5 (VT)
 	  - Code monétaire et financier - art. R731-4 (Ab)
 	  - Code monétaire et financier - art. R731-6 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 96 (V) JORF 31 décembre 2006 en vigueur le 15 juin 2007
 
 	**Cite**:
 
@@ -52328,7 +52327,8 @@ En Nouvelle-Calédonie, les personnes physiques doivent déclarer les sommes, ti
 provenance ou à destination de l'étranger sans l'intermédiaire d'un organisme soumis aux dispositions du titre Ier du livre V
 ou de l'article L. 518-1.
 
-Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 542 euros.
+Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 1 193 317
+francs CFP.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
@@ -52358,7 +52358,7 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 96 (V) JORF 31 décembre 2006 en vigueur le 15 juin 2007
 
 	**Cite**:
 
@@ -54503,7 +54503,8 @@ En Polynésie française, les personnes physiques doivent déclarer les sommes, 
 provenance ou à destination de l'étranger sans l'intermédiaire d'un organisme soumis aux dispositions du titre Ier du livre V
 ou de l'article L. 518-1.
 
-Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 542 euros.
+Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 1 193 317
+francs CFP.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
@@ -54529,7 +54530,7 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 96 (V) JORF 31 décembre 2006 en vigueur le 15 juin 2007
 
 	**Cite**:
 
@@ -56704,7 +56705,8 @@ Dans les îles Wallis-et-Futuna, les personnes physiques doivent déclarer les s
 en provenance ou à destination de l'étranger sans l'intermédiaire d'un organisme soumis aux dispositions du titre Ier du
 livre V ou de l'article L. 518-1.
 
-Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 542 euros.
+Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 1 193 317
+francs CFP.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
@@ -56730,7 +56732,7 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 96 (V) JORF 31 décembre 2006 en vigueur le 15 juin 2007
 
 	**Cite**:
 
