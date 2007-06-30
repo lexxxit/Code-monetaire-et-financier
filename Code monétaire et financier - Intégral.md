@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-06-15
+Version Consolidée au 2007-07-01
 
 # Partie législative
 
@@ -77057,15 +77057,18 @@ Le banquier doit, préalablement à l'ouverture d'un compte, vérifier le domici
 présenter un document officiel portant sa photographie. Les caractéristiques et les références de ce document sont
 enregistrées par le banquier.
 
-Pour l'application des dispositions qui précèdent, l'adresse de l'organisme d'accueil figurant sur la carte nationale
+Pour l'application des dispositions qui précèdent, l'adresse du centre communal ou intercommunal d'action sociale ou de
+l'organisme agréé au titre de l'article L. 264-2 du code de l'action sociale et des familles figurant sur la carte nationale
 d'identité en application des dispositions du cinquième alinéa de l'article 2 du décret n° 55-1397 du 22 octobre 1955
-instituant la carte nationale d'identité vaut justification du domicile.
+instituant la carte nationale d'identité vaut justification du domicile. Il en est de même de l'attestation d'élection de
+domicile présentée par la personne ne disposant pas d'un domicile stable instituée par le même article.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°55-1397 du 22 octobre 1955 - art. 2 (M)
+	  - Code de l'action sociale et des familles - art. L264-2 (V)
 
 	**Anciens textes**:
 
@@ -77075,6 +77078,10 @@ instituant la carte nationale d'identité vaut justification du domicile.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-893 du 15 mai 2007 - art. 6 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
 
 
 ###### Article R312-3
