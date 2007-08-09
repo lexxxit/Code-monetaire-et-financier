@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-07-01
+Version Consolidée au 2007-08-10
 
 # Partie législative
 
@@ -71584,6 +71584,37 @@ immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal 
 	  - Code monétaire et financier - art. R214-161 (V)
 
 
+###### Article R214-162-1
+
+I. - Les participations directes ou indirectes dans des organismes de droit étranger mentionnés au e du I de l'article L.
+214-92 ne sont éligibles à l'actif d'un organisme de placement collectif immobilier que si ces organismes établissent des
+comptes annuels et des comptes intermédiaires d'une fréquence au moins semestrielle.
+
+II. - Les participations directes ou indirectes détenues par un fonds de placement immobilier dans des fonds de placement
+immobilier ou dans des organismes de droit étranger ayant un objet équivalent et de forme similaire mentionnés à la dernière
+phrase du 1° de l'article L. 214-93 doivent satisfaire aux conditions prévues à l'article R. 214-162.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-1206 du 10 août 2007 - art. 2 () JORF 12 août 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-92
+	  - Code monétaire et financier - art. L214-93
+	  - Code monétaire et financier - art. R214-162
+
+
 ###### Article R214-163
 
 Par dérogation à l'article R. 214-162, l'actif d'une société de placement à prépondérance immobilière à capital variable peut
@@ -73654,6 +73685,27 @@ immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal 
 	  - Code monétaire et financier - art. D214-202 (Ab)
 	  - Code monétaire et financier - art. D214-205 (Ab)
 	  - Code monétaire et financier - art. D214-214 (V)
+
+
+###### Article R214-212-1
+
+Les articles R. 214-20-1 et R. 214-20-2 s'appliquent aux sociétés de placement à prépondérance immobilière à capital
+variable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-1206 du 10 août 2007 - art. 2 () JORF 12 août 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R214-20-1 (V)
+	  - Code monétaire et financier - art. R214-20-2 (V)
 
 
 ##### Sous-section 4 : Organismes de placement collectif immobilier à règles de fonctionnement allégées.
