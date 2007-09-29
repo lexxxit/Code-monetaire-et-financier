@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-08-12
+Version Consolidée au 2007-09-30
 
 # Partie législative
 
@@ -21864,8 +21864,9 @@ fixé par décret ;
 
 2° Aux prises de contact dans les locaux des personnes mentionnées à l'article L. 341-3, sauf lorsque ces personnes sont
 contractuellement liées, en vue de la commercialisation d'instruments financiers et de produits d'épargne, aux sociétés
-exploitant des magasins de grande surface visés à la section 3 du chapitre Ier du titre V du livre IV du code de l'urbanisme,
-et que leurs locaux sont implantés dans les locaux de ces magasins ;
+exploitant des magasins de grande surface visés par l'article L. 720-5 du code de commerce et l'article 36-1 de la loi n°
+73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat, et que leurs locaux sont implantés dans les locaux
+de ces magasins ;
 
 3° Aux démarches dans les locaux professionnels d'une personne morale à la demande de cette dernière ;
 
@@ -21887,18 +21888,16 @@ que celles visées au 1°, à la condition que le nom de l'établissement prête
 mentionnés, sous peine de nullité ;
 
 8° Aux démarches effectuées sur le lieu de vente, pour le compte d'un établissement de crédit, en vue de proposer des crédits
-visés au titre Ier du livre III du code de la consommation.
+visés au titre Ier du livre III du code de la consommation ;
+
+9° Aux conventions conclues entre les personnes mentionnées au 1° de l'article L. 341-3, à l'exception des sociétés de
+capital-risque, pour la distribution de produits, la réalisation d'une opération ou la fourniture d'un service, mentionnés à
+l'article L. 341-1, à l'exception des dispositions mentionnées à l'article L. 341-6.
 
 **Nota:**
 
-NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
-décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
-
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26.
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 105 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
@@ -21915,6 +21914,7 @@ l'ordonnance au 1er octobre 2007.
 	  - Décret n°2004-1019 du 28 septembre 2004 - art. 1 (Ab)
 	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 4 (V)
 	  - Code monétaire et financier - art. D341-1 (V)
+	  - Code monétaire et financier - art. L341-3 (M)
 	  - Code monétaire et financier - art. L341-4 (M)
 	  - Code monétaire et financier - art. L353-1 (M)
 	  - Code monétaire et financier - art. L733-10 (Ab)
@@ -21924,14 +21924,7 @@ l'ordonnance au 1er octobre 2007.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
-
-	**Cite**:
-
-	  - Code de la consommation - art. L311-2 (V)
-	  - Code monétaire et financier - art. L321-2 (M)
-	  - Code monétaire et financier - art. L341-3 (M)
-	  - Code monétaire et financier - art. L411-2 (M)
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 63 (V) JORF 31 décembre 2006 en vigueur le 30 septembre 2007
 
 
 ##### Section 2 : Personnes habilitées à procéder au démarchage
@@ -22042,15 +22035,16 @@ Une même personne physique ou morale peut recevoir des mandats émanant de plus
 établissements mentionnés au 1° de l'article L. 341-3. Cette personne informe alors l'ensemble de ses mandants des mandats
 ainsi détenus.
 
-III. - Les personnes morales mentionnées à l'article L. 341-3 et celles mandatées en application du I du présent article sont
+III. - Les personnes mentionnées à l'article L. 341-3 et celles mandatées en application du I du présent article sont
 civilement responsables du fait des démarcheurs, agissant en cette qualité, auxquels elles ont délivré un mandat. Les
-personnes morales mentionnées à l'article L. 341-3 demeurent responsables du fait des salariés des personnes morales qu'elles
-ont mandatées, dans la limite du mandat.
+personnes morales mentionnées à l'article L. 341-3 demeurent responsables du fait des salariés ou employés des personnes
+physiques ou des personnes morales qu'elles ont mandatées, dans la limite du mandat.
 
 IV. - Les démarcheurs personnes physiques et les personnes physiques ayant le pouvoir de gérer ou d'administrer les personnes
 morales mandatées en application du I doivent remplir des conditions d'âge, d'honorabilité et de compétence professionnelle
 fixées par décret. Il en va de même des salariés ou employés des personnes mentionnées à l'article L. 341-3, lorsqu'ils
-exercent des activités de démarchage, et de ceux des personnes morales mandatées en application du I du présent article.
+exercent des activités de démarchage, et de ceux des personnes physiques ou des personnes morales mandatées en application du
+I du présent article.
 
 V. - Les règles fixées aux II et IV ne s'appliquent pas aux personnes physiques participant à l'envoi de documents
 nominatifs, sous réserve qu'elles n'aient aucun contact personnalisé permettant d'influencer le choix de la personne
@@ -22101,7 +22095,7 @@ considérées comme exerçant directement l'activité de démarchage et sont ten
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 63 (V) JORF 31 décembre 2006 en vigueur le 30 septembre 2007
 
 	**Cite**:
 
