@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-11-01
+Version Consolidée au 2007-11-21
 
 # Partie législative
 
@@ -16891,7 +16891,9 @@ après le premier retrait ou le premier rachat.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater K (V)
 
 
-##### Section 7 : Compte épargne codéveloppement
+##### Section 7 : L'épargne codéveloppement
+
+##### Sous-section 1 : Le compte épargne codéveloppement
 
 ###### Article L221-33
 
@@ -16936,9 +16938,10 @@ VI. - Un décret fixe les modalités d'application du présent article, notammen
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 1 () JORF 25 juillet 2006
+	  - Loi n°2007-1631 2007-11-20 art. 52 I, II JORF 21 novembre 2007
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 52 () JORF 21 novembre 2007
 
 	**Cité par**:
 
@@ -16953,9 +16956,76 @@ VI. - Un décret fixe les modalités d'application du présent article, notammen
 	  - Code monétaire et financier - art. R221-119 (Ab)
 	  - Code monétaire et financier - art. R221-120 (Ab)
 
+	**Abrogé par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 107
+
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. L900-1 (V)
+
+
+##### Sous-section 2 : Le livret d'épargne pour le codéveloppement
+
+###### Article L221-34
+
+I. - Un livret d'épargne pour le codéveloppement peut être proposé par tout établissement de crédit et par tout établissement
+autorisé à recevoir des dépôts qui s'engage par convention avec l'Etat à respecter les règles fixées pour le fonctionnement
+de ce livret.
+
+II. - Le livret d'épargne pour le codéveloppement est destiné à recevoir l'épargne d'étrangers majeurs ayant la nationalité
+d'un pays en voie de développement, figurant sur la liste de pays fixée par l'arrêté prévu au II de l'article L. 221-33,
+titulaires d'un titre de séjour d'une durée supérieure ou égale à un an et fiscalement domiciliés en France, aux fins de
+financer des opérations d'investissement dans les pays signataires d'un accord avec la France prévoyant la distribution du
+livret d'épargne pour le codéveloppement.
+
+III. - A l'issue d'une phase d'épargne au cours de laquelle les sommes placées sur le livret d'épargne pour le
+codéveloppement sont bloquées pour une durée au moins égale à trois années consécutives et régulièrement alimentées dans des
+conditions fixées par décret en Conseil d'Etat, les titulaires d'un livret d'épargne pour le codéveloppement qui contractent
+un prêt aux fins d'investissement dans un pays signataire avec la France d'un accord prévoyant la distribution du livret
+d'épargne pour le codéveloppement bénéficient d'une prime d'épargne plafonnée dont le montant est fixé compte tenu de leur
+effort d'épargne. Les investissements ouvrant droit à la prime sont définis dans les accords signés entre les pays en
+développement et la France.
+
+IV. - Les conditions de transfert dans un autre établissement de crédit et de plafonnement des sommes versées sur le livret
+d'épargne pour le codéveloppement sont fixées par décret en Conseil d'Etat.
+
+V. - Les opérations relatives aux livrets d'épargne pour le codéveloppement sont soumises au contrôle sur pièces et sur place
+de l'inspection générale des finances.
+
+VI. - Le comité prévu au V de l'article L. 221-33 examine périodiquement la cohérence des projets financés au travers du
+livret d'épargne pour le codéveloppement avec les différentes actions de financement du développement et formule des
+recommandations aux ministres concernés.
+
+VII. - Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 52 () JORF 21 novembre 2007
+
+	**Abrogé par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 107
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. L900-1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-33
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R221-117 (Ab)
+	  - Code monétaire et financier - art. R221-119 (Ab)
+	  - Code monétaire et financier - art. R221-120 (Ab)
 
 
 #### Chapitre II : Produits d'épargne salariale
@@ -95285,108 +95355,6 @@ avec demande d'avis de réception.
 	  - Code monétaire et financier - art. R746-9 (VD)
 	  - Code monétaire et financier - art. R756-4 (VD)
 	  - Code monétaire et financier - art. R766-4 (VD)
-
-
-### Titre III : Coopération et échanges d'informations aux fins de la surveillance complémentaire
-
-###### Article R631-1
-
-Lorsque l'entité de tête d'un conglomérat financier, dont la Commission bancaire est le coordonnateur, a son siège social
-dans un autre Etat membre ou un autre Etat partie à l'accord sur l'Espace économique européen, la Commission bancaire peut
-inviter les autorités compétentes de cet Etat, d'une part, à demander à cette entité de leur fournir toutes informations
-utiles à l'accomplissement de sa mission de coordination, telle qu'elle est définie à l'article L. 633-3, d'autre part, à lui
-communiquer les informations ainsi collectées.
-
-La Commission bancaire communique, à la demande d'un coordonnateur d'un autre Etat membre ou d'un autre Etat partie à
-l'accord sur l'Espace économique européen, toutes informations utiles à l'accomplissement de la mission de ce coordonnateur
-mentionnée à l'article L. 633-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2005-1186 du 19 septembre 2005 - art. 5 () JORF 21 septembre 2005
-
-	**Transféré par**:
-
-	  - Décret n°2007-901 du 15 mai 2007 - art. 3 () JORF 16 mai 2007 en vigueur le le 1er novembre 2007
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L633-3 (M)
-	  - Code monétaire et financier - art. L633-4 (M)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R631-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. R633-1 (M)
-
-
-###### Article R631-2
-
-La Commission bancaire coopère étroitement avec les autres autorités compétentes en vue de s'assurer de l'effectivité des
-sanctions ou mesures qu'elle a adoptées en application des articles L. 633-12 et L. 633-13.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2005-1186 du 19 septembre 2005 - art. 5 () JORF 21 septembre 2005
-
-	**Transféré par**:
-
-	  - Décret n°2007-901 du 15 mai 2007 - art. 3 () JORF 16 mai 2007 en vigueur le le 1er novembre 2007
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L633-12 (M)
-	  - Code monétaire et financier - art. L633-13 (M)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. R633-2 (M)
-
-
-###### Article R631-3
-
-Lorsque la Commission bancaire est l'autorité en charge de la vérification mentionnée à l'article L. 633-14, elle consulte
-les autres autorités compétentes concernées. Elle consulte également, avant de prendre une décision, le comité des
-conglomérats financiers prévu à l'article 21 de la directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre
-2002, pour tenir compte des lignes directrices élaborées par ce comité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Directive 2002-87 2002-12-16
-	  - Code monétaire et financier - art. L633-14 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2005-1186 du 19 septembre 2005 - art. 5 () JORF 21 septembre 2005
-
-	**Transféré par**:
-
-	  - Décret n°2007-901 du 15 mai 2007 - art. 3 () JORF 16 mai 2007 en vigueur le le 1er novembre 2007
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. R633-3 (M)
 
 
 ### Titre III : Coopération, échanges d'informations et surveillance complémentaire des conglomérats financiers
