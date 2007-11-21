@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-11-21
+Version Consolidée au 2007-11-22
 
 # Partie législative
 
@@ -64731,11 +64731,10 @@ exclusif l'exploitation de carrières ou gravières ;
 
 ###### Article R152-6
 
-La déclaration des sommes, titres ou valeurs prévue à l'article L. 152-1 est déposée par les personnes physiques, pour leur
-compte ou pour celui d'autrui, auprès de l'administration des douanes.
-
-Par dérogation aux dispositions du 1° de l'article R. 151-1, font également l'objet de cette déclaration les transferts de
-sommes, titres ou valeurs en provenance ou à destination de la Principauté de Monaco.
+La déclaration prévue à l'article 3 du règlement (CE) n° 1889/2005 du Parlement européen et du Conseil du 26 octobre 2005
+relatif aux contrôles de l'argent liquide entrant ou sortant de la Communauté est faite par écrit par les personnes
+physiques, pour leur compte ou pour celui d'autrui, auprès de l'administration des douanes, au moment de l'entrée ou de la
+sortie de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
@@ -64746,6 +64745,10 @@ sommes, titres ou valeurs en provenance ou à destination de la Principauté de 
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-1638 du 19 novembre 2007 - art. 1 () JORF 22 novembre 2007
 
 	**Cité par**:
 
@@ -64758,11 +64761,46 @@ sommes, titres ou valeurs en provenance ou à destination de la Principauté de 
 
 	  - Code monétaire et financier - art. L152-1 (M)
 	  - Code monétaire et financier - art. R151-1 (M)
+	  - Règlement 1889-2005 2005-10-26 art. 3
 
 
 ###### Article R152-7
 
-Les dispositions de l'article R. 152-6 sont applicables aux envois postaux.
+I. - La déclaration des sommes, titres ou valeurs transférés vers un Etat membre de la Communauté européenne ou en provenance
+d'un tel Etat, prévue à l'article L. 152-1, est faite par écrit par les personnes physiques, pour leur compte ou pour celui
+d'autrui, auprès de l'administration des douanes, au plus tard au moment du transfert.
+
+II. - Au sens du présent article, sont considérés comme des sommes, titres ou valeurs :
+
+1° Les instruments négociables au porteur, y compris les instruments monétaires au porteur tels que les chèques de voyage ;
+
+2° Les instruments négociables (y compris les chèques, les billets à ordre et les mandats) qui sont soit au porteur, endossés
+sans restriction ou libellés à l'ordre d'un bénéficiaire fictif, soit sous une forme telle que la propriété de l'instrument
+est transférée au moment de la cession de celui-ci ;
+
+3° Les instruments incomplets (y compris les chèques, les billets à ordre et les mandats) signés mais où le nom du
+bénéficiaire n'a pas été indiqué ;
+
+4° Les espèces (billets de banque et pièces de monnaie qui sont en circulation comme instrument d'échange).
+
+III. - Lorsqu'elle est faite préalablement au transfert, la déclaration doit être adressée, par voie postale, au service des
+douanes, au plus tard cinq jours ouvrables avant le transfert.
+
+IV. - La déclaration contient, sur un document daté et signé, des informations sur :
+
+1° Les nom et prénoms du déclarant, sa date et son lieu de naissance, ainsi que sa nationalité ;
+
+2° Le propriétaire des sommes, titres ou valeurs, lorsque le transfert est opéré pour le compte d'un tiers ;
+
+3° Le destinataire projeté des sommes, titres ou valeurs ;
+
+4° Le montant et la nature des sommes, titres ou valeurs ;
+
+5° La provenance des sommes, titres ou valeurs et l'usage qu'il est prévu d'en faire ;
+
+6° L'itinéraire de transport ;
+
+7° Le ou les moyens de transport.
 
 **Liens relatifs à cet article**
 
@@ -64782,14 +64820,18 @@ Les dispositions de l'article R. 152-6 sont applicables aux envois postaux.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-1638 du 19 novembre 2007 - art. 2 () JORF 22 novembre 2007
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. R152-6 (M)
+	  - Code monétaire et financier - art. L152-1 (M)
 
 
 ###### Article R152-8
 
-Les sommes, titres ou valeurs mentionnés à l'article R. 152-6 sont définis par arrêté pris par le ministre chargé du budget.
+Les dispositions de l'article R. 152-7 sont applicables aux envois postaux.
 
 **Liens relatifs à cet article**
 
@@ -64799,15 +64841,46 @@ Les sommes, titres ou valeurs mentionnés à l'article R. 152-6 sont définis pa
 
 	**Codifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2005-1007 du 2 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-1638 du 19 novembre 2007 - art. 3 () JORF 22 novembre 2007
 
 	**Cité par**:
 
 	  - Décret n°2016-1523 du 10 novembre 2016 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2016-1523 du 10 novembre 2016 - art. 2
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. R152-6 (M)
+	  - Code monétaire et financier - art. R152-7
+
+
+###### Article R152-9
+
+Les modalités d'application de l'article R. 152-7 sont fixées par arrêté pris par le ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-1638 du 19 novembre 2007 - art. 3 () JORF 22 novembre 2007
+
+	**Cité par**:
+
+	  - Arrêté du 15 mai 2014 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R152-7 (M)
 
 
 #### Chapitre III : Investissements étrangers soumis à autorisation préalable.
