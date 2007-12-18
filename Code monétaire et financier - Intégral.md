@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-12-02
+Version Consolidée au 2007-12-19
 
 # Partie législative
 
@@ -17028,6 +17028,104 @@ VII. - Les modalités d'application du présent article sont fixées par décret
 	  - Code monétaire et financier - art. R221-120 (Ab)
 
 
+##### Section 8 : Dispositions communes aux produits   d'épargne générale à régime fiscal spécifique
+
+###### Article L221-35
+
+Nonobstant toutes dispositions contraires, il est interdit à tout établissement de crédit ou institution énumérée à l'article
+L. 518-1 d'ouvrir ou de maintenir ouverts dans des conditions irrégulières des comptes bénéficiant d'une aide publique,
+notamment sous forme d'exonération fiscale, en particulier les produits d'épargne générale à régime fiscal spécifique définis
+au présent chapitre, de verser sur ces comptes des rémunérations supérieures à celles fixées par le ministre chargé de
+l'économie, ou d'accepter sur ces comptes des sommes excédant les plafonds autorisés. 
+
+Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la Commission bancaire, les infractions aux
+dispositions du présent article sont punies d'une amende dont le taux est égal au montant des intérêts payés, sans que cette
+amende puisse être inférieure à 75 euros. 
+
+Un décret fixe les modalités d'application du présent article, notamment les conditions dans lesquelles seront constatées et
+poursuivies les infractions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-1774 du 17 décembre 2007 - art. 7
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L. 221-37 (V)
+	  - Code monétaire et financier - art. L221-36 (V)
+	  - Code monétaire et financier - art. L742-6-1 (V)
+	  - Code monétaire et financier - art. L742-6-2 (V)
+	  - Code monétaire et financier - art. L752-6-1 (V)
+	  - Code monétaire et financier - art. L752-6-2 (V)
+	  - Code monétaire et financier - art. L762-6-2 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-1
+
+
+###### Article L221-36
+
+Les infractions aux dispositions de l'article L. 221-35 sont constatées comme en matière de timbre : 
+
+― par les comptables du Trésor ; 
+
+― par les agents des administrations financières. 
+
+Les procès-verbaux sont dressés à la requête du ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-1774 du 17 décembre 2007 - art. 8
+
+	**Cité par**:
+
+	  - Décret n°2017-1078 du 24 mai 2017 - art. 2 (V)
+	  - Code monétaire et financier - art. L221-37 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-35 (V)
+
+
+###### Article L221-37
+
+En ce qui concerne les établissements de crédit, les infractions aux dispositions de l'article L. 221-35 peuvent également
+être constatées dans les formes prévues à l'article L. 221-36 par les inspecteurs de la Banque de France spécialement
+habilités à cet effet et par le gouverneur de la Banque de France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-1774 du 17 décembre 2007 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-35 (V)
+	  - Code monétaire et financier - art. L221-36 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L742-6-2 (V)
+
+
 #### Chapitre II : Produits d'épargne salariale
 
 ##### Section unique : Le plan d'épargne d'entreprise
@@ -18460,8 +18558,6 @@ convention de compte de dépôt peut être signée.
 
 ##### Section 2 : Fonds reçus du public
 
-##### Sous-section 1 : Définition.
-
 ###### Article L312-2
 
 Sont considérés comme fonds reçus du public les fonds qu'une personne recueille d'un tiers, notamment sous forme de dépôts,
@@ -18482,10 +18578,9 @@ législatives particulières.
 
 	  - Loi n°84-46 du 24 janvier 1984 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - DEPLACE: Loi n°2007-1774 du 17 décembre 2007 - art. 7
 
 	**Cité par**:
 
@@ -18503,57 +18598,6 @@ législatives particulières.
 	  - Code monétaire et financier - art. R214-103 (V)
 	  - Code monétaire et financier - art. R214-182 (Ab)
 	  - Code monétaire et financier - art. R312-7 (T)
-
-
-##### Sous-section 2 : Rémunération.
-
-###### Article L312-3
-
-Nonobstant toutes dispositions contraires, il est interdit à tout établissement de crédit qui reçoit du public des fonds en
-compte à vue à moins de cinq ans, et par quelque moyen que ce soit, de verser sur ces fonds une rémunération supérieure à
-celle fixée par le ministre chargé de l'économie. Il lui est également interdit d'ouvrir ou de maintenir ouverts dans des
-conditions irrégulières des comptes bénéficiant d'une aide publique, notamment sous forme d'exonération fiscale, ou
-d'accepter sur ces comptes des sommes excédant les plafonds ainsi autorisés.
-
-Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la commission bancaire, les infractions aux
-dispositions du présent article sont punies d'une amende fiscale dont le taux est égal au montant des intérêts payés, sans
-que cette amende puisse être inférieure à 75 euros.
-
-Un décret pris sur le rapport du ministre chargé de l'économie fixe les modalités d'application du présent article, et
-notamment les conditions dans lesquelles seront constatées et poursuivies les infractions.
-
-Les dispositions du présent article s'appliquent, quels que soient les entreprises, établissements ou organismes
-dépositaires, au régime de l'épargne populaire défini à la section 2 du chapitre Ier du titre II du livre II.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-357 du 27 avril 1982 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
-	**Cité par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
-	  - Code monétaire et financier - art. L351-2 (Ab)
-	  - Code monétaire et financier - art. L351-3 (Ab)
-	  - Code monétaire et financier - art. L723-1 (V)
-	  - Code monétaire et financier - art. L733-2 (Ab)
-	  - Code monétaire et financier - art. L743-2 (V)
-	  - Code monétaire et financier - art. L753-2 (V)
-	  - Code monétaire et financier - art. L763-2 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2007-1774 du 17 décembre 2007 - art. 7
 
 
 ##### Section 3 : Garantie des déposants
@@ -23421,67 +23465,6 @@ d'avis. Dans son avis, il apprécie notamment la gravité des faits ainsi que le
 	  - Code monétaire et financier - art. L312-1-3 (M)
 
 
-###### Article L351-2
-
-Les infractions aux dispositions de l'article L. 312-3 sont constatées comme en matière de timbre :
-
-- par les comptables du Trésor ;
-
-- par les agents des administrations financières. 
-
-Les procès-verbaux sont dressés à la requête du ministre chargé de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 49 () JORF 7 mai 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2007-1774 du 17 décembre 2007 - art. 8
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. D351-1 (V)
-	  - Code monétaire et financier - art. D351-2 (V)
-	  - Code monétaire et financier - art. L351-3 (Ab)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L312-3 (Ab)
-
-
-###### Article L351-3
-
-En ce qui concerne les établissements de crédit, les infractions aux dispositions de l'article L. 312-3 peuvent également
-être constatées dans les formes prévues à l'article L. 351-2 par les inspecteurs de la Banque de France spécialement
-habilités à cet effet par le gouverneur de la Banque de France.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 49 () JORF 7 mai 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2007-1774 du 17 décembre 2007 - art. 8
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L312-3 (Ab)
-	  - Code monétaire et financier - art. L351-2 (Ab)
-
-
 #### Chapitre II : Infractions relatives au fonds de garantie des déposants
 
 ###### Article L352-1
@@ -27769,14 +27752,16 @@ instrument financier mentionné aux I et II de l'article L. 451-1-2 n'est admis 
 ###### Article L451-1-5
 
 Lorsque l'Autorité des marchés financiers n'est pas l'autorité compétente pour contrôler le respect des obligations
-d'information prévues aux articles L. 451-1-1 et L. 451-1-2 et qu'elle établit qu'il y a eu violation par l'émetteur de ses
-obligations d'information, elle en informe l'autorité de contrôle de l'Etat partie à l'Espace économique européen compétente
-pour le contrôle de ces obligations d'information.
+d'information prévues aux articles L. 451-1-1 et L. 451-1-2 du présent code et aux articles L. 233-7 à L. 233-9 du code de
+commerce, et qu'elle établit qu'il y a eu violation par l'émetteur ou par la personne tenue à l'information mentionnée au I
+de l'article L. 233-7 du code de commerce de ses obligations d'information, elle en informe l'autorité de contrôle de l'Etat
+partie à l'Espace économique européen compétente pour le contrôle de ces obligations d'information. 
 
-Si en dépit des mesures prises par cette dernière ou en raison de leur inadéquation l'émetteur ou les établissements
-financiers chargés du placement persistent à violer les dispositions législatives ou réglementaires qui leur sont
-applicables, l'Autorité des marchés financiers peut, après avoir informé l'autorité de contrôle compétente pour contrôler les
-obligations d'information périodique, prendre toutes les mesures qui s'imposent pour protéger les investisseurs.
+Si en dépit des mesures prises par cette dernière ou en raison de leur inadéquation l'émetteur, les établissements financiers
+chargés du placement ou la personne tenue à l'information mentionnée au I de l'article L. 233-7 du code de commerce
+persistent à violer les dispositions législatives ou réglementaires qui leur sont applicables, l'Autorité des marchés
+financiers peut, après avoir informé l'autorité de contrôle compétente pour contrôler les obligations d'information, prendre
+toutes les mesures qui s'imposent pour protéger les investisseurs.
 
 L'Autorité des marchés financiers informe la Commission européenne de ces mesures.
 
@@ -27786,14 +27771,15 @@ L'Autorité des marchés financiers informe la Commission européenne de ces mes
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 32 (V) JORF 27 juillet 2005 en vigueur le 20 janvier 2007
+	  - Loi n°2007-1774 du 17 décembre 2007 - art. 10
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L451-1-1 (V)
-	  - Code monétaire et financier - art. L451-1-2 (V)
+	  - Code de commerce - art. L233-7
+	  - Code monétaire et financier - art. L451-1-1
+	  - Code monétaire et financier - art. L451-1-2
 
 	**Cité par**:
 
@@ -27808,13 +27794,13 @@ Les règles relatives à l'information sur les prises de participations signific
 L. 233-14 du code de commerce, reproduits ci-après : 
 
 " Art.L. 233-7-I.-Lorsque les actions d'une société ayant son siège sur le territoire de la République sont admises aux
-négociations sur un marché réglementé ou sur un marché d'instruments financiers admettant aux négociations des actions
-pouvant être inscrites en compte chez un intermédiaire habilité dans les conditions prévues par l'article L. 211-4 du code
-monétaire et financier, toute personne physique ou morale agissant seule ou de concert qui vient à posséder un nombre
-d'actions représentant plus du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, du tiers, de la moitié,
-des deux tiers, des dix-huit vingtièmes ou des dix-neuf vingtièmes du capital ou des droits de vote informe la société dans
-un délai fixé par décret en Conseil d'Etat, à compter du franchissement du seuil de participation, du nombre total d'actions
-ou de droits de vote qu'elle possède.
+négociations sur un marché réglementé d'un Etat partie à l'accord sur l'Espace économique européen ou sur un marché
+d'instruments financiers admettant aux négociations des actions pouvant être inscrites en compte chez un intermédiaire
+habilité dans les conditions prévues par l'article L. 211-4 du code monétaire et financier, toute personne physique ou morale
+agissant seule ou de concert qui vient à posséder un nombre d'actions représentant plus du vingtième, du dixième, des trois
+vingtièmes, du cinquième, du quart, du tiers, de la moitié, des deux tiers, des dix-huit vingtièmes ou des dix-neuf
+vingtièmes du capital ou des droits de vote informe la société dans un délai fixé par décret en Conseil d'Etat, à compter du
+franchissement du seuil de participation, du nombre total d'actions ou de droits de vote qu'elle possède. 
 
 L'information mentionnée à l'alinéa précédent est également donnée dans les mêmes délais lorsque la participation en capital
 ou en droits de vote devient inférieure aux seuils mentionnés par cet alinéa. 
@@ -27831,8 +27817,8 @@ portée à la connaissance du public dans les conditions fixées par le règleme
 Le règlement général précise également les modalités de calcul des seuils de participation. 
 
 III.-Les statuts de la société peuvent prévoir une obligation supplémentaire d'information portant sur la détention de
-fractions du capital ou des droits de vote inférieures à celle du vingtième mentionnée au I.L'obligation porte sur la
-détention de chacune de ces fractions, qui ne peuvent être inférieures à 0, 5 % du capital ou des droits de vote. 
+fractions du capital ou des droits de vote inférieures à celle du vingtième mentionnée au I. L'obligation porte sur la
+détention de chacune de ces fractions, qui ne peuvent être inférieures à 0,5 % du capital ou des droits de vote. 
 
 IV.-Les obligations d'information prévues aux I, II et III ne s'appliquent pas aux actions : 
 
@@ -27848,7 +27834,7 @@ fixé par le règlement général de l'Autorité des marchés financiers et que 
 pas exercés ni autrement utilisés pour intervenir dans la gestion de l'émetteur ; 
 
 4° Remises aux membres du Système européen de banques centrales ou par ceux-ci dans l'exercice de leurs fonctions d'autorités
-monétaires, dans les conditions fixées par le règlement général de l'Autorité des marchés financiers.
+monétaires, dans les conditions fixées par le règlement général de l'Autorité des marchés financiers. 
 
 V.-Les obligations d'information prévues aux I, II et III ne s'appliquent pas : 
 
@@ -27876,17 +27862,18 @@ acquises et à l'Autorité des marchés financiers dans un délai de dix jours d
 connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers. En cas de
 changement d'intention, lequel ne peut être motivé que par des modifications importantes dans l'environnement, la situation
 ou l'actionnariat des personnes concernées, une nouvelle déclaration doit être établie, communiquée à la société et à
-l'Autorité des marchés financiers et portée à la connaissance du public dans les mêmes conditions. " 
+l'Autorité des marchés financiers et portée à la connaissance du public dans les mêmes conditions." 
 
 " Art.L. 233-8-I.-Au plus tard dans les quinze jours qui suivent l'assemblée générale ordinaire, toute société par actions
 informe ses actionnaires du nombre total de droits de vote existant à cette date. Dans la mesure où, entre deux assemblées
 générales ordinaires, le nombre de droits de vote varie d'un pourcentage fixé par arrêté du ministre chargé de l'économie,
 par rapport au nombre déclaré antérieurement, la société, lorsqu'elle en a connaissance, informe ses actionnaires. 
 
-II.-Les sociétés dont des actions sont admises aux négociations sur un marché réglementé publient chaque mois le nombre total
-de droits de vote et le nombre d'actions composant le capital de la société s'ils ont varié par rapport à ceux publiés
-antérieurement, dans des conditions et selon des modalités fixées par le règlement général de l'Autorité des marchés
-financiers. Ces sociétés sont réputées remplir l'obligation prévue au I. " 
+II.-Les sociétés mentionnées au I de l'article L. 233-7 dont des actions sont admises aux négociations sur un marché
+réglementé d'un Etat partie à l'accord sur l'Espace économique européen publient chaque mois le nombre total de droits de
+vote et le nombre d'actions composant le capital de la société s'ils ont varié par rapport à ceux publiés antérieurement,
+dans des conditions et selon des modalités fixées par le règlement général de l'Autorité des marchés financiers. Ces sociétés
+sont réputées remplir l'obligation prévue au I." 
 
 " Art.L. 233-9.-I.-Sont assimilés aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue au
 I de l'article L. 233-7 : 
@@ -27981,17 +27968,17 @@ de l'offre afin de faire échouer cette offre.
 " Art.L. 233-13-En fonction des informations reçues en application des articles L. 233-7 et L. 233-12, le rapport présenté
 aux actionnaires sur les opérations de l'exercice mentionne l'identité des personnes physiques ou morales détenant
 directement ou indirectement plus du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, du tiers, de la
-moitié, des deux tiers ou des dix-neuf vingtièmes du capital social ou des droits de vote aux assemblées générales. Il fait
-également apparaître les modifications intervenues au cours de l'exercice. Il indique le nom des sociétés contrôlées et la
-part du capital de la société qu'elles détiennent. Il en est fait mention, le cas échéant, dans le rapport des commissaires
-aux comptes."
+moitié, des deux tiers, des dix-huit vingtièmes ou des dix-neuf vingtièmes du capital social ou des droits de vote aux
+assemblées générales. Il fait également apparaître les modifications intervenues au cours de l'exercice. Il indique le nom
+des sociétés contrôlées et la part du capital de la société qu'elles détiennent. Il en est fait mention, le cas échéant, dans
+le rapport des commissaires aux comptes." 
 
 " Art.L. 233-14-A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux I et II de l'article L. 233-7,
 les actions excédant la fraction qui aurait dû être déclarée, lorsqu'elles sont admises aux négociations sur un marché
-réglementé ou sur un marché d'instruments financiers admettant aux négociations des actions pouvant être inscrites en compte
-chez un intermédiaire habilité dans les conditions prévues à l'article L. 211-4 du code monétaire et financier, sont privées
-du droit de vote pour toute assemblée d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la
-date de régularisation de la notification. 
+réglementé d'un Etat partie à l'accord sur l'Espace économique européen ou sur un marché d'instruments financiers admettant
+aux négociations des actions pouvant être inscrites en compte chez un intermédiaire habilité dans les conditions prévues à
+l'article L. 211-4 du code monétaire et financier, sont privées du droit de vote pour toute assemblée d'actionnaires qui se
+tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la date de régularisation de la notification.
 
 Dans les mêmes conditions, les droits de vote attachés à ces actions et qui n'ont pas été régulièrement déclarés ne peuvent
 être exercés ou délégués par l'actionnaire défaillant.
@@ -27999,14 +27986,14 @@ Dans les mêmes conditions, les droits de vote attachés à ces actions et qui n
 L'actionnaire qui n'aurait pas procédé à la déclaration prévue au VII de l'article L. 233-7 est privé des droits de vote
 attachés aux titres excédant la fraction du dixième ou du cinquième mentionnée au même alinéa pour toute assemblée
 d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la date de régularisation de la
-notification. 
+notification.
 
 Le tribunal de commerce dans le ressort duquel la société a son siège social peut, le ministère public entendu, sur demande
 du président de la société, d'un actionnaire ou de l'Autorité des marchés financiers, prononcer la suspension totale ou
 partielle, pour une durée ne pouvant excéder cinq ans, de ses droits de vote à l'encontre de tout actionnaire qui n'aurait
 pas procédé aux déclarations prévues à l'article L. 233-7 ou qui n'aurait pas respecté le contenu de la déclaration prévue au
 VII de cet article pendant la période de douze mois suivant sa publication dans les conditions fixées par le règlement
-général de l'Autorité des marchés financiers. "
+général de l'Autorité des marchés financiers."
 
 **Liens relatifs à cet article**
 
@@ -28016,12 +28003,14 @@ général de l'Autorité des marchés financiers. "
 
 	**Modifié par**:
 
-	  - Loi n°2007-211 2007-02-19 art. 18 1° JORF 21 février 2007
+	  - Loi n°2007-1774 du 17 décembre 2007 - art. 10
 
 	**Cite**:
 
+	  - Code de commerce L233-7 à L233-14, L228-1, L228-3-3
 	  - Code de commerce. - art. L228-1 (M)
 	  - Code de commerce. - art. L228-3-3 (M)
+	  - Code monétaire et financier L233-14, L233-7, L233-3, L233-12
 
 	**Liens**:
 
@@ -28034,6 +28023,38 @@ général de l'Autorité des marchés financiers. "
 	  - PILOTE_SUIVEUR: Code de commerce. - art. L233-7 (V)
 	  - PILOTE_SUIVEUR: Code de commerce. - art. L233-8 (V)
 	  - PILOTE_SUIVEUR: Code de commerce. - art. L233-9 (V)
+
+
+###### Article L451-2-1
+
+L'information mentionnée au I de l'article L. 233-7 du code de commerce est également donnée lorsque la société a son siège
+statutaire hors du territoire de l'Espace économique européen et relève de la compétence de l'Autorité des marchés financiers
+pour le contrôle du respect de l'obligation prévue à l'article L. 451-1-1 du présent code. Sont alors applicables les II, IV,
+V et VII de l'article L. 233-7, ainsi que les articles L. 233-8, L. 233-9, L. 233-10, L. 233-10-1, L. 233-11 et L. 233-12 du
+code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-1774 du 17 décembre 2007 - art. 10
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2015-1576 du 3 décembre 2015 - art. 6 (V)
+	  - Code monétaire et financier - art. L744-12 (VT)
+	  - Code monétaire et financier - art. L754-12 (VT)
+	  - Code monétaire et financier - art. L764-12 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-7
+	  - Code de commerce. - art. L233-8 (V)
+	  - Code monétaire et financier - art. L451-1-1 (V)
 
 
 ##### Section 3 : Obligation d'information sur le rachat d'actions
@@ -48495,75 +48516,79 @@ publique est devenue définitive.
 
 ###### Article L621-15
 
-I. - Le collège examine le rapport d'enquête ou de contrôle établi par les services de l'Autorité des marchés financiers, ou
-la demande formulée par le gouverneur de la Banque de France, président de la Commission bancaire, ou par le président de
-l'Autorité de contrôle des assurances et des mutuelles.
+I.-Le collège examine le rapport d'enquête ou de contrôle établi par les services de l'Autorité des marchés financiers, ou la
+demande formulée par le gouverneur de la Banque de France, président de la Commission bancaire, ou par le président de
+l'Autorité de contrôle des assurances et des mutuelles. 
 
 S'il décide l'ouverture d'une procédure de sanction, il notifie les griefs aux personnes concernées. Il transmet la
 notification des griefs à la commission des sanctions, qui désigne un rapporteur parmi ses membres. La commission des
 sanctions ne peut être saisie de faits remontant à plus de trois ans s'il n'a été fait pendant ce délai aucun acte tendant à
-leur recherche, à leur constatation ou à leur sanction.
+leur recherche, à leur constatation ou à leur sanction. 
 
 En cas d'urgence, le collège peut suspendre d'activité les personnes mentionnées aux a et b du II contre lesquelles des
-procédures de sanction sont engagées.
+procédures de sanction sont engagées. 
 
 Si le collège transmet au procureur de la République le rapport mentionné au premier alinéa, le collège peut décider de
-rendre publique la transmission.
+rendre publique la transmission. 
 
-II. - La commission des sanctions peut, après une procédure contradictoire, prononcer une sanction à l'encontre des personnes
-suivantes :
+II.-La commission des sanctions peut, après une procédure contradictoire, prononcer une sanction à l'encontre des personnes
+suivantes : 
 
 a) Les personnes mentionnées aux 1° à 8° et 11° à 15° du II de l'article L. 621-9, au titre de tout manquement à leurs
 obligations professionnelles définies par les lois, règlements et règles professionnelles approuvées par l'Autorité des
-marchés financiers en vigueur, sous réserve des dispositions de l'article L. 613-21 ;
+marchés financiers en vigueur, sous réserve des dispositions de l'article L. 613-21 ; 
 
 b) Les personnes physiques placées sous l'autorité ou agissant pour le compte de l'une des personnes mentionnées aux 1° à 8°
 et 11° à 15° du II de l'article L. 621-9 au titre de tout manquement à leurs obligations professionnelles définies par les
 lois, règlements et règles professionnelles approuvées par l'Autorité des marchés financiers en vigueur, sous réserve des
-dispositions de l'article L. 613-21 ;
+dispositions de l'article L. 613-21 ; 
 
 c) Toute personne qui, sur le territoire français ou à l'étranger, s'est livrée ou a tenté de se livrer à une opération
 d'initié ou s'est livrée à une manipulation de cours, à la diffusion d'une fausse information ou à tout autre manquement
 mentionné au premier alinéa du I de l'article L. 621-14, dès lors que ces actes concernent un instrument financier émis par
 une personne ou une entité faisant appel public à l'épargne ou admis aux négociations sur un marché d'instruments financiers
 ou pour lequel une demande d'admission aux négociations sur un tel marché a été présentée, dans les conditions déterminées
-par le règlement général de l'Autorité des marchés financiers ;
+par le règlement général de l'Autorité des marchés financiers ; 
 
 d) Toute personne qui, sur le territoire français, s'est livrée ou a tenté de se livrer à une opération d'initié ou s'est
 livrée à une manipulation de cours, à la diffusion d'une fausse information ou à tout autre manquement mentionné au dernier
 alinéa du I de l'article L. 621-14, dès lors que ces actes concernent un instrument financier admis aux négociations sur un
 marché réglementé d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou
-pour lequel une demande d'admission aux négociations sur un tel marché a été présentée.
+pour lequel une demande d'admission aux négociations sur un tel marché a été présentée. 
 
-III. - Les sanctions applicables sont :
+III.-Les sanctions applicables sont : 
 
 a) Pour les personnes mentionnées aux 1° à 8°, 11°, 12° et 15° du II de l'article L. 621-9, l'avertissement, le blâme,
 l'interdiction à titre temporaire ou définitif de l'exercice de tout ou partie des services fournis ; la commission des
 sanctions peut prononcer soit à la place, soit en sus de ces sanctions une sanction pécuniaire dont le montant ne peut être
 supérieur à 1,5 million d'euros ou au décuple du montant des profits éventuellement réalisés ; les sommes sont versées au
-fonds de garantie auquel est affiliée la personne sanctionnée ou, à défaut, au Trésor public ;
+fonds de garantie auquel est affiliée la personne sanctionnée ou, à défaut, au Trésor public ; 
 
 b) Pour les personnes physiques placées sous l'autorité ou agissant pour le compte de l'une des personnes mentionnées aux 1°
-à 8°, 11°, 12° et 15° du II de l'article L. 621-9, et l'avertissement, le blâme, le retrait temporaire ou définitif de la
-carte professionnelle, l'interdiction à titre temporaire ou définitif de l'exercice de tout ou partie des activités ; la
-commission des sanctions peut prononcer soit à la place, soit en sus de ces sanctions une sanction pécuniaire dont le montant
-ne peut être supérieur à 1,5 million d'euros ou au décuple du montant des profits éventuellement réalisés en cas de pratiques
+à 8°, 11°, 12° et 15° du II de l'article L. 621-9, l'avertissement, le blâme, le retrait temporaire ou définitif de la carte
+professionnelle, l'interdiction à titre temporaire ou définitif de l'exercice de tout ou partie des activités ; la commission
+des sanctions peut prononcer soit à la place, soit en sus de ces sanctions une sanction pécuniaire dont le montant ne peut
+être supérieur à 1,5 million d'euros ou au décuple du montant des profits éventuellement réalisés en cas de pratiques
 mentionnées aux c et d du II ou à 300 000 euros ou au quintuple des profits éventuellement réalisés dans les autres cas ; les
 sommes sont versées au fonds de garantie auquel est affiliée la personne morale sous l'autorité ou pour le compte de qui agit
-la personne sanctionnée ou, à défaut, au Trésor public ;
+la personne sanctionnée ou, à défaut, au Trésor public ; 
 
 c) Pour les personnes autres que l'une des personnes mentionnées au II de l'article L. 621-9, auteurs des faits mentionnés
 aux c et d du II, une sanction pécuniaire dont le montant ne peut être supérieur à 1,5 million d'euros ou au décuple du
-montant des profits éventuellement réalisés ; les sommes sont versées au Trésor public.
+montant des profits éventuellement réalisés ; les sommes sont versées au Trésor public. 
 
 Le montant de la sanction doit être fixé en fonction de la gravité des manquements commis et en relation avec les avantages
-ou les profits éventuellement tirés de ces manquements.
+ou les profits éventuellement tirés de ces manquements. 
 
-IV. - La commission des sanctions statue par décision motivée, hors la présence du rapporteur. Aucune sanction ne peut être
-prononcée sans que la personne concernée ou son représentant ait été entendu ou, à défaut, dûment appelé.
+III bis.-Dans les conditions fixées par décret en Conseil d'Etat, la récusation d'un membre de la commission des sanctions
+est prononcée à la demande de la personne mise en cause s'il existe une raison sérieuse de mettre en doute l'impartialité de
+ce membre. 
 
-V. - La commission des sanctions peut rendre publique sa décision dans les publications, journaux ou supports qu'elle
-désigne, à moins que cette publication ne risque de perturber gravement les marchés financiers ou de causer un préjudice
+IV.-La commission des sanctions statue par décision motivée, hors la présence du rapporteur. Aucune sanction ne peut être
+prononcée sans que la personne concernée ou son représentant ait été entendu ou, à défaut, dûment appelé. 
+
+V.-La commission des sanctions peut rendre publique sa décision dans les publications, journaux ou supports qu'elle désigne,
+à moins que cette publication ne risque de perturber gravement les marchés financiers ou de causer un préjudice
 disproportionné aux parties en cause. Les frais sont supportés par les personnes sanctionnées.
 
 **Liens relatifs à cet article**
@@ -48647,13 +48672,7 @@ disproportionné aux parties en cause. Les frais sont supportés par les personn
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 5 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L613-21 (M)
-	  - Code monétaire et financier - art. L621-14 (M)
-	  - Code monétaire et financier - art. L621-9 (M)
+	  - Loi n°2007-1774 du 17 décembre 2007 - art. 11
 
 
 ###### Article L621-15-1
