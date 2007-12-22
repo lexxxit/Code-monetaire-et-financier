@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-12-19
+Version Consolidée au 2007-12-23
 
 # Partie législative
 
@@ -52417,44 +52417,6 @@ Miquelon.
 
 #### Chapitre Ier : La monnaie
 
-##### Section 1 : Les instruments de la monnaie scripturale
-
-###### Article L731-1
-
-Les articles L. 131-1 à L. 131-87, à l'exception de la seconde phrase du troisième alinéa de l'article L. 131-71, les
-articles L. 132-1 à L. 132-6, l'article L. 133-1 ainsi que les articles L. 163-1 à L. 163-12 sont applicables à Mayotte dans
-des conditions précisées par décret en Conseil d'Etat.
-
-A Mayotte, l'institut d'émission des départements d'outre-mer assure, en liaison avec la Banque de France, la centralisation
-des incidents de paiement et des informations permettant d'identifier l'ensemble des comptes détenus par les personnes
-mentionnées à l'article L. 131-72 et au deuxième alinéa de l'article L. 163-6.
-
-Pour l'application des dispositions de l'article L. 133-1, les mots : "au sein de" sont remplacés par les mots : "en
-direction ou en provenance de".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 10 (V) JORF 20 janvier 2006
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L131-71 (M)
-	  - Code monétaire et financier - art. L131-72 (M)
-	  - Code monétaire et financier - art. L133-1 (M)
-	  - Code monétaire et financier - art. L163-6 (M)
-	  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1 à L132-6, L133-1, L163-1 à L163-12, L131-72, L163-6
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 74-3
-
-
 ##### Section 2 : Les relations financières avec l'étranger
 
 ##### Sous-section 1 : Dispositions générales
@@ -54101,25 +54063,6 @@ Futuna.
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
 
-###### Article L736-4-1
-
-L'article L. 615-1 est applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L615-1 (V)
-
-
 ###### Article L736-5
 
 I. - Les articles L. 621-1 à L. 621-7-1, les I, II, III, IV, VII, VIII, IX de l'article L. 621-8, les articles L. 621-8-1, L.
@@ -54281,20 +54224,17 @@ L'article L. 641-2 s'y applique également.
 	  - Code monétaire et financier L613-12 à L613-14, L613-31-1 à L613-31-10, L613-33, L641-2
 
 
-##### Sous-section 4 : Comité consultatif du secteur financier et comité consultatif de la législation et de la réglementation financières
+### Titre III : Dispositions spécifiques à Mayotte
 
-###### Article L736-4
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier
 
-Les articles L. 614-1 à L. 614-3 sont applicables à Mayotte sous réserve de supprimer, à l'article L. 614-2, les mots : "et
-de toute proposition de règlement ou de directive communautaires avant son examen par le Conseil des Communautés
-européennes".
+###### Article L731-1
+
+A Mayotte, l'institut d'émission des départements d'outre-mer assure, en liaison avec la Banque de France, la centralisation
+des incidents de paiement et des informations permettant d'identifier l'ensemble des comptes détenus par les personnes
+mentionnées à l'article L. 131-72 et au deuxième alinéa de l'article L. 163-6.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 14 (M)
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
@@ -54302,12 +54242,128 @@ européennes".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 106 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L614-2 (M)
-	  - Code monétaire et financier L614-1 à L614-3, L614-2
+	  - Code monétaire et financier - art. L131-72
+	  - Code monétaire et financier - art. L163-6
+
+
+#### Chapitre VI : Dispositions d'adaptation du livre VI
+
+###### Article L736-4
+
+A l'article L. 632-7 : 
+
+1° Au I et au II, les mots : " non membre de la Communauté européenne et non partie à l'accord sur l'Espace économique
+européen, " sont remplacés par les mots : " autre que la France " ; 
+
+2° Au III, les mots : " d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen ou d'un pays tiers " sont remplacés par les mots : " autre que la France ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L632-7
+
+
+###### Article L736-4-1
+
+L'article L. 615-1 est applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L615-1
+
+
+###### Article L736-6
+
+A l'article L. 632-15 : 
+
+Les mots : " non parties à l'accord sur l'Espace économique européen " sont remplacés par les mots : " autre que la France. "
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°88-1201 du 23 décembre 1988 - art. 53 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L632-15
+
+
+###### Article L736-7
+
+A l'article L. 632-16 : 
+
+1° Au premier et au deuxième alinéa, les mots : "non membre de la Communauté européenne et qui n'est pas partie à l'accord
+sur l'Espace économique européen" sont remplacés par les mots : "autre que la France" ; 
+
+2° Au troisième alinéa, les mots : "de l'article L. 632-5 et du III de l'article L. 632-7" sont remplacés par les mots : "du
+III de l'article L. 632-7" ; 
+
+3° Ce même article est complété par un alinéa ainsi rédigé : 
+
+L'Autorité des marchés financiers et la Commission bancaire ne peuvent refuser de donner suite aux demandes des autorités des
+Etats étrangers relatives aux activités mentionnées au premier alinéa que lorsque la demande est de nature à porter atteinte
+à la souveraineté, à la sécurité ou à l'ordre public français ou lorsqu'une procédure pénale quelconque a déjà été engagée en
+France sur la base des mêmes faits et contre les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une
+décision passée en force de chose jugée pour les mêmes faits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L632-16
 
 
 ### Titre IV : Dispositions applicables en Nouvelle-Calédonie
