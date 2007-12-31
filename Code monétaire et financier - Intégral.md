@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-12-23
+Version Consolidée au 2008-01-01
 
 # Partie législative
 
@@ -30411,11 +30411,7 @@ Pour l'application des dispositions du présent code relatives aux établissemen
 centraux :
 
 Crédit agricole S.A., la Banque fédérale des banques populaires, la Confédération nationale du crédit mutuel, la Caisse
-nationale des caisses d'épargne et de prévoyance ainsi que la Chambre syndicale des sociétés anonymes de crédit immobilier.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+nationale des caisses d'épargne et de prévoyance.
 
 **Liens relatifs à cet article**
 
@@ -30467,7 +30463,7 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 54 () JORF 7 mai 2005
+	  - Ordonnance n°2006-1048 du 25 août 2006 - art. 7 (VD) JORF 26 août 2006 en vigueur le 1er janvier 2008
 
 
 ###### Article L511-31
@@ -35597,52 +35593,6 @@ Les modalités d'application de la présente section sont définies par décret 
 	**Nouveaux textes**:
 
 	  - Code monétaire et financier - art. L513-27 (VD)
-
-
-##### Section 5 : Les sociétés anonymes de crédit immobilier
-
-###### Article L515-34
-
-Les sociétés anonymes de crédit immobilier sont régies par les articles L. 422-4 à L. 422-4-3 du code de la construction et
-de l'habitation.
-
-**Nota:**
-
-Décret n° 2006-665 art. 61 : Spécificités d'application.  La présente version de cet article est en vigueur jusqu'au 1er
-janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier art. L513-1
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 67 () JORF 7 mai 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-1048 du 25 août 2006 - art. 7 (VD) JORF 26 août 2006 en vigueur le 1er janvier 2008
-
-	**Cité par**:
-
-	  - Loi n°2010-1249 du 22 octobre 2010 - art. 74 (V)
-	  - Code monétaire et financier - art. L515-37 (VT)
-	  - Code monétaire et financier - art. L515-38 (VT)
-	  - Code monétaire et financier - art. L745-4-2 (VT)
-	  - Code monétaire et financier - art. L755-4-2 (VT)
-	  - Code monétaire et financier - art. L765-4-2 (VT)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation L422-4 à L422-4-3
 
 
 #### Chapitre VI : Les institutions financières spécialisées
@@ -52413,1818 +52363,71 @@ Miquelon.
 	  - Code monétaire et financier - art. L613-33
 
 
-### Titre III : Dispositions applicables à mayotte
-
-#### Chapitre Ier : La monnaie
-
-##### Section 2 : Les relations financières avec l'étranger
-
-##### Sous-section 1 : Dispositions générales
-
-###### Article L731-2
-
-Les articles L. 151-1 à L. 151-4 ainsi que l'article L. 165-1 sont applicables à Mayotte. L'article L. 165-1 est modifié
-comme suit :
-
-"Art. L. 165-1. - Les articles du code des douanes applicables à Mayotte correspondant au titre II et XII du code des douanes
-sont applicables aux infractions aux obligations édictées par l'article L. 151-2."
-
-Des décrets pris sur le rapport du ministre chargé de l'outre-mer et du ministre chargé de l'économie fixent les conditions
-d'application de l'article L. 151-2 à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-1008 du 28 décembre 1966 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L151-2 (V)
-	  - Code monétaire et financier - art. L165-1 (V)
-	  - Code monétaire et financier L151-1 à L151-4, L165-1, L151-2
-
-
-##### Sous-section 2 : Obligations de déclaration
-
-###### Article L731-3
-
-A Mayotte, les personnes physiques doivent déclarer les sommes, titres ou valeurs qu'elles transfèrent en provenance ou à
-destination de l'étranger sans l'intermédiaire d'un organisme soumis soit aux dispositions du titre Ier du livre V soit à
-celles de l'article L. 518-1.
-
-Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 10 000 euros.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002
-	  - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 4 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 1 juillet 2003 - art. 1 (V)
-	  - Arrêté du 1 juillet 2003 - art. 2 (V)
-	  - Arrêté du 1 juillet 2003 - art. 6 (V)
-	  - Code monétaire et financier - art. L731-4 (VT)
-	  - Code monétaire et financier - art. L731-5 (VT)
-	  - Code monétaire et financier - art. R731-4 (Ab)
-	  - Code monétaire et financier - art. R731-6 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 96 (V) JORF 31 décembre 2006 en vigueur le 15 juin 2007
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L518-1 (M)
-
-
-##### Sous-section 3 : Constatation et poursuite des infractions
-
-###### Article L731-4
-
-I. - La méconnaissance des obligations énoncées à l'article L. 731-3 est punie d'une amende égale au quart de la somme sur
-laquelle a porté l'infraction ou la tentative d'infraction.
-
-II. - En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la
-somme sur laquelle a porté l'infraction ou la tentative d'infraction, pendant une durée de trois mois, renouvelable sur
-autorisation du procureur de la République territorialement compétent, dans la limite de six mois au total.
-
-La somme consignée est saisie et sa confiscation peut être prononcée par la juridiction compétente, si, pendant la durée de
-la consignation, il est établi que l'auteur de l'infraction mentionnée au I est ou a été en possession d'objets laissant
-penser qu'il est ou a été l'auteur d'une ou plusieurs infractions prévues et réprimées par le code des douanes applicable à
-Mayotte ou qu'il participe ou a participé à la commission de telles infractions ou s'il y a des raisons plausibles de penser
-que l'auteur de l'infraction mentionnée au I a commis une infraction ou plusieurs infractions prévues et réprimées par le
-code des douanes applicable à Mayotte ou qu'il a participé à la commission de telles infractions.
-
-La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trésor, mainlevée des mesures de consignation et
-saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'application des sanctions fiscales.
-
-III. - La recherche, la constatation et la poursuite des infractions mentionnées au I sont faites dans les conditions fixées
-par le code des douanes applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 98-525 1998-06-24 art. 4 I B
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 12 () JORF 20 janvier 2006
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L731-3 (VT)
-	  - Code monétaire et financier - art. L731-5 (V)
-
-
-###### Article L731-5
-
-Les dispositions prévues aux articles L. 731-3 et L. 731-4 ne s'appliquent pas aux relations financières entre, d'une part,
-Mayotte et, d'autre part, le territoire métropolitain, la Guadeloupe, la Guyane, la Martinique, la Réunion, Saint-Pierre-et-
-Miquelon, les îles Wallis et Futuna, la Nouvelle-Calédonie et la Polynésie française.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 98-525 1998-06-24 art. 4 I C
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 95 () JORF 7 mai 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L731-3 (M)
-	  - Code monétaire et financier - art. L731-4 (M)
-
-
-#### Chapitre II : Les produits
-
-##### Section 1 : Les instruments financiers
-
-##### Sous-section 1 : Définition et règles générales
-
-###### Article L732-1
-
-Les articles L. 211-1 à L. 211-6 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 94 (M)
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 53 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 1 (V) JORF 20 janvier 2006
-
-	**Cite**:
-
-	  - Code monétaire et financier L211-1 à L211-6
-
-
-##### Sous-section 2 : Les titres de capital et titres donnant accès au capital
-
-###### Article L732-2
-
-Les articles L. 212-1, L. 212-2, L. 212-4 à L. 212-7 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 60 (V) JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L212-1 (M)
-	  - Code monétaire et financier - art. L212-2 (M)
-	  - Code monétaire et financier L212-1, L212-2, L212-4 à L212-7
-
-
-##### Sous-section 3 : Les titres de créance
-
-##### Paragraphe 1 : Les titres de créances négociables
-
-###### Article L732-3
-
-Les articles L. 213-1 à L. 213-4 sont applicables à Mayotte, à l'exception du 5 de l'article L. 213-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°98-775 du 2 septembre 1998 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L213-3 (M)
-	  - Code monétaire et financier L213-1 à L213-4, L213-3
-
-
-##### Paragraphe 2 : Les obligations
-
-###### Article L732-4
-
-Les articles L. 213-5 et L. 213-6 ainsi que l'article L. 231-1 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 507 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L213-5 (V)
-	  - Code monétaire et financier - art. L213-6 (M)
-	  - Code monétaire et financier - art. L231-1 (M)
-
-
-###### Article L732-5
-
-L'article L. 213-7 est applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-821 du 23 septembre 1967 - art. 22 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L213-7 (V)
-
-
-##### Paragraphe 3 : Les titres participatifs
-
-###### Article L732-6
-
-A Mayotte, les sociétés par actions appartenant au secteur public peuvent émettre des titres participatifs dans les
-conditions fixées par les articles L. 228-36 et L. 228-37 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L228-36 (M)
-	  - Code de commerce. - art. L228-37 (V)
-
-
-##### Sous-section 4 : Les placements collectifs
-
-###### Article L732-7
-
-Le chapitre IV du titre Ier du livre II est applicable à Mayotte, à l'exception du 4° du I de l'article L. 214-1, du 4° du II
-de l'article L. 214-34, des articles L. 214-39 à L. 214-41-1, de la section 5, des articles L. 214-85 à L. 214-88, et sous
-réserve de l'adaptation suivante :
-
-A l'article L. 214-18, les mots : "les dispositions de l'ordonnance n° 45-2710 du 2 novembre 1945 relative aux sociétés
-d'investissement ainsi que" sont supprimés.
-
-Les articles L. 231-3 à L. 231-21 sont également applicables à Mayotte.
-
-**Nota:**
-
-NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
-suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
-portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
-placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°70-1300 du 31 décembre 1970 - art. 38 (Ab)
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 53 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L214-1
-	  - Code monétaire et financier - art. L214-18
-	  - Code monétaire et financier - art. L214-34
-	  - Code monétaire et financier L214-1, L214-34, L214-39 à L214-41-1, L214-85 à L214-88, L214-18, L231-3 à L231-21
-
-
-##### Section 2 : Les produits d'épargne
-
-###### Article L732-8
-
-Les règles relatives à l'épargne-logement sont applicables à Mayotte dans les conditions prévues à l'article L. 371-4 du code
-de la construction et de l'habitation. Les articles L. 223-1 à L. 223-4 ainsi que les articles L. 232-1 et L. 232-2 sont
-applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1968-12-05 art. 1
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-937 du 2 septembre 2004 - art. 2 () JORF 4 septembre 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L232-1
-	  - Code monétaire et financier - art. L232-2 (M)
-	  - Code de la construction et de l'habitation. - art. L371-4 (V)
-
-
-#### Chapitre III : Les services
-
-##### Section 1 : Les opérations de banque
-
-##### Sous-section 1 : Dispositions générales
-
-###### Article L733-1
-
-Les articles L. 311-1 à L. 311-3 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 99 () JORF 7 mai 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier L311-1 à L311-3
-
-
-##### Sous-section 2 : Comptes et dépôts
-
-###### Article L733-2
-
-Le chapitre II du titre Ier du livre III est applicable à Mayotte, à l'exception des deuxième et quatrième alinéas de
-l'article L. 312-3, des articles L. 312-18 et L. 312-17. L'article L. 352-1 s'y applique également.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-1010 du 28 décembre 1966 - art. 18-1 (Ab)
-	  - Loi n°84-46 1984-01-24 art. 101 I
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L312-17
-	  - Code monétaire et financier - art. L312-18 (M)
-	  - Code monétaire et financier - art. L312-3 (M)
-	  - Code monétaire et financier - art. L352-1
-
-
-##### Sous-section 3 : Crédits
-
-##### Paragraphe 1 : Dispositions générales
-
-###### Article L733-3
-
-Les articles L. 313-1 à L. 313-5-2 sont applicables à Mayotte. L'article L. 351-1 s'y applique également.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-1010 du 28 décembre 1966 - art. 18-1 (Ab)
-	  - Loi n°75-619 du 11 juillet 1975 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V) JORF 20 janvier 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L351-1
-	  - Code monétaire et financier L313-1 à L313-5-2, L351-1
-
-
-##### Paragraphe 2 : Catégories de crédits
-
-##### Sous-paragraphe 1 : Crédit-bail
-
-###### Article L733-4
-
-Les articles L. 313-7 à L. 313-11 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-455 du 2 juillet 1966 - art. 6 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier L313-7 à L313-11
-
-
-##### Sous-paragraphe 2 : Crédits aux entreprises
-
-###### Article L733-5
-
-Les articles L. 313-12, L. 313-21 et L. 313-22 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-148 du 1 mars 1984 - art. 61 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L313-12
-	  - Code monétaire et financier - art. L313-21 (M)
-	  - Code monétaire et financier - art. L313-22 (M)
-
-
-##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles
-
-###### Article L733-6
-
-Les articles L. 313-23 à L. 313-41 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°81-1 du 2 janvier 1981 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier L313-23 à L313-41
-
-
-##### Paragraphe 4 : Garantie des cautions
-
-###### Article L733-7
-
-Les articles L. 313-50 et L. 313-51 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L313-50
-	  - Code monétaire et financier - art. L313-51
-
-
-##### Section 2 : Les services d'investissement et leurs services connexes
-
-###### Article L733-8
-
-Le titre II du livre III est applicable à Mayotte. A l'article L. 322-2, la référence aux articles L. 312-17 et L. 312-18 est
-supprimée.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 100 () JORF 7 mai 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L312-17 (M)
-	  - Code monétaire et financier - art. L312-18 (M)
-	  - Code monétaire et financier - art. L322-2 (V)
-
-
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers
-
-###### Article L733-9
-
-Les articles L. 330-1 et L. 330-2 sont applicables à Mayotte sous réserve, au I de l'article L. 330-1, de supprimer au
-premier alinéa les mots : "ou internationale" et : "ou d'établissement non résident ayant un statut comparable", la seconde
-phrase du deuxième alinéa ainsi que le troisième alinéa.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V) JORF 21 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L330-1 (M)
-	  - Code monétaire et financier - art. L330-2 (M)
-
-
-##### Section 4 : Démarchage
-
-##### Sous-section 1 : Démarchage concernant les opérations de banque.
-
-###### Article L733-10
-
-I. - Les articles L. 341-1 à L. 341-17 sont applicables à Mayotte sous les réserves suivantes :
-
-a) Au 2° de l'article L. 341-2, les mots : "visés à la section 3 du chapitre I du titre V du livre IV du code de l'urbanisme"
-sont supprimés ;
-
-b) Au 1° de l'article L. 341-3, les mots : "les sociétés de capital-risque mentionnées à l'article 1er-1 de la loi n° 85-695
-du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier, en vue de la souscription des titres
-qu'elles émettent ainsi que les établissements et entreprises équivalents agréés dans un autre Etat membre de la Communauté
-européenne et habilités à intervenir sur le territoire français" sont supprimés ; le 2° de cet article est supprimé ;
-
-c) Au 4° de l'article L. 341-10, les mots : "des titres émis par les sociétés de capital-risque mentionnées à l'article 1er-1
-de la loi n° 85-695 du 11 juillet 1985 précitée et des produits proposés dans le cadre d'un dispositif relevant du titre IV
-du livre IV du code du travail" sont supprimés.
-
-II. - Les articles L. 353-1 à L. 353-4 sont également applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-1010 du 28 décembre 1966 - art. 18-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 10 (V) JORF 21 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L341-10
-	  - Code monétaire et financier - art. L341-2
-	  - Code monétaire et financier - art. L341-3
-	  - Code monétaire et financier L341-1 à L341-17, L341-2, L341-3, L341-10, L353-1 à L353-4
-
-
-##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme
-
-###### Article L733-11
-
-Le chapitre III du titre IV du livre III ainsi que l'article L. 353-6 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1885-03-28 art. 42
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L353-6 (M)
-
-
-#### Chapitre IV : Les marchés
-
-##### Section 1 : L'appel public à l'épargne
-
-##### Sous-section 1 : Définition
-
-###### Article L734-1
-
-Les articles L. 411-1 et L. 411-2 sont applicables à Mayotte et sous réserve de l'adaptation suivante :
-
-Pour l'application de l'article L. 411-2, les mots : "et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution
-de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable" sont supprimés."
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 45-2138 1945-09-19
-	  - Code monétaire et financier - art. L411-1 (V)
-	  - Code monétaire et financier - art. L411-2 (M)
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 14 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
-
-
-##### Sous-section 2 : Conditions de l'appel public à l'épargne
-
-###### Article L734-2
-
-Les articles L. 412-1, et L. 412-2 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°81-1 du 2 janvier 1981 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L412-1 (M)
-	  - Code monétaire et financier - art. L412-2 (M)
-
-
-##### Section 2 : Les catégories de marché
-
-###### Article L734-3
-
-Le chapitre Ier du titre II du livre IV est applicable à Mayotte.
-
-Les articles L. 462-1 et L. 462-2 y sont également applicables.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L462-1 (M)
-	  - Code monétaire et financier - art. L462-2 (V)
-
-
-###### Article L734-4
-
-L'article L. 423-1 est applicable à Mayotte.
-
-**Nota:**
-
-NOTA : La présente version de cet article devait être abrogée au 1er mai 2008 conformément à l'ordonnance n° 2007-1490 du 18
-octobre 2007, art. 8. L'article a été réécrit par l'ordonnance n° 2007-1801 du 21 décembre 2007, art. 3, dont les
-dispositions sont entrées en vigueur le 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-531 1989-08-02 art. 42
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L423-1 (M)
-
-
-##### Section 3 : Les négociations sur instruments financiers
-
-##### Sous-section 1 : Dispositions générales
-
-##### Paragraphe 1 : Transfert de propriété et mise en gage
-
-###### Article L734-5
-
-Les articles L. 431-1 et L. 431-2 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L431-1 (M)
-	  - Code monétaire et financier - art. L431-2 (M)
-
-
-###### Article L734-6
-
-Les articles L. 431-3 à L. 431-5 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 101 () JORF 7 mai 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier L431-3 à L431-5
-
-
-##### Paragraphe 2 : Compensation et cession de créances
-
-###### Article L734-7
-
-Les articles L. 431-7 à L. 431-7-5 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier L431-7 à L431-7-5
-
-
-##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers
-
-##### Paragraphe 1 : Adjudication
-
-###### Article L734-8
-
-L'article L. 432-5 est applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°42-290 du 14 février 1942 - art. 25 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L432-5 (V)
-
-
-##### Paragraphe 1 bis : Cessions temporaires
-
-###### Article L734-8-1
-
-I. - Les articles L. 432-6, L. 432-7, L. 432-9, L. 432-10, L. 432-12 à L. 432-15, ainsi que les articles L. 432-17 à L.
-432-19, sont applicables à Mayotte. Les dispositions fiscales des articles L. 432-6, L. 432-7 et L. 432-13 sont remplacées
-par des dispositions du code général des impôts applicable localement, ayant le même objet.
-
-II. - Les dispositions des articles L. 432-6, L. 432-7, L. 432-9 et L. 432-10 s'appliquent sous les mêmes conditions aux
-remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de l'article L. 431-7-3
-effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré aux remises de titres prévues
-au 3° de l'article L. 432-6 ainsi qu'aux remises prévues à l'article L. 330-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 2 (V) JORF 20 janvier 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L330-2 (M)
-	  - Code monétaire et financier - art. L431-7-3
-	  - Code monétaire et financier - art. L432-10
-	  - Code monétaire et financier - art. L432-13
-	  - Code monétaire et financier - art. L432-6
-	  - Code monétaire et financier - art. L432-7 (V)
-	  - Code monétaire et financier - art. L432-9 (V)
-	  - Code monétaire et financier L432-6, L432-7, L432-9, L432-10, L432-12 à L432-15, L432-17 à L432-19, L432-13, L431-7-3, L330-2
-
-	**Anciens textes**:
-
-	  - Loi n°290 1942-02-14 art. 25
-
-
-##### Paragraphe 2 : Les opérations à terme
-
-###### Article L734-9
-
-L'article L. 432-20 est applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 103 () JORF 7 mai 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L432-20
-
-
-##### Sous-section 3 : Opérations spécifiques aux marchés réglementés
-
-###### Article L734-10
-
-Le chapitre III du titre III du livre IV est applicable à Mayotte et sous réserve de l'adaptation suivante : 
-
-Pour l'application du IV de l'article L 433-3, après les mots "marché réglementé", les mots : "d'un Etat partie à l'accord
-sur l'Espace économique européen" sont remplacés par le mot "français".
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L433-3
-
-
-##### Section 4 : Les entreprises de marché et les chambres de compensation
-
-###### Article L734-11
-
-Le titre IV du livre IV est applicable à Mayotte.
-
-Les articles L. 464-1, et L. 464-2 s'y appliquent également.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
-
-	**Modifié par**:
-
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 27 (V) JORF 12 décembre 2001
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L464-1 (M)
-	  - Code monétaire et financier - art. L464-2 (M)
-
-
-##### Section 5 : La protection des investisseurs
-
-##### Sous-section 1 : Obligations d'information relatives aux comptes
-
-###### Article L734-12
-
-I. - Les articles L. 451-1-1, L. 451-1-2, L. 451-1-4, L. 451-3, L. 465-1 et L. 465-2 sont applicables à Mayotte sous réserve
-des adaptations prévues au II.
-
-II. - 1° Pour l'application de l'article L. 451-1-1 :
-
-a) Les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont remplacés par le mot : "français" ;
-
-b) Les mots : "dans l'Espace économique européen ou un pays tiers" sont remplacés par les mots : "à l'étranger" ;
-
-2° Pour l'application de l'article L. 451-1-2 :
-
-a) Au I, aux 1° et 3° du II, au III et au IV, les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont
-remplacés par le mot français" ;
-
-b) Au 3° du II, les mots : "de l'Espace économique européen" sont remplacés par les mots : "de France".
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 14 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L451-1-1 (V)
-	  - Code monétaire et financier - art. L451-1-2 (V)
-	  - Code monétaire et financier - art. L451-1-4 (V)
-	  - Code monétaire et financier - art. L451-3 (V)
-	  - Code monétaire et financier - art. L465-1 (M)
-	  - Code monétaire et financier - art. L465-2 (M)
-
-
-##### Sous-section 2 : Obligations d'information sur les prises de participation
-
-###### Article L734-13
-
-Les articles L. 465-4 et L. 466-1 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L930-1 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L465-4
-	  - Code monétaire et financier - art. L466-1 (M)
-
-
-#### Chapitre V : Les prestataires de services
-
-###### Article L735-1
-
-L'article L. 500-1 ainsi que les articles L. 570-1 et L. 570-2 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 104 () JORF 7 mai 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L500-1 (V)
-	  - Code monétaire et financier - art. L570-1 (V)
-	  - Code monétaire et financier - art. L570-2 (V)
-
-
-##### Section 1 : Les établissements du secteur bancaire
-
-###### Article L735-1-1
-
-Le chapitre Ier du titre Ier du livre V est applicable à Mayotte, à l'exception des articles L. 511-12, L. 511-21 à L. 511-28
-et L. 511-34.
-
-Les articles L. 571-1 à L. 571-9 y sont également applicables. Au dernier alinéa de l'article L. 511-12-1, les mots : "ou
-celle rendue par la Commission européenne en application du règlement (CEE) n° 4064/89 du Conseil du 21 décembre 1989 relatif
-au contrôle des opérations de concentration entre entreprises" sont supprimés.
-
-A l'article L. 511-36, les mots : "règlement de la Commission européenne" sont remplacés par les mots : "arrêté du ministre
-chargé de l'économie".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 3 (V) JORF 29 juillet 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L511-12 (M)
-	  - Code monétaire et financier - art. L511-12-1
-	  - Code monétaire et financier - art. L511-34
-	  - Code monétaire et financier - art. L511-36 (M)
-	  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9, L511-12-1, L511-36
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier art. L735-1
-
-
-##### Sous-section 1 : Les sociétés financières
-
-##### Paragraphe 1 : Dispositions communes
-
-###### Article L735-2
-
-L'article L. 515-1 est applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L515-1 (M)
-
-
-##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier
-
-###### Article L735-3
-
-Les articles L. 515-2 et L. 515-3 ainsi que l'article L. 571-13 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-455 du 2 juillet 1966 - art. 6 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L515-2 (V)
-	  - Code monétaire et financier - art. L515-3 (V)
-	  - Code monétaire et financier - art. L571-13 (V)
-
-
-##### Paragraphe 3 : Les sociétés de caution mutuelle
-
-###### Article L735-4
-
-Les articles L. 515-4 à L. 515-12 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier L515-4 à L515-12
-
-
-##### Sous-section 2 : Les institutions financières spécialisées
-
-###### Article L735-5
-
-Les articles L. 516-1 et L. 516-2 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L516-1
-	  - Code monétaire et financier - art. L516-2 (M)
-
-
-##### Sous-section 3 : Les compagnies financières
-
-###### Article L735-6
-
-Les articles L. 517-1 et L. 571-14 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L517-1 (M)
-	  - Code monétaire et financier - art. L571-14 (M)
-
-
-##### Sous-section 4 : Les intermédiaires en opérations de banque
-
-###### Article L735-7
-
-Les articles L. 519-1 à L. 519-5 ainsi que les articles L. 571-15 et L. 571-16 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L571-15 (M)
-	  - Code monétaire et financier - art. L571-16 (M)
-	  - Code monétaire et financier L519-1 à L519-5, L571-15, L571-16
-
-
-##### Section 2 : Les changeurs manuels
-
-###### Article L735-8
-
-Les articles L. 520-1 à L. 520-4 sont applicables à Mayotte.
-
-Les articles L. 572-1 à L. 572-4 s'y appliquent également.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 27
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier L520-1 à L520-4, L572-1 à L572-4
-
-
-##### Section 3 : Les prestataires de services d'investissement
-
-##### Sous-section 1 : Définitions
-
-###### Article L735-9
-
-Le chapitre Ier du titre 3 du livre V est applicable à Mayotte à l'exception de l'article L. 531-3 et sous réserve des
-adaptations suivantes :
-
-- à l'article L. 531-2, les mots "mais sans pouvoir prétendre au bénéfice des dispositions des articles L. 422-1, L. 532-16 à
-L. 532-27 et des deuxième et troisième alinéas de l'article L. 612-2" sont supprimés.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 10 (V) JORF 21 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L531-2 (M)
-	  - Code monétaire et financier - art. L531-3
-
-
-##### Sous-section 2 : Les conditions d'accès à la profession
-
-###### Article L735-10
-
-Le chapitre II du titre III du livre V à l'exception des articles L. 532-16 à L. 532-27 est applicable à Mayotte. A l'article
-L. 532-5, les mots : " et bénéficient des dispositions des articles L. 422-1 et L. 532-23 à L. 532-26 " sont supprimés.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L422-1
-	  - Code monétaire et financier - art. L532-5 (M)
-	  - Code monétaire et financier L532-16 à L532-27, L532-5, L422-1, L532-23 à L532-26
-
-
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement
-
-###### Article L735-11
-
-Le chapitre III du titre III du livre V est applicable à Mayotte.
-
-Les articles L. 563-1 à L. 563-6 et L. 573-1 à L. 573-7 s'y appliquent également.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier L563-1 à L563-6, L573-1 à L573-7
-
-
-##### Section 4 : Autres prestataires de services
-
-###### Article L735-11-1
-
-Les articles L. 541-1 à L. 541-7 ainsi que les articles L. 573-9 à L. 573-11 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier L541-1 à L541-7, L573-9 à L573-11
-
-
-###### Article L735-11-2
-
-L'article L. 542-1 est applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L542-1
-
-
-###### Article L735-11-2-1
-
-L'article L. 543-1 est applicable à Mayotte, sous réserve de supprimer la mention : "les sociétés de gestion des sociétés
-d'épargne forestière".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 105 () JORF 7 mai 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L543-1 (Ab)
-
-
-###### Article L735-11-3
-
-Les articles L. 544-1 à L. 544-4 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier L544-1 à L544-4
-
-
-##### Section 5 : Les intermédiaires en biens divers
-
-###### Article L735-12
-
-Le titre V du livre V est applicable à Mayotte.
-
-L'article L. 573-8 s'y applique également.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V) JORF 21 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L573-8
-
-
-##### Section 6 : Obligations relatives à la lutte contre le blanchiment de capitaux
-
-###### Article L735-13
-
-Le titre VI du livre V à l'exception des dispositions fiscales de l'article L. 563-2 est applicable à Mayotte ainsi que les
-articles L. 574-1 à L. 574-3.
-
-Les références aux articles 415 et 453 à 459 ainsi qu'aux titres II et XII du code des douanes sont remplacées par la
-référence aux dispositions du code des douanes applicable à Mayotte ayant le même objet.
-
-Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
-rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
-objet.
-
-Lorsqu'en application de l'article 16 de la loi n° 71-1130 du 31 décembre 1971, le nombre d'avocats inscrits au barreau n'a
-pas permis l'élection d'un conseil de l'ordre, l'avocat effectue directement la déclaration prévue à l'article L. 562-2
-auprès du service institué à l'article L. 562-43.
-
-Les conditions d'application du titre IV du livre V pour les personnes mentionnées aux 3, 3 bis et 4 de l'article L. 562-1
-sont régies par les articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et adaptation du
-droit économique et financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie françaises et dans les îles Wallis et
-Futuna.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°71-1130 du 31 décembre 1971 - art. 16
-	  - Ordonnance 2006-60 2006-01-19 art. 7, art. 8
-	  - Code monétaire et financier - art. L562-1
-	  - Code monétaire et financier - art. L562-2
-	  - Code monétaire et financier - art. L563-2
-	  - Code monétaire et financier - art. L574-1
-	  - Code monétaire et financier - art. L574-3
-	  - Code monétaire et financier L563-2, L574-1, L574-3, 415, 453 à 459, L562-1, L562-2, L562-43
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 27
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V) JORF 24 janvier 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-
-#### Chapitre VI : Les institutions en matière bancaire et financière
-
-###### Article L736-5
-
-I. - Les articles L. 621-1 à L. 621-7-1, les I, II, III, IV, VII, VIII, IX de l'article L. 621-8, les articles L. 621-8-1, L.
-621-8-2, L. 621-9 à L. 621-20-1, l'article L. 621-21, à l'exception du deuxième alinéa, les articles L. 621-22 à L. 621-35
-ainsi que les articles L. 642-1 et L. 642-3 sont applicables à Mayotte sous réserve des adaptations prévues au II.
-
-II. - 1° Pour l'application du I de l'article L. 621-8 :
-
-a) Au I, les mots : "ou tout document équivalent requis par la législation d'un autre Etat partie à l'accord sur l'Espace
-économique européen" sont supprimés ;
-
-b) Le III est ainsi rédigé :
-
-III. - Le projet de document mentionné au I est également soumis au visa préalable de l'Autorité des marchés financiers dans
-les cas fixés par son règlement général pour toute opération réalisée sur le territoire français lorsque l'émetteur des
-titres qui font l'objet de l'opération a son siège statutaire hors du territoire de l'Espace économique européen et que
-l'opération porte sur des instruments financiers dont la première émission ou cession dans le public ou la première admission
-sur un marché réglementé a eu lieu en France ;
-
-2° Pour l'application de l'article L. 621-32, les mots :
-
-"conformément à la directive 2003/125/CE de la Commission du 22 décembre 2003 portant modalités d'application de la directive
-2003/6/CE du Parlement européen et du Conseil en ce qui concerne la présentation équitable des recommandations
-d'investissement et la mention des conflits d'intérêts" sont supprimés.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 2 (V) JORF 29 juillet 2006
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L621-21 (M)
-	  - Code monétaire et financier - art. L621-32 (V)
-	  - Code monétaire et financier - art. L621-8 (M)
-	  - Code monétaire et financier - art. L621-8-1 (V)
-	  - Code monétaire et financier - art. L621-8-2 (V)
-	  - Code monétaire et financier - art. L642-1 (M)
-	  - Code monétaire et financier - art. L642-3 (M)
-	  - Code monétaire et financier L621-1 à L621-7-1, L621-8, L621-8-1, L621-8-2, L621-9 à L621-20-1, L621-21, L621-22 à L621-35, L642-1, L642-3, L621-32
-	  - Directive 2003-125 CE 2003-12-22
-
-
-###### Article L736-8
-
-Les articles L. 631-1, L. 631-2 et L. 632-1 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L631-1 (M)
-	  - Code monétaire et financier - art. L631-2 (M)
-	  - Code monétaire et financier - art. L632-1 (M)
-
-
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement
-
-##### Sous-section 1 : Réglementation
-
-###### Article L736-1
-
-Le chapitre Ier du titre Ier du livre VI est applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V) JORF 21 août 2004
-
-
-##### Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement
-
-###### Article L736-2
-
-L'article L. 612-1, le premier alinéa de l'article L. 612-2, les articles L. 612-3 à L. 612-6 à l'exclusion de la dernière
-phrase du troisième alinéa de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables à Mayotte.
-
-L'article L. 641-1 s'y applique également.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 106 () JORF 7 mai 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L612-1 (V)
-	  - Code monétaire et financier - art. L612-2 (M)
-	  - Code monétaire et financier - art. L612-7 (V)
-	  - Code monétaire et financier - art. L641-1 (V)
-	  - Code monétaire et financier L612-1, L612-2, L612-3 à L612-6, L612-7, L641-1
-
-
-##### Sous-section 3 : La commission bancaire
-
-###### Article L736-3
-
-Le chapitre III du titre Ier du livre VI est applicable à Mayotte à l'exception des articles L. 613-12 à L. 613-14, L.
-613-31-1 à L. 613-31-10 et L. 613-33.
-
-L'article L. 641-2 s'y applique également.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
-	  - Loi n°96-597 1996-07-02 art. 107 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance 2004-1127 2004-10-21 art. 2 2° JORF 22 octobre 2004
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L613-33 (M)
-	  - Code monétaire et financier - art. L641-2 (V)
-	  - Code monétaire et financier L613-12 à L613-14, L613-31-1 à L613-31-10, L613-33, L641-2
-
-
 ### Titre III : Dispositions spécifiques à Mayotte
+
+###### Article L730-1
+
+Les références faites par des dispositions du présent code à d'autres articles du même code ne concernent que les articles
+applicables à Mayotte, le cas échéant, avec les adaptations prévues dans le présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - 2000-1223
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+
+###### Article L730-2
+
+En l'absence d'adaptation, les références faites par des dispositions du présent code applicables à Mayotte, à des
+dispositions qui n'y sont pas applicables, notamment à des dispositions du code du travail et du code général des impôts,
+sont remplacées par les références aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - 2000-1223
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L734-3 (VT)
+
+
+###### Article L730-3
+
+Les dispositions du présent code faisant référence à la Communauté européenne ne sont applicables à Mayotte que dans les
+limites de la décision d'association prévue à l'article 136 du traité instituant la Communauté européenne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - 2000-1223
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
 
 #### Chapitre Ier : Dispositions d'adaptation du livre Ier
 
@@ -54254,7 +52457,844 @@ mentionnées à l'article L. 131-72 et au deuxième alinéa de l'article L. 163-
 	  - Code monétaire et financier - art. L163-6
 
 
+###### Article L731-2
+
+Pour l'application de l'article L. 133-1, dans le premier alinéa, les mots : " au sein de... sont remplacés par les mots : "
+en direction ou en provenance de... ".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-1008 du 28 décembre 1966 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-11 du 7 janvier 2010 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L133-1
+
+
+###### Article L731-3
+
+Les articles L. 152-1 à L. 152-4 sont remplacés par les dispositions du présent article et des articles L. 731-4 à L. 731-5. 
+
+A Mayotte, les personnes physiques doivent déclarer les sommes, titres ou valeurs qu'elles transfèrent en provenance ou à
+destination de l'étranger sans l'intermédiaire d'un organisme soumis aux dispositions du titre Ier du livre V. 
+
+Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 10 000 euros. 
+
+Les modalités d'application du précédent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002
+	  - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 4 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 1 juillet 2003 - art. 1 (V)
+	  - Arrêté du 1 juillet 2003 - art. 2 (V)
+	  - Arrêté du 1 juillet 2003 - art. 6 (V)
+	  - Code monétaire et financier - art. L731-4 (VT)
+	  - Code monétaire et financier - art. L731-5 (VT)
+	  - Code monétaire et financier - art. R731-4 (Ab)
+	  - Code monétaire et financier - art. R731-6 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L152-1 (V)
+
+
+###### Article L731-4
+
+I.-La méconnaissance des obligations énoncées à l'article L. 731-3 est punie d'une amende égale au quart de la somme sur
+laquelle a porté l'infraction ou la tentative d'infraction. 
+
+II.-En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la
+somme sur laquelle a porté l'infraction ou la tentative d'infraction, pendant une durée de trois mois, renouvelable sur
+autorisation du procureur de la République territorialement compétent, dans la limite de six mois au total. 
+
+La somme consignée est saisie et sa confiscation peut être prononcée par la juridiction compétente si, pendant la durée de la
+consignation, il est établi que l'auteur de l'infraction mentionnée au I est ou a été en possession d'objets laissant penser
+qu'il est ou a été l'auteur d'une ou plusieurs infractions prévues et réprimées par le code des douanes applicable à Mayotte
+ou qu'il participe ou a participé à la commission de telles infractions ou s'il y a des raisons plausibles de penser que
+l'auteur de l'infraction mentionnée au I a commis une infraction ou plusieurs infractions prévues et réprimées par le code
+des douanes applicable à Mayotte ou qu'il a participé à la commission de telles infractions. 
+
+La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trésor, mainlevée des mesures de consignation et
+saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'application des sanctions fiscales. 
+
+III.-La recherche, la constatation et la poursuite des infractions mentionnées au I sont faites dans les conditions fixées
+par le code des douanes applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L731-3 (VT)
+	  - Code monétaire et financier - art. L731-5 (V)
+
+
+###### Article L731-5
+
+Les dispositions prévues aux articles L. 731-3 et L. 731-4 ne s'appliquent pas aux relations financières entre, d'une part,
+Mayotte et, d'autre part, le territoire métropolitain, la Guadeloupe, la Guyane, la Martinique, la Réunion, Saint-Barthélemy,
+Saint-Martin, Saint-Pierre-et-Miquelon, les îles Wallis et Futuna, la Nouvelle-Calédonie et la Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - 2000-1223
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+
+###### Article L731-6
+
+A l'article L. 165-1 : 1° Les mots : " l'article 459 du code des douanes " sont remplacés par les mots : " l'article 321 du
+code des douanes applicable à Mayotte " ; 
+
+2° Les mots : " l'article 451 du code des douanes " sont remplacés par les mots : " l'article 314 du code des douanes
+applicable à Mayotte ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - 2000-1223
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code des douanes de Mayotte - art. 314 (V)
+	  - Code des douanes de Mayotte - art. 321 (V)
+	  - Code monétaire et financier - art. L165-1
+
+
+#### Chapitre II : Dispositions d'adaptation du livre II
+
+###### Article L732-1
+
+Le 4 du II de l'article L. 214-34 n'est pas applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 94 (M)
+	  - Loi n°88-1201 du 23 décembre 1988 - art. 53 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-34
+
+
+###### Article L732-2
+
+Pour l'application de l'article L. 214-41, le a du I est ainsi rédigé : 
+
+a) Avoir réalisé, au cours des trois exercices précédents, des dépenses cumulées de recherche d'un montant au moins égal au
+tiers du chiffre d'affaires le plus élevé réalisé au cours de ces trois exercices. Les dépenses prises en compte sont les
+suivantes :
+
+- dotations aux amortissements des immobilisations, créées ou acquises à l'état neuf et affectées directement à la
+réalisation d'opérations de recherche scientifique et technique, y compris la réalisation de prototypes ou d'installations
+pilotes ;
+
+- dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectés à ces
+opérations ;
+
+- autres dépenses de fonctionnement exposées dans les mêmes opérations ;
+
+- dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche publics ou à des
+universités ;
+
+- dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche privés agréés par
+le ministre chargé de la recherche, ou à des experts scientifiques ou techniques agréés dans les mêmes conditions ;
+
+- frais de prise et de maintenance de brevets et de certificats d'obtention végétale ;
+
+- frais de défense de brevets et de certificats d'obtention végétale ;
+
+- dotations aux amortissements des brevets et des certificats d'obtention végétale acquis en vue de réaliser des opérations
+de recherche et de développement expérimental.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-41
+
+
+###### Article L732-3
+
+Au II de l'article L. 214-48, les mots : "une succursale établie en France d'un établissement de crédit ayant son siège
+social dans un Etat partie à l'accord sur l'Espace économique européen" sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-48
+
+
+###### Article L732-4
+
+Le premier alinéa de l'article L. 221-30 est ainsi rédigé : 
+
+Les personnes ayant leur résidence fiscale à Mayotte peuvent ouvrir un plan d'épargne en actions auprès d'un établissement de
+crédit, de La Poste, d'une entreprise d'investissement ou d'une entreprise d'assurance relevant du code des assurances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-537 du 24 juillet 1966 - art. 507 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-30
+
+
+###### Article L732-5
+
+L'article L. 221-31 est applicable dans les conditions suivantes : 
+
+1° Le c du 2° du I est ainsi rédigé : 
+
+c) De parts ou actions d'organismes de placement collectif en valeurs mobilières établis en France ; 
+
+2° Le 4° du I est ainsi rédigé : 
+
+4° Les émetteurs de titres mentionnés au 1° doivent avoir leur siège social en France ; 
+
+3° Le 1° du II est ainsi rédigé : 
+
+1° Les parts de fonds communs de placement, constitués en application d'une législation sur la participation des salariés aux
+résultats des entreprises, ne peuvent figurer dans le plan d'épargne en actions. 
+
+Les sommes versées sur un plan d'épargne en actions ne peuvent être employées à l'acquisition de titres offerts à un prix
+inférieur à 95 % de la moyenne des cours ou du cours moyen d'achat respectivement mentionnés aux articles L. 225-177 et L.
+225-179 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance n°67-821 du 23 septembre 1967 - art. 22 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-177
+	  - Code monétaire et financier - art. L221-31
+
+
+###### Article L732-6
+
+Pour son application à Mayotte, l'article L. 221-29 est ainsi rédigé : 
+
+Art.L. 221-29.-Les règles relatives à l'épargne-logement sont applicables à Mayotte dans les conditions prévues à l'article
+L. 371-4 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-29
+
+
+#### Chapitre IV : Dispositions d'adaptation du livre IV
+
+###### Article L734-1
+
+Ne sont pas applicables à Mayotte les dispositions ci-après : 
+
+1° Dans le titre II, l'article L. 421-13, le deuxième alinéa du II de l'article L. 421-14, le huitième alinéa de l'article L.
+421-17, l'article L. 421-20, le chapitre II relatif aux marchés réglementés européens et la section 6 du chapitre IV relative
+aux systèmes multilatéraux européens ; 
+
+2° Dans le titre III, le II de l'article L. 433-1 ; 
+
+3° Dans le titre V, l'article L. 451-1-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L421-13
+	  - Code monétaire et financier - art. L421-14
+	  - Code monétaire et financier - art. L421-17
+	  - Code monétaire et financier - art. L421-20
+	  - Code monétaire et financier - art. L433-1
+	  - Code monétaire et financier - art. L451-1-5
+
+
+###### Article L734-2
+
+A l'article L. 421-2, les mots : "sur le territoire de la France métropolitaine ou des départements d'outre-mer" sont
+remplacés par les mots : "en France".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°81-1 du 2 janvier 1981 - art. 15 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L421-2
+
+
+###### Article L734-3
+
+Les dispositions des articles L. 432-6, L. 432-7, L. 432-9 et L. 432-10 s'appliquent, dans les conditions mentionnées à
+l'article L. 730-2, aux remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de
+l'article L. 431-7-3 effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré, aux
+remises de titres prévues au 3° de l'article L. 432-6 ainsi qu'aux remises prévues à l'article L. 330-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L330-2
+	  - Code monétaire et financier - art. L431-7-3
+	  - Code monétaire et financier - art. L432-6
+
+
+###### Article L734-4
+
+A l'article L. 433-3 :
+
+1° Au premier et au dernier alinéas du I et au II, après les mots : " sur un marché réglementé ", les mots : " d'un Etat
+membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen " sont remplacés par
+le mot : " français " ; 
+
+2° Au IV, après les mots : " marché réglementé ", les mots : " d'un Etat partie à l'accord sur l'Espace économique européen "
+sont remplacés par le mot : " français ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L433-3
+	  - Code monétaire et financier - art. L433-4 (VT)
+
+
+###### Article L734-5
+
+Au I de l'article L. 433-4, après les mots : "marché réglementé", les mots : "d'un Etat membre de la Communauté européenne ou
+d'un autre Etat partie à l'accord sur l'Espace économique européen" partout où ils se trouvent, sont remplacés par le mot :
+"français".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 153
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L433-4
+
+
+###### Article L734-6
+
+A l'article L. 440-2 : 
+
+1° Aux 1° et 2°, les mots : " dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur
+l'Espace économique européen " sont remplacés par les mots : " en France " ; 
+
+2° Au 4°, les mots : " métropolitaine ou dans les départements d'outre-mer " sont supprimés ; 
+
+3° Au 5°, les mots : " qui n'est ni membre de la Communauté européenne ni partie à l'accord sur l'Espace économique européen
+" sont remplacés par les mots : " autre que la France " et les mots : " sur le territoire de la France métropolitaine ou des
+départements d'outre-mer " sont remplacés par les mots : " en France " ; 
+
+4° Au septième alinéa, les mots : " métropolitaine ou dans les départements d'outre-mer " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L440-2
+
+
+###### Article L734-7
+
+A l'article L. 451-1-1, les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont remplacés par le mot :
+"français" et les mots : "dans l'Espace économique européen ou un pays tiers" sont remplacés par les mots : "à l'étranger".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 24
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L451-1-1
+
+
+###### Article L734-8
+
+Au I, au 1° du II, aux III et IV de l'article L. 451-1-2, les mots : "d'un Etat partie à l'accord sur l'Espace économique
+européen" sont remplacés par le mot : "français".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°42-290 du 14 février 1942 - art. 25 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L451-1-2
+
+
+#### Chapitre V : Dispositions d'adaptation du livre V
+
+###### Article L735-1
+
+Ne sont pas applicables à Mayotte les dispositions ci-après : 
+
+1° Dans le titre Ier, la sous-section 2 de la section 3 du chapitre Ier relative au libre établissement et à la libre
+prestation de services des établissements de crédit sur le territoire des Etats parties à l'accord sur l'Espace économique
+européen ; 
+
+2° Dans le titre III, la section 2 du chapitre II relative à la libre prestation de services des prestataires de services
+d'investissement sur le territoire des Etats parties à l'accord sur l'Espace économique européen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. L735-1 (T)
+
+
+###### Article L735-2
+
+A l'article L. 545-5, les mots : "en France métropolitaine ou dans les départements d'outre-mer" sont remplacés par les
+mots : "en France".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L545-5
+
+
+###### Article L735-3
+
+Le titre VI est applicable dans les conditions suivantes : 
+
+1° Les conditions d'application de ce titre aux personnes mentionnées aux 3, 3 bis et 4 de l'article L. 562-1 sont régies par
+les articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et adaptation du droit économique et
+financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ; 
+
+2° Lorsqu'en application de l'article 16 de la loi n° 71-1130 du 31 décembre 1971, le nombre d'avocats inscrits au barreau,
+n'a pas permis l'élection d'un conseil de l'ordre, la déclaration prévue à l'article L. 562-2 est adressée directement au
+service institué à l'article L. 562-4 ; 
+
+3° Aux articles L. 562-4, L. 562-8 et L. 566-2, les mots : " 415 du code des douanes " sont remplacés par les mots : "283 du
+code des douanes applicables à Mayotte" ; 
+
+4° A l'article L. 563-2, le premier alinéa est rédigé comme suit : 
+
+Les dispositions de l'article L. 563-1 s'appliquent :
+
+- aux bons du Trésor sur formule, aux bons d'épargne de La Poste, aux bons de la Caisse nationale du crédit agricole, aux
+bons de caisse du Crédit mutuel, aux bons à cinq ans du Crédit foncier de France, aux bons émis par les groupements régionaux
+et de prévoyance, aux bons de la Caisse nationale de l'énergie, aux bons de caisse des établissements de crédit ;
+
+- aux bons et contrats de capitalisation et aux placements de même nature souscrits auprès d'entreprises d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L562-4
+	  - Code monétaire et financier - art. L562-8
+	  - Code monétaire et financier - art. L563-1
+	  - Code monétaire et financier - art. L563-2
+	  - Code monétaire et financier - art. L566-2
+
+
+###### Article L735-4
+
+Le titre V est applicable dans les conditions suivantes : 
+
+1° A l'article L. 574-1, les mots : " 415 du code des douanes " sont remplacés par les mots : " 283 du code des douanes
+applicables à Mayotte " ; 
+
+2° A l'article L. 574-3, les mots : " titres II et XII du code des douanes " sont remplacés par les mots : " titres II et XI
+du code des douanes applicable à Mayotte " et les mots : " articles 453 à 459 du code des douanes " sont remplacés par les
+mots : " articles 315 à 321 du code des douanes applicable à Mayotte ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code des douanes de Mayotte - art. 283 (V)
+	  - Code des douanes de Mayotte - art. 315 (V)
+	  - Code monétaire et financier - art. L574-1
+	  - Code monétaire et financier - art. L574-3
+
+
 #### Chapitre VI : Dispositions d'adaptation du livre VI
+
+###### Article L736-1
+
+Ne sont pas applicables à Mayotte les dispositions ci-après : 
+
+1° Dans le titre Ier, l'article L. 613-20-4 et la sous-section 2 de la section 6 du chapitre III relative aux mesures
+d'assainissement et de liquidation des établissements de crédit communautaires ; 
+
+2° Dans le titre II, l'article L. 621-8-3 ; 
+
+3° Dans le titre III, les articles L. 632-1, L. 632-2, L. 632-5, L. 632-6, L. 632-8 à L. 632-12, L. 633-2 à L. 633-6, L.
+633-8 à L. 633-10 et le IV du L. 633-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-20-4
+	  - Code monétaire et financier - art. L621-8-3
+	  - Code monétaire et financier - art. L632-1
+	  - Code monétaire et financier - art. L633-2
+
+
+###### Article L736-2
+
+A l'article L. 621-8 : 
+
+1° Au I, les mots : " ou tout document équivalent requis par la législation d'un autre Etat partie à l'accord sur l'Espace
+économique européen " sont supprimés ; 
+
+2° Le III est ainsi rédigé : 
+
+III.-Le projet de document mentionné au I est également soumis au visa préalable de l'Autorité des marchés financiers dans
+les cas fixés par son règlement général pour toute opération réalisée sur le territoire français lorsque l'émetteur des
+titres qui font l'objet de l'opération a son siège statutaire hors du territoire de l'Espace économique européen et que
+l'opération porte sur des instruments financiers dont la première émission ou cession dans le public ou la première admission
+sur un marché réglementé a eu lieu en France ; 
+
+3° Le V et le VI sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-8
+
+
+###### Article L736-3
+
+A l'article L. 621-32, les mots : " conformément à la directive 2003 / 125 / CE de la Commission du 22 décembre 2003 portant
+modalités d'application de la directive 2003 / 6 / CE du Parlement européen et du Conseil en ce qui concerne la présentation
+équitable des recommandations d'investissement et la mention des conflits d'intérêts " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-32
+
 
 ###### Article L736-4
 
@@ -54285,9 +53325,10 @@ européen, " sont remplacés par les mots : " autre que la France " ;
 	  - Code monétaire et financier - art. L632-7
 
 
-###### Article L736-4-1
+###### Article L736-5
 
-L'article L. 615-1 est applicable à Mayotte.
+A l'article L. 632-13, les mots : " non membre de la Communauté européenne et non partie à l'accord sur l'Espace économique
+européen, " sont remplacés par les mots : " autre que la France. "
 
 **Liens relatifs à cet article**
 
@@ -54295,13 +53336,13 @@ L'article L. 615-1 est applicable à Mayotte.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L615-1
+	  - Code monétaire et financier - art. L632-13
 
 
 ###### Article L736-6
@@ -54364,6 +53405,48 @@ décision passée en force de chose jugée pour les mêmes faits.
 	**Cite**:
 
 	  - Code monétaire et financier - art. L632-16
+
+
+###### Article L736-7
+
+A l'article L. 633-11, les mots : " non parties à l'accord sur l'Espace économique européen " sont remplacés par les mots : "
+autres que la France ".
+
+**Nota:**
+
+Nouvel article L. 736-7 créé par ordonnance n° 2007-1801 du 21 décembre 2007 en vigueur le 1er janvier 2008 conformément à
+l'article 3 de ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L633-11 (V)
+
+
+###### Article L736-8
+
+Les articles L. 631-1, L. 631-2 et L. 632-1 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L631-1 (M)
+	  - Code monétaire et financier - art. L631-2 (M)
+	  - Code monétaire et financier - art. L632-1 (M)
 
 
 ### Titre IV : Dispositions applicables en Nouvelle-Calédonie
@@ -85996,34 +85079,6 @@ privilégiées.
 	**Nouveaux textes**:
 
 	  - Code monétaire et financier - art. R513-18 (V)
-
-
-##### Section 5 : Les sociétés anonymes de crédit immobilier.
-
-###### Article R515-15
-
-Les sociétés anonymes de crédit immobilier sont régies par les articles R. 422-10 à R. 422-15 du code de la construction et
-de l'habitation et par le décret n° 92-341 du 1er avril 1992 relatif à la chambre syndicale des sociétés anonymes de crédit
-immobilier.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°92-341 1992-04-01
-	  - Code de la construction et de l'habitation R422-10 à R422-15
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1595 du 9 novembre 2007 - art. 5 () JORF 11 novembre 2007 en vigueur le 1er janvier 2008
 
 
 #### Chapitre VI : Les institutions financières spécialisées.
