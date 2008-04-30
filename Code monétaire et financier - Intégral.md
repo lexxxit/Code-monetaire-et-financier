@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-04-24
+Version Consolidée au 2008-05-01
 
 # Partie législative
 
@@ -169,20 +169,22 @@ professionnelle ;
 
 ###### Article L112-4
 
-Est autorisée l'indexation du salaire minimum de croissance selon les règles fixées par l'article L. 141-3 du code du
-travail.
+Est autorisée l'indexation du salaire minimum de croissance selon les règles fixées par les articles L. 3231-4 et L. 3231-5
+du code du travail.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 2, v. init.
-	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 79, v. init.
 	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 79 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 	**Cité par**:
 
@@ -190,7 +192,8 @@ travail.
 
 	**Cite**:
 
-	  - Code du travail - art. L141-3 (M)
+	  - Code du travail - art. L3231-4 (V)
+	  - Code du travail - art. L3231-5 (V)
 
 
 ##### Section 2 : Pouvoir libératoire
@@ -397,7 +400,7 @@ l'Office national interprofessionnel des grandes cultures les pièces justificat
 
 ###### Article L112-10
 
-Le salaire est payé dans les conditions fixées par l'article L. 143-1 du code du travail.
+Le salaire est payé dans les conditions fixées par l'article L. 3241-1 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -405,13 +408,13 @@ Le salaire est payé dans les conditions fixées par l'article L. 143-1 du code 
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Liens**:
+
+	  - DISJOINT: Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+
 	**Cite**:
 
-	  - Code du travail - art. L143-1 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail - art. L143-1 (M)
+	  - Code du travail - art. L3241-1 (V)
 
 
 #### Chapitre III : Conversion à l'unité euro
@@ -5240,35 +5243,34 @@ renouvelable une fois. La limite d'âge applicable à l'exercice de ces fonction
 
 ###### Article L142-9
 
-Les agents de la Banque de France sont tenus au secret professionnel.
+Les agents de la Banque de France sont tenus au secret professionnel. 
 
 Ils ne peuvent prendre ou recevoir une participation ou quelque intérêt ou rémunération que ce soit par travail ou conseil
 dans une entreprise publique ou privée, industrielle, commerciale ou financière, sauf dérogation accordée par le gouverneur.
-Ces dispositions ne s'appliquent pas à la production des oeuvres scientifiques, littéraires ou artistiques.
+Ces dispositions ne s'appliquent pas à la production des oeuvres scientifiques, littéraires ou artistiques. 
 
 Le conseil général de la Banque de France détermine, dans les conditions prévues par le troisième alinéa de l'article L.
 142-2, les règles applicables aux agents de la Banque de France dans les domaines où les dispositions du code du travail sont
-incompatibles avec le statut ou avec les missions de service public dont elle est chargée.
+incompatibles avec le statut ou avec les missions de service public dont elle est chargée. 
 
-Les troisième à huitième alinéas de l'article L. 432-1 du code du travail et les articles L. 432-5 et L. 432-9 du même code
-ne sont pas applicables à la Banque de France.
+Les articles L. 2323-19 et L. 2323-21 à L. 2323-24 et L. 2323-26 du code du travail et les articles L. 2323-78 à L2323-82 et
+L. 2323-86 du même code ne sont pas applicables à la Banque de France. 
 
 Les dispositions du chapitre II du titre III du livre IV du même code autres que celles énumérées à l'alinéa précédent sont
 applicables à la Banque de France uniquement pour les missions et autres activités qui, en application de l'article L. 142-2
-du présent code, relèvent de la compétence du conseil général.
+du présent code, relèvent de la compétence du conseil général. 
 
 Le comité d'entreprise et, le cas échéant, les comités d'établissement de la Banque de France ne peuvent faire appel à
-l'expert visé au premier alinéa de l'article L. 434-6 du code du travail que lorsque la procédure prévue à l'article L. 321-3
-du même code est mise en oeuvre.
+l'expert visé à l'article L. 2325-35 du code du travail que lorsque la procédure prévue aux articles L. 1233-29 et L. 1233-30
+du même code est mise en oeuvre. 
 
-Les conditions dans lesquelles s'applique à la Banque de France l'article L. 432-8 du même code sont fixées par un décret en
-Conseil d'Etat.
+Les conditions dans lesquelles s'applique à la Banque de France les articles L. 2323-83 et L. 2323-87 du même code sont
+fixées par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°93-980 1993-08-04 art. 14 I et II
 	  - Loi n°93-980 du 4 août 1993 - art. 14 (Ab)
 
 	**Codifié par**:
@@ -5277,7 +5279,7 @@ Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2007-212 du 20 février 2007 - art. 7 () JORF 21 février 2007
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 	**Cité par**:
 
@@ -5290,12 +5292,14 @@ Conseil d'Etat.
 	**Cite**:
 
 	  - Code monétaire et financier - art. L142-2 (M)
-	  - Code du travail - art. L321-3 (M)
-	  - Code du travail - art. L432-1 (T)
-	  - Code du travail - art. L432-5 (T)
-	  - Code du travail - art. L432-8 (T)
-	  - Code du travail - art. L432-9 (T)
-	  - Code du travail - art. L434-6 (T)
+	  - Code du travail - art. L2323-19 (V)
+	  - Code du travail - art. L2323-21 (V)
+	  - Code du travail - art. L2323-24 (V)
+	  - Code du travail - art. L2323-26 (V)
+	  - Code du travail - art. L2323-78 (V)
+	  - Code du travail - art. L2323-82 (V)
+	  - Code du travail - art. L2323-86 (V)
+	  - Code du travail - art. L2325-35 (V)
 
 
 ##### Section 6 : Les succursales
@@ -7478,7 +7482,7 @@ livre IV du code du travail.
 
 Les sociétés peuvent procéder à des augmentations de capital par émission d'actions réservées à des salariés dans les
 conditions et selon les modalités fixées soit aux articles L. 225-187 à L. 225-197 du code de commerce soit aux articles L.
-443-5 du code du travail et L. 225-138-1 du code de commerce.
+3332-18 à L. 3332-24 du code du travail et L. 225-138-1 du code de commerce.
 
 **Nota:**
 
@@ -7491,21 +7495,12 @@ février 2001.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 23 () JORF 7 mai 2005
-
 	**Cite**:
 
-	  - Code de commerce L225-187 à L225-197, L225-138-1
+	  - Code de commerce - art. L225-87 (V)
 	  - Code de commerce. - art. L225-138-1 (V)
-	  - Code du travail - art. L443-5 (M)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L225-138 (M)
-	  - Code de commerce. - art. L225-197 (Ab)
-	  - Code du travail - art. L443-5 (M)
+	  - Code du travail - art. L3332-18 (V)
+	  - Code du travail - art. L3332-24 (V)
 
 
 ##### Sous-section 3 : Options de souscription ou d'achat d'actions
@@ -10824,23 +10819,23 @@ de surveillance et de désignation de leurs représentants.
 
 Le règlement précise les modalités de désignation des représentants des porteurs de parts soit par élection, soit par choix
 opéré par le ou les comités d'entreprise intéressés ou par les organisations syndicales représentatives au sens de l'article
-L. 132-2 du code du travail.
+L. 2231-1 du code du travail.
 
 Le président du conseil de surveillance est choisi parmi les représentants des porteurs de parts.
 
-Lorsqu'il est fait application du dernier alinéa de l'article L. 443-3 du même code, le règlement fait référence aux
+Lorsqu'il est fait application du dernier alinéa de l'article L. 3332-15 du même code, le règlement fait référence aux
 dispositions précisées par le règlement du plan d'épargne.
 
 Le conseil de surveillance exerce les droits de vote attachés aux valeurs comprises dans le fonds et décide de l'apport des
 titres. Toutefois, le règlement peut prévoir que les droits de vote relatifs à ces titres sont exercés par la société de
 gestion, et que celle-ci peut décider de l'apport des titres, à l'exception des titres de l'entreprise ou de toute entreprise
-qui lui est liée dans les conditions prévues à l'article L. 444-3 du code du travail. Le conseil de surveillance est chargé
-notamment de l'examen de la gestion financière, administrative et comptable. Il peut demander à entendre la société de
-gestion, le dépositaire et le commissaire aux comptes du fonds qui sont tenus de déférer à sa convocation. Il décide des
-fusions, scissions ou liquidations. Le règlement du fonds précise les transformations et les modifications du règlement qui
-ne peuvent être décidées sans l'accord du conseil de surveillance. Sans préjudice des compétences de la société de gestion
-mentionnées à l'article L. 214-25 et de celles du liquidateur prévues à l'article L. 214-31, le conseil de surveillance peut
-agir en justice pour défendre ou faire valoir les droits ou intérêts des porteurs.
+qui lui est liée dans les conditions prévues aux articles L. 3344-1 et L. 3344-2 du code du travail. Le conseil de
+surveillance est chargé notamment de l'examen de la gestion financière, administrative et comptable. Il peut demander à
+entendre la société de gestion, le dépositaire et le commissaire aux comptes du fonds qui sont tenus de déférer à sa
+convocation. Il décide des fusions, scissions ou liquidations. Le règlement du fonds précise les transformations et les
+modifications du règlement qui ne peuvent être décidées sans l'accord du conseil de surveillance. Sans préjudice des
+compétences de la société de gestion mentionnées à l'article L. 214-25 et de celles du liquidateur prévues à l'article L.
+214-31, le conseil de surveillance peut agir en justice pour défendre ou faire valoir les droits ou intérêts des porteurs.
 
 Le conseil de surveillance adopte un rapport annuel mis à la disposition de chaque porteur de parts et dont le contenu est
 précisé par un règlement de l'Autorité des marchés financiers.
@@ -10852,11 +10847,12 @@ Le règlement peut prévoir que :
 2. Les produits des actifs du fonds sont réinvestis dans le fonds.
 
 Le fonds ne peut être dissous que si sa dissolution n'entraîne pas la perte des avantages accordés aux salariés dans les
-conditions prévues à l'article L. 225-194 du code de commerce (1) et des articles L.  442-7, L. 442-8 et L. 443-6 du code du
-travail.
+conditions prévues à l'article L. 225-194 du code de commerce (1) et des articles L. 3324-10, L. 3332-4 et L. 3325-1 à L.
+3325-4, L3332-14 et L. 3332-25 et L. 3332-26 du code du travail.
 
 Les dispositions du présent article sont applicables aux fonds dont l'actif comprend au plus un tiers de titres émis par
-l'entreprise ou par toute autre société qui est liée dans les conditions prévues à l'article L. 444-3 du code du travail.
+l'entreprise ou par toute autre société qui est liée dans les conditions prévues à l'article L. 3344-1 et L. 3344-2 du code
+du travail.
 
 Le règlement précise, le cas échéant, les considérations sociales, environnementales ou éthiques que doit respecter la
 société de gestion dans l'achat ou la vente des titres, ainsi que dans l'exercice des droits qui leur sont attachés. Le
@@ -10868,8 +10864,8 @@ des dispositions spécifiques qui régissent, le cas échéant, la souscription 
 conditions fixées par décret.
 
 Les dispositions du présent article sont également applicables aux fonds solidaires qui peuvent être souscrits dans le cadre
-du plan d'épargne pour la retraite collectif mentionné à l'article L. 443-1-2 du même code. L'actif de ces fonds solidaires
-est composé :
+du plan d'épargne pour la retraite collectif mentionné aux articles L. 3334-1 à L. 3334-9 et L. 3334-11 à L. 3334-16 du même
+code. L'actif de ces fonds solidaires est composé :
 
 a) Pour une part, comprise entre 5 et 10 %, de titres émis par des entreprises solidaires agréées en application de l'article
 L. 443-3-2 du code du travail ou par des sociétés de capital-risque visées à l'article 1er-1 de la loi n° 85-695 du 11
@@ -10882,7 +10878,7 @@ placement collectif en valeurs mobilières investies dans ces mêmes valeurs et,
 
 Les fonds qui peuvent être souscrits dans le cadre d'un plan d'épargne pour la retraite collectif ne peuvent détenir plus de
 5 % de titres non admis aux négociations sur un marché réglementé, sans préjudice des dispositions du a, ou plus de 5 % de
-titres de l'entreprise qui a mis  en place le plan ou de sociétés qui lui sont liées au sens de l'article L. 444-3 du code du
+titres de l'entreprise qui a mis en place le plan ou de sociétés qui lui sont liées au sens de l'article L. 3344-1 du code du
 travail. Cette limitation ne s'applique pas aux parts et actions d'organismes de placement collectif en valeurs mobilières
 détenues par le fonds.
 
@@ -10966,8 +10962,7 @@ février 2001.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 22 () JORF 31 décembre 2006
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 37 () JORF 31 décembre 2006
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 
 ###### Article L214-40
@@ -17132,7 +17127,7 @@ habilités à cet effet et par le gouverneur de la Banque de France.
 
 ###### Article L222-1
 
-Les règles relatives au plan d'épargne d'entreprise sont fixées par les articles L. 443-1 à L. 443-8 du code du travail.
+Les règles relatives au plan d'épargne d'entreprise sont fixées par les articles L. 3332-1 à L. 3332-28 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -17140,13 +17135,18 @@ Les règles relatives au plan d'épargne d'entreprise sont fixées par les artic
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L722-3 (V)
 
 	**Cite**:
 
-	  - Code du travail L443-1 à L443-8
+	  - Code du travail - art. L3332-1 (V)
+	  - Code du travail - art. L3332-28 (V)
 
 
 #### Chapitre III : Bons de caisse
@@ -20151,11 +20151,11 @@ de la radiation de l'inscription de la sûreté.
 ###### Article L313-21-1
 
 Les sociétés retenues pour contribuer à la création d'activités ou au développement des emplois dans le cadre d'une
-convention passée avec l'Etat en application de l'article L. 321-17 du code du travail ainsi que les sociétés agréées par le
-ministre chargé de l'économie sont autorisées à consentir des garanties partielles au profit d'établissements de crédit
-octroyant des prêts pour des projets de développement d'entreprises situées dans des bassins d'emploi connaissant des
-difficultés économiques ou révélant une fragilité économique, ainsi qu'aux sociétés de caution mutuelle artisanales qui
-cautionnent de tels projets.
+convention passée avec l'Etat en application des articles L. 1233-84 à L. 1233-89 du code du travail ainsi que les sociétés
+agréées par le ministre chargé de l'économie sont autorisées à consentir des garanties partielles au profit d'établissements
+de crédit octroyant des prêts pour des projets de développement d'entreprises situées dans des bassins d'emploi connaissant
+des difficultés économiques ou révélant une fragilité économique, ainsi qu'aux sociétés de caution mutuelle artisanales qui
+cautionnent de tels projets. 
 
 Les conditions d'application de ces dispositions, notamment en ce qui concerne l'agrément et l'étendue des garanties, sont
 fixées par décret en Conseil d'Etat.
@@ -20166,9 +20166,9 @@ fixées par décret en Conseil d'Etat.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 18 () JORF 27 juillet 2005
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 	**Cité par**:
 
@@ -20185,7 +20185,8 @@ fixées par décret en Conseil d'Etat.
 
 	**Cite**:
 
-	  - Code du travail - art. L321-17 (M)
+	  - Code du travail - art. L1233-84 (V)
+	  - Code du travail - art. L1233-89 (V)
 
 
 ##### Paragraphe 4 : Information des cautions
@@ -28655,100 +28656,95 @@ sont engagées en exécution de l'article L. 465-1.
 
 ###### Article L500-1
 
-I. - Nul ne peut, directement ou indirectement, pour son propre compte ou pour le compte d'autrui s'il a fait l'objet depuis
-moins de dix ans d'une condamnation définitive mentionnée au II :
+I.-Nul ne peut, directement ou indirectement, pour son propre compte ou pour le compte d'autrui s'il a fait l'objet depuis
+moins de dix ans d'une condamnation définitive mentionnée au II : 
 
 1° Diriger, gérer, administrer ni être membre d'un organe collégial de contrôle d'un organisme mentionné aux articles L.
 213-8, L. 511-9, L. 517-1, L. 517-4, L. 531-1, L. 542-1 et L. 543-1, ni disposer du pouvoir de signer pour le compte de cet
-organisme ;
+organisme ; 
 
-2° Exercer l'une des professions ou activités mentionnées aux articles L. 341-1, L. 519-1, L. 520-1, L. 541-1 et L. 550-1.
+2° Exercer l'une des professions ou activités mentionnées aux articles L. 341-1, L. 519-1, L. 520-1, L. 541-1 et L. 550-1. 
 
-II. - Les condamnations mentionnées au I sont celles :
+II.-Les condamnations mentionnées au I sont celles : 
 
-1° Pour crime ;
+1° Pour crime ; 
 
-2° A une peine d'emprisonnement ferme ou d'au moins six mois avec sursis pour :
+2° A une peine d'emprisonnement ferme ou d'au moins six mois avec sursis pour : 
 
 a) L'une des infractions prévues au titre Ier du livre III du code pénal et pour les délits prévus par des lois spéciales et
-punis des peines prévues pour l'escroquerie et l'abus de confiance ;
+punis des peines prévues pour l'escroquerie et l'abus de confiance ; 
 
 b) Recel ou l'une des infractions assimilées au recel ou voisines de celui-ci prévues à la section 2 du chapitre Ier du titre
-II du livre III du code pénal ;
+II du livre III du code pénal ; 
 
-c) Blanchiment ;
+c) Blanchiment ; 
 
-d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ;
+d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ; 
 
 e) Faux, falsification de titres ou autres valeurs fiduciaires émises par l'autorité publique, falsification des marques de
-l'autorité ;
+l'autorité ; 
 
-f) Participation à une association de malfaiteurs ;
+f) Participation à une association de malfaiteurs ; 
 
-g) Trafic de stupéfiants ;
+g) Trafic de stupéfiants ; 
 
 h) Proxénétisme ou l'une des infractions prévues par les sections 2 et 2 bis du chapitre V du titre II du livre II du code
-pénal ;
+pénal ; 
 
-i) L'une des infractions prévues à la section 3 du chapitre V du titre II du livre II du code pénal ;
+i) L'une des infractions prévues à la section 3 du chapitre V du titre II du livre II du code pénal ; 
 
-j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de commerce ;
+j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de
+commerce ; 
 
-k) Banqueroute ;
+k) Banqueroute ; 
 
-l) Pratique de prêt usuraire ;
+l) Pratique de prêt usuraire ; 
 
 m) L'une des infractions prévues par la loi du 21 mai 1836 portant prohibition des loteries, par la loi du 15 juin 1907
-réglementant le jeu dans les cercles et les casinos des stations balnéaires, thermales et climatiques et par la loi n° 83-628
-du 12 juillet 1983 relative aux jeux de hasard ;
+relative aux casinos et par la loi n° 83-628 du 12 juillet 1983 relative aux jeux de hasard ; 
 
-n) L'une des infractions à la législation et à la réglementation des relations financières avec l'étranger ;
+n) L'une des infractions à la législation et à la réglementation des relations financières avec l'étranger ; 
 
-o) Fraude fiscale ;
+o) Fraude fiscale ; 
 
 p) L'une des infractions prévues aux articles L. 121-6, L. 121-28, L. 122-8 à L. 122-10 et L. 213-1 à L. 213-5, L. 217-1 à L.
-217-3, L. 217-6 et L. 217-10 du code de la consommation ;
+217-3, L. 217-6 et L. 217-10 du code de la consommation ; 
 
-q) L'une des infractions prévues au présent code ;
+q) L'une des infractions prévues au présent code ; 
 
-r) L'une des infractions prévues aux articles L. 324-9, L. 324-10 et L. 362-3 du code du travail ;
+r) L'une des infractions prévues aux articles L. 8222-1, L. 8222-2, L. 8222-3, L. 8222-5 et L. 8224-1 et L. 8224-2 du code du
+travail ; 
 
-s) Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal ;
+s) Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal ; 
 
-t) L'une des infractions à la législation ou la réglementation des assurances ;
+t) L'une des infractions à la législation ou la réglementation des assurances ; 
 
-3° A la destitution des fonctions d'officier public ou ministériel.
+3° A la destitution des fonctions d'officier public ou ministériel. 
 
-III. - L'incapacité prévue au premier alinéa du I s'applique à toute personne à l'égard de laquelle a été prononcée une
-mesure définitive de faillite personnelle ou une autre mesure définitive d'interdiction dans les conditions prévues par le
-livre VI du code de commerce.
+III.-L'incapacité prévue au premier alinéa du I s'applique à toute personne à l'égard de laquelle a été prononcée une mesure
+définitive de faillite personnelle ou une autre mesure définitive d'interdiction dans les conditions prévues par le livre VI
+du code de commerce. 
 
-IV. - Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du code pénal, la juridiction prononçant la
+IV.-Sans préjudice des dispositions du deuxième alinéa de l'article 132-21 du code pénal, la juridiction prononçant la
 décision qui entraîne cette incapacité peut en réduire la durée.
 
-V. - Les personnes exerçant une fonction, une activité ou une profession mentionnée au I qui font l'objet de l'une des
+V.-Les personnes exerçant une fonction, une activité ou une profession mentionnée au I qui font l'objet de l'une des
 condamnations prévues au II et au III doivent cesser leur activité dans un délai d'un mois à compter de la date à laquelle la
 décision de justice est devenue définitive. Ce délai peut être réduit ou supprimé par la juridiction qui a rendu cette
-décision.
+décision. 
 
-VI. - En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
+VI.-En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
 constituant, selon la loi française, un crime ou l'un des délits mentionnés au II, le tribunal correctionnel du domicile du
 condamné déclare, à la requête du ministère public, après constatation de la régularité et de la légalité de la condamnation
-et l'intéressé dûment appelé en chambre du conseil, qu'il y a lieu à l'application de l'incapacité prévue au I.
+et l'intéressé dûment appelé en chambre du conseil, qu'il y a lieu à l'application de l'incapacité prévue au I. 
 
 Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une faillite personnelle
 prononcée par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France. La demande
 d'exequatur peut être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du
-domicile du condamné.
+domicile du condamné. 
 
-VII. - Le fait pour une personne de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de
+VII.-Le fait pour une personne de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de
 l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation d'exercice.
-
-**Nota:**
-
-Loi 2006-437 2006-04-14 article 7 IV 3 : Les dispositions de la présente loi entrent en vigueur dans un délai de six mois à
-compter de la publication du décret mentionné à l'article L. 133-18 du code du tourisme. Le décret 2008-884 du 2 septembre
-2008 a été publié le 3 septembre 2008.
 
 **Liens relatifs à cet article**
 
@@ -28773,9 +28769,9 @@ compter de la publication du décret mentionné à l'article L. 133-18 du code d
 	  - Code monétaire et financier - art. L542-1 (M)
 	  - Code monétaire et financier - art. L543-1 (Ab)
 	  - Code monétaire et financier - art. L550-1 (M)
-	  - Code du travail - art. L324-10 (M)
-	  - Code du travail - art. L324-9 (M)
-	  - Code du travail - art. L362-3 (M)
+	  - Code du travail - art. L8222-1 (V)
+	  - Code du travail - art. L8222-2 (V)
+	  - Code du travail - art. L8224-1 (V)
 	  - Loi n°1836-05-21
 	  - Loi n°1907-06-15
 
@@ -28819,9 +28815,9 @@ compter de la publication du décret mentionné à l'article L. 133-18 du code d
 	  - Code monétaire et financier - art. R613-3-1 (Ab)
 	  - Code monétaire et financier - art. R621-33 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 1 () JORF 7 mai 2005
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 
 ### Titre Ier : Etablissements du secteur bancaire
@@ -47292,15 +47288,16 @@ L'Autorité des marchés financiers dispose de services dirigés par un secréta
 le président de l'autorité soumet une proposition au collège qui en délibère et formule un avis dans le délai d'un mois. A
 l'issue de ce délai, le secrétaire général est nommé par le président. Cette nomination est soumise à l'agrément du ministre
 chargé de l'économie. Jusqu'à la nomination du secrétaire général, les attributions de celui-ci peuvent être exercées par une
-personne désignée par le président de l'Autorité des marchés financiers.
+personne désignée par le président de l'Autorité des marchés financiers. 
 
 Le personnel des services de l'Autorité des marchés financiers est composé d'agents contractuels de droit public et de
 salariés de droit privé. Dans des conditions fixées par décret en Conseil d'Etat, des agents publics peuvent être placés
-auprès de l'Autorité des marchés financiers dans une position prévue par le statut qui les régit.
+auprès de l'Autorité des marchés financiers dans une position prévue par le statut qui les régit. 
 
-Les dispositions des articles L. 412-1, L. 421-1, L. 431-1 et L. 236-1 du code du travail sont applicables au personnel des
-services de l'Autorité des marchés financiers. Toutefois, ces dispositions peuvent faire l'objet d'adaptations résultant de
-décrets en Conseil d'Etat.
+Les dispositions des articles L. 2111-1, L. 2141-4, L. 2311-1 et L. 2312-1 à L. 2312-5, L. 2321-1, L. 2322-1 à L. 2322-4, L.
+4523-11 et L. 4523-12, L. 4523-14 à L. 4523-17 et L. 4524-1 du code du travail sont applicables au personnel des services de
+l'Autorité des marchés financiers. Toutefois, ces dispositions peuvent faire l'objet d'adaptations résultant de décrets en
+Conseil d'Etat. 
 
 Sur proposition du secrétaire général, le collège fixe le règlement intérieur et les règles de déontologie applicables au
 personnel des services de l'Autorité des marchés financiers et établit le cadre général des rémunérations. Le secrétaire
@@ -47312,22 +47309,27 @@ général rend compte de la gestion des services au collège dans des conditions
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 7 (V) JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Décret n°2003-1109 du 21 novembre 2003 - art. 48 (V)
 	  - Décret n°2003-1109 du 21 novembre 2003 - art. 72 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+
 	**Cite**:
 
-	  - Code du travail - art. L236-1 (M)
-	  - Code du travail - art. L412-1 (M)
-	  - Code du travail - art. L421-1 (M)
-	  - Code du travail - art. L431-1 (M)
+	  - Code du travail - art. L2111-1 (V)
+	  - Code du travail - art. L2141-4 (V)
+	  - Code du travail - art. L2311-1 (V)
+	  - Code du travail - art. L2312-1 (V)
+	  - Code du travail - art. L2321-1 (V)
+	  - Code du travail - art. L2322-1 (V)
+	  - Code du travail - art. L2322-4 (V)
+	  - Code du travail - art. L4523-11 (V)
+	  - Code du travail - art. L4523-14 (V)
+	  - Code du travail - art. L4524-1 (V)
 
 
 ###### Article L621-5-2
@@ -48038,8 +48040,8 @@ l'article L. 542-1 ;
 13° Les évaluateurs immobiliers ;
 
 14° Les personnes morales administrant des institutions de retraite professionnelle collectives mentionnées au I de l'article
-8 de l'ordonnance n° 2006-344 du 23 mars 2006 ou des plans d'épargne pour la retraite collectifs mentionnés à l'article L.
-443-1-2 du code du travail ;
+8 de l'ordonnance n° 2006-344 du 23 mars 2006 ou des plans d'épargne pour la retraite collectifs mentionnés  aux articles L.
+3334-1 à L. 3334-9 et L. 3334-11 à L. 3334-16 du code du travail ;
 
 15° Les agents liés mentionnés à l'article L. 545-1.
 
@@ -48130,7 +48132,7 @@ applicables, dans les conditions prévues aux articles L. 532-18-2, L. 532-19 et
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 5 () JORF 19 octobre 2007 en vigueur le 1er novembre 2007
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 
 ###### Article L621-9-1
@@ -48681,16 +48683,16 @@ les conditions fixées aux considérants 35 et 36.
 
 ###### Article L621-15-2
 
-Lorsqu'une institution mentionnée à l'article L. 370-1 du code des assurances et proposant les opérations mentionnées à
-l'article L. 443-1-2 du code du travail a enfreint l'une des dispositions mentionnées au deuxième alinéa de l'article L.
-370-2 du code des assurances, l'Autorité des marchés financiers, de sa propre initiative ou sur saisine des autorités
-compétentes, notifie cette infraction sans délai à l'autorité compétente de l'Etat dans lequel est agréée l'institution, et
-lui demande, en coopération avec cette autorité de contrôle, de prendre les mesures nécessaires pour mettre un terme à
-l'infraction.
+Lorsqu'une institution mentionnée à l'article L. 370-1 du code des assurances et proposant les opérations mentionnées aux
+articles L. 3334-1 à L. 3334-9 et L. 3334-11 à L. 3334-16 du code du travail a enfreint l'une des dispositions mentionnées au
+deuxième alinéa de l'article L. 370-2 du code des assurances, l'Autorité des marchés financiers, de sa propre initiative ou
+sur saisine des autorités compétentes, notifie cette infraction sans délai à l'autorité compétente de l'Etat dans lequel est
+agréée l'institution, et lui demande, en coopération avec cette autorité de contrôle, de prendre les mesures nécessaires pour
+mettre un terme à l'infraction. 
 
 Si, passé un délai de deux mois après cette notification, l'infraction persiste, l'Autorité des marchés financiers peut
 ouvrir une procédure de sanction à l'encontre de l'institution selon les modalités prévues à l'article L. 621-15. Les
-sanctions applicables sont celles mentionnées à l'article L. 621-15 (III, a).
+sanctions applicables sont celles mentionnées à l'article L. 621-15 (III, a). 
 
 L'Autorité des marchés financiers peut décider de reporter sa décision d'ouvrir une procédure de sanction à l'issue d'un
 délai qu'elle impartit à l'institution pour prendre toute mesure de nature à mettre fin à l'infraction.
@@ -48701,16 +48703,18 @@ délai qu'elle impartit à l'institution pour prendre toute mesure de nature à 
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 10 () JORF 24 mars 2006
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L621-15 (M)
-	  - Code du travail - art. L443-1-2 (M)
+	  - Code monétaire et financier - art. L621-15 (V)
+	  - Code du travail - art. L3334-1 (V)
+	  - Code du travail - art. L3334-11 (V)
+	  - Code du travail - art. L3334-16 (V)
+	  - Code du travail - art. L3334-9 (V)
 	  - Code des assurances - art. L370-1 (V)
-	  - Code des assurances - art. L370-2 (V)
 
 
 ###### Article L621-16
@@ -49583,7 +49587,7 @@ Un décret en Conseil d'Etat précise les modalités d'application du présent a
 ###### Article L621-31
 
 Ne sont pas soumis aux règles prévues au premier alinéa du IX de l'article L. 621-7 ni aux sanctions prévues à l'article L.
-621-17-1 :
+621-17-1 : 
 
 1° Les entreprises suivantes, au titre de leurs activités journalistiques, lorsqu'elles adhèrent à l'association constituée
 dans les conditions et selon les modalités prévues à l'article L. 621-32 :
@@ -49598,22 +49602,24 @@ de communication ;
 confiance dans l'économie numérique ;
 
 - les agences de presse au sens de l'ordonnance n° 45-2646 du 2 novembre 1945 portant réglementation provisoire des agences
-de presse ;
+de presse ; 
 
-2° Les journalistes, au sens de l'article L. 761-2 du code du travail, lorsqu'ils exercent leur profession dans une ou
-plusieurs des entreprises mentionnées au 1°.
+2° Les journalistes, au sens des articles L. 7111-3, L. 7111-4 et L. 7112-1 du code du travail, lorsqu'ils exercent leur
+profession dans une ou plusieurs des entreprises mentionnées au 1°.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance 45-2646 1945-11-02
-	  - Loi n°86-897 1986-08-01
-	  - Loi n°86-1067 1986-09-30
-	  - Loi n°2004-575 2004-06-21
+	  - Ordonnance n°45-2646 du 2 novembre 1945 (V)
+	  - Loi n°86-897 du 1 août 1986 (V)
+	  - Loi n°2004-575 du 21 juin 2004 (V)
 	  - Code monétaire et financier - art. L621-17-1 (V)
-	  - Code monétaire et financier - art. L621-7 (M)
-	  - Code du travail - art. L761-2 (M)
+	  - Code monétaire et financier - art. L621-32 (V)
+	  - Code monétaire et financier - art. L621-7 (V)
+	  - Code du travail - art. L7111-3 (V)
+	  - Code du travail - art. L7111-4 (V)
+	  - Code du travail - art. L7112-1 (V)
 
 	**Codifié par**:
 
@@ -49625,11 +49631,10 @@ plusieurs des entreprises mentionnées au 1°.
 	  - Arrêté du 12 novembre 2004 - art. 329-1 (V)
 	  - Arrêté du 12 novembre 2004 - art. 339-1 (V)
 	  - Arrêté du 14 décembre 2016 - art.
-	  - Code monétaire et financier - art. L621-32 (M)
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 29 () JORF 27 juillet 2005
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 
 ###### Article L621-32
@@ -53338,8 +53343,28 @@ européen, " sont remplacés par les mots : " autre que la France " ;
 
 ###### Article L736-5
 
-A l'article L. 632-13, les mots : " non membre de la Communauté européenne et non partie à l'accord sur l'Espace économique
-européen, " sont remplacés par les mots : " autre que la France. "
+I.-Les articles L. 621-1 à L. 621-7-2, les I, II, III, IV, VII, VIII, IX de l'article L. 621-8, les articles L. 621-8-1, L.
+621-8-2, L. 621-9, à l'exception de son dernier alinéa, L. 621-9-1 à L. 621-20-1, L. 621-22 à L. 621-35 ainsi que les
+articles L. 642-1 et L. 642-3 sont applicables à Mayotte sous réserve des adaptations prévues au II. 
+
+II.-1° Pour l'application du I de l'article L. 621-8 : 
+
+a) Au I, les mots : " ou tout document équivalent requis par la législation d'un autre Etat partie à l'accord sur l'Espace
+économique européen " sont supprimés ; 
+
+b) Le III est ainsi rédigé : 
+
+III.-Le projet de document mentionné au I est également soumis au visa préalable de l'Autorité des marchés financiers dans
+les cas fixés par son règlement général pour toute opération réalisée sur le territoire français lorsque l'émetteur des
+titres qui font l'objet de l'opération a son siège statutaire hors du territoire de l'Espace économique européen et que
+l'opération porte sur des instruments financiers dont la première émission ou cession dans le public ou la première admission
+sur un marché réglementé a eu lieu en France ; 
+
+2° Pour l'application de l'article L. 621-32, les mots : 
+
+" conformément à la directive 2003/125/ CE de la Commission du 22 décembre 2003 portant modalités d'application de la
+directive 2003/6/ CE du Parlement européen et du Conseil en ce qui concerne la présentation équitable des recommandations
+d'investissement et la mention des conflits d'intérêts " sont supprimés.
 
 **Liens relatifs à cet article**
 
@@ -53349,11 +53374,22 @@ européen, " sont remplacés par les mots : " autre que la France. "
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L632-13
+	  - Code monétaire et financier - art. L621-1 (V)
+	  - Code monétaire et financier - art. L621-22 (V)
+	  - Code monétaire et financier - art. L621-32 (V)
+	  - Code monétaire et financier - art. L621-8 (V)
+	  - Code monétaire et financier - art. L621-8-1 (V)
+	  - Code monétaire et financier - art. L621-9 (V)
+	  - Code monétaire et financier - art. L621-9-1 (V)
+	  - Directive 2003-125 CE 2003-12-22
 
 
 ###### Article L736-6
@@ -53441,23 +53477,6 @@ l'article 3 de ladite ordonnance.
 	**Cite**:
 
 	  - Code monétaire et financier - art. L633-11 (V)
-
-
-###### Article L736-8
-
-Les articles L. 631-1, L. 631-2 et L. 632-1 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L631-1 (M)
-	  - Code monétaire et financier - art. L631-2 (M)
-	  - Code monétaire et financier - art. L632-1 (M)
 
 
 ### Titre IV : Dispositions applicables en Nouvelle-Calédonie
@@ -54073,12 +54092,8 @@ Les articles L. 313-50 et L. 313-51 sont applicables en Nouvelle-Calédonie.
 
 ###### Article L743-8
 
-Le titre II du livre III est applicable en Nouvelle-Calédonie sous réserve de l'adaptation suivante : à l'article L. 322-2 la
-référence aux articles L. 312-17 et L. 312-18 est supprimée.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+Le titre II du livre III est applicable en Nouvelle-Calédonie sous réserve de l'adaptation suivante : à l'article L. 322-2 et
+à l'article L. 322-6 la référence aux articles L. 312-17 et L. 312-18 est supprimée.
 
 **Liens relatifs à cet article**
 
@@ -54090,11 +54105,16 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 7 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L312-17 (M)
 	  - Code monétaire et financier - art. L312-18 (M)
 	  - Code monétaire et financier - art. L322-2 (V)
+	  - Code monétaire et financier - art. L322-6 (V)
 
 
 ##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers
@@ -54103,11 +54123,7 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 Les articles L. 330-1 et L. 330-2 sont applicables en Nouvelle-Calédonie sous réserve, au I de l'article L. 330-1, de
 supprimer au premier alinéa les mots : "ou internationale" et : "ou d'établissement non résident ayant un statut comparable",
-la seconde phrase du deuxième alinéa ainsi que le troisième alinéa.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+la seconde phrase du deuxième alinéa ainsi que les troisième, quatrième et cinquième alinéas.
 
 **Liens relatifs à cet article**
 
@@ -54121,7 +54137,7 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V) JORF 21 août 2004
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 7 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
@@ -54261,17 +54277,20 @@ Les articles L. 412-1, et L. 412-2 sont applicables en Nouvelle-Calédonie.
 	  - Code monétaire et financier - art. L412-2 (M)
 
 
-##### Section 2 : Les catégories de marché
+##### Section 2 : Les plates-formes de négociation
 
 ###### Article L744-3
 
-Le chapitre Ier du titre II du livre IV est applicable en Nouvelle-Calédonie.
+Le titre II du livre IV est applicable en Nouvelle-Calédonie, à l'exception de l'article L. 421-13, du deuxième alinéa du II
+de l'article L. 421-14, du huitième alinéa de l'article L. 421-17 et des articles L. 421-20, L. 422-1, L. 424-4, L. 424-9, L.
+424-10 et L. 426-1 et sous réserve des adaptations suivantes : 
 
-Les articles L. 462-1 et L. 462-2 y sont également applicables.
+a) A l'article L. 421-2, les mots : " sur le territoire de la France métropolitaine ou des départements d'outre-mer " sont
+remplacés par les mots : " en France " ; 
 
-**Nota:**
+b) Aux articles L. 421-6 et L. 424-11, la date : " 1er novembre 2007 " est remplacée par la date : " 1er mai 2008 ". 
 
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+L'article L. 464-2 est également applicable en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -54283,37 +54302,24 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cite**:
-
-	  - Code monétaire et financier - art. L462-1 (M)
-	  - Code monétaire et financier - art. L462-2 (V)
-
-
-###### Article L744-4
-
-L'article L. 423-1 est applicable en Nouvelle-Calédonie.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-531 1989-08-02 art. 42
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 8 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L423-1 (M)
+	  - Code monétaire et financier - art. L421-13 (V)
+	  - Code monétaire et financier - art. L421-14 (V)
+	  - Code monétaire et financier - art. L421-17 (V)
+	  - Code monétaire et financier - art. L421-2 (VT)
+	  - Code monétaire et financier - art. L421-20 (VT)
+	  - Code monétaire et financier - art. L421-6 (V)
+	  - Code monétaire et financier - art. L422-1 (VT)
+	  - Code monétaire et financier - art. L424-11 (V)
+	  - Code monétaire et financier - art. L424-4 (VT)
+	  - Code monétaire et financier - art. L424-9 (VT)
+	  - Code monétaire et financier - art. L426-1 (V)
+	  - Code monétaire et financier - art. L464-2 (V)
 
 
 ##### Section 3 : Les négociations sur instruments financiers
@@ -54509,17 +54515,29 @@ sur l'Espace économique européen" sont remplacés par le mot "français".
 	  - Code monétaire et financier - art. L433-3 (M)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensation
+##### Section 4 : Les chambres de compensation
 
 ###### Article L744-11
 
-Le titre IV du livre IV est applicable en Nouvelle-Calédonie.
+I.-Le titre IV du livre IV est applicable en Nouvelle-Calédonie, à l'exception des deux derniers alinéas de l'article L.
+440-2, sous réserve des adaptations prévues au II. 
 
-Les articles L. 464-1 et L. 464-2 s'y appliquent également.
+II.-L'article L. 440-2 est adapté comme suit : 
 
-**Nota:**
+1° Aux 1 et 2, les mots : " dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur
+l'Espace économique européen " sont remplacés par les mots : " en France " ; 
 
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+2° Au 4, les mots : " métropolitaine ou dans les départements d'outre-mer " sont supprimés ; 
+
+3° Au 5, les mots : " qui n'est ni membre de la Communauté européenne ni partie à l'accord sur l'Espace économique européen "
+sont remplacés par les mots : " autre que la France " et les mots : 
+
+" sur le territoire de la France métropolitaine ou des départements d'outre-mer " sont remplacés par les mots : " en France
+" ; 
+
+4° Au septième alinéa, les mots : " métropolitaine ou dans les départements d'outre-mer " sont supprimés. 
+
+III.-L'article L. 464-1 est également applicable en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -54527,18 +54545,14 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
-
 	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 27 (V) JORF 12 décembre 2001
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 8 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L464-1 (M)
-	  - Code monétaire et financier - art. L464-2 (M)
+	  - Code monétaire et financier - art. L440-2 (VT)
+	  - Code monétaire et financier - art. L464-1 (V)
 
 
 ##### Section 5 : La protection des investisseurs
@@ -55164,15 +55178,13 @@ Les articles L. 572-1 à L. 572-4 y sont également applicables.
 
 ###### Article L745-9
 
-Le chapitre Ier du titre III du livre V est applicable en Nouvelle-Calédonie à l'exception de l'article L. 531-3 et sous
-réserve des adaptations suivantes :
+Le chapitre Ier du titre III du livre V est applicable en Nouvelle-Calédonie sous réserve des adaptations suivantes : 
 
-- à l'article L. 531-2 les mots : " mais sans pouvoir prétendre au bénéfice des dispositions des articles L. 422-1, L. 532-16
-à L. 532-27 et des deuxième et troisième alinéas de l'article L. 612-2 " sont supprimés.
+a) A l'article L. 531-2, les mots : " mais sans pouvoir prétendre au bénéfice des dispositions des articles L. 532-16 à L.
+532-27 " sont supprimés ; 
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+b) A l'article L. 531-10, les mots : " ou qu'une personne mentionnée à l'article L. 532-18 ou à l'article L. 532-18-1 " sont
+supprimés.
 
 **Liens relatifs à cet article**
 
@@ -55186,15 +55198,12 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 10 (V) JORF 21 août 2004
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008 rectificatif JORF 27 octobre 2007
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L422-1 (M)
-	  - Code monétaire et financier - art. L531-2 (M)
-	  - Code monétaire et financier - art. L531-3 (Ab)
-	  - Code monétaire et financier - art. L612-2 (M)
-	  - Code monétaire et financier L531-3, L531-2, L422-1, L532-16 à L532-27, L612-2
+	  - Code monétaire et financier - art. L531-10 (V)
+	  - Code monétaire et financier - art. L531-2 (V)
 
 
 ##### Sous-section 2 : Les conditions d'accès à la profession
@@ -55202,12 +55211,13 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 ###### Article L745-10
 
 Le chapitre II du titre III du livre V, à l'exception des articles L. 532-16 à L. 532-27, est applicable en Nouvelle-
-Calédonie. A l'article L. 532-5, les mots : " et bénéficient des dispositions des articles L. 422-1 et L. 532-23 à L. 532-26
-" sont supprimés.
+Calédonie, sous réserve des adaptations suivantes : 
 
-**Nota:**
+a) Au dernier alinéa de l'article L. 532-1, les mots : " soit ont été agréés dans un autre Etat membre de la Communauté
+européenne, soit ne relèvent pas du droit de l'un de ces Etats " sont remplacés par les mots : " ont été agréés dans un Etat
+autre que la France " ; 
 
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+b) A l'article L. 532-5, les mots : " et bénéficient des dispositions des articles L. 532-23 à L. 532-25 " sont supprimés.
 
 **Liens relatifs à cet article**
 
@@ -55219,11 +55229,15 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L422-1 (M)
-	  - Code monétaire et financier - art. L532-5 (M)
-	  - Code monétaire et financier L532-16 à L532-27, L532-5, L422-1, L532-23 à L532-26
+	  - Code monétaire et financier - art. L532-1 (V)
+	  - Code monétaire et financier - art. L532-16 (V)
+	  - Code monétaire et financier - art. L532-5 (V)
 
 	**Cité par**:
 
@@ -55333,6 +55347,39 @@ Les articles L. 544-1 à L. 544-4 sont applicables en Nouvelle-Calédonie.
 	  - Code monétaire et financier L544-1 à L544-4
 
 
+###### Article L745-11-4
+
+Les articles L. 545-1 à L. 545-7 sont applicables en Nouvelle-Calédonie, sous réserve des adaptations suivantes : 
+
+a) A l'article L. 545-1, les mots : " au sens du 25 du paragraphe 1 de l'article 4 de la directive 2004/34/ CE du 21 avril
+2004 " sont supprimés ; 
+
+b) A l'article L. 545-5, les mots : " en France métropolitaine ou dans les départements d'outre-mer " sont remplacés par les
+mots : " en France " ; 
+
+c) Pour l'application des articles L. 545-1 à L. 545-7, on entend par " agent lié " toute personne physique ou morale qui,
+sous la responsabilité entière et inconditionnelle d'un seul et unique prestataire de services d'investissement pour le
+compte duquel elle agit, fait la promotion auprès de clients, notamment de clients potentiels, de services d'investissement,
+reçoit et transmet les instructions ou les ordres de clients concernant des instruments financiers ou des services
+d'investissement, place des instruments financiers ou fournit à des clients, notamment des clients potentiels, des conseils
+sur ces instruments ou services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L545-1 (V)
+	  - Code monétaire et financier - art. L545-5 (V)
+
+
 ##### Section 5 : Intermédiaires en biens divers
 
 ###### Article L745-12
@@ -55436,14 +55483,10 @@ Le chapitre Ier du titre Ier du livre VI est applicable en Nouvelle-Calédonie.
 ###### Article L746-2
 
 Les articles L. 612-1, le premier alinéa de l'article L. 612-2, les articles L. 612-3 à L. 612-6, à l'exclusion de la
-dernière phrase du troisième alinéa de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables en Nouvelle-
+dernière phrase du deuxième alinéa de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables en Nouvelle-
 Calédonie.
 
 L'article L. 641-1 s'y applique également.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -55458,7 +55501,7 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 106 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
@@ -55473,14 +55516,10 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 ###### Article L746-3
 
-Le chapitre III du titre Ier du livre VI est applicable en Nouvelle-Calédonie à l'exception des articles L. 613-12 à L.
-613-14, L. 613-31-1 à L. 613-31-10 et L. 613-33.
+Le chapitre III du titre Ier du livre VI est applicable en Nouvelle-Calédonie à l'exception des articles L. 613-31-1 à L.
+613-31-10 et L. 613-33. 
 
 L'article L. 641-2 s'y applique également.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -55495,13 +55534,13 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-1127 2004-10-21 art. 2 3° JORF 22 octobre 2004
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L613-33 (M)
-	  - Code monétaire et financier - art. L641-2 (V)
-	  - Code monétaire et financier L613-12 à L613-14, L613-31-1 à L613-31-10, L613-33, L641-2
+	  - Code monétaire et financier - art. L613-31-1 (V)
+	  - Code monétaire et financier - art. L613-33 (V)
+	  - Code monétaire et financier - art. L641-2 (Ab)
 
 
 ##### Sous-section 4 : Comité consultatif du secteur financier et comité consultatif de la législation et de la réglementation financières
@@ -55562,10 +55601,10 @@ L'article L. 615-1 est applicable en Nouvelle-Calédonie.
 
 ###### Article L746-5
 
-Art. L. 746-5. - I. - Les articles L. 621-1 à L. 621-7-1, les I, II, III, IV, VII, VIII, IX de l'article L. 621-8, les
-articles L. 621-8-1, L. 621-8-2, L. 621-9 à L. 621-20-1, l'article L. 621-21, à l'exception du deuxième alinéa, les articles
-L. 621-22 à L. 621-35 ainsi que les articles L. 642-1 et L. 642-3 sont applicables en Nouvelle-Calédonie sous réserve des
-adaptations prévues au II.
+Art. L. 746-5. - I. - Les articles L. 621-1 à L. 621-7-2, les I, II, III, IV, VII, VIII, IX de l'article L. 621-8, les
+articles L. 621-8-1, L. 621-8-2, L. 621-9, à l'exception de son dernier alinéa, L. 621-9-1 à L. 621-20-1, L. 621-22 à L.
+621-35 ainsi que les articles L. 642-1 et L. 642-3 sont applicables en Nouvelle-Calédonie sous réserve des adaptations
+prévues au II.
 
 II. - 1° Pour l'application du I de l'article L. 621-8 :
 
@@ -55586,10 +55625,6 @@ sur un marché réglementé a eu lieu en France ;
 2003/6/CE du Parlement européen et du Conseil en ce qui concerne la présentation équitable des recommandations
 d'investissement et la mention des conflits d'intérêts" sont supprimés.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -55603,7 +55638,7 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 2 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
@@ -55614,18 +55649,51 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 	  - Code monétaire et financier - art. L621-8-2 (V)
 	  - Code monétaire et financier - art. L642-1 (M)
 	  - Code monétaire et financier - art. L642-3 (M)
-	  - Code monétaire et financier L621-1 à L621-7-1, L621-8, L621-8-1, L621-8-2, L621-9 à L621-20-1, L621-21, L621-22 à L621-35, L642-1, L642-3, L621-32
+	  - Code monétaire et financier L621-1 à L621-7-2, L621-8, L621-8-1, L621-8-2, L621-9 à L621-20-1, L621-21, L621-22 à L621-35, L642-1, L642-3, L621-32
 
 
-##### Section 3 : Echanges d'informations
+##### Section 3 : Coopération et échanges d'informations
 
 ###### Article L746-8
 
-Les articles L. 631-1, L. 631-2 et L. 632-1 sont applicables en Nouvelle-Calédonie.
+I. - Les articles L. 631-1, L. 631-2, L. 632-3, L. 632-7, L. 632-13 à L. 632-17 sont applicables en Nouvelle-Calédonie, sous
+réserve des adaptations prévues au II.
 
-**Nota:**
+II. - 1° Au I et au II de l'article L. 632-7 et à l'article L. 632-13, les mots : "non membre de la Communauté européenne et
+non partie à l'accord sur l'Espace économique européen," sont remplacés par les mots : "autre que la France" ;
 
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+2° Au III de l'article L. 632-7, les mots : "d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen ou d'un pays tiers" sont remplacés par les mots : "autre que la France" ;
+
+3° A l'article L. 632-14 :
+
+a) Au premier et au quatrième alinéas, les mots : "des articles L. 632-12 et L. 632-13" sont remplacés par les mots : "de
+l'article L. 632-13" ;
+
+b) Au deuxième alinéa, les mots : "les articles L. 632-12 et L. 632-13" sont remplacés par les mots : "l'article L. 632-13" ;
+
+4° A l'article L. 632-15 :
+
+a) Les mots : "les articles L. 632-12 et L. 632-13" sont remplacés par les mots : "l'article L. 632-13" ;
+
+b) Les mots : "non parties à l'accord sur l'Espace économique européen" sont remplacés par les mots : "autres que la
+France" ;
+
+5° A l'article L. 632-16 :
+
+a) Au premier et au deuxième alinéas, les mots : "non membre de la Communauté européenne et qui n'est pas partie à l'accord
+sur l'Espace économique européen" sont remplacés par les mots : "autre que la France" ;
+
+b) Au troisième alinéa, les mots : "de l'article L. 632-5 et du III de l'article L. 632-7" sont remplacés par les mots : "du
+III de l'article L. 632-7" ;
+
+c) Il est ajouté un alinéa ainsi rédigé :
+
+L'Autorité des marchés financiers et la Commission bancaire ne peuvent refuser d'accéder aux demandes des autorités des Etats
+autres que la France d'exercer les activités prévues au premier alinéa que lorsque la demande est de nature à porter atteinte
+à la souveraineté, à la sécurité ou à l'ordre public français ou lorsqu'une procédure pénale quelconque a déjà été engagée en
+France sur la base des mêmes faits et contre les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une
+décision passée en force de chose jugée pour les mêmes faits.
 
 **Liens relatifs à cet article**
 
@@ -55633,11 +55701,23 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L631-1 (M)
 	  - Code monétaire et financier - art. L631-2 (M)
-	  - Code monétaire et financier - art. L632-1 (M)
+	  - Code monétaire et financier - art. L632-12 (V)
+	  - Code monétaire et financier - art. L632-13 (V)
+	  - Code monétaire et financier - art. L632-14 (V)
+	  - Code monétaire et financier - art. L632-15 (MMN)
+	  - Code monétaire et financier - art. L632-16 (V)
+	  - Code monétaire et financier - art. L632-3 (V)
+	  - Code monétaire et financier - art. L632-5 (V)
+	  - Code monétaire et financier - art. L632-7 (V)
+	  - Code monétaire et financier L631-1, L631-2, L632-3, L632-7, L632-13 à L632-17, L632-13, L632-14, L632-15, L632-16, L632-12, L632-5
 
 
 ### Titre V : Dispositions applicables en Polynésie française
@@ -56242,11 +56322,7 @@ Les articles L. 313-50 et L. 313-51 sont applicables en Polynésie française.
 
 Le titre II du livre III est applicable en Polynésie française.
 
-A l'article L. 322-2, la référence aux articles L. 312-17 et L. 312-18 est supprimée.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+A l'article L. 322-2 et à l'article L. 322-6, la référence aux articles L. 312-17 et L. 312-18 est supprimée.
 
 **Liens relatifs à cet article**
 
@@ -56258,11 +56334,16 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 7 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L312-17 (M)
 	  - Code monétaire et financier - art. L312-18 (M)
 	  - Code monétaire et financier - art. L322-2 (V)
+	  - Code monétaire et financier - art. L322-6 (V)
 
 
 ##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers
@@ -56271,12 +56352,9 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 Les articles L. 330-1 et L. 330-2 sont applicables en Polynésie française sous réserve, au I de l'article L. 330-1, de
 supprimer au premier alinéa les mots : "ou internationale" et "ou d'établissement non résident ayant un statut comparable",
-la seconde phrase du deuxième alinéa ainsi que le troisième alinéa. A l'article L. 330-2, la référence au livre VI du code de
-commerce est remplacée par la référence aux dispositions en vigueur en Polynésie française ayant le même objet.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+la seconde phrase du deuxième alinéa ainsi que les troisième, quatrième et cinquième alinéas. A l'article L. 330-2, la
+référence au livre VI du code de commerce est remplacée par la référence aux dispositions en vigueur en Polynésie française
+ayant le même objet.
 
 **Liens relatifs à cet article**
 
@@ -56290,7 +56368,7 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 7 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
@@ -56430,17 +56508,23 @@ Les articles L. 412-1, et L. 412-2 sont applicables en Polynésie française.
 	  - Code monétaire et financier - art. L412-2 (M)
 
 
-##### Section 2 : Les catégories de marché
+##### Section 2 : Les plates-formes de négociation
 
 ###### Article L754-3
 
-Le chapitre Ier du titre II du livre IV est applicable en Polynésie française.
+Le titre II du livre IV est applicable en Polynésie française, à l'exception de l'article L. 421-13, du deuxième alinéa du II
+de l'article L. 421-14, du huitième alinéa de l'article L. 421-17 et des articles L. 421-20, L. 422-1, L. 424-4, L. 424-9, L.
+424-10 et L. 426-1 et sous réserve des adaptations suivantes : 
 
-Les articles L. 462-1 et L. 462-2 y sont également applicables.
+a) A l'article L. 421-2, les mots : " sur le territoire de la France métropolitaine ou des départements d'outre-mer " sont
+remplacés par les mots : " en France " ; 
 
-**Nota:**
+b) A l'article L. 421-9, la référence au code de commerce est remplacée par la référence aux dispositions applicables
+localement ayant le même objet ; 
 
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+c) Aux articles L. 421-6 et L. 424-11, la date : " 1er novembre 2007 " est remplacée par la date : " 1er mai 2008 ". 
+
+L'article L. 464-2 est également applicable en Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -56452,37 +56536,24 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cite**:
-
-	  - Code monétaire et financier - art. L462-1 (M)
-	  - Code monétaire et financier - art. L462-2 (V)
-
-
-###### Article L754-4
-
-L'article L. 423-1 est applicable en Polynésie française.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-531 1989-08-02 art. 42
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 8 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L423-1 (M)
+	  - Code monétaire et financier - art. L421-13 (V)
+	  - Code monétaire et financier - art. L421-14 (V)
+	  - Code monétaire et financier - art. L421-17 (V)
+	  - Code monétaire et financier - art. L421-2 (V)
+	  - Code monétaire et financier - art. L421-20 (V)
+	  - Code monétaire et financier - art. L421-6 (V)
+	  - Code monétaire et financier - art. L421-9 (V)
+	  - Code monétaire et financier - art. L422-1 (V)
+	  - Code monétaire et financier - art. L424-11 (V)
+	  - Code monétaire et financier - art. L424-4 (V)
+	  - Code monétaire et financier - art. L424-9 (V)
+	  - Code monétaire et financier - art. L464-2 (V)
 
 
 ##### Section 3 : Les négociations sur instruments financiers
@@ -56690,17 +56761,29 @@ Pour l'application du IV de l'article L. 433-3, après les mots :
 	  - Code monétaire et financier - art. L433-3 (M)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensation
+##### Section 4 : Les chambres de compensation
 
 ###### Article L754-11
 
-Le titre IV du livre IV est applicable en Polynésie française.
+I.-Le titre IV du livre IV est applicable en Polynésie française, à l'exception des deux derniers alinéas de l'article L.
+440-2, sous réserve des adaptations prévues au II. 
 
-Les articles L. 464-1 et L. 464-2 s'y appliquent également.
+II.-L'article L. 440-2 est adapté comme suit : 
 
-**Nota:**
+1° Aux 1 et 2, les mots : " dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur
+l'Espace économique européen " sont remplacés par les mots : " en France " ; 
 
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+2° Au 4, les mots : " métropolitaine ou dans les départements d'outre-mer " sont supprimés ; 
+
+3° Au 5, les mots : " qui n'est ni membre de la Communauté européenne ni partie à l'accord sur l'Espace économique européen "
+sont remplacés par les mots : " autre que la France " et les mots : 
+
+" sur le territoire de la France métropolitaine ou des départements d'outre-mer " sont remplacés par les mots : " en France
+" ; 
+
+4° Au septième alinéa, les mots : " métropolitaine ou dans les départements d'outre-mer " sont supprimés. 
+
+III.-L'article L. 464-1 est également applicable en Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -56708,18 +56791,14 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
-
 	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 27 (V) JORF 12 décembre 2001
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 8 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L464-1 (M)
-	  - Code monétaire et financier - art. L464-2 (M)
+	  - Code monétaire et financier - art. L440-2 (VT)
+	  - Code monétaire et financier - art. L464-1 (V)
 
 
 ##### Section 5 : La protection des investisseurs
@@ -57343,15 +57422,14 @@ Les articles L. 520-1 à L. 520-4 ainsi que les articles L. 572-1 à L. 572-4 so
 
 ###### Article L755-9
 
-Le chapitre Ier du titre III du livre V est applicable en Polynésie française à l'exception de l'article L. 531-3 et sous
-réserve des adaptations suivantes :
+Le chapitre Ier du titre III du livre V est applicable en Polynésie française sous réserve des adaptations suivantes : 
 
-- à l'article L. 531-2 les mots : " mais sans pouvoir prétendre au bénéfice des dispositions des articles L. 422-1, L. 532-16
-à L. 532-27 et des deuxième et troisième alinéas de l'article L. 612-2 " sont supprimés.
+a) A l'article L. 531-2, les mots : " mais sans pouvoir prétendre au bénéfice des dispositions des articles L. 532-16 à L.
+532-27 " sont supprimés ; au d du 2° du même article, les références au code de commerce sont remplacées par des références
+aux dispositions applicables localement ayant le même objet ; 
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+b) A l'article L. 531-10, les mots : " ou qu'une personne mentionnée à l'article L. 532-18 ou à l'article L. 532-18-1 " sont
+supprimés.
 
 **Liens relatifs à cet article**
 
@@ -57365,15 +57443,12 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 10 (V) JORF 21 août 2004
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008 rectificatif JORF 27 octobre 2007
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L422-1 (M)
-	  - Code monétaire et financier - art. L531-2 (M)
-	  - Code monétaire et financier - art. L531-3 (Ab)
-	  - Code monétaire et financier - art. L612-2 (M)
-	  - Code monétaire et financier L531-3, L531-2, L422-1, L532-16 à L532-27, L612-2
+	  - Code monétaire et financier - art. L531-10 (V)
+	  - Code monétaire et financier - art. L531-2 (V)
 
 
 ##### Sous-section 2 : Les conditions d'accès à la profession
@@ -57381,12 +57456,16 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 ###### Article L755-10
 
 Le chapitre II du titre III du livre V, à l'exception des articles L. 532-16 à L. 532-27, est applicable en Polynésie
-française. A l'article L. 532-5, les mots : " et bénéficient des dispositions des articles L. 422-1 et L. 532-23 à L. 532-26
-" sont supprimés.
+française, sous réserve des adaptations suivantes : 
 
-**Nota:**
+a) Au dernier alinéa de l'article L. 532-1, les mots : " soit ont été agréés dans un autre Etat membre de la Communauté
+européenne, soit ne relèvent pas du droit de l'un de ces Etats " sont remplacés par les mots : " ont été agréés dans un Etat
+autre que la France " ; 
 
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+b) A l'article L. 532-5, les mots : " et bénéficient des dispositions des articles L. 532-23 à L. 532-25 " sont supprimés ; 
+
+c) Pour l'application de l'article L. 532-6, les références au code de commerce et au code civil sont remplacées par des
+références aux dispositions applicables localement ayant le même objet.
 
 **Liens relatifs à cet article**
 
@@ -57398,11 +57477,16 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L422-1 (M)
-	  - Code monétaire et financier - art. L532-5 (M)
-	  - Code monétaire et financier L532-16 à L532-27, L532-5, L422-1, L532-23 à L532-26
+	  - Code monétaire et financier - art. L532-1 (V)
+	  - Code monétaire et financier - art. L532-16 (V)
+	  - Code monétaire et financier - art. L532-5 (V)
+	  - Code monétaire et financier - art. L532-6 (V)
 
 	**Cité par**:
 
@@ -57512,6 +57596,40 @@ Les articles L. 544-1 à L. 544-4 sont applicables en Polynésie française.
 	  - Code monétaire et financier L544-1 à L544-4
 
 
+###### Article L755-11-4
+
+Les articles L. 545-1 à L. 545-7 sont applicables en Polynésie française sous réserve des adaptations suivantes : 
+
+a) A l'article L. 545-1, les mots : " au sens du 25 du paragraphe 1 de l'article 4 de la directive 2004/34/ CE du 21 avril
+2004 " sont supprimés ; 
+
+b) A l'article L. 545-5, les mots : " en France métropolitaine ou dans les départements d'outre-mer " sont remplacés par les
+mots : " en France " ; 
+
+c) Pour l'application des articles L. 545-1 à L. 545-7, on entend par " agent lié " toute personne physique ou morale qui,
+sous la responsabilité entière et inconditionnelle d'un seul et unique prestataire de services d'investissement pour le
+compte duquel elle agit, fait la promotion auprès de clients, notamment de clients potentiels, de services d'investissement,
+reçoit et transmet les instructions ou les ordres de clients concernant des instruments financiers ou des services
+d'investissement, place des instruments financiers ou fournit à des clients, notamment à des clients potentiels, des conseils
+sur ces instruments ou services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L545-1 (V)
+	  - Code monétaire et financier - art. L545-5 (V)
+	  - Directive 2004-34 CE 2004-04-21 art. 4
+
+
 ##### Section 5 : Les intermédiaires en biens divers
 
 ###### Article L755-12
@@ -57615,14 +57733,10 @@ Le chapitre Ier du titre Ier du livre VI est applicable en Polynésie française
 ###### Article L756-2
 
 Les articles L. 612-1, le premier alinéa de l'article L. 612-2, les articles L. 612-3 à L. 612-6, à l'exclusion de la
-dernière phrase du troisième alinéa de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables en Polynésie
+dernière phrase du deuxième alinéa de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables en Polynésie
 française.
 
 L'article L. 641-1 s'y applique également.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -57637,7 +57751,7 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 106 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
@@ -57652,14 +57766,10 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 ###### Article L756-3
 
-Le chapitre III du titre Ier du livre VI est applicable en Polynésie française à l'exception des articles L. 613-12 à L.
-613-14, L. 613-31-1 à L. 613-31-10 et L. 613-33.
+Le chapitre III du titre Ier du livre VI est applicable en Polynésie française à l'exception des articles L. 613-31-1 à L.
+613-31-10 et L. 613-33. 
 
 L'article L. 641-2 s'y applique également.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -57674,13 +57784,13 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-1127 2004-10-21 art. 2 4° JORF 22 octobre 2004
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L613-33 (M)
-	  - Code monétaire et financier - art. L641-2 (V)
-	  - Code monétaire et financier L613-12 à L613-14, L613-31-1 à L613-31-10, L613-33, L641-2
+	  - Code monétaire et financier - art. L613-31-1 (V)
+	  - Code monétaire et financier - art. L613-33 (V)
+	  - Code monétaire et financier - art. L641-2 (Ab)
 
 
 ##### Sous-section 4 : Comité consultatif du secteur financier et comité consultatif de la législation et de la réglementation financières
@@ -57777,10 +57887,9 @@ L'article L. 615-1 est applicable en Polynésie française.
 
 ###### Article L756-5
 
-I. - Les articles L. 621-1 à L. 621-7-1, les I, II, III, IV, VII, VIII, IX de l'article L. 621-8, les articles L. 621-8-1, L.
-621-8-2, L. 621-9 à L. 621-20-1, l'article L. 621-21, à l'exception du deuxième alinéa, les articles L. 621-22 à L. 621-35
-ainsi que les articles L. 642-1 et L. 642-3 sont applicables en Polynésie française sous réserve des adaptations prévues au
-II.
+I. - Les articles L. 621-1 à L. 621-7-2, les I, II, III, IV, VII, VIII, IX de l'article L. 621-8, les articles L. 621-8-1, L.
+621-8-2, L. 621-9, à l'exception de son dernier alinéa, L. 621-9-1 à L. 621-20-1, L. 621-22 à L. 621-35 ainsi que les
+articles L. 642-1 et L. 642-3 sont applicables en Polynésie française sous réserve des adaptations prévues au II.
 
 II. - 1° Pour l'application du I de l'article L. 621-8 :
 
@@ -57804,11 +57913,19 @@ dispositions applicables localement ayant le même objet.
 2003/6/CE du Parlement européen et du Conseil en ce qui concerne la présentation équitable des recommandations" sont
 supprimés.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
-
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive 2003-125 CE 2003-12-22
+	  - Code monétaire et financier - art. L621-22 (M)
+	  - Code monétaire et financier - art. L621-32 (V)
+	  - Code monétaire et financier - art. L621-8 (M)
+	  - Code monétaire et financier - art. L621-8-1 (V)
+	  - Code monétaire et financier - art. L621-8-2 (V)
+	  - Code monétaire et financier - art. L642-1 (M)
+	  - Code monétaire et financier - art. L642-3 (M)
+	  - Code monétaire et financier L621-1 à L621-7-2, L621-8, L621-8-1, L621-8-2, L621-9 à L621-20-1, L621-22 à L621-35, L642-1, L642-3, L621-22, L621-32
 
 	**Anciens textes**:
 
@@ -57821,31 +57938,51 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 2 (V) JORF 29 juillet 2006
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L621-21 (M)
-	  - Code monétaire et financier - art. L621-22 (M)
-	  - Code monétaire et financier - art. L621-32 (V)
-	  - Code monétaire et financier - art. L621-8 (M)
-	  - Code monétaire et financier - art. L621-8-1 (V)
-	  - Code monétaire et financier - art. L621-8-2 (V)
-	  - Code monétaire et financier - art. L642-1 (M)
-	  - Code monétaire et financier - art. L642-3 (M)
-	  - Code monétaire et financier L621-1 à L621-7-1, L621-8, L621-8-1, L621-8-2, L621-9 à L621-20-1, L621-21, L621-22 à L621-35, L642-1, L642-3, L621-22, L621-32
-	  - Directive 2003-125 2003-12-22
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 
-##### Section 3 : Echanges d'informations
+##### Section 3 : Coopération et échanges d'informations
 
 ###### Article L756-8
 
-Les articles L. 631-1, L. 631-2 et L. 632-1 sont applicables en Polynésie française.
+I. - Les articles L. 631-1, L. 631-2, L. 632-3, L. 632-7, L. 632-13 à L. 632-17 sont applicables en Polynésie française, sous
+réserve des adaptations prévues au II.
 
-**Nota:**
+II. - 1° Au I et au II de l'article L. 632-7 et à l'article L. 632-13, les mots : "non membre de la Communauté européenne et
+non partie à l'accord sur l'Espace économique européen," sont remplacés par les mots : "autre que la France" ;
 
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+2° Au III de l'article L. 632-7, les mots : "d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen ou d'un pays tiers" sont remplacés par les mots : "autre que la France" ;
+
+3° A l'article L. 632-14 :
+
+a) Au premier et au quatrième alinéas, les mots : "des articles L. 632-12 et L. 632-13", sont remplacés par les mots : "de
+l'article L. 632-13" ;
+
+b) Au deuxième alinéa, les mots : "les articles L. 632-12 et L. 632-13" sont remplacés par les mots : "l'article L. 632-13" ;
+
+4° A l'article L. 632-15 :
+
+a) Les mots : "les articles L. 632-12 et L. 632-13" sont remplacés par les mots : "l'article L. 632-13" ;
+
+b) Les mots : "non parties à l'accord sur l'Espace économique européen" sont remplacés par les mots : "autres que la
+France" ;
+
+5° A l'article L. 632-16 :
+
+a) Au premier et au deuxième alinéas, les mots : "non membre de la Communauté européenne et qui n'est pas partie à l'accord
+sur l'Espace économique européen" sont remplacés par les mots : "autre que la France" ;
+
+b) Au troisième alinéa, les mots : "de l'article L. 632-5 et du III de l'article L. 632-7" sont remplacés par les mots : "du
+III de l'article L. 632-7" ;
+
+c) Il est ajouté un alinéa ainsi rédigé :
+
+L'Autorité des marchés financiers et la Commission bancaire ne peuvent refuser d'accéder aux demandes des autorités des Etats
+autres que la France d'exercer les activités prévues au premier alinéa que lorsque la demande est de nature à porter atteinte
+à la souveraineté, à la sécurité ou à l'ordre public français ou lorsqu'une procédure pénale quelconque a déjà été engagée en
+France sur la base des mêmes faits et contre les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une
+décision passée en force de chose jugée pour les mêmes faits.
 
 **Liens relatifs à cet article**
 
@@ -57853,11 +57990,22 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L631-1 (M)
 	  - Code monétaire et financier - art. L631-2 (M)
-	  - Code monétaire et financier - art. L632-1 (M)
+	  - Code monétaire et financier - art. L632-12 (V)
+	  - Code monétaire et financier - art. L632-13 (V)
+	  - Code monétaire et financier - art. L632-14 (V)
+	  - Code monétaire et financier - art. L632-15 (MMN)
+	  - Code monétaire et financier - art. L632-16 (V)
+	  - Code monétaire et financier - art. L632-3 (V)
+	  - Code monétaire et financier - art. L632-7 (V)
+	  - Code monétaire et financier L631-1, L631-2, L632-3, L632-7, L632-13 à L632-17, L632-13, L632-14, L632-15, L632-16, L632-12
 
 
 ### Titre VI : Dispositions applicables dans les îles Wallis-et-Futuna
@@ -58484,11 +58632,7 @@ Les articles L. 313-50 et L. 313-51 sont applicables dans les îles Wallis-et-Fu
 
 Le titre II du livre III est applicable dans les îles Wallis-et-Futuna.
 
-A l'article L. 322-2 la référence aux articles L. 312-17 et L. 312-18 est supprimée.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+A l'article L. 322-2 et à l'article L. 322-6 la référence aux articles L. 312-17 et L. 312-18 est supprimée.
 
 **Liens relatifs à cet article**
 
@@ -58502,14 +58646,14 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 7 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L312-17 (M)
 	  - Code monétaire et financier - art. L312-18 (M)
 	  - Code monétaire et financier - art. L322-2 (V)
+	  - Code monétaire et financier - art. L322-6 (V)
 
 
 ##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers
@@ -58518,11 +58662,7 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 Les articles L. 330-1 et L. 330-2 sont applicables dans les îles Wallis et Futuna sous réserve, au I de l'article L. 330-1,
 de supprimer au premier alinéa les mots : "ou internationale" et "ou d'établissement non résident ayant un statut
-comparable", la seconde phrase du deuxième alinéa ainsi que le troisième alinéa.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+comparable", la seconde phrase du deuxième alinéa ainsi que les troisième, quatrième et cinquième alinéas.
 
 **Liens relatifs à cet article**
 
@@ -58536,8 +58676,7 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 7 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
@@ -58679,48 +58818,18 @@ Les articles L. 412-1, et L. 412-2 sont applicables dans les îles Wallis et Fut
 
 ##### Section 2 : Les plates-formes de négociation
 
-###### Article L764-4
-
-L'article L. 423-1 est applicable dans les îles Wallis-et-Futuna.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-531 1989-08-02 art. 42
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 8 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L423-1 (M)
-
-
-##### Section 2 : Les catégories de marché
-
 ###### Article L764-3
 
-Le chapitre Ier du titre II du livre IV est applicable dans les îles Wallis-et-Futuna. Les articles L. 462-1 et L. 462-2 y
-sont également applicables.
+Le titre II du livre IV est applicable dans les îles Wallis et Futuna, à l'exception de l'article L. 421-13, du deuxième
+alinéa du II de l'article L. 421-14, du huitième alinéa de l'article L. 421-17 et des articles L. 421-20, L. 422-1, L. 424-4,
+L. 424-9, L. 424-10 et L. 426-1 et sous réserve des adaptations suivantes : 
 
-**Nota:**
+a) A l'article L. 421-2, les mots : " sur le territoire de la France métropolitaine ou des départements d'outre-mer " sont
+remplacés par les mots : " en France " ; 
 
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+b) Aux articles L. 421-6 et L. 424-11, la date : " 1er novembre 2007 " est remplacée par la date : " 1er mai 2008 ". 
+
+L'article L. 464-2 est également applicable dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -58734,13 +58843,22 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 8 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L462-1 (M)
-	  - Code monétaire et financier - art. L462-2 (V)
+	  - Code monétaire et financier - art. L421-13 (V)
+	  - Code monétaire et financier - art. L421-14 (V)
+	  - Code monétaire et financier - art. L421-17 (V)
+	  - Code monétaire et financier - art. L421-2 (VT)
+	  - Code monétaire et financier - art. L421-20 (VT)
+	  - Code monétaire et financier - art. L421-6 (V)
+	  - Code monétaire et financier - art. L422-1 (VT)
+	  - Code monétaire et financier - art. L424-11 (V)
+	  - Code monétaire et financier - art. L424-4 (VT)
+	  - Code monétaire et financier - art. L424-9 (VT)
+	  - Code monétaire et financier - art. L426-1 (V)
+	  - Code monétaire et financier - art. L464-2 (V)
 
 
 ##### Section 3 : Les négociations sur instruments financiers
@@ -58938,17 +59056,29 @@ sur l'Espace économique européen" sont remplacés par le mot "français".
 	  - Code monétaire et financier - art. L433-3 (M)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensation
+##### Section 4 : Les chambres de compensation
 
 ###### Article L764-11
 
-Le titre IV du livre IV est applicable dans les îles Wallis-et-Futuna.
+I.-Le titre IV du livre IV est applicable dans les îles Wallis et Futuna, à l'exception des deux derniers alinéas de
+l'article L. 440-2, sous réserve des adaptations prévues au II. 
 
-Les articles L. 464-1 et L. 464-2 s'y appliquent également.
+II.-L'article L. 440-2 est adapté comme suit : 
 
-**Nota:**
+1° Aux 1 et 2, les mots : " dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur
+l'Espace économique européen " sont remplacés par les mots : " en France " ; 
 
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+2° Au 4, les mots : " métropolitaine ou dans les départements d'outre-mer " sont supprimés ; 
+
+3° Au 5, les mots : " qui n'est ni membre de la Communauté européenne ni partie à l'accord sur l'Espace économique européen "
+sont remplacés par les mots : " autre que la France " et les mots : 
+
+" sur le territoire de la France métropolitaine ou des départements d'outre-mer " sont remplacés par les mots : " en France
+" ; 
+
+4° Au septième alinéa, les mots : " métropolitaine ou dans les départements d'outre-mer " sont supprimés. 
+
+III.-L'article L. 464-1 est également applicable dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -58956,19 +59086,14 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
-
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 8 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L464-1 (M)
-	  - Code monétaire et financier - art. L464-2 (M)
+	  - Code monétaire et financier - art. L440-2 (VT)
+	  - Code monétaire et financier - art. L464-1 (V)
 
 
 ##### Section 5 : La protection des investisseurs
@@ -59302,14 +59427,14 @@ Les articles L. 572-1 à L. 572-4 s'y appliquent également.
 
 ###### Article L765-9
 
-Le chapitre Ier du titre 3 du livre V est applicable dans les îles Wallis-et-Futuna à l'exception de l'article L. 531-3.
+Le chapitre Ier du titre III du livre V est applicable dans les îles Wallis et Futuna sous réserve des adaptations
+suivantes : 
 
-A l'article L. 531-2 les mots " mais sans pouvoir prétendre au bénéfice des dispositions des articles L. 422-2 L. 532-16 à L.
-532-27 et des deuxième et troisième alinéas de l'article L. 612-2 " sont supprimés.
+a) A l'article L. 531-2 les mots et les références : " mais sans pouvoir prétendre au bénéfice des dispositions des articles
+L. 532-16 à L. 532-27 " sont supprimés ; 
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+b) A l'article L. 531-10, les mots et les références : " ou qu'une personne mentionnée à l'article L. 532-18 ou à l'article
+L. 532-18-1 " sont supprimés.
 
 **Liens relatifs à cet article**
 
@@ -59323,28 +59448,26 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L531-2 (M)
-	  - Code monétaire et financier - art. L531-3 (Ab)
-	  - Code monétaire et financier - art. L612-2 (M)
-	  - Code monétaire et financier L531-3, L531-2, L422-2 à L532-27, L612-2
+	  - Code monétaire et financier - art. L531-10 (V)
+	  - Code monétaire et financier - art. L531-2 (V)
 
 
 ##### Sous-section 2 : Les conditions d'accès à la profession
 
 ###### Article L765-10
 
-Le chapitre II du titre III du livre V à l'exception des articles L. 532-16 à L. 532-27 est applicable dans les îles Wallis-
-et-Futuna. A l'article L. 532-5, les mots " et bénéficient des dispositions des articles L. 422-2 et L. 532-23 à L. 532-27 "
-sont supprimés.
+Le chapitre II du titre III du livre V, à l'exception des articles L. 532-16 à L. 532-27, est applicable dans les îles Wallis
+et Futuna, sous réserve des adaptations suivantes : 
 
-**Nota:**
+a) Au dernier alinéa de l'article L. 532-1, les mots : " soit ont été agréés dans un autre Etat membre de la Communauté
+européenne, soit ne relèvent pas du droit de l'un de ces Etats " sont remplacés par les mots : " ont été agréés dans un Etat
+autre que la France " ; 
 
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+b) A l'article L. 532-5, les mots : " et bénéficient des dispositions des articles L. 532-23 à L. 532-25 " sont supprimés.
 
 **Liens relatifs à cet article**
 
@@ -59358,13 +59481,14 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L532-5 (M)
-	  - Code monétaire et financier L532-16 à L532-27, L532-5, L422-2, L532-23 à L532-27
+	  - Code monétaire et financier - art. L532-1 (V)
+	  - Code monétaire et financier - art. L532-16 (V)
+	  - Code monétaire et financier - art. L532-23 (VT)
+	  - Code monétaire et financier - art. L532-5 (V)
 
 
 ##### Sous-section 3 : Les obligations des prestataires de services d'investissement
@@ -59477,6 +59601,39 @@ Les articles L. 544-1 à L. 544-4 sont applicables dans les îles Wallis et Futu
 	**Cite**:
 
 	  - Code monétaire et financier L544-1 à L544-4
+
+
+###### Article L765-11-4
+
+Les articles L. 545-1 à L. 545-7 sont applicables dans les îles Wallis et Futuna sous réserve des adaptations suivantes : 
+
+a) A l'article L. 545-1, les mots : " au sens du 25 du paragraphe 1 de l'article 4 de la directive 2004/34/ CE du 21 avril
+2004 " sont supprimés ; 
+
+b) A l'article L. 545-5, les mots : " en France métropolitaine ou dans les départements d'outre-mer " sont remplacés par les
+mots : " en France " ; 
+
+c) Pour l'application des articles L. 545-1 à L. 545-7, on entend par " agent lié " toute personne physique ou morale qui,
+sous la responsabilité entière et inconditionnelle d'un seul et unique prestataire de services d'investissement pour le
+compte duquel elle agit, fait la promotion auprès de clients, notamment de clients potentiels, de services d'investissement,
+reçoit et transmet les instructions ou les ordres de clients concernant des instruments financiers ou des services
+d'investissement, place des instruments financiers ou fournit à des clients, notamment à des clients potentiels, des conseils
+sur ces instruments ou services.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L545-1 (V)
+	  - Code monétaire et financier - art. L545-5 (V)
 
 
 ##### Section 5 : Les intermédiaires en biens divers
@@ -59593,14 +59750,10 @@ Le chapitre Ier du titre Ier du livre VI est applicable dans les îles Wallis-et
 ###### Article L766-2
 
 Les articles L. 612-1, le premier alinéa de l'article L. 612-2, les articles L. 612-3 à L. 612-6, à l'exclusion de la
-dernière phrase du troisième alinéa de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables dans les îles
-Wallis-et-Futuna.
+dernière phrase du deuxième alinéa de l'article L. 612-6, ainsi que l'article L. 612-7 sont applicables dans les îles Wallis-
+et-Futuna.
 
 L'article L. 641-1 s'y applique également.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -59615,9 +59768,7 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II, art. 106 JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 106 () JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
@@ -59631,14 +59782,10 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 ###### Article L766-3
 
-Le chapitre III du titre Ier du livre VI est applicable dans les îles Wallis-et-Futuna à l'exception des articles L. 613-12 à
-L. 613-14, L. 613-31-1 à L613-31-10 et L. 613-33.
+Le chapitre III du titre Ier du livre VI est applicable dans les îles Wallis-et-Futuna à l'exception des articles L. 613-31-1
+à L613-31-10 et L. 613-33. 
 
 L'article L. 641-2 s'y applique également.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -59653,14 +59800,13 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L613-33 (M)
-	  - Code monétaire et financier - art. L641-2 (V)
-	  - Code monétaire et financier L613-12 à L613-14, L613-31-1 à L613-31-10, L613-33, L641-2
+	  - Code monétaire et financier - art. L613-31-1 (V)
+	  - Code monétaire et financier - art. L613-33 (V)
+	  - Code monétaire et financier - art. L641-2 (Ab)
 
 
 ##### Sous-section 4 : Comité consultatif du secteur financier et comité consultatif de la législation et de la réglementation financières
@@ -59718,10 +59864,9 @@ L'article L. 615-1 est applicable dans les îles Wallis et Futuna.
 
 ###### Article L766-5
 
-I. - Les articles L. 621-1 à L. 621-7-1, les I, II, III, IV, VII, VIII, IX de l'article L. 621-8, les articles L. 621-8-1, L.
-621-8-2, L. 621-9 à L. 621-20-1, l'article L. 621-21, à l'exception du deuxième alinéa, les articles L. 621-22 à L. 621-35
-ainsi que les articles L. 642-1 et L. 642-3 sont applicables dans les îles Wallis et Futuna sous réserve des adaptations
-prévues au II.
+I. - Les articles L. 621-1 à L. 621-7-2, les I, II, III, IV, VII, VIII, IX de l'article L. 621-8, les articles L. 621-8-1, L.
+621-8-2, L. 621-9, à l'exception de son dernier alinéa, L. 621-9-1 à L. 621-20-1, L. 621-22 à L. 621-35 ainsi que les
+articles L. 642-1 et L. 642-3 sont applicables dans les îles Wallis et Futuna sous réserve des adaptations prévues au II.
 
 II. - 1° Pour l'application du I de l'article L. 621-8 :
 
@@ -59742,10 +59887,6 @@ sur un marché réglementé a eu lieu en France ;
 2003/6/CE du Parlement européen et du Conseil en ce qui concerne la présentation équitable des recommandations" sont
 supprimés.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -59759,11 +59900,10 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 2 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L621-21 (M)
 	  - Code monétaire et financier - art. L621-32 (V)
 	  - Code monétaire et financier - art. L621-8 (M)
 	  - Code monétaire et financier - art. L621-8-1 (V)
@@ -59773,15 +59913,48 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 	  - Directive 2003-125 CE 2003-12-22
 
 
-##### Section 3 : Echanges d'informations
+##### Section 3 : Coopération et échanges d'informations
 
 ###### Article L766-8
 
-Les articles L. 631-1, L. 631-2 et L. 632-1 sont applicables dans les îles Wallis-et-Futuna.
+I. - Les articles L. 631-1, L. 631-2, L. 632-3, L. 632-7, L. 632-13 à L. 632-17 sont applicables dans les îles Wallis et
+Futuna, sous réserve des adaptations prévues au II.
 
-**Nota:**
+II. - 1° Au I et au II de l'article L. 632-7 et à l'article L. 632-13, les mots : "non membre de la Communauté européenne et
+non partie à l'accord sur l'Espace économique européen," sont remplacés par les mots : "autre que la France" ;
 
-La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
+2° Au III de l'article L. 632-7, les mots : "d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen ou d'un pays tiers" sont remplacés par les mots : "autre que la France" ;
+
+3° A l'article L. 632-14 :
+
+a) Au premier et au quatrième alinéas, les mots : "des articles L. 632-12 et L. 632-13", sont remplacés par les mots : "de
+l'article L. 632-13" ;
+
+b) Au deuxième alinéa, les mots : "les articles L. 632-12 et L. 632-13" sont remplacés par les mots : "l'article L. 632-13" ;
+
+4° A l'article L. 632-15 :
+
+a) Les mots : "les articles L. 632-12 et L. 632-13" sont remplacés par les mots : "l'article L. 632-13" ;
+
+b) Les mots : "non parties à l'accord sur l'Espace économique européen" sont remplacés par les mots : "autres que la
+France" ;
+
+5° A l'article L. 632-16 :
+
+a) Au premier et au deuxième alinéas, les mots : "non membre de la Communauté européenne et qui n'est pas partie à l'accord
+sur l'Espace économique européen" sont remplacés par les mots : "autre que la France" ;
+
+b) Au troisième alinéa, les mots : "de l'article L. 632-5 et du III de l'article L. 632-7" sont remplacés par les mots : "du
+III de l'article L. 632-7" ;
+
+c) Il est ajouté un alinéa ainsi rédigé :
+
+L'Autorité des marchés financiers et la Commission bancaire ne peuvent refuser d'accéder aux demandes des autorités des Etats
+autres que la France d'exercer les activités prévues au premier alinéa que lorsque la demande est de nature à porter atteinte
+à la souveraineté, à la sécurité ou à l'ordre public français ou lorsqu'une procédure pénale quelconque a déjà été engagée en
+France sur la base des mêmes faits et contre les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une
+décision passée en force de chose jugée pour les mêmes faits.
 
 **Liens relatifs à cet article**
 
@@ -59791,14 +59964,19 @@ La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L631-1 (M)
 	  - Code monétaire et financier - art. L631-2 (M)
-	  - Code monétaire et financier - art. L632-1 (M)
+	  - Code monétaire et financier - art. L632-12 (V)
+	  - Code monétaire et financier - art. L632-13 (V)
+	  - Code monétaire et financier - art. L632-14 (V)
+	  - Code monétaire et financier - art. L632-15 (MMN)
+	  - Code monétaire et financier - art. L632-16 (V)
+	  - Code monétaire et financier - art. L632-3 (V)
+	  - Code monétaire et financier - art. L632-7 (V)
 
 
 # Partie réglementaire
@@ -80124,7 +80302,7 @@ octroyés par un établissement de crédit agréé en France au titre :
 les retenues de garantie en matière de marchés de travaux définis par le 3° de l'article 1779 du code civil et des articles
 13-1 et 14 de la loi n° 75-1334 du 31 décembre 1975 modifiée relative à la sous-traitance ;
 
-2° De l'article L. 124-8 et de l'article L. 763-9 du code du travail ;
+2° Des articles L. 1251-49 à L. 1251-53 et des articles L. 7123-19, L. 7123-21 et L. 7123-22 du code du travail ;
 
 3° De l'article L. 530-1 du code des assurances ;
 
@@ -80174,7 +80352,6 @@ commerçant étranger ;
 	**Cite**:
 
 	  - Arrêté 1995-05-06 art. 16
-	  - Code rural R141-2, L212-2, L213-3, L213-5, L213-7
 	  - Loi n°70-9 du 2 janvier 1970 - art. 3 (M)
 	  - Loi n°71-584 du 16 juillet 1971 - art. 1 (V)
 	  - Loi n°71-1130 du 31 décembre 1971 - art. 27 (M)
@@ -80201,16 +80378,16 @@ commerçant étranger ;
 	  - Code du travail - art. L763-9 (AbD)
 	  - Code des assurances - art. L530-1 (Ab)
 	  - Code de la construction et de l'habitation R222-9, R222-11, R261-17 à R261-24
+	  - Code rural R141-2, L212-2, L213-3, L213-5, L213-7
 	  - Décret n°1852-01-09
 
 	**Anciens textes**:
 
-	  - Décret n°99-776 du 8 septembre 1999 - art. 1 (M)
 	  - Décret n°99-776 du 8 septembre 1999 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 	**Cité par**:
 
