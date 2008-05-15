@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-05-12
+Version Consolidée au 2008-05-16
 
 # Partie législative
 
@@ -61514,11 +61514,21 @@ justifiés pendant un an à compter de la date de régularisation ou, à défaut
 
 ###### Article D131-25
 
-Lorsque le montant d'un chèque rejeté pour défaut ou insuffisance de provision est inférieur à 50 euros, l'ensemble des frais
-de toute nature perçus au titre de son rejet par le tiré ne peut excéder un montant de 30 euros. Ce plafonnement des frais
-concerne notamment la facturation de l'envoi d'une lettre d'injonction ou d'une commission d'incident ou de rejet d'un
-chèque. Cette règle s'applique quelle que soit la dénomination et la justification des frais facturés par l'établissement
-concerné à l'occasion du rejet d'un chèque.
+Les frais bancaires perçus par le tiré à l'occasion du rejet d'un chèque, pour défaut ou insuffisance de provision,
+comprennent l'ensemble des sommes facturées par le tiré au titulaire du compte, quelles que soient la dénomination et la
+justification de ces sommes. 
+
+En particulier, les frais engendrés par l'obligation mise à la charge du tiré, au titre de l'article L. 131-73, d'informer le
+titulaire du compte du défaut de provision, sont inclus dans les frais mentionnés au premier alinéa dès lors qu'un incident
+de paiement est constitué. La facturation de l'envoi d'une lettre d'injonction ou d'une commission d'incident ou de rejet de
+chèque est également comprise dans ces mêmes frais. 
+
+Les frais bancaires perçus par le tiré à l'occasion du rejet d'un chèque ne peuvent excéder un montant de 30 euros pour les
+chèques d'un montant inférieur ou égal à 50 euros et un montant de 50 euros pour les chèques d'un montant supérieur à 50
+euros. 
+
+Constitue un incident de paiement unique le rejet d'un chèque présenté au paiement à plusieurs reprises dans les 30 jours
+suivant le premier rejet.
 
 **Liens relatifs à cet article**
 
@@ -61533,7 +61543,7 @@ concerné à l'occasion du rejet d'un chèque.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+	  - Décret n°2007-1611 du 15 novembre 2007 - art. 1 () JORF 16 novembre 2007 en vigueur le 16 mai 2008
 
 	**Cité par**:
 
@@ -61541,6 +61551,10 @@ concerné à l'occasion du rejet d'un chèque.
 	  - Code monétaire et financier - art. D741-4 (V)
 	  - Code monétaire et financier - art. D751-4 (V)
 	  - Code monétaire et financier - art. D761-4 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L131-73 (V)
 
 
 ###### Article R131-15
@@ -79104,6 +79118,60 @@ intérêts.
 	**Modifié par**:
 
 	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+
+
+##### Sous-section 1 bis : Incidents de paiement
+
+###### Article D312-4-1
+
+Pour l'application de l'article L. 312-1-1, constitue un incident de paiement tout rejet d'un ordre de paiement reçu par la
+banque du payeur en raison d'un défaut ou d'une insuffisance de provision, quel que soit le moyen de paiement utilisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-1611 du 15 novembre 2007 - art. 2 () JORF 16 novembre 2007 en vigueur le 16 mai 2008
+
+	**Abrogé par**:
+
+	  - Décret n°2009-934 du 29 juillet 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L312-1-1
+
+
+###### Article D312-4-2
+
+Pour les incidents de paiement autres que le rejet d'un chèque, les frais bancaires perçus par la banque du payeur au titre
+d'un incident ne peuvent excéder le montant de l'ordre de paiement rejeté, dans la limite d'un plafond de 20 euros.
+
+Les frais bancaires perçus par la banque du payeur à l'occasion d'un incident de paiement comprennent l'ensemble des sommes
+facturées par la banque du payeur au titulaire du compte, quelles que soient la dénomination et la justification de ces
+sommes.
+
+Lorsque plusieurs demandes de paiement concernant la même opération de paiement ont été rejetées par la banque, le payeur
+peut demander le remboursement des frais perçus au titre de ces incidents au-delà du montant facturé pour le premier rejet.
+La preuve que ces demandes de paiement concernent la même opération de paiement est apportée par le payeur par tout moyen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-1611 du 15 novembre 2007 - art. 2 () JORF 16 novembre 2007 en vigueur le 16 mai 2008
+
+	**Abrogé par**:
+
+	  - Décret n°2009-934 du 29 juillet 2009 - art. 2
 
 
 ##### Sous-section 2 : Services bancaires de base.
