@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-05-29
+Version Consolidée au 2008-06-01
 
 # Partie législative
 
@@ -72448,29 +72448,9 @@ leurs observations, les commissaires aux comptes déposent au siège social de l
 spécial prévu à l'article L. 214-76.
 
 Les commissaires aux comptes sont soumis, dans l'exercice de leurs fonctions, aux dispositions des articles R. 821-23 à R.
-822-4, R. 822-6 à R. 823-10 du code de commerce ainsi qu'à l'article 5 du décret n° 69-810 du 12 août 1969 relatif à
-l'organisation et au statut professionnel des commissaires aux comptes de sociétés.
-
-**Nota:**
-
-Le décret n° 69-810 du 12 août 1969 relatif à l'organisation de la profession et au statut professionnel des commissaires aux
-comptes est abrogé ; toutefois, son article 5 reste applicable, dans sa rédaction antérieure à l'entrée en vigueur du décret
-n° 2007-179 du 9 février 2007 modifiant le décret n° 69-810 du 12 août 1969 relatif à l'organisation de la profession et au
-statut professionnel des commissaires aux comptes, jusqu'au 1er juin 2008, (art 5 II 2° du décret n° 2007-431).  Les articles
-R. 822-5 et R. 821-27 du code de commerce entreront en vigueur le 1er juin 2008, (art. 5 III du décret n° 2007-431).  La
-présente version de cet article est en vigueur jusqu'au 1er juin 2008.
+823-10 du code de commerce.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°69-810 du 12 août 1969 - art. 5 (M)
-	  - Décret n°2007-179 2007-02-09
-	  - Décret n°2007-431 du 25 mars 2007 - art. 5, v. init.
-	  - Code de commerce R821-23 à R822-4, R822-6 à R823-10, R822-5, R821-27
-	  - Code de commerce. - art. R821-27 (VD)
-	  - Code de commerce. - art. R822-5 (VD)
-	  - Code monétaire et financier - art. L214-76 (V)
 
 	**Anciens textes**:
 
@@ -72483,7 +72463,12 @@ présente version de cet article est en vigueur jusqu'au 1er juin 2008.
 
 	**Modifié par**:
 
-	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007 en vigueur le 1er juin 2008
+
+	**Cite**:
+
+	  - Code de commerce R821-23 à R823-10
+	  - Code monétaire et financier - art. L214-76 (V)
 
 	**Cité par**:
 
@@ -90246,36 +90231,16 @@ aux détenteurs des droits.
 
 Le commissaire aux comptes mentionné à l'article L. 550-2 est désigné par ordonnance sur requête du président du tribunal de
 commerce du lieu du domicile ou du siège social du gestionnaire, après avis de l'Autorité des marchés financiers. Ce tribunal
-est compétent pour relever les commissaires aux comptes de leurs fonctions dans les cas prévus à l'article L. 550-5.
+est compétent pour relever les commissaires aux comptes de leurs fonctions dans les cas prévus à l'article L. 550-5. 
 
-Pour l'exercice de sa mission, le commissaire aux comptes est soumis aux dispositions des articles R. 821-1 à R. 822-4, R.
-822-6 à R. 823-21 du code de commerce ainsi qu'à l'article 5 du décret n° 69-810 du 12 août 1969 relatif à l'organisation et
-au statut professionnel des commissaires aux comptes de sociétés.
+Pour l'exercice de sa mission, le commissaire aux comptes est soumis aux dispositions des articles R. 821-1 à R. 823-21 du
+code de commerce.
 
 **Nota:**
 
-Le décret n° 69-810 du 12 août 1969 relatif à l'organisation de la profession et au statut professionnel des commissaires aux
-comptes est abrogé ; toutefois, son article 5 reste applicable, dans sa rédaction antérieure à l'entrée en vigueur du décret
-n° 2007-179 du 9 février 207 modifiant le décret n° 69-810 du 12 août 1969 relatif à l'organisation de la profession et au
-statut professionel des commissaires aux comptes, jusqu'au 1er juin 2008, (art. 5 II 2° du décret n° 2007-431).
 
-L'article R. 823-21 du code de commerce entrera en vigueur pour les exercices clos après le 1er juin 2008.
-
-Les articles R. 822-5 et R. 821-27 entreront en vigueur le 1er juin 2008 (art. 5 III du décret n° 2007-431).
-
-La présente version de cet article est en vigueur jusqu'au 1er juin 2008.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°69-810 du 12 août 1969 - art. 5 (M)
-	  - Décret n°2007-179 2007-02-09
-	  - Décret n°2007-431 2007-03-25
-	  - Code de commerce R821-1 à R822-4, R822-6 à R823-21
-	  - Code monétaire et financier - art. L550-2 (V)
-	  - Code monétaire et financier - art. L550-5 (M)
-	  - Code monétaire et financier L550-2, L550-5, R822-5, R821-27
 
 	**Anciens textes**:
 
@@ -90288,7 +90253,13 @@ La présente version de cet article est en vigueur jusqu'au 1er juin 2008.
 
 	**Modifié par**:
 
-	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007 en vigueur le 1er juin 2008
+
+	**Cite**:
+
+	  - Code de commerce - art. R821-1 (V)
+	  - Code monétaire et financier - art. L550-2 (V)
+	  - Code monétaire et financier - art. L550-5 (V)
 
 
 ### Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes.
