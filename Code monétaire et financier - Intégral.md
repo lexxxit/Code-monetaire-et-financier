@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-06-01
+Version Consolidée au 2008-06-13
 
 # Partie législative
 
@@ -85767,50 +85767,51 @@ Il exerce les compétences qui lui sont déléguées par le conseil d'administra
 
 ###### Article R516-13
 
-I. - Le conseil d'administration de l'agence comprend, outre son président, quinze membres, désignés dans les conditions
-suivantes :
+I.-Le conseil d'administration de l'agence comprend, outre son président, seize membres, désignés dans les conditions
+suivantes : 
 
-1° Cinq membres représentant l'Etat, dont :
+1° Six membres représentant l'Etat, dont : 
 
-a) Deux membres nommés par décret pris sur le rapport du ministre chargé de l'économie ;
+a) Deux membres nommés par décret pris sur le rapport du ministre chargé de l'économie ; 
 
-b) Deux membres nommés par décret pris sur le rapport du ministre chargé de la coopération et du développement ;
+b) Deux membres nommés par décret pris sur le rapport du ministre chargé de la coopération ; 
 
-c) Un membre nommé par décret pris sur le rapport du ministre chargé de l'outre-mer ;
+c) Un membre nommé par décret pris sur le rapport du ministre chargé de l'outre-mer ; 
+
+d) Un membre nommé par décret pris sur le rapport du ministre chargé de l'immigration et du codéveloppement ; 
 
 2° Quatre membres désignés en raison de leur connaissance des questions économiques et financières, nommés par décret pris
-sur le rapport du ministre chargé de l'économie, du ministre chargé de la coopération et du développement et du ministre
-chargé de l'outre-mer ;
+sur le rapport du ministre chargé de l'économie, du ministre chargé de la coopération et du ministre chargé de l'outre-mer ; 
 
 3° Un membre désigné en raison de sa connaissance de l'écologie et du développement durable, nommé par décret pris sur le
-rapport du ministre chargé de l'écologie et du développement durable ;
+rapport du ministre chargé de l'écologie et du développement durable ; 
 
-4° Deux députés ;
+4° Deux députés ; 
 
-5° Un sénateur ;
+5° Un sénateur ; 
 
-6° Deux membres représentant le personnel et élus dans les conditions fixées par un règlement pris par le directeur général.
+6° Deux membres représentant le personnel et élus dans les conditions fixées par un règlement pris par le directeur général. 
 
 Chaque membre du conseil d'administration est remplacé en cas d'absence ou d'empêchement par un suppléant désigné dans les
-mêmes conditions que le titulaire.
+mêmes conditions que le titulaire. 
 
-II. - Le président du conseil d'administration est nommé par décret pris sur le rapport du ministre chargé de l'économie, du
-ministre chargé de la coopération et du développement et du ministre chargé de l'outre-mer. La limite d'âge applicable au
-président du conseil d'aministration est de 70 ans.
+II.-Le président du conseil d'administration est nommé par décret pris sur le rapport du ministre chargé de l'économie, du
+ministre chargé de la coopération, du ministre chargé de l'outre-mer et du ministre chargé du codéveloppement. La limite
+d'âge applicable au président du conseil d'aministration est de 70 ans. 
 
-Il dispose d'une voix prépondérante en cas de partage égal des voix.
+Il dispose d'une voix prépondérante en cas de partage égal des voix. 
 
-En cas d'absence ou d'empêchement, le président est suppléé par le plus âgé des cinq membres représentant l'Etat.
+En cas d'absence ou d'empêchement, le président est suppléé par le plus âgé des six membres représentant l'Etat. 
 
-III. - Le mandat des membres du conseil d'administration est de trois ans.
+III.-Le mandat des membres du conseil d'administration est de trois ans. 
 
 Toutefois, le mandat des parlementaires au sein du conseil d'administration prend fin de plein droit à l'expiration du mandat
-électif au titre duquel ils ont été désignés.
+électif au titre duquel ils ont été désignés. 
 
 En cas de vacance du siège d'un membre du conseil d'administration représentant le personnel, son suppléant exerce cette
-fonction pour la durée restant à courir du mandat initial.
+fonction pour la durée restant à courir du mandat initial. 
 
-IV. - Le mandat des membres du conseil d'administration est gratuit.
+IV.-Le mandat des membres du conseil d'administration est gratuit. 
 
 Toutefois, le président du conseil d'administration perçoit une indemnité de fonction dont le montant est fixé par arrêté
 conjoint des ministres chargés de l'économie, de la coopération et de l'outre-mer.
@@ -85821,13 +85822,10 @@ conjoint des ministres chargés de l'économie, de la coopération et de l'outre
 
 	  - Décret n°92-1176 du 30 octobre 1992 - art. Annexe, art. 12 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-538 du 11 avril 2007 - art. 1 () JORF 12 avril 2007
+	  - Décret n°2008-545 du 11 juin 2008 - art. 1
+	  - Décret n°2008-545 du 11 juin 2008 - art. 2
 
 	**Cité par**:
 
