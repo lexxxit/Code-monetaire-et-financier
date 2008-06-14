@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-06-13
+Version Consolidée au 2008-06-15
 
 # Partie législative
 
@@ -6644,23 +6644,23 @@ douanes. Sont également applicables les dispositions de l'article 451 du code d
 
 ###### Article L211-1
 
-I. - Les instruments financiers comprennent :
+I.-Les instruments financiers comprennent : 
 
 1. Les actions et autres titres donnant ou pouvant donner accès, directement ou indirectement, au capital ou aux droits de
-vote, transmissibles par inscription en compte ou tradition ;
+vote, transmissibles par inscription en compte ou tradition ; 
 
-2. Les titres de créance qui représentent chacun un droit de créance sur la personne morale ou le fonds commun de créances
+2. Les titres de créance qui représentent chacun un droit de créance sur la personne morale ou le fonds commun de titrisation
 qui les émet, transmissibles par inscription en compte ou tradition, à l'exclusion des effets de commerce et des bons de
-caisse ;
+caisse ; 
 
-3. Les parts ou actions d'organismes de placements collectifs ;
+3. Les parts ou actions d'organismes de placements collectifs ; 
 
-4. Les instruments financiers à terme figurant sur une liste fixée par décret ;
+4. Les instruments financiers à terme figurant sur une liste fixée par décret ; 
 
 5. Et tous instruments financiers équivalents à ceux mentionnés aux précédents alinéas, ainsi que les droits représentatifs
-d'un placement financier dans une entité, émis sur le fondement de droits étrangers.
+d'un placement financier dans une entité, émis sur le fondement de droits étrangers. 
 
-II. - Les instruments financiers mentionnés aux 1 à 3 du I ne peuvent être émis que par l'Etat, une personne morale, un fonds
+II.-Les instruments financiers mentionnés aux 1 à 3 du I ne peuvent être émis que par l'Etat, une personne morale, un fonds
 commun de placement, un fonds de placement immobilier ou un fonds commun de créances.
 
 **Liens relatifs à cet article**
@@ -6801,7 +6801,6 @@ commun de placement, un fonds de placement immobilier ou un fonds commun de cré
 
 	**Anciens textes**:
 
-	  - Loi n°96-597 1996-07-02 art. 1 et art. 3
 	  - Loi n°96-597 du 2 juillet 1996 - art. 1 (Ab)
 	  - Loi n°96-597 du 2 juillet 1996 - art. 3 (Ab)
 
@@ -6811,11 +6810,7 @@ commun de placement, un fonds de placement immobilier ou un fonds commun de cré
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 1 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
 
 
 ##### Section 2 : Règles générales applicables aux valeurs mobilières.
@@ -6824,23 +6819,15 @@ commun de placement, un fonds de placement immobilier ou un fonds commun de cré
 
 Constituent des valeurs mobilières, les titres émis par des personnes morales, publiques ou privées, transmissibles par
 inscription en compte ou tradition, qui confèrent des droits identiques par catégorie et donnent accès, directement ou
-indirectement, à une quotité du capital de la personne morale émettrice ou à un droit de créance général sur son patrimoine.
+indirectement, à une quotité du capital de la personne morale émettrice ou à un droit de créance général sur son patrimoine. 
 
 Sont également des valeurs mobilières les parts de fonds communs de placement, les parts de fonds de placement immobilier et
-de fonds communs de créance.
-
-**Nota:**
-
-Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
-celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
-homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
-collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+de   fonds communs de titrisation .
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 1, v. init.
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 1 (Ab)
 
 	**Codifié par**:
@@ -6849,7 +6836,7 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
 
 	**Cité par**:
 
@@ -7607,34 +7594,34 @@ au mandataire judiciaire pour le complément de leurs droits.
 
 ###### Article L213-3
 
-Sont habilités à émettre des titres de créances négociables :
+Sont habilités à émettre des titres de créances négociables : 
 
 1. Les établissements de crédit, les entreprises d'investissement et la caisse des dépôts et consignations, sous réserve de
-respecter les conditions fixées à cet effet par le ministre chargé de l'économie ;
+respecter les conditions fixées à cet effet par le ministre chargé de l'économie ; 
 
 2. Les entreprises autres que celles mentionnées au 1, sous réserve de remplir les conditions de forme juridique, de capital
 et de contrôle des comptes requises lorsqu'elles font appel public à l'épargne, ou des conditions équivalentes pour les
-entreprises ayant un siège social à l'étranger ;
+entreprises ayant un siège social à l'étranger ; 
 
 3. Les groupements d'intérêt économique et les sociétés en nom collectif, composés exclusivement de sociétés par actions
-satisfaisant aux conditions prévues au 2 ;
+satisfaisant aux conditions prévues au 2 ; 
 
-4. Les institutions de la Communauté européenne et les organisations internationales ;
+4. Les institutions de la Communauté européenne et les organisations internationales ; 
 
 5. La caisse d'amortissement de la dette sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996
-relative au remboursement de la dette sociale ;
+relative au remboursement de la dette sociale ; 
 
-6. Les collectivités locales et leurs groupements ;
+6. Les collectivités locales et leurs groupements ; 
 
 7. Les associations régies par la loi du 1er juillet 1901 relative au contrat d'association ou par les articles 21 à 79 du
 code civil local applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle et répondant aux conditions
-prévues pour l'émission d'obligations par appel public à l'épargne ;
+prévues pour l'émission d'obligations par appel public à l'épargne ; 
 
-8. Les Etats ;
+8. Les Etats ; 
 
-9. Les fonds communs de créances ;
+9. Les organismes de titrisation ; 
 
-10. L'Agence centrale des organismes de sécurité sociale.
+10.L'Agence centrale des organismes de sécurité sociale. 
 
 Un décret précise les conditions que doivent remplir les émetteurs mentionnés aux 2, 3, 4, 5, 6, 7, 8, 9 et 10 et fixe les
 conditions d'émission des titres de créances négociables.
@@ -7672,6 +7659,10 @@ conditions d'émission des titres de créances négociables.
 	  - Code monétaire et financier - art. L752-3 (V)
 	  - Code monétaire et financier - art. L762-3 (V)
 
+	**Cite**:
+
+	  - Ordonnance n°96-50 du 24 janvier 1996
+
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 31 décembre 1998 - art. 1 (V)
@@ -7686,7 +7677,7 @@ conditions d'émission des titres de créances négociables.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1640 du 21 décembre 2006 - art. 38 () JORF 22 décembre 2006
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
 
 
 ###### Article L213-4
@@ -8600,19 +8591,19 @@ banques mutualistes ou coopératives et les établissements publics à caractèr
 
 ###### Article L214-1
 
-I. - Les organismes de placements collectifs sont :
+I.-Les organismes de placements collectifs sont : 
 
-1. Les organismes de placement collectif en valeurs mobilières ;
+1. Les organismes de placement collectif en valeurs mobilières ; 
 
-2. Les fonds communs de créance ;
+2. Les   organismes de titrisation  ; 
 
-3. Les sociétés civiles de placement immobilier.
+3. Les sociétés civiles de placement immobilier. 
 
-4. Les sociétés d'épargne forestière.
+4. Les sociétés d'épargne forestière. 
 
-5. Les organismes de placement collectif immobilier.
+5. Les organismes de placement collectif immobilier. 
 
-II. - Tout organisme de placement collectif doit, préalablement à sa commercialisation sur le territoire de la République
+II.-Tout organisme de placement collectif doit, préalablement à sa commercialisation sur le territoire de la République
 française, faire l'objet d'une autorisation délivrée par l'Autorité des marchés financiers. Un décret définit les conditions
 de délivrance de cette autorisation.
 
@@ -8676,9 +8667,9 @@ de délivrance de cette autorisation.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
 
 
 ##### Section 1 : Les organismes de placement collectif en valeurs mobilières
@@ -11491,58 +11482,118 @@ nature de ceux-ci et du niveau de risque de l'organisme. Ces fonds ne peuvent fa
 
 ##### Section 2 : Les fonds communs de créances.
 
-###### Article L214-43
+##### Section 2 : Les organismes de titrisation
 
-Le fonds commun de créances est une copropriété qui a pour objet d'acquérir des créances et d'émettre des parts
-représentatives de ces créances. Il peut émettre des titres de créances.
+###### Article L214-49
 
-Le fonds peut comporter deux ou plusieurs compartiments si son règlement le prévoit. Chaque compartiment donne lieu à
-l'émission de parts représentatives des actifs du fonds qui lui sont attribués. Par dérogation à l'article 2285 du code civil
-et sauf stipulation contraire des documents constitutifs du fonds, les actifs d'un compartiment déterminé ne répondent que
-des dettes, engagements et obligations et ne bénéficient que des créances qui concernent ce compartiment.
-
-Le fonds n'a pas la personnalité morale. Ne s'appliquent pas aux fonds communs de créance, les dispositions du code civil
-relatives à l'indivision, ni celles des articles 1871 à 1873 du même code relatives aux sociétés en participation.
-
-Les conditions dans lesquelles le fonds peut acquérir des créances et émettre de nouvelles parts après l'émission initiale
-des parts et les règles de placement des sommes momentanément disponibles et en instance d'affectation sont définies par
-décret. Les conditions dans lesquelles le fonds ou, le cas échéant, les compartiments du fonds peuvent emprunter, émettre des
-titres de créances visés à l'article L. 211-1, conclure des contrats constituant des instruments financiers à terme et
-détenir des liquidités sont fixées par décret en Conseil d'Etat.
-
-Les parts et les titres de créances peuvent donner lieu à des droits différents sur le capital et les intérêts.
-
-Les parts ne peuvent donner lieu, par leurs porteurs, à demande de rachat par le fonds. Le montant minimum d'une part émise
-par un fonds commun de créances est défini par décret.
-
-Le fonds ou, le cas échéant, les compartiments du fonds ne peuvent céder les créances qu'ils acquièrent tant que celles-ci ne
-sont pas échues ou déchues de leur terme, sauf dans des cas et conditions définis par décret en Conseil d'Etat. Il ne peut
-nantir les créances qu'il détient.
-
-La cession des créances s'effectue par la seule remise d'un bordereau dont les énonciations sont fixées par décret. Celle-ci
-prend effet entre les parties et devient opposable aux tiers à la date apposée sur le bordereau lors de sa remise, quelle que
-soit la date de naissance, d'échéance ou d'exigibilité des créances, sans qu'il soit besoin d'autre formalité, et ce quelle
-que soit la loi applicable aux créances et la loi du pays de résidence des débiteurs. Nonobstant l'ouverture éventuelle d'une
-procédure visée au livre VI du code de commerce à l'encontre du cédant postérieurement à la cession, cette cession conserve
-ses effets après le jugement d'ouverture, sauf lorsque ces créances résultent de contrats à exécution successive dont le
-montant n'est pas déterminé. La remise du bordereau entraîne de plein droit le transfert des sûretés, des garanties et des
-accessoires attachés à chaque créance, y compris les sûretés hypothécaires, et son opposabilité aux tiers sans qu'il soit
-besoin d'autre formalité.
-
-La réalisation ou la constitution de ces sûretés entraîne pour le fonds la faculté d'acquérir la possession ou la propriété
-des actifs qui en sont l'objet.
-
-La convention de cession peut prévoir, au profit du cédant, une créance sur tout ou partie du boni de liquidation éventuel du
-fonds ou, le cas échéant, d'un compartiment du fonds.
-
-Pour toutes les opérations faites pour le compte des copropriétaires, la désignation du fonds ou, le cas échéant, d'un
-compartiment du fonds peut être valablement substituée à celle des copropriétaires.
+Dans les six mois suivant l'extinction de la dernière créance du fonds ou, le cas échéant, d'un compartiment du fonds, la
+société de gestion procède à la liquidation du fonds ou de ce compartiment.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°88-1201 1988-12-23 art. 34
+	  - Loi n°88-1201 du 23 décembre 1988 - art. 41 (M)
+	  - Loi n°88-1201 du 23 décembre 1988 - art. 41 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+
+##### Sous-section 1 : Dispositions communes aux organismes de titrisation
+
+##### Paragraphe 1 : Dispositions générales
+
+###### Article L214-42-1
+
+Les organismes de titrisation ont pour objet : 
+
+- d'une part, d'être exposés à des risques, y compris des risques d'assurance, par l'acquisition de créances ou la conclusion
+de contrats constituant des instruments financiers à terme ou transférant des risques d'assurance ; 
+
+- d'autre part, d'assurer en totalité le financement ou la couverture de ces risques par l'émission d'actions, de parts ou de
+titres de créances, par la conclusion de contrats constituant des instruments financiers à terme ou transférant des risques
+d'assurance ou par le recours à l'emprunt ou à d'autres formes de ressources. 
+
+Ils prennent la forme soit de fonds communs de titrisation, soit de sociétés de titrisation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 421-17-1 (Ab)
+	  - Loi n°2008-1061 du 16 octobre 2008 - art. 6 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
+
+
+###### Article L214-43
+
+L'organisme de titrisation peut comporter deux ou plusieurs compartiments si les statuts de la société ou le règlement du
+fonds le prévoient. Chaque compartiment donne lieu à l'émission de parts ou d'actions et, le cas échéant, de titres de
+créances. Par dérogation à l'article 2285 du code civil et sauf stipulation contraire des documents constitutifs de
+l'organisme, les actifs d'un compartiment déterminé ne répondent que des dettes, engagements et obligations et ne bénéficient
+que des droits et actifs qui concernent ce compartiment. 
+
+Les conditions dans lesquelles l'organisme ou, le cas échéant, les compartiments de l'organisme peuvent emprunter et conclure
+des contrats constituant des instruments financiers à terme sont fixées par décret en Conseil d'Etat. Ce décret fixe
+également les règles que respecte la composition de l'actif de l'organisme. 
+
+Les parts ou actions et les titres de créances émis par l'organisme peuvent donner lieu à des droits différents sur le
+capital et les intérêts. Le règlement ou les statuts de l'organisme et tout contrat conclu pour le compte de l'organisme
+peuvent stipuler que les droits de certains créanciers sont subordonnés aux droits d'autres créanciers de l'organisme. Les
+règles d'affectation des sommes reçues par l'organisme s'imposent aux porteurs de parts, aux actionnaires, aux détenteurs de
+titres de créances ainsi qu'aux créanciers les ayant acceptées. Elles sont applicables même en cas de liquidation de
+l'organisme. 
+
+Les actifs de l'organisme de titrisation ne peuvent faire l'objet de mesures civiles d'exécution que dans le respect des
+règles d'affectation définies par le règlement ou les statuts de l'organisme. 
+
+Les parts ou actions ne peuvent donner lieu, par leurs détenteurs, à demande de rachat par l'organisme. 
+
+Dans les conditions définies par son règlement ou ses statuts et sous réserve des dispositions de l'article L. 214-49-1 et du
+I de l'article L. 214-49-7, l'organisme ou, le cas échéant, ses compartiments peuvent céder les créances qu'ils acquièrent et
+les actifs qu'ils détiennent et dénouer ou liquider les contrats constituant des instruments financiers à terme. 
+
+Pour la réalisation de son objet, un organisme de titrisation peut, dans les conditions définies par décret en Conseil
+d'Etat, octroyer les garanties mentionnées à l'article L. 431-7-3, et, dans les conditions définies par son règlement ou ses
+statuts, recevoir tout type de garantie ou de sûreté.
+
+L'acquisition ou la cession des créances s'effectue par la seule remise d'un bordereau dont les énonciations et le support
+sont fixés par décret ou par tout autre mode de cession de droit français ou étranger. Elle prend effet entre les parties et
+devient opposable aux tiers à la date apposée sur le bordereau lors de sa remise, quelle que soit la date de naissance,
+d'échéance ou d'exigibilité des créances, sans qu'il soit besoin d'autre formalité, et ce quelle que soit la loi applicable
+aux créances et la loi du pays de résidence des débiteurs. Nonobstant l'ouverture éventuelle d'une procédure mentionnée au
+livre VI du code de commerce ou d'une procédure équivalente sur le fondement d'un droit étranger à l'encontre du cédant
+postérieurement à la cession, cette cession conserve ses effets après le jugement d'ouverture. La remise du bordereau
+entraîne de plein droit le transfert des sûretés, des garanties et des accessoires attachés à chaque créance, y compris les
+sûretés hypothécaires, et son opposabilité aux tiers sans qu'il soit besoin d'autre formalité. 
+
+Par dérogation à l'alinéa précédent, la cession de créances qui ont la forme d'instruments financiers s'effectue conformément
+aux règles applicables au transfert de ces instruments. Le cas échéant, l'organisme peut souscrire directement à l'émission
+de ces instruments. 
+
+La réalisation ou la constitution des garanties ou des sûretés consenties au bénéfice de l'organisme entraîne pour celui-ci
+la faculté d'acquérir la possession ou la propriété des actifs qui en sont l'objet. 
+
+Lorsque la créance cédée à l'organisme résulte d'un contrat de bail ou de crédit-bail, l'ouverture d'une procédure mentionnée
+au livre VI du code de commerce ou d'une procédure équivalente sur le fondement d'un droit étranger à l'encontre du bailleur
+ou du crédit-bailleur ne peut remettre en cause la poursuite du contrat. 
+
+La convention de cession peut prévoir, au profit du cédant, une créance sur tout ou partie du boni de liquidation éventuel de
+l'organisme ou, le cas échéant, d'un compartiment de l'organisme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 34 (Ab)
 
 	**Codifié par**:
@@ -11576,33 +11627,36 @@ compartiment du fonds peut être valablement substituée à celle des coproprié
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Cite**:
+
+	  - Code civil - art. 2285
+	  - Code monétaire et financier - art. L431-7-3
 
 
 ###### Article L214-44
 
-Un document contenant une appréciation des caractéristiques des parts et, le cas échéant, des titres de créances que le fonds
-est appelé à émettre, des créances qu'il se propose d'acquérir et des contrats constituant des instruments financiers à terme
-qu'il se propose de conclure et évaluant les risques qu'ils présentent est établi par un organisme figurant sur une liste
-arrêtée par le ministre chargé de l'économie après avis de l'Autorité des marchés financiers. Il est annexé à la note
-d'information et communiqué aux souscripteurs de parts et, le cas échéant, de titres de créances.
+Lorsque les parts, actions ou titres de créances émis par l'organisme de titrisation sont admis à la négociation sur un
+marché réglementé ou font l'objet d'une offre au public, un document contenant une appréciation des caractéristiques des
+parts et, le cas échéant, des titres de créances que cet organisme est appelé à émettre, des créances qu'il se propose
+d'acquérir et des contrats constituant des instruments financiers à terme ou transférant des risques d'assurance qu'il se
+propose de conclure et évaluant les risques qu'ils présentent est établi par un organisme figurant sur une liste arrêtée par
+le ministre chargé de l'économie après avis de l'Autorité des marchés financiers. Ce document est annexé à celui mentionné à
+l'article L. 412-1 et communiqué aux souscripteurs de parts, et, le cas échéant, de titres de créances. 
 
-Les parts et titres de créances que le fonds est appelé à émettre ne peuvent faire l'objet de démarchage.
+Les parts, actions et titres de créances que l'organisme est appelé à émettre ne peuvent faire l'objet de démarchage sauf
+auprès d'investisseurs qualifiés mentionnés au II de l'article L. 411-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 35 (M)
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 35 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 65 1° JORF 2 août 2003
 
 	**Cité par**:
 
@@ -11613,10 +11667,19 @@ Les parts et titres de créances que le fonds est appelé à émettre ne peuvent
 	  - Code monétaire et financier - art. L342-5 (Ab)
 	  - Code monétaire et financier - art. R214-112 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L411-2
+	  - Code monétaire et financier - art. L412-1
+
 
 ###### Article L214-45
 
-Les fonds communs de créance doivent communiquer à la Banque de France les informations nécessaires à l'élaboration des
+Les organismes de titrisation doivent communiquer à la Banque de France les informations nécessaires à l'élaboration des
 statistiques monétaires.
 
 **Liens relatifs à cet article**
@@ -11638,35 +11701,31 @@ statistiques monétaires.
 	  - Code monétaire et financier - art. L214-71 (V)
 	  - Code monétaire et financier - art. R214-105 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
 
 ###### Article L214-46
 
-Le recouvrement des créances cédées continue d'être assuré par l'établissement cédant, dans des conditions définies par une
-convention passée avec la société de gestion du fonds commun de créances.
+Lorsque des créances sont transférées à l'organisme, leur recouvrement continue d'être assuré par le cédant ou par l'entité
+qui en était chargée avant leur transfert, dans des conditions définies par une convention passée avec la société de gestion
+de l'organisme. 
 
-Toutefois, tout ou partie du recouvrement peut être confié à un établissement de crédit ou à la Caisse des dépôts et
-consignations, dès lors que le débiteur en est informé par lettre simple.
+Toutefois, tout ou partie du recouvrement peut être confié à une autre entité désignée à cet effet, dès lors que le débiteur
+en est informé par lettre simple. 
 
-La société de gestion et l'établissement chargé du recouvrement des créances cédées peuvent convenir que les sommes
-recouvrées seront portées au crédit d'un compte spécialement affecté au profit du fonds ou, le cas échéant, du compartiment,
-sur lequel les créanciers de l'établissement chargé du recouvrement ne peuvent poursuivre le paiement de leurs créances, même
-en cas de procédure de redressement ou de liquidation judiciaires ouvertes à son encontre. Les modalités de fonctionnement de
-ce compte sont fixées par décret.
+Les dispositions du présent article ne sont pas applicables aux créances qui ont la forme d'instruments financiers.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 36 (M)
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 36 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 64 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -11675,35 +11734,53 @@ ce compte sont fixées par décret.
 	  - Code monétaire et financier - art. D214-103 (Ab)
 	  - Code monétaire et financier - art. R214-110 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+
+###### Article L214-46-1
+
+La société de gestion de l'organisme et toute entité chargée de l'encaissement des sommes dues ou bénéficiant directement ou
+indirectement à l'organisme peuvent convenir que les sommes encaissées directement ou indirectement pour le compte de
+l'organisme seront portées au crédit d'un compte spécialement affecté au profit de l'organisme ou, le cas échéant, du
+compartiment, sur lequel les créanciers de l'entité chargée de l'encaissement ne peuvent poursuivre le paiement de leurs
+créances, même en cas de procédure ouverte à son encontre sur le fondement du livre VI du code de commerce ou d'une procédure
+équivalente sur le fondement d'un droit étranger. Les modalités de fonctionnement de ce compte sont fixées par décret. 
+
+Aucune résiliation de la convention régissant le compte mentionné au précédent alinéa ni aucune clôture de ce compte ne peut
+résulter de l'ouverture d'une procédure mentionnée au livre VI du code de commerce ou d'une procédure équivalente sur le
+fondement d'un droit étranger à l'encontre du cédant ou, le cas échéant, de l'entité chargée du recouvrement ou de
+l'encaissement des sommes dues ou bénéficiant directement ou indirectement à l'organisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D214-103 (Ab)
+
 
 ###### Article L214-47
 
-Le fonds commun de créances est constitué à l'initiative conjointe d'une société chargée de la gestion du fonds et d'une
-personne morale dépositaire des actifs du fonds.
-
-La société de gestion du fonds doit être agréée par l'Autorité des marchés financiers qui peut, par décision motivée, retirer
-son agrément.
-
-Cette société de gestion et la personne morale dépositaire des actifs établissent une note destinée à l'information préalable
-des souscripteurs sur l'opération, selon les dispositions des articles L. 411-1, L. 411-2, L. 412-1 et L. 621-8.
-
-Un décret fixe la nature et les caractéristiques des créances que peuvent acquérir les fonds communs de créances et des
-garanties contre les risques de défaillance des débiteurs de ces créances.
+Un décret fixe la nature et les caractéristiques des créances que peuvent acquérir les organismes de titrisation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 37 (M)
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 37 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 02 août 2003
 
 	**Cité par**:
 
@@ -11715,53 +11792,33 @@ garanties contre les risques de défaillance des débiteurs de ces créances.
 	  - Code monétaire et financier - art. L214-48 (M)
 	  - Code monétaire et financier - art. R214-108 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code monétaire et financier - art. L411-1 (V)
-	  - Code monétaire et financier - art. L411-2 (M)
-	  - Code monétaire et financier - art. L412-1 (M)
-	  - Code monétaire et financier - art. L621-8 (M)
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
 
 
 ###### Article L214-48
 
-I. - La société chargée de la gestion mentionnée à l'article L. 214-47 est une société commerciale, dont l'objet exclusif est
-de gérer des fonds communs de créances. Elle représente le fonds à l'égard des tiers et dans toute action en justice, tant en
-demande qu'en défense.
+I.-Le règlement ou les statuts de l'organisme prévoient la durée des exercices comptables qui ne peut excéder douze mois.
+Toutefois, le premier exercice peut s'étendre sur une durée supérieure sans excéder dix-huit mois. 
 
-II. - La personne morale dépositaire des actifs du fonds mentionnée à l'article L. 214-47 est un établissement de crédit
-agréé en France, une succursale établie en France d'un établissement de crédit ayant son siège social dans un Etat partie à
-l'accord sur l'Espace économique européen ou tout autre établissement agréé par le ministre chargé de l'économie. Elle est
-dépositaire de la trésorerie et des créances acquises par le fonds et s'assure de la régularité des décisions de la société
-de gestion selon les modalités prévues par le règlement général de l'Autorité des marchés financiers. La conservation des
-créances peut toutefois être assurée par le cédant ou l'organisme chargé du recouvrement de la créance dans des conditions
-fixées par décret.
-
-III. - Les porteurs de parts ne sont tenus des dettes du fonds et, le cas échéant, du compartiment qu'à concurrence de son
-actif et proportionnellement à leur quote-part.
-
-IV. - Le règlement du fonds prévoit la durée des exercices comptables qui ne peut excéder douze mois. Toutefois, le premier
-exercice peut s'étendre sur une durée supérieure sans excéder dix-huit mois.
-
-V. - Chaque compartiment du fonds fait l'objet, au sein de la comptabilité du fonds, d'une comptabilité distincte.
+II.-Chaque compartiment de l'organisme fait l'objet, au sein de la comptabilité de l'organisme, d'une comptabilité
+distincte. 
 
 Dans un délai de six semaines à compter de la fin de chaque semestre de l'exercice, la société de gestion dresse, pour chacun
-des fonds qu'elle gère, l'inventaire de l'actif sous le contrôle du dépositaire.
+des organismes qu'elle gère, l'inventaire de l'actif sous le contrôle du dépositaire. 
 
-VI. Le conseil d'administration, le gérant ou le directoire de la société de gestion désigne le commissaire aux comptes du
-fonds après accord de l'Autorité des marchés financiers.
+III.-Les dispositions du livre VI du code de commerce ne sont pas applicables aux organismes de titrisation.
 
-Le commissaire aux comptes signale aux dirigeants de la société de gestion ainsi qu'à l'Autorité des marchés financiers les
-irrégularités et inexactitudes qu'il relève dans l'accomplissement de sa mission.
-
-Les porteurs de parts du fonds exercent les droits reconnus aux actionnaires par les articles L. 823-6 et L. 225-231 du code
-de commerce.
+L'organisme de titrisation ou, le cas échéant, un compartiment de l'organisme, n'est tenu de ses dettes, y compris envers les
+porteurs de titres de créance, qu'à concurrence de son actif et selon le rang de ses créanciers défini par la loi ou tel
+qu'il résulte, en application du troisième alinéa de l'article L. 214-43, des statuts ou du règlement de l'organisme ou des
+contrats conclus par lui.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 40 (M)
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 40 (Ab)
 
 	**Cité par**:
@@ -11784,25 +11841,327 @@ de commerce.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 21 ()
-	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V)
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-43
 
 
-###### Article L214-49
+##### Paragraphe 3 : Dispositions particulières aux fonds communs de titrisation 
 
-Dans les six mois suivant l'extinction de la dernière créance du fonds ou, le cas échéant, d'un compartiment du fonds, la
-société de gestion procède à la liquidation du fonds ou de ce compartiment.
+
+###### Article L214-49-4
+
+Le fonds commun de titrisation est un organisme de titrisation constitué sous la forme de copropriété. 
+
+Le fonds n'a pas la personnalité morale. Ne s'appliquent pas aux fonds communs de titrisation les dispositions du code civil
+relatives à l'indivision, ni celles des articles 1871 à 1873 du même code relatives aux sociétés en participation. 
+
+Le montant minimum d'une part émise par un fonds commun de titrisation est défini par décret. 
+
+Pour toutes les opérations faites pour le compte des copropriétaires, la désignation du fonds ou, le cas échéant, d'un
+compartiment du fonds peut être valablement substituée à celle des copropriétaires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 41 (M)
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 41 (Ab)
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
+
+	**Cite**:
+
+	  - Code civil - art. 1871
+
+
+###### Article L214-49-5
+
+Les conditions dans lesquelles le fonds peut émettre de nouvelles parts après émission initiale des parts sont définies par
+son règlement. 
+
+Le fonds peut émettre des titres de créances négociables et des obligations ou des titres de créances émis sur le fondement
+d'un droit étranger. 
+
+Les conditions dans lesquelles le fonds émet des titres de créances sont définies par son règlement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
+
+
+###### Article L214-49-6
+
+Le fonds commun de titrisation est constitué à l'initiative conjointe d'une société chargée de sa gestion et d'une personne
+morale dépositaire de la trésorerie et des créances du fonds. 
+
+Lorsque les parts ou les titres de créances émis par le fonds sont admis à la négociation sur un marché réglementé ou
+offertes au public, cette société de gestion et la personne morale dépositaire de la trésorerie et des créances établissent
+le document mentionné à l'article L. 412-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L214-49-7 (Ab)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L412-1
+
+
+###### Article L214-49-7
+
+I.-La société chargée de la gestion mentionnée à l'article L. 214-49-6 est une société de gestion de portefeuille relevant de
+l'article L. 532-9 ou une société de gestion de fonds communs de créances relevant du I de l'article L. 214-48 dans sa
+rédaction antérieure à la date de publication de l'ordonnance n° 2008-556 du 13 juin 2008 transposant la directive 2005 /
+68 / CE du Parlement européen et du Conseil du 16 novembre 2005 relative à la réassurance et réformant le cadre juridique des
+fonds communs de créances. Cette société est désignée dans le règlement du fonds. Elle représente le fonds à l'égard des
+tiers et dans toute action en justice tant en demande qu'en défense. 
+
+Lorsque les statuts du fonds de titrisation prévoient le recours à des instruments financiers à terme en vue d'exposer le
+fonds ou la cession de créances non échues ou déchues de leur terme, la société de gestion mentionnée au premier alinéa
+soumet à l'approbation de l'Autorité des marchés financiers un programme d'activité spécifique dans les conditions prévues
+par le règlement général de cette autorité. Dans les cas définis par décret en Conseil d'Etat, cette approbation n'est
+cependant pas requise pour certaines cessions de créances non échues ou déchues de leur terme. 
+
+Toutefois, les opérations mentionnées au deuxième alinéa peuvent être confiées par la société de gestion mentionnée au
+premier alinéa à une société de gestion de portefeuille, qui les effectue sous sa responsabilité. Les dispositions du
+deuxième alinéa sont alors applicables à cette société de gestion de portefeuille. 
+
+II.-La personne morale dépositaire de la trésorerie et des créances du fonds mentionnée à l'article L. 214-49-6 est un
+établissement de crédit établi dans un Etat qui est partie à l'accord sur l'Espace économique européen ou un établissement de
+crédit établi dans un Etat figurant sur une liste définie par arrêté du ministre chargé de l'économie ou tout autre
+établissement agréé par ce ministre. Elle est dépositaire de la trésorerie et des créances acquises par le fonds et s'assure
+de la régularité des décisions de la société de gestion pour ce qui concerne ce fonds selon les modalités prévues par le
+règlement général de l'Autorité des marchés financiers. La conservation des créances peut toutefois être assurée, sous leur
+responsabilité, par le cédant ou l'entité chargée du recouvrement de la créance dans des conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 323-1 (M)
+	  - Code monétaire et financier - art. L214-43 (V)
+	  - Code monétaire et financier - art. R214-101 (V)
+
+	**Cite**:
+
+	  - Directive 2005/68/CE du Parlement européen et du Conseil du 16 novembre 2005
+	  - Ordonnance n°2008-556 du 13 juin 2008
+	  - Code monétaire et financier - art. L214-48
+	  - Code monétaire et financier - art. L214-49-6
+	  - Code monétaire et financier - art. L532-9
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
+
+
+###### Article L214-49-8
+
+Les porteurs de parts ne sont tenus des dettes du fonds et, le cas échéant, du compartiment qu'à concurrence de la valeur
+d'émission de ces parts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
+
+
+###### Article L214-49-9
+
+Le conseil d'administration, le gérant ou le directoire de la société de gestion désigne le commissaire aux comptes du
+fonds. 
+
+Le commissaire aux comptes signale aux dirigeants de la société de gestion ainsi qu'à l'Autorité des marchés financiers les
+irrégularités et inexactitudes qu'il relève dans l'accomplissement de sa mission. 
+
+Les porteurs de parts du fonds exercent les droits reconnus aux actionnaires par les articles L. 823-6 et L. 225-231 du code
+de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-231
+	  - Code de commerce - art. L823-6
+
+
+###### Article L214-49-10
+
+La société de gestion procède à la liquidation du fonds ou d'un de ses compartiments dans les conditions prévues par le
+règlement du fonds.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D214-110 (Ab)
+
+
+##### Sous-section 2 : Dispositions particulières applicables aux organismes de titrisation ou aux compartiments d'organismes de titrisation supportant des risques d'assurance 
+
+
+
+###### Article L214-49-11
+
+La présente sous-section s'applique aux organismes de titrisation ou aux compartiments d'organismes de titrisation qui
+supportent des risques d'assurance par la conclusion, avec un organisme d'assurance ou de réassurance ou un organisme de
+titrisation relevant de la présente sous-section ou un véhicule de titrisation étranger mentionné à l'article L. 310-1-2 du
+code des assurances, d'un ou plusieurs contrats transférant ces risques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L214-49-12 (Ab)
+
+	**Cite**:
+
+	  - Code des assurances - art. L310-1-2
+
+
+###### Article L214-49-12
+
+Un décret fixe les conditions dans lesquelles un organisme ou, le cas échéant, un compartiment relevant de la présente sous-
+section conclut des contrats transférant des risques d'assurance mentionnés à l'article L. 214-49-11 et la nature des risques
+d'assurance sur lesquels portent ces contrats. 
+
+Les organismes ou compartiments relevant de la présente sous-section peuvent céder ou dénouer les contrats transférant des
+risques d'assurance mentionnés à l'article L. 214-49-11 dans des conditions et limites définies par décret. 
+
+Le remboursement des parts, actions ou titres de créance émis par un organisme relevant de la présente sous-section ainsi que
+ses obligations au titre des autres mécanismes de financement auxquels il a recours sont subordonnés à ses engagements au
+titre des contrats transférant des risques d'assurance mentionnés à l'article L. 214-49-11.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-49-11
+
+
+###### Article L214-49-13
+
+La création d'un organisme de titrisation ou d'un compartiment d'organisme de titrisation relevant de la présente sous-
+section ou la transformation d'un organisme ou compartiment existant en organisme de titrisation relevant de la présente
+sous-section est soumise à l'agrément de l'Autorité de contrôle des assurances et des mutuelles. 
+
+Pour délivrer l'agrément, l'Autorité de contrôle des assurances et des mutuelles vérifie que : 
+
+1° Les statuts ou le règlement de l'organisme sont conformes aux dispositions de la présente section ; 
+
+2° Les personnes chargées de la gestion de l'organisme disposent de l'honorabilité et des qualifications professionnelles
+appropriées ; 
+
+3° L'organisme dispose de procédures administratives et comptables saines et de mécanismes de contrôle interne et de gestion
+des risques appropriés. 
+
+L'Autorité de contrôle peut, par décision motivée, retirer son agrément à la demande de l'organisme ou si celui-ci ne remplit
+plus les conditions auxquelles était subordonné son agrément. 
+
+Les modalités d'application du présent article sont, en tant que de besoin, précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Cité par**:
+
+	  - Code des assurances - art. L310-13-1 (Ab)
+	  - Code monétaire et financier - art. L214-49-13-1 (Ab)
+	  - Code monétaire et financier - art. R214-113 (Ab)
+	  - Code monétaire et financier - art. R214-114 (V)
+
+
+##### Sous-section 3 : Fonds communs de créances constitués avant la date de publication de l'ordonnance n° 2008-556 du 13 juin 2008 transposant la directive 2005 / 68 / CE du Parlement européen  et du Conseil du 16 novembre 2005 relative à la réassurance et réformant  le cadre juridique des fonds communs de créances 
+
+
+
+###### Article L214-49-14
+
+Les fonds communs de créances constitués avant la date de publication de l'ordonnance n° 2008-556 du 13 juin 2008 transposant
+la directive 2005 / 68 / CE du Parlement européen et du Conseil du 16 novembre 2005 relative à la réassurance et réformant le
+cadre juridique des fonds communs de créances demeurent soumis aux articles L. 214-43 à L. 214-49 dans leur rédaction
+antérieure à cette date, sauf modification de leur règlement destinée à les soumettre aux dispositions de la présente section
+en qualité de fonds communs de titrisation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive 2005/68/CE du Parlement européen et du Conseil du 16 novembre 2005
+	  - Ordonnance n°2008-556 du 13 juin 2008
+	  - Code monétaire et financier - art. L214-43
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
 
 
 ##### Section 3 : Les sociétés civiles de placement immobilier
@@ -17369,27 +17728,20 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 ###### Article L231-4
 
-I. - Est puni d'un emprisonnement de deux ans et d'une amende de 15 000 euros le fait, pour les dirigeants de la société de
-gestion d'un fonds commun de placement, fonds de placement immobilier ou d'un fonds commun de créances, de ne pas provoquer
-la désignation du commissaire aux comptes du fonds dans les conditions prévues à l'article L. 214-29.
+I.-Est puni d'un emprisonnement de deux ans et d'une amende de 15 000 euros le fait, pour les dirigeants de la société de
+gestion d'un fonds commun de placement, fonds de placement immobilier ou d'un fonds communs de titrisation, de ne pas
+provoquer la désignation du commissaire aux comptes du fonds dans les conditions prévues à l'article L. 214-29. 
 
-II. - Est puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros le fait, pour tout commissaire aux comptes,
-soit en son nom personnel, soit au titre d'associé dans une société de commissaires aux comptes, de donner ou confirmer des
-informations mensongères sur la situation du fonds commun de placement, fonds de placement immobilier ou du fonds commun de
-créances, ou de ne pas révéler au procureur de la République les faits délictueux dont il a eu connaissance.
+II.-Est puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros le fait, pour tout commissaire aux comptes, soit
+en son nom personnel, soit au titre d'associé dans une société de commissaires aux comptes, de donner ou confirmer des
+informations mensongères sur la situation du fonds commun de placement, fonds de placement immobilier ou du fonds communs de
+titrisation, ou de ne pas révéler au procureur de la République les faits délictueux dont il a eu connaissance. 
 
-III. - Est puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros le fait, pour les dirigeants de la société de
+III.-Est puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros le fait, pour les dirigeants de la société de
 gestion ou de la personne morale dépositaire d'un fonds commun de placement, fonds de placement immobilier ou d'un fonds
-commun de créances, et pour toutes personnes placées sous leur autorité, de mettre obstacle aux vérifications ou contrôles
-des commissaires aux comptes ou de leur refuser la communication sur place de toutes les pièces utiles à l'exercice de leur
-mission et, notamment, de tous contrats, livres, documents comptables et registres de procès-verbaux.
-
-**Nota:**
-
-Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
-celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
-homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
-collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+communs de titrisation, et pour toutes personnes placées sous leur autorité, de mettre obstacle aux vérifications ou
+contrôles des commissaires aux comptes ou de leur refuser la communication sur place de toutes les pièces utiles à l'exercice
+de leur mission et, notamment, de tous contrats, livres, documents comptables et registres de procès-verbaux.
 
 **Liens relatifs à cet article**
 
@@ -17397,14 +17749,13 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 46 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-29
 
 	**Cité par**:
 
@@ -17502,16 +17853,9 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 ###### Article L231-7
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 750 000 euros le fait, pour les promoteurs d'un fonds commun de
-créances, de procéder au placement de parts de ce fonds sans agrément de la société de gestion du fonds ou sans visa de
-l'Autorité des marchés financiers.
-
-**Nota:**
-
-Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
-celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
-homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
-collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Est puni d'un emprisonnement de deux ans et d'une amende de 750 000 euros le fait, pour les promoteurs d'un   fonds communs
+de titrisation , de procéder au placement de parts de ce fonds sans agrément de la société de gestion du fonds ou sans visa
+de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -17519,14 +17863,9 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 39 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
 
 	**Cité par**:
 
@@ -20826,11 +21165,11 @@ des créances à long terme destinées au financement d'un bien immobilier situ�
 
 - ou par un cautionnement consenti par un établissement de crédit ou une entreprise d'assurance n'entrant pas dans le
 périmètre de consolidation défini à l'article L. 233-16 du code de commerce dont relève l'établissement de crédit émetteur du
-billet à ordre.
+billet à ordre. 
 
-Sont assimilées aux créances mentionnées ci-dessus les parts ou titres de créances émis par des fonds communs de créances,
+Sont assimilées aux créances mentionnées ci-dessus les parts ou titres de créances émis par des organismes de titrisation,
 dès lors que l'actif de ces fonds est composé, à hauteur de 90 % au moins, de créances de même nature, à l'exclusion des
-parts spécifiques ou titres de créances supportant le risque de défaillance des débiteurs des créances.
+parts spécifiques ou titres de créances supportant le risque de défaillance des débiteurs des créances. 
 
 Les créances mobilisées par des billets à ordre doivent respecter, à compter du 1er janvier 2002, les conditions prévues au I
 de l'article L. 515-14 selon des modalités déterminées par un décret en Conseil d'Etat. Ce décret précise les conditions dans
@@ -20841,7 +21180,6 @@ garantissent.
 
 	**Anciens textes**:
 
-	  - Loi n°69-1263 1969-12-31 art. 16 I
 	  - Loi n°69-1263 du 31 décembre 1969 - art. 16 (Ab)
 
 	**Codifié par**:
@@ -20850,7 +21188,7 @@ garantissent.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 47 () JORF 7 mai 2005
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
 
 	**Cité par**:
 
@@ -20879,6 +21217,11 @@ garantissent.
 	  - Code monétaire et financier - art. R513-8 (V)
 	  - Code monétaire et financier - art. R515-7-1 (T)
 	  - Code monétaire et financier - art. R515-7-2 (T)
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-16
+	  - Code monétaire et financier - art. L515-14
 
 
 ###### Article L313-43
@@ -26549,31 +26892,26 @@ général des impôts.
 
 ###### Article L432-12
 
-La pension est l'opération par laquelle une personne morale, un fonds commun de placement ou un fonds commun de créances cède
-en pleine propriété à une autre personne morale, à un fonds commun de placement ou à un fonds commun de créances, moyennant
+La pension est l'opération par laquelle une personne morale, un fonds commun de placement ou un organisme de titrisation cède
+en pleine propriété à une autre personne morale, à un fonds commun de placement ou à un organisme de titrisation, moyennant
 un prix convenu, des valeurs, titres ou effets définis ci-après et par laquelle le cédant et le cessionnaire s'engagent
 respectivement et irrévocablement, le premier à reprendre les valeurs, titres ou effets, le second à les rétrocéder pour un
-prix et à une date convenus.
+prix et à une date convenus. 
 
-Les valeurs, titres ou effets mentionnés ci-dessus sont :
+Les valeurs, titres ou effets mentionnés ci-dessus sont : 
 
 1. Les instruments financiers visés aux 1, 2 et 3 de l'article L. 211-1 ou tous instruments équivalents émis sur le fondement
-de droits étrangers ;
+de droits étrangers ; 
 
-2. Les effets publics ou privés.
+2. Les effets publics ou privés. 
 
 Toutefois, seuls les établissements de crédit peuvent prendre ou mettre en pension les effets privés.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 29 () JORF 16 mai 2001
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
 
 	**Cité par**:
 
@@ -26584,6 +26922,10 @@ Toutefois, seuls les établissements de crédit peuvent prendre ou mettre en pen
 	  - Code général des impôts, CGI. - art. 726 (V)
 	  - Code monétaire et financier - art. L432-16 (Ab)
 	  - Code monétaire et financier - art. L511-7 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1
 
 
 ###### Article L432-13
@@ -29057,38 +29399,31 @@ concernent ni les institutions et services énumérés à l'article L. 518-1, ni
 assurances, ni les sociétés de réassurance, ni les organismes agréés soumis aux dispositions du livre II du code de la
 mutualité pour les opérations visées au e du 1° de l'article L. 111-1 dudit code, ni les entreprises d'investissement, ni les
 organismes collecteurs de la participation des employeurs à l'effort de construction pour les opérations prévues par le code
-de la construction et de l'habitation, ni les fonds communs de créances, ni les organismes de placement collectif en valeurs
+de la construction et de l'habitation, ni les organismes de titrisation, ni les organismes de placement collectif en valeurs
 mobilières ni les organismes de placement collectif immobilier.
 
-L'interdiction relative aux opérations de crédit ne s'applique pas :
+L'interdiction relative aux opérations de crédit ne s'applique pas : 
 
 1. Aux organismes sans but lucratif qui, dans le cadre de leur mission et pour des motifs d'ordre social, accordent, sur leur
-ressources propres, des prêts à conditions préférentielles à certains de leurs ressortissants ;
+ressources propres, des prêts à conditions préférentielles à certains de leurs ressortissants ; 
 
 2. Aux organismes qui, pour des opérations définies à l'article L. 411-1 du code de la construction et de l'habitation, et
 exclusivement à titre accessoire à leur activité de constructeur ou de prestataire de services, consentent aux personnes
-physiques accédant à la propriété le paiement différé du prix des logements acquis ou souscrits par elles ;
+physiques accédant à la propriété le paiement différé du prix des logements acquis ou souscrits par elles ; 
 
 3. Aux entreprises qui consentent des avances sur salaires ou des prêts de caractère exceptionnel consentis pour des motifs
-d'ordre social à leurs salariés ;
+d'ordre social à leurs salariés ; 
 
 4. Aux fonds communs de placement à risque qui, dans les conditions prévues à l'article L. 214-36, consentent des avances en
-compte courant aux sociétés dans lesquelles ils détiennent une participation ;
+compte courant aux sociétés dans lesquelles ils détiennent une participation ; 
 
-5. Aux associations sans but lucratif faisant des prêts  pour la création et le développement d'entreprises par des chômeurs
+5. Aux associations sans but lucratif faisant des prêts pour la création et le développement d'entreprises par des chômeurs
 ou titulaires des minima sociaux sur ressources propres et sur emprunts contractés auprès d'établissements de crédit ou des
 institutions ou services mentionnés à l'article L. 518-1, habilitées et contrôlées dans des conditions définies par décret en
-Conseil d'Etat ;
+Conseil d'Etat ; 
 
 6. Aux personnes morales pour les prêts participatifs qu'elles consentent en vertu des articles L. 313-13 à L. 313-17 et aux
 personnes morales mentionnées à l'article L. 313-21-1 pour la délivrance des garanties prévues par cet article.
-
-**Nota:**
-
-Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
-celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
-homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
-collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -29156,7 +29491,7 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
 
 
 ###### Article L511-7
@@ -34824,17 +35159,17 @@ la Commission bancaire conformément à l'article L. 511-44.
 ###### Article L515-16
 
 Dans les conditions fixées par décret en Conseil d'Etat, sont assimilés aux prêts et expositions mentionnés aux articles L.
-515-14 et L. 515-15 les parts et titres de créances émis par des fonds communs de créances ainsi que les parts ou titres de
+515-14 et L. 515-15 les parts et titres de créances émis par des organismes de titrisation ainsi que les parts ou titres de
 créances émis par des entités similaires soumises au droit d'un Etat membre de la Communauté européenne ou partie à l'accord
-sur l'Espace économique européen, dès lors que les conditions suivantes sont respectées :
+sur l'Espace économique européen, dès lors que les conditions suivantes sont respectées : 
 
-1. L'actif de ces fonds communs de créances ou entités similaires est composé, à l'exclusion des sommes momentanément
+1.L'actif de ces organismes de titrisation ou entités similaires est composé, à l'exclusion des sommes momentanément
 disponibles et en instance d'affectation, des garanties, sûretés ou autres privilèges dont ils bénéficient ainsi que des
-valeurs conservées par ces fonds communs de créances ou entités similaires à titre de réserve ou de garantie en application
+valeurs conservées par ces organismes de titrisation ou entités similaires à titre de réserve ou de garantie en application
 des dispositions qui les régissent, à hauteur de 90 % au moins, de créances de même nature que les prêts et expositions
 répondant aux caractéristiques définies au I de l'article L. 515-14 ainsi qu'à l'article L. 515-15, ou de créances assorties
 de garanties équivalentes à celles des prêts et expositions mentionnés aux articles L. 515-14 et L. 515-15 et à l'exclusion
-des parts spécifiques ou titres de créances supportant le risque de défaillance des débiteurs de créances ;
+des parts spécifiques ou titres de créances supportant le risque de défaillance des débiteurs de créances ; 
 
 2. Ces parts ou titres bénéficient du meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation
 reconnu par la Commission bancaire conformément à l'article L. 511-44.
@@ -34855,13 +35190,11 @@ reconnu par la Commission bancaire conformément à l'article L. 511-44.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Ordonnance 2007-571 2007-04-19 art. 2 2° JORF 20 avril 2007
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
 
 
 ###### Article L515-16-1
@@ -35732,66 +36065,62 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 ###### Article L517-2
 
-I. - Pour l'application de la surveillance complémentaire prévue au chapitre III du titre III du livre VI, on entend par :
+I.-Pour l'application de la surveillance complémentaire prévue au chapitre III du titre III du livre VI, on entend par : 
 
-1° "Entité réglementée" : un établissement de crédit, un organisme d'assurance ou une entreprise d'investissement ayant son
-siège social dans un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen ;
+1° " Entité réglementée " : un établissement de crédit, un organisme d'assurance un organisme de réassurance ou une
+entreprise d'investissement ayant son siège social dans un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen ; 
 
-2° "Règles sectorielles" : les règles concernant la surveillance prudentielle des entités réglementées ;
+2° " Règles sectorielles " : les règles concernant la surveillance prudentielle des entités réglementées ; 
 
-3° "Secteur financier" : un secteur composé d'une ou plusieurs entités appartenant aux secteurs suivants :
+3° " Secteur financier " : un secteur composé d'une ou plusieurs entités appartenant aux secteurs suivants : 
 
 a) Le secteur bancaire et des services d'investissement, qui comprend les établissements de crédit, les entreprises
 d'investissement, les établissements financiers ou les entreprises à caractère financier dont le siège social est situé dans
-un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen ;
+un Etat membre ou dans un autre Etat partie à l'accord sur l'Espace économique européen ; 
 
 b) Le secteur des assurances, qui comprend les entreprises d'assurance, les sociétés de groupe d'assurance, les mutuelles,
 les unions de mutuelles, les institutions de prévoyance, les unions d'institutions de prévoyance, les groupements paritaires
 de prévoyance, ou les sociétés de réassurance dont le siège social est situé dans un Etat membre ou dans un autre Etat partie
-à l'accord sur l'Espace économique européen.
+à l'accord sur l'Espace économique européen. 
 
-Le secteur financier comprend également, le cas échéant, une ou plusieurs compagnies financières holding mixtes ;
+Le secteur financier comprend également, le cas échéant, une ou plusieurs compagnies financières holding mixtes ; 
 
-4° "Autorité compétente" : toute autorité nationale d'un Etat membre ou d'un autre Etat partie à l'accord sur l'Espace
+4° " Autorité compétente " : toute autorité nationale d'un Etat membre ou d'un autre Etat partie à l'accord sur l'Espace
 économique européen dotée, par une disposition législative ou réglementaire, du pouvoir de surveiller, individuellement ou à
-l'échelle d'un groupe, l'une ou plusieurs des catégories d'entités réglementées suivantes :
+l'échelle d'un groupe, l'une ou plusieurs des catégories d'entités réglementées suivantes : 
 
-a) Les établissements de crédit ;
+a) Les établissements de crédit ; 
 
-b) Les entreprises d'assurance ;
+b) Les entreprises d'assurance ; 
 
-c) Les mutuelles ;
+c) Les mutuelles ; 
 
-d) Les institutions de prévoyances ;
+d) Les institutions de prévoyances ; 
 
-e) Les entreprises d'investissement ;
+e) Les entreprises d'investissement ; 
 
-5° "Autorité compétente concernée" :
+f) Les entreprises de réassurance. 
+
+5° " Autorité compétente concernée " : 
 
 a) Toute autorité compétente responsable de la surveillance sectorielle consolidée des entités réglementées appartenant à un
-conglomérat financier ;
+conglomérat financier ; 
 
 b) Le coordonnateur désigné conformément à l'article L. 633-2 du présent code, s'il est différent des autorités mentionnées
-au a ;
+au a ; 
 
 c) Les autres autorités compétentes, lorsque les autorités visées aux a et b le jugent opportun.
-
-**Nota:**
-
-Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
-surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 6 () JORF 16 novembre 2004
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 6
 
 	**Cité par**:
 
@@ -35813,6 +36142,10 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 	  - Code monétaire et financier - art. R511-3-1 (V)
 	  - Code monétaire et financier - art. R532-15 (V)
 	  - Code monétaire et financier - art. R532-8 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L633-2
 
 
 ###### Article L517-3
@@ -38395,29 +38728,29 @@ services d'investissement ou chez la personne morale émettrice.
 
 Les sociétés de gestion de portefeuille sont des entreprises d'investissement qui fournissent, à titre principal, le service
 d'investissement mentionné au 4 de l'article L. 321-1, ou qui gèrent un ou plusieurs organismes de placement collectifs
-mentionnés aux 1 et 5 du I de l'article L. 214-1.
+mentionnés aux 1, 2 et 5 du I de l'article L. 214-1. 
 
-Les sociétés de gestion de portefeuille sont agréées par l'Autorité des marchés financiers.
+Les sociétés de gestion de portefeuille sont agréées par l'Autorité des marchés financiers. 
 
-Pour délivrer l'agrément à une société de gestion de portefeuille, l'Autorité vérifie si celle-ci :
+Pour délivrer l'agrément à une société de gestion de portefeuille, l'Autorité vérifie si celle-ci : 
 
-1. A son siège social et sa direction effective en France ;
+1.A son siège social et sa direction effective en France ; 
 
-2. Dispose d'un capital initial suffisant ainsi que des moyens financiers adaptés et suffisants ;
+2. Dispose d'un capital initial suffisant ainsi que des moyens financiers adaptés et suffisants ; 
 
 3. Fournit l'identité de ses actionnaires, directs ou indirects, personnes physiques ou morales, qui détiennent une
 participation qualifiée, ainsi que le montant de leur participation ; l'Autorité apprécie la qualité de ces actionnaires au
-regard de la nécessité de garantir une gestion saine et prudente ;
+regard de la nécessité de garantir une gestion saine et prudente ; 
 
 4. Est dirigée effectivement par deux personnes au moins possédant l'honorabilité nécessaire et l'expérience adéquate à leur
 fonction, en vue de garantir sa gestion saine et prudente. Le règlement général de l'Autorité des marchés financiers fixe les
 conditions dans lesquelles une société de gestion de portefeuille peut, par dérogation, être dirigée effectivement par une
 seule personne. Il précise les mesures qui doivent être prises pour garantir la gestion saine et prudente de la société
-concernée ;
+concernée ; 
 
 5. Dispose d'un programme d'activité pour chacun des services qu'elle entend exercer, qui précise les conditions dans
 lesquelles elle envisage de fournir les services d'investissement concernés et indique le type d'opérations envisagées et la
-structure de son organisation ;
+structure de son organisation ; 
 
 6. Adhère à un mécanisme de garantie des titres géré par le Fonds de garantie des dépôts conformément aux articles L. 322-5
 et L. 322-10.
@@ -38433,10 +38766,10 @@ est motivée et notifiée au demandeur.
 
 L'Autorité peut assortir l'agrément de conditions particulières visant à préserver l'équilibre de la structure financière de
 la société de gestion. Elle peut également subordonner l'octroi de l'agrément au respect d'engagements souscrits par la
-société requérante.
+société requérante. 
 
 Un règlement général de l'Autorité des marchés financiers précise les conditions d'agrément des sociétés de gestion de
-portefeuille.
+portefeuille. 
 
 Les sociétés de gestion de portefeuille doivent satisfaire à tout moment aux conditions de leur agrément.
 
@@ -38507,7 +38840,13 @@ Les sociétés de gestion de portefeuille doivent satisfaire à tout moment aux 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-1
+	  - Code monétaire et financier - art. L321-1
+	  - Code monétaire et financier - art. L322-10
 
 
 ###### Article L532-9-1
