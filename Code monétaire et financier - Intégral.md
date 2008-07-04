@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-06-29
+Version Consolidée au 2008-07-05
 
 # Partie législative
 
@@ -9345,10 +9345,24 @@ Les statuts ne peuvent prévoir d'avantages particuliers ;
 ###### Article L214-18
 
 Les dispositions de l'ordonnance n° 45-2710 du 2 novembre 1945 relative aux sociétés d'investissement ainsi que les articles
-L. 224-1, L. 224-2, L. 225-3 à L. 225-16, L. 225-25, L. 225-26, L. 225-258 à L. 225-270, L. 231-1 à L. 231-8, L. 242-31 et L.
-247-10 du code de commerce ne sont pas applicables aux SICAV.
+L. 224-1, L. 224-2, L. 225-3 à L. 225-16, L. 225-25, L. 225-26, 
+L. 225-258 à L. 225-270, L. 231-1 à L. 231-8, L. 242-31 et L. 247-10 du code de commerce ne sont pas applicables aux SICAV. 
+
+Les fusions transfrontalières des sociétés mentionnées à la présente sous-section ne sont pas régies par les articles L.
+236-25 à L. 236-32 du code de commerce.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-2710 du 2 novembre 1945
+	  - Code de commerce - art. L224-1
+	  - Code de commerce - art. L225-258
+	  - Code de commerce - art. L225-3
+	  - Code de commerce - art. L231-1
+	  - Code de commerce - art. L236-25
+	  - Code de commerce - art. L242-31
+	  - Code de commerce - art. L247-10
 
 	**Anciens textes**:
 
@@ -9358,10 +9372,14 @@ L. 224-1, L. 224-2, L. 225-3 à L. 225-16, L. 225-25, L. 225-26, L. 225-258 à L
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2008-649 du 3 juillet 2008 - art. 2
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L214-110 (V)
-	  - Code monétaire et financier - art. L732-7 (Ab)
+	  - Code monétaire et financier - art. L732-7 (V)
 	  - Code monétaire et financier - art. L742-6 (V)
 	  - Code monétaire et financier - art. L752-6 (M)
 	  - Code monétaire et financier - art. L762-6 (V)
@@ -15128,15 +15146,12 @@ de la société.
 
 ###### Article L214-125
 
-Les articles L. 224-1, L. 224-2, L. 225-3 à L. 225-16, L. 225-258 à L. 225-270, L. 231-1 à L. 231-8, L. 242-31 et L. 247-10
-du code de commerce ne sont pas applicables aux sociétés de placement à prépondérance immobilière à capital variable.
+Les articles L. 224-1, L. 224-2, 
+L. 225-3 à L. 225-16, L. 225-258 à L. 225-270, L. 231-1 à L. 231-8, L. 242-31 et L. 247-10 du code de commerce ne sont pas
+applicables aux sociétés de placement à prépondérance immobilière à capital variable. 
 
-**Nota:**
-
-Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
-celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
-homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
-collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Les fusions transfrontalières des sociétés mentionnées à la présente sous-section ne sont pas régies par les articles L.
+236-25 à L. 236-32 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -15144,9 +15159,19 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+	  - Loi n°2008-649 du 3 juillet 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de commerce - art. L224-1
+	  - Code de commerce - art. L225-258
+	  - Code de commerce - art. L225-3
+	  - Code de commerce - art. L231-1
+	  - Code de commerce - art. L236-25
+	  - Code de commerce - art. L242-31
+	  - Code de commerce - art. L247-10
 
 	**Cité par**:
 
@@ -29994,6 +30019,31 @@ impliquant un établissement de crédit agréé en France. Cette décision est s
 	  - Règlement 2157-2001 CE 2001-10-08 art. 8, art. 19
 
 
+###### Article L511-13-2
+
+Sans préjudice des dispositions de l'article 26-6 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération,
+le Comité des établissements de crédit et des entreprises d'investissement est compétent pour s'opposer, conformément au
+paragraphe 14 de l'article 7 et à l'article 21 du règlement (CE) n° 1435 / 2003 du Conseil, du 22 juillet 2003, relatif au
+statut de la société coopérative européenne (SEC), au transfert de siège social d'un établissement de crédit constitué sous
+forme de société coopérative européenne immatriculée en France et dont résulterait un changement du droit applicable ainsi
+qu'à la constitution d'une société coopérative européenne par voie de fusion impliquant un établissement coopératif de crédit
+agréé en France. Cette décision est susceptible de recours devant le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 26-6
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2008-649 du 3 juillet 2008 - art. 19
+
+
 ###### Article L511-14
 
 Le comité statue dans un délai de douze mois à compter de la réception de la demande d'agrément. Tout refus d'agrément est
@@ -38918,6 +38968,31 @@ de gestion de portefeuille agréée en France. Cette décision est susceptible d
 
 	  - Code de commerce - art. L229-4 (V)
 	  - Règlement 2001-2157 CE 2001-10-08 art. 8, art. 19
+
+
+###### Article L532-9-3
+
+Sans préjudice des dispositions de l'article 26-6 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération,
+l'Autorité des marchés financiers est compétente pour s'opposer, conformément au paragraphe 14 de l'article 7 et à l'article
+21 du règlement (CE) n° 1435 / 2003 du Conseil, du 22 juillet 2003, relatif au statut de la société coopérative européenne
+(SEC), au transfert de siège social d'une société de gestion de portefeuille constituée sous forme de société coopérative
+européenne immatriculée en France et dont résulterait un changement du droit applicable ainsi qu'à la constitution d'une
+société coopérative européenne par voie de fusion impliquant une société coopérative de gestion de portefeuille agréée en
+France. Cette décision est susceptible de recours devant le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 26-6
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2008-649 du 3 juillet 2008 - art. 20
 
 
 ##### Paragraphe 2 : Retrait d'agrément et radiation
@@ -49548,15 +49623,10 @@ des actionnaires est informée des opérations mentionnées au présent article.
 
 ###### Article L621-18-3
 
-Les personnes morales faisant appel public à l'épargne rendent publiques les informations relevant des matières mentionnées
-aux deux derniers alinéas des articles L. 225-37 et L. 225-68 du code de commerce dans des conditions fixées par le règlement
-général de l'Autorité des marchés financiers. Celle-ci établit chaque année un rapport sur la base de ces informations et
-peut approuver toute recommandation qu'elle juge utile.
-
-**Nota:**
-
-Loi 2006-1770 2006-12-30 art. 62 V : Ces dispositions s'appliquent aux options consenties et aux actions attribuées à compter
-de la date de publication de la présente loi.
+Les personnes morales faisant appel public à l'épargne rendent publiques les informations requises par les sixième, septième
+et neuvième alinéas de l'article L. 225-37 du code de commerce et par les septième, huitième et dixième alinéas de l'article
+L. 225-68 du même code dans des conditions fixées par le règlement général de l'Autorité des marchés financiers. Celle-ci
+établit chaque année un rapport sur la base de ces informations et peut approuver toute recommandation qu'elle juge utile.
 
 **Liens relatifs à cet article**
 
@@ -49572,7 +49642,12 @@ de la date de publication de la présente loi.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 62 () JORF 31 décembre 2006
+	  - Loi n°2008-649 du 3 juillet 2008 - art. 30
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-37
+	  - Code de commerce - art. L225-68
 
 
 ###### Article L621-18-4
@@ -79011,10 +79086,6 @@ par l'article 91 quater I de l'annexe II au code général des impôts.
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-
-##### Section 7 : Compte épargne codéveloppement
-
-##### Sous-section 1 : Dispositions relatives aux bénéficiaires du compte épargne codéveloppement
 
 ##### Section 7 : L'épargne codéveloppement.
 
