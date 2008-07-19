@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-07-17
+Version Consolidée au 2008-07-20
 
 # Partie législative
 
@@ -66923,39 +66923,35 @@ marchés sur lesquels ils sont cotés. Cet écart ne peut être supérieur à 5 
 
 ###### Article R214-1-1
 
-Un organisme de placement collectif en valeurs mobilières peut :
+Un organisme de placement collectif en valeurs mobilières peut : 
 
-1° Effectuer des dépôts ;
+1° Effectuer des dépôts ; 
 
 2° Recourir aux instruments financiers suivants, qu'ils soient régis par le droit français ou un droit étranger, à
-l'exclusion de ceux mentionnés à l'article R. 214-5 :
+l'exclusion de ceux mentionnés à l'article R. 214-5 : 
 
 a) Les actions et autres titres donnant ou pouvant donner accès, directement ou indirectement, au capital ou aux droits de
-vote, transmissibles par inscription en compte ou tradition ;
+vote, transmissibles par inscription en compte ou tradition ; 
 
 b) Les titres de créance qui représentent chacun un droit de créance sur l'entité qui les émet, transmissibles par
-inscription en compte ou tradition, autres que les effets de commerce et les instruments financiers mentionnés au f ;
+inscription en compte ou tradition, autres que les effets de commerce et les instruments financiers mentionnés au f ; 
 
-c) Les parts ou actions d'organismes de placement collectif en valeurs mobilières ;
+c) Les parts ou actions d'organismes de placement collectif en valeurs mobilières ; 
 
-d) Les parts et titres de créance émis par des fonds communs de créances ;
+d) Les parts et titres de créance émis par des fonds communs de titrisation ; 
 
-e) Les instruments financiers à terme au sens du I de l'article L. 211-1 ;
+e) Les instruments financiers à terme au sens du I de l'article L. 211-1 ; 
 
-f) Les instruments du marché monétaire.
+f) Les instruments du marché monétaire. 
 
 Pour l'application de la présente sous-section, les actions de sociétés d'investissement à capital variable relèvent du seul
 c.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
 
 	**Cité par**:
 
@@ -66979,9 +66975,9 @@ c.
 	  - Code monétaire et financier - art. R214-6 (Ab)
 	  - Code monétaire et financier - art. R214-7 (Ab)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code monétaire et financier - art. R214-1 (T)
+	  - Code monétaire et financier - art. L211-1
 
 
 ###### Article R214-1-2
@@ -67677,17 +67673,16 @@ parts.
 
 ###### Article R214-11
 
-Les parts et titres de créances d'un fonds commun de créances mentionnés au d du 2° de l'article R. 214-1-1 ne peuvent être
-détenus au-delà de 5 % de la valeur des parts et titres de créances émis par le fonds indiquée dans le dernier rapport
-semestriel mentionné au V de l'article L. 214-48, par un organisme de placement collectif en valeurs mobilières contrôlé par
-ou dépendant, au sens de l'article L. 214-5, d'un établissement de crédit ayant cédé des créances au fonds ou ayant transféré
-des risques de crédit au fonds.
+Les parts, actions et titres de créances émis par un organisme de titrisation mentionné au 2 du I de l'article L. 214-1 ne
+peuvent être détenus au-delà de 5 % de la valeur des parts, actions et titres de créances émis par l'organisme indiquée dans
+le dernier rapport semestriel mentionné au II de l'article L. 214-48, par un organisme de placement collectif en valeurs
+mobilières contrôlé par ou dépendant, au sens de l'article L. 214-5, d'un établissement de crédit ayant cédé des créances à
+l'organisme ou ayant transféré des risques de crédit à l'organisme.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°89-623 du 6 septembre 1989 - art. 4-3-2 (M)
 	  - Décret n°89-623 du 6 septembre 1989 - art. 4-3-2 (Ab)
 
 	**Cité par**:
@@ -67708,13 +67703,15 @@ des risques de crédit au fonds.
 	  - Code monétaire et financier - art. R214-57 (V)
 	  - Code monétaire et financier - art. R214-9 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2006-1542 2006-12-06 art. 4 3° JORF 8 décembre 2006
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-1
+	  - Code monétaire et financier - art. L214-48
+	  - Code monétaire et financier - art. L214-5
 
 
 ##### Paragraphe 2 : Règles applicables aux instruments financiers à terme et aux acquisitions et cessions temporaires d'instruments financiers.
@@ -71373,18 +71370,51 @@ coopération et de développement économique.
 	  - Code monétaire et financier - art. R762-4 (V)
 
 
-##### Section 2 : Les fonds communs de créances
+##### Section 2 : Les organismes de titrisation.
 
-##### Sous-section 1 : Stratégie de gestion du fonds commun de créances.
+##### Sous-section 1 :  Dispositions communes aux organismes de titrisation.
+
+##### Paragraphe 1 : Dispositions générales.
+
+##### Sous-paragraphe 1 : Règlement ou statuts de l'organisme de titrisation.
 
 ###### Article R214-92
 
-Le règlement du fonds définit la stratégie de gestion du fonds.
+Le règlement du fonds commun de titrisation ou les statuts de la société de titrisation définissent : 
 
-Le fonds commun de créances met en oeuvre sa stratégie de gestion en acquérant des créances et, le cas échéant, en concluant
-des contrats constituant des instruments financiers à terme afin de supporter des risques de crédit relatifs à une ou
-plusieurs entités de référence de toute nature. Pour financer la réalisation de sa stratégie de gestion, il émet des parts
-et, le cas échéant, des titres de créances, et peut recourir à l'emprunt.
+1° La nature des risques auxquels l'organisme se propose de s'exposer ainsi que : 
+
+a) Lorsque l'organisme se propose d'acquérir des créances, les caractéristiques de ces créances ; 
+
+b) Lorsque l'organisme se propose de conclure des contrats constituant des instruments financiers à terme à des fins
+d'exposition, les conditions de conclusion et de dénouement de ces contrats, les caractéristiques des sous-jacents de ces
+contrats et, lorsque ces instruments répondent aux caractéristiques des dérivés de crédit, la nature et les caractéristiques
+des personnes sur lesquelles repose le risque de crédit ; 
+
+c) Lorsque l'organisme se propose de conclure des contrats transférant des risques d'assurance, les caractéristiques de ces
+contrats ; 
+
+2° La stratégie de financement ou de couverture de ces risques, notamment : 
+
+a) Les conditions d'émissions de parts, actions ou titres de créances ; 
+
+b) Les conditions de recours à l'emprunt ; 
+
+c) Les conditions de conclusion et de dénouement des contrats constituant des instruments financiers à terme ou transférant
+des risques d'assurance à des fins de couverture ; 
+
+3° Les garanties que l'organisme se propose de recevoir, consenties à son bénéfice ou à celui des porteurs de parts, actions
+ou titres de créances qu'il a émis ; 
+
+4° Les garanties que l'organisme se propose de consentir ; 
+
+5° La stratégie d'investissement de l'actif de l'organisme, notamment : 
+
+a) La stratégie d'investissement des liquidités ; 
+
+b) Les conditions de recours à des opérations d'acquisition ou de cession temporaire d'instruments financiers ; 
+
+c) Les conditions de recours à des opérations de cession de créances non échues ou non déchues de leur terme.
 
 **Liens relatifs à cet article**
 
@@ -71402,31 +71432,60 @@ et, le cas échéant, des titres de créances, et peut recourir à l'emprunt.
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 1
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
 
 
-##### Sous-section 2 : Règles générales de composition de l'actif et du passif du fonds commun de créances.
+##### Sous-paragraphe 2 : Règles générales de composition de l'actif et du passif de l'organisme de titrisation.
+
+###### Article D214-94
+
+Les créances mentionnées au 1° de l'article R. 214-93 éligibles à l'actif de l'organisme de titrisation sont : 
+
+1° Des créances résultant soit d'un acte déjà intervenu, soit d'un acte à intervenir, que le montant et la date d'exigibilité
+de ces créances soient ou non encore déterminés et que les débiteurs de ces créances soient ou non identifiés, y compris des
+créances immobilisées, douteuses ou litigieuses ; 
+
+2° Des titres de créances, représentant chacun un droit de créance sur l'entité qui les émet, transmissibles par inscription
+en compte ou tradition.
+
+L'acquisition de créances par l'organisme de titrisation s'effectue par la cession des créances à l'organisme. Toutefois, le
+fonds peut souscrire directement à l'émission des titres de créances mentionnés au 2° du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R214-93
+
 
 ###### Article R214-93
 
-L'actif du fonds commun de créances peut être composé :
+L'actif de l'organisme de titrisation peut être composé : 
 
 1° De créances, qu'elles soient régies par le droit français ou un droit étranger, dans les conditions définies à l'article
-R. 214-94 ;
+R. 214-94 ; 
 
-2° De liquidités, dans les conditions définies à l'article R. 214-95 ;
+2° De liquidités, dans les conditions définies à l'article R. 214-95 ; 
 
-3° D'actifs qui lui sont transférés au titre de la réalisation ou de la constitution des sûretés attachées aux créances
-cédées au fonds, conformément au neuvième alinéa de l'article L. 214-43, ou au titre des garanties qui lui sont accordées
-dans les conditions définies à l'article R. 214-97 ;
+3° D'actifs qui lui sont transférés au titre de la réalisation ou de la constitution des sûretés, garanties et accessoires
+attachés aux créances cédées à l'organisme, conformément au septième alinéa de l'article L. 214-43, ou au titre des sûretés
+et garanties qui lui sont accordées ou au titre de droits attachés ou relatifs à des créances qui lui sont transférées
+résultant de contrats de crédit-bail ou de location avec option d'achat ; 
 
 4° D'actifs qui lui sont transférés au titre des engagements qu'il prend au travers de contrats constituant des instruments
-financiers à terme, dans les conditions définies à l'article R. 214-105.
+financiers à terme, dans les conditions définies à l'article R. 214-99.
 
 **Liens relatifs à cet article**
 
@@ -71446,92 +71505,51 @@ financiers à terme, dans les conditions définies à l'article R. 214-105.
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 2
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 2 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-
-###### Article R214-94
-
-Les créances mentionnées au 1° de l'article R. 214-93 éligibles à l'actif du fonds commun de créances sont :
-
-1° Des créances résultant soit d'un acte déjà intervenu, soit d'un acte à intervenir, que le montant et la date d'exigibilité
-de ces créances soient ou non encore déterminés, y compris des créances immobilisées, douteuses ou litigieuses ;
-
-2° Des titres de créances, représentant chacun un droit de créance sur l'entité qui les émet, transmissibles par inscription
-en compte ou tradition.
-
-L'acquisition de créances par le fonds commun de créances s'effectue par la cession des créances au fonds. Toutefois, le
-fonds peut souscrire directement à l'émission des titres de créances mentionnés au 2° du présent article.
-
-Le règlement du fonds précise la nature et les caractéristiques des créances que le fonds se propose d'acquérir et les
-modalités d'acquisitions des créances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1255 2004-11-24 art 3
-	  - Décret n°2004-1255 du 24 novembre 2004 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
 
-	**Cité par**:
+	**Cite**:
 
-	  - Code monétaire et financier - art. D214-104 (Ab)
-	  - Code monétaire et financier - art. R214-100 (V)
-	  - Code monétaire et financier - art. R214-106 (V)
-	  - Code monétaire et financier - art. R214-111 (V)
-	  - Code monétaire et financier - art. R214-93 (V)
-	  - Code monétaire et financier - art. R214-95 (V)
+	  - Code monétaire et financier - art. L214-43
+	  - Code monétaire et financier - art. R214-99
 
 
 ###### Article R214-95
 
-Les liquidités mentionnées au 2° de l'article R. 214-93 éligibles à l'actif du fonds commun de créances sont :
+Les liquidités mentionnées au 2° de l'article R. 214-93 éligibles à l'actif de l'organisme de titrisation sont : 
 
-1° Des dépôts effectués auprès d'un établissement mentionné au 1° de l'article R. 214-97, à l'exclusion des entreprises
-d'investissement, qui peuvent être remboursés ou retirés à tout moment à la demande du fonds pour une mise à disposition des
-sommes sous vingt-quatre heures maximum sous réserve des heures limites de placement en devises ;
+1° Des dépôts effectués auprès d'un établissement de crédit dont le siège est établi dans un Etat partie à l'accord sur
+l'Espace économique européen ou membre de l'Organisation de coopération et de développement économique qui peuvent être
+remboursés ou retirés à tout moment à la demande de l'organisme ; 
 
-2° Des bons du Trésor ;
+2° Des bons du Trésor ; 
 
 3° Des titres de créances mentionnés au 2° de l'article R. 214-94, sous réserve qu'ils soient admis aux négociations sur un
 marché réglementé situé dans un Etat partie à l'accord sur l'Espace économique européen et à l'exception des titres donnant
-accès directement ou indirectement au capital d'une société ;
+accès directement ou indirectement au capital d'une société ; 
 
-4° Des titres de créances négociables ;
+4° Des titres de créances négociables ; 
 
 5° Des parts ou actions d'organismes de placement collectif en valeurs mobilières investies principalement en titres de
-créances mentionnés aux 2°, 3° et 4° ;
+créances mentionnés aux 2°, 3° et 4° ; 
 
-6° Des parts de fonds communs de créances ou d'entités similaires de droit étranger, à l'exception de ses propres parts.
+6° Des parts ou actions d'organismes de titrisation ou d'entités similaires de droit étranger, à l'exception de ses propres
+parts. 
 
-Ces liquidités sont détenues par le fonds dans la limite des besoins liés à la réalisation de sa stratégie de gestion. Elles
-peuvent notamment correspondre au placement des sommes en instance d'affectation au fonds, mentionné au quatrième alinéa de
-l'article L. 214-43.
-
-Le règlement du fonds précise les règles d'emploi de ces liquidités.
+Le règlement ou les statuts de l'organisme précisent les règles d'emploi de ces liquidités.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 4
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
 
 	**Cité par**:
 
@@ -71543,29 +71561,15 @@ Le règlement du fonds précise les règles d'emploi de ces liquidités.
 	  - Code monétaire et financier - art. R214-93 (V)
 	  - Code monétaire et financier - art. R515-4 (V)
 
+	**Cite**:
+
+	  - Code monétaire et financier - art. R214-94
+
 
 ###### Article R214-96
 
-La couverture contre les risques que le fonds commun de créances supporte dans le cadre de la réalisation de sa stratégie de
-gestion est obtenue par :
-
-1° L'émission de parts spécifiques ou de titres de créances spécifiques supportant ces risques, à la condition que ces parts
-ou ces titres ne soient souscrits ou détenus que par des investisseurs qualifiés au sens de l'article L. 411-2, par des
-investisseurs non résidents ou par une personne mentionnée au 3° ou au 4° de l'article R. 214-97 ;
-
-2° La cession au fonds d'un montant de créances excédant le montant des parts et titres de créances émis ;
-
-3° L'existence de sûretés, garanties et accessoires attachés aux créances qui lui sont cédées, mentionnés au huitième alinéa
-de l'article L. 214-43 ;
-
-4° L'obtention de garanties auprès d'une personne mentionnée à l'article R. 214-97 ;
-
-5° L'obtention d'un ou plusieurs prêts subordonnés dans les conditions définies aux articles R. 214-101 et R. 214-102 ;
-
-6° La conclusion de contrats constituant des instruments financiers à terme, dans les conditions prévues à l'article R.
-214-105.
-
-Le règlement du fonds précise les règles de ces opérations de couverture.
+Le produit des parts et titres de créances émis par l'organisme ou des emprunts contractés par lui peut être affecté au
+remboursement ou à la rémunération de ses parts, actions, titres de créances ou emprunts.
 
 **Liens relatifs à cet article**
 
@@ -71576,47 +71580,26 @@ Le règlement du fonds précise les règles de ces opérations de couverture.
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 5
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L214-43 (M)
-	  - Code monétaire et financier - art. L411-2 (M)
-	  - Code monétaire et financier - art. R214-101 (V)
-	  - Code monétaire et financier - art. R214-102 (V)
-	  - Code monétaire et financier - art. R214-105 (V)
-	  - Code monétaire et financier - art. R214-97 (V)
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
 
 
 ###### Article R214-97
 
-Les garanties mentionnées au 4° de l'article R. 214-96 sont accordées au fonds commun de créances par l'une des personnes
-suivantes :
+Pour la réalisation de son objet, un organisme de titrisation peut octroyer les garanties mentionnées à l'article L. 431-7-3,
+dans les conditions définies à ce même article. 
 
-1° Un établissement de crédit dont le siège est établi dans un Etat membre de l'Organisation de coopération et de
-développement économique, une entreprise d'investissement dont le siège est situé dans un Etat membre de la Communauté
-européenne ou partie à l'accord sur l'Espace économique européen, ou la Caisse des dépôts et consignations ou tout
-établissement de droit étranger ayant une fonction similaire exerçant des missions analogues et inscrit sur une liste établie
-par arrêté du ministre chargé de l'économie ;
+Lorsque les garanties octroyées par un organisme de titrisation sont des sûretés, l'acte constitutif de ces sûretés
+définit : 
 
-2° Une entreprise d'assurance ou de réassurance régie par le code des assurances ou une entreprise d'assurance ou de
-réassurance bénéficiant d'une habilitation équivalente dont le siège est établi dans un Etat membre de la Communauté
-européenne ou partie à l'accord sur l'Espace économique européen, ou dans un Etat membre de l'Organisation de coopération et
-de développement économique ;
+1° La nature des biens ou droits que le bénéficiaire des sûretés peut utiliser ou aliéner.A défaut de cette indication, le
+bénéficiaire ne peut utiliser ou aliéner que des dépôts ou des liquidités ; 
 
-3° Une personne ayant cédé des créances au fonds, une société placée sous le contrôle de cette personne au sens de l'article
-L. 233-3 du code de commerce, une société qui contrôle cette personne au sens de ce même article ou une société qui est
-contrôlée par l'une de ces sociétés ;
-
-4° Une contrepartie à des contrats constituant des instruments financiers à terme que le fonds conclut, dans les conditions
-définies à l'article R. 214-105, une société placée sous le contrôle de cette contrepartie au sens de l'article L. 233-3 du
-code de commerce, une société qui contrôle cette contrepartie au sens de ce même article ou une société qui est contrôlée par
-l'une de ces sociétés.
+2° Le montant maximal des biens ou droits que le bénéficiaire des sûretés peut utiliser ou aliéner. Ce montant maximal ne
+peut excéder le montant de la créance du bénéficiaire sur l'organisme.
 
 **Liens relatifs à cet article**
 
@@ -71629,59 +71612,57 @@ l'une de ces sociétés.
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 6
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L431-7-3
 
 
 ###### Article R214-98
 
-I. - Le passif d'un fonds commun de créances comprend à tout moment un nombre minimum de deux parts.
-
-Le montant minimum d'une part à l'émission est de 150 euros ou son équivalent dans l'unité monétaire de l'émission.
-
-II. - Le produit des parts émises par le fonds est affecté à la constitution de l'actif du fonds, au remboursement ou à la
-rémunération de parts ou de titres de créances déjà émis par le fonds ou au remboursement ou à la rémunération d'emprunts
-déjà effectués par le fonds.
-
-III. - Le règlement du fonds précise les modalités d'émission des parts.
+L'organisme de titrisation peut recourir à des emprunts ou à d'autres formes de ressources dans les conditions prévues par
+son règlement ou ses statuts.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 7
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
 
+
+##### Sous-paragraphe 3 : Règles applicables aux instruments financiers à terme et à la cession de créances avant leur terme.
 
 ###### Article R214-99
 
-I. - Le fonds commun de créances peut émettre des titres de créances négociables et des obligations ou des titres de créances
-émis par le fondement d'un droit étranger.
+L'organisme de titrisation peut conclure des contrats constituant des instruments financiers à terme mentionnés au 4 du I de
+l'article L. 211-1 dans les conditions prévues par ses statuts ou son règlement. 
 
-II. - Le produit des titres de créances émis par le fonds est affecté à la constitution de l'actif du fonds, au remboursement
-ou à la rémunération de parts ou de titres de créances déjà émis par le fonds ou au remboursement ou à la rémunération
-d'emprunts déjà effectués par le fonds.
-
-III. - Le règlement du fonds précise les caractéristiques et les modalités d'émission des titres de créances.
+La perte nette maximale de l'organisme résultant de l'ensemble des contrats constituant des instruments financiers à terme
+conclus, évaluée à tout moment en prenant en compte les couvertures dont il bénéficie, ne peut être supérieure à la valeur de
+son actif.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 8
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1
 
 	**Cité par**:
 
@@ -71691,51 +71672,82 @@ III. - Le règlement du fonds précise les caractéristiques et les modalités d
 
 ###### Article R214-100
 
-Le règlement du fonds précise dans quels cas et conditions le fonds commun de créances peut acquérir des créances et émettre
-de nouvelles parts et de nouveaux titres de créances après l'émission initiale de parts et de titres de créances. Il fixe les
-modalités de détermination du niveau de sécurité offert aux porteurs de parts et de titres de créances émis précédemment dans
-le cadre de ces opérations et les conditions de maintien de ce niveau de sécurité.
+L'organisme de titrisation peut procéder, dans la limite de son actif, à des opérations de pension ou toute autre opération
+d'acquisition et de cession temporaire de titres et aux trois conditions suivantes : 
 
-Il appartient à la société de gestion du fonds de s'assurer du respect de ces conditions.
+1° Ces opérations sont réalisées avec un établissement de crédit ou une entreprise d'assurance dont le siège est établi dans
+un Etat partie à l'accord sur l'Espace économique européen ou membre de l'Organisation de coopération et de développement
+économiques ou une personne morale de droit français ou une entité similaire de droit étranger garantie au titre des
+obligations résultant de ces contrats par un tel établissement ou une telle entreprise ; 
+
+2° Elles portent sur les titres de créances mentionnés au 2° de l'article R. 214-94 ou sur les liquidités mentionnées aux 2°
+à 6° de l'article R. 214-95 ; 
+
+3° Elles sont prises en compte pour l'application de la règle d'engagement mentionnée au deuxième alinéa de l'article R.
+214-99 ou, le cas échéant, au 5° de l'article R. 214-111. 
+
+Le règlement ou les statuts de l'organisme précisent les objectifs et les conditions de recours à ces opérations.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 9
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 9 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R214-101 (V)
 	  - Code monétaire et financier - art. R214-115 (Ab)
 
+	**Cite**:
+
+	  - Code monétaire et financier - art. R214-111
+	  - Code monétaire et financier - art. R214-94
+	  - Code monétaire et financier - art. R214-95
+	  - Code monétaire et financier - art. R214-99
+
 
 ###### Article R214-101
 
-I. - Le fonds commun de créances peut recourir à des emprunts d'espèces dans la limite des besoins liés à la réalisation de
-sa stratégie de gestion ou afin de rembourser ou de rémunérer des parts ou des titres de créances déjà émis par le fonds ou
-de rembourser ou de rémunérer des emprunts déjà effectués par le fonds. Ces emprunts sont effectués auprès d'un établissement
-mentionné au 1° de l'article R. 214-97, à l'exclusion des entreprises d'investissement.
+I.-Les cas mentionnés au deuxième alinéa de l'article L. 214-49-1 et au deuxième alinéa du I de l'article L. 214-49-7 dans
+lesquels l'approbation d'un programme d'activité spécifique n'est pas requise sont les suivants : 
 
-II. - Le fonds peut également obtenir des prêts subordonnés à titre de couverture contre les risques qu'il supporte dans le
-cadre de la réalisation de sa stratégie de gestion. Ces prêts sont octroyés par un établissement mentionné au I ou par une
-personne mentionnée au 3° ou au 4° de l'article R. 214-97.
+1° Lorsque l'organisme fait l'objet d'une liquidation effectuée dans l'intérêt des porteurs de parts et de titres de créances
+émis précédemment ; 
+
+2° Lorsque le capital restant dû des créances non échues de l'organisme est inférieur à un pourcentage du maximum du capital
+restant dû des créances non échues constaté depuis la constitution de l'organisme, défini dans le règlement du fonds et
+n'excédant pas 10 % ; 
+
+3° Lorsque les parts et titres de créances émis par le fonds ne sont plus détenus que par un seul porteur et à sa demande ou
+lorsqu'ils ne sont plus détenus que par le ou les cédants et à leur demande ; 
+
+4° Lorsque l'organisme doit s'acquitter de ses engagements résultant d'un contrat constituant un instrument financier à
+terme. 
+
+II.-Les cessions des titres de créances détenus à titre de liquidités s'effectuent librement. 
+
+Les cessions temporaires de titres de créances s'effectuent dans les conditions définies à l'article R. 214-100.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 10
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-49-1
+	  - Code monétaire et financier - art. L214-49-7
+	  - Code monétaire et financier - art. R214-100
 
 	**Cité par**:
 
@@ -71743,136 +71755,167 @@ personne mentionnée au 3° ou au 4° de l'article R. 214-97.
 	  - Code monétaire et financier - art. R214-96 (V)
 
 
-###### Article R214-102
+##### Sous-paragraphe 4 : Règles applicables à la cession et au recouvrement des créances ainsi qu'à la conservation des actifs.
 
-Le règlement du fonds précise les objets et les limites des emprunts mentionnés à l'article R. 214-101. Il fixe les modalités
-de détermination du niveau de sécurité offert aux porteurs de parts et de titres de créances émis précédemment dans le cadre
-de ces emprunts et les conditions de maintien de ce niveau de sécurité.
+###### Article D214-102
 
-Il appartient à la société de gestion du fonds de s'assurer du respect de ces conditions.
+Le bordereau prévu au huitième alinéa de l'article L. 214-43 comporte les énonciations suivantes : 
+
+1° La dénomination " acte de cession de créances " ; 
+
+2° La mention que la cession est soumise aux dispositions des articles L. 214-43 à L. 214-48 ; 
+
+3° La désignation du cessionnaire ; 
+
+4° La désignation et l'individualisation des créances cédées ou les éléments susceptibles d'effectuer cette désignation ou
+cette individualisation, par exemple par l'indication du débiteur ou du type de débiteurs, des actes ou des types d'actes
+dont les créances sont ou seront issues, du lieu de paiement, du montant des créances ou de leur évaluation et, s'il y a
+lieu, de leur échéance. 
+
+Lorsque la transmission des créances cédées est effectuée par un procédé informatique permettant de les identifier, le
+bordereau peut se borner à indiquer, outre les mentions visées aux 1°, 2° et 3° ci-dessus, le moyen par lequel elles sont
+transmises, désignées et individualisées ainsi que l'évaluation de leur nombre et de leur montant global. 
+
+La cession emporte l'obligation pour le cédant ou toute entité chargée du recouvrement de procéder, à la demande du
+cessionnaire, à la conservation des créances dans les conditions définies à l'article R. 214-104, ainsi qu'à tout acte
+nécessaire à la conservation des sûretés, des garanties et des accessoires attachés à ces créances, à leur modification
+éventuelle, à leur mise en jeu, à leur mainlevée et à leur exécution forcée. 
+
+Le bordereau peut être établi, signé, conservé et transmis sous forme électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-43
+	  - Code monétaire et financier - art. R214-104
+
+
+###### Article D214-103
+
+.-Le compte spécialement affecté au profit de l'organisme de titrisation, prévu à l'article L. 214-46-1, est un compte
+bancaire tenu par un établissement de crédit dont le siège est établi dans un Etat partie à l'accord sur l'Espace économique
+européen ou membre de l'Organisation de coopération et de développement économiques, y compris un compte existant ouvert au
+nom de toute entité chargée de l'encaissement de sommes dues ou bénéficiant directement ou indirectement à l'organisme. 
+
+Le caractère spécialement affecté de ce compte prend effet à la signature d'une convention de compte passée entre la société
+de gestion de l'organisme, le dépositaire de la trésorerie et des créances de l'organisme, une entité chargée de
+l'encaissement de sommes dues ou bénéficiant directement ou indirectement à l'organisme et l'établissement teneur de compte,
+sans qu'il soit besoin d'autre formalité. 
+
+II.-Les sommes portées au crédit du compte bénéficient exclusivement à l'organisme. La société de gestion de l'organisme
+dispose de ces sommes dans des conditions définies dans la convention de compte. 
+
+Lorsque des sommes autres que celles dues ou bénéficiant à l'organisme sont versées sur ce compte, l'entité chargée de
+l'encaissement de sommes dues ou bénéficiant directement ou indirectement à l'organisme doit faire la preuve que ces sommes
+ne sont pas dues à l'organisme. 
+
+Ces sommes sont alors retirées du compte dans les meilleurs délais selon des conditions définies dans la convention de
+compte. 
+
+III.-L'établissement teneur de compte est assujetti aux obligations suivantes : 
+
+1° Il informe les tiers saisissant le compte que ce dernier fait l'objet d'une affectation spéciale, en application de
+l'article L. 214-46 au profit de l'organisme de titrisation, rendant le compte et les sommes qui y sont portées
+indisponibles ; 
+
+2° Il ne peut effectuer des opérations de fusion du compte avec un autre compte ; 
+
+3° Il se conforme aux seules instructions de la société de gestion de l'organisme pour les opérations de débit du compte,
+sauf si la convention de compte autorise l'entité chargée de l'encaissement de sommes dues ou bénéficiant directement ou
+indirectement à l'organisme à procéder à des débits du compte dans des conditions qu'elle définit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-46
+	  - Code monétaire et financier - art. L214-46-1
+
+
+###### Article D214-104
+
+Le dépositaire de l'organisme assure la conservation de la trésorerie et des créances de l'organisme. 
+
+Toutefois, le cédant ou l'entité chargée du recouvrement des créances cédées à l'organisme peut assurer la conservation des
+créances mentionnées au 1° de l'article R. 214-94, aux conditions cumulatives suivantes : 
+
+1° Le dépositaire de l'organisme assure, sous sa responsabilité, la conservation des bordereaux de cession de ces créances à
+l'organisme ; 
+
+2° Le cédant ou la personne ou l'établissement chargé du recouvrement des créances cédées à l'organisme assure, sous sa
+responsabilité, la conservation des contrats et autres supports relatifs à ces créances et aux sûretés, garanties et
+accessoires qui y sont attachés, et met en place à cet effet des procédures de conservation documentées et un contrôle
+interne régulier et indépendant portant sur le respect de ces procédures ; 
+
+3° Selon des modalités définies dans une convention passée entre le cédant ou la personne ou l'entité chargée du recouvrement
+des créances cédées à l'organisme, le dépositaire des actifs de l'organisme et la société de gestion du fonds : 
+
+a) Le dépositaire de l'organisme s'assure, sur la base d'une déclaration du cédant ou de l'entité chargée du recouvrement, de
+la mise en place des procédures mentionnées au 2°. Cette déclaration doit permettre au dépositaire de l'organisme de vérifier
+que le cédant ou l'établissement chargé du recouvrement des créances a mis en place des procédures garantissant la réalité
+des créances cédées et des sûretés, garanties et accessoires qui y sont attachés et la sécurité de leur conservation et que
+ces créances sont recouvrées au seul bénéfice de l'organisme ; 
+
+b) A la demande de la société de gestion de l'organisme ou du dépositaire de l'organisme, le cédant ou l'entité chargée du
+recouvrement des créances cédées à l'organisme doit remettre dans les meilleurs délais au dépositaire des actifs de
+l'organisme ou à tout autre entité désignée par le dépositaire des actifs de l'organisme et la société de gestion de
+l'organisme les originaux des contrats et supports mentionnés au 2° du présent article. 
+
+Le règlement ou les statuts de l'organisme précise les modalités de conservation de la trésorerie et des créances de
+l'organisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R214-94
+
+
+##### Sous-paragraphe 5 : Obligations d'information.
+
+###### Article R214-105
+
+Les informations mentionnées à l'article L. 214-45 sont communiquées à la Banque de France par la société de gestion de
+l'organisme.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 11
-	  - Décret n°2004-1255 du 24 novembre 2004 - art. 11 (Ab)
+	  - Décret n°2004-1255 du 24 novembre 2004 - art. 14 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R214-101
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R214-115 (Ab)
-	  - Code monétaire et financier - art. R214-96 (V)
-
-
-###### Article R214-103
-
-I. - Le règlement du fonds commun de créances précise l'ordre d'affectation des sommes perçues par le fonds entre les
-différentes catégories de parts, de titres de créances et d'emprunts.
-
-II. - Le paiement des sommes exigibles au titre des parts émises par le fonds est subordonné au paiement des sommes exigibles
-de toute nature dues aux porteurs de titres de créances émis par le fonds.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1255 2004-11-24 art 12
-	  - Décret n°2004-1255 du 24 novembre 2004 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
-
-
-##### Sous-section 3 : Règles applicables aux instruments financiers à terme et à la cession de créances avant leur terme.
-
-###### Article R214-104
-
-Le recours par le fonds commun de créances à des contrats constituant des instruments financiers à terme, à des opérations
-d'acquisition ou de cession temporaire de titres ou à des opérations de cession de créances qu'il détient lorsqu'elles ne
-sont pas échues ou déchues de leur terme ne doit pas l'amener à s'écarter de sa stratégie de gestion.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1255 2004-11-24 art 13
-	  - Décret n°2004-1255 du 24 novembre 2004 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. D214-102 (Ab)
-	  - Code monétaire et financier - art. R214-106 (V)
-	  - Code monétaire et financier - art. R214-107 (V)
-
-
-###### Article R214-105
-
-Le fonds commun de créances peut conclure des contrats constituant des instruments financiers à terme à titre de couverture
-ou afin de réaliser sa stratégie de gestion aux conditions fixées aux articles R. 214-104 et R. 214-108 et aux trois
-conditions suivantes :
-
-1° Ces contrats sont conclus avec :
-
-a) Un établissement mentionné au 1° de l'article R. 214-97 ou une personne morale de droit français ou une entité similaire
-de droit étranger garantie au titre des obligations résultant de ces contrats par un tel établissement ;
-
-b) Un établissement mentionné au 2° de l'article R. 214-97, dans la limite où la législation et la réglementation propres à
-cet établissement l'y autorisent, ou une personne morale de droit français ou une entité similaire de droit étranger garantie
-au titre des obligations résultant de ces contrats par un tel établissement ;
-
-2° Les engagements créés par ces contrats donnent lieu :
-
-a) Soit à la livraison ou au transfert de créances mentionnées au 1° de l'article R. 214-93 ;
-
-b) Soit à un règlement en espèces ;
-
-c) Soit au transfert de parts de fonds commun de créances, à l'exclusion de ses propres parts, ou de parts d'entités
-similaires de droit étranger ;
-
-3° La perte nette maximale du fonds résultant de l'ensemble des contrats constituant des instruments financiers à terme
-conclus, évaluée à tout moment en prenant en compte les couvertures mentionnées à l'article R. 214-96 dont il bénéficie, ne
-peut être supérieure à la valeur de son actif ; le règlement général de l'Autorité des marchés financiers précise les
-modalités d'application de cette règle d'engagement.
-
-Le règlement du fonds précise les objectifs et les conditions de recours à des instruments financiers à terme. Lorsque le
-fonds se propose de conclure des instruments financiers à terme afin de supporter des risques de crédit, le règlement du
-fonds précise la nature et les caractéristiques des entités de référence auxquelles ces risques de crédits se rapportent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1255 2004-11-24 art 14
-	  - Décret n°2004-1255 du 24 novembre 2004 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Code monétaire et financier - art. L214-45
 
 	**Cité par**:
 
@@ -71880,92 +71923,69 @@ fonds précise la nature et les caractéristiques des entités de référence au
 	  - Code monétaire et financier - art. R214-115 (Ab)
 	  - Code monétaire et financier - art. R214-96 (V)
 
+
+##### Sous-paragraphe 6 : Dispositions particulières aux organismes de titrisation à compartiments.
 
 ###### Article R214-106
 
-Le fonds commun de créances peut procéder, dans la limite de 100 % de son actif, à des opérations de pension ou toute autre
-opération d'acquisition et de cession temporaire de titres aux conditions fixées à l'article R. 214-104 et aux trois
-conditions suivantes :
-
-1° Ces opérations sont réalisées avec un établissement ou une personne mentionné au 1° de l'article R. 214-105 ;
-
-2° Elles portent sur les titres de créances mentionnés au 2° de l'article R. 214-94 ou sur les liquidités mentionnées aux 2°
-à 6° de l'article R. 214-95 ;
-
-3° Elles sont prises en compte pour l'application de la règle d'engagement mentionnée au 3° de l'article R. 214-105.
-
-Le règlement du fonds précise les objectifs et les conditions de recours à ces opérations.
+Lorsque l'organisme de titrisation comporte deux ou plusieurs compartiments, les dispositions de la présente section sont
+applicables à chacun des compartiments.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 15
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R214-104
+	  - Code monétaire et financier - art. R214-105
+	  - Code monétaire et financier - art. R214-94
+	  - Code monétaire et financier - art. R214-95
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R214-107 (V)
+
+
+##### Paragraphe 3 : Dispositions particulières aux fonds communs de titrisation.
+
+###### Article D214-108-1
+
+Le montant minimum d'une part à l'émission est de 150 euros ou son équivalent dans l'unité monétaire de l'émission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
 
 
 ###### Article R214-107
 
-Les créances non échues ou non déchues de leur terme acquises par le fonds commun de créances ne peuvent faire l'objet d'une
-cession, en une ou plusieurs fois ou pour leur totalité, qu'aux conditions fixées aux articles R. 214-104 et R. 214-108 et
-dans les seuls cas suivants :
+I. - Le fonds commun de titrisation peut émettre des titres de créances négociables et des obligations ou des titres de
+créances émis sur le fondement d'un droit étranger. 
 
-1° Lorsque le fonds fait l'objet d'une liquidation effectuée dans l'intérêt des porteurs de parts et de titres de créances
-émis précédemment ;
-
-2° Lorsque le capital restant dû des créances non échues du fonds est inférieur à un pourcentage du maximum du capital
-restant dû des créances non échues constaté depuis la constitution du fonds, défini dans le règlement du fonds et n'excédant
-pas 10 % ;
-
-3° Lorsque les parts et titres de créances émis par le fonds ne sont plus détenus que par un seul porteur et à sa demande ou
-lorsqu'ils ne sont plus détenus que par le ou les cédants et à leur demande ;
-
-4° Lorsque le fonds doit s'acquitter de ses engagements résultant d'un contrat constituant un instrument financier à terme ;
-
-5° Lorsqu'une évolution favorable ou défavorable des risques que le fonds supporte dans le cadre de la réalisation de sa
-stratégie de gestion peut être constatée ou anticipée en fonction de critères définis dans le règlement du fonds ;
-
-6° Lorsque les évolutions du marché rendent opportune une modification de la composition des actifs du fonds, si ces
-opérations sont limitées à un volume annuel de cession de créances défini dans le règlement du fonds et n'excédant pas 30 %
-de l'actif du fonds.
-
-La cession de créances s'effectue selon les modalités prévues à l'article L. 214-43. Le bordereau de cession comporte les
-indications définies à l'article R. 214-109.
-
-Le règlement du fonds précise les règles applicables à la cession des créances ni échues ni déchues de leur terme. Il fixe
-les modalités de détermination du niveau de sécurité offert aux porteurs de parts et de titres de créances émis par le fonds
-dans le cadre de ces cessions et les conditions de maintien de ce niveau de sécurité. Il appartient à la société de gestion
-du fonds de s'assurer du respect de ces conditions.
-
-Les dispositions du présent article ne s'appliquent pas aux cessions des titres de créances détenus à titre de liquidités,
-qui peuvent s'effectuer librement, ni aux cessions temporaires de titres de créances, qui s'effectuent dans les conditions
-définies à l'article R. 214-106.
+II. - Le règlement du fonds précise les caractéristiques et les modalités d'émission des titres de créances.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 16
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L214-43 (M)
-	  - Code monétaire et financier - art. R214-104 (V)
-	  - Code monétaire et financier - art. R214-106 (V)
-	  - Code monétaire et financier - art. R214-109 (V)
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
 
 	**Cité par**:
 
@@ -71976,29 +71996,21 @@ définies à l'article R. 214-106.
 
 ###### Article R214-108
 
-I. - Lorsque le règlement du fonds commun de créances prévoit le recours à des instruments financiers à terme en vue
-d'exposer le fonds à des risques de crédit ou la cession de créances non échues ou non déchues de leur terme dans les cas
-mentionnés aux 5° et 6° de l'article R. 214-107, la société de gestion du fonds assurant directement ou par délégation la
-gestion de ces instruments ou de ces cessions doit prévoir des systèmes de gestion et une organisation adaptés à la stratégie
-de gestion du fonds et permettant :
-
-1° Une analyse des risques que ces opérations présentent, réalisée par une unité indépendante des unités opérationnelles ;
-
-2° L'exercice d'un contrôle indépendant des fonctions opérationnelles.
-
-II. - Le règlement général de l'Autorité des marchés financiers précise les exigences mentionnées au I, en vue de l'agrément
-de la société de gestion du fonds prévu au deuxième alinéa de l'article L. 214-47.
+Le passif d'un fonds commun de titrisation comprend à tout moment un nombre minimum de deux parts.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 17
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 17 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-47
 
 	**Cité par**:
 
@@ -72006,30 +72018,11 @@ de la société de gestion du fonds prévu au deuxième alinéa de l'article L. 
 	  - Code monétaire et financier - art. R214-115 (Ab)
 
 
-##### Sous-section 4 : Règles applicables à la cession et au recouvrement des créances ainsi qu'à la conservation des actifs.
-
 ###### Article R214-109
 
-Le bordereau prévu au huitième alinéa de l'article L. 214-43 comporte les énonciations suivantes :
-
-1° La dénomination "acte de cession de créances" ;
-
-2° La mention que la cession est soumise aux dispositions des articles L. 214-43 à L. 214-48 relatives aux fonds communs de
-créances ;
-
-3° La désignation du cessionnaire ;
-
-4° La désignation et l'individualisation des créances cédées ou les éléments susceptibles d'effectuer cette désignation ou
-cette individualisation, par exemple par l'indication du débiteur, du lieu de paiement, du montant des créances ou de leur
-évaluation et, s'il y a lieu, de leur échéance. Lorsque la transmission des créances cédées est effectuée par un procédé
-informatique permettant de les identifier, le bordereau peut se borner à indiquer, outre les mentions visées aux 1°, 2° et 3°
-ci-dessus, le moyen par lequel elles sont transmises, désignées et individualisées, et l'évaluation de leur nombre et de leur
-montant global.
-
-La cession emporte l'obligation pour le cédant ou tout établissement chargé du recouvrement de procéder, à la demande du
-cessionnaire, à la conservation des créances dans les conditions définies à l'article R. 214-111, ainsi qu'à tout acte
-nécessaire à la conservation des sûretés, des garanties et des accessoires attachés à ces créances, à leur modification
-éventuelle, à leur mise en jeu, à leur mainlevée et à leur exécution forcée.
+Le paiement des sommes exigibles au titre des parts émises par le fonds est subordonné au paiement des sommes exigibles de
+toute nature dues aux porteurs de titres de créances émis par le fonds ou aux personnes auprès desquelles des emprunts ont
+été contractés ou des engagements résultant des contrats constituant des instruments financiers à terme conclus par le fonds.
 
 **Liens relatifs à cet article**
 
@@ -72041,252 +72034,171 @@ nécessaire à la conservation des sûretés, des garanties et des accessoires a
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 18
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 18 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-
-###### Article R214-110
-
-I. - Le compte spécialement affecté au profit du fonds commun de créances, prévu au troisième alinéa de l'article L. 214-46,
-est un compte bancaire tenu par un établissement mentionné au 1° de l'article R. 214-97, à l'exclusion des entreprises
-d'investissement, y compris un compte existant ouvert au nom de tout établissement chargé, directement ou indirectement, du
-recouvrement des créances cédées au fonds.
-
-Le caractère spécialement affecté de ce compte prend effet à la signature d'une convention de compte passée entre la société
-de gestion du fonds, le dépositaire des actifs du fonds, l'établissement chargé du recouvrement des créances cédées au fonds
-et l'établissement teneur de compte, sans qu'il soit besoin d'autre formalité.
-
-II. - Les sommes portées au crédit du compte bénéficient exclusivement au fonds. La société de gestion du fonds dispose de
-ces sommes dans des conditions définies dans la convention de compte.
-
-Lorsque des sommes autres que celles recouvrées au titre des créances cédées au fonds sont versées sur ce compte,
-l'établissement chargé du recouvrement des créances cédées au fonds doit faire la preuve que ces sommes ne sont pas dues au
-fonds. Ces sommes sont alors retirées du compte dans les meilleurs délais selon des conditions définies dans la convention de
-compte.
-
-III. - L'établissement teneur de compte est assujetti aux obligations suivantes :
-
-1° Il informe les tiers saisissant le compte que ce dernier fait l'objet d'une affectation spéciale, en application de
-l'article L. 214-46 au profit du fonds commun de créances, rendant le compte et les sommes qui y sont portées indisponibles ;
-
-2° Il ne peut effectuer des opérations de fusion du compte avec un autre compte ;
-
-3° Il se conforme aux seules instructions de la société de gestion du fonds pour les opérations de débit du compte, sauf si
-la convention de compte autorise l'établissement chargé du recouvrement des créances cédées au fonds à procéder à des débits
-du compte dans des conditions qu'elle définit.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1255 2004-11-24 art 19
-	  - Décret n°2004-1255 du 24 novembre 2004 - art. 19 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-46
-	  - Code monétaire et financier - art. R214-97
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L214-43
+	  - Code monétaire et financier - art. R214-111
 
 
-###### Article R214-111
+##### Sous-section 2 : Dispositions particulières applicables aux organismes de titrisation ou aux compartiments d'organismes de titrisation supportant des risques d'assurance.
 
-Le dépositaire des actifs du fonds assure la conservation des actifs du fonds commun de créances.
+###### Article D214-110
 
-Toutefois, le cédant ou l'établissement chargé du recouvrement des créances cédées au fonds peut assurer la conservation des
-créances mentionnées au 1° de l'article R. 214-94, aux conditions cumulatives suivantes :
-
-1° Le dépositaire des actifs du fonds assure, sous sa responsabilité, la conservation des bordereaux de cession de ces
-créances au fonds ;
-
-2° Le cédant ou l'établissement chargé du recouvrement des créances cédées au fonds assure, sous sa responsabilité, la
-conservation des contrats et autres supports relatifs à ces créances et aux sûretés, garanties et accessoires qui y sont
-attachés, et met en place à cet effet des procédures de conservation documentées et un contrôle interne régulier et
-indépendant portant sur le respect de ces procédures ;
-
-3° Selon des modalités définies dans une convention passée entre le cédant ou l'établissement chargé du recouvrement des
-créances cédées au fonds, le dépositaire des actifs du fonds et la société de gestion du fonds :
-
-a) Le dépositaire des actifs du fonds s'assure, sur la base d'une déclaration du cédant ou de l'établissement chargé du
-recouvrement, de la mise en place des procédures mentionnées au 2°. Cette déclaration doit permettre au dépositaire des
-actifs du fonds de vérifier que le cédant ou l'établissement chargé du recouvrement des créances a mis en place des
-procédures garantissant la réalité des créances cédées et des sûretés, garanties et accessoires qui y sont attachés et la
-sécurité de leur conservation et que ces créances sont recouvrées au seul bénéfice du fonds ;
-
-b) A la demande de la société de gestion du fonds ou du dépositaire des actifs du fonds, le cédant ou l'établissement chargé
-du recouvrement des créances cédées au fonds doit remettre dans les meilleurs délais au dépositaire des actifs du fonds ou à
-tout autre entité désignée par le dépositaire des actifs du fonds et la société de gestion du fonds les originaux des
-contrats et supports mentionnés au 2° du présent article.
-
-Le règlement du fonds précise les modalités de conservation des actifs du fonds.
+Les risques d'assurance mentionnés au premier alinéa de l'article L. 214-49-10 sont ceux relevant des branches 1 à 26
+mentionnées à l'article R. 321-1 du code des assurances.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°2004-1255 2004-11-24 art 20
-	  - Décret n°2004-1255 du 24 novembre 2004 - art. 20 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
 
 	**Abrogé par**:
 
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-49-10
+	  - Code des assurances - art. R*321-1
+
+
+###### Article D214-111
+
+Un organisme de titrisation relevant de la présente sous-section peut conclure des contrats transférant des risques
+d'assurance dans les conditions prévues par ses statuts ou son règlement et aux conditions suivantes : 
+
+1° Ces contrats sont conclus avec : 
+
+a) Une entreprise d'assurance ou de réassurance régie par le code des assurances, une mutuelle ou union régie par le livre II
+du code de la mutualité, une institution de prévoyance ou une union régie par les dispositions du titre III du livre IX du
+code de la sécurité sociale ; 
+
+b) Une entreprise d'assurance ou de réassurance établie et agréée dans un autre Etat de la Communauté européenne ou dans un
+Etat partie à l'accord sur l'Espace économique européen ; 
+
+c) Une entreprise d'assurance ou de réassurance établie dans un pays étranger figurant sur une liste fixée par le ministre
+chargé de l'économie ; 
+
+d) Un organisme de titrisation relevant de la présente sous-section ; 
+
+e) Un organisme dont l'objet est similaire et, lorsque ces contrats sont conclus à des fins de couverture, situé dans un Etat
+partie à l'accord sur l'Espace économique européen et ayant reçu l'agrément prévu par l'article 46 de la directive 2005 / 68
+du Parlement et du Conseil du 16 novembre 2005 relative à la réassurance ; 
+
+2° Les engagements créés par ces contrats donnent lieu à un règlement en espèces ; 
+
+3° Ces contrats portent : 
+
+a) Soit sur la couverture de tout ou partie des pertes supportées par l'organisme ou son cocontractant au titre de contrats
+d'assurance ou de réassurance ou de contrats relevant du présent article auxquels l'organisme ou son cocontractant est
+partie ; 
+
+b) Soit sur le versement d'une ou plusieurs sommes dont le montant dépend de paramètres associés à la réalisation du risque
+d'assurance cédé à l'organisme ; 
+
+4° Ces contrats ne peuvent donner lieu à engagement illimité de l'organisme de titrisation ; 
+
+5° A tout moment, la perte nette maximale de l'organisme résultant de l'ensemble des contrats transférant des risques
+d'assurance conclus, ainsi que, le cas échéant, des contrats constituant des instruments financiers à terme conclus, évaluée
+en prenant en compte les couvertures dont il bénéficie, ne peut être supérieure à la valeur de son actif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
 	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
 
 	**Cité par**:
 
-	  - Code monétaire et financier - art. D214-113 (V)
-	  - Code monétaire et financier - art. R214-100 (V)
-	  - Code monétaire et financier - art. R214-109 (V)
-	  - Code monétaire et financier - art. R214-114 (V)
-	  - Code monétaire et financier - art. R214-115 (V)
-	  - Code monétaire et financier - art. R214-116 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R214-94
+	  - Code monétaire et financier - art. R214-113 (Ab)
 
 
-##### Sous-section 5 : Obligations d'information.
+###### Article D214-112
 
-###### Article R214-112
+Un organisme de titrisation relevant de la présente sous-section ne peut céder ou transférer, en une ou plusieurs fois, les
+contrats transférant des risques d'assurance et les créances détenues sur des organismes d'assurance et de réassurance que
+dans les seuls cas suivants : 
 
-Le document prévu à l'article L. 214-44 est établi préalablement à l'émission de parts ou de titres de créances par le fonds
-commun de créances lorsqu'ils font l'objet d'un appel public à l'épargne. Ce document décrit la stratégie de gestion, les
-règles de fonctionnement et les frais de gestion du fonds, selon des modalités définies dans le règlement général de
-l'Autorité des marchés financiers.
+1° Lorsque l'organisme de titrisation fait l'objet d'une liquidation effectuée dans l'intérêt des porteurs de parts et de
+titres de créances émis précédemment ; 
 
-L'organisme ayant établi le document susmentionné assure le suivi du niveau de sécurité qu'offrent les parts et titres de
-créances émis. Les conclusions de ce suivi doivent être régulièrement rendues publiques. La société de gestion du fonds doit
-communiquer à cet organisme tous les documents nécessaires pour le suivi du fonds.
+2° Lorsque l'engagement de l'organisme de titrisation au titre des contrats transférant des risques d'assurance est inférieur
+à un pourcentage du maximum de cet engagement constaté depuis la constitution de l'organisme, défini dans le règlement du
+fonds et n'excédant pas 10 % ; 
+
+3° Lorsque les parts ou actions et titres de créances émis par cet organisme ne sont plus détenus que par un seul porteur et
+à sa demande ou lorsqu'ils ne sont plus détenus que par le ou les cédants et à leur demande.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Arrêté du 12 novembre 2004 - art. 422-176 (V)
-	  - Code monétaire et financier - art. D214-113 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1255 2004-11-24 art 21
-	  - Décret n°2004-1255 du 24 novembre 2004 - art. 21 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code monétaire et financier - art. L214-44
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
 
 
 ###### Article R214-113
 
-Les informations mentionnées à l'article L. 214-45 sont communiquées à la Banque de France par la société de gestion du fonds
-commun de créances.
+Pour accorder l'agrément mentionné à l'article L. 214-49-13, l'Autorité de contrôle des assurances et des mutuelles vérifie
+que les dispositions du règlement ou des statuts de l'organisme, notamment en ce qui concerne la composition de l'actif et la
+stratégie de couverture des risques, sont compatibles avec la règle de financement en totalité de ses engagements, telle que
+précisée au 5° de l'article D. 214-111.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2004-1255 2004-11-24 art 22
 	  - Décret n°2004-1255 du 24 novembre 2004 - art. 22 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-
-##### Sous-section 6 : Dispositions particulières aux fonds communs de créances à compartiments.
-
-###### Article R214-114
-
-Lorsque le fonds commun de créances comporte deux ou plusieurs compartiments, les dispositions de la présente section sont
-applicables à chacun des compartiments.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1255 2004-11-24 art 23
-	  - Décret n°2004-1255 du 24 novembre 2004 - art. 23 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-
-##### Sous-section 7 : Dispositions particulières.
-
-###### Article R214-115
-
-I. - Pour l'application de la présente section aux fonds communs de créances constitués avant le 27 novembre 2004, le 3° de
-l'article R. 214-97 est remplacé par les dispositions suivantes :
-
-"3° Une personne ayant cédé des créances au fonds ou une personne détenant, directement ou indirectement, 20 % du capital de
-cette personne, ou dont le capital est détenu, directement ou indirectement, par cette personne à hauteur de 20 % au
-moins ;".
-
-II. - Lorsqu'un fonds commun de créances constitué avant la publication des dispositions du règlement général de l'Autorité
-des marchés financiers prévues au 3° de l'article R. 214-52 et au II de l'article R. 214-108 conclut des contrats constituant
-des instruments financiers à terme dans le but exclusif de faire correspondre les flux financiers qu'il reçoit et les flux
-qu'il s'est engagé à verser, les 2° et 3° de l'article R. 214-105 ne lui sont pas applicables et ces contrats peuvent être
-conclus avec une personne mentionnée au 3° de l'article R. 214-97 dans sa rédaction issue du I.
-
-III. - Par dérogation aux articles R. 214-100, R. 214-102 et R. 214-107, le règlement d'un fonds commun de créances,
-constitué avant le 27 novembre 2004 et dont la stratégie de gestion n'est pas modifiée, n'est pas tenu de préciser les
-modalités de détermination du niveau de sécurité offert aux porteurs de parts émises précédemment dans le cadre des
-opérations mentionnées à ces articles, ni les conditions de maintien de ce niveau de sécurité dans le cadre de ces
-opérations. Dans ce cas, la société de gestion du fonds veille à ce que ces opérations n'entraînent pas de dégradation du
-niveau de sécurité offert aux porteurs des parts.
-
-IV. - L'agrément accordé à une société de gestion de fonds commun de créances avant le 27 novembre 2004 reste valable.
-Toutefois, pour pouvoir gérer un fonds commun de créances dont le règlement prévoit le recours à des instruments financiers à
-terme en vue d'exposer le fonds à des risques de crédit ou la cession de créances non échues ou non déchues de leur terme
-dans les cas mentionnés aux 5° et 6° de l'article R. 214-107, cette société de gestion doit demander un nouvel agrément.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1255 2004-11-24 art 26
-	  - Décret n°2004-1255 du 24 novembre 2004 - art. 26 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R214-100
-	  - Code monétaire et financier - art. R214-102
-	  - Code monétaire et financier - art. R214-105
-	  - Code monétaire et financier - art. R214-107
-	  - Code monétaire et financier - art. R214-108
-	  - Code monétaire et financier - art. R214-52
-	  - Code monétaire et financier - art. R214-97
+	  - Code monétaire et financier - art. D214-111
+	  - Code monétaire et financier - art. L214-49-13
+
+
+###### Article R214-114
+
+Pour la délivrance de l'agrément mentionné à l'article L. 214-49-13, l'Autorité de contrôle des assurances et des mutuelles
+se prononce dans un délai de trente jours à compter de l'avis de réception de la demande.L'absence de notification de la
+décision par cette autorité pendant ce délai vaut décision d'agrément. 
+
+Lorsque l'Autorité demande des informations complémentaires, elle le notifie par écrit en précisant que les éléments demandés
+doivent lui parvenir dans un délai de soixante jours.A défaut de réception de ces éléments dans ce délai, la demande
+d'agrément est réputée rejetée. Dès réception de l'intégralité des informations demandées, l'Autorité en accuse réception par
+écrit. Cet avis de réception mentionne un nouveau délai d'instruction qui ne peut excéder trente jours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2004-1255 du 24 novembre 2004 - art. 23 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-49-13
 
 
 ##### Section 3 : Les sociétés civiles de placement immobilier
@@ -85728,39 +85640,40 @@ de crédit foncier.
 
 ###### Article R515-4
 
-I. - Les parts ou titres de créances émis par un fonds commun de créances ou une entité similaire mentionnés à l'article L.
-515-16 ne peuvent être refinancés par des ressources privilégiées que dans la limite du plus petit des montants ci-dessous :
+I.-Les parts ou titres de créances émis par un organisme de titrisation ou une entité similaire mentionnés à l'article L.
+515-16 ne peuvent être refinancés par des ressources privilégiées que dans la limite du plus petit des montants ci-dessous : 
 
-1. L'encours des parts ou titres émis par ce fonds commun de créances ou entité similaire et détenus par la société de crédit
-foncier, à l'exclusion des parts spécifiques et titres de créances supportant le risque de défaillance des débiteurs ;
+1.L'encours des parts ou titres émis par cet organisme de titrisation ou entité similaire et détenus par la société de crédit
+foncier, à l'exclusion des parts spécifiques et titres de créances supportant le risque de défaillance des débiteurs ; 
 
-2. La somme des capitaux restant dus des prêts à l'actif de ce fonds commun de créances ou entité similaire, majorée des
-liquidités de ce fonds commun de créances ou entité similaire définies à l'article R. 214-95 ;
+2. La somme des capitaux restant dus des prêts à l'actif de cet organisme de titrisation ou entité similaire, majorée des
+liquidités de cet organisme de titrisation ou entité similaire définies à l'article R. 214-95 ; 
 
-3. Le produit de la valeur des biens financés ou apportés en garantie des prêts figurant à l'actif du fonds commun de
-créances ou de l'entité similaire par les quotités visées à l'article R. 515-2 en fonction de la nature de l'actif du fonds.
-Ce produit est majoré des liquidités du fonds commun de créances ou entité similaire définies à l'article R. 214-95.
+3. Le produit de la valeur des biens financés ou apportés en garantie des prêts figurant à l'actif de l'organisme de
+titrisation ou de l'entité similaire par les quotités visées à l'article R. 515-2 en fonction de la nature de l'actif du
+fonds. Ce produit est majoré des liquidités de l'organisme de titrisation ou entité similaire définies à l'article R.
+214-95. 
 
-Ces montants sont ceux constatés lors du lancement du fonds commun de créances ou de l'entité similaire, le cas échéant lors
-d'un rechargement ultérieur ou lors de l'inscription des parts ou titres à l'actif de la société de crédit foncier.
+Ces montants sont ceux constatés lors du lancement de l'organisme de titrisation ou de l'entité similaire, le cas échéant
+lors d'un rechargement ultérieur ou lors de l'inscription des parts ou titres à l'actif de la société de crédit foncier. 
 
-II. - L'acquisition des parts ou titres mentionnés à l'article L. 515-16 émis par des fonds communs de créances ou entités
+II.-L'acquisition des parts ou titres mentionnés à l'article L. 515-16 émis par des organismes de titrisation ou entités
 similaires mentionnées audit article, dont l'actif est constitué à au moins 90 % de prêts consentis à des personnes physiques
 pour financer la construction ou l'acquisition de logement ou pour financer à la fois l'acquisition d'un terrain à bâtir et
 le coût des travaux de construction de logement tels que mentionnés au troisième alinéa de l'article R. 515-2, est limitée à
 20 % du montant nominal des obligations foncières, et autres ressources bénéficiant du privilège mentionnées au 2 du I de
-l'article L. 515-13, émises par la société de crédit foncier.
+l'article L. 515-13, émises par la société de crédit foncier. 
 
-III. - L'acquisition des parts ou titres mentionnés à l'article L. 515-16 émis par des fonds communs de créances ou entités
+III.-L'acquisition des parts ou titres mentionnés à l'article L. 515-16 émis par des organismes de titrisation ou entités
 similaires mentionnées audit article, dont l'actif est constitué à au moins 90 % de prêts mentionnés à l'article L. 515-14 et
 qui ne relèvent pas du II ci-dessus, est limitée à 20 % du montant nominal des obligations foncières et autres ressources
-bénéficiant du privilège mentionnées au 2 du I de l'article L. 515-13, émises par la société de crédit foncier.
+bénéficiant du privilège mentionnées au 2 du I de l'article L. 515-13, émises par la société de crédit foncier. 
 
-IV. - Les parts ou titres de créances qui bénéficient de la meilleure évaluation de crédit établie par un organisme externe
+IV.-Les parts ou titres de créances qui bénéficient de la meilleure évaluation de crédit établie par un organisme externe
 d'évaluation de crédit reconnu par la Commission bancaire conformément à l'article L. 511-44 pour les obligations foncières
 ou autres ressources bénéficiant du privilège mentionnées au 2° du I de l'article L. 515-13 du code monétaire et financier
 peuvent représenter 100 % du montant nominal des obligations foncières, et autres ressources bénéficiant du privilège
-mentionnées au 2° du I de l'article L. 515-13, émises par la société de crédit foncier.
+mentionnées au 2° du I de l'article L. 515-13, émises par la société de crédit foncier. 
 
 Au plus tard le 31 décembre 2010, les conditions d'éligibilité de ces actifs font l'objet d'un nouvel examen.
 
@@ -85770,13 +85683,18 @@ Au plus tard le 31 décembre 2010, les conditions d'éligibilité de ces actifs 
 
 	  - Décret n°99-710 du 3 août 1999 - art. 4 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-745 du 9 mai 2007 - art. 2 () JORF 10 mai 2007
+	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-44
+	  - Code monétaire et financier - art. L515-13
+	  - Code monétaire et financier - art. L515-14
+	  - Code monétaire et financier - art. L515-16
+	  - Code monétaire et financier - art. R214-95
+	  - Code monétaire et financier - art. R515-2
 
 	**Cité par**:
 
