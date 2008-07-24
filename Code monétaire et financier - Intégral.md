@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-07-20
+Version Consolidée au 2008-07-25
 
 # Partie législative
 
@@ -66982,78 +66982,78 @@ c.
 
 ###### Article R214-1-2
 
-I. - Les instruments financiers mentionnés aux a, b et d du 2° de l'article R. 214-1-1 satisfont aux conditions suivantes :
+I.-Les instruments financiers mentionnés aux a, b et d du 2° de l'article R. 214-1-1 satisfont aux conditions suivantes : 
 
 1° La perte à laquelle leur détention expose l'organisme de placement collectif en valeurs mobilières ne peut excéder leur
-prix d'acquisition ;
+prix d'acquisition ; 
 
-2° Ils font l'objet d'une valorisation fiable :
+2° Ils font l'objet d'une valorisation fiable : 
 
 a) Pour les instruments financiers relevant du I de l'article R. 214-2, sous forme de prix calculés de façon précise, fiables
 et établis régulièrement, qui sont soit des prix de marché, soit des prix fournis par des systèmes de valorisation
-indépendants des émetteurs ;
+indépendants des émetteurs ; 
 
 b) Pour les instruments financiers autres que ceux mentionnés au a, sur une base périodique, à partir d'informations émanant
-de l'émetteur ou provenant d'un service d'analyse financière mentionné à l'article L. 544-1 ;
+de l'émetteur ou provenant d'un service d'analyse financière mentionné à l'article L. 544-1 ; 
 
-3° Sont disponibles des informations appropriées les concernant, sous la forme suivante :
+3° Sont disponibles des informations appropriées les concernant, sous la forme suivante : 
 
 a) Pour les instruments financiers relevant du I de l'article R. 214-2, des informations précises, complètes et régulièrement
-fournies au marché sur l'instrument financier concerné ou, le cas échéant, sur les actifs sous-jacents à cet instrument ;
+fournies au marché sur l'instrument financier concerné ou, le cas échéant, sur les actifs sous-jacents à cet instrument ; 
 
 b) Pour les instruments financiers autres que ceux mentionnés au a, des informations précises et régulièrement fournies à
 l'organisme de placement collectif en valeurs mobilières sur l'instrument financier concerné ou, le cas échéant, sur les
-actifs sous-jacents à cet instrument ;
+actifs sous-jacents à cet instrument ; 
 
 Les instruments financiers mentionnés aux a, b, ou d du 2° de l'article R. 214-1-1 peuvent être adossés à d'autres actifs ou
 liés à la performance d'autres actifs ou de caractéristiques de ceux-ci, que ces actifs relèvent ou non de l'article R.
-214-1-1.
+214-1-1. 
 
-II. - Sont assimilées à des instruments financiers mentionnés au a du 2° de l'article R. 214-1-1 les actions de sociétés
+II.-Sont assimilées à des instruments financiers mentionnés au a du 2° de l'article R. 214-1-1 les actions de sociétés
 relevant du titre II de l'ordonnance n° 45-2710 du 2 novembre 1945 relative aux sociétés d'investissement, ainsi que les
-parts ou actions de fonds d'investissement relevant d'un droit étranger et ne satisfaisant pas aux conditions prévues au
-deuxième alinéa de l'article L. 214-15 ou au premier alinéa de l'article L. 214-20, dès lors que sont respectés les
-conditions mentionnées au I mais également, pour les fonds d'investissement relevant d'un droit étranger, les critères
-suivants :
+parts ou actions de fonds d'investissement relevant d'un droit étranger et ne satisfaisant pas à l'obligation de rachat des
+parts ou actions à la demande des porteurs ou actionnaires, énoncée, respectivement, par le deuxième alinéa de l'article L.
+214-15 ou le premier alinéa de l'article L. 214-20, dès lors que sont respectés les conditions mentionnées au I mais
+également, pour les fonds d'investissement relevant d'un droit étranger, les critères suivants : 
 
 1° Ils sont soumis à des règles régissant le fonctionnement des organes délibérants de l'organisme, dans des conditions
-précisées par arrêté du ministre chargé de l'économie ;
+précisées par arrêté du ministre chargé de l'économie ; 
 
 2° Pour les fonds d'investissement ayant la personnalité morale, lorsque l'activité de gestion financière est exercée par une
 autre entité pour le compte de l'organisme, ladite entité est soumise à une réglementation nationale visant à garantir la
-protection des investisseurs ;
+protection des investisseurs ; 
 
 3° Pour les fonds d'investissement n'ayant pas la personnalité morale, ils sont gérés par une entité soumise à une
-réglementation nationale visant à garantir la protection des investisseurs.
+réglementation nationale visant à garantir la protection des investisseurs. 
 
-III. - Les instruments financiers mentionnés au f du 2° de l'article R. 214-1-1 sont des titres de créance qui satisfont aux
-trois conditions suivantes :
+III.-Les instruments financiers mentionnés au f du 2° de l'article R. 214-1-1 sont des titres de créance qui satisfont aux
+trois conditions suivantes : 
 
-1° Ils respectent au moins l'un des critères suivants :
+1° Ils respectent au moins l'un des critères suivants : 
 
-a) Ils ont une durée à l'émission pouvant aller jusqu'à 397 jours ;
+a) Ils ont une durée à l'émission pouvant aller jusqu'à 397 jours ; 
 
-b) Ils ont une durée résiduelle pouvant aller jusqu'à 397 jours ;
+b) Ils ont une durée résiduelle pouvant aller jusqu'à 397 jours ; 
 
 c) Leur rendement fait l'objet d'ajustements réguliers, conformément aux conditions du marché monétaire, au moins tous les
-397 jours ;
+397 jours ; 
 
 d) Leur profil de risque, notamment en ce qui concerne le risque de crédit et le risque de taux d'intérêt, correspond à celui
 d'instruments qui ont une échéance conforme à celle mentionnée au a, ou une durée résiduelle conforme à celle mentionnée au
-b, ou dont le rendement fait l'objet d'ajustements conformes à ceux mentionnés au c ;
+b, ou dont le rendement fait l'objet d'ajustements conformes à ceux mentionnés au c ; 
 
-2° Ils peuvent être cédés à bref délai et sans coût excessif ;
+2° Ils peuvent être cédés à bref délai et sans coût excessif ; 
 
 3° Il existe des systèmes de valorisation précis et fiables de l'instrument financier respectant simultanément les deux
-critères suivants :
+critères suivants : 
 
 a) Ils permettent à l'organisme de placement collectif en valeurs mobilières de calculer une valeur liquidative cohérente
 avec la valeur à laquelle l'instrument financier détenu à l'actif pourrait être échangé entre des parties avisées,
-contractant en connaissance de cause, dans le cadre d'une transaction effectuée dans des conditions de concurrence normale ;
+contractant en connaissance de cause, dans le cadre d'une transaction effectuée dans des conditions de concurrence normale ; 
 
 b) Ils sont fondés soit sur des données de marché, soit sur des modèles actuariels de valorisation, y compris la méthode
 d'actualisation des flux futurs. Ces modèles ne doivent pas conduire à des écarts significatifs par rapport à la valeur de
-marché de l'instrument.
+marché de l'instrument. 
 
 Les conditions mentionnées aux 2° et 3° sont réputées satisfaites pour les instruments du marché monétaire relevant du I de
 l'article R. 214-2, sauf si les informations disponibles à l'organisme de placement collectif en valeurs mobilières sont de
@@ -67061,13 +67061,21 @@ nature à le conduire à en décider autrement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Ordonnance n°45-2710 du 2 novembre 1945
+	  - Code monétaire et financier - art. L214-15
+	  - Code monétaire et financier - art. L214-20
+	  - Code monétaire et financier - art. L544-1
+	  - Code monétaire et financier - art. R214-1-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-922 du 1er août 2011 - art. 1
 
 	**Cité par**:
 
@@ -67077,81 +67085,81 @@ nature à le conduire à en décider autrement.
 
 ###### Article R214-2
 
-I. - Les instruments financiers mentionnés aux a, b, d et f du 2° de l'article R. 214-1-1 éligibles à l'actif d'un organisme
-de placement collectif en valeurs mobilières sont :
+I.-Les instruments financiers mentionnés aux a, b, d et f du 2° de l'article R. 214-1-1 éligibles à l'actif d'un organisme de
+placement collectif en valeurs mobilières sont : 
 
-1° Soit admis à la négociation sur un marché réglementé au sens de l'article L. 422-1 ;
+1° Soit admis à la négociation sur un marché réglementé au sens de l'article L. 422-1 ; 
 
 2° Soit admis à la négociation sur un marché réglementé en fonctionnement régulier d'un Etat ni membre de la Communauté
 européenne, ni partie à l'accord sur l'Espace économique européen pour autant que ce marché ne figure pas sur une liste de
-marchés exclus établie par l'Autorité des marchés financiers ;
+marchés exclus établie par l'Autorité des marchés financiers ; 
 
 3° Soit négociés sur un marché d'instruments financiers non mentionné au 1°, ouvert au public et en fonctionnement régulier,
 dont les règles d'organisation sont approuvées par l'Autorité des marchés financiers à la demande de la personne qui gère ce
-marché, et qui se soumet aux dispositions du règlement général de cette même autorité relatives aux abus de marché ;
+marché, et qui se soumet aux dispositions du règlement général de cette même autorité relatives aux abus de marché ; 
 
 4° Soit négociés sur un marché d'instruments financiers non mentionné aux 1° et 3°, ouvert au public et en fonctionnement
 régulier, dont le siège est fixé dans un Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur
 l'Espace économique européen, et ayant des règles d'organisation et de protection des investisseurs comparables à celles des
-marchés relevant du 3° et reconnues par l'autorité compétente de ce même Etat partie.
+marchés relevant du 3° et reconnues par l'autorité compétente de ce même Etat partie. 
 
 Sont assimilés à des instruments financiers mentionnés au 1° à 4° les instruments financiers émis dès lors que leur admission
 à la négociation a été demandée. Toutefois, cette assimilation cesse de produire effet un an après l'émission, si, à cette
-date, l'admission à la négociation n'a pas été obtenue.
+date, l'admission à la négociation n'a pas été obtenue. 
 
-II. - Sont assimilés à des actifs admis à la négociation sur un marché relevant du I les instruments mentionnés au f du 2° de
-l'article R. 214-1-1 dès lors qu'outre les conditions prévues au III de l'article R. 214-1-2 ils satisfont à celles qui
-suivent :
+II.-Sont assimilés à des actifs admis à la négociation sur un marché relevant du I les instruments mentionnés au f du 2° de
+l'article R. 214-1-1 respectant les conditions prévues au III de l'article R. 214-1-2 et les titres de créance négociables,
+dès lors que ces instruments ou titres respectent en outre les conditions suivantes : 
 
 1° Préalablement à l'émission, l'émetteur rédige une documentation financière et il en assure la mise à jour régulière,
 notamment chaque fois qu'un fait nouveau est susceptible d'avoir une incidence significative sur la valorisation des titres
 émis ou sur la bonne fin du programme. Pour les émetteurs autres que ceux mentionnés au c du 3° du présent II, la
 documentation financière fait l'objet d'une vérification par un tiers qualifié et indépendant de l'émetteur. Cette
-documentation, qui doit permettre d'apprécier correctement le risque de crédit lié à l'instrument, porte :
+documentation, qui doit permettre d'apprécier correctement le risque de crédit lié à l'instrument, porte : 
 
 a) Pour les émetteurs mentionnés au c du 3°, sur leur situation juridique et financière ou sur l'émission ou le programme
-d'émission ;
+d'émission ; 
 
 b) Pour les autres émetteurs, sur leur situation juridique et financière, ainsi que sur l'émission ou le programme
-d'émission ;
+d'émission ; 
 
 2° Des informations statistiques fiables sont disponibles sur l'émission ou le programme d'émission. Pour les émetteurs
 mentionnés au c du 3°, cette condition est réputée remplie lorsque d'autres données disponibles permettent d'apprécier
-correctement le risque de crédit afférent à ces instruments ;
+correctement le risque de crédit afférent à ces instruments ; 
 
-3° L'émetteur relève de l'une des cinq catégories suivantes :
+3° L'émetteur relève de l'une des cinq catégories suivantes : 
 
 a) Un Etat, ou dans le cas d'un Etat fédéral, un des membres composant la Fédération, une collectivité régionale ou locale
 d'un Etat membre de la Communauté européenne, la Banque centrale européenne, la Banque centrale d'un Etat membre, l'Union
 européenne, la Banque européenne d'investissement, ou un organisme public international dont font partie un ou plusieurs
-Etats membres ;
+Etats membres ; 
 
-b) Une entité dont des titres sont négociés sur un marché réglementé au sens du I du présent article ;
+b) Une entité dont des titres sont négociés sur un marché réglementé au sens du I du présent article ; 
 
 c) Un établissement soumis à une surveillance prudentielle dont le siège est situé dans un Etat membre de la Communauté
 européenne, ou un établissement soumis à des règles prudentielles et qui s'y conforme, dès lors, dans ce dernier cas, qu'il
-respecte un des critères suivants :
+respecte un des critères suivants : 
 
-i) Il est établi dans un Etat partie à l'Espace économique européen ;
+i) Il est établi dans un Etat partie à l'Espace économique européen ; 
 
-ii) Il est situé dans un pays figurant sur une liste fixée par arrêté du ministre chargé de l'économie ;
+ii) Il est situé dans un pays figurant sur une liste fixée par arrêté du ministre chargé de l'économie ; 
 
 iii) Il bénéficie d'une évaluation externe d'une agence mentionnée à l'article L. 544-1, répondant à des conditions fixées
-par ce même arrêté ;
+par ce même arrêté ; 
 
 iv) Les règles prudentielles qui lui sont applicables sont au moins aussi strictes que celles prévues pour les établissements
-relevant du présent c et dont le siège est situé dans un Etat membre de la Communauté européenne ;
+relevant du présent c et dont le siège est situé dans un Etat membre de la Communauté européenne ; 
 
-d) Un émetteur garanti par un organisme mentionné au a ou par un établissement mentionné au c ;
+d) Un émetteur garanti par un organisme mentionné au a ou par un établissement mentionné au c ; 
 
-e) Une autre entité appartenant à une catégorie figurant sur une liste établie par l'Autorité des marchés financiers, soumise
-à des règles de protection des investisseurs équivalentes à celles prévues aux quatre alinéas précédents, et ayant le statut
-soit d'une société dont le capital augmenté des réserves s'élève au moins à 10 millions d'euros et présentant ses comptes
-annuels conformément à la directive 78/660/CEE du Conseil du 25 juillet 1978 concernant les comptes annuels de certaines
-formes de sociétés, transposée par les articles L. 123-12 à L. 123-24 du code de commerce, soit d'une entité se consacrant au
-financement d'un groupe au sens de la directive 83/349/CEE du Conseil du 13 juin 1983 concernant les comptes consolidés,
-comportant au moins une société dont les titres sont admis aux négociations sur un marché réglementé au sens du I, soit d'une
-entité de titrisation bénéficiant d'une ligne de financement bancaire octroyée par un établissement mentionné au présent c.
+e) Une autre entité soumise à des règles de protection des investisseurs équivalentes à celles prévues aux quatre alinéas
+précédents, et ayant le statut soit d'une société dont le capital augmenté des réserves s'élève au moins à 10 millions
+d'euros et présentant ses comptes annuels conformément à la directive 78 / 660 / CEE du Conseil du 25 juillet 1978 concernant
+les comptes annuels de certaines formes de sociétés, transposée par les articles L. 123-12 à L. 123-24 du code de commerce,
+soit d'une entité se consacrant au financement d'un groupe au sens de la directive 83 / 349 / CEE du Conseil du 13 juin 1983
+concernant les comptes consolidés, comportant au moins une société dont les titres sont admis aux négociations sur un marché
+réglementé au sens du I, soit d'une entité de titrisation bénéficiant d'une ligne de financement bancaire octroyée par un
+établissement mentionné au présent c. 
 
 Les instruments émis par la Banque centrale européenne ou la Banque centrale d'un Etat membre de la Communauté européenne ne
 sont pas soumis aux conditions mentionnées aux 1° à 4°. Les instruments émis par l'Union européenne, la Banque européenne
@@ -67164,16 +67172,18 @@ sont garantis par l'un des membres de ladite fédération, ne doivent respecter 
 
 	**Anciens textes**:
 
-	  - Décret n°89-623 du 6 septembre 1989 - art. 2 (M)
 	  - Décret n°89-623 du 6 septembre 1989 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L123-12
+	  - Code monétaire et financier - art. L422-1
+	  - Code monétaire et financier - art. L544-1
+	  - Code monétaire et financier - art. R214-1-1
 
 	**Cité par**:
 
@@ -67718,58 +67728,58 @@ l'organisme ou ayant transféré des risques de crédit à l'organisme.
 
 ###### Article R214-12
 
-I. - Pour la réalisation de son objectif de gestion, un organisme de placement collectif en valeurs mobilières peut recevoir
-ou octroyer les garanties mentionnées à l'article L. 431-7-3, dans les conditions définies à ce même article ainsi que
-recevoir des cautions solidaires ou garanties à première demande.
+I.-Pour la réalisation de son objectif de gestion, un organisme de placement collectif en valeurs mobilières peut recevoir ou
+octroyer les garanties mentionnées à l'article L. 431-7-3, dans les conditions définies à ce même article ainsi que recevoir
+des cautions solidaires ou garanties à première demande.
 
 L'organisme de placement collectif en valeurs mobilières ne peut recevoir des garanties que si elles lui sont octroyées par
 un établissement ayant la qualité de dépositaire d'organisme de placement collectif en valeurs mobilières, un établissement
 de crédit dont le siège est établi dans un Etat membre de l'Organisation de coopération et de développement économique ou une
 entreprise d'investissement dont le siège est situé dans un Etat membre de la Communauté européenne ou partie à l'accord sur
 l'Espace économique européen et qui est habilitée à fournir le service mentionné au 1 de l'article L. 321-2 et dont le
-montant des fonds propres, au sens de la directive 2000/12/CE du Parlement européen et du Conseil du 20 mars 2000 concernant
-l'accès à l'activité des établissements de crédit et son exercice est au moins égal à 3,8 millions d'euros.
+montant des fonds propres, au sens de la directive 2000 / 12 / CE du Parlement européen et du Conseil du 20 mars 2000
+concernant l'accès à l'activité des établissements de crédit et son exercice est au moins égal à 3, 8 millions d'euros. 
 
 Lorsque les garanties octroyées par un organisme de placement collectif en valeurs mobilières sont des sûretés, l'acte
-constitutif de ces sûretés définit :
+constitutif de ces sûretés définit : 
 
-1° La nature des biens ou droits que le bénéficiaire des sûretés peut utiliser ou aliéner. A défaut de cette indication, le
+1° La nature des biens ou droits que le bénéficiaire des sûretés peut utiliser ou aliéner.A défaut de cette indication, le
 bénéficiaire ne peut utiliser ou aliéner que des dépôts, des liquidités ou des instruments financiers mentionnés au a, b, c,
-d ou f du 2° de l'article R. 214-1-1 ;
+d ou f du 2° de l'article R. 214-1-1 ; 
 
 2° Le montant maximal des biens ou droits que le bénéficiaire des sûretés peut utiliser ou aliéner. Ce montant maximal ne
 peut excéder 100 % de la créance du bénéficiaire sur l'organisme. Le règlement général de l'Autorité des marchés financiers
-précise les modalités de calcul de la créance du bénéficiaire sur l'organisme.
+précise les modalités de calcul de la créance du bénéficiaire sur l'organisme. 
 
 Les modalités d'évaluation des biens ou droits remis en garantie par un organisme de placement collectif en valeurs
-mobilières sont définies dans l'acte constitutif des garanties ou dans un contrat annexe conclu entre les parties. A défaut
+mobilières sont définies dans l'acte constitutif des garanties ou dans un contrat annexe conclu entre les parties.A défaut
 d'avoir prévu ces modalités d'évaluation, la réalisation des garanties ne peut concerner que des dépôts, des liquidités ou
 des instruments financiers mentionnés au a, b, c, d ou f du 2° de l'article R. 214-1-1. Le règlement général de l'Autorité
-des marchés financiers précise les modalités d'évaluation des biens ou droits remis en garantie par l'organisme.
+des marchés financiers précise les modalités d'évaluation des biens ou droits remis en garantie par l'organisme. 
 
-II. - Le risque de contrepartie sur un même cocontractant est le risque que celui-ci manque à une de ses obligations et amène
+II.-Le risque de contrepartie sur un même cocontractant est le risque que celui-ci manque à une de ses obligations et amène
 de ce fait l'organisme de placement collectif en valeurs mobilières à subir une perte financière. Le risque de contrepartie
 sur un même cocontractant est égal à la valeur de marché des contrats diminuée des garanties constituées, le cas échéant, au
 profit de l'organisme.
 
 L'exposition de l'organisme au risque de contrepartie sur un même cocontractant résultant des contrats mentionnés aux
-articles R. 214-13 à R. 214-17 est limitée à 10 % de son actif.
+articles R. 214-13 à R. 214-16 est limitée à 10 % de son actif. 
 
 Lorsque les garanties sont effectuées sous la forme de dépôts, les 2°, 3° et 4° de l'article R. 214-3 ne s'appliquent pas
-dans la limite des besoins de couverture du risque de contrepartie.
+dans la limite des besoins de couverture du risque de contrepartie. 
 
-III. - L'engagement d'un organisme de placement collectif en valeurs mobilières sur les instruments financiers à terme est
+III.-L'engagement d'un organisme de placement collectif en valeurs mobilières sur les instruments financiers à terme est
 constitué par le montant le plus élevé entre la perte potentielle de l'organisme évaluée à tout moment et le produit de
-l'effet de levier que ces instruments procurent à l'organisme par la valeur de l'actif de l'organisme.
+l'effet de levier que ces instruments procurent à l'organisme par la valeur de l'actif de l'organisme. 
 
-Les modalités de calcul de l'engagement sont définies par le règlement général de l'Autorité des marchés financiers.
+Les modalités de calcul de l'engagement sont définies par le règlement général de l'Autorité des marchés financiers. 
 
-IV. - Un organisme de placement collectif en valeurs mobilières ne peut recourir aux techniques et instruments afférents aux
+IV.-Un organisme de placement collectif en valeurs mobilières ne peut recourir aux techniques et instruments afférents aux
 actifs mentionnés aux a, b, d et f du 2° de l'article R. 214-1-1, et notamment à des opérations de pension, à des opérations
 assimilées d'acquisition ou de cession temporaire de titres, que lorsque ces techniques et instruments satisfont aux
-conditions suivantes :
+conditions suivantes : 
 
-1° Leur mise en oeuvre répond à un intérêt économique pour l'organisme de placement collectif en valeurs mobilières ;
+1° Leur mise en oeuvre répond à un intérêt économique pour l'organisme de placement collectif en valeurs mobilières ; 
 
 2° Ils ont pour objectif soit la réduction des risques ou des coûts, soit l'augmentation de la valeur d'inventaire net ou des
 revenus, soit la réalisation de l'objectif de gestion de l'organisme de placement collectif en valeurs mobilières, avec un
@@ -67779,7 +67789,6 @@ niveau de risque compatible avec son profil de risque ainsi qu'avec le respect d
 
 	**Anciens textes**:
 
-	  - Décret n°89-623 du 6 septembre 1989 - art. 4-4 (M)
 	  - Décret n°89-623 du 6 septembre 1989 - art. 4-4 (Ab)
 
 	**Cité par**:
@@ -67806,93 +67815,102 @@ niveau de risque compatible avec son profil de risque ainsi qu'avec le respect d
 	  - Code monétaire et financier - art. R214-7 (Ab)
 	  - Code monétaire et financier - art. R214-8 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-4
+	  - Code monétaire et financier - art. L321-2
+	  - Code monétaire et financier - art. L431-7-3
+	  - Code monétaire et financier - art. R214-1-1
+	  - Code monétaire et financier - art. R214-3
 
 
 ##### Sous-paragraphe 1 : Instruments financiers à terme.
 
 ###### Article R214-13
 
-I. - Un organisme de placement collectif en valeurs mobilières peut conclure des contrats constituant des instruments
+I.-Un organisme de placement collectif en valeurs mobilières peut conclure des contrats constituant des instruments
 financiers à terme en vue de protéger ses actifs ou de réaliser son objectif de gestion, aux conditions fixées à l'article R.
-214-12 et à chacune des deux conditions suivantes :
+214-12 et à chacune des deux conditions suivantes : 
 
 1° L'engagement de l'organisme de placement collectif en valeurs mobilières sur les instruments financiers à terme ne doit
-pas être supérieur à la valeur de son actif ;
+pas être supérieur à la valeur de son actif ; 
 
-2° Les contrats ont les caractéristiques suivantes :
+2° Les contrats ont les caractéristiques suivantes : 
 
-a) Ils portent sur des instruments mentionnés à l'article R. 214-1-1, y compris sur une ou plusieurs caractéristiques de ces
-actifs, ou sur des taux d'intérêt, des taux de change ou devises, sur une combinaison des éléments précédents, ou encore sur
-des indices financiers satisfaisant aux conditions fixées au III ;
+a) Ils portent sur des instruments mentionnés à l'article R. 214-1-1 et au 2° du II de l'article R. 214-25, y compris sur une
+ou plusieurs caractéristiques de ces actifs, ou sur des taux d'intérêt, des taux de change ou devises, sur une combinaison
+des éléments précédents, ou encore sur des indices financiers, se rapportant le cas échéant à des prix immobiliers,
+satisfaisant aux conditions fixées au III ; 
 
 b) Ils sont conclus sur les marchés à terme réglementés mentionnés à l'article L. 214-42. Dans les autres cas, ils doivent
-répondre aux critères suivants :
+répondre aux critères suivants : 
 
-i) Ils sont conclus avec un établissement mentionné au deuxième alinéa du I de l'article R. 214-12 ;
+i) Ils sont conclus avec un établissement mentionné au deuxième alinéa du I de l'article R. 214-12 ; 
 
 ii) Ils peuvent être dénoués ou liquidés à tout moment, à leur valeur de marché mentionnée au présent iii, à l'initiative de
-l'organisme de placement collectif en valeurs mobilières ;
+l'organisme de placement collectif en valeurs mobilières ; 
 
 iii) Ils font l'objet d'une valorisation effectuée par l'organisme de placement collectif en valeurs mobilières, qui ne se
-fonde pas uniquement sur des prix de marché donnés par la contrepartie et satisfait aux critères suivants :
+fonde pas uniquement sur des prix de marché donnés par la contrepartie et satisfait aux critères suivants : 
 
 1° La valorisation se fonde sur une valeur de marché actuelle, qui a été établie de manière fiable pour l'instrument ou, si
-une telle valeur n'est pas disponible, sur un modèle de valorisation utilisant une méthode reconnue et appropriée ;
+une telle valeur n'est pas disponible, sur un modèle de valorisation utilisant une méthode reconnue et appropriée ; 
 
 2° Cette valorisation est vérifiée soit par un tiers indépendant du cocontractant, de façon régulière et selon des modalités
 telles que l'organisme de placement collectif en valeurs mobilières puisse la contrôler, soit par un service de l'organisme
 de placement collectif en valeurs mobilières indépendant des fonctions opérationnelles et en mesure de procéder à cette
-vérification.
+vérification. 
 
-Ces contrats peuvent, pour les organismes de placement collectif ne bénéficiant pas d'une procédure de reconnaissance
-mutuelle des agréments au sens de la directive 85/611/CEE du Conseil du 20 décembre 1985 portant coordination des
-dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs
-mobilières, porter sur des marchandises, dans les conditions prévues au présent paragraphe. L'exposition à un même contrat
-portant sur des marchandises ne peut excéder 10 % de l'actif. Les corrélations significatives entre les contrats portant sur
-des marchandises conclus par l'organisme sont prises en compte pour l'appréciation de cette limite.
+Pour les organismes de placement collectif ne bénéficiant pas d'une procédure de reconnaissance mutuelle des agréments au
+sens de la directive 85 / 611 / CEE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives,
+réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières, ces contrats
+peuvent en outre porter : 
 
-II. - L'investissement sous-jacent aux contrats constituant des instruments financiers à terme est pris en compte pour
-l'application des dispositions des six premiers alinéas de l'article L. 214-4.
+i) Sur des marchandises, dans les conditions prévues au présent paragraphe.L'exposition à un même contrat portant sur des
+marchandises ne peut excéder 10 % de l'actif. Les corrélations significatives entre les contrats portant sur des marchandises
+conclus par l'organisme sont prises en compte pour l'appréciation de cette limite. Le dénouement de ces contrats ne peut
+donner lieu qu'au transfert d'éléments éligibles à l'actif d'un organisme de placement collectif en valeurs mobilières ; 
+
+ii) Sur des actifs mentionnés à l'article R. 214-5, dans les conditions fixées par le II du présent article. 
+
+II.-L'investissement sous-jacent aux contrats constituant des instruments financiers à terme est pris en compte pour
+l'application des dispositions des six premiers alinéas de l'article L. 214-4. 
 
 Lorsque ces contrats constituent des instruments financiers à terme fondés sur des indices répondant aux conditions définies
-au III, il peut être dérogé à l'alinéa précédent.
+au III, il peut être dérogé à l'alinéa précédent. 
 
-III. - Les indices financiers mentionnés au I satisfont aux critères suivants :
+III.-Les indices financiers mentionnés au I satisfont aux critères suivants : 
 
-1° Leur composition est suffisamment diversifiée. A cette fin, elle satisfait aux conditions suivantes :
+1° Leur composition est suffisamment diversifiée.A cette fin, elle satisfait aux conditions suivantes : 
 
 a) L'indice est composé de telle manière que les mouvements de prix ou les activités de négociation affectant l'une de ses
-composantes n'influencent pas de façon anormale sa performance globale ;
+composantes n'influencent pas de façon anormale sa performance globale ; 
 
-b) Lorsque l'indice est composé d'instruments mentionnés à l'article R. 214-1-1, sa composition respecte les règles de
-diversification mentionnées au III de l'article R. 214-28. Lorsque l'indice n'est pas composé de tels instruments et que
-l'exposition à cet indice ne respecte pas les limites prévues au sixième alinéa de l'article L. 214-4 ainsi qu'à l'article R.
-214-6, sa composition est diversifiée selon des modalités équivalentes aux règles mentionnées audit III de l'article R.
-214-28 ;
+b) Lorsque l'indice est composé d'instruments mentionnés à l'article R. 214-1-1 ou au 2° du II de l'article R. 214-25, sa
+composition respecte les règles de diversification mentionnées au III de l'article R. 214-28. Lorsque l'indice n'est pas
+composé de tels instruments, sa composition est diversifiée selon des modalités équivalentes aux règles mentionnées audit III
+de l'article R. 214-28 ; 
 
-2° Ils constituent un étalon représentatif du marché auquel ils se réfèrent. A cette fin, ils satisfont aux conditions
-suivantes :
+2° Ils constituent un étalon représentatif du marché auquel ils se réfèrent.A cette fin, ils satisfont aux conditions
+suivantes : 
 
-a) L'indice mesure, d'une manière appropriée, la performance d'un ensemble représentatif de sous-jacents ;
+a) L'indice mesure, d'une manière appropriée, la performance d'un ensemble représentatif de sous-jacents ; 
 
 b) L'indice est revu ou pondéré à nouveau à intervalles réguliers, de manière qu'il continue de refléter le marché auquel il
-se réfère, conformément à des critères publiquement disponibles ;
+se réfère, conformément à des critères publiquement disponibles ; 
 
 c) Les sous-jacents sont suffisamment liquides pour permettre à l'organisme de placement collectif en valeurs mobilières de
-reproduire l'indice, le cas échéant ;
+reproduire l'indice, le cas échéant ; 
 
-3° Ils font l'objet d'une publication appropriée. A cette fin, ils satisfont aux conditions suivantes :
+3° Ils font l'objet d'une publication appropriée.A cette fin, ils satisfont aux conditions suivantes : 
 
 a) Cette publication repose sur des procédures de collecte des prix et de calcul puis de publication de la valeur de
 l'indice, y compris des procédures de valorisation pour les composantes pour lesquelles aucun prix de marché n'est
-disponible ;
+disponible ; 
 
 b) Les informations significatives sur les méthodes de calcul et de suivi des pondérations de l'indice, les modifications
 apportées à l'indice ou toute difficulté opérationnelle rencontrée dans la fourniture desdites informations sont diffusées
@@ -67902,16 +67920,11 @@ dans le public en temps utile.
 
 	**Anciens textes**:
 
-	  - Décret n°89-623 du 6 septembre 1989 - art. 4-5 (M)
 	  - Décret n°89-623 du 6 septembre 1989 - art. 4-5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
 
 	**Cité par**:
 
@@ -67930,6 +67943,14 @@ dans le public en temps utile.
 	  - Code monétaire et financier - art. R214-34 (V)
 	  - Code monétaire et financier - art. R214-35 (V)
 	  - Code monétaire et financier - art. R214-90 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-4
+	  - Code monétaire et financier - art. L214-42
+	  - Code monétaire et financier - art. R214-1-1
+	  - Code monétaire et financier - art. R214-28
+	  - Code monétaire et financier - art. R214-5
 
 
 ###### Article R214-14
@@ -68288,15 +68309,19 @@ l'information de ceux-ci sur les projets de fusion ou de scission s'effectuent s
 respectivement par les articles R. 225-67 et R. 236-2 du code de commerce pour les sociétés ne faisant pas publiquement appel
 à l'épargne et dont toutes les actions revêtent la forme nominative.
 
+L'article R. 225-73 du code de commerce n'est pas applicable aux sociétés d'investissement à capital variable.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Code de commerce - art. R225-67
+	  - Code de commerce - art. R225-73
+	  - Code de commerce - art. R236-2
 
 	**Cité par**:
 
@@ -68476,8 +68501,22 @@ autorité de surveillance portant sur l'équivalence de leurs règles de sécuri
 qu'un instrument d'échange d'informations et d'assistance mutuelle a été mis en place dans le domaine de la gestion d'actifs
 pour le compte de tiers ; 
 
-b) Parts ou actions de fonds d'investissement de droit étranger répondant aux critères mentionnés au 5° de l'article R. 214-5
-et dont la composition est diversifiée selon des modalités équivalentes à celles prévues à l'article R. 214-6. 
+b) Parts ou actions d'organismes de placement collectifs en valeurs mobilières autres que ceux mentionnés au a et au 1° et
+parts ou actions de fonds d'investissement de droit étranger, respectant les conditions suivantes : 
+
+i) Ils sont soumis à une surveillance équivalente à celle applicable aux organismes de placement collectif en valeurs
+mobilières bénéficiant d'une procédure de reconnaissance mutuelle des agréments au sens de la directive 85 / 611 / CEE du
+Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant
+certains organismes de placement collectif en valeurs mobilières ; 
+
+ii) La coopération entre l'Autorité des marchés financiers et l'autorité de surveillance de cet organisme ou de ce fonds est
+suffisamment garantie ; 
+
+iii) Ils respectent des règles équivalentes à celles prévues au deuxième alinéa de l'article L. 214-6, au septième alinéa de
+l'article L. 214-4, au deuxième alinéa de l'article R. 214-13 et à l'article R. 214-16 ; 
+
+iv) Leur activité fait l'objet de rapports semestriels et annuels permettant une évaluation de l'actif et du passif, des
+bénéfices et des opérations sur la période considérée. 
 
 III.-Par dérogation à la limite de 5 % fixée au sixième alinéa de l'article L. 214-4, un organisme de placement collectif en
 valeurs mobilières régi par le présent paragraphe peut employer jusqu'à 20 % de son actif en parts ou actions d'un même
@@ -68488,7 +68527,6 @@ d'investissement étranger mentionné au b du 2° du II.
 
 	**Anciens textes**:
 
-	  - Décret n°89-623 du 6 septembre 1989 - art. 13 (M)
 	  - Décret n°89-623 du 6 septembre 1989 - art. 13 (Ab)
 
 	**Cité par**:
@@ -68505,53 +68543,55 @@ d'investissement étranger mentionné au b du 2° du II.
 	  - Code monétaire et financier - art. R214-9 (V)
 	  - Code monétaire et financier - art. R732-2 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-4
+	  - Code monétaire et financier - art. L214-6
+	  - Code monétaire et financier - art. R214-1-1
+	  - Code monétaire et financier - art. R214-16
+	  - Code monétaire et financier - art. R214-27
+	  - Code monétaire et financier - art. R214-28
+	  - Code monétaire et financier - art. R214-6
 
 
 ##### Paragraphe 2 : Règles applicables aux organismes de placement collectif en valeurs mobilières d'organismes de placement collectif en valeurs mobilières non coordonnés.
 
 ###### Article R214-26
 
-I. - Les dispositions du présent paragraphe sont applicables aux organismes de placement collectif en valeurs mobilières ne
-bénéficiant pas d'une procédure de reconnaissance mutuelle des agréments au sens de la directive 85/611/CEE du Conseil du 20
-décembre 1985 susmentionnée et dont l'actif comprend plus de 10 % d'actions ou parts d'organismes de placement collectif en
-valeurs mobilières relevant du c du 2° de l'article R. 214-1-1 ou du 6° de l'article R. 214-5, ou de fonds d'investissement
-relevant du 5° de l'article R. 214-5.
+I.-Les dispositions du présent paragraphe sont applicables aux organismes de placement collectif en valeurs mobilières ne
+bénéficiant pas d'une procédure de reconnaissance mutuelle des agréments au sens de la directive 85 / 611 / CEE du Conseil du
+20 décembre 1985 susmentionnée et dont l'actif comprend plus de 10 % d'actions ou parts d'organismes de placement collectif
+en valeurs mobilières relevant du c du 2° de l'article R. 214-1-1 ou du 6° de l'article R. 214-5, ou de fonds
+d'investissement relevant du 5° de l'article R. 214-5. 
 
-II. - Un organisme de placement collectif en valeurs mobilières régi par le présent paragraphe peut employer jusqu'à la
-totalité de son actif en :
+II.-Un organisme de placement collectif en valeurs mobilières régi par le présent paragraphe peut employer jusqu'à la
+totalité de son actif en : 
 
-1° Parts ou actions d'organismes de placement collectif en valeurs mobilières mentionnés au 1° du II de l'article R. 214-25 ;
+1° Parts ou actions d'organismes de placement collectif en valeurs mobilières mentionnés au 1° du II de l'article R.
+214-25 ; 
 
 2° Parts ou actions mentionnés au 2° du II de l'article R. 214-25, à l'exception des parts ou actions de fonds
-d'investissement mentionnées au b du même 2° qui ne peuvent représenter plus de 30 % de l'actif.
+d'investissement mentionnées au b du même 2° qui ne peuvent représenter plus de 30 % de l'actif. 
 
-III. - Par dérogation aux limites de 5 % et 10 % fixées aux sixième et huitième alinéas de l'article L. 214-4, un organisme
-de placement collectif en valeurs mobilières régi par le présent paragraphe peut employer jusqu'à 50 % de son actif en parts
-ou actions d'un même organisme de placement collectif en valeurs mobilières mentionné au II ou d'un même fonds
-d'investissement étranger mentionné au II et détenir jusqu'à 35 % des parts ou actions d'un même organisme de placement
-collectif en valeurs mobilières mentionné au II ou d'un même fonds d'investissement étranger mentionné au II.
+III.-Par dérogation aux limites de 5 % et 10 % fixées aux sixième et huitième alinéas de l'article L. 214-4, un organisme de
+placement collectif en valeurs mobilières régi par le présent paragraphe peut employer jusqu'à 50 % de son actif en parts ou
+actions d'un même organisme de placement collectif en valeurs mobilières mentionné au II ou d'un même fonds d'investissement
+étranger mentionné au II et détenir jusqu'à 100 % des parts ou actions d'un même organisme de placement collectif en valeurs
+mobilières mentionné au II ou d'un même fonds d'investissement étranger mentionné au II.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°89-623 1989-09-06 art 13-1
 	  - Décret n°89-623 du 6 septembre 1989 - art. 13-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
 
 	**Cité par**:
 
@@ -68571,6 +68611,12 @@ collectif en valeurs mobilières mentionné au II ou d'un même fonds d'investis
 	  - Code monétaire et financier - art. R742-4 (V)
 	  - Code monétaire et financier - art. R752-4 (V)
 	  - Code monétaire et financier - art. R762-4 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-4
+	  - Code monétaire et financier - art. R214-1-1
+	  - Code monétaire et financier - art. R214-25
 
 
 ##### Sous-section 7 : Organismes de placement collectif en valeurs mobilières à formule.
@@ -68632,48 +68678,47 @@ relevant du présent article dont l'actif réplique la composition d'un indice.
 
 ###### Article R214-28
 
-I. - Un organisme de placement collectif en valeurs mobilières indiciel est un organisme de placement collectif en valeurs
-mobilières dont l'objectif de gestion correspond à l'évolution d'un indice d'instruments financiers, y compris par
-l'utilisation de techniques et instruments mentionnés au IV de l'article R. 214-12, dans les conditions prévues au paragraphe
-2 de la sous-section 1 de la présente section.
+I.-Un organisme de placement collectif en valeurs mobilières indiciel est un organisme de placement collectif en valeurs
+mobilières dont l'objectif de gestion correspond à l'évolution d'un indice d'instruments financiers, y compris d'un indice se
+rapportant le cas échéant à des prix immobiliers, y compris par l'utilisation de techniques et instruments mentionnés au IV
+de l'article R. 214-12, dans les conditions prévues au paragraphe 2 de la sous-section 1 de la présente section.
 
 L'objectif de gestion de l'organisme de placement collectif en valeurs mobilières correspond à l'évolution de l'indice si
 l'écart-type de la différence entre la performance de l'organisme de placement collectif en valeurs mobilières et celle de
 l'indice sur une période de référence ne dépasse pas un montant déterminé dans des conditions fixées par le règlement général
 de l'Autorité des marchés financiers. Ce montant peut être fixé à un niveau plus élevé par le règlement général de l'Autorité
 des marchés financiers ; dans ce cas, l'organisme de placement collectif en valeurs mobilières constitue un organisme de
-placement collectif en valeurs mobilières à gestion indicielle étendue.
+placement collectif en valeurs mobilières à gestion indicielle étendue. 
 
 La limite prévue à l'alinéa précédent n'est pas applicable pendant une période de six mois suivant la date de l'agrément de
-l'organisme.
+l'organisme. 
 
-II. - L'indice doit respecter les conditions suivantes, qui sont vérifiées par l'Autorité des marchés financiers :
+II.-L'indice doit respecter les conditions suivantes, qui sont vérifiées par l'Autorité des marchés financiers : 
 
-1° La composition de l'indice respecte les règles de diversification mentionnées au présent III ;
+1° La composition de l'indice respecte les règles de diversification mentionnées au présent III ; 
 
 2° L'indice constitue un étalon représentatif du marché auquel il se réfère : son fournisseur utilise une méthode
-n'aboutissant pas, en règle générale, à l'exclusion d'un grand émetteur du marché auquel l'indice renvoie ;
+n'aboutissant pas, en règle générale, à l'exclusion d'un grand émetteur du marché auquel l'indice renvoie ; 
 
 3° Le mode d'établissement et de diffusion de cet indice satisfait aux conditions suivantes : il est accessible au public, et
 son fournisseur est indépendant de l'organisme de placement collectif en valeurs mobilières qui reproduit sa composition.
 Lorsque le fournisseur de l'indice et l'organisme de placement collectif en valeurs mobilières font partie du même groupe au
-sens de l'article L. 233-16 du code de commerce, toute disposition est prise afin d'éviter les conflits d'intérêt.
+sens de l'article L. 233-16 du code de commerce, toute disposition est prise afin d'éviter les conflits d'intérêt. 
 
-III. - Par dérogation à la limite de 10 % fixée à l'article R. 214-6, un organisme de placement collectif en valeurs
-mobilières indiciel ou un organisme de placement collectif en valeurs mobilières à gestion indicielle étendue peut employer
-jusqu'à 20 % de son actif en instruments mentionnés aux a, b, d et f du 2° de l'article R. 214-1-1 d'un même émetteur.
+III.-Par dérogation à la limite de 10 % fixée à l'article R. 214-6, un organisme de placement collectif en valeurs mobilières
+indiciel ou un organisme de placement collectif en valeurs mobilières à gestion indicielle étendue peut employer jusqu'à 20 %
+de son actif en instruments mentionnés aux a, b, d et f du 2° de l'article R. 214-1-1 d'un même émetteur. 
 
-Par dérogation à l'alinéa précédent, la limite de 20 % peut être portée à 35 % pour une seule entité.
+Par dérogation à l'alinéa précédent, la limite de 20 % peut être portée à 35 % pour une seule entité. 
 
-IV. - Les organismes de placement collectif en valeurs mobilières à gestion indicielle étendue ne bénéficient pas d'une
-procédure de reconnaissance mutuelle des agréments au sens de la directive 85/611/CEE du Conseil du 20 décembre 1985
+IV.-Les organismes de placement collectif en valeurs mobilières à gestion indicielle étendue ne bénéficient pas d'une
+procédure de reconnaissance mutuelle des agréments au sens de la directive 85 / 611 / CEE du Conseil du 20 décembre 1985
 susmentionnée lorsqu'ils utilisent la dérogation prévue au premier alinéa du III.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°89-623 du 6 septembre 1989 - art. 16 (M)
 	  - Décret n°89-623 du 6 septembre 1989 - art. 16 (Ab)
 
 	**Cité par**:
@@ -68689,13 +68734,16 @@ susmentionnée lorsqu'ils utilisent la dérogation prévue au premier alinéa du
 	  - Code monétaire et financier - art. R732-4 (Ab)
 	  - Code monétaire et financier - art. R752-4 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-16
+	  - Code monétaire et financier - art. R214-1-1
+	  - Code monétaire et financier - art. R214-12
+	  - Code monétaire et financier - art. R214-6
 
 
 ##### Sous-section 9 : Organismes de placement collectif en valeurs mobilières réservés à certains investisseurs.
@@ -68756,51 +68804,52 @@ mobilières mentionnés au I.
 
 ###### Article R214-30
 
-I. - Par dérogation aux articles R. 214-6 et R. 214-7, un organisme de placement collectif en valeurs mobilières mentionné à
-l'article R. 214-29 peut employer :
+I.-Par dérogation aux articles R. 214-6 et R. 214-7, un organisme de placement collectif en valeurs mobilières mentionné à
+l'article R. 214-29 peut employer : 
 
-1° Jusqu'à 50 % de son actif en instruments mentionnés au c du 2° de l'article R. 214-1-1 d'un même émetteur ;
+1° Jusqu'à 50 % de son actif en instruments mentionnés au c du 2° de l'article R. 214-1-1 d'un même émetteur ; 
 
 2° Jusqu'à 35 % de son actif en instruments mentionnés aux a, b, d et f du 2° de l'article R. 214-1-1 ou en instruments
 mentionnés aux 1° à 7° de l'article R. 214-5 d'un même émetteur. La limite de 40 % définie au I de l'article R. 214-6 n'est
-pas applicable ;
+pas applicable ; 
 
 3° Jusqu'à 50 % de son actif en instruments mentionnés aux a, b, d et f du 2° de l'article R. 214-1-1 d'un même émetteur à
 condition que les titres détenus aient été émis dans les conditions précisées au I de l'article R. 214-7 lors de trois
-émissions différentes ;
+émissions différentes ; 
 
-4° Jusqu'à 35 % de son actif en dépôts placés auprès du même établissement.
+4° Jusqu'à 35 % de son actif en dépôts placés auprès du même établissement. 
 
-II. - Nonobstant les dispositions du I du présent article et du deuxième alinéa du II de l'article R. 214-12, un organisme de
+II.-Nonobstant les dispositions du I du présent article et du deuxième alinéa du II de l'article R. 214-12, un organisme de
 placement collectif en valeurs mobilières mentionné à l'article R. 214-29 ne peut employer plus de 50 % de son actif en
 instruments financiers mentionnés aux a, b, d et f du 2° de l'article R. 214-1-1 d'un même établissement, en dépôts placés
-auprès de celui-ci ou en risque de contrepartie défini au II de l'article R. 214-12 sur celui-ci.
+auprès de celui-ci ou en risque de contrepartie défini au II de l'article R. 214-12 sur celui-ci. 
 
-III. - Par dérogation à la limite de 10 % fixée au huitième alinéa de l'article L. 214-4, un organisme de placement collectif
+III.-Par dérogation à la limite de 10 % fixée au huitième alinéa de l'article L. 214-4, un organisme de placement collectif
 en valeurs mobilières mentionné à l'article R. 214-29 peut détenir jusqu'à 35 % d'instruments financiers de chacune des
-catégories mentionnées à l'article R. 214-18. Cette limite de 35 % est portée à 50 % pour l'investissement dans des
+catégories mentionnées à l'article R. 214-18. Cette limite de 35 % est portée à 100 % pour l'investissement dans des
 organismes de placement collectif en valeurs mobilières ou des fonds d'investissement de droit étranger mentionnés au c du 2°
-de l'article R. 214-1-1 ou au 5° ou 6° de l'article R. 214-5, à condition que ces organismes ou ces fonds soient réservés à
-vingt porteurs de parts ou actions au plus ou à une catégorie d'investisseurs dont les caractéristiques sont définies par le
-prospectus complet de l'organisme.
+de l'article R. 214-1-1 ou au 5° ou 6° de l'article R. 214-5. 
 
-IV. - Par dérogation au 5° de l'article R. 214-5, l'actif d'un organisme de placement collectif en valeurs mobilières
-relevant du présent article peut également comprendre, dans la limite de 10 % mentionnée au même article, des actions ou
-parts de fonds d'investissement de droit étranger ne respectant pas les critères prévus à ce même 5°.
+IV.-Par dérogation au 5° de l'article R. 214-5, l'actif d'un organisme de placement collectif en valeurs mobilières relevant
+du présent article peut également comprendre, dans la limite de 10 % mentionnée au même article, des actions ou parts de
+fonds d'investissement de droit étranger ne respectant pas les critères prévus à ce même 5°.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°89-623 1989-09-06 art 14-1 (ecqc les ARIA sans effet de levier)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-4
+	  - Code monétaire et financier - art. R214-1-1
+	  - Code monétaire et financier - art. R214-12
+	  - Code monétaire et financier - art. R214-18
+	  - Code monétaire et financier - art. R214-29
+	  - Code monétaire et financier - art. R214-5
+	  - Code monétaire et financier - art. R214-6
+	  - Code monétaire et financier - art. R214-7
 
 	**Cité par**:
 
@@ -68889,45 +68938,40 @@ mobilières mentionnés au I.
 
 ###### Article R214-33
 
-I. - Par dérogation aux articles R. 214-6 et R. 214-7, un organisme de placement collectif en valeurs mobilières mentionné à
-l'article R. 214-32 peut employer :
+I.-Par dérogation aux articles R. 214-6 et R. 214-7, un organisme de placement collectif en valeurs mobilières mentionné à
+l'article R. 214-32 peut employer : 
 
-1° Jusqu'à 50 % de son actif en instruments mentionnés au c du 2° de l'article R. 214-1-1 d'un même émetteur ;
+1° Jusqu'à 50 % de son actif en instruments mentionnés au c du 2° de l'article R. 214-1-1 d'un même émetteur ; 
 
 2° Jusqu'à 35 % de son actif en instruments mentionnés aux a, b, d et f du 2° de l'article R. 214-1-1 ou en instruments
 mentionnés à l'article R. 214-5 d'un même émetteur. La limite de 40 % définie au I de l'article R. 214-6 n'est pas
-applicable ;
+applicable ; 
 
 3° Jusqu'à 50 % de son actif en instruments mentionnés aux a, b, d et f du 2° de l'article R. 214-1-1 d'un même émetteur à
 condition que les titres détenus aient été émis dans les conditions précisées au 2° du I de l'article R. 214-7 lors de trois
-émissions différentes ;
+émissions différentes ; 
 
-4° Jusqu'à 35 % de son actif en dépôts placés auprès du même établissement.
+4° Jusqu'à 35 % de son actif en dépôts placés auprès du même établissement. 
 
-II. - Nonobstant les dispositions du I du présent article et du deuxième alinéa du II de l'article R. 214-12, un organisme de
+II.-Nonobstant les dispositions du I du présent article et du deuxième alinéa du II de l'article R. 214-12, un organisme de
 placement collectif en valeurs mobilières mentionné à l'article R. 214-32 ne peut employer plus de 50 % de son actif en
 instruments financiers mentionnés aux a, b et d du 2° de l'article R. 214-1-1 d'un même établissement, en dépôts placés
-auprès de celui-ci ou en risque de contrepartie défini au II de l'article R. 214-12 sur celui-ci.
+auprès de celui-ci ou en risque de contrepartie défini au II de l'article R. 214-12 sur celui-ci. 
 
-III. - Par dérogation à la limite de 10 % fixée au huitième alinéa de l'article L. 214-4, un organisme de placement collectif
+III.-Par dérogation à la limite de 10 % fixée au huitième alinéa de l'article L. 214-4, un organisme de placement collectif
 en valeurs mobilières mentionné à l'article R. 214-32 peut détenir jusqu'à 35 % d'instruments financiers de chacune des
-catégories mentionnées à l'article R. 214-18. Cette limite de 35 % est portée à 50 % pour l'investissement dans des
+catégories mentionnées à l'article R. 214-18. Cette limite de 35 % est portée à 100 % pour l'investissement dans des
 organismes de placement collectif en valeurs mobilières ou des fonds d'investissement de droit étranger mentionnés au c du 2°
-de l'article R. 214-1-1 ou au 5° ou 6° de l'article R. 214-5, à condition que ces organismes ou ces fonds soient réservés à
-vingt porteurs de parts ou actions au plus dont les caractéristiques sont définies par le prospectus complet de l'organisme.
+de l'article R. 214-1-1 ou au 5° ou 6° de l'article R. 214-5. 
 
-IV. - Par dérogation au 5° de l'article R. 214-5, l'actif d'un organisme de placement collectif en valeurs mobilières
-relevant du présent article peut également comprendre, dans la limite de 10 % mentionnée au même article, des actions ou
-parts de fonds d'investissement de droit étranger ne respectant pas les critères prévus à ce même 5°.
+IV.-Par dérogation au 5° de l'article R. 214-5, l'actif d'un organisme de placement collectif en valeurs mobilières relevant
+du présent article peut également comprendre, dans la limite de 10 % mentionnée au même article, des actions ou parts de
+fonds d'investissement de droit étranger ne respectant pas les critères prévus à ce même 5°.
 
-V. - La limite de 10 % fixée au septième alinéa de l'article L. 214-4 n'est pas applicable aux organismes de placement
+V.-La limite de 10 % fixée au septième alinéa de l'article L. 214-4 n'est pas applicable aux organismes de placement
 collectif en valeurs mobilières mentionnés à l'article R. 214-32.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-623 1989-09-06 art 14-1 (ecqc les ARIA avec effet de levier)
 
 	**Cité par**:
 
@@ -68936,13 +68980,20 @@ collectif en valeurs mobilières mentionnés à l'article R. 214-32.
 	  - Code monétaire et financier - art. R214-33-2 (Ab)
 	  - Code monétaire et financier - art. R214-36 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-4
+	  - Code monétaire et financier - art. R214-1-1
+	  - Code monétaire et financier - art. R214-12
+	  - Code monétaire et financier - art. R214-18
+	  - Code monétaire et financier - art. R214-32
+	  - Code monétaire et financier - art. R214-5
+	  - Code monétaire et financier - art. R214-6
+	  - Code monétaire et financier - art. R214-7
 
 
 ###### Article R214-34
@@ -68972,88 +69023,106 @@ doivent au préalable faire approuver par l'Autorité des marchés financiers un
 
 ###### Article R214-35
 
-I. - Le deuxième alinéa du II de l'article R. 214-12 et le I de l'article R. 214-16 ne sont pas applicables aux organismes de
-placement collectif en valeurs mobilières mentionnés à l'article R. 214-32.
+I.-Le deuxième alinéa du II de l'article R. 214-12 et le I de l'article R. 214-16 ne sont pas applicables aux organismes de
+placement collectif en valeurs mobilières mentionnés à l'article R. 214-32. 
 
-II. - Par dérogation au 1° du I de l'article R. 214-13 et à l'article R. 214-17, l'engagement d'un organisme de placement
+II.-Par dérogation au 1° du I de l'article R. 214-13 et à l'article R. 214-16, l'engagement d'un organisme de placement
 collectif en valeurs mobilières mentionné à l'article R. 214-32 qui résulte de contrats constituant des instruments
 financiers à terme, des opérations de cession ou d'acquisition temporaire de titres, d'emprunts d'espèces peut atteindre
-trois fois son actif.
+trois fois son actif. 
 
-III. - La limite de 100 % mentionnée au 2° du I de l'article R. 214-12 est portée à 140 % pour les organismes de placement
+III.-La limite de 100 % mentionnée au 2° du I de l'article R. 214-12 est portée à 140 % pour les organismes de placement
 collectif en valeurs mobilières mentionnés à l'article R. 214-32.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°89-623 du 6 septembre 1989 - art. 14-4 (M)
 	  - Décret n°89-623 du 6 septembre 1989 - art. 14-4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Décret n°2006-1542 2006-12-06 art. 4 17° JORF 8 décembre 2006
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 171 AM (V)
 	  - Code monétaire et financier - art. R214-41 (V)
 
+	**Cite**:
+
+	  - Code monétaire et financier - art. R214-12
+	  - Code monétaire et financier - art. R214-13
+	  - Code monétaire et financier - art. R214-16
+	  - Code monétaire et financier - art. R214-32
+
 
 ##### Sous-paragraphe 3 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières de fonds alternatifs.
 
 ###### Article R214-36
 
-I. - Un organisme de placement collectif en valeurs mobilières de fonds alternatifs est un organisme de placement collectif
-en valeurs mobilières qui respecte les règles fixées au II et investit plus de 10 % de son actif :
+I.-Un organisme de placement collectif en valeurs mobilières de fonds alternatifs est un organisme de placement collectif en
+valeurs mobilières qui respecte les règles fixées au II et investit plus de 10 % de son actif : 
 
 1° En actions ou parts de fonds d'investissement répondant aux conditions fixées au 5° de l'article R. 214-5, y compris ceux
 investissant plus de 10 % de leur actif en parts ou actions d'organismes relevant du II de l'article D. 214-1, en parts ou
 actions d'organismes de placement collectif en valeurs mobilières ou de fonds d'investissement étrangers investis comme il
 est dit au b du 4° de l'article R. 214-172, ou en parts ou actions de fonds d'investissement mentionnés au 5° de l'article R.
 214-5 dont l'objectif de gestion correspond à l'évolution d'un indice d'instruments financiers répondant aux conditions
-définies aux II et III de l'article R. 214-28 ;
+définies aux II et III de l'article R. 214-28 ; 
 
 2° En actions ou parts d'organismes de placement collectif en valeurs mobilières contractuels relevant de l'article L.
-214-35-2 ;
+214-35-2 ; 
 
 3° En actions ou parts d'organismes de placement collectif en valeurs mobilières à règles d'investissement allégées relevant
-de l'article L. 214-35 ;
+de l'article L. 214-35 ; 
 
 4° En actions ou parts d'organismes de placement collectif en valeurs mobilières bénéficiant d'une procédure allégée relevant
-de l'article L. 214-35 dans sa rédaction antérieure au 2 août 2003 ;
+de l'article L. 214-35 dans sa rédaction antérieure au 2 août 2003 ; 
 
-5° En parts de fonds communs d'intervention sur les marchés à terme mentionnés à l'article L. 214-42 ;
+5° En parts de fonds communs d'intervention sur les marchés à terme mentionnés à l'article L. 214-42 ; 
 
 6° En parts ou actions d'organismes de placement collectif en valeurs mobilières nourriciers mentionnés à l'article L. 214-34
 ou, dans des conditions définies dans le règlement général de l'Autorité des marchés financiers, en parts ou actions de fonds
-nourriciers de droit étranger dont le fonds maître répond aux conditions fixées au 5° de l'article R. 214-5.
+nourriciers de droit étranger dont le fonds maître répond aux conditions fixées au 5° de l'article R. 214-5. 
 
 Un organisme de placement collectif en valeurs mobilières de fonds alternatifs peut employer jusqu'à 100 % de son actif dans
-les parts ou actions mentionnées aux 1° à 6°.
+les parts ou actions mentionnées aux 1° à 6°. 
 
-II. - Par dérogation au sixième alinéa de l'article L. 214-4, un organisme de placement collectif en valeurs mobilières de
+II.-Par dérogation au sixième alinéa de l'article L. 214-4, un organisme de placement collectif en valeurs mobilières de
 fonds alternatifs peut employer jusqu'à 10 % de son actif en parts ou actions d'un même fonds d'investissement ou organisme
 mentionné aux 1° à 6° du I. Il peut également employer jusqu'à 15 % de son actif en parts ou actions d'un même fonds
 d'investissement ou organisme mentionné aux 1° à 6° du I si la valeur totale de ces parts ou actions excédant 10 % de l'actif
-ne dépasse pas 40 % dudit actif.
+ne dépasse pas 40 % dudit actif. 
 
-III. - Les dispositions des sous-paragraphes 1 et 2 ne sont pas applicables aux organismes de placement collectif en valeurs
-mobilières de fonds alternatifs.
+III.-Les dispositions des sous-paragraphes 1 et 2 ne sont pas applicables aux organismes de placement collectif en valeurs
+mobilières de fonds alternatifs. 
 
-IV. - Par dérogation au 5° de l'article R. 214-5, l'actif d'un organisme de placement collectif en valeurs mobilières
-relevant du présent article peut également comprendre, dans la limite de 10 % mentionnée au même article, des actions ou
-parts de fonds d'investissement de droit étranger ne respectant pas les critères prévus à ce même 5°.
+IV.-Par dérogation au 5° de l'article R. 214-5, l'actif d'un organisme de placement collectif en valeurs mobilières relevant
+du présent article peut également comprendre, dans la limite de 10 % mentionnée au même article, des actions ou parts de
+fonds d'investissement de droit étranger ne respectant pas les critères prévus à ce même 5°.
+
+V.-Par dérogation au dernier alinéa de l'article R. 214-5 et indépendamment de l'application du 1° du I, un organisme de
+placement collectif en valeurs mobilières de fonds alternatifs peut investir jusqu'à la totalité de son actif en parts ou
+actions d'organismes de placement collectif en valeurs mobilières ou de fonds d'investissement mentionnés au I de l'article
+D. 214-1 eux-mêmes investis à plus de 10 % en parts ou actions d'autres organismes de placement collectif en valeurs
+mobilières ou de fonds d'investissement, lorsque sont satisfaites les conditions suivantes : 
+
+i) Les frais et commissions liés à l'investissement direct ou indirect dans des fonds d'investissement ou organismes de
+placement collectif en valeurs mobilières font l'objet de règles de transparence définies par le règlement général de
+l'Autorité des marchés financiers. 
+
+ii) Les rétrocessions de frais et commissions mentionnés au i demeurent acquises à l'organisme de placement collectif en
+valeurs mobilières de fonds alternatifs relevant du présent V ; 
+
+L'application du I et du II à un organisme de placement collectif en valeurs mobilières de fonds alternatifs relevant du
+présent V est effectuée au niveau des organismes ou fonds dans lesquels l'organisme de placement collectif en valeurs
+mobilières de fonds alternatifs est investi indirectement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°89-623 du 6 septembre 1989 - art. 14-5 (M)
 	  - Décret n°89-623 du 6 septembre 1989 - art. 14-5 (Ab)
 
 	**Cité par**:
@@ -69065,13 +69134,21 @@ parts de fonds d'investissement de droit étranger ne respectant pas les critèr
 	  - Code monétaire et financier - art. R214-37 (V)
 	  - Code monétaire et financier - art. R214-40 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D214-1
+	  - Code monétaire et financier - art. L214-34
+	  - Code monétaire et financier - art. L214-35
+	  - Code monétaire et financier - art. L214-35-2
+	  - Code monétaire et financier - art. L214-42
+	  - Code monétaire et financier - art. R214-172
+	  - Code monétaire et financier - art. R214-28
+	  - Code monétaire et financier - art. R214-5
+	  - Code de la construction et de l'habitation. - art. L214-4
 
 
 ###### Article R214-37
@@ -74145,43 +74222,6 @@ immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal 
 
 ##### Sous-paragraphe 2 : Règles applicables aux instruments financiers, aux dépôts et aux liquidités.
 
-###### Article R214-170
-
-Les parts ou actions d'un organisme de droit étranger mentionné au e du I de l'article L. 214-92 ne sont éligibles à l'actif
-d'un organisme de placement collectif immobilier que si l'organisme de droit étranger répond à des critères fixés par le
-règlement général de l'Autorité des marchés financiers.
-
-**Nota:**
-
-Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
-publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
-des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
-immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 12 novembre 2004 - art. 424-54 (Ab)
-	  - Code monétaire et financier - art. R214-200 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-726 du 22 juillet 2008 - art. 2
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L214-92
-
-
 ###### Article R214-171
 
 Les dépôts mentionnés au h du I de l'article L. 214-92 sont des dépôts à terme satisfaisant aux quatre conditions suivantes :
@@ -74635,30 +74675,30 @@ immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal 
 
 ###### Article R214-182
 
-Pour l'application de l'article L. 214-95, l'organisme de placement collectif immobilier souscrit des emprunts auprès
-d'établissements de crédit dont le siège est établi dans un Etat membre de la Communauté européenne ou partie à l'accord sur
-l'Espace économique européen ou dans un Etat membre de l'Organisation de coopération et de développement économique.
+Pour l'application de l'article L. 214-95 et indépendamment de l'application du 1 de l'article L. 312-2 , l'organisme de
+placement collectif immobilier souscrit des emprunts auprès d'établissements de crédit dont le siège est établi dans un Etat
+membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou dans un Etat membre de
+l'Organisation de coopération et de développement économique. 
 
 Ces emprunts ont pour objet de financer les opérations mentionnées à l'article L. 214-90. Ils peuvent également lui permettre
 de faire face, à titre temporaire, à des demandes de rachat de parts ou actions par les porteurs ou actionnaires de
 l'organisme.
 
-**Nota:**
-
-Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
-publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
-des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
-immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 2
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-90
+	  - Code monétaire et financier - art. L214-95
+	  - Code monétaire et financier - art. L312-2
 
 
 ###### Article R214-183
@@ -74770,53 +74810,64 @@ marchés financiers, la limite mentionnée à l'article L. 214-96 n'est plus app
 
 ###### Article D214-192
 
-I. - Les instruments financiers à terme mentionnés au f du I de l'article L. 214-92 et à l'article L. 214-94 sont ceux
-mentionnés aux 1, 5 et 6 du I de l'article D. 211-1 A.
+I.-Les instruments financiers à terme mentionnés au f du I de l'article L. 214-92 et à l'article L. 214-94 sont ceux
+mentionnés aux 1, 5 et 6 du I de l'article D. 211-1 A. 
 
-II. - Un organisme de placement collectif immobilier peut conclure des contrats constituant des instruments financiers à
-terme mentionnés au I, en vue de protéger ses actifs ou de réaliser son objectif de gestion, aux conditions définies à
-l'article R. 214-190 et aux conditions 1° à 3° suivantes :
+II.-Un organisme de placement collectif immobilier peut conclure des contrats constituant des instruments financiers à terme
+mentionnés au I, en vue de protéger ses actifs ou de réaliser son objectif de gestion, aux conditions définies à l'article R.
+214-190 et aux conditions 1° à 3° suivantes : 
 
 1° L'engagement de l'organisme sur les instruments financiers à terme, défini à l'article R. 214-191, ne doit pas être
-supérieur à la valeur de son actif net ;
+supérieur à la valeur de son actif net ; 
 
-2° Les contrats ont les caractéristiques suivantes :
+2° Les contrats ont les caractéristiques suivantes : 
 
 a) Ils portent sur des instruments mentionnés à l'article R. 214-1-1, y compris sur une ou plusieurs caractéristiques de ces
 actifs, ou sur des taux d'intérêt, des taux de change ou devises, sur une combinaison des éléments précédents, ou encore sur
-des indices financiers répondant aux conditions fixées au III de l'article R. 214-13 ;
+des indices financiers, se rapportant le cas échéant à des prix immobiliers, répondant aux conditions fixées au III de
+l'article R. 214-13 ; 
 
 b) Ils sont soit conclus sur les marchés à terme réglementés mentionnés à l'article L. 214-42, soit répondent aux critères
-suivants :
+suivants : 
 
 i) Ils peuvent être dénoués ou liquidés à tout moment, à leur valeur de marché mentionnée au présent iii, à l'initiative de
-l'organisme de placement collectif immobilier ;
+l'organisme de placement collectif immobilier ; 
 
-ii) Ils sont conclus avec un établissement mentionné au deuxième alinéa du I de l'article R. 214-12 ;
+ii) Ils sont conclus avec un établissement mentionné au deuxième alinéa du I de l'article R. 214-12 ; 
 
 iii) Ils font l'objet d'une valorisation effectuée par l'organisme de placement collectif immobilier, qui ne se fonde pas
-uniquement sur des prix de marché donnés par la contrepartie et satisfait aux critères suivants :
+uniquement sur des prix de marché donnés par la contrepartie et satisfait aux critères suivants : 
 
 1° La valorisation se fonde sur une valeur de marché actuelle, qui a été établie de manière fiable pour l'instrument ou, si
-une telle valeur n'est pas disponible, sur un modèle de valorisation utilisant une méthode reconnue et adéquate ;
+une telle valeur n'est pas disponible, sur un modèle de valorisation utilisant une méthode reconnue et adéquate ; 
 
 2° Cette valorisation est vérifiée soit par un tiers indépendant de la contrepartie à l'instrument financier, de façon
 régulière et selon des modalités telles que l'organisme de placement collectif immobilier puisse le contrôler, soit par un
-service de l'organisme de placement collectif immobilier indépendant des fonctions opérationnelles et équipé à cet effet ;
+service de l'organisme de placement collectif immobilier indépendant des fonctions opérationnelles et équipé à cet effet ; 
 
 3° A l'exception des contrats constituant des instruments financiers à terme fondés sur des indices répondant aux conditions
 définies au II de l'article R. 214-28, l'investissement sous-jacent à ces contrats est nécessairement pris en compte pour
-l'application des dispositions prévues aux articles R. 214-174 à R. 214-179.
+l'application des dispositions prévues aux articles R. 214-174 à R. 214-178.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 2
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 2 () JORF 12 août 2007 en vigueur le 1er novembre 2007
+	  - Code monétaire et financier - art. D211-1 A
+	  - Code monétaire et financier - art. L214-42
+	  - Code monétaire et financier - art. L214-92
+	  - Code monétaire et financier - art. L214-94
+	  - Code monétaire et financier - art. R214-1-1
+	  - Code monétaire et financier - art. R214-12
+	  - Code monétaire et financier - art. R214-13
+	  - Code monétaire et financier - art. R214-174
+	  - Code monétaire et financier - art. R214-190
+	  - Code monétaire et financier - art. R214-191
+	  - Code monétaire et financier - art. R214-28
 
 	**Anciens textes**:
 
@@ -75000,7 +75051,7 @@ cocontractant est égal à la valeur de marché des contrats diminuée des garan
 l'organisme.
 
 II. - L'exposition d'un organisme de placement collectif immobilier au risque de contrepartie sur un même cocontractant
-résultant des contrats d'instruments financiers à terme mentionnés aux articles R. 214-192 et R. 214-193 et des opérations
+résultant des contrats d'instruments financiers à terme mentionnés aux articles D. 214-192 et R. 214-193 et des opérations
 d'acquisitions et de cession temporaires de titres mentionnés à l'article R. 214-195 ne doit pas excéder 10 % de son actif
 net.
 
@@ -75008,22 +75059,11 @@ III. - Le recours par un organisme de placement collectif immobilier à des inst
 pension, ainsi que toute autre opération assimilée d'acquisition ou de cession temporaire de titres ne doit pas amener cet
 organisme à s'écarter des objectifs d'investissements exposés dans les documents d'information destinés aux souscripteurs.
 
-**Nota:**
-
-Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
-publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
-des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
-immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 2
 
 	**Cité par**:
 
@@ -75150,34 +75190,34 @@ collectif immobilier.
 
 Un organisme de placement collectif immobilier peut conclure des contrats constituant des instruments financiers à terme
 mentionnés à l'article L. 214-94 répondant aux caractéristiques des dérivés de crédit définis par les conventions mentionnées
-à l'article L. 431-7, dans les conditions fixées aux articles R. 214-190 et R. 214-192.
+à l'article L. 431-7, dans les conditions fixées aux articles R. 214-190 et D. 214-192. 
 
 Ces instruments financiers à terme permettent de transférer le risque de crédit lié à un instrument mentionné à l'article R.
-214-1-1, indépendamment des autres risques liés à cet instrument et respectent les critères qui suivent :
+214-1-1, indépendamment des autres risques liés à cet instrument et respectent les critères qui suivent : 
 
 1° Dans des conditions fixées par le règlement général de l'Autorité des marchés financiers, l'organisme de placement
 collectif immobilier prend en compte de façon appropriée le risque que son cocontractant détienne des informations auxquelles
-il n'a pas accès ;
+il n'a pas accès ; 
 
-2° Les émetteurs sur lesquels repose le risque de crédit peuvent être :
+2° Les émetteurs sur lesquels repose le risque de crédit peuvent être : 
 
-a) Un ou plusieurs Etats ;
+a) Un ou plusieurs Etats ; 
 
 b) Un ou plusieurs organismes publics internationaux dont un ou plusieurs Etats membres de la Communauté européenne sont
-membres ;
+membres ; 
 
-c) Une ou plusieurs collectivités territoriales de la Communauté européenne ;
+c) Une ou plusieurs collectivités territoriales de la Communauté européenne ; 
 
-d) Une ou plusieurs personnes morales ayant émis au moins :
+d) Une ou plusieurs personnes morales ayant émis au moins : 
 
 i) Soit des titres de créance répondant aux critères définis au II de l'article R. 214-2 ou des titres de créance admis aux
 négociations sur un marché réglementé au sens du I de l'article R. 214-2, et ayant rendu publique pour au moins une émission
 de tels titres de créance au moins une notation obtenue auprès d'un organisme figurant sur une liste arrêtée par le ministre
-chargé de l'économie ;
+chargé de l'économie ; 
 
-ii) Soit des titres de capital admis aux négociations sur un marché réglementé au sens du I de l'article R. 214-2 ;
+ii) Soit des titres de capital admis aux négociations sur un marché réglementé au sens du I de l'article R. 214-2 ; 
 
-e) Plusieurs entités relevant des catégories a à d ci-dessus ;
+e) Plusieurs entités relevant des catégories a à d ci-dessus ; 
 
 3° Le dénouement des engagements créés par ces contrats ne peut donner lieu qu'à la livraison ou au transfert d'actifs, en ce
 compris des espèces, éligibles à l'actif d'un organisme de placement collectif immobilier.
@@ -75190,13 +75230,17 @@ compris des espèces, éligibles à l'actif d'un organisme de placement collecti
 	  - Code monétaire et financier - art. R214-190 (V)
 	  - Code monétaire et financier - art. R214-32-42 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 2 () JORF 12 août 2007
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D214-192
+	  - Code monétaire et financier - art. L214-94
+	  - Code monétaire et financier - art. L431-7
+	  - Code monétaire et financier - art. R214-1-1
+	  - Code monétaire et financier - art. R214-2
 
 
 ###### Article R214-194
@@ -75224,45 +75268,44 @@ Lorsqu'un instrument financier mentionné au f du I de l'article L. 214-92 compo
 
 ###### Article R214-195
 
-I. - Un organisme de placement collectif immobilier peut effectuer, dans la limite de 30 % de son actif, des opérations de
-cession temporaire d'instruments financiers mentionnés aux d à g du I de l'article L. 214-92.
+I.-Un organisme de placement collectif immobilier peut effectuer, dans la limite de 30 % de son actif, des opérations de
+cession temporaire d'instruments financiers mentionnés aux d à g du I de l'article L. 214-92. 
 
-II. - Un organisme de placement collectif immobilier peut effectuer, dans la limite de 5 % de son actif, des opérations
-d'acquisition temporaire d'instruments financiers mentionnés aux d à g du I de l'article L. 214-92 ou à l'article R. 214-172.
+II.-Un organisme de placement collectif immobilier peut effectuer, dans la limite de 5 % de son actif, des opérations
+d'acquisition temporaire d'instruments financiers mentionnés aux d à g du I de l'article L. 214-92 ou à l'article R.
+214-172. 
 
 Les valeurs liquidatives des actions ou parts d'un organisme de placement collectif immobilier sont déterminées en tenant
-compte des variations de valeur des titres cédés temporairement.
+compte des variations de valeur des titres cédés temporairement. 
 
-III. - Pour effectuer des opérations mentionnées aux I et II, un organisme de placement collectif immobilier doit respecter
-chacune des conditions suivantes :
+III.-Pour effectuer des opérations mentionnées aux I et II, un organisme de placement collectif immobilier doit respecter
+chacune des conditions suivantes : 
 
-1° Ces opérations sont réalisées avec un établissement mentionné au deuxième alinéa de l'article R. 214-188 ;
+1° Ces opérations sont réalisées avec un établissement mentionné au deuxième alinéa de l'article R. 214-188 ; 
 
-2° Elles sont régies par une convention-cadre mentionnée à l'article L. 431-7 ;
+2° Elles sont régies par une convention-cadre mentionnée à l'article L. 431-7 ; 
 
 3° Elles doivent être prises en compte pour l'application des dispositions prévues aux articles R. 214-174 à R. 214-179, des
 règles d'exposition au risque de contrepartie définies à l'article R. 214-190 et de la règle d'engagement définie au 1° de
-l'article R. 214-192 ;
+l'article D. 214-192 ; 
 
 4° Elles peuvent être dénouées ou liquidées à tout moment, à leur valeur de marché ou à une valeur prédéterminée, à
 l'initiative de l'organisme.
 
-**Nota:**
-
-Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
-publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
-des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
-immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 2
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+	  - Code monétaire et financier - art. D214-192
+	  - Code monétaire et financier - art. L214-92
+	  - Code monétaire et financier - art. L431-7
+	  - Code monétaire et financier - art. R214-172
+	  - Code monétaire et financier - art. R214-174
+	  - Code monétaire et financier - art. R214-188
 
 	**Cité par**:
 
@@ -76209,24 +76252,14 @@ immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal 
 
 ###### Article R214-221
 
-Les règles prévues aux sous-paragraphes 2 à 4 de la sous-section 1 de la présente section ne sont pas applicables.
-
-**Nota:**
-
-Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
-publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
-des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
-immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+Les règles prévues aux sous-paragraphes 2 à 4 du paragraphe 1 de la sous-section 1 de la présente section ne sont pas
+applicables.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 2
 
 
 ###### Article R214-222
@@ -76264,10 +76297,10 @@ immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal 
 ###### Article R214-223
 
 I.-Toute société d'investissement relevant du titre II de l'ordonnance n° 45-2710 du 2 novembre 1945 relative aux sociétés
-d'investissement, dont les actions sont admises aux négociations sur un marché d'instruments financiers ou étranger dont le
-fonctionnement est assuré par une entreprise de marché ou un prestataire de services d'investissement ou tout autre organisme
-similaire étranger, établit selon une périodicité au moins mensuelle l'actif net de la société. Ce document est mis à la
-disposition du public. 
+d'investissement, dont les actions sont admises aux négociations sur un marché d'instruments financiers français ou étranger
+dont le fonctionnement est assuré par une entreprise de marché ou un prestataire de services d'investissement ou tout autre
+organisme similaire étranger, établit selon une périodicité au moins mensuelle l'actif net de la société. Ce document est mis
+à la disposition du public. 
 
 II.-A des fins de couverture ou pour réaliser son objectif de gestion, la société d'investissement peut conclure des
 instruments financiers à terme mentionnés au 4 du I de l'article L. 211-1, dans les conditions prévues aux 1° et 2° du I de
@@ -76275,13 +76308,15 @@ l'article R. 214-13.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Ordonnance n°45-2710 du 2 novembre 1945
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. R214-13
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 3 () JORF 12 août 2007 en vigueur le 1er novembre 2007
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 3
 
 
 ### Titre II : Les produits d'épargne
@@ -89231,24 +89266,24 @@ l'habilitation de son entreprise mère à fournir des prestations de services d'
 ###### Article R532-15
 
 Avant d'assortir de conditions particulières une autorisation, de délivrer une autorisation de prise de participation ou de
-prise de contrôle, ou d'octroyer un agrément à une entreprise d'investissement qui est :
+prise de contrôle, ou d'octroyer un agrément à une société de gestion de portefeuille qui est : 
 
 1° Soit une filiale d'une entreprise d'assurance, d'un établissement de crédit ou d'une entreprise d'investissement agréés
-dans un Etat membre ou partie à l'accord sur l'Espace économique européen ;
+dans un Etat membre ou partie à l'accord sur l'Espace économique européen ; 
 
 2° Soit une filiale de l'entreprise mère d'une entreprise d'assurance, d'un établissement de crédit ou d'une entreprise
-d'investissement agréés dans un Etat membre ou partie à l'accord sur l'Espace économique européen ;
+d'investissement agréés dans un Etat membre ou partie à l'accord sur l'Espace économique européen ; 
 
 3° Soit une entreprise contrôlée par une personne, physique ou morale, qui contrôle également une entreprise d'assurance, un
 établissement de crédit ou une entreprise d'investissement agréés dans un Etat membre ou partie à l'accord sur l'Espace
-économique européen,
+économique européen, 
 
 l'Autorité des marchés financiers consulte l'autorité compétente, au sens du 4° du I de l'article L. 517-2, afin d'évaluer
 notamment la qualité des actionnaires ainsi que l'honorabilité et l'expérience des dirigeants associés à la gestion d'une
-autre entité du même groupe.
+autre entité du même groupe. 
 
 Cette autorité dispose d'un délai d'un mois pour formuler ses observations. Ce délai peut être prorogé d'un mois, à sa
-demande.
+demande. 
 
 Lorsque le requérant est une filiale directe ou indirecte d'une entreprise d'investissement ou d'un établissement de crédit
 ayant son siège dans un Etat qui n'est pas membre de la Communauté européenne ni partie à l'accord sur l'Espace économique
@@ -89258,17 +89293,13 @@ social.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°96-880 1996-10-08 art 2 (II, ecqc les sociétés de gestion de portefeuille)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-901 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er novembre 2007
+	  - Décret n°2008-726 du 22 juillet 2008 - art. 4
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L517-2
 
 	**Cité par**:
 
