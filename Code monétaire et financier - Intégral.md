@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-07-25
+Version Consolidée au 2008-07-29
 
 # Partie législative
 
