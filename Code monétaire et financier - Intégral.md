@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-07-30
+Version Consolidée au 2008-08-06
 
 # Partie législative
 
@@ -81,10 +81,12 @@ salaire minimum de croissance, sur le niveau général des prix ou des salaires 
 n'ayant pas de relation directe avec l'objet du statut ou de la convention ou avec l'activité de l'une des parties. Est
 réputée en relation directe avec l'objet d'une convention relative à un immeuble bâti toute clause prévoyant une indexation
 sur la variation de l'indice national du coût de la construction publié par l'Institut national des statistiques et des
-études économiques.
+études économiques ou, pour des activités commerciales définies par décret, sur la variation de l'indice trimestriel des
+loyers commerciaux publié dans des conditions fixées par ce même décret par l'Institut national de la statistique et des
+études économiques. 
 
 Les dispositions du précédent alinéa ne s'appliquent pas aux dispositions statutaires ou conventionnelles concernant des
-dettes d'aliments.
+dettes d'aliments. 
 
 Doivent être regardées comme dettes d'aliments les rentes viagères constituées entre particuliers, notamment en exécution des
 dispositions de l'article 759 du code civil.
@@ -102,7 +104,7 @@ dispositions de l'article 759 du code civil.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 21 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Loi n°2008-776 du 4 août 2008 - art. 47
 
 	**Cité par**:
 
@@ -115,42 +117,55 @@ dispositions de l'article 759 du code civil.
 	  - Code monétaire et financier - art. L112-3 (V)
 	  - Code monétaire et financier - art. L221-17 (V)
 
+	**Cite**:
+
+	  - Code civil - art. 759
+
 
 ###### Article L112-3
 
 Par dérogation aux dispositions de l'article L. 112-1 et du premier alinéa de l'article L. 112-2 et selon des modalités
-définies par décret, peuvent être indexés sur le niveau général des prix :
+définies par décret, peuvent être indexés sur le niveau général des prix : 
 
-1° Les titres de créance et les instruments financiers à terme mentionnés aux 2 et 4 du I de l'article L. 211-1 ;
+1° Les titres de créance et les instruments financiers à terme mentionnés aux 2 et 4 du I de l'article L. 211-1 ; 
 
 2° Les premiers livrets de la Caisse nationale d'épargne et des caisses d'épargne et de prévoyance, ainsi que les comptes
-spéciaux sur livret du crédit mutuel définis à l'article L. 221-1 ;
+spéciaux sur livret du crédit mutuel définis à l'article L. 221-1 ; 
 
-3° Les comptes sur livret d'épargne populaire définis à l'article L. 221-13 ;
+3° Les comptes sur livret d'épargne populaire définis à l'article L. 221-13 ; 
 
-4° Les comptes pour le développement industriel définis à l'article L. 221-27 ;
+4° Les comptes pour le développement industriel définis à l'article L. 221-27 ; 
 
-5° Les comptes d'épargne-logement définis à l'article L. 315-1 du code de la construction et de l'habitation ;
+5° Les comptes d'épargne-logement définis à l'article L. 315-1 du code de la construction et de l'habitation ; 
 
 6° Les livrets d'épargne-entreprise définis à l'article 1er de la loi n° 84-578 du 9 juillet 1984 sur le développement de
-l'initiative économique ;
+l'initiative économique ; 
 
 7° Les livrets d'épargne institués au profit des travailleurs manuels définis à l'article 80 de la loi de finances pour 1977
-(n° 76-1232 du 29 décembre 1976) ;
+(n° 76-1232 du 29 décembre 1976) ; 
 
 8° Les prêts accordés aux personnes morales ainsi qu'aux personnes physiques pour les besoins de leur activité
-professionnelle ;
+professionnelle ; 
 
-9° Les loyers prévus par les conventions portant sur un local d'habitation.
+9° Les loyers prévus par les conventions portant sur un local d'habitation ou sur un local affecté à des activités
+commerciales relevant du décret prévu au premier alinéa de l'article L. 112-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 58-1374 1958-12-30 art. 79, 3, al. 5
-	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 3, v. init.
-	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 79, v. init.
 	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 79 (V)
+
+	**Cite**:
+
+	  - Loi n°76-1232 du 29 décembre 1976 - art. 80 (V)
+	  - Loi n°84-578 du 9 juillet 1984 - art. 1 (V)
+	  - Code monétaire et financier - art. L112-2 (V)
+	  - Code monétaire et financier - art. L211-1 (V)
+	  - Code monétaire et financier - art. L221-1 (VT)
+	  - Code monétaire et financier - art. L221-13 (V)
+	  - Code monétaire et financier - art. L221-27 (VT)
+	  - Code de la construction et de l'habitation. - art. L315-1 (V)
 
 	**Codifié par**:
 
@@ -158,7 +173,7 @@ professionnelle ;
 
 	**Modifié par**:
 
-	  - Loi n°2005-841 2005-07-26 art. 35 I JORF 27 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2008-776 du 4 août 2008 - art. 40
 
 	**Cité par**:
 
@@ -4026,34 +4041,25 @@ dispositions.
 
 ###### Article L131-85
 
-La Banque de France informe les établissements et les personnes sur lesquels peuvent être tirés des chèques ainsi que, sur sa
-demande, le procureur de la République, des incidents de paiement de chèque, des interdictions prononcées en application de
-l'article L. 163-6 et des levées d'interdiction d'émettre des chèques.
+La Banque de France informe les établissements et les personnes sur lesquels peuvent être tirés des chèques, les organismes
+mentionnés au 5 de l'article L. 511-6 ainsi que, sur sa demande, le procureur de la République, des incidents de paiement de
+chèque, des interdictions prononcées en application de l'article L. 163-6 et des levées d'interdiction d'émettre des
+chèques. 
 
-Seule la Banque de France assure la centralisation des informations prévues à l'alinéa précédent.
+Seule la Banque de France assure la centralisation des informations prévues à l'alinéa précédent. 
 
 Pour l'application du premier alinéa, la Banque de France reçoit de l'administration des impôts les informations détenues par
 celle-ci en application de l'article 1649 A du code général des impôts, qui permettent d'identifier l'ensemble des comptes
 ouverts par les personnes physiques ou morales mentionnées à l'article L. 131-72 et au deuxième alinéa de l'article L. 163-6
 et sur lesquels peuvent être tirés des chèques. Elle lui fournit, aux seules fins poursuivies par le présent chapitre, les
-renseignements permettant d'identifier les titulaires de ces comptes.
+renseignements permettant d'identifier les titulaires de ces comptes. 
 
 Elle communique également au procureur de la République les renseignements concernant les infractions réprimées par les
-troisième et quatrième alinéas de l'article L. 163-2 et par les premier et deuxième alinéas de l'article L. 163-7.
+troisième et quatrième alinéas de l'article L. 163-2 et par les premier et deuxième alinéas de l'article L. 163-7. 
 
-Les dispositions de l'article L. 163-11 ne font pas obstacle à ce que les établissements de crédit utilisent ces informations
-comme élément d'appréciation avant d'accorder un financement ou une ouverture de crédit.
-
-**Nota:**
-
-Loi 2005-516 2005-05-20 art. 16 V : 
-
-1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
-juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
-dispositions. 
-
-2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
-2005 fixe la date de transfert prévu au 31 décembre 2005.
+Les dispositions de l'article L. 163-11 ne font pas obstacle à ce que les établissements de crédit et les organismes
+mentionnés au 5 de l'article L. 511-6 utilisent ces informations comme élément d'appréciation avant d'accorder un financement
+ou une ouverture de crédit.
 
 **Liens relatifs à cet article**
 
@@ -4063,10 +4069,11 @@ dispositions.
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+	  - Loi n°2008-776 du 4 août 2008 - art. 81 (V)
 
 	**Cité par**:
 
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 4 (V)
 	  - Code monétaire et financier - art. L131-72 (V)
 	  - Code monétaire et financier - art. L131-87 (V)
 	  - Code monétaire et financier - art. L163-11 (V)
@@ -4076,12 +4083,18 @@ dispositions.
 	  - Code monétaire et financier - art. R131-42 (V)
 	  - Code monétaire et financier - art. R711-12-1 (V)
 	  - Code monétaire et financier - art. R712-20 (V)
-	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 4 (V)
 	  - Livre des procédures fiscales - art. L135 I (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 A
+	  - Code monétaire et financier - art. L163-2 (V)
+	  - Code monétaire et financier - art. L163-6 (V)
+	  - Code monétaire et financier - art. L163-7
+	  - Code monétaire et financier - art. L511-6
 
 	**Anciens textes**:
 
-	  - Décret-loi 1935-10-30 art. 74
 	  - Décret-loi du 30 octobre 1935 - art. 74 (Ab)
 
 	**Liens**:
@@ -4506,20 +4519,19 @@ Le billet à ordre est régi par les articles L. 512-1 à L. 512-8 du code de co
 
 La Banque de France fait partie intégrante du Système européen de banques centrales, institué par l'article 8 du traité
 instituant la Communauté européenne, et participe à l'accomplissement des missions et au respect des objectifs qui sont
-assignés à celui-ci par le traité.
+assignés à celui-ci par le traité. 
 
 Dans ce cadre, et sans préjudice de l'objectif principal de stabilité des prix, la Banque de France apporte son soutien à la
-politique économique générale du Gouvernement.
+politique économique générale du Gouvernement. 
 
 Dans l'exercice des missions qu'elle accomplit à raison de sa participation au Système européen de banques centrales, la
-Banque de France, en la personne de son gouverneur, de ses sous-gouverneurs ou d'un autre membre du comité monétaire du
-conseil général, ne peut ni solliciter ni accepter d'instructions du Gouvernement ou de toute personne.
+Banque de France, en la personne de son gouverneur                 ou de ses sous-gouverneurs, ne peut ni solliciter ni
+accepter d'instructions du Gouvernement ou de toute personne.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°93-980 1993-08-04 art. 1
 	  - Loi n°93-980 du 4 août 1993 - art. 1 (Ab)
 
 	**Codifié par**:
@@ -4528,7 +4540,7 @@ conseil général, ne peut ni solliciter ni accepter d'instructions du Gouvernem
 
 	**Modifié par**:
 
-	  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 174 (V)
 
 	**Cité par**:
 
@@ -4928,17 +4940,18 @@ La Banque de France est une institution dont le capital appartient à l'Etat.
 
 ###### Article L142-2
 
-Le conseil général administre la Banque de France.
+Le conseil général administre la Banque de France. 
 
 Il délibère sur les questions relatives à la gestion des activités de la Banque de France autres que celles qui relèvent des
-missions du Système européen de banques centrales.
+missions du Système européen de banques centrales. 
 
 Il délibère des statuts du personnel. Ces statuts sont présentés à l'agrément des ministres compétents par le gouverneur de
-la Banque de France.
+la Banque de France. 
 
-Le conseil général délibère également de l'emploi des fonds propres et établit les budgets prévisionnels et rectificatifs de
-dépenses, arrête le bilan et les comptes de la banque, ainsi que le projet d'affectation du bénéfice et de fixation du
-dividende revenant à l'Etat.
+Le conseil général délibère également de l'emploi des fonds propres et établit , en veillant à doter la banque des moyens
+nécessaires à l'exercice des missions qui lui sont dévolues à raison de sa participation au système européen de banques
+centrales, les budgets prévisionnels et rectificatifs de dépenses, arrête le bilan et les comptes de la banque, ainsi que le
+projet d'affectation du bénéfice et de fixation du dividende revenant à l'Etat. 
 
 Le conseil général désigne deux commissaires aux comptes chargés de vérifier les comptes de la Banque de France. Ils sont
 convoqués à la réunion du conseil général qui arrête les comptes de l'exercice écoulé.
@@ -4947,7 +4960,6 @@ convoqués à la réunion du conseil général qui arrête les comptes de l'exer
 
 	**Anciens textes**:
 
-	  - Loi n°93-980 1993-08-04 art. 7
 	  - Loi n°93-980 du 4 août 1993 - art. 7 (Ab)
 
 	**Codifié par**:
@@ -4956,7 +4968,7 @@ convoqués à la réunion du conseil général qui arrête les comptes de l'exer
 
 	**Modifié par**:
 
-	  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 174 (V)
 
 	**Cité par**:
 
@@ -4967,22 +4979,35 @@ convoqués à la réunion du conseil général qui arrête les comptes de l'exer
 
 ###### Article L142-3
 
-I. - Le conseil général de la Banque de France comprend :
+I. - Le conseil général de la Banque de France comprend : 
 
-1° Les membres du comité monétaire du conseil général ;
+1° Le gouverneur et les deux sous-gouverneurs de la Banque de France ; 
 
-2° Deux membres nommés en conseil des ministres, sur proposition du ministre chargé de l'économie, compte tenu de leur
-compétence et de leur expérience professionnelle dans les domaines financier ou économique ;
+2° Deux membres nommés par le président de l'Assemblée nationale et deux membres nommés par le président du Sénat, compte
+tenu de leur compétence et de leur expérience professionnelle dans les domaines financier ou économique ; 
 
-3° Un représentant élu des salariés de la Banque de France.
+3° Deux membres nommés en conseil des ministres, sur proposition du ministre chargé de l'économie, compte tenu de leur
+compétence et de leur expérience professionnelle dans les domaines financier ou économique ; 
 
-Les fonctions des membres nommés en application du 2° ne sont pas exclusives d'une activité professionnelle, après accord du
-conseil général à la majorité des membres autres que l'intéressé. Le conseil général examine notamment l'absence de conflit
-d'intérêts et le respect du principe de l'indépendance de la Banque de France. Cette absence de conflit d'intérêts impose que
-les membres n'exercent aucune fonction et ne possèdent aucun intérêt au sein des prestataires de services visés par les
-titres Ier à V du livre V. Ces mêmes membres ne peuvent pas exercer un mandat parlementaire.
+4° Un représentant élu des salariés de la Banque de France. 
 
-Le mandat de ces membres est de six ans. Ils sont tenus au secret professionnel.
+Le mandat des membres du conseil général est de six ans sous réserve des dispositions prévues au huitième alinéa. Ils sont
+tenus au secret professionnel. 
+
+A compter du 1er janvier 2009, le renouvellement des membres visés au 2° s'opère par moitié tous les trois ans. Lors de
+chaque renouvellement triennal, un membre est nommé par le président de l'Assemblée nationale et un membre est nommé par le
+président du Sénat. 
+
+Il est pourvu au remplacement des membres visés au 2° au moins huit jours avant l'expiration de leurs fonctions. Si l'un de
+ces membres ne peut exercer son mandat jusqu'à son terme, il est pourvu immédiatement à son remplacement dans les conditions
+prévues à l'alinéa précédent et il n'exerce ses fonctions que pour la durée restant à courir du mandat de la personne qu'il
+remplace. 
+
+Les fonctions des membres nommés en application des 2° et 3° ne sont pas exclusives d'une activité professionnelle, après
+accord du conseil général à la majorité des membres autres que l'intéressé. Le conseil général examine notamment l'absence de
+conflit d'intérêts et le respect du principe de l'indépendance de la Banque de France. Cette absence de conflit d'intérêts
+impose que les membres n'exercent aucune fonction et ne possèdent aucun intérêt au sein des prestataires de services visés
+par les titres Ier à V du livre V. Ces mêmes membres ne peuvent pas exercer de mandat parlementaire. 
 
 II. - La validité des délibérations est subordonnée à la présence d'au moins six membres.
 
@@ -5009,7 +5034,7 @@ opposition.
 
 	**Modifié par**:
 
-	  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 173
 
 	**Cité par**:
 
@@ -5018,214 +5043,48 @@ opposition.
 	  - Code monétaire et financier - art. R142-1 (M)
 
 
-##### Section 3 : Le comité monétaire du conseil général.
-
-###### Article L142-4
-
-Le comité monétaire du conseil général examine les évolutions monétaires et analyse les implications de la politique
-monétaire élaborée dans le cadre du Système européen de banques centrales.
-
-Il adopte les mesures nécessaires pour transposer les orientations de la Banque centrale européenne.
-
-Il peut consentir au gouverneur des délégations temporaires de pouvoir.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-980 1993-08-04 art. 9
-	  - Loi n°93-980 du 4 août 1993 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 173
-
-
-###### Article L142-5
-
-Le comité monétaire du conseil général comprend sept membres :
-
-- le gouverneur et les deux sous-gouverneurs de la Banque de France ;
-
-- deux membres nommés par le président du Sénat et deux membres nommés par le président de l'Assemblée nationale, compte tenu
-de leur compétence et de leur expérience professionnelle dans les domaines monétaire, financier ou économique.
-
-Lors de la première désignation, à compter de la promulgation de la loi n° 2007-212 du 20 février 2007 portant diverses
-dispositions intéressant la Banque de France, des membres nommés dans les conditions définies au troisième alinéa, un membre
-est nommé par le président du Sénat et un membre est nommé par le président de l'Assemblée nationale. Le mandat de ces
-membres expire à la fin de l'année 2011, sous réserve des dispositions prévues au sixième alinéa. En outre, les membres du
-Conseil de la politique monétaire nommés par décret en conseil des ministres autres que le gouverneur et les deux sous-
-gouverneurs, en fonction à la date de publication de la loi n° 2007-212 du 20 février 2007 précitée, sont membres de droit du
-comité monétaire. Leur mandat ne sera pas renouvelé à l'expiration de leurs fonctions.
-
-A compter du 1er janvier 2009, le renouvellement des membres visés au troisième alinéa s'opère par moitié tous les trois ans.
-Lors de chaque renouvellement triennal, un membre est nommé par le président du Sénat et un membre est nommé par le président
-de l'Assemblée nationale. Le mandat de ces membres dure six ans, sous réserve des dispositions prévues au sixième alinéa.
-
-Il est pourvu au remplacement des membres du comité monétaire au moins huit jours avant l'expiration de leurs fonctions. Si
-l'un des membres visés au troisième alinéa ne peut exercer son mandat jusqu'à son terme, il est pourvu immédiatement à son
-remplacement dans les conditions décrites aux trois alinéas précédents et il n'exerce ses fonctions que pour la durée restant
-à courir du mandat de la personne qu'il remplace.
-
-Le mandat des membres nommés par le président du Sénat et le président de l'Assemblée nationale n'est pas renouvelable.
-Toutefois, cette règle n'est pas applicable aux membres qui ont remplacé, pour une durée de trois ans au plus, un membre du
-comité dans le cas prévu au sixième alinéa.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-980 1993-08-04 art. 10 I
-	  - Loi n°93-980 du 4 août 1993 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Loi n°2007-212 du 20 février 2007
-
-	**Modifié par**:
-
-	  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 173
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L164-1 (M)
-
-
-###### Article L142-6
-
-Le comité monétaire du conseil général se réunit sur convocation de son président au moins une fois par mois.
-
-Le gouverneur est tenu de le convoquer dans les quarante-huit heures sur la demande de la majorité de ses membres.
-
-La validité des délibérations du comité monétaire du conseil général est subordonnée à la présence d'au moins quatre membres.
-Si ce quorum n'est pas atteint, le comité monétaire du conseil général, convoqué à nouveau par le gouverneur sur le même
-ordre du jour, se réunit valablement sans condition de quorum. Les décisions se prennent à la majorité des membres présents.
-En cas de partage, celle du président est prépondérante.
-
-Le directeur général du Trésor et de la politique économique ou son représentant peut participer sans voix délibérative aux
-séances du comité monétaire du conseil général. Il peut soumettre toute proposition de décision à la délibération du comité.
-Le comité monétaire du conseil général délibère dans le respect de l'indépendance de son président, membre du conseil des
-gouverneurs de la Banque centrale européenne, et des règles de confidentialité de celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-980 1993-08-04 art. 11
-	  - Loi n°93-980 du 4 août 1993 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 173
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R142-7 (M)
-
-
-###### Article L142-7
-
-Les membres du comité monétaire du conseil général sont tenus au secret professionnel.
-
-Il ne peut être mis fin, avant terme, à leurs fonctions que s'ils deviennent incapables d'exercer celles-ci ou commettent une
-faute grave, par révocation sur demande motivée du comité monétaire du conseil général statuant à la majorité des membres
-autres que l'intéressé.
-
-Les fonctions du gouverneur et des sous-gouverneurs sont exclusives de toute autre activité professionnelle publique ou
-privée, rémunérée ou non, à l'exception, le cas échéant, après accord du comité monétaire du conseil général, d'activités
-d'enseignement ou de fonctions exercées au sein d'organismes internationaux. Ils ne peuvent exercer de mandats électifs.
-S'ils ont la qualité de fonctionnaire, ils sont placés en position de détachement et ne peuvent recevoir une promotion au
-choix.
-
-Les fonctions des autres membres du comité monétaire du conseil général ne sont pas exclusives d'une activité
-professionnelle, après accord du comité monétaire à la majorité des membres autres que l'intéressé. Le comité monétaire
-examine notamment l'absence de conflit d'intérêts et le respect du principe de l'indépendance de la Banque de France. Cette
-absence de conflit d'intérêts impose que les membres n'exercent aucune fonction et ne possèdent aucun intérêt au sein des
-prestataires de services visés par les titres Ier à V du livre V. Ces mêmes membres ne peuvent pas exercer un mandat
-parlementaire.
-
-Le gouverneur et les sous-gouverneurs qui cessent leurs fonctions pour un motif autre que la révocation pour faute grave
-continuent à recevoir leur traitement d'activité pendant trois ans. Pour les autres membres du comité monétaire du conseil
-général en fonction à la date de promulgation de la loi n° 2007-212 du 20 février 2007 portant diverses dispositions
-intéressant la Banque de France, cette période est limitée à un an. Au cours de cette période, ils ne peuvent, sauf accord du
-comité monétaire du conseil général, exercer d'activités professionnelles, à l'exception de fonctions publiques électives ou
-de fonctions de membre du Gouvernement. Dans le cas où le comité monétaire a autorisé l'exercice d'activités
-professionnelles, ou s'ils exercent des fonctions publiques électives autres que nationales, le comité détermine les
-conditions dans lesquelles tout ou partie de leur traitement peut continuer à leur être versé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-980 du 4 août 1993 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cite**:
-
-	  - Loi n°2007-212 du 20 février 2007
-
-	**Modifié par**:
-
-	  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 173
-
-
 ##### Section 4 : Le gouverneur et les sous-gouverneurs
 
 ###### Article L142-8
 
-La direction de la Banque de France est assurée par le gouverneur de la Banque de France.
+La direction de la Banque de France est assurée par le gouverneur de la Banque de France. 
 
-Le gouverneur préside le conseil général et le comité monétaire du conseil général de la Banque de France.
+Le gouverneur préside le conseil général de la Banque de France. 
 
-Il prépare et met en oeuvre les décisions du conseil général et du comité monétaire du conseil général.
+Il prépare et met en oeuvre les décisions du conseil général. 
 
-Il représente la Banque vis-à-vis des tiers ; il signe seul, au nom de la Banque, toute convention.
+Il représente la Banque vis-à-vis des tiers ; il signe seul, au nom de la Banque, toute convention. 
 
-Il nomme à tous les emplois de la Banque, sous réserve des dispositions de l'article L. 142-3.
+Il nomme à tous les emplois de la Banque, sous réserve des dispositions de l'article L. 142-3. Il adopte les mesures
+nécessaires pour transposer les orientations de la Banque centrale européenne. 
 
 Le gouverneur est assisté d'un premier et d'un second sous-gouverneurs. Les sous-gouverneurs exercent les fonctions qui leur
-sont déléguées par le gouverneur. En cas d'absence ou d'empêchement du gouverneur, le conseil général et le comité monétaire
-du conseil général sont présidés par l'un des sous-gouverneurs, désigné spécialement à cet effet par le gouverneur.
+sont déléguées par le gouverneur. En cas d'absence ou d'empêchement du gouverneur, le conseil général est présidé par l'un
+des sous-gouverneurs, désigné spécialement à cet effet par le gouverneur. 
 
 Le gouverneur et les deux sous-gouverneurs sont nommés par décret en Conseil des ministres pour une durée de six ans
-renouvelable une fois. La limite d'âge applicable à l'exercice de ces fonctions est fixée à soixante-cinq ans.
+renouvelable une fois. La limite d'âge applicable à l'exercice de ces fonctions est fixée à soixante-cinq ans. 
+
+Il ne peut être mis fin, avant terme, à leurs fonctions que s'ils deviennent incapables d'exercer celles-ci ou commettent une
+faute grave, par révocation sur demande motivée du conseil général statuant à la majorité des membres autres que
+l'intéressé. 
+
+Les fonctions du gouverneur et des sous-gouverneurs sont exclusives de toute autre activité professionnelle publique ou
+privée, rémunérée ou non, à l'exception, le cas échéant, après accord du conseil général, d'activités d'enseignement ou de
+fonctions exercées au sein d'organismes internationaux. Ils ne peuvent exercer de mandats électifs.S'ils ont la qualité de
+fonctionnaire, ils sont placés en position de détachement et ne peuvent recevoir de promotion au choix. 
+
+Le gouverneur et les sous-gouverneurs qui cessent leurs fonctions pour un motif autre que la révocation pour faute grave
+continuent à recevoir leur traitement d'activité pendant trois ans. Au cours de cette période, ils ne peuvent, sauf accord du
+conseil général, exercer d'activités professionnelles, à l'exception de fonctions publiques électives ou de fonctions de
+membre du Gouvernement. Dans le cas où le conseil général a autorisé l'exercice d'activités professionnelles, ou s'ils
+exercent des fonctions publiques électives autres que nationales, le conseil détermine les conditions dans lesquelles tout ou
+partie de leur traitement peut continuer à leur être versé.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°93-980 1993-08-04 art. 13
 	  - Loi n°93-980 du 4 août 1993 - art. 13 (Ab)
 
 	**Codifié par**:
@@ -5239,7 +5098,11 @@ renouvelable une fois. La limite d'âge applicable à l'exercice de ces fonction
 
 	**Modifié par**:
 
-	  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 174 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L142-3
 
 
 ##### Section 5 : Le personnel de la banque
@@ -5312,7 +5175,7 @@ fixées par un décret en Conseil d'Etat.
 Les succursales de la Banque de France participent à l'exercice des missions de la banque. Elles concourent à l'entretien de
 la monnaie fiduciaire et à l'exécution des paiements scripturaux. Elles contribuent à la connaissance du tissu économique
 local et à la diffusion des informations monétaires et financières. Elles assurent la gestion et le suivi des dossiers de
-surendettement dans les conditions prévues à l'article L. 141-6.
+surendettement dans les conditions prévues à l'article L. 141-7. 
 
 Elles entretiennent des relations, pour exercer leurs missions, avec les banques, les entreprises, les organismes
 consulaires, les collectivités locales et les services déconcentrés de l'Etat de leur rayon d'action.
@@ -5321,12 +5184,19 @@ consulaires, les collectivités locales et les services déconcentrés de l'Etat
 
 	**Anciens textes**:
 
-	  - Loi n°93-980 1993-08-04 art. 20 I
 	  - Loi n°93-980 du 4 août 1993 - art. 20-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 174 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L141-7
 
 
 #### Chapitre III : Rapport au Président de la République - Contrôle du Parlement
@@ -5338,9 +5208,8 @@ rapport sur les opérations de la Banque de France, la politique monétaire qu'e
 européen de banques centrales et les perspectives de celle-ci.
 
 Dans le respect des dispositions de l'article 108 du traité instituant la Communauté européenne et des règles de
-confidentialité de la Banque centrale européenne, le gouverneur de la Banque de France ou le comité monétaire du conseil
-général sont entendus par les commissions des finances des deux assemblées, à l'initiative de celles-ci, et peuvent demander
-à être entendus par elles.
+confidentialité de la Banque centrale européenne, le gouverneur de la Banque de France est entendu par les commissions des
+finances des deux assemblées, à l'initiative de celles-ci, et peut demander à être entendu par elles.
 
 Les comptes de la Banque de France, ainsi que le rapport des commissaires aux comptes, sont transmis aux commissions des
 finances de l'Assemblée nationale et du Sénat.
@@ -5349,7 +5218,6 @@ finances de l'Assemblée nationale et du Sénat.
 
 	**Anciens textes**:
 
-	  - Loi n°93-980 1993-08-04 art. 19
 	  - Loi n°93-980 du 4 août 1993 - art. 19 (Ab)
 
 	**Codifié par**:
@@ -5358,7 +5226,7 @@ finances de l'Assemblée nationale et du Sénat.
 
 	**Modifié par**:
 
-	  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 174 (V)
 
 	**Cité par**:
 
@@ -5407,19 +5275,26 @@ confiées en France et aux établissements de crédit et établissements financi
 
 ###### Article L144-2
 
-Les opérations de la Banque de France ainsi que les activités mentionnées au deuxième alinéa de l'article L. 142-6 sont
+Les opérations de la Banque de France ainsi que les activités mentionnées au deuxième alinéa de l'article L. 142-2 sont
 régies par la législation civile et commerciale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°93-980 1993-08-04 art. 21
 	  - Loi n°93-980 du 4 août 1993 - art. 21 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 174 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L142-2
 
 
 ###### Article L144-2-1
@@ -5490,6 +5365,30 @@ France au Conseil général.
 	  - Code général des impôts, CGI. - art. 38 quinquies A (V)
 	  - Code monétaire et financier - art. L142-3 (M)
 	  - Code monétaire et financier - art. L711-9 (VD)
+
+
+###### Article L144-5
+
+Un décret fixe la durée maximale pendant laquelle les informations relatives à la situation des dirigeants et des
+entrepreneurs qui sont détenues par la Banque de France peuvent être communiquées à des tiers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°93-980 du 4 août 1993 - art. 34 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 76 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 75
 
 
 ### Titre V : Les relations financières avec l'étranger
@@ -6563,14 +6462,12 @@ informations obtenues en application de l'article L. 131-86.
 ###### Article L164-1
 
 Est puni des peines prévues à l'article 226-13 du code pénal, le fait, pour les membres du conseil général, de violer le
-secret professionnel institué aux articles L. 142-3 et L. 142-7, sous réserve des dérogations prévues à l'article 226-14 du
-code pénal.
+secret professionnel institué à l'article L. 142-3, sous réserve des dérogations prévues à l'article 226-14 du code pénal.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°93-980 1993-08-04 art. 10 I
 	  - Loi n°93-980 du 4 août 1993 - art. 10 (Ab)
 
 	**Codifié par**:
@@ -6579,7 +6476,13 @@ code pénal.
 
 	**Modifié par**:
 
-	  - Loi n°2007-212 du 20 février 2007 - art. 2 () JORF 21 février 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 173
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13
+	  - Code pénal - art. 226-14
+	  - Code monétaire et financier - art. L142-3
 
 
 ###### Article L164-2
@@ -7985,8 +7888,7 @@ commissaire aux comptes choisi sur la liste prévue par le I de l'article L. 822
 
 L'émission d'obligations par les associations mentionnées à l'article L. 213-8 peut être effectuée avec appel public à
 l'épargne. Elle est alors soumise au contrôle de l'Autorité des marchés financiers dans les conditions prévues par le présent
-code. Si elle est d'un montant supérieur à 38 000 euros, elle est en outre subordonnée à l'autorisation préalable du ministre
-chargé de l'économie.
+code.
 
 **Liens relatifs à cet article**
 
@@ -8000,14 +7902,18 @@ chargé de l'économie.
 
 	**Modifié par**:
 
-	  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2008-776 du 4 août 2008 - art. 81 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L213-8
 
 
 ###### Article L213-13
 
 Lorsqu'il n'est pas fait appel public à l'épargne, le taux d'intérêt stipulé dans le contrat d'émission ne peut être
-supérieur au taux moyen du marché obligataire du trimestre précédant l'émission.
+supérieur au taux moyen du marché obligataire du trimestre précédant l'émission, majoré d'une rémunération définie par arrêté
+du ministre chargé de l'économie, qui ne peut excéder trois points .
 
 **Liens relatifs à cet article**
 
@@ -8018,6 +7924,10 @@ supérieur au taux moyen du marché obligataire du trimestre précédant l'émis
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 81 (V)
 
 	**Cité par**:
 
@@ -8766,28 +8676,28 @@ L'Autorité des marchés financiers peut retirer son agrément à tout organisme
 ###### Article L214-4
 
 Dans des conditions et limites fixées par décret en Conseil d'Etat, l'actif d'un organisme de placement collectif en valeurs
-mobilières comprend :
+mobilières comprend : 
 
-a) Des instruments financiers au sens de l'article L. 211-1 ;
+a) Des instruments financiers au sens de l'article L. 211-1 ; 
 
-b) Des dépôts effectués auprès d'établissements de crédit français ou étrangers ;
+b) Des dépôts effectués auprès d'établissements de crédit français ou étrangers ; 
 
-c) A titre accessoire, des liquidités.
+c) A titre accessoire, des liquidités. 
 
-Les sociétés d'investissement à capital variable peuvent posséder les immeubles nécessaires à leur fonctionnement.
+Les sociétés d'investissement à capital variable peuvent posséder les immeubles nécessaires à leur fonctionnement. 
 
 Un organisme de placement collectif en valeurs mobilières ne peut employer en titres d'un même émetteur plus de 5 % de ses
 actifs. Un décret en Conseil d'Etat fixe les cas et les catégories de titres pour lesquels il peut être dérogé à cette
-limite.
+limite. 
 
 Un organisme de placement collectif en valeurs mobilières peut procéder à des prêts et emprunts de titres et à des emprunts
-d'espèces dans la limite d'une fraction de ses actifs. S'agissant des emprunts d'espèces, cette limite ne peut être
-supérieure à 10 % des actifs.
+d'espèces dans la limite d'une fraction de ses actifs.S'agissant des emprunts d'espèces, cette limite ne peut être supérieure
+à 10 % des actifs. 
 
 Un organisme de placement collectif en valeurs mobilières ne peut détenir plus de 10 % d'une même catégorie de valeurs
 mobilières d'un même émetteur. Un décret en Conseil d'Etat fixe les catégories de valeurs mobilières ainsi que les conditions
 dans lesquelles il peut être dérogé à cette limite. Ce seuil est porté à 25 % lorsque l'émetteur est une entreprise solidaire
-visée à l'article L. 443-3-2 du code du travail, et dont les fonds propres sont inférieurs à 150 000 euros.
+mentionnée à l'article L. 3332-17-1 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -8857,7 +8767,12 @@ visée à l'article L. 443-3-2 du code du travail, et dont les fonds propres son
 
 	**Modifié par**:
 
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 37 () JORF 31 décembre 2006
+	  - Loi n°2008-776 du 4 août 2008 - art. 81 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1
+	  - Code du travail - art. L3332-17-1
 
 
 ###### Article L214-5
@@ -10463,65 +10378,66 @@ vu notamment des conditions dans lesquelles s'exercera la gestion de ces organis
 
 ###### Article L214-36
 
-1. L'actif d'un fonds commun de placement à risques doit être constitué, pour 50 % au moins, de titres participatifs ou de
+1.L'actif d'un fonds commun de placement à risques doit être constitué, pour 50 % au moins, de titres participatifs ou de
 titres de capital de sociétés, ou donnant accès au capital de sociétés, qui ne sont pas admis aux négociations sur un marché
 d'instruments financiers français ou étranger, dont le fonctionnement est assuré par une entreprise de marché ou un
 prestataire de services d'investissement ou tout autre organisme similaire étranger, ou, par dérogation à l'article L.
 214-20, de parts de sociétés à responsabilité limitée ou de sociétés dotées d'un statut équivalent dans leur Etat de
-résidence.
+résidence. 
 
-2. L'actif peut également comprendre :
+2.L'actif peut également comprendre : 
 
 a) Dans la limite de 15 %, les avances en compte courant consenties, pour la durée de l'investissement réalisé, à des
 sociétés dans lesquelles le fonds détient au moins 5 % du capital. Ces avances sont prises en compte pour le calcul du quota
-prévu au 1, lorsqu'elles sont consenties à des sociétés remplissant les conditions pour être retenues dans ce quota ;
+prévu au 1, lorsqu'elles sont consenties à des sociétés remplissant les conditions pour être retenues dans ce quota ; 
 
 b) Des droits représentatifs d'un placement financier dans une entité constituée dans un Etat membre de l'Organisation de
 coopération et de développement économiques dont l'objet principal est d'investir dans des sociétés dont les titres de
 capital ne sont pas admis aux négociations sur un marché mentionné au 1. Ces droits ne sont retenus dans le quota
 d'investissement de 50 % du fonds qu'à concurrence du pourcentage d'investissement direct de l'actif de l'entité concernée
-dans les sociétés éligibles à ce même quota.
+dans les sociétés éligibles à ce même quota. 
 
 3. Sont également éligibles au quota d'investissement prévu au 1, dans la limite de 20 % de l'actif du fonds, les titres de
 capital, ou donnant accès au capital, admis aux négociations sur un marché mentionné au 1 d'un Etat partie à l'accord sur
 l'Espace économique européen, émis par des sociétés dont la capitalisation boursière est inférieure à 150 millions d'euros.
 La capitalisation boursière est évaluée selon la moyenne des cours d'ouverture des soixante jours de bourse précédant celui
 de l'investissement. Un décret en Conseil d'Etat détermine les modalités d'application de cette évaluation notamment en cas
-de première cotation ou d'opération de restructuration d'entreprises.
+de première cotation ou d'opération de restructuration d'entreprises. 
 
 4. Lorsque les titres d'une société détenus par un fonds commun de placement à risques sont admis aux négociations sur un
 marché d'instruments financiers français ou étrangers, dont le fonctionnement est assuré par une entreprise de marché ou un
 prestataire de services d'investissement ou tout autre organisme similaire étranger, ils continuent à être pris en compte
 dans le quota d'investissement de 50 % pendant une durée de cinq ans à compter de leur admission. Le délai de cinq ans n'est
 toutefois pas applicable si les titres de la société admis à la cotation répondent aux conditions du 3 à la date de cette
-cotation et si le fonds respecte, compte tenu de ces titres, la limite de 20 % mentionnée audit 3.
+cotation et si le fonds respecte, compte tenu de ces titres, la limite de 20 % mentionnée audit 3. 
 
 5. Le quota d'investissement de 50 % doit être respecté au plus tard lors de l'inventaire de clôture de l'exercice suivant
-l'exercice de la constitution du fonds commun de placement à risques et jusqu'à la clôture du cinquième exercice du fonds.
+l'exercice de la constitution du fonds commun de placement à risques et jusqu'à la clôture du cinquième exercice du fonds. 
 
 6. Un décret en Conseil d'Etat fixe les modalités d'application du quota prévu au 5 dans le cas où le fonds procède à des
 appels complémentaires de capitaux ou à des souscriptions nouvelles. Il fixe également les règles d'appréciation du quota
 ainsi que les règles spécifiques relatives aux conditions d'acquisition et de cession ainsi qu'aux limites de la détention
-des actifs.
+des actifs. 
 
 7. Les porteurs de parts ne peuvent demander le rachat de celles-ci avant l'expiration d'une période qui ne peut excéder dix
 ans. Au terme de ce délai, les porteurs de parts peuvent exiger la liquidation du fonds si leurs demandes de remboursement
-n'ont pas été satisfaites dans le délai d'un an.
+n'ont pas été satisfaites dans le délai d'un an. 
 
 8. Les parts peuvent donner lieu à des droits différents sur l'actif net ou sur les produits du fonds dans des conditions
-fixées par le règlement du fonds.
+fixées par le règlement du fonds. Les parts peuvent également être différenciées selon les dispositions prévues au deuxième
+alinéa de l'article L. 214-2. 
 
 9. Le règlement d'un fonds commun de placement à risques peut prévoir une ou plusieurs périodes de souscription à durée
 déterminée. La société de gestion ne peut procéder à la distribution d'une fraction des actifs qu'à l'expiration de la
-dernière période de souscription et dans des conditions fixées par décret.
+dernière période de souscription et dans des conditions fixées par décret. 
 
 10. La cession des parts d'un fonds commun de placement à risques est possible dès leur souscription. Lorsque les parts n'ont
 pas été entièrement libérées, le souscripteur et les cessionnaires successifs sont tenus solidairement du montant non libéré
-de celles-ci. A défaut pour le porteur de parts de libérer aux époques fixées par la société de gestion les sommes restant à
+de celles-ci.A défaut pour le porteur de parts de libérer aux époques fixées par la société de gestion les sommes restant à
 verser sur le montant des parts détenues, la société de gestion lui adresse une mise en demeure. Un mois après cette mise en
 demeure et si celle-ci est restée sans effet, la société de gestion peut procéder, sans aucune autorisation de justice, à la
 cession de ces parts. Toutefois, le souscripteur ou cessionnaire qui a cédé ses parts cesse d'être tenu des versements non
-encore appelés par la société de gestion, deux ans après le virement de compte à compte des parts cédées.
+encore appelés par la société de gestion, deux ans après le virement de compte à compte des parts cédées. 
 
 11. Le règlement du fonds peut prévoir qu'à la liquidation du fonds une fraction des actifs est attribuée à la société de
 gestion dans des conditions fixées par décret en Conseil d'Etat.
@@ -10667,7 +10583,12 @@ gestion dans des conditions fixées par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 32 (V) JORF 31 décembre 2005 en vigueur le 2 janvier 2006
+	  - Loi n°2008-776 du 4 août 2008 - art. 35
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-2
+	  - Code monétaire et financier - art. L214-20
 
 
 ###### Article L214-37
@@ -10677,11 +10598,24 @@ réservées aux investisseurs mentionnés à l'article L. 214-35-1 ainsi qu'à c
 agissant pour le compte de la société de gestion du fonds, ainsi qu'à la société de gestion elle-même. La constitution, la
 transformation, la fusion, la scission ou la liquidation du fonds n'est pas soumise à l'agrément de l'Autorité des marchés
 financiers mais doit lui être déclarée dans des conditions définies par un règlement de la commission, dans le mois qui suit
-sa réalisation.
+sa réalisation. 
 
 Le dépositaire ou la personne désignée à cet effet par le règlement du fonds s'assure que le souscripteur ou l'acquéreur est
 un investisseur mentionné ci-dessus. Il s'assure également que le souscripteur ou l'acquéreur a effectivement déclaré avoir
 été informé que ce fonds était régi par les dispositions de la présente sous-section.
+
+L'actif du fonds peut également comprendre : 
+
+a) Dans la limite de 15 % du a du 2 de l'article L. 214-36, des avances en compte courant consenties, pour la durée de
+l'investissement réalisé, à des sociétés dans lesquelles le fonds détient une participation. Ces avances sont prises en
+compte pour le calcul du quota prévu au 1 de l'article L. 214-36 lorsqu'elles sont consenties à des sociétés remplissant les
+conditions pour être retenues dans ce quota ; 
+
+b) Des droits représentatifs d'un placement financier émis sur le fondement du droit français ou étranger dans une entité qui
+a pour objet principal d'investir directement ou indirectement dans des sociétés dont les titres de capital ne sont pas admis
+aux négociations sur un marché d'instruments financiers mentionné au 1 de l'article L. 214-36. Ces droits ne sont retenus
+dans le quota d'investissement de 50 % du fonds prévu au même 1 qu'à concurrence du pourcentage d'investissement direct ou
+indirect de l'actif de l'entité concernée dans les sociétés éligibles à ce même quota. 
 
 Un décret en Conseil d'Etat fixe pour ces fonds des règles spécifiques relatives aux conditions et limites de la détention
 des actifs.
@@ -10767,7 +10701,12 @@ des actifs.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 24 () JORF 7 mai 2005
+	  - Loi n°2008-776 du 4 août 2008 - art. 35
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-35-1
+	  - Code monétaire et financier - art. L214-36
 
 
 ###### Article L214-38
@@ -10813,6 +10752,77 @@ régime du fonds commun de placement à risques bénéficiant d'une procédure a
 	**Modifié par**:
 
 	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 24 () JORF 7 mai 2005
+
+
+###### Article L214-38-1
+
+Un fonds commun de placement à risques contractuel est un fonds commun de placement à risques qui a vocation : 
+
+1° A investir, directement ou indirectement, en titres participatifs ou en titres de capital de sociétés, ou donnant accès au
+capital de sociétés, qui ne sont pas admis aux négociations sur un marché d'instruments financiers mentionné au 1 de
+l'article L. 214-36 ou, par dérogation à l'article L. 214-20, en parts de sociétés à responsabilité limitée ou de sociétés
+dotées d'un statut équivalent dans l'Etat de résidence ; 
+
+2° Ou à être exposé à un risque afférent à de tels titres ou parts par le biais d'instruments financiers à terme.
+
+L'actif peut également comprendre des droits émis sur le fondement du droit français ou étranger, représentatifs d'un
+placement financier dans une entité ainsi que des avances en compte courant consenties, pour la durée de l'investissement
+réalisé, à des sociétés dans lesquelles le fonds commun de placement à risques contractuel détient une participation. Les
+fonds communs de placement à risques contractuels peuvent en outre, dans la limite d'un pourcentage de leur actif fixé par
+décret, acquérir des créances sur des sociétés dont les titres ne sont pas admis aux négociations sur un marché d'instruments
+financiers mentionné au 1 de l'article L. 214-36. 
+
+Ils ne sont pas soumis au quota prévu au 1 de l'article L. 214-36. 
+
+Les deux premiers alinéas de l'article L. 214-37 sont applicables aux fonds communs de placement à risques contractuels. 
+
+Par dérogation aux dispositions de l'article L. 214-4, le règlement du fonds commun de placement à risques contractuel fixe
+les règles d'investissement et d'engagement. 
+
+Par dérogation aux dispositions du premier alinéa de l'article L. 214-20, il prévoit les conditions et les modalités de
+rachat des parts. 
+
+Il peut prévoir une ou plusieurs périodes de souscription à durée déterminée. 
+
+Il peut également prévoir qu'à la liquidation du fonds une fraction des actifs est attribuée à la société de gestion. 
+
+La société de gestion peut procéder à la distribution d'une fraction des actifs dans les conditions fixées par le règlement
+du fonds. 
+
+Les 8 et 10 de l'article L. 214-36 sont applicables aux fonds communs de placement à risques contractuels. 
+
+Un fonds commun de placement dans l'innovation ou un fonds d'investissement de proximité ne peut relever du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 414-33 (V)
+	  - Décret n°2008-1341 du 17 décembre 2008 (V)
+	  - Code monétaire et financier - art. D214-50-1 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 35
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-20
+	  - Code monétaire et financier - art. L214-36
+	  - Code monétaire et financier - art. L214-37
+	  - Code monétaire et financier - art. L214-4
+
+
+###### Article L214-38-2
+
+Les fonds communs de placement à risques bénéficiant d'une procédure allégée ne peuvent se placer sous le régime du fonds
+commun de placement à risques contractuel qu'avec l'accord exprès de chaque porteur de parts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 35
 
 
 ##### Sous-section 11 : Fonds communs de placement d'entreprise
@@ -11173,88 +11183,84 @@ catégories d'actions.
 
 ###### Article L214-41
 
-I. - Les fonds communs de placement dans l'innovation sont des fonds communs de placement à risques dont l'actif est
-constitué, pour 60 % au moins, de valeurs mobilières, parts de société à responsabilité limitée et avances en compte courant,
-dont au moins 6 % dans des entreprises dont le capital est compris entre 100 000 euros et deux millions d'euros, telles que
-définies par le 1° et le a du 2° de l'article L. 214-36, émises par des sociétés ayant leur siège dans un Etat membre de la
-Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France
-une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion
+I.-Les fonds communs de placement dans l'innovation sont des fonds communs de placement à risques dont l'actif est constitué,
+pour 60 % au moins, de valeurs mobilières, parts de société à responsabilité limitée et avances en compte courant, dont au
+moins 6 % dans des entreprises dont le capital est compris entre 100 000 euros et deux millions d'euros, telles que définies
+par le 1° et le a du 2° de l'article L. 214-36, émises par des sociétés ayant leur siège dans un Etat membre de la Communauté
+européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
+convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion
 fiscale, qui sont soumises à l'impôt sur les sociétés dans les conditions de droit commun ou en seraient passibles dans les
 mêmes conditions si l'activité était exercée en France, qui comptent moins de deux mille salariés, dont le capital n'est pas
 détenu majoritairement, directement ou indirectement, par une ou plusieurs personnes morales ayant des liens de dépendance
-avec une autre personne morale au sens du III et qui remplissent l'une des conditions suivantes ;
+avec une autre personne morale au sens du III et qui remplissent l'une des conditions suivantes ; 
 
-a) Avoir réalisé, au cours des trois exercices précédents, des dépenses cumulées de recherche visées aux a à f du II de
-l'article 244 quater B du code général des impôts, d'un montant au moins égal au tiers du chiffre d'affaires le plus élevé
-réalisé au cours de ces trois exercices ;
+a) Avoir réalisé, au cours de l'exercice précédent, des dépenses de recherche, définies aux a à g du II de l'article 244
+quater B du code général des impôts, représentant au moins 15 % des charges fiscalement déductibles au titre de cet exercice
+ou, pour les entreprises industrielles, au moins 10 % de ces mêmes charges. Pour l'application du présent alinéa, ont un
+caractère industriel les entreprises exerçant une activité qui concourt directement à la fabrication de produits ou à la
+transformation de matières premières ou de produits semi-finis en produits fabriqués et pour lesquelles le rôle des
+installations techniques, matériels et outillage mis en œuvre est prépondérant ; 
 
 b) Ou justifier de la création de produits, procédés ou techniques dont le caractère innovant et les perspectives de
 développement économique sont reconnus, ainsi que le besoin de financement correspondant. Cette appréciation est effectuée
-pour une période de trois ans par un organisme chargé de soutenir l'innovation et désigné par décret.
+pour une période de trois ans par un organisme chargé de soutenir l'innovation et désigné par décret. 
 
 Les dispositions du 4° et du 5° de l'article L. 214-36 s'appliquent dans les mêmes conditions aux fonds communs de placement
 dans l'innovation sous réserve du respect du I bis du présent article et du quota d'investissement de 60 % qui leur est
 propre.
 
-I bis. - Sont également éligibles au quota d'investissement de 60 % mentionné au I les titres mentionnés au 3 de l'article L.
+I bis.-Sont également éligibles au quota d'investissement de 60 % mentionné au I les titres mentionnés au 3 de l'article L.
 214-36 dans la limite, pour les titres qui sont admis aux négociations sur un marché réglementé, de 20 % de l'actif du fonds,
 sous réserve que la société émettrice réponde aux conditions prévues au I, à l'exception de celle tenant à la non-cotation.
 
-I ter. - Abrogé.
+I ter.-Abrogé.
 
-I quater. - Abrogé.
+I quater.-Abrogé.
 
-I quinquies. - 1. Sous réserve du respect de la limite de 20 % prévue au I bis, sont également éligibles au quota
+I quinquies.-1. Sous réserve du respect de la limite de 20 % prévue au I bis, sont également éligibles au quota
 d'investissement mentionné au I les titres de capital mentionnés aux 1 et 3 de l'article L. 214-36 émis par les sociétés qui
-remplissent les conditions suivantes :
+remplissent les conditions suivantes : 
 
 a) La société répond aux conditions mentionnées au I. La condition prévue au b du I est appréciée par l'organisme mentionné à
 ce même b au niveau de la société, au regard de son activité et de celle de ses filiales mentionnées au c, dans des
-conditions fixées par décret ;
+conditions fixées par décret ; 
 
 b) La société a pour objet social la détention de participations remplissant les conditions mentionnées au c et peut exercer
-une activité industrielle ou commerciale au sens de l'article 34 du code général des impôts ;
+une activité industrielle ou commerciale au sens de l'article 34 du code général des impôts ; 
 
-c) La société détient exclusivement des participations représentant au moins 75 % du capital de sociétés :
+c) La société détient exclusivement des participations représentant au moins 75 % du capital de sociétés : 
 
-1° Dont les titres sont de la nature de ceux mentionnés aux 1 et 3 de l'article L. 214-36 ;
+1° Dont les titres sont de la nature de ceux mentionnés aux 1 et 3 de l'article L. 214-36 ; 
 
 2° Qui remplissent les conditions mentionnées au premier alinéa du I, à l'exception de celles tenant à l'effectif et au
-capital ;
+capital ; 
 
 3° Et qui ont pour objet la conception ou la création de produits, de procédés ou de techniques répondant aux conditions du b
-du I ou l'exercice d'une activité industrielle ou commerciale au sens de l'article 34 du code général des impôts ;
+du I ou l'exercice d'une activité industrielle ou commerciale au sens de l'article 34 du code général des impôts ; 
 
 d) La société détient, au minimum, une participation dans une société mentionnée au c dont l'objet social est la conception
-ou la création de produits, de procédés ou de techniques répondant aux conditions du b du I.
+ou la création de produits, de procédés ou de techniques répondant aux conditions du b du I. 
 
 2. Un décret en Conseil d'Etat précise les modalités de calcul de la condition relative à l'effectif prévue au premier alinéa
 du I pour la société mentionnée au 1 et d'appréciation de la condition d'exclusivité de la détention des participations
-prévue au c de ce même 1.
+prévue au c de ce même 1. 
 
-II. - Les conditions relatives au nombre de salariés et à la reconnaissance, par un organisme chargé de soutenir l'innovation
+II.-Les conditions relatives au nombre de salariés et à la reconnaissance, par un organisme chargé de soutenir l'innovation
 ou à raison de leurs dépenses cumulées de recherche, du caractère innovant de sociétés dont les titres figurent à l'actif
 d'un fonds commun de placement dans l'innovation s'apprécient lors de la première souscription ou acquisition de ces titres
-par ce fonds.
+par ce fonds. 
 
 En cas de cession par une société mère mentionnée au premier alinéa du I quinquies de titres de filiales mentionnées au d de
 ce même I quinquies remettant en cause le seuil de détention de 75 %, les titres de cette société mère cessent d'être pris en
-compte dans le quota d'investissement de 60 %.
+compte dans le quota d'investissement de 60 %. 
 
-III. - Pour l'appréciation, pour le I, des liens de dépendance existant entre deux sociétés, ces liens sont réputés exister :
+III.-Pour l'appréciation, pour le I, des liens de dépendance existant entre deux sociétés, ces liens sont réputés exister :
 
 - lorsque l'une détient directement ou par personne interposée la majorité du capital social de l'autre ou y exerce de fait
 le pouvoir de décision ;
 
 - ou bien lorsqu'elles sont placées l'une et l'autre dans les conditions définies à l'alinéa précédent sous le contrôle d'une
 même tierce société.
-
-**Nota:**
-
-Loi 2006-1666 2006-12-21 Finances pour 2007 art. 65 VIII : 
-
-Le présent article s'applique à compter du 1er janvier 2007 aux fonds communs de placement dans l'innovation agréés par
-l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -11322,7 +11328,13 @@ l'Autorité des marchés financiers.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 65 (V) JORF 27 décembre 2006
+	  - Loi n°2008-776 du 4 août 2008 - art. 26
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater B
+	  - Code général des impôts, CGI. - art. 34
+	  - Code monétaire et financier - art. L214-36
 
 
 ##### Sous-section 13 : Fonds d'investissement de proximité
@@ -11336,54 +11348,54 @@ définies par le 1 et le a du 2 de l'article L. 214-36, émises par des sociét�
 Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France
 une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion
 fiscale, qui sont soumises à l'impôt sur les sociétés dans les conditions de droit commun ou en seraient passibles dans les
-mêmes conditions si l'activité était exercée en France, et qui remplissent les conditions suivantes :
+mêmes conditions si l'activité était exercée en France, et qui remplissent les conditions suivantes : 
 
 a) Exercer leurs activités principalement dans des établissements situés dans la zone géographique choisie par le fonds et
-limitée à une région ou deux ou trois régions limitrophes, ou, lorsque cette condition ne trouve pas à s'appliquer, y avoir
-établi leur siège social. Le fonds peut également choisir une zone géographique constituée d'un ou de plusieurs départements
-d'outre mer ainsi que de Saint-Barthélemy et de Saint-Martin ;
+limitée à au plus quatre régions limitrophes, ou, lorsque cette condition ne trouve pas à s'appliquer, y avoir établi leur
+siège social. Le fonds peut également choisir une zone géographique constituée d'un ou de plusieurs départements d'outre mer
+ainsi que de Saint-Barthélemy et de Saint-Martin ; 
 
-b) Répondre à la définition des petites et moyennes entreprises figurant à l'annexe I au règlement (CE) n° 70/2001 de la
+b) Répondre à la définition des petites et moyennes entreprises figurant à l'annexe I au règlement (CE) n° 70 / 2001 de la
 Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en faveur des
-petites et moyennes entreprises ;
+petites et moyennes entreprises ; 
 
 c) Ne pas avoir pour objet la détention de participations financières, sauf à détenir exclusivement des titres donnant accès
 au capital de sociétés dont l'objet n'est pas la détention de participations financières et qui répondent aux conditions
-d'éligibilité du premier alinéa, du a et du b.
+d'éligibilité du premier alinéa, du a et du b. 
 
-Les conditions fixées au a et au b s'apprécient à la date à laquelle le fonds réalise ses investissements.
+Les conditions fixées au a et au b s'apprécient à la date à laquelle le fonds réalise ses investissements. 
 
 Sont également prises en compte dans le calcul du quota d'investissement de 60 % les parts de fonds commun de placement à
 risques mentionnés à l'article L. 214-36 et les actions de sociétés de capital-risque régies par l'article 1er-1 de la loi n°
 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier à concurrence du pourcentage
 d'investissement direct de l'actif de la structure concernée dans les sociétés qui répondent aux dispositions du premier
-alinéa, du a et du b, à l'exclusion des sociétés ayant pour objet la détention de participations financières.
+alinéa, du a et du b, à l'exclusion des sociétés ayant pour objet la détention de participations financières. 
 
 Toutefois, un fonds d'investissement de proximité ne peut investir plus de 10 % de son actif dans des parts de fonds communs
-de placement à risques et des actions de sociétés de capital-risque.
+de placement à risques et des actions de sociétés de capital-risque. 
 
 Sont également prises en compte dans le calcul du quota de 60 % les participations versées à des sociétés de caution mutuelle
-ou à des organismes de garantie intervenant dans la zone géographique choisie par le fonds.
+ou à des organismes de garantie intervenant dans la zone géographique choisie par le fonds. 
 
 1 bis. Sont également éligibles au quota d'investissement de 60 % mentionné au 1, dans la limite de 20 % de l'actif du fonds,
 les titres mentionnés au 3 de l'article L. 214-36, sous réserve que la société émettrice réponde aux conditions mentionnées
-au 1, à l'exception de celle tenant à la non-cotation, et n'ait pas pour objet la détention de participations financières.
+au 1, à l'exception de celle tenant à la non-cotation, et n'ait pas pour objet la détention de participations financières. 
 
 2. Les dispositions du 4 et du 5 de l'article L. 214-36 s'appliquent aux fonds d'investissement de proximité sous réserve du
 respect du quota de 60 % et des conditions d'éligibilité tels que définis au 1 et au 1 bis du présent article. Toutefois, par
 dérogation aux dispositions du 5 du même article, les fonds d'investissement de proximité créés jusqu'au 31 décembre 2004
 doivent respecter leur quota d'investissement de 60 % au plus tard lors de l'inventaire de clôture du deuxième exercice
-suivant celui de leur constitution.
+suivant celui de leur constitution. 
 
-3. Les parts d'un fonds d'investissement de proximité ne peuvent pas être détenues :
+3. Les parts d'un fonds d'investissement de proximité ne peuvent pas être détenues : 
 
-a) A plus de 20 % par un même investisseur ;
+a) A plus de 20 % par un même investisseur ; 
 
-b) A plus de 10 % par un même investisseur personne morale de droit public ;
+b) A plus de 10 % par un même investisseur personne morale de droit public ; 
 
-c) A plus de 30 % par des personnes morales de droit public prises ensemble.
+c) A plus de 30 % par des personnes morales de droit public prises ensemble. 
 
-4. Les fonds d'investissements de proximité ne peuvent pas bénéficier des dispositions des articles L. 214-33 et L. 214-37.
+4. Les fonds d'investissements de proximité ne peuvent pas bénéficier des dispositions des articles L. 214-33 et L. 214-37. 
 
 5. Un décret en Conseil d'Etat fixe les modalités d'application du quota prévu au 1 dans le cas où le fonds procède à des
 appels complémentaires de capitaux ou à des souscriptions nouvelles. Il fixe également les règles d'appréciation du quota,
@@ -11391,6 +11403,13 @@ les critères retenus pour déterminer si une entreprise exerce son activité pr
 par le fonds ainsi que les règles spécifiques relatives aux cessions et aux limites de la détention des actifs.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 1-1
+	  - Code monétaire et financier - art. L214-33
+	  - Code monétaire et financier - art. L214-36
+	  - Code monétaire et financier - art. L214-37
 
 	**Cité par**:
 
@@ -11432,7 +11451,7 @@ par le fonds ainsi que les règles spécifiques relatives aux cessions et aux li
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+	  - Loi n°2008-776 du 4 août 2008 - art. 35
 
 
 ##### Sous-section 14 : Fonds communs d'intervention sur les marchés à terme
@@ -16497,6 +16516,16 @@ chargé de l'économie.
 	  - Code monétaire et financier - art. L512-63 (V)
 
 
+##### Section 1 : Le livret A
+
+##### Sous-section 1 : Dispositions communes
+
+##### Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance.
+
+##### Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne.
+
+##### Sous-section 4 : Dispositions spécifiques au Crédit mutuel.
+
 ##### Section 2 : L'épargne populaire
 
 ##### Sous-section 1 : Le compte sur livret d'épargne populaire
@@ -19891,14 +19920,14 @@ jour où elles auront été payées.
 Les règles relatives au fichier des incidents de paiement caractérisés sont fixées par les articles L. 333-4 et L. 333-5 du
 code de la consommation, ci-après reproduits : 
 
-" Art.L. 333-4-Il est institué un fichier national recensant les informations sur les incidents de paiement caractérisés liés
-aux crédits accordés aux personnes physiques pour des besoins non professionnels. Ce fichier est géré par la Banque de
+" Art.L. 333-4- Il est institué un fichier national recensant les informations sur les incidents de paiement caractérisés
+liés aux crédits accordés aux personnes physiques pour des besoins non professionnels. Ce fichier est géré par la Banque de
 France. Il est soumis aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
 libertés. 
 
-Les établissements de crédit visés par la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
-établissements de crédit sont tenus de déclarer à la Banque de France les incidents visés à l'alinéa précédent. Les frais
-afférents à cette déclaration ne peuvent être facturés aux personnes physiques concernées. 
+Les établissements de crédit mentionnés à l'article L. 511-1 du code monétaire et financier et les organismes mentionnés au 5
+de l'article L. 511-6 du même code sont tenus de déclarer à la Banque de France les incidents visés à l'alinéa précédent. Les
+frais afférents à cette déclaration ne peuvent être facturés aux personnes physiques concernées. 
 
 Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur en application du premier alinéa de l'article
 L. 331-3, elle en informe la Banque de France aux fins d'inscription au fichier institué au premier alinéa du présent
@@ -19919,31 +19948,21 @@ excéder dix ans.S'agissant des mesures définies au troisième alinéa de l'art
 
 La Banque de France est seule habilitée à centraliser les informations visées à l'alinéa précédent. 
 
-Les organismes professionnels ou organes centraux représentant les établissements visés au deuxième alinéa sont seuls
-autorisés à tenir des fichiers recensant des incidents de paiement. 
+Les organismes professionnels ou organes centraux représentant les établissements et les organismes visés au deuxième alinéa
+sont seuls autorisés à tenir des fichiers recensant des incidents de paiement. 
 
-La Banque de France est déliée du secret professionnel pour la diffusion, aux établissements de crédit et aux services
-financiers susvisés, des informations nominatives contenues dans le fichier. 
+La Banque de France est déliée du secret professionnel pour la diffusion, aux établissements de crédit et aux organismes
+mentionnés au 5 de l'article L. 511-6 du code monétaire et financier, des informations nominatives contenues dans le
+fichier. 
 
-Il est interdit à la Banque de France et aux établissements de crédit de remettre à quiconque copie, sous quelque forme que
-ce soit, des informations contenues dans le fichier, même à l'intéressé lorsqu'il exerce son droit d'accès conformément à
-l'article 39 de la loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions prévues aux articles 226-22 et 226-21 du
-code pénal. 
+Il est interdit à la Banque de France et aux établissements de crédit et aux organismes mentionnés au 5 de l'article L. 511-6
+du code monétaire et financier de remettre à quiconque copie, sous quelque forme que ce soit, des informations contenues dans
+le fichier, même à l'intéressé lorsqu'il exerce son droit d'accès conformément à l'article 39 de la loi n° 78-17 du 6 janvier
+1978 précitée, sous peine des sanctions prévues aux articles 226-22 et 226-21 du code pénal.
 
 Art.L. 333-5.-Un arrêté du ministre, pris après avis de la Commission nationale de l'informatique et des libertés et du
 Comité consultatif du secteur financier, fixe notamment les modalités de collecte, d'enregistrement, de conservation et de
 consultation de ces informations. "
-
-**Nota:**
-
-Loi 2005-516 2005-05-20 art. 16 V : 
-
-1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
-juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
-dispositions. 
-
-2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
-2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -19962,12 +19981,7 @@ dispositions.
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L333-4 (M)
-	  - Code de la consommation - art. L333-5 (M)
+	  - Loi n°2008-776 du 4 août 2008 - art. 81 (V)
 
 	**Liens**:
 
@@ -23633,7 +23647,9 @@ code ;
 " 2° Aux contrats exécutés intégralement par les deux parties à la demande expresse du consommateur avant que ce dernier
 n'exerce son droit de rétractation ; 
 
-" 3° Aux contrats de crédit immobilier définis à l'article L. 312-2. 
+" 3° Aux contrats de crédit immobilier définis à l'article L. 312-2 ;
+
+" 4° Aux contrats de prêts viagers hypothécaires définis à l'article L. 314-1." 
 
 " III.-Le présent article ne s'applique pas aux contrats mentionnés à l'article L. 121-60. 
 
@@ -23702,20 +23718,7 @@ dans un Etat membre. "
 
 " Art.L. 121-20-16
 
-" Les dispositions de la présente section sont d'ordre public. 
-
-" Art.L. 121-20-17 
-
-" Les infractions aux dispositions des articles L. 121-18, L. 121-19, L. 121-20-5, L. 121-20-10 et L. 121-20-11, ainsi que le
-refus du vendeur ou du prestataire de services de rembourser le consommateur dans les conditions fixées aux articles L.
-121-20-1 et L. 121-20-13, sont constatés et poursuivis dans les conditions fixées par les premier et troisième alinéas de
-l'article L. 450-1 et les articles L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce
-(1). "
-
-**Nota:**
-
-(1) L'article L. 121-20-17 du code de la consommation est abrogé par le II de l'article 4 de l'ordonnance n° 2005-1086 du 1er
-septembre 2005.
+" Les dispositions de la présente section sont d'ordre public. "
 
 **Liens relatifs à cet article**
 
@@ -23727,9 +23730,9 @@ septembre 2005.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 5 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+	  - Loi n°2008-776 du 4 août 2008 - art. 68
 
 	**Liens**:
 
@@ -23742,10 +23745,6 @@ septembre 2005.
 	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-16 (V)
 	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-8 (V)
 	  - PILOTE_SUIVEUR: Code de la consommation - art. L121-20-9 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier L121-20-10
 
 
 ###### Article L343-2
@@ -27441,25 +27440,40 @@ la première offre publique.
 
 ###### Article L433-4
 
-I. - Le règlement général de l'Autorité des marchés financiers fixe les conditions applicables aux procédures d'offre et de
-demande de retrait, lorsque le ou les actionnaires majoritaires d'une société dont le siège social est établi en France et
-dont les actions sont admises aux négociations sur un marché réglementé ou dont les titres ont cessé d'être négociés sur un
+I.-Le règlement général de l'Autorité des marchés financiers fixe les conditions applicables aux procédures d'offre et de
+demande de retrait dans les cas suivants : 
+
+1° Lorsque le ou les actionnaires majoritaires d'une société dont le siège social est établi en France et dont les actions
+sont admises aux négociations sur un marché réglementé ou dont les titres ont cessé d'être négociés sur un marché réglementé
+d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen détiennent
+de concert, au sens de l'article L. 233-10 du code de commerce, une fraction déterminée des droits de vote ; 
+
+2° Lorsqu'une société dont le siège social est établi en France et dont les actions sont admises aux négociations sur un
 marché réglementé d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
-européen détiennent de concert, au sens des dispositions de l'article L. 233-10 du code de commerce, une fraction déterminée
-des droits de vote ou lorsqu'une société dont le siège social est établi en France et dont les actions sont admises aux
-négociations sur un marché réglementé d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
-l'Espace économique européen prend la forme d'une société en commandite par actions.
+européen prend la forme d'une société en commandite par actions ; 
 
-II. - Le règlement général de l'Autorité des marchés financiers fixe également les conditions dans lesquelles, à l'issue
-d'une procédure d'offre ou de demande de retrait, les titres non présentés par les actionnaires minoritaires, dès lors qu'ils
-ne représentent pas plus de 5 % du capital ou des droits de vote, sont transférés aux actionnaires majoritaires à leur
-demande, et les détenteurs indemnisés ; l'évaluation des titres, effectuée selon les méthodes objectives pratiquées en cas de
-cession d'actifs tient compte, selon une pondération appropriée à chaque cas, de la valeur des actifs, des bénéfices
-réalisés, de la valeur boursière, de l'existence de filiales et des perspectives d'activité. L'indemnisation est égale, par
-titre, au résultat de l'évaluation précitée ou, s'il est plus élevé, au prix proposé lors de l'offre ou la demande de
-retrait. Le montant de l'indemnisation revenant aux détenteurs non identifiés est consigné.
+3° Lorsque la ou les personnes physiques ou morales qui contrôlent, au sens de l'article L. 233-3 du code de commerce, une
+société dont le siège est établi en France et dont les actions sont admises aux négociations sur un marché réglementé d'un
+Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen se proposent de
+soumettre à l'approbation d'une assemblée générale extraordinaire une ou plusieurs modifications significatives des
+dispositions statutaires, notamment relatives à la forme de la société, aux conditions de cession et de transmission des
+titres de capital ainsi qu'aux droits qui y sont attachés, ou décident le principe de la fusion de cette société, de la
+cession ou de l'apport à une autre société de la totalité ou du principal des actifs, de la réorientation de l'activité
+sociale ou de la suppression, pendant plusieurs exercices, de toute rémunération de titres de capital. Dans ces cas,
+l'Autorité des marchés financiers apprécie les conséquences de l'opération au regard des droits et des intérêts des
+détenteurs de titres de capital ou de droits de vote de la société pour décider s'il y a lieu de mettre en œuvre une offre
+publique de retrait. 
 
-III. - Sans préjudice des dispositions du II, le règlement général de l'Autorité des marchés financiers fixe également les
+II.-Le règlement général de l'Autorité des marchés financiers fixe également les conditions dans lesquelles, à l'issue d'une
+procédure d'offre ou de demande de retrait, les titres non présentés par les actionnaires minoritaires, dès lors qu'ils ne
+représentent pas plus de 5 % du capital ou des droits de vote, sont transférés aux actionnaires majoritaires à leur demande,
+et les détenteurs indemnisés ; l'évaluation des titres, effectuée selon les méthodes objectives pratiquées en cas de cession
+d'actifs tient compte, selon une pondération appropriée à chaque cas, de la valeur des actifs, des bénéfices réalisés, de la
+valeur boursière, de l'existence de filiales et des perspectives d'activité.L'indemnisation est égale, par titre, au résultat
+de l'évaluation précitée ou, s'il est plus élevé, au prix proposé lors de l'offre ou la demande de retrait. Le montant de
+l'indemnisation revenant aux détenteurs non identifiés est consigné. 
+
+III.-Sans préjudice des dispositions du II, le règlement général de l'Autorité des marchés financiers fixe également les
 conditions dans lesquelles, à l'issue de toute offre publique et dans un délai de trois mois à l'issue de la clôture de cette
 offre, les titres non présentés par les actionnaires minoritaires, dès lors qu'ils ne représentent pas plus de 5 % du capital
 ou des droits de vote, sont transférés aux actionnaires majoritaires à leur demande, et les détenteurs indemnisés. Dans les
@@ -27469,9 +27483,9 @@ Lorsque la première offre publique a eu lieu en tout ou partie sous forme d'éc
 en un règlement en titres, à condition qu'un règlement en numéraire soit proposé à titre d'option, dans les conditions et
 selon les modalités fixées par le règlement général de l'Autorité des marchés financiers. Lorsque les titulaires de titres ne
 sont pas identifiés, dans les conditions mentionnées à l'article L. 228-6-3 du code de commerce, l'indemnisation est
-effectuée en numéraire et son montant consigné.
+effectuée en numéraire et son montant consigné. 
 
-IV. - Le règlement général de l'Autorité des marchés financiers fixe également les conditions dans lesquelles la procédure
+IV.-Le règlement général de l'Autorité des marchés financiers fixe également les conditions dans lesquelles la procédure
 mentionnée aux II et III porte sur les titres donnant ou pouvant donner accès au capital, dès lors que les titres de capital
 susceptibles d'être créés par conversion, souscription, échange, remboursement, ou de toute autre manière, des titres donnant
 ou pouvant donner accès au capital non présentés, une fois additionnés avec les titres de capital existants non présentés, ne
@@ -27496,7 +27510,6 @@ représentent pas plus de 5 % de la somme des titres de capital existants et sus
 
 	**Anciens textes**:
 
-	  - Loi n°96-597 1996-07-02 art. 33 3° et 4°
 	  - Loi n°96-597 du 2 juillet 1996 - art. 33 (Ab)
 
 	**Codifié par**:
@@ -27505,8 +27518,13 @@ représentent pas plus de 5 % de la somme des titres de capital existants et sus
 
 	**Modifié par**:
 
-	  - Loi n°2006-387 du 31 mars 2006 - art. 2 () JORF 1 avril 2006
-	  - Loi n°2006-387 du 31 mars 2006 - art. 5 () JORF 1 avril 2006
+	  - Loi n°2008-776 du 4 août 2008 - art. 153
+
+	**Cite**:
+
+	  - Code de commerce - art. L228-6-3
+	  - Code de commerce - art. L233-10
+	  - Code de commerce - art. L233-3
 
 
 ### Titre IV : Les chambres de compensation
@@ -29455,13 +29473,13 @@ physiques accédant à la propriété le paiement différé du prix des logement
 3. Aux entreprises qui consentent des avances sur salaires ou des prêts de caractère exceptionnel consentis pour des motifs
 d'ordre social à leurs salariés ; 
 
-4. Aux fonds communs de placement à risque qui, dans les conditions prévues à l'article L. 214-36, consentent des avances en
-compte courant aux sociétés dans lesquelles ils détiennent une participation ; 
+4. Abrogé ; 
 
-5. Aux associations sans but lucratif faisant des prêts pour la création et le développement d'entreprises par des chômeurs
-ou titulaires des minima sociaux sur ressources propres et sur emprunts contractés auprès d'établissements de crédit ou des
-institutions ou services mentionnés à l'article L. 518-1, habilitées et contrôlées dans des conditions définies par décret en
-Conseil d'Etat ; 
+5. Aux associations sans but lucratif et aux fondations reconnues d'utilité publique accordant sur ressources propres et sur
+emprunts contractés auprès d'établissements de crédit, ou d'institutions ou services mentionnés à l'article L. 518-1, des
+prêts pour la création et le développement d'entreprises dont l'effectif salarié n'excède pas un nombre fixé par décret ou
+pour la réalisation de projets d'insertion par des personnes physiques. Ces organismes sont habilités et contrôlés dans des
+conditions définies par décret en Conseil d'Etat ;
 
 6. Aux personnes morales pour les prêts participatifs qu'elles consentent en vertu des articles L. 313-13 à L. 313-17 et aux
 personnes morales mentionnées à l'article L. 313-21-1 pour la délivrance des garanties prévues par cet article.
@@ -29532,7 +29550,16 @@ personnes morales mentionnées à l'article L. 313-21-1 pour la délivrance des 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+	  - Loi n°2008-776 du 4 août 2008 - art. 35
+	  - Loi n°2008-776 du 4 août 2008 - art. 81 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L313-21-1
+	  - Code monétaire et financier - art. L511-5
+	  - Code monétaire et financier - art. L518-1
+	  - Code de la mutualité - art. L111-1
+	  - Code de la construction et de l'habitation. - art. L411-1
 
 
 ###### Article L511-7
@@ -31020,11 +31047,41 @@ II. - Transféré sous l'article L. 615-1 du code monétaire et financier.
 ###### Article L511-33
 
 Tout membre d'un conseil d'administration et, selon le cas, d'un conseil de surveillance et toute personne qui à un titre
-quelconque participe à la direction ou à la gestion d'un établissement de crédit ou qui est employée par celui-ci, est tenu
-au secret professionnel, dans les conditions et sous les peines prévues à l'article L. 571-4.
+quelconque participe à la direction ou à la gestion d'un établissement de crédit ou d'un organisme mentionné au 5 de
+l'article L. 511-6 ou qui est employée par l'un de ceux-ci est tenu au secret professionnel. 
 
-Outre les cas où la loi le prévoit, le secret professionnel ne peut être opposé ni à la commission bancaire, ni à la Banque
-de France, ni à l'autorité judiciaire agissant dans le cadre d'une procédure pénale.
+Outre les cas où la loi le prévoit, le secret professionnel ne peut être opposé ni à la Commission bancaire ni à la Banque de
+France ni à l'autorité judiciaire agissant dans le cadre d'une procédure pénale. 
+
+Les établissements de crédit peuvent par ailleurs communiquer des informations couvertes par le secret professionnel, d'une
+part, aux agences de notation pour les besoins de la notation des produits financiers et, d'autre part, aux personnes avec
+lesquelles ils négocient, concluent ou exécutent les opérations ci-après énoncées, dès lors que ces informations sont
+nécessaires à celles-ci : 
+
+1° Opérations de crédit effectuées, directement ou indirectement, par un ou plusieurs établissements de crédit ; 
+
+2° Opérations sur instruments financiers, de garanties ou d'assurance destinées à la couverture d'un risque de crédit ; 
+
+3° Prises de participation ou de contrôle dans un établissement de crédit ou une entreprise d'investissement ; 
+
+4° Cessions d'actifs ou de fonds de commerce ; 
+
+5° Cessions ou transferts de créances ou de contrats ; 
+
+6° Contrats de prestations de services conclus avec un tiers en vue de lui confier des fonctions opérationnelles
+importantes ; 
+
+7° Lors de l'étude ou l'élaboration de tout type de contrats ou d'opérations, dès lors que ces entités appartiennent au même
+groupe que l'auteur de la communication. 
+
+Outre les cas exposés ci-dessus, les établissements de crédit peuvent communiquer des informations couvertes par le secret
+professionnel au cas par cas et uniquement lorsque les personnes concernées leur ont expressément permis de le faire. 
+
+Les personnes recevant des informations couvertes par le secret professionnel, qui leur ont été fournies pour les besoins
+d'une des opérations ci-dessus énoncées, doivent les conserver confidentielles, que l'opération susvisée aboutisse ou non.
+Toutefois, dans l'hypothèse où l'opération susvisée aboutit, ces personnes peuvent à leur tour communiquer les informations
+couvertes par le secret professionnel dans les mêmes conditions que celles visées au présent article aux personnes avec
+lesquelles elles négocient, concluent ou exécutent les opérations énoncées ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -31057,35 +31114,58 @@ de France, ni à l'autorité judiciaire agissant dans le cadre d'une procédure 
 	  - Code monétaire et financier - art. L613-31-12 (V)
 	  - Code monétaire et financier - art. L711-2 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 154
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-6
+
 
 ###### Article L511-34
 
 Les entreprises établies en France et qui font partie d'un groupe financier ou d'un groupe mixte ou d'un conglomérat
 financier auquel appartiennent des établissements de crédit ou entreprises d'investissement ayant leur siège social dans un
 Etat membre de la Communauté européenne ou Etat partie à l'accord sur l'Espace économique européen ou dans un Etat où sont
-applicables les accords prévus à l'article L. 632-13 sont tenues, nonobstant toutes dispositions contraires, de transmettre à
-des entreprises du même groupe ayant leur siège social dans l'un de ces Etats :
+applicables les accords prévus aux articles L. 632-7, L. 632-13 et L. 632-16 sont tenues, nonobstant toutes dispositions
+contraires, de transmettre à des entreprises du même groupe ayant leur siège social dans l'un de ces Etats : 
 
 1° Les renseignements relatifs à leur situation financière nécessaires à l'organisation de la surveillance sur base
-consolidée et de la surveillance complémentaire de ces établissements de crédit ou entreprises d'investissement ;
+consolidée et de la surveillance complémentaire de ces établissements de crédit ou entreprises d'investissement ; 
 
 2° Les informations nécessaires à l'organisation de la lutte contre le blanchiment des capitaux et contre le financement du
-terrorisme.
+terrorisme ; 
+
+3° Les informations nécessaires à l'organisation de la détection des opérations d'initié ou des manipulations de cours
+mentionnées à l'article L. 621-17-2 ; 
+
+4° Les informations nécessaires à la gestion des conflits d'intérêts au sens du 3 de l'article L. 533-10. 
 
 Ces dernières informations ne peuvent être communiquées à des personnes extérieures au groupe, à l'exception des autorités
 compétentes des Etats visés au premier alinéa. Cette exception ne s'étend pas aux autorités des Etats ou territoires dont la
 législation est reconnue insuffisante ou dont les pratiques sont considérées comme faisant obstacle à la lutte contre le
 blanchiment des capitaux ou le financement du terrorisme par l'instance internationale de concertation et de coordination en
-matière de lutte contre le blanchiment d'argent dont la liste est mise à jour par arrêté du ministre chargé de l'économie.
+matière de lutte contre le blanchiment d'argent dont la liste est mise à jour par arrêté du ministre chargé de l'économie. 
 
 Les personnes recevant ces informations sont tenues au secret professionnel dans les conditions et sous les peines
 mentionnées à l'article L. 511-33, pour tous renseignements ou documents qu'elles seraient ainsi amenées à recevoir ou à
-détenir.
+détenir. 
 
 Les dispositions du présent article ne font pas obstacle à l'application de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code monétaire et financier - art. L511-33
+	  - Code monétaire et financier - art. L533-10
+	  - Code monétaire et financier - art. L621-17-2
+	  - Code monétaire et financier - art. L632-13 (V)
+	  - Code monétaire et financier - art. L632-16 (V)
+	  - Code monétaire et financier - art. L632-7 (V)
 
 	**Anciens textes**:
 
@@ -31119,7 +31199,7 @@ l'informatique, aux fichiers et aux libertés.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 4 () JORF 19 octobre 2007 en vigueur le 1er novembre 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 155
 
 
 ##### Section 6 : Dispositions comptables
@@ -31338,6 +31418,8 @@ comptable public ou par l'organisme chargé de l'approbation des comptes.
 
 ##### Section 7 : Dispositions prudentielles.
 
+##### Section 7 : Dispositions prudentielles et contrôle interne
+
 ###### Article L511-40
 
 Tout établissement de crédit doit justifier à tout moment que son actif excède effectivement d'un montant au moins égal au
@@ -31376,12 +31458,12 @@ leurs activités.
 ###### Article L511-41
 
 Les établissements de crédit sont tenus de respecter des normes de gestion destinées à garantir leur liquidité et leur
-solvabilité à l'égard des déposants et, plus généralement, des tiers, ainsi que l'équilibre de leur structure financière.
+solvabilité à l'égard des déposants et, plus généralement, des tiers, ainsi que l'équilibre de leur structure financière. 
 
-Ils doivent en particulier respecter des ratios de couverture et de division de risques.
+Ils doivent en particulier respecter des ratios de couverture et de division de risques. 
 
 Pour le respect des normes relatives à la solvabilité, ils peuvent être autorisés à utiliser leurs approches internes
-d'évaluation des risques.
+d'évaluation des risques. 
 
 Les établissements de crédit doivent également disposer d'un système adéquat de contrôle interne leur permettant notamment de
 mesurer les risques et la rentabilité de leurs activités. Lorsque la surveillance est exercée sur la base de la situation
@@ -31390,7 +31472,12 @@ production des informations et renseignements utiles aux fins de l'exercice de c
 crédit notifient à la commission bancaire les transactions importantes entre les établissements de crédit d'un groupe mixte
 et la compagnie mixte ou ses filiales, dans les conditions définies à l'article L. 613-8.
 
-Un arrêté du ministre chargé de l'économie définit les conditions d'application du présent article.
+Un arrêté du ministre chargé de l'économie définit les conditions d'application du présent article. 
+
+Au sein des établissements de crédit, les conditions d'information des organes de direction, d'administration et de
+surveillance concernant l'efficacité des systèmes de contrôle interne, d'audit interne et de gestion des risques et le suivi
+des incidents révélés notamment par ces systèmes sont fixées par arrêté du ministre chargé de l'économie. Cet arrêté prévoit
+les conditions dans lesquelles ces informations sont transmises à la Commission bancaire.
 
 **Liens relatifs à cet article**
 
@@ -31430,7 +31517,11 @@ Un arrêté du ministre chargé de l'économie définit les conditions d'applica
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 1 () JORF 20 avril 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 156
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-8
 
 
 ###### Article L511-41-1
@@ -32919,31 +33010,6 @@ caisses, soit par voie de liquidation amiable.
 	  - Code monétaire et financier - art. R512-20 (V)
 
 
-###### Article L512-57
-
-Le ministre chargé de l'économie désigne auprès de la confédération nationale du crédit mutuel un commissaire du
-Gouvernement. Ce dernier exerce également ses pouvoirs auprès de la caisse centrale du crédit mutuel, des fédérations
-régionales et des caisses départementales ou interdépartementales du crédit mutuel. A cet effet, il est convoqué à leurs
-assemblées générales et peut assister aux réunions de leurs conseils d'administration.
-
-Les caisses de crédit mutuel sont soumises aux vérifications de l'inspection générale des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 58-966 1958-10-16 art. 5 3°
-	  - Loi n°67-1172 du 22 décembre 1967 - art. 22, v. init.
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 150
-
-
 ###### Article L512-58
 
 Les dispositions des articles L. 512-55 à L. 512-57 sont applicables aux caisses de crédit mutuel du Bas-Rhin, du Haut-Rhin
@@ -33747,18 +33813,11 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 
 ###### Article L512-85
 
-Le réseau des caisses d'épargne remplit des missions d'intérêt général. Il participe à la mise en oeuvre des principes de
-solidarité et de lutte contre les exclusions. Il a en particulier pour objet la promotion et la collecte de l'épargne ainsi
-que le développement de la prévoyance, pour satisfaire notamment les besoins collectifs et familiaux. Il contribue à la
-protection de l'épargne populaire, à la collecte des fonds destinés au financement du logement social, à l'amélioration du
-développement économique local et régional, particulièrement dans le domaine de l'emploi et de la formation, et à la lutte
-contre l'exclusion bancaire et financière de tous les acteurs de la vie économique, sociale et environnementale grâce en
-particulier aux fonds collectés sur le livret A dont la spécificité est maintenue.
-
-Dans les conditions fixées par l'article L. 512-91, les caisses d'épargne et de prévoyance utilisent une partie de leurs
-excédents d'exploitation pour le financement de projets d'économie locale et sociale.
-
-Elles présentent une utilité économique et sociale spécifique au sens du présent article.
+Le réseau des caisses d'épargne participe à la mise en œuvre des principes de solidarité et de lutte contre les exclusions.
+Il a en particulier pour objet la promotion et la collecte de l'épargne ainsi que le développement de la prévoyance, pour
+satisfaire notamment les besoins collectifs et familiaux. Il contribue à la protection de l'épargne populaire, au financement
+du logement social, à l'amélioration du développement économique local et régional et à la lutte contre l'exclusion bancaire
+et financière de tous les acteurs de la vie économique, sociale et environnementale.
 
 **Liens relatifs à cet article**
 
@@ -33768,9 +33827,11 @@ Elles présentent une utilité économique et sociale spécifique au sens du pr�
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 147
 
 	**Cité par**:
 
@@ -33870,22 +33931,24 @@ sociétés locales d'épargne composées majoritairement de personnes morales ne
 ###### Article L512-90
 
 Les caisses d'épargne et de prévoyance sont dirigées par un directoire sous le contrôle d'un conseil de surveillance. Ce
-dernier prend le nom de conseil d'orientation et de surveillance.
+dernier prend le nom de conseil d'orientation et de surveillance. 
 
-Le conseil d'orientation et de surveillance est composé de dix-sept membres.
+Le conseil d'orientation et de surveillance est composé de dix-sept membres. 
 
-Il comprend, dans des conditions prévues par les statuts :
+Il comprend, dans des conditions prévues par les statuts : 
 
-1. Des membres élus directement par les salariés sociétaires de la caisse d'épargne et de prévoyance ;
+1. Des membres élus directement par les salariés sociétaires de la caisse d'épargne et de prévoyance ; 
 
-2. Des membres élus directement par les collectivités territoriales, sociétaires des sociétés locales d'épargne affiliées à
-la caisse d'épargne et de prévoyance ;
+2. Des membres élus directement par les collectivités territoriales et les établissements publics de coopération
+intercommunale à fiscalité propre, sociétaires des sociétés locales d'épargne affiliées à la caisse d'épargne et de
+prévoyance ; 
 
 3. Des membres élus par l'assemblée générale des sociétaires de la caisse d'épargne et de prévoyance. Ne sont pas éligibles à
-ce titre les collectivités territoriales ni les salariés de la caisse d'épargne et de prévoyance.
+ce titre les collectivités territoriales ni les salariés de la caisse d'épargne et de prévoyance. 
 
 Dans chaque conseil d'orientation et de surveillance, le nombre des membres élus par les salariés est identique à celui des
-membres élus par les collectivités territoriales et ne peut être supérieur à trois.
+membres élus par les collectivités territoriales et les établissements publics de coopération intercommunale à fiscalité
+propre et ne peut être supérieur à trois. 
 
 En cas de fusion de caisses d'épargne et de prévoyance soit par absorption, soit par création d'une personne morale nouvelle,
 le nombre de membres du conseil d'orientation et de surveillance de la caisse issue de la fusion peut être supérieur à dix-
@@ -33896,13 +33959,13 @@ celui des membres élus par les collectivités territoriales ne peuvent être su
 
 A défaut d'accord entre les caisses concernées, le nombre total des membres du conseil d'orientation et de surveillance,
 ainsi que la répartition de ces derniers par caisse et par catégorie, peuvent être fixés par la Caisse nationale des caisses
-d'épargne et de prévoyance.
+d'épargne et de prévoyance. 
 
 Les membres du directoire sont proposés par le conseil d'orientation et de surveillance. Le directoire de la Caisse nationale
 des caisses d'épargne et de prévoyance s'assure qu'ils présentent l'honorabilité nécessaire et l'expérience adéquate pour
 cette fonction et propose leur agrément au conseil de surveillance de la Caisse nationale des caisses d'épargne et de
 prévoyance. Lorsque celui-ci a délivré l'agrément, le conseil d'orientation et de surveillance de la caisse d'épargne et de
-prévoyance procède à la nomination des membres du directoire.
+prévoyance procède à la nomination des membres du directoire. 
 
 Sans préjudice de l'application des dispositions de l'article L. 613-21, l'agrément peut être retiré par le conseil de
 surveillance de la Caisse nationale des caisses d'épargne et de prévoyance, sur proposition de son directoire et après
@@ -33917,70 +33980,15 @@ d'agrément emporte révocation du mandat de l'intéressé.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 29 () JORF 12 décembre 2001
-
-
-###### Article L512-91
-
-Les sommes disponibles après imputation sur le résultat net comptable des versements aux réserves légales et statutaires sont
-réparties par l'assemblée générale entre l'intérêt servi aux parts sociales, les distributions opérées conformément aux
-articles 11 bis, 18 et 19 vicies de la loi du 10 septembre 1947 portant statut de la coopération, les mises en réserve et les
-affectations au financement de projets d'économie locale et sociale. Les sommes mises en réserve doivent représenter au
-minimum le tiers des sommes disponibles telles que définies au présent article. Cette proportion peut toutefois être
-augmentée sur décision de la Caisse nationale des caisses d'épargne et de prévoyance, au vu de la situation financière de la
-caisse d'épargne et de prévoyance dont il s'agit.
-
-Les sommes affectées au financement des projets d'économie locale et sociale ne peuvent excéder, pour chaque caisse d'épargne
-et de prévoyance, le montant total de l'intérêt servi aux parts sociales et des distributions effectuées conformément aux
-articles 11 bis, 18 et 19 vicies de la loi n° 47-1775 du 10 septembre 1947 susmentionnée, ni être inférieures au tiers des
-sommes disponibles après la mise en réserve.
-
-La rémunération des titres visés aux titres II quater et II quinquies de la loi n° 47-1775 du 10 septembre 1947 précitée
-n'est pas retenue pour le calcul du montant total des sommes affectées au financement des projets d'économie locale et
-sociale visé à l'alinéa précédent lorsque ces titres sont détenus directement ou indirectement par la Caisse nationale des
-caisses d'épargne et de prévoyance ou par une caisse d'épargne ou de prévoyance.
-
-Les missions définies à l'article L. 512-85 ainsi que les projets d'économie locale et sociale doivent présenter à la fois un
-intérêt en termes de développement local ou d'aménagement du territoire ou de protection de l'environnement et un intérêt en
-termes de développement social ou d'emploi. Chaque caisse d'épargne et de prévoyance tient compte des orientations définies
-par la fédération nationale des caisses d'épargne et de prévoyance pour le choix des projets d'économie locale et sociale sur
-son ressort territorial ou pour apporter sa contribution à des actions régionales ou nationales entreprises par le réseau.
-Les projets d'économie locale et sociale financés par les caisses d'épargne et de prévoyance font l'objet d'une annexe
-détaillée au rapport annuel de la Caisse nationale des caisses d'épargne et de prévoyance.
-
-**Liens relatifs à cet article**
+	  - Loi n°2008-776 du 4 août 2008 - art. 149
 
 	**Cite**:
 
-	  - Loi n°47-1775 du 10 septembre 1947
-	  - Loi n°47-1775 du 10 septembre 1947 - art. 18
-	  - Code monétaire et financier
-
-	**Anciens textes**:
-
-	  - Loi n°99-532 du 25 juin 1999 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 61 () JORF 7 mai 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 147
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L512-85 (V)
+	  - Code monétaire et financier - art. L613-21 (V)
 
 
 ##### Sous-section 4 : Les sociétés locales d'épargne
@@ -33988,33 +33996,38 @@ détaillée au rapport annuel de la Caisse nationale des caisses d'épargne et d
 ###### Article L512-92
 
 Les sociétés locales d'épargne sont des sociétés coopératives, soumises aux dispositions de la loi n° 47-1775 du 10 septembre
-1947 portant statut de la coopération sous réserve des dispositions de la présente section.
+1947 portant statut de la coopération sous réserve des dispositions de la présente section. 
 
-Elles contribuent à l'élaboration, dans le cadre des missions d'intérêt général qui leur sont confiées, des orientations
-générales de la caisse d'épargne et de prévoyance à laquelle elles sont affiliées. Elles ont également pour objet, dans le
-cadre de ces orientations générales, de favoriser la détention la plus large du capital de cette caisse d'épargne et de
-prévoyance en animant le sociétariat.
+Elles contribuent à l'élaboration des orientations générales de la caisse d'épargne et de prévoyance à laquelle elles sont
+affiliées. Elles ont également pour objet, dans le cadre de ces orientations générales, de favoriser la détention la plus
+large du capital de cette caisse d'épargne et de prévoyance en animant le sociétariat. 
 
 Pour faciliter cette détention, les sociétés locales d'épargne sont habilitées à proposer aux sociétaires définis à l'article
-L. 512-93 une première part sociale à un prix préférentiel.
+L. 512-93 une première part sociale à un prix préférentiel. 
 
 Les sociétés locales d'épargne ne peuvent faire d'opérations de banque. Elles sont dispensées de l'immatriculation au
 registre du commerce et des sociétés. Elles sont affiliées à la caisse d'épargne et de prévoyance dans la circonscription
-territoriale de laquelle elles exercent leur activité.
+territoriale de laquelle elles exercent leur activité. 
 
 Le niveau de la rémunération des parts sociales détenues par les sociétaires des sociétés locales d'épargne est fixé par
-l'assemblée générale de la caisse d'épargne et de prévoyance à laquelle ces sociétés locales d'épargne sont affiliées.
+l'assemblée générale de la caisse d'épargne et de prévoyance à laquelle ces sociétés locales d'épargne sont affiliées. 
 
 La création d'une société locale d'épargne doit être préalablement approuvée par la caisse d'épargne et de prévoyance à
 laquelle la société locale d'épargne est affiliée, ainsi que par la Caisse nationale des caisses d'épargne et de prévoyance.
 
 L'ensemble des sociétés locales d'épargne affiliées à chaque caisse d'épargne et de prévoyance constitue une seule entité
-pour l'application de l'article 145 du code général des impôts.
+pour l'application de l'article 145 du code général des impôts. 
 
 Les dispositions de l'article 16 de la loi n° 47-1775 du 10 septembre 1947 précitée ne s'appliquent pas aux sociétés locales
 d'épargne.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 du 10 septembre 1947
+	  - Code général des impôts, CGI. - art. 145
+	  - Code monétaire et financier - art. L512-93
 
 	**Anciens textes**:
 
@@ -34022,13 +34035,11 @@ d'épargne.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 29 () JORF 12 décembre 2001
+	  - Loi n°2008-776 du 4 août 2008 - art. 147
 
 	**Cité par**:
 
@@ -34040,21 +34051,29 @@ d'épargne.
 
 ###### Article L512-93
 
-Peuvent être sociétaires d'une société locale d'épargne, dans les conditions prévues par les statuts, les personnes physiques
-ou personnes morales ayant effectué avec la caisse d'épargne et de prévoyance une des opérations prévues aux articles L.
-311-1, L. 311-2, L. 511-2 et L. 511-3, les salariés de cette caisse d'épargne et de prévoyance, les collectivités
-territoriales et, dans les conditions définies par l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947 portant statut
-de la coopération, les autres personnes physiques ou personnes morales mentionnées à cet article. Les collectivités
-territoriales ne peuvent toutefois pas détenir ensemble plus de 20 % du capital de chacune des sociétés locales d'épargne.
+Peuvent être sociétaires d'une société locale d'épargne, les établissements publics de coopération intercommunale à fiscalité
+propre ainsi que, dans les conditions prévues par les statuts, les personnes physiques ou personnes morales ayant effectué
+avec la caisse d'épargne et de prévoyance une des opérations prévues aux articles L. 311-1, L. 311-2, L. 511-2 et L. 511-3,
+les salariés de cette caisse d'épargne et de prévoyance, les collectivités territoriales et, dans les conditions définies par
+l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, les autres personnes physiques ou
+personnes morales mentionnées à cet article. Les collectivités territoriales et les établissements publics de coopération
+intercommunale ne peuvent toutefois pas détenir ensemble plus de 20 % du capital de chacune des sociétés locales d'épargne. 
 
 Tout sociétaire d'une société locale d'épargne désirant liquider tout ou partie de ses parts sociales dans le cadre des
 dispositions de l'article 18 de la loi n° 47-1775 du 10 septembre 1947 susmentionnée ne peut les revendre qu'à leur valeur
-nominale à la société locale d'épargne dont il relève.
+nominale à la société locale d'épargne dont il relève. 
 
 Chaque société locale d'épargne ne peut revendre qu'à leur valeur nominale les parts sociales qui lui sont cédées par les
 sociétaires.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 18 (V)
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 3 bis (V)
+	  - Code monétaire et financier - art. L311-1
+	  - Code monétaire et financier - art. L511-2
 
 	**Anciens textes**:
 
@@ -34062,9 +34081,11 @@ sociétaires.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 148
 
 	**Cité par**:
 
@@ -34083,17 +34104,12 @@ ensemble au moins la majorité absolue du capital et des droits de vote. Elle es
 autorisée à fournir les services d'investissement prévus aux articles L. 321-1 et L. 321-2.
 
 Le conseil de surveillance de la Caisse nationale des caisses d'épargne et de prévoyance comprend notamment des membres élus
-par les salariés du réseau des caisses d'épargne dans les conditions prévues par ses statuts. La nomination du président du
-directoire de la Caisse nationale des caisses d'épargne et de prévoyance est soumise à un agrément du ministre chargé de
-l'économie.
+par les salariés du réseau des caisses d'épargne dans les conditions prévues par ses statuts.
 
-I. - (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29
+I.-(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29
 décembre 2003.) 
 
-II. - La commission de surveillance de la Caisse des dépôts et consignations est saisie pour avis préalablement à toute
-opération portant sur le capital de la Caisse nationale des caisses d'épargne et de prévoyance et affectant la participation
-de la Caisse des dépôts et consignations. Elle en informe les commissions chargées des finances de l'Assemblée nationale et
-du Sénat.
+II.-Abrogé.
 
 **Liens relatifs à cet article**
 
@@ -34103,9 +34119,7 @@ du Sénat.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -34114,46 +34128,54 @@ du Sénat.
 
 	**Modifié par**:
 
-	  - Loi - art. 100 () JORF 31 décembre 2003
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2009-715 du 18 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-57
+	  - Code de commerce - art. L321-1
 
 
 ###### Article L512-95
 
-I. - La Caisse nationale des caisses d'épargne et de prévoyance est l'organe central du réseau des caisses d'épargne. Elle
+I.-La Caisse nationale des caisses d'épargne et de prévoyance est l'organe central du réseau des caisses d'épargne. Elle
 propose à l'agrément du comité des établissements de crédit et des entreprises d'investissement la création des caisses
-d'épargne et de prévoyance. Elle est de plus chargée :
+d'épargne et de prévoyance. Elle est de plus chargée : 
 
 1. De représenter le réseau des caisses d'épargne, y compris en qualité d'employeur, pour faire valoir ses droits et intérêts
-communs ;
+communs ; 
 
-2. De négocier et de conclure, au nom du réseau des caisses d'épargne, les accords nationaux et internationaux ;
+2. De négocier et de conclure, au nom du réseau des caisses d'épargne, les accords nationaux et internationaux ; 
 
-3. D'établir les statuts types des caisses d'épargne et de prévoyance et des sociétés locales d'épargne ;
+3.D'établir les statuts types des caisses d'épargne et de prévoyance et des sociétés locales d'épargne ; 
 
 4. De créer ou d'acquérir toute société ou tout organisme utile au développement des activités du réseau des caisses
-d'épargne et d'en assurer le contrôle, ou de prendre des participations dans de tels sociétés ou organismes ;
+d'épargne et d'en assurer le contrôle, ou de prendre des participations dans de tels sociétés ou organismes ; 
 
 5. De prendre toute disposition administrative, financière et technique sur l'organisation et la gestion des caisses
-d'épargne et de prévoyance, leurs filiales et organismes communs, notamment en ce qui concerne les moyens informatiques ;
+d'épargne et de prévoyance, leurs filiales et organismes communs, notamment en ce qui concerne les moyens informatiques ; 
 
 6. De prendre toute mesure visant à la création de nouvelles caisses d'épargne et de prévoyance ou à la suppression de
-caisses d'épargne et de prévoyance existantes, soit par voie de liquidation amiable, soit par voie de fusion ;
+caisses d'épargne et de prévoyance existantes, soit par voie de liquidation amiable, soit par voie de fusion ; 
 
-7. De définir les produits et services offerts à la clientèle et de coordonner la politique commerciale ;
+7. De définir les produits et services offerts à la clientèle et de coordonner la politique commerciale ; 
 
-8. D'assurer la centralisation des excédents de ressources des caisses d'épargne et de prévoyance ;
+8.D'assurer la centralisation des excédents de ressources des caisses d'épargne et de prévoyance ; 
 
 9. De réaliser toutes les opérations financières utiles au développement et au refinancement du réseau, notamment en ce qui
-concerne la gestion de sa liquidité et son exposition aux risques de marché ;
+concerne la gestion de sa liquidité et son exposition aux risques de marché ; 
 
 10. De prendre toute mesure utile à l'organisation, au bon fonctionnement et au développement du réseau des caisses
 d'épargne, et d'appeler les cotisations nécessaires à l'accomplissement de ses missions d'organe central du réseau des
-caisses d'épargne ;
+caisses d'épargne ; 
 
-11. De veiller à l'application, par les caisses d'épargne et de prévoyance, des missions d'intérêt général énoncées à
-l'article L. 512-85.
+11. De veiller à l'application, par les caisses d'épargne et de prévoyance, des missions énoncées à l'article L. 512-85. 
 
-II. - Les caisses d'épargne et de prévoyance sont affiliées de plein droit à la Caisse nationale des caisses d'épargne et de
+II.-Les caisses d'épargne et de prévoyance sont affiliées de plein droit à la Caisse nationale des caisses d'épargne et de
 prévoyance. Un décret en Conseil d'Etat détermine les cas et conditions dans lesquels les établissements de crédit contrôlés
 par les caisses d'épargne et de prévoyance ou les établissements dont l'activité est nécessaire au fonctionnement du réseau
 des caisses d'épargne peuvent être affiliés à la Caisse nationale des caisses d'épargne et de prévoyance en vue de l'exercice
@@ -34167,13 +34189,20 @@ par celle-ci des missions définies à l'article L. 511-31.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 62 () JORF 7 mai 2005
+	  - Loi n°2008-776 du 4 août 2008 - art. 147
+
+	**Abrogé par**:
+
+	  - Loi n°2009-715 du 18 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-31
+	  - Code monétaire et financier - art. L512-85
 
 	**Cité par**:
 
@@ -34277,32 +34306,32 @@ directoire ou conseil d'orientation et de surveillance.
 
 La Fédération nationale des caisses d'épargne et de prévoyance est constituée selon les modalités prévues par la loi du 1er
 juillet 1901 relative au contrat d'association. Elle regroupe l'ensemble des caisses d'épargne et de prévoyance représentées
-par deux membres de leur conseil d'orientation et de surveillance, dont le président, et par le président de leur directoire.
+par trois membres de leur conseil d'orientation et de surveillance, dont le président, et par deux membres de leur
+directoire, dont le président. . 
 
-La Fédération nationale des caisses d'épargne et de prévoyance est chargée :
+La Fédération nationale des caisses d'épargne et de prévoyance est chargée : 
 
 1. De coordonner les relations des caisses d'épargne et de prévoyance avec le sociétariat et représenter leurs intérêts
-communs, notamment auprès des pouvoir publics ;
+communs, notamment auprès des pouvoir publics ; 
 
-2. De participer à la définition des orientations stratégiques du réseau ;
+2. De participer à la définition des orientations stratégiques du réseau ; 
 
-3. De définir les orientations nationales de financement par les caisses d'épargne et de prévoyance des projets d'économie
-locale et sociale et des missions d'intérêt général telles que définies à l'article L. 512-85 ;
+3. De définir, coordonner et promouvoir les actions de responsabilité sociétale des caisses d'épargne et de prévoyance en
+cohérence avec les orientations commerciales et financières de la Caisse nationale des caisses d'épargne et de prévoyance ; 
 
 4. De contribuer à la définition, par la Caisse nationale des caisses d'épargne et de prévoyance, des orientations nationales
-en matière de relations sociales dans le réseau ;
+en matière de relations sociales dans le réseau ; 
 
-5. D'organiser, en liaison avec la Caisse nationale des caisses d'épargne et de prévoyance, la formation des dirigeants et
-des sociétaires par l'organisation régulière de séances d'information gratuites dans le domaine économique entendu au sens
-large ;
+5.D'organiser, en liaison avec la Caisse nationale des caisses d'épargne et de prévoyance, la formation des dirigeants et des
+sociétaires par l'organisation régulière de séances d'information gratuites dans le domaine économique entendu au sens
+large ; 
 
-6. De veiller au respect des règles déontologiques au sein du réseau des caisses d'épargne ;
+6. De veiller au respect des règles déontologiques au sein du réseau des caisses d'épargne ; 
 
-7. De contribuer à l'implication du réseau des caisses d'épargne français au sein des établissements européens de même
-nature.
+7. De contribuer à la coopération des caisses d'épargne françaises avec des établissements étrangers de même nature. 
 
 La Fédération nationale des caisses d'épargne et de prévoyance est consultée par la Caisse nationale des caisses d'épargne et
-de prévoyance sur tout projet de réforme concernant les caisses d'épargne et de prévoyance.
+de prévoyance sur tout projet de réforme concernant les caisses d'épargne et de prévoyance. 
 
 La Fédération nationale des caisses d'épargne et de prévoyance appelle, pour le financement de son budget de fonctionnement,
 des cotisations auprès des caisses d'épargne et de prévoyance.
@@ -34315,29 +34344,12 @@ des cotisations auprès des caisses d'épargne et de prévoyance.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-
-###### Article L512-100
-
-Les caisses d'épargne peuvent, dans les formes et selon les règles prescrites pour les établissements d'utilité publique,
-recevoir les dons et legs qui seraient faits en leur faveur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2008-776 du 4 août 2008 - art. 147
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 57 (Ab)
+	  - Loi n°2008-776 du 4 août 2008 - art. 148
 
 
 ##### Sous-section 7 : Fonds de réserve et de garantie.
@@ -35005,31 +35017,32 @@ Les modalités d'application de la présente section sont fixées par décret en
 
 ###### Article L515-13
 
-I. - Les sociétés de crédit foncier sont des établissements de crédit, agréés en qualité de société financière par le comité
-des établissements de crédit et des entreprises d'investissement, qui ont pour objet exclusif :
+I.-Les sociétés de crédit foncier sont des établissements de crédit, agréés en qualité de société financière par le comité
+des établissements de crédit et des entreprises d'investissement, qui ont pour objet exclusif : 
 
 1. De consentir ou d'acquérir des prêts garantis, des expositions sur des personnes publiques et des titres et valeurs tels
-que définis aux articles L. 515-14 à L. 515-17 ;
+que définis aux articles L. 515-14 à L. 515-17 ; 
 
 2. Pour le financement de ces catégories de prêts, d'expositions, de titres et valeurs, d'émettre des obligations appelées
 obligations foncières bénéficiant du privilège défini à l'article L. 515-19 et de recueillir d'autres ressources, dont le
-contrat d'émission ou de souscription mentionne ce privilège.
+contrat d'émission ou de souscription mentionne ce privilège. 
 
-II. - Les sociétés de crédit foncier peuvent également assurer le financement des activités mentionnées ci-dessus par
+II.-Les sociétés de crédit foncier peuvent également assurer le financement des activités mentionnées ci-dessus par
 l'émission d'emprunts ou de ressources ne bénéficiant pas de ce privilège. Elles ne peuvent émettre de billets à ordre
-mentionnés aux articles L. 313-42 à L. 313-48.
+mentionnés aux articles L. 313-42 à L. 313-48. 
 
-III. - Nonobstant toutes dispositions ou stipulations contraires, les sociétés de crédit foncier peuvent mobiliser,
+III.-Nonobstant toutes dispositions ou stipulations contraires, les sociétés de crédit foncier peuvent mobiliser,
 conformément aux articles L. 313-23 à L. 313-34, l'ensemble des créances qu'elles détiennent, quelle que soit la nature,
 professionnelle ou non, de ces créances. Dans ce cas, les énonciations figurant au bordereau mentionné à l'article L. 313-23
 sont déterminées par décret. Les sociétés de crédit foncier peuvent également procéder à des cessions temporaires de leurs
-titres dans les conditions fixées aux articles L. 432-6 à L. 432-19. Les créances ou titres ainsi mobilisés ou cédés ne sont
-pas comptabilisés par ces sociétés au titre de l'article L. 515-20.
+titres dans les conditions fixées aux articles L. 432-6 à L. 432-19 et recourir à la constitution en gage d'un compte
+d'instruments financiers définie à l'article L. 431-4. Les créances ou titres ainsi mobilisés ou cédés ne sont pas
+comptabilisés par ces sociétés au titre de l'article L. 515-20. 
 
-IV. - Les sociétés de crédit foncier peuvent acquérir et posséder tous biens immeubles ou meubles nécessaires à
+IV.-Les sociétés de crédit foncier peuvent acquérir et posséder tous biens immeubles ou meubles nécessaires à
 l'accomplissement de leur objet ou provenant du recouvrement de leurs créances.
 
-V. - Les sociétés de crédit foncier ne peuvent détenir de participations.
+V.-Les sociétés de crédit foncier ne peuvent détenir de participations.
 
 **Liens relatifs à cet article**
 
@@ -35066,13 +35079,19 @@ V. - Les sociétés de crédit foncier ne peuvent détenir de participations.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 157
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L313-23
+	  - Code monétaire et financier - art. L313-42
+	  - Code monétaire et financier - art. L431-4 (V)
+	  - Code monétaire et financier - art. L432-6
+	  - Code monétaire et financier - art. L515-20
 
 
 ##### Sous-section 2 : Opérations
@@ -35149,46 +35168,49 @@ quels cas il doit être recouru à une expertise.
 
 ###### Article L515-15
 
-I. - Les expositions sur des personnes publiques mentionnées à l'article L. 515-13 sont des éléments d'actif, tels que des
-prêts, ou des engagements hors bilan sur les personnes énumérées ci-après ou totalement garanties par elles :
+I.-Les expositions sur des personnes publiques mentionnées à l'article L. 515-13 sont des éléments d'actif, tels que des
+prêts, ou des engagements hors bilan sur les personnes énumérées ci-après ou totalement garanties par elles : 
 
 1. Administrations centrales, banques centrales, établissements publics, collectivités territoriales ou leurs groupements,
-d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ;
+d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen, des Etats-Unis
+d'Amérique, de la Suisse, du Japon, du Canada, de l'Australie ou de la Nouvelle-Zélande ; 
 
 2. Administrations centrales ou banques centrales d'Etats non membres de la Communauté européenne ni parties à l'accord sur
-l'Espace économique européen et bénéficiant du meilleur échelon de qualité de crédit établi par un organisme externe
-d'évaluation de crédit reconnu par la Commission bancaire conformément à l'article L. 511-44 ;
+l'Espace économique européen, à l'exclusion des Etats-Unis d'Amérique, de la Suisse, du Japon, du Canada, de l'Australie ou
+de la Nouvelle-Zélande, et bénéficiant du meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation
+de crédit reconnu par la Commission bancaire conformément à l'article L. 511-44 ; 
 
 3. Communauté européenne, Fonds monétaire international, Banque des règlements internationaux, banques multilatérales de
 développement dont la liste est établie par arrêté du ministre chargé de l'économie ; autres organisations internationales et
 banques multilatérales de développement bénéficiant du meilleur échelon de qualité de crédit établi par un organisme externe
-d'évaluation de crédit reconnu par la Commission bancaire conformément à l'article L. 511-44 ;
+d'évaluation de crédit reconnu par la Commission bancaire conformément à l'article L. 511-44 ; 
 
 4. Etablissements publics et collectivités territoriales ou leurs groupements relevant d'Etats non membres de la Communauté
-européenne ni parties à l'accord sur l'Espace économique européen lorsque les expositions sur ces personnes sont assorties,
-pour la détermination des exigences de fonds propres, de la même pondération que celle des créances accordées à des
-administrations centrales, des banques centrales ou des établissements de crédit, ou totalement garanties par ces mêmes
-personnes, et qu'elles bénéficient du meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de
-crédit reconnu par la Commission bancaire conformément à l'article L. 511-44 ;
+européenne ni parties à l'accord sur l'Espace économique européen, à l'exclusion des Etats-Unis d'Amérique, de la Suisse, du
+Japon, du Canada, de l'Australie ou de la Nouvelle-Zélande, lorsque les expositions sur ces personnes sont assorties, pour la
+détermination des exigences de fonds propres, de la même pondération que celle des créances accordées à des administrations
+centrales, des banques centrales ou des établissements de crédit, ou totalement garanties par ces mêmes personnes, et
+qu'elles bénéficient du meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu
+par la Commission bancaire conformément à l'article L. 511-44 ; 
 
 5. Etablissements publics et collectivités territoriales ou groupements mentionnés au 4 ci-dessus bénéficiant du deuxième
 meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu par la Commission
-bancaire conformément à l'article L. 511-44.
+bancaire conformément à l'article L. 511-44. 
 
-II. - Les expositions sur des personnes publiques comprennent notamment :
+II.-Les expositions sur des personnes publiques comprennent notamment : 
 
-1. Les titres de créances émis, ou totalement garantis, par l'une des personnes publiques mentionnées aux 1 à 5 du I ;
+1. Les titres de créances émis, ou totalement garantis, par l'une des personnes publiques mentionnées aux 1 à 5 du I ; 
 
 2. Les créances de sommes d'argent, y compris celles résultant d'un contrat à exécution successive, sur des personnes
-publiques mentionnées aux 1 à 5 du I ou totalement garanties par une ou plusieurs de ces personnes publiques ;
+publiques mentionnées aux 1 à 5 du I ou totalement garanties par une ou plusieurs de ces personnes publiques ; 
 
-3. Les créances nées de contrats de crédit-bail ou contrats équivalents auxquels des personnes publiques françaises
-mentionnées aux 1 à 5 du I sont parties en qualité de crédit-preneur ou les créances nées de contrats de crédit-bail ou
-contrats équivalents totalement garanties par une ou plusieurs de ces personnes publiques. Les sociétés de crédit foncier
-acquérant les créances résultant d'un contrat de crédit-bail peuvent également acquérir tout ou partie de la créance qui
-résultera de la vente du bien loué.
+3. Les créances nées de contrats de crédit-bail ou contrats équivalents auxquels des personnes publiques mentionnées aux 1 à
+5 du I sont parties en qualité de crédit-preneur ou locataire, ou les créances nées de contrats de crédit-bail ou contrats
+équivalents totalement garanties par une ou plusieurs de ces personnes publiques. Les sociétés de crédit foncier acquérant
+les créances résultant d'un contrat de crédit-bail peuvent également acquérir tout ou partie de la créance qui résultera de
+la vente du bien loué. 
 
-III. - Un décret en Conseil d'Etat précise les modalités et, le cas échéant, les limites de prise en compte des expositions
+III.-Un décret en Conseil d'Etat précise les modalités et, le cas échéant, les limites de prise en compte des expositions
 mentionnées au I assorties d'une condition d'évaluation de crédit par un organisme externe d'évaluation de crédit reconnu par
 la Commission bancaire conformément à l'article L. 511-44.
 
@@ -35200,13 +35222,11 @@ la Commission bancaire conformément à l'article L. 511-44.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 158
 
 	**Cité par**:
 
@@ -35221,13 +35241,19 @@ la Commission bancaire conformément à l'article L. 511-44.
 	  - Code monétaire et financier - art. R515-5 (T)
 	  - Code monétaire et financier - art. R515-6-1 (Ab)
 
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-44
+	  - Code monétaire et financier - art. L515-13
+
 
 ###### Article L515-16
 
 Dans les conditions fixées par décret en Conseil d'Etat, sont assimilés aux prêts et expositions mentionnés aux articles L.
 515-14 et L. 515-15 les parts et titres de créances émis par des organismes de titrisation ainsi que les parts ou titres de
 créances émis par des entités similaires soumises au droit d'un Etat membre de la Communauté européenne ou partie à l'accord
-sur l'Espace économique européen, dès lors que les conditions suivantes sont respectées : 
+sur l'Espace économique européen, des Etats Unis d'Amérique, de la Suisse, du Japon, du Canada, de l'Australie ou de la
+Nouvelle-Zélande, dès lors que les conditions suivantes sont respectées : 
 
 1.L'actif de ces organismes de titrisation ou entités similaires est composé, à l'exclusion des sommes momentanément
 disponibles et en instance d'affectation, des garanties, sûretés ou autres privilèges dont ils bénéficient ainsi que des
@@ -35238,7 +35264,11 @@ de garanties équivalentes à celles des prêts et expositions mentionnés aux a
 des parts spécifiques ou titres de créances supportant le risque de défaillance des débiteurs de créances ; 
 
 2. Ces parts ou titres bénéficient du meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation
-reconnu par la Commission bancaire conformément à l'article L. 511-44.
+reconnu par la Commission bancaire conformément à l'article L. 511-44 ;
+
+3. Ces entités similaires doivent être soumises au droit d'un Etat membre de la Communauté européenne ou partie à l'accord
+sur l'Espace économique européen dès lors que l'actif est constitué pour tout ou partie de prêts ou expositions mentionnés à
+l'article L. 515-14.
 
 **Liens relatifs à cet article**
 
@@ -35260,7 +35290,12 @@ reconnu par la Commission bancaire conformément à l'article L. 511-44.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+	  - Loi n°2008-776 du 4 août 2008 - art. 158
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-44
+	  - Code monétaire et financier - art. L515-14
 
 
 ###### Article L515-16-1
@@ -35746,25 +35781,35 @@ articles L. 613-18 et L. 613-22, les dispositions de l'article L. 613-25 sont ap
 
 ###### Article L515-27
 
-Nonobstant toutes dispositions contraires, et notamment des titres III et IV du livre VI du code de commerce, la sauvegarde,
-le redressement ou la liquidation judiciaires d'une société détenant des actions d'une société de crédit foncier ne peut être
-étendue à la société de crédit foncier.
+Nonobstant toutes dispositions contraires, et notamment des titres II à IV du livre VI du code de commerce, la procédure de
+sauvegarde, de redressement ou de liquidation judiciaires d'une société détenant des actions d'une société de crédit foncier
+ne peut être étendue à la société de crédit foncier.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Anciens textes**:
 
 	  - Loi n°99-532 du 25 juin 1999 - art. 103 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 78
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L513-20 (VD)
 
 	**Cité par**:
 
@@ -35773,27 +35818,41 @@ le redressement ou la liquidation judiciaires d'une société détenant des acti
 
 ###### Article L515-28
 
-En cas de sauvegarde, de redressement ou de liquidation judiciaires d'une société chargée de la gestion ou du recouvrement,
-pour le compte d'une société de crédit foncier, des prêts, expositions, créances assimilées, titres et valeurs, des
-obligations ou des autres ressources prévus à l'article L. 515-13, les contrats qui prévoient cette gestion ou ce
-recouvrement peuvent être immédiatement résiliés, nonobstant toutes dispositions contraires et notamment celles des titres
-III et IV du livre VI du code de commerce.
+En cas de procédure de sauvegarde, de redressement ou de liquidation judiciaires d'une société chargée de la gestion ou du
+recouvrement, pour le compte d'une société de crédit foncier, des prêts, expositions, créances assimilées, titres et valeurs,
+des obligations ou des autres ressources prévus à l'article L. 515-13, les contrats qui prévoient cette gestion ou ce
+recouvrement peuvent être immédiatement résiliés, nonobstant toutes dispositions contraires et notamment celles des titres II
+à IV du livre VI du code de commerce.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Anciens textes**:
 
 	  - Loi n°99-532 du 25 juin 1999 - art. 104 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Ordonnance n°2007-571 du 19 avril 2007 - art. 2 () JORF 20 avril 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 78
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L513-21 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L515-13
 
 
 ##### Sous-section 6 : Contrôles
@@ -36567,34 +36626,14 @@ Ne sont pas soumis aux dispositions des chapitres Ier à VII du présent titre :
 Poste, dans les conditions définies à l'article L. 518-25, l'institut d'émission des départements d'outre-mer, l'institut
 d'émission d'outre-mer et la Caisse des dépôts et consignations. 
 
-La Caisse des dépôts et consignations et ses filiales constituent un groupe public au service de l'intérêt général et du
-développement économique du pays. Ce groupe remplit des missions d'intérêt général en appui des politiques publiques
-conduites par l'Etat et les collectivités locales et peut exercer des activités concurrentielles. 
-
-Dans ce cadre, la Caisse des dépôts et consignations est plus particulièrement chargée de la gestion des dépôts réglementés
-et des consignations, de la protection de l'épargne populaire, du financement du logement social et de la gestion
-d'organismes de retraite. Elle contribue également au développement économique local et national, particulièrement dans les
-domaines de l'emploi, de la politique de la ville, de la lutte contre l'exclusion bancaire et financière, de la création
-d'entreprise et du développement durable. 
-
 Ces institutions et services peuvent effectuer les opérations de banque prévues par les dispositions législatives et
 réglementaires qui les régissent. 
 
-Les arrêtés du ministre chargé de l'économie pris en application des articles L. 611-1, L. 611-3, L. 611-4 ainsi que les
-règlements du comité de la réglementation comptable peuvent, sous réserve des adaptations nécessaires et dans des conditions
-fixées par décret en Conseil d'Etat, être étendus à La Poste, dans les conditions définies à l'article L. 518-25, à la caisse
-des dépôts et consignations et aux comptables du Trésor.
-
-**Nota:**
-
-Loi 2005-516 2005-05-20 art. 16 V : 
-
-1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
-juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
-dispositions. 
-
-2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
-2005 fixe la date de transfert prévu au 31 décembre 2005.
+Les arrêtés du ministre chargé de l'économie pris en application des articles L. 611-1, 
+L. 611-3, 
+L. 611-4 ainsi que les règlements du comité de la réglementation comptable peuvent, sous réserve des adaptations nécessaires
+et dans des conditions fixées par décret en Conseil d'Etat, être étendus à La Poste, dans les conditions définies à l'article
+L. 518-25, et aux comptables du Trésor.
 
 **Liens relatifs à cet article**
 
@@ -36700,16 +36739,33 @@ dispositions.
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-25
+	  - Code monétaire et financier - art. L611-1
+	  - Code monétaire et financier - art. L611-3
+	  - Code monétaire et financier - art. L611-4
 
 
 ##### Section 2 : La Caisse des dépôts et consignations
 
 ###### Article L518-2
 
+La Caisse des dépôts et consignations et ses filiales constituent un groupe public au service de l'intérêt général et du
+développement économique du pays. Ce groupe remplit des missions d'intérêt général en appui des politiques publiques
+conduites par l'Etat et les collectivités territoriales et peut exercer des activités concurrentielles. 
+
 La Caisse des dépôts et consignations est un établissement spécial chargé d'administrer les dépôts et les consignations,
-d'assurer les services relatifs aux caisses ou aux fonds dont la gestion lui a été confiée, et d'exercer les autres
-attributions de même nature qui lui sont légalement déléguées.
+d'assurer les services relatifs aux caisses ou aux fonds dont la gestion lui a été confiée et d'exercer les autres
+attributions de même nature qui lui sont légalement déléguées. Elle est chargée de la protection de l'épargne populaire, du
+financement du logement social et de la gestion d'organismes de retraite. Elle contribue également au développement
+économique local et national, particulièrement dans les domaines de l'emploi, de la politique de la ville, de la lutte contre
+l'exclusion bancaire et financière, de la création d'entreprise et du développement durable. 
+
+La Caisse des dépôts et consignations est un investisseur de long terme et contribue, dans le respect de ses intérêts
+patrimoniaux, au développement des entreprises. 
 
 La Caisse des dépôts et consignations est placée, de la manière la plus spéciale, sous la surveillance et la garantie de
 l'autorité législative.
@@ -36735,9 +36791,9 @@ Elle est organisée par décret en Conseil d'Etat, pris sur la proposition de la
 	  - Code de la construction et de l'habitation. - art. L301-5-1 (V)
 	  - Code de la construction et de l'habitation. - art. L301-5-2 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1816-04-28 Finances art. 110 al. 2, art. 111 al. 2, art. 115
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
 
 
 ###### Article L518-2-1
@@ -36790,25 +36846,26 @@ avec l'intervention du ministre chargé de l'économie, après avis de la commis
 
 ###### Article L518-4
 
-La commission de surveillance est composée :
+La commission de surveillance est composée : 
 
-1. De trois membres de l'Assemblée nationale, élus par cette assemblée ;
+1° De trois membres de la commission de l'Assemblée nationale chargée des finances, élus par cette assemblée, dont un au
+moins appartient à un groupe ayant déclaré ne pas soutenir le Gouvernement ; 
 
-2. D'un membre du Sénat, élu par cette assemblée ;
+2° De deux membres de la commission du Sénat chargée des finances, élus par cette assemblée ; 
 
-3. De deux membres du Conseil d'Etat ayant au moins le grade de conseiller d'Etat, désignés par ce conseil ;
+3° D'un membre du Conseil d'Etat, désigné par ce conseil ; 
 
-4. De deux membres de la Cour des comptes ayant au moins le grade de conseiller maître, désignés par cette cour ;
+4° De deux membres de la Cour des comptes, désignés par cette cour ; 
 
-5. Du gouverneur ou de l'un des sous-gouverneurs de la Banque de France, désigné par cette banque ;
+5° Du gouverneur ou de l'un des sous-gouverneurs de la Banque de France, désigné par cette banque ; 
 
-6. Du président ou de l'un des membres de la chambre de commerce de Paris, choisi par cette chambre ;
+6° Du directeur général du Trésor et de la politique économique au ministère chargé de l'économie, ou de son représentant ; 
 
-7. Du directeur du Trésor au ministère chargé de l'économie.
+7° De deux membres désignés, à raison de leurs compétences dans les domaines financier, comptable ou économique ou dans celui
+de la gestion, par le Président de l'Assemblée nationale ; 
 
-Le président du conseil de surveillance de la caisse nationale des caisses d'épargne et de prévoyance assiste avec voix
-délibérative à la commission de surveillance de la caisse des dépôts et consignations. Il doit être convoqué à toutes les
-séances où il est discuté de questions intéressant les caisses d'épargne.
+8° D'un membre désigné, à raison de ses compétences dans les domaines financier, comptable ou économique ou dans celui de la
+gestion, par le Président du Sénat.
 
 **Liens relatifs à cet article**
 
@@ -36821,6 +36878,10 @@ séances où il est discuté de questions intéressant les caisses d'épargne.
 	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
 	  - Code monétaire et financier - art. L561-36 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
+
 	**Anciens textes**:
 
 	  - Code des caisses d'épargne - art. 22 (Ab)
@@ -36828,89 +36889,110 @@ séances où il est discuté de questions intéressant les caisses d'épargne.
 
 ###### Article L518-5
 
-La commission de surveillance élit son président. Elle le choisit parmi ses membres.
+La commission de surveillance élit son président. Elle le choisit parmi les parlementaires qui la composent.
 
 En cas de partage des voix, la voix du président est prépondérante.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°1876-04-06 art. 3
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
 
 
 ###### Article L518-6
 
-Les nominations sont faites pour trois ans. Les membres sortants sont rééligibles. Leurs fonctions sont gratuites.
+Les nominations sont faites pour trois ans et publiées au Journal officiel. 
+
+La commission de surveillance détermine dans son règlement intérieur les modalités de prévention des conflits d'intérêts,
+notamment les déclarations d'intérêts que les membres doivent faire à son président.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1876-04-06 art. 4
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
 
 
 ##### Paragraphe 2 : Missions
 
 ###### Article L518-7
 
-La commission de surveillance est chargée de surveiller la Caisse des dépôts et consignations. Elle contrôle notamment la
-gestion du fonds de réserve et de garantie des caisses d'épargne et de prévoyance ; elle arrête les sommes à prélever dans
-les cas de perte prévus par décret en Conseil d'Etat. Il est rendu compte de ces opérations dans un chapitre spécial du
-rapport annuel présenté au Parlement par la commission de surveillance, conformément à l'article L. 518-10.
+La commission de surveillance est chargée de surveiller la Caisse des dépôts et consignations. Elle contrôle la gestion du
+fonds mentionné à l'article L. 221-7. Il est rendu compte de ces opérations dans un chapitre spécial du rapport annuel
+présenté au Parlement par la commission de surveillance, conformément à l'article L. 518-10. 
 
 La commission de surveillance est saisie préalablement, chaque année, du programme d'émission de titres de créance de la
-Caisse des dépôts et consignations. Elle fixe l'encours annuel maximal de ces titres de créance.
+Caisse des dépôts et consignations. Elle fixe l'encours annuel maximal de ces titres de créance. 
 
-**Nota:**
+La commission de surveillance est notamment saisie pour avis, au moins une fois par an, des points suivants : 
 
-Loi 2005-842 2005-07-26 art. 28 II : Une erreur matérielle s'est glissée lors de la rédaction de l'article 28 de la loi n°
-2005-842 : Lire code monétaire et financier et non code de commerce.
+1° Les orientations stratégiques de l'établissement public et de ses filiales ; 
+
+2° La mise en œuvre des missions d'intérêt général de la Caisse des dépôts et consignations ; 
+
+3° La définition de la stratégie d'investissement de l'établissement public et de ses filiales ; 
+
+4° La situation financière et la situation de trésorerie de l'établissement public ainsi que la politique du groupe en
+matière de contrôle interne ; 
+
+5° Les comptes sociaux et consolidés et leurs annexes, le périmètre et les méthodes de consolidation, les réponses aux
+observations des contrôleurs externes et l'examen des engagements hors bilan significatifs. 
+
+Les membres de la commission de surveillance vérifient, toutes les fois qu'ils le jugent utile, et au moins une fois par
+mois, l'état des caisses et la bonne tenue des écritures. 
+
+Le règlement intérieur de la commission de surveillance prévoit ses règles de fonctionnement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1862-05-31 art. 849
-	  - Décret n°1862-05-31 du 31 mai 1862 - art. 849 (Ab)
-	  - Code des caisses d'épargne - art. 53 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 28 () JORF 27 juillet 2005
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 18 () JORF 16 décembre 2005
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-7
+	  - Code monétaire et financier - art. L518-10
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L518-15-2 (V)
 
+	**Anciens textes**:
+
+	  - Décret n°1862-05-31 du 31 mai 1862 - art. 849 (Ab)
+
 
 ###### Article L518-8
 
-Tous les trois mois, les commissaires surveillants entendent le compte qui leur est rendu de la situation de la Caisse des
-dépôts et consignations. Ce compte est rendu public.
+La commission de surveillance dispose en son sein de comités spécialisés consultatifs, en particulier le comité d'examen des
+comptes et des risques, le comité des fonds d'épargne et le comité des investissements. 
 
-Ils vérifient, toutes les fois qu'ils le jugent utile, et au moins une fois par mois, l'état des caisses, la bonne tenue des
-écritures, et tous les détails administratifs.
+Elle en fixe les attributions et les règles de fonctionnement dans son règlement intérieur. 
+
+Le comité des investissements a pour mission de surveiller la mise en œuvre de la politique d'investissement de la Caisse des
+dépôts et consignations. Il est saisi préalablement des opérations qui conduisent la Caisse des dépôts et consignations à
+acquérir ou à céder les titres de capital ou donnant accès au capital d'une société au-delà des seuils définis dans le
+règlement intérieur de la commission de surveillance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
 
 
 ###### Article L518-9
@@ -36920,15 +37002,17 @@ La commission peut adresser au directeur général des observations qui ne sont 
 Le directeur général donne à la commission de surveillance tous les documents et renseignements qu'elle juge utiles pour
 l'exercice de sa surveillance.
 
+La commission de surveillance peut décider de rendre publics ses avis.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 1816-05-22 art. 10
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
 
 
 ##### Paragraphe 3 : Rapport au Parlement
@@ -36936,7 +37020,7 @@ l'exercice de sa surveillance.
 ###### Article L518-10
 
 Le rapport de la commission de surveillance sur la direction morale et sur la situation matérielle de l'établissement au
-cours de l'année expirée est adressé au Parlement avant le 2 juillet.
+cours de l'année expirée est adressé au Parlement avant le 30 juin.
 
 Ce rapport comprend notamment, pour l'année considérée, les procès-verbaux des séances de la commission, auxquels sont
 annexés les avis, motions ou résolutions qu'elle a votés, ainsi que le tableau des ressources et des emplois prévisionnels de
@@ -36948,13 +37032,13 @@ la section générale et des sections d'épargne qui est présenté à la commis
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
+
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L518-7 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1816-04-28 art. 114
 
 
 ##### Sous-section 2 : Administration de la Caisse des dépôts et consignations
@@ -37084,9 +37168,24 @@ Le contrôle sur la Caisse des dépôts et consignations par la Cour des comptes
 ###### Article L518-15-1
 
 Chaque année, la Caisse des dépôts et consignations présente aux commissions de l'Assemblée nationale et du Sénat chargées
-des finances ses comptes annuels et consolidés, certifiés par deux commissaires aux comptes. La commission de surveillance de
-la Caisse des dépôts et consignations désigne les commissaires aux comptes ainsi que leurs suppléants sur proposition du
-directeur général.
+des finances ses comptes annuels et consolidés, certifiés par deux commissaires aux comptes.  En cas de refus de
+certification, le rapport des commissaires aux comptes est joint aux comptes. La commission de surveillance de la Caisse des
+dépôts et consignations désigne les commissaires aux comptes ainsi que leurs suppléants sur proposition du directeur général.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
+
+
+##### Paragraphe 6 : Contrôle externe
+
+###### Article L518-15-2
+
+Un décret en Conseil d'Etat pris après avis de la commission de surveillance étend, sous réserve des adaptations nécessaires,
+à la Caisse des dépôts et consignations les règles prises en application de l'article L. 511-36, du premier alinéa de
+l'article L. 511-37 et des articles L. 511-40 et L. 511-41.
 
 **Liens relatifs à cet article**
 
@@ -37096,7 +37195,61 @@ directeur général.
 
 	**Créé par**:
 
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
+
+	**Cité par**:
+
+	  - Décret n°2010-411 du 27 avril 2010 (V)
+	  - Décret n°2016-1983 du 30 décembre 2016 (V)
+	  - Code monétaire et financier - art. L518-15-3 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-36
+	  - Code monétaire et financier - art. L511-37 (V)
+	  - Code monétaire et financier - art. L511-40 (V)
+
+
+###### Article L518-15-3
+
+La commission de surveillance confie, pour le contrôle des seules activités bancaires et financières, à la Commission
+bancaire l'examen, dans les conditions prévues aux articles L. 613-6 à L. 613-11 et L. 613-20, du respect par la Caisse des
+dépôts et consignations des dispositions mentionnées à l'article L. 518-15-2. 
+
+La commission de surveillance délibère sur les rapports de la Commission bancaire, qui peuvent être assortis de propositions
+de recommandation permettant de restaurer ou de renforcer la situation financière et, dans les domaines concernés,
+d'améliorer les méthodes de gestion ou d'assurer l'adéquation de l'organisation aux activités ou aux objectifs de
+développement de la Caisse des dépôts et consignations. La commission de surveillance peut adresser au directeur général de
+la Caisse des dépôts et consignations des mises en garde, des recommandations ou des injonctions qu'elle peut décider de
+rendre publiques. 
+
+Pour la mise en œuvre du présent article, les articles L. 571-4, 
+L. 613-20-1 et L. 613-20-2 sont applicables au groupe de la Caisse des dépôts et consignations et à ses dirigeants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
+
+	**Cité par**:
+
+	  - Décret n°2009-268 du 9 mars 2009 - art. 3 (V)
+	  - Décret n°2016-1983 du 30 décembre 2016 - art. 14 (VD)
+	  - Décret n°2016-1983 du 30 décembre 2016 - art. 16 (V)
+	  - Décret n°2016-1983 du 30 décembre 2016 - art. 7 (V)
+	  - Code monétaire et financier - art. R518-30-2 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-15-2
+	  - Code monétaire et financier - art. L571-4
+	  - Code monétaire et financier - art. L613-20-1
+	  - Code monétaire et financier - art. L613-6
 
 
 ##### Sous-section 3 : Affectation du résultat de la Caisse des dépôts et consignations
@@ -38284,6 +38437,63 @@ titre de laquelle elle a obtenu son agrément ou de créer une confusion sur ce 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L573-2 (V)
+
+
+##### Section 4 : Secret professionnel
+
+###### Article L531-12
+
+Tout membre d'un conseil d'administration et, selon le cas, d'un conseil de surveillance et toute personne qui à un titre
+quelconque participe à la direction ou à la gestion d'une entreprise d'investissement ou qui est employée par celle-ci est
+tenu au secret professionnel. 
+
+Outre les cas où la loi le prévoit, le secret professionnel ne peut être opposé ni à la Commission bancaire, ni à la Banque
+de France, ni à l'autorité judiciaire agissant dans le cadre d'une procédure pénale. 
+
+Les entreprises d'investissement peuvent par ailleurs communiquer des informations couvertes par le secret professionnel,
+d'une part, aux agences de notation pour les besoins de la notation des produits financiers et, d'autre part, aux personnes
+avec lesquelles elles négocient, concluent ou exécutent les opérations ci-après énoncées, dès lors que ces informations sont
+nécessaires à celles-ci : 
+
+1° Opérations de crédit effectuées, directement ou indirectement, par une ou plusieurs entreprises d'investissement ; 
+
+2° Opérations sur instruments financiers, de garanties ou d'assurance destinées à la couverture d'un risque de crédit ; 
+
+3° Prises de participation ou de contrôle dans un établissement de crédit ou une entreprise d'investissement ; 
+
+4° Cessions d'actifs ou de fonds de commerce ; 
+
+5° Cessions ou transferts de créances ou de contrats ; 
+
+6° Contrats de prestations de services conclus avec un tiers en vue de lui confier des fonctions opérationnelles
+importantes ; 
+
+7° Lors de l'étude ou l'élaboration de tout type de contrats ou d'opérations, dès lors que ces entités appartiennent au même
+groupe que l'auteur de la communication. 
+
+Outre les cas exposés ci-dessus, les entreprises d'investissement peuvent communiquer des informations couvertes par le
+secret professionnel au cas par cas et uniquement lorsque les personnes concernées leur ont expressément permis de le faire. 
+
+Les personnes recevant des informations couvertes par le secret professionnel, qui leur ont été fournies pour les besoins
+d'une des opérations ci-dessus énoncées, doivent les conserver confidentielles, que l'opération susvisée aboutisse ou non.
+Toutefois, dans l'hypothèse où l'opération susvisée aboutit, ces personnes peuvent à leur tour communiquer les informations
+couvertes par le secret professionnel dans les mêmes conditions que celles visées au présent article aux personnes avec
+lesquelles elles négocient, concluent ou exécutent les opérations énoncées ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 154
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L573-2-1 (V)
+	  - Code monétaire et financier - art. L711-2 (VD)
 
 
 #### Chapitre II : Conditions d'exercice de la profession
@@ -40112,26 +40322,30 @@ de portefeuille ayant leur siège social dans un Etat membre de l'Union europée
 l'Espace économique européen ou dans un Etat où sont applicables les accords prévus par l'article L. 632-16 sont tenues,
 nonobstant toutes dispositions contraires, de transmettre à des entreprises du même groupe les informations nécessaires à
 l'organisation de la lutte contre le blanchiment de capitaux et contre le financement du terrorisme. Les dispositions du
-quatrième alinéa de l'article L. 511-34 sont applicables à ces informations.
+sixième alinéa de l'article L. 511-34 sont applicables à ces informations.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°96-597 1996-07-02 art. 63 I
 	  - Loi n°96-597 du 2 juillet 1996 - art. 63 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 4 () JORF 19 octobre 2007 en vigueur le 1er novembre 2007
-
 	**Cité par**:
 
 	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 155
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-34
+	  - Code monétaire et financier - art. L632-16
 
 
 ###### Article L533-8
@@ -42143,20 +42357,22 @@ Ce décret fixera le montant minimum des opérations soumises à déclaration.
 Les personnes mentionnées au 12 de l'article L. 562-1 sont tenues de procéder à la déclaration prévue à l'article L. 562-2
 lorsque, dans le cadre de leur activité professionnelle, elles réalisent au nom et pour le compte de leur client toute
 transaction financière ou immobilière ou lorsqu'elles participent en assistant leur client à la préparation ou à la
-réalisation des transactions concernant :
+réalisation des transactions concernant : 
 
-1° L'achat et la vente de biens immeubles ou de fonds de commerce ;
+1° L'achat et la vente de biens immeubles ou de fonds de commerce ; 
 
-2° La gestion de fonds, titres ou autres actifs appartenant au client ;
+2° La gestion de fonds, titres ou autres actifs appartenant au client ; 
 
-3° L'ouverture de comptes bancaires, d'épargne ou de titres ;
+3° L'ouverture de comptes bancaires, d'épargne ou de titres ; 
 
-4° L'organisation des apports nécessaires à la création de sociétés ;
+4° L'organisation des apports nécessaires à la création de sociétés ; 
 
-5° La constitution, la gestion ou la direction des sociétés ;
+5° La constitution, la gestion ou la direction des sociétés ; 
 
 6° La constitution, la gestion ou la direction de fiducies régies par les articles 2011 à 2031 du code civil ou par un droit
-étranger ou de toute autre structure similaire.
+étranger ou de toute autre structure similaire ; 
+
+7° La constitution ou la gestion de fonds de dotation. 
 
 Les personnes mentionnées au 12 de l'article L. 562-1 dans l'exercice des activités relatives aux transactions visées ci-
 dessus et les experts-comptables lorsqu'ils effectuent des consultations juridiques conformément aux dispositions de
@@ -42167,14 +42383,14 @@ consultation juridique sauf si celle-ci est fournie aux fins de blanchiment de c
 sachant que leur client souhaite obtenir des conseils juridiques aux fins de blanchiment de capitaux, soit dans l'exercice de
 leur activité dans l'intérêt de ce client lorsque cette activité se rattache à une procédure juridictionnelle, que ces
 informations soient reçues ou obtenues avant, pendant ou après cette procédure, y compris dans le cadre de conseils relatifs
-à la manière d'engager ou d'éviter une telle procédure.
+à la manière d'engager ou d'éviter une telle procédure. 
 
 Par dérogation à l'article L. 562-2, l'avocat au Conseil d'Etat et à la Cour de cassation, l'avocat ou l'avoué près la cour
 d'appel communique la déclaration, selon le cas, au président de l'ordre des avocats au Conseil d'Etat et à la Cour de
 cassation, au bâtonnier de l'ordre auprès duquel l'avocat est inscrit ou au président de la compagnie dont relève l'avoué.
 Ces autorités transmettent, dans les délais et selon les modalités procédurales définis par décret en Conseil d'Etat, la
 déclaration qui leur a été remise par l'avocat ou l'avoué au service institué à l'article L. 562-4, sauf si elles considèrent
-qu'il n'existe pas de soupçon de blanchiment de capitaux.
+qu'il n'existe pas de soupçon de blanchiment de capitaux. 
 
 Dans ce cas, le président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, le bâtonnier de l'ordre auprès
 duquel l'avocat est inscrit ou le président de la compagnie dont relève l'avoué informe l'avocat ou l'avoué des raisons pour
@@ -42185,12 +42401,17 @@ ou au président de la Chambre nationale des avoués. Cette transmission ne cont
 des personnes. Dans les mêmes conditions, le président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, le
 président du Conseil national des barreaux et le président de la Chambre nationale des avoués font rapport au garde des
 sceaux, ministre de la justice, selon une périodicité définie par décret en Conseil d'Etat, sur les situations n'ayant pas
-donné lieu à communication des déclarations.
+donné lieu à communication des déclarations. 
 
 Le service institué à l'article L. 562-4 est rendu destinataire de ces informations par le garde des sceaux, ministre de la
 justice.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-2138 du 19 septembre 1945
+	  - Code civil - art. 2011
 
 	**Codifié par**:
 
@@ -42206,7 +42427,11 @@ justice.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 140 (VD)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
 
 
 ###### Article L562-3
@@ -43383,17 +43608,25 @@ public.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent titre, sans préjudice des règlements professionnels
 ou administratifs prévus par les législations applicables aux organismes financiers et aux personnes mentionnés à l'article
-L. 562-1.
+L. 562-1. 
 
-Pour l'application du présent titre :
+Pour l'application du présent titre : 
 
 1° La Commission bancaire exerce le contrôle et le pouvoir disciplinaire sur les entreprises mentionnées au 5 de l'article L.
-562-1. Elle peut prononcer les sanctions prévues à l'article L. 613-21.
+562-1. Elle peut prononcer les sanctions prévues à l'article L. 613-21. 
 
-2° L'inspection générale des finances exerce le contrôle sur la caisse des dépôts et consignations et La Poste. Le résultat
-des investigations de l'inspection générale des finances est porté à la connaissance, selon le cas, de la commission de
-surveillance de la caisse des dépôts et consignations ou de la commission supérieure prévue à l'article L. 125 du code des
-postes et des communications électroniques.
+2° La Caisse des dépôts et consignations est soumise, dans les conditions prévues à l'article L. 613-20 et au I de l'article
+L. 613-23, aux articles L. 613-6 à L. 613-11 et L. 613-15 ainsi qu'aux 1° et 2° du I de l'article L. 613-21. Pour la mise en
+œuvre du présent titre, la Commission bancaire peut adresser à la Caisse des dépôts et consignations des recommandations ou
+des injonctions de prendre les mesures appropriées pour améliorer ses procédures ou son organisation. En outre, la Caisse des
+dépôts et consignations peut voir prononcer à son encontre, soit à la place, soit en sus des sanctions prévues aux 1° et 2°
+du I de l'article L. 613-21, une sanction pécuniaire d'un montant maximal égal au décuple du capital minimum auquel sont
+astreintes les banques. Les sommes correspondantes sont versées au Trésor public au bénéfice du budget de l'Etat. Lorsqu'elle
+statue sur les recommandations, les injonctions et les sanctions applicables à la Caisse des dépôts et consignations, la
+Commission bancaire recueille l'avis préalable de la commission de surveillance. 
+
+Pour la mise en œuvre du présent article, les articles L. 571-4, L. 613-20-1 et L. 613-20-2 sont applicables au groupe de la
+Caisse des dépôts et consignations et à ses dirigeants ; 
 
 3° L'Autorité des marchés financiers exerce le contrôle et le pouvoir de sanction sur les organismes de placement collectif
 en valeurs mobilières mentionnés au 1 du I de l'article L. 214-1, sur les sociétés de gestion d'organismes de placements
@@ -43401,23 +43634,28 @@ collectifs mentionnées au L. 543-1, sur les intermédiaires en biens divers men
 personnes habilitées à procéder au démarchage mentionnées aux articles L. 341-3 et L. 341-4 et sur les conseillers en
 investissements financiers.
 
-**Nota:**
-
-Loi 2005-516 2005-05-20 art. 16 V : 
-
-1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
-juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
-dispositions. 
-
-2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
-2005 fixe la date de transfert prévu au 31 décembre 2005.
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-1
+	  - Code monétaire et financier - art. L341-3
+	  - Code monétaire et financier - art. L543-1
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L571-4
+	  - Code monétaire et financier - art. L613-20
+	  - Code monétaire et financier - art. L613-20-1
+	  - Code monétaire et financier - art. L613-21
+	  - Code monétaire et financier - art. L613-23
+	  - Code monétaire et financier - art. L613-6
 
 	**Anciens textes**:
 
@@ -43427,10 +43665,6 @@ dispositions.
 
 	  - Code monétaire et financier - art. R563-1 (Ab)
 	  - Code monétaire et financier - art. R565-1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2007-297 2007-03-05 art. 36 JORF 7 mars 2007
 
 
 ### Titre VII : Dispositions pénales
@@ -43606,12 +43840,12 @@ Le tribunal peut ordonner l'affichage ou la diffusion de la décision prononcée
 ###### Article L571-4
 
 Le fait, pour tout dirigeant d'un établissement de crédit ou d'une des personnes morales ou filiales mentionnées à l'article
-L. 613-10, de ne pas répondre, après mise en demeure, aux demandes d'informations de la commission bancaire, de mettre
+L. 613-10, de ne pas répondre, après mise en demeure, aux demandes d'informations de la Commission bancaire, de mettre
 obstacle de quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle ou de lui communiquer des
-renseignements inexacts est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+renseignements inexacts est puni d'un an d'emprisonnement et de 15 000 euros d'amende. 
 
 Le fait pour les personnes mentionnées aux articles L. 511-33 et L. 511-34 de méconnaître le secret professionnel est
-sanctionné par les peines prévues aux articles 226-13 et 226-14 du code pénal.
+sanctionné par les peines prévues à l'article 226-13 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -43620,13 +43854,13 @@ sanctionné par les peines prévues aux articles 226-13 et 226-14 du code pénal
 	  - Loi n°84-46 du 24 janvier 1984 - art. 57 (Ab)
 	  - Loi n°84-46 du 24 janvier 1984 - art. 79 (Ab)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 154
 
 	**Cité par**:
 
@@ -43647,6 +43881,12 @@ sanctionné par les peines prévues aux articles 226-13 et 226-14 du code pénal
 	  - Code monétaire et financier - art. L572-2 (V)
 	  - Code monétaire et financier - art. L745-1-1 (VT)
 	  - Code monétaire et financier - art. L755-1-1 (VT)
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13
+	  - Code monétaire et financier - art. L511-33
+	  - Code monétaire et financier - art. L613-10
 
 
 ###### Article L571-5
@@ -44200,6 +44440,27 @@ l'article 131-39 du code pénal.
 
 	  - Code pénal - art. 131-39 (V)
 	  - Code monétaire et financier - art. L531-11 (V)
+
+
+###### Article L573-2-1
+
+Le fait pour les personnes mentionnées à l'article L. 531-12 de méconnaître le secret professionnel est sanctionné par les
+peines prévues à l'article 226-13 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 154
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13
+	  - Code monétaire et financier - art. L531-12
 
 
 ###### Article L573-3
@@ -46194,43 +46455,43 @@ Un décret en Conseil d'Etat précise les modalités d'application du présent a
 
 ###### Article L613-21
 
-I. - Si un établissement de crédit, ou une des personnes mentionnées au premier alinéa de l'article L. 613-2 a enfreint une
+I.-Si un établissement de crédit, ou une des personnes mentionnées au premier alinéa de l'article L. 613-2 a enfreint une
 disposition législative ou réglementaire afférente à son activité, n'a pas répondu à une recommandation ou n'a pas tenu
 compte d'une mise en garde ou encore n'a pas respecté les conditions particulières posées ou les engagements pris à
 l'occasion d'une demande d'agrément ou d'une autorisation ou dérogation prévue par les dispositions législatives ou
 réglementaires applicables aux établissements de crédit et aux entreprises d'investissement, la commission bancaire, sous
-réserve des compétences de l'Autorité des marchés financiers, peut prononcer l'une des sanctions disciplinaires suivantes :
+réserve des compétences de l'Autorité des marchés financiers, peut prononcer l'une des sanctions disciplinaires suivantes : 
 
-1. L'avertissement ;
+1.L'avertissement ; 
 
-2. Le blâme ;
+2. Le blâme ; 
 
-3. L'interdiction, à titre temporaire ou définitif, d'effectuer certaines opérations et toutes autres limitations dans
-l'exercice de l'activité ;
+3.L'interdiction, à titre temporaire ou définitif, d'effectuer certaines opérations et toutes autres limitations dans
+l'exercice de l'activité ; 
 
 4. La suspension temporaire de l'une ou de plusieurs des personnes mentionnées à l'article L. 511-13 et à l'article L. 532-2
-avec ou sans nomination d'administrateur provisoire ;
+avec ou sans nomination d'administrateur provisoire ; 
 
 5. La démission d'office de l'une ou de plusieurs de ces mêmes personnes avec ou sans nomination d'administrateur
-provisoire ;
+provisoire ; 
 
 6. La radiation de l'établissement de crédit ou de l'entreprise d'investissement de la liste des établissements de crédit ou
-des entreprises d'investissement agréés avec ou sans nomination d'un liquidateur.
+des entreprises d'investissement agréés avec ou sans nomination d'un liquidateur. 
 
-Il en va de même s'il n'a pas été déféré à l'injonction prévue à l'article L. 613-16.
+Il en va de même s'il n'a pas été déféré à l'injonction prévue à l'article L. 613-16. 
 
 En outre, la commission bancaire peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction pécuniaire au
-plus égale au capital minimum auquel est astreinte la personne morale sanctionnée. Les sommes correspondantes sont recouvrées
-par le Trésor public et versées au budget de l'État.
+plus égale au décuple du montant du capital minimum auquel est astreinte la personne morale sanctionnée. Les sommes
+correspondantes sont recouvrées par le Trésor public et versées au budget de l'État. 
 
-II. - La commission bancaire peut également décider, soit à la place, soit en sus de ces sanctions, d'interdire ou de limiter
+II.-La commission bancaire peut également décider, soit à la place, soit en sus de ces sanctions, d'interdire ou de limiter
 la distribution d'un dividende aux actionnaires ou d'une rémunération des parts sociales aux sociétaires des personnes
-mentionnées au I.
+mentionnées au I. 
 
 Lorsqu'elle prononce une des sanctions disciplinaires ci-dessus énumérées à l'encontre d'un prestataire de services
-d'investissement, la commission bancaire en informe l'Autorité des marchés financiers.
+d'investissement, la commission bancaire en informe l'Autorité des marchés financiers. 
 
-III. - La commission bancaire peut décider que les sanctions prises dans le cadre du présent article feront l'objet d'une
+III.-La commission bancaire peut décider que les sanctions prises dans le cadre du présent article feront l'objet d'une
 publication aux frais de la personne morale sanctionnée dans les journaux ou publications que la commission désigne, à moins
 que cette publication ne risque de perturber gravement les marchés financiers ou de causer un préjudice disproportionné aux
 parties en cause.
@@ -46238,8 +46499,9 @@ parties en cause.
 **Nota:**
 
 Dans sa décision n° 2011-200 QPC du 2 décembre 2011 (NOR : CSCX11328868S), le Conseil constitutionnel a déclaré contraire à
-la Constitution l'article L. 613-21. La déclaration d'inconstitutionnalité prend effet à compter de la publication de la
-présente décision dans les conditions fixées par son considérant 9.
+la Constitution l'article L. 613-21 dans sa rédaction antérieure à l'ordonnance n° 2010-76 du 21 janvier 2010. La déclaration
+d'inconstitutionnalité prend effet à compter de la publication de la présente décision dans les conditions fixées par son
+considérant 9.
 
 **Liens relatifs à cet article**
 
@@ -46306,7 +46568,13 @@ présente décision dans les conditions fixées par son considérant 9.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 5 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 159
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-13
+	  - Code monétaire et financier - art. L532-2
+	  - Code monétaire et financier - art. L613-16
 
 
 ###### Article L613-22
@@ -48972,7 +49240,7 @@ publique est devenue définitive.
 
 I.-Le collège examine le rapport d'enquête ou de contrôle établi par les services de l'Autorité des marchés financiers, ou la
 demande formulée par le gouverneur de la Banque de France, président de la Commission bancaire, ou par le président de
-l'Autorité de contrôle des assurances et des mutuelles. 
+l'Autorité de contrôle des assurances et des mutuelles.
 
 S'il décide l'ouverture d'une procédure de sanction, il notifie les griefs aux personnes concernées. Il transmet la
 notification des griefs à la commission des sanctions, qui désigne un rapporteur parmi ses membres. La commission des
@@ -49015,35 +49283,47 @@ III.-Les sanctions applicables sont :
 a) Pour les personnes mentionnées aux 1° à 8°, 11°, 12° et 15° du II de l'article L. 621-9, l'avertissement, le blâme,
 l'interdiction à titre temporaire ou définitif de l'exercice de tout ou partie des services fournis ; la commission des
 sanctions peut prononcer soit à la place, soit en sus de ces sanctions une sanction pécuniaire dont le montant ne peut être
-supérieur à 1,5 million d'euros ou au décuple du montant des profits éventuellement réalisés ; les sommes sont versées au
+supérieur à 10 millions d'euros ou au décuple du montant des profits éventuellement réalisés ; les sommes sont versées au
 fonds de garantie auquel est affiliée la personne sanctionnée ou, à défaut, au Trésor public ; 
 
 b) Pour les personnes physiques placées sous l'autorité ou agissant pour le compte de l'une des personnes mentionnées aux 1°
 à 8°, 11°, 12° et 15° du II de l'article L. 621-9, l'avertissement, le blâme, le retrait temporaire ou définitif de la carte
 professionnelle, l'interdiction à titre temporaire ou définitif de l'exercice de tout ou partie des activités ; la commission
 des sanctions peut prononcer soit à la place, soit en sus de ces sanctions une sanction pécuniaire dont le montant ne peut
-être supérieur à 1,5 million d'euros ou au décuple du montant des profits éventuellement réalisés en cas de pratiques
+être supérieur à 1, 5 million d'euros ou au décuple du montant des profits éventuellement réalisés en cas de pratiques
 mentionnées aux c et d du II ou à 300 000 euros ou au quintuple des profits éventuellement réalisés dans les autres cas ; les
 sommes sont versées au fonds de garantie auquel est affiliée la personne morale sous l'autorité ou pour le compte de qui agit
 la personne sanctionnée ou, à défaut, au Trésor public ; 
 
 c) Pour les personnes autres que l'une des personnes mentionnées au II de l'article L. 621-9, auteurs des faits mentionnés
-aux c et d du II, une sanction pécuniaire dont le montant ne peut être supérieur à 1,5 million d'euros ou au décuple du
+aux c et d du II, une sanction pécuniaire dont le montant ne peut être supérieur à 10 millions d'euros ou au décuple du
 montant des profits éventuellement réalisés ; les sommes sont versées au Trésor public. 
 
 Le montant de la sanction doit être fixé en fonction de la gravité des manquements commis et en relation avec les avantages
 ou les profits éventuellement tirés de ces manquements. 
+
+Le fonds de garantie mentionné aux a et b peut, dans des conditions fixées par son règlement intérieur et dans la limite de
+300 000 euros par an, affecter à des actions éducatives dans le domaine financier une partie du produit des sanctions
+pécuniaires prononcées par la commission des sanctions qu'il perçoit. 
 
 III bis.-Dans les conditions fixées par décret en Conseil d'Etat, la récusation d'un membre de la commission des sanctions
 est prononcée à la demande de la personne mise en cause s'il existe une raison sérieuse de mettre en doute l'impartialité de
 ce membre. 
 
 IV.-La commission des sanctions statue par décision motivée, hors la présence du rapporteur. Aucune sanction ne peut être
-prononcée sans que la personne concernée ou son représentant ait été entendu ou, à défaut, dûment appelé. 
+prononcée sans que la personne concernée ou son représentant ait été entendu ou, à défaut, dûment appelé.
 
 V.-La commission des sanctions peut rendre publique sa décision dans les publications, journaux ou supports qu'elle désigne,
 à moins que cette publication ne risque de perturber gravement les marchés financiers ou de causer un préjudice
 disproportionné aux parties en cause. Les frais sont supportés par les personnes sanctionnées.
+
+**Nota:**
+
+Dans sa décision n° 2014-453/454 QPC et 2015-462 QPC du 18 mars 2015 (NOR : CSCX1507201S), le Conseil constitutionnel a
+déclaré contraires à la Constitution au c et au d du paragraphe II de l'article L. 621-15 dans sa rédaction résultant de la
+loi n° 2008-776 du 4 août 2008 de modernisation de l'économie, les mots " s'est livrée ou a tenté de se livrer à une
+opération d'initié ou ". La déclaration d'inconstitutionnalité prévue par l'article 3 prend effet dans les conditions fixées
+aux considérants 35 et 36.
 
 **Liens relatifs à cet article**
 
@@ -49126,7 +49406,14 @@ disproportionné aux parties en cause. Les frais sont supportés par les personn
 
 	**Modifié par**:
 
-	  - Loi n°2007-1774 du 17 décembre 2007 - art. 11
+	  - Loi n°2008-776 du 4 août 2008 - art. 160
+	  - Loi n°2008-776 du 4 août 2008 - art. 161
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-21
+	  - Code monétaire et financier - art. L621-14
+	  - Code monétaire et financier - art. L621-9
 
 
 ###### Article L621-15-1
@@ -53463,35 +53750,6 @@ sont remplacés par le mot : " français ".
 
 	  - Code monétaire et financier - art. L433-3
 	  - Code monétaire et financier - art. L433-4 (VT)
-
-
-###### Article L734-5
-
-Au I de l'article L. 433-4, après les mots : "marché réglementé", les mots : "d'un Etat membre de la Communauté européenne ou
-d'un autre Etat partie à l'accord sur l'Espace économique européen" partout où ils se trouvent, sont remplacés par le mot :
-"français".
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 153
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L433-4
 
 
 ###### Article L734-6
