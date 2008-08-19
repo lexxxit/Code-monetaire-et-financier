@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2008-08-20
 
 # Partie législative
 
@@ -16049,7 +16049,7 @@ scission et la liquidation des compartiments.
 
 #### Chapitre Ier : Produits d'épargne générale à régime fiscal spécifique
 
-##### Section 1 : Le livret de caisse d'épargne et le compte spécial sur livret du crédit mutuel
+##### Section 1 : Le livret A
 
 ##### Sous-section 1 : Dispositions communes
 
@@ -16515,16 +16515,6 @@ chargé de l'économie.
 
 	  - Code monétaire et financier - art. L512-63 (V)
 
-
-##### Section 1 : Le livret A
-
-##### Sous-section 1 : Dispositions communes
-
-##### Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance.
-
-##### Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne.
-
-##### Sous-section 4 : Dispositions spécifiques au Crédit mutuel.
 
 ##### Section 2 : L'épargne populaire
 
@@ -31415,8 +31405,6 @@ comptable public ou par l'organisme chargé de l'approbation des comptes.
 	  - Code de commerce - art. L225-40 (V)
 	  - Code monétaire et financier - art. L511-38 (V)
 
-
-##### Section 7 : Dispositions prudentielles.
 
 ##### Section 7 : Dispositions prudentielles et contrôle interne
 
@@ -87418,23 +87406,18 @@ Le directeur général est nommé par décret.
 ###### Article R518-3
 
 Pour administrer les services placés sous son autorité et pour exercer l'ensemble de ses attributions, le directeur général
-de la Caisse des dépôts et consignations est assisté par cinq directeurs dont l'un a le titre de secrétaire général ainsi que
-par des chefs de service, des directeurs adjoints et des sous-directeurs dont le nombre est déterminé par l'arrêté
-ministériel portant approbation du budget.
-
-Pour animer la conduite d'un ou de plusieurs projets et coordonner à cette fin l'action des services, il peut en outre
-disposer de directeurs de projet, dont le nombre est fixé dans les mêmes conditions.
+de la Caisse des dépôts et consignations est assisté par sept directeurs dont l'un a le titre de secrétaire général ainsi que
+par des contrôleurs généraux, des chefs de service, des directeurs adjoints, des sous-directeurs et des directeurs de projet.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°68-632 du 10 juillet 1968 - art. 2 (Ab)
-	  - Ordonnance 1816-05-22 art 2
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-781 du 18 août 2008 - art. 1
 
 
 ###### Article R518-4
@@ -87457,6 +87440,46 @@ l'économie et des finances, et après avis du directeur général.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+
+###### Article R518-4-1
+
+Peuvent être nommés contrôleurs généraux de la Caisse des dépôts et consignations, par voie de détachement, les
+fonctionnaires occupant depuis deux ans au moins un emploi de directeur, chef de service, directeur adjoint ou sous-directeur
+au sein de l'établissement public. Peuvent également être nommés les fonctionnaires relevant de la fonction publique de
+l'Etat, de la fonction publique territoriale et de la fonction publique hospitalière, appartenant depuis dix ans au moins à
+un corps ou un cadre d'emploi classé dans la catégorie A ou assimilée, dont l'indice terminal est supérieur à l'indice brut
+1015 et ayant exercé leurs fonctions à la Caisse des dépôts et consignations ou dans les filiales pendant cinq années au
+moins.
+
+Toute vacance d'emploi de contrôleur général constatée ou prévisible dans un délai de deux mois fait l'objet d'un avis de
+vacance publié au Journal officiel de la République française, ainsi que par voie électronique.
+
+Les candidatures à l'emploi de contrôleur général sont transmises dans un délai de trente jours à compter de la publication
+de la vacance au directeur général de la Caisse des dépôts et consignations.
+
+Les nominations à l'emploi de contrôleur général de la Caisse des dépôts et consignations sont prononcées par arrêté du
+ministre chargé de l'économie pris sur proposition du directeur général de la Caisse des dépôts et consignations, pour une
+durée de trois ans. Il ne peut être procédé à plus de deux renouvellements dans l'emploi.
+
+Trois mois au moins avant le terme de cette période, l'agent ayant ainsi été nommé peut de nouveau présenter sa candidature à
+cet emploi. La décision statuant sur cette candidature intervient deux mois au plus tard avant le terme de la période
+susmentionnée.
+
+L'emploi de contrôleur général comporte deux échelons. Les fonctionnaires nommés dans l'emploi de contrôleur général sont
+classés à l'échelon comportant un indice immédiatement supérieur à celui dont ils bénéficiaient dans le grade ou l'emploi
+qu'ils occupaient avant leur nomination. S'ils bénéficiaient, dans leur précédent emploi, d'un indice de rémunération
+supérieur à celui fixé pour le deuxième échelon, ils conservent leur indice antérieur à titre personnel.
+
+La durée de services effectifs dans le premier échelon est de trois ans.
+
+Tout fonctionnaire détaché dans un emploi de contrôleur général peut se voir retirer cet emploi dans l'intérêt du service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-781 du 18 août 2008 - art. 2
 
 
 ###### Article R518-5
@@ -87527,7 +87550,8 @@ conditions prévues par le statut particulier de chaque corps.
 
 ###### Article R518-7
 
-Les directeurs, chefs de service et directeurs adjoints prêtent serment devant la commission de surveillance.
+Les directeurs, les contrôleurs généraux, chefs de service et directeurs adjoints prêtent serment devant la commission de
+surveillance.
 
 **Liens relatifs à cet article**
 
@@ -87535,9 +87559,9 @@ Les directeurs, chefs de service et directeurs adjoints prêtent serment devant 
 
 	  - Décret n°68-632 du 10 juillet 1968 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-781 du 18 août 2008 - art. 3
 
 
 ###### Article R518-8
@@ -87557,6 +87581,23 @@ l'établissement.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+
+###### Article R518-8-1
+
+Les contrôleurs généraux de la Caisse des dépôts et consignations sont placés sous l'autorité directe du directeur général de
+la Caisse des dépôts et consignations. 
+
+Ils assurent les missions de contrôle des directions et services de l'établissement public qui leur sont confiées par le
+directeur général à qui ils rendent directement compte. Ils peuvent être chargés de missions de réorganisation et de
+restructuration. Ils peuvent également proposer toutes mesures d'ordre organisationnel ou financier de nature à améliorer le
+fonctionnement de la Caisse des dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-781 du 18 août 2008 - art. 4
 
 
 ###### Article R518-9
@@ -87579,10 +87620,10 @@ surveillance.
 
 ###### Article R518-10
 
-Les chefs de service, les directeurs adjoints, les sous-directeurs, les directeurs de projet, les administrateurs civils
-chargés d'une sous-direction, ainsi que les fonctionnaires de catégorie A et les directeurs d'études peuvent recevoir
-délégation de signature du directeur général à l'effet de signer, dans les limites de leurs attributions, la correspondance,
-les mandats de dépense et toutes pièces relatives au service.
+Les contrôleurs généraux, les chefs de service, les directeurs adjoints, les sous-directeurs, les directeurs de projet, les
+administrateurs civils chargés d'une sous-direction, ainsi que les fonctionnaires de catégorie A et les directeurs d'études
+peuvent recevoir délégation de signature du directeur général à l'effet de signer, dans les limites de leurs attributions, la
+correspondance, les mandats de dépense et toutes pièces relatives au service.
 
 **Liens relatifs à cet article**
 
@@ -87590,26 +87631,25 @@ les mandats de dépense et toutes pièces relatives au service.
 
 	  - Décret n°68-632 du 10 juillet 1968 - art. 9 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-781 du 18 août 2008 - art. 5
 
 
 ###### Article R518-11
 
-En cas d'absence ou de maladie du directeur général, le secrétaire général le remplace dans l'exercice de ses fonctions. Il
-est, dans ce cas, soumis aux mêmes règles et à la même responsabilité que le directeur général.
+En cas d'absence ou d'empêchement du directeur général ou de vacance de l'emploi, son intérim est assuré par le directeur
+désigné à cet effet par arrêté du directeur général publié au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2008-781 du 18 août 2008 - art. 6
+
 	**Anciens textes**:
 
-	  - Décret n°1862-05-31 art 830
 	  - Décret n°1862-05-31 du 31 mai 1862 - art. 830 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
 ###### Article R518-12
