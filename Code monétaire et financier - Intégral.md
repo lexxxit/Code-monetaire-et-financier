@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-08-20
+Version Consolidée au 2008-09-06
 
 # Partie législative
 
@@ -94460,36 +94460,41 @@ Cette décision est publiée au Journal officiel de la République française.
 
 ###### Article R621-7
 
-I. - La commission des sanctions se réunit sur convocation de son président lorsqu'elle statue en formation plénière, sur
+I.-La commission des sanctions se réunit sur convocation de son président lorsqu'elle statue en formation plénière, sur
 convocation du président de la section concernée dans les autres cas. Elle ne peut délibérer qu'en présence de sept membres
-au moins lorsqu'elle statue en formation plénière, de quatre membres au moins lorsqu'elle statue en section. Lorsque, en
-application de l'article L. 621-4, un membre ne prend pas part à une délibération, il est réputé présent au titre du quorum.
+au moins lorsqu'elle statue en formation plénière, de trois membres au moins lorsqu'elle statue en section. Lorsque, en
+application de l'article L. 621-4, un membre ne prend pas part à la délibération d'une section, il est remplacé dans les
+conditions prévues au dernier alinéa du présent I. 
 
 En cas d'absence, le président de la commission confie à l'un des autres membres relevant du 1° ou du 2° du IV de l'article
-L. 621-2 le soin de présider la séance de la formation plénière.
+L. 621-2 le soin de présider la séance de la formation plénière. 
 
 En cas d'absence, le président d'une section peut être suppléé par le président de l'autre section ou à défaut par un autre
-membre relevant du 1° ou du 2° du IV de l'article L. 621-2, auquel il confie le soin de présider la séance.
+membre relevant du 1° ou du 2° du IV de l'article L. 621-2, auquel il confie le soin de présider la séance. 
 
 En cas d'absence d'un membre relevant de l'une des catégories de personnes mentionnées au 3° ou 4° du IV de l'article L.
 621-2, le président de la section peut demander à un membre de l'autre section, choisi dans la même catégorie de personnes,
 de le suppléer. En cas d'absence d'un autre membre, le président de la section peut demander à un autre membre de l'autre
-section, choisi dans une des catégories de personnes mentionnées au 1° ou 2° du IV de l'article L. 621-2, de le suppléer.
+section, choisi dans une des catégories de personnes mentionnées au 1° ou 2° du IV de l'article L. 621-2, de le suppléer. 
 
-II. - Tout membre de la commission des sanctions qui, hors le cas de force majeure constaté par le président, n'a pas assisté
-à trois séances consécutives en est réputé démissionnaire d'office. Le président de la commission des sanctions en informe le
+II.-Tout membre de la commission des sanctions qui, hors le cas de force majeure constaté par le président, n'a pas assisté à
+trois séances consécutives en est réputé démissionnaire d'office. Le président de la commission des sanctions en informe le
 ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1109 2003-11-21 art 8
 	  - Décret n°2003-1109 du 21 novembre 2003 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-2
+	  - Code monétaire et financier - art. L621-4
 
 	**Cité par**:
 
@@ -95589,11 +95594,14 @@ recommandée avec demande d'avis de réception, remise en main propre contre ré
 en cause, accompagnée du rapport d'enquête ou de contrôle ou de la demande formulée par le président de la Commission
 bancaire ou par le président de l'Autorité de contrôle des assurances et des mutuelles.
 
+La notification des griefs mentionne que sera réputée faite à la personne mise en cause toute notification ultérieure à elle
+destinée et faite à l'adresse à laquelle la notification de griefs lui est parvenue, ou, le cas échéant, à la dernière
+adresse qu'elle aura signalée au secrétariat de la commission par lettre recommandée avec demande d'avis de réception. 
+
 La notification des griefs est transmise au président de la commission des sanctions.
 
-La personne mise en cause dispose d'un délai d'un mois pour transmettre au président de la commission des sanctions ses
-observations écrites sur les griefs qui lui ont été notifiés. Si l'une des personnes mises en cause a son domicile hors de
-l'Espace économique européen, ce délai est porté à deux mois. La notification des griefs mentionne ce délai et précise que la
+La personne mise en cause dispose d'un délai de deux mois pour transmettre au président de la commission des sanctions ses
+observations écrites sur les griefs qui lui ont été notifiés. La notification des griefs mentionne ce délai et précise que la
 personne mise en cause peut prendre connaissance et copie des autres pièces du dossier auprès de la commission des sanctions
 et se faire assister ou représenter par tout conseil de son choix.
 
@@ -95601,16 +95609,11 @@ et se faire assister ou représenter par tout conseil de son choix.
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1109 2003-11-21 art 18
 	  - Décret n°2003-1109 du 21 novembre 2003 - art. 18 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -95622,21 +95625,21 @@ et se faire assister ou représenter par tout conseil de son choix.
 
 ###### Article R621-39
 
-I. - Le président de la commission des sanctions attribue l'affaire soit à cette dernière soit à l'une de ses sections. Il
+I.-Le président de la commission des sanctions attribue l'affaire soit à cette dernière soit à l'une de ses sections. Il
 désigne le rapporteur. Celui-ci procède à toutes diligences utiles. Il peut s'adjoindre le concours des services de
 l'Autorité des marchés financiers. La personne mise en cause peut être entendue à sa demande ou si le rapporteur l'estime
-utile. Le rapporteur peut également entendre toute personne dont l'audition lui paraît utile.
+utile. Le rapporteur peut également entendre toute personne dont l'audition lui paraît utile. 
 
 Lorsqu'il estime que les griefs doivent être complétés ou que les griefs sont susceptibles d'être notifiés à une ou plusieurs
 personnes autres que celles mises en cause, le rapporteur saisit le collège. Le collège statue sur cette demande du
-rapporteur dans les conditions et formes prévues à l'article R. 621-38. Les délais prévus au troisième alinéa de l'article R.
-621-38 sont applicables en cas de notification complémentaire des griefs.
+rapporteur dans les conditions et formes prévues à l'article R. 621-38. Le délai prévu au troisième alinéa de l'article R.
+621-38 est applicable en cas de notification complémentaire des griefs. 
 
-II. - Le rapporteur consigne par écrit le résultat de ces opérations dans un rapport. Celui-ci est communiqué à la personne
+II.-Le rapporteur consigne par écrit le résultat de ces opérations dans un rapport. Celui-ci est communiqué à la personne
 mise en cause par lettre recommandée avec demande d'avis de réception, remise en main propre contre récépissé ou acte
-d'huissier.
+d'huissier. 
 
-III. - La personne mise en cause est convoquée devant la commission des sanctions ou la section par lettre recommandée avec
+III.-La personne mise en cause est convoquée devant la commission des sanctions ou la section par lettre recommandée avec
 demande d'avis de réception, remise en main propre contre récépissé ou acte d'huissier, dans un délai qui ne peut être
 inférieur à 30 jours francs. Cette lettre précise que la personne mise en cause dispose d'un délai de 15 jours francs pour
 faire connaître par écrit ses observations sur le rapport.
@@ -95645,67 +95648,244 @@ faire connaître par écrit ses observations sur le rapport.
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1109 2003-11-21 art 19
 	  - Décret n°2003-1109 du 21 novembre 2003 - art. 19 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R621-38 (V)
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R621-40 (V)
 
 
+###### Article R621-39-1
+
+Le membre de la commission des sanctions qui, sans préjudice des cas prévus à l'article L. 621-4, suppose en sa personne une
+cause de récusation ou estime en conscience devoir s'abstenir ne siège pas. Lorsque la commission se réunit en section, il
+est remplacé dans les conditions prévues à l'article R. 621-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-4
+	  - Code monétaire et financier - art. R621-7
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R621-39-8 (V)
+
+
+###### Article R621-39-2
+
+La personne mise en cause qui veut récuser un membre de la commission doit, à peine d'irrecevabilité, en former la demande : 
+
+1° S'il s'agit du rapporteur, dans le délai d'un mois à compter de la notification de la décision procédant à la désignation
+de celui-ci ; 
+
+2° S'il s'agit d'un membre de la formation appelée à délibérer, dans le délai de quinze jours à compter de la notification de
+la composition de cette formation ; 
+
+3° Dans le cas où le motif invoqué n'a pu être connu de la personne mise en cause dans le délai prévu au 1° ou au 2°, au plus
+tard avant la fin de la séance prévue à l'article R. 621-40. 
+
+Les notifications prévues aux 1° et 2° sont faites à la personne mise en cause par lettre recommandée avec demande d'avis de
+réception, remise en main propre contre récépissé ou acte d'huissier. Elles reproduisent les dispositions du présent article
+et des articles R. 621-39-3 et R. 621-39-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R621-39-3
+	  - Code monétaire et financier - art. R621-40
+
+
+###### Article R621-39-3
+
+La récusation est demandée par la personne mise en cause ou par son mandataire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R621-39-2 (V)
+
+
+###### Article R621-39-4
+
+La demande de récusation est formée par acte remis au secrétariat de la commission qui en délivre récépissé ou par une
+déclaration qui est consignée par ce secrétariat dans un procès-verbal. 
+
+Elle doit, à peine d'irrecevabilité, indiquer avec précision les motifs de la récusation et être accompagnée des pièces
+propres à la justifier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
+
+
+###### Article R621-39-5
+
+Le secrétariat de la commission communique la copie de la demande de récusation au membre qui en est l'objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
+
+
+###### Article R621-39-6
+
+Dès qu'il a communication de la demande, le membre récusé s'abstient jusqu'à ce qu'il ait été statué sur la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
+
+
+###### Article R621-39-7
+
+Dans les huit jours de cette communication, le membre récusé fait connaître par écrit soit son acquiescement à la récusation,
+soit les motifs pour lesquels il s'y oppose.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
+
+
+###### Article R621-39-8
+
+Si le membre récusé acquiesce à la demande de récusation, il est procédé pour son remplacement comme il est dit à l'article
+R. 621-39-1. 
+
+Dans le cas contraire, la commission se prononce sur la demande.L'auteur de celle-ci est averti par tous moyens de la date à
+laquelle elle sera examinée ainsi que de la possibilité qu'il aura de présenter des observations orales. 
+
+La commission statue sans la participation de celui de ses membres dont la récusation est demandée.S'il n'est pas le membre
+récusé, le rapporteur participe à la délibération. 
+
+La décision de la commission est notifiée à l'auteur de la demande et au membre intéressé. 
+
+Si la récusation est admise, il est procédé pour le remplacement du membre récusé comme il est dit à l'article R. 621-39-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R621-39-1
+
+
+###### Article R621-39-9
+
+Les actes accomplis par le membre récusé avant qu'il ait eu connaissance de la demande de récusation ne peuvent être remis en
+cause.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
+
+
+###### Article R621-39-10
+
+La décision de la commission ne peut donner lieu à recours qu'avec la décision statuant sur les griefs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
+
+
 ###### Article R621-40
 
-I. - La séance est publique à la demande de l'une des personnes mises en cause. Toutefois, le président de la formation peut
+I.-La séance est publique à la demande de l'une des personnes mises en cause. Toutefois, le président de la formation peut
 interdire au public l'accès de la salle pendant tout ou partie de la séance dans l'intérêt de l'ordre public ou lorsque la
-publicité est susceptible de porter atteinte au secret des affaires ou à tout autre secret protégé par la loi.
+publicité est susceptible de porter atteinte au secret des affaires ou à tout autre secret protégé par la loi. 
 
 Le président de la formation assure la police de la séance.
 
-II. - Lors de la séance, le rapporteur présente l'affaire. Le commissaire du Gouvernement peut présenter des observations. La
-personne mise en cause et, le cas échéant, son conseil présentent la défense de celle-ci. Le président de la formation saisie
-peut faire entendre toute personne dont il estime l'audition utile. Dans tous les cas, la personne mise en cause et, le cas
-échéant, son conseil doivent pouvoir prendre la parole en dernier. Lorsque la formation s'estime insuffisamment éclairée,
-elle demande au rapporteur de poursuivre ses diligences selon la procédure définie aux II et III de l'article R. 621-39.
+I bis.-Lors de la séance, le collège est représenté par une personne désignée à cette fin par le président de l'Autorité des
+marchés financiers, qu'elle soit ou non membre du collège ou des services. 
 
-III. - La formation statue en la seule présence de ses membres et d'un agent des services de l'Autorité des marchés
-financiers faisant office de secrétaire de séance, hors la présence du rapporteur et du commissaire du Gouvernement.
+II.-Lors de la séance, le rapporteur présente son rapport. Le commissaire du Gouvernement peut présenter des observations. Le
+représentant du collège peut présenter des observations au soutien des griefs notifiés. La personne mise en cause et, le cas
+échéant, son conseil présentent la défense de celle-ci. Le président de la formation saisie peut faire entendre toute
+personne dont il estime l'audition utile. Dans tous les cas, la personne mise en cause et, le cas échéant, son conseil
+doivent pouvoir prendre la parole en dernier. Lorsque la formation s'estime insuffisamment éclairée, elle demande au
+rapporteur de poursuivre ses diligences selon la procédure définie aux II et III de l'article R. 621-39. 
 
-IV. - Le secrétaire de séance établit un compte rendu de la séance. Le compte rendu est signé par le président de la
-formation, le rapporteur et le secrétaire de séance puis transmis aux membres de la commission des sanctions et au
-commissaire du Gouvernement.
+III.-La formation statue en la seule présence de ses membres et d'un agent des services de l'Autorité des marchés financiers
+faisant office de secrétaire de séance, hors la présence du rapporteur du représentant du collège et du commissaire du
+Gouvernement. 
 
-V. - La décision mentionne les noms des membres de la formation qui ont statué. Elle est notifiée à la personne concernée par
-lettre recommandée avec demande d'avis de réception, remise en main propre contre récépissé ou acte d'huissier.
+IV.-Le secrétaire de séance établit un compte rendu de la séance. Le compte rendu est signé par le président de la formation,
+le rapporteur et le secrétaire de séance puis transmis aux membres de la commission des sanctions et au commissaire du
+Gouvernement.
+
+V.-La décision mentionne les noms des membres de la formation qui ont statué. Elle est notifiée à la personne concernée par
+lettre recommandée avec demande d'avis de réception, remise en main propre contre récépissé ou acte d'huissier. 
 
 La décision est communiquée au commissaire du Gouvernement ainsi qu'au président de l'Autorité des marchés financiers qui en
-rend compte au collège.
+rend compte au collège. 
 
 Lorsqu'elle concerne un prestataire de services d'investissement autre qu'une société de gestion, la décision est également
-notifiée au Comité des établissements de crédit et des entreprises d'investissement et à la Commission bancaire.
+notifiée au Comité des établissements de crédit et des entreprises d'investissement et à la Commission bancaire. 
 
-VI. - La décision de sanction mentionne, le cas échéant, ceux des frais de procédure qui sont à la charge de la personne à
-l'encontre de laquelle une sanction a été prononcée.
+VI.-La décision de sanction mentionne, le cas échéant, ceux des frais de procédure qui sont à la charge de la personne à
+l'encontre de laquelle une sanction a été prononcée. 
 
 La rémunération des huissiers de justice intervenant au titre de la présente section est tarifée comme prévu par les articles
-R. 181 à R. 184 du code de procédure pénale.
+R. 181 à R. 184 du code de procédure pénale. 
 
-VII. - Lorsqu'une notification est effectuée au titre de la présente section par un huissier de justice, celui-ci procède
-selon les modalités prévues par les articles 555 à 563 du code de procédure pénale.
+VII.-Lorsqu'une notification est effectuée au titre de la présente section par un huissier de justice, celui-ci procède selon
+les modalités prévues par les articles 555 à 563 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2003-1109 2003-11-21 art 20, art 24 (2e alinéa)
 	  - Décret n°2003-1109 du 21 novembre 2003 - art. 20 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-893 du 2 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 555
+	  - Code de procédure pénale - art. R181
+	  - Code monétaire et financier - art. R621-39
 
 	**Cité par**:
 
