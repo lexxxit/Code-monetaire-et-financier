@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-09-14
+Version Consolidée au 2008-10-11
 
 # Partie législative
 
@@ -47599,38 +47599,6 @@ réception de la convocation.
 	  - PILOTE_SUIVEUR: Code des assurances - art. L411-3 (V)
 
 
-##### Section 2 : Haut conseil du secteur financier public et semi-public
-
-###### Article L614-7
-
-Le haut conseil du secteur financier public et semi-public est un collège qui est composé des membres du haut conseil du
-secteur public et de cinq personnalités choisies pour leurs compétences en matière d'établissements financiers et de crédit
-chargés d'une mission d'intérêt public.
-
-Il examine toute question relative au rôle, à la coordination et aux modalités d'intervention du secteur financier public,
-dans les domaines notamment du financement des activités d'intérêt général et du secteur non marchand, du financement de
-l'emploi et de la formation, et de la lutte contre les exclusions financières.
-
-Il peut émettre des avis et faire procéder aux études qu'il estime nécessaires. Il fait toute proposition utile dans un
-rapport publié tous les deux ans, qu'il présente au Parlement.
-
-Un décret précise les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-155 1982-02-11 art. 53 II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1029 du 9 octobre 2008 - art. 1
-
-
 #### Chapitre V : Autres institutions
 
 ##### Section unique : Commissaires du Gouvernement et mission de contrôle des activités financières
@@ -94046,70 +94014,6 @@ financières adressent chacun un rapport annuel au Président de la République 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code des assurances - art. R411-3 (VT)
-
-
-##### Section 2 : Haut Conseil du secteur financier public et semi-public
-
-###### Article D614-4
-
-Les cinq personnalités du Haut Conseil du secteur financier public et semi-public, choisies pour leurs compétences en matière
-d'établissements financiers et de crédit chargés d'une mission d'intérêt public, sont désignées pour une durée de trois ans
-par arrêté du ministre chargé de l'économie après avis du président du Haut Conseil du secteur public.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-440 du 23 mai 2000 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1029 du 9 octobre 2008 - art. 1
-
-
-###### Article D614-5
-
-Le président du Haut Conseil du secteur public assure la présidence du Haut Conseil du secteur financier public et semi-
-public.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-440 du 23 mai 2000 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1029 du 9 octobre 2008 - art. 1
-
-
-###### Article D614-6
-
-Le Haut Conseil du secteur financier public et semi-public est placé auprès du ministre chargé de l'économie. Son secrétariat
-est assuré par le secrétaire général du Haut Conseil du secteur public. Le Haut Conseil du secteur financier public et semi-
-public peut faire appel en tant que de besoin au secrétariat général du comité consultatif du secteur financier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-440 du 23 mai 2000 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1029 du 9 octobre 2008 - art. 1
 
 
 #### Chapitre V : Autres institutions
