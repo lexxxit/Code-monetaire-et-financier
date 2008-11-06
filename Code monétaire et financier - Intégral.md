@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-10-24
+Version Consolidée au 2008-11-07
 
 # Partie législative
 
@@ -60854,6 +60854,27 @@ par l'office statistique des Communautés européennes à Luxembourg (EUROSTAT) 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L112-3 (V)
+
+
+###### Article D112-2
+
+Les activités mentionnées dans la seconde phrase du premier alinéa de l'article L. 112-2 du code monétaire et financier sont
+les activités commerciales y compris celles exercées par les artisans.
+
+Sont exclues du champ d'application du présent article les activités commerciales exercées dans des locaux à usage exclusif
+de bureaux, y compris les plates-formes logistiques, ainsi que les activités industrielles au sens de l'article L. 110-1 (5°)
+du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1139 du 4 novembre 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de commerce - art. L110-1
+	  - Code monétaire et financier - art. L112-2
 
 
 ##### Section 2 : Pouvoir libératoire.
