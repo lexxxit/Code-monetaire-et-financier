@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-11-07
+Version Consolidée au 2008-11-13
 
 # Partie législative
 
@@ -29487,22 +29487,30 @@ habituelles de l'établissement et ne pas empêcher, restreindre ou fausser le j
 
 ###### Article L511-4
 
-Lorsque    l'Autorité de la concurrence est saisi, en application de l'article L. 430-5 du code de commerce, de
-concentrations ou de projets de concentration concernant, directement ou indirectement, un établissement de crédit ou une
-entreprise d'investissement, il recueille l'avis du Comité des établissements de crédit et des entreprises d'investissement.
-l'Autorité de la concurrence communique, à cet effet, au Comité des établissements de crédit et des entreprises
-d'investissement toute saisine relative à de telles opérations. Le Comité des établissements de crédit et des entreprises
-d'investissement transmet son avis au Conseil de la concurrence dans le délai d'un mois suivant la réception de cette
-communication.L'avis du Comité des établissements de crédit et des entreprises d'investissement est rendu public dans les
-conditions fixées par l'article L. 430-10 du code de commerce. 
+Lorsqu'une opération de concentration concernant, directement ou indirectement, un établissement de crédit ou une entreprise
+d'investissement fait l'objet d'un examen approfondi en application du dernier alinéa du III de l'article L. 430-5 du code de
+commerce, l'Autorité de la concurrence recueille, avant de se prononcer en application de l'article L. 430-7 du même code,
+l'avis du Comité des établissements de crédit et des entreprises d'investissement. L'Autorité de la concurrence communique, à
+cet effet, au Comité des établissements de crédit et des entreprises d'investissement toute saisine relative à de telles
+opérations. Le Comité des établissements de crédit et des entreprises d'investissement transmet son avis à l'Autorité de la
+concurrence dans le délai d'un mois suivant la réception de cette communication. L'avis du Comité des établissements de
+crédit et des entreprises d'investissement est rendu public dans les conditions fixées par l'article L. 430-10 du code de
+commerce. 
 
 Les articles L. 420-1 à L. 420-4 du code de commerce s'appliquent aux établissements de crédit pour leurs opérations de
 banque et leurs opérations connexes définies à l'article L. 311-2. Les infractions à ces dispositions sont poursuivies dans
 les conditions fixées par les articles L. 442-5, L. 443-2, L. 443-3, L. 462-5 à L. 462-8, L. 463-1 à L. 463-7, L. 464-1 à L.
 464-8, L. 470-1 à L. 470-8 du code de commerce. La notification de griefs prévue à l'article L. 463-2 du même code est
-communiquée à la commission bancaire qui rend son avis dans un délai de deux mois. Dans l'hypothèse où    l'Autorité de la
+communiquée à la commission bancaire qui rend son avis dans un délai de deux mois. Dans l'hypothèse où l'Autorité de la
 concurrence prononce une sanction à l'issue de la procédure prévue aux articles L. 463-2, L. 463-3 et L. 463-5 du code de
-commerce, il indique, le cas échéant, les raisons pour lesquelles il s'écarte de l'avis de la commission bancaire.
+commerce, elle indique, le cas échéant, les raisons pour lesquelles elle s'écarte de l'avis de la Commission bancaire.
+
+**Nota:**
+
+Conformément à l'article 96-V de la loi n° 2008-776 du 4 août 2008, le présent article entre en vigueur à compter de la
+promulgation de l'ordonnance prévue à l'article 97 de la présente loi et, au plus tard, le 1er janvier 2009. L'ordonnance
+visée à l'article 97 de la loi n° 2008-776 (ordonnance n° 2008-1161) a été promulguée le 13 novembre 2008 fixant à cette date
+l'entrée en vigueur de l'article 96.
 
 **Liens relatifs à cet article**
 
@@ -29514,15 +29522,33 @@ commerce, il indique, le cas échéant, les raisons pour lesquelles il s'écarte
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 24 () JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V)
 	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 19 (V)
 	  - Code monétaire et financier - art. L511-24 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 96
+
+	**Cite**:
+
+	  - Code de commerce - art. L420-1
+	  - Code de commerce - art. L430-10
+	  - Code de commerce - art. L430-5
+	  - Code de commerce - art. L430-7
+	  - Code de commerce - art. L442-5
+	  - Code de commerce - art. L443-2
+	  - Code de commerce - art. L443-3
+	  - Code de commerce - art. L462-5
+	  - Code de commerce - art. L463-1
+	  - Code de commerce - art. L464-1
+	  - Code de commerce - art. L470-1
+	  - Code de commerce. - art. L463-2 (V)
+	  - Code de commerce. - art. L463-3 (V)
+	  - Code de commerce. - art. L463-5 (V)
+	  - Code monétaire et financier - art. L311-2
 
 
 ##### Section 2 : Interdictions
@@ -30023,29 +30049,32 @@ concernés.
 Toute modification des conditions auxquelles était subordonné l'agrément délivré à un établissement de crédit doit faire
 l'objet, selon les cas, d'une autorisation préalable du Comité des établissements de crédit et des entreprises
 d'investissement, d'une déclaration ou d'une notification, dans les conditions fixées par un arrêté du ministre chargé de
-l'économie.
+l'économie. 
 
 Dans les cas où une autorisation doit être délivrée, elle peut, elle-même, être assortie de conditions particulières
 répondant aux finalités mentionnées au sixième alinéa de l'article L. 511-10 ou subordonnée au respect d'engagements pris par
-l'établissement.
+l'établissement. 
 
 Dans le cadre d'une opération de concentration concernant, directement ou non, un établissement de crédit ou une entreprise
 d'investissement, le Comité des établissements de crédit et des entreprises d'investissement peut, s'il l'estime nécessaire à
-sa complète information, rendre sa décision sur le fondement du présent article après la décision rendue par le ministre
-chargé de l'économie en application des articles L. 430-1 et suivants du code de commerce ou celle rendue par la Commission
-européenne en application du règlement (CEE) n° 4064/89 du Conseil, du 21 décembre 1989, relatif au contrôle des opérations
-de concentration entre entreprises.
+sa complète information, rendre sa décision sur le fondement du présent article après la décision rendue par l'Autorité de la
+concurrence en application des articles L. 430-1 et suivants du titre III du livre IV du code de commerce ou, le cas échéant,
+par le ministre chargé de l'économie en application du II de l'article L. 430-7-1 du même code ou celle rendue par la
+Commission européenne en application du règlement (CE) n° 139 / 2004 du Conseil, du 20 janvier 2004, relatif au contrôle des
+concentrations entre entreprises.
+
+**Nota:**
+
+Conformément à l'article 96-V de la loi n° 2008-776 du 4 août 2008, le présent article entre en vigueur à compter de la
+promulgation de l'ordonnance prévue à l'article 97 de la présente loi et, au plus tard, le 1er janvier 2009. L'ordonnance
+visée à l'article 97 de la loi n° 2008-776 (ordonnance n° 2008-1161) a été promulguée le 13 novembre 2008 fixant à cette date
+l'entrée en vigueur de l'article 96.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 25 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -30067,6 +30096,16 @@ de concentration entre entreprises.
 	  - Code monétaire et financier - art. R511-3-3 (V)
 	  - Code monétaire et financier - art. R612-34-1 (V)
 	  - Code monétaire et financier - art. R613-67 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 96
+
+	**Cite**:
+
+	  - Code de commerce - art. L430-1
+	  - Code de commerce - art. L430-7-1
+	  - Règlement 4064-89 (CEE) 1989-12-21 (Conseil)
 
 
 ###### Article L511-13
