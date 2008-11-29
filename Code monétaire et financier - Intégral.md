@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-11-25
+Version Consolidée au 2008-11-30
 
 # Partie législative
 
@@ -54740,15 +54740,14 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 	**Anciens textes**:
 
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 53 (Ab)
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+	  - DEPLACE: Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
 
 	**Cité par**:
 
@@ -54756,10 +54755,58 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-1 (M)
-	  - Code monétaire et financier - art. L214-18 (V)
-	  - Code monétaire et financier - art. L214-34 (M)
-	  - Code monétaire et financier L214-1, L214-34, L214-39 à L214-41-1, L214-85 à L214-88, L214-18, L231-3 à L231-21
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L214-1
+	  - Code monétaire et financier - art. L214-18
+	  - Code monétaire et financier - art. L214-34
+
+
+##### Section 1 : Les instruments financiers
+
+##### Sous-section 1 : Définition et règles générales
+
+##### Sous-section 2 : Les titres de capital et titres donnant accès au capital
+
+##### Sous-section 3 : Les titres de créance
+
+##### Sous-section 4 : Les placements collectifs
+
+##### Section 2 : Les produits d'épargne
+
+###### Article L742-6-1
+
+I. ― Les articles L. 221-35 et L. 221-37 sont applicables en Nouvelle-Calédonie sous réserve des adaptations prévues au II. 
+
+II.-1° L'article L. 221-35 est complété par la phrase suivante : " Ces dispositions sont applicables à l'office des postes et
+télécommunications. " ; 
+
+2° L'article L. 221-37 est remplacé par les dispositions suivantes : 
+
+Art.L. 221-37.-En ce qui concerne les établissements de crédit, des agents de l'Institut d'émission d'outre-mer désignés à
+cet effet sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation par procès-
+verbal des infractions aux dispositions de l'article L. 221-35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-35
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L742-6-2 (V)
 
 
 ###### Article L742-7
@@ -54768,20 +54815,19 @@ Les articles L. 223-1 à L. 223-4 ainsi que les articles L. 232-1 et L. 232-2 so
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°69-1163 1969-12-24
-	  - Décret n°1968-12-05 art. 1
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Liens**:
+
+	  - DEPLACE: Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L232-1 (V)
-	  - Code monétaire et financier - art. L232-2 (M)
-	  - Code monétaire et financier L223-1 à L223-4, L232-1, L232-2
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L232-1
+	  - Code monétaire et financier - art. L232-2
 
 
 #### Chapitre III : Les services
@@ -54817,25 +54863,16 @@ Les articles L. 311-1 à L. 311-3 sont applicables en Nouvelle-Calédonie.
 
 ###### Article L743-2
 
-Le chapitre II du titre Ier du livre III est applicable en Nouvelle-Calédonie, à l'exception des deuxième et quatrième
-alinéas de l'article L. 312-3 et des articles L. 312-17 et L. 312-18. L'article L. 352-1 s'y applique également.
+Le chapitre II du titre Ier du livre III est applicable en Nouvelle-Calédonie, à l'exception des articles L. 312-17 et L.
+312-18. 
 
-Le premier alinéa du II de l'article L. 312-1-2 est remplacé par les dispositions suivantes : "Des agents de l'institut
+Le premier alinéa du II de l'article L. 312-1-2 est remplacé par les dispositions suivantes : " Des agents de l'institut
 d'émission d'outre-mer sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation
-par procès-verbal des infractions aux dispositions du I de l'article L. 312-1-1 et au I de l'article L. 312-1-2".
+par procès-verbal des infractions aux dispositions du I de l'article L. 312-1-1 et au I de l'article L. 312-1-2 ". 
 
-L'article L. 312-1 est applicable en Nouvelle-Calédonie. Dans les trois premiers alinéas de cet article, les mots : "services
-financiers de La Poste" sont remplacés par les mots : "services financiers de l'office des postes et télécommunications".
-
-Aux articles L. 312-1 et L. 312-1-1 dans leur version antérieure au 1er janvier 2006 qui reste en vigueur en Nouvelle-
-Calédonie et en Polynésie française, les mots : "services financiers de La Poste" sont remplacés par les mots : "services
-financiers de l'office des Postes et Télécommunications".
+Les articles L. 312-1, L. 312-1-1 et L. 312-1-3 sont applicables à l'office des postes et télécommunications.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
 
 	**Codifié par**:
 
@@ -54843,17 +54880,14 @@ financiers de l'office des Postes et Télécommunications".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V) JORF 20 janvier 2006
+	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
+	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L312-1 (M)
-	  - Code monétaire et financier - art. L312-1-1 (M)
-	  - Code monétaire et financier - art. L312-1-2 (M)
-	  - Code monétaire et financier - art. L312-17 (M)
-	  - Code monétaire et financier - art. L312-18 (M)
-	  - Code monétaire et financier - art. L312-3 (M)
-	  - Code monétaire et financier - art. L352-1 (V)
+	  - Code monétaire et financier - art. L312-1
+	  - Code monétaire et financier - art. L312-1-2
+	  - Code monétaire et financier - art. L312-17
 
 
 ##### Sous-section 3 : Crédits
@@ -56989,6 +57023,42 @@ Les articles L. 231-3 à L. 231-21 sont également applicables en Polynésie fra
 
 ##### Section 2 : Les produits d'épargne
 
+###### Article L752-6-1
+
+I. ― Les articles L. 221-35 et L. 221-37 sont applicables en Polynésie française sous réserve des adaptations prévues au II. 
+
+II. ― 1° L'article L. 221-35 est complété par la phrase suivante : " Ces dispositions sont applicables à l'office des postes
+et télécommunications. ” ; 
+
+2° L'article L. 221-37 est remplacé par les dispositions suivantes : 
+
+Art.L. 221-37.-En ce qui concerne les établissements de crédit, des agents de l'Institut d'émission d'outre-mer désignés à
+cet effet sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation par procès-
+verbal des infractions aux dispositions de l'article L. 221-35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-35
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L752-6-2 (V)
+
+
 ###### Article L752-7
 
 Les articles L. 223-1 à L. 223-4 ainsi que les articles L. 232-1 et L. 232-2 sont applicables en Polynésie française.
@@ -57044,26 +57114,16 @@ Les articles L. 311-1 à L. 311-3 sont applicables en Polynésie française.
 
 ###### Article L753-2
 
-Le chapitre II du titre Ier du livre III est applicable en Polynésie française, à l'exception des deuxième et quatrième
-alinéas de l'article L. 312-3 et des articles L. 312-17 et L. 312-18. L'article L. 352-1 s'y applique également.
+Le chapitre II du titre Ier du livre III est applicable en Polynésie française, à l'exception des articles L. 312-17 et L.
+312-18. 
 
-Le premier alinéa du II de l'article L. 312-1-2 est remplacé par les dispositions suivantes : "Des agents de l'institut
+Le premier alinéa du II de l'article L. 312-1-2 est remplacé par les dispositions suivantes : " Des agents de l'institut
 d'émission d'outre-mer sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation
-par procès-verbal des infractions aux dispositions du I de l'article L. 312-1-1 et au I de l'article L. 312-1-2".
+par procès-verbal des infractions aux dispositions du I de l'article L. 312-1-1 et au I de l'article L. 312-1-2 ".
 
-L'article L. 312-1 est applicable en Polynésie française. Dans les trois premiers alinéas de cet article, les mots :
-"services financiers de La Poste" sont remplacés par les mots : "services financiers de l'office des postes et
-télécommunications".
-
-Aux articles L. 312-1 et L. 312-1-1 dans leur version antérieure au 1er janvier 2006 qui reste en vigueur en Nouvelle-
-Calédonie et en Polynésie française, les mots : "services financiers de La Poste" sont remplacés par les mots : "services
-financiers de l'office des Postes et Télécommunications".
+Les articles L. 312-1, L. 312-1-1 et L. 312-1-3 sont applicables à l'office des postes et télécommunications.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
 
 	**Codifié par**:
 
@@ -57071,17 +57131,13 @@ financiers de l'office des Postes et Télécommunications".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V) JORF 20 janvier 2006
+	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
+	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L312-1 (M)
-	  - Code monétaire et financier - art. L312-1-1 (M)
-	  - Code monétaire et financier - art. L312-1-2 (M)
-	  - Code monétaire et financier - art. L312-17 (M)
-	  - Code monétaire et financier - art. L312-18 (M)
-	  - Code monétaire et financier - art. L312-3 (M)
-	  - Code monétaire et financier - art. L352-1 (V)
+	  - Code monétaire et financier - art. L312-1
+	  - Code monétaire et financier - art. L312-1-2
 
 
 ##### Sous-section 3 : Crédits
@@ -59280,6 +59336,38 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 ##### Section 2 : Les produits d'épargne
 
+###### Article L762-6-1
+
+I. ― Les articles L. 221-35 et L. 221-37 sont applicables dans les îles Wallis et Futuna sous réserve des adaptations prévues
+au II.
+
+II. ― 1° L'article L. 221-35 est complété par la phrase suivante : " Ces dispositions sont applicables au Trésor public. ” ; 
+
+2° L'article L. 221-37 est remplacé par les dispositions suivantes : 
+
+Art.L. 221-37.-En ce qui concerne les établissements de crédit, des agents de l'Institut d'émission d'outre-mer désignés à
+cet effet sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation par procès-
+verbal des infractions aux dispositions de l'article L. 221-35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L762-6-2 (V)
+
+
 ###### Article L762-7
 
 Les articles L. 223-1 à L. 223-4 ainsi que les articles L. 232-1 et L. 232-2 sont applicables dans les îles Wallis-et-Futuna.
@@ -59342,15 +59430,10 @@ Les articles L. 311-1 à L. 311-3 sont applicables dans les îles Wallis et Futu
 
 ###### Article L763-2
 
-Le chapitre II du titre Ier du livre III est applicable dans les îles Wallis-et-Futuna, à l'exception des deuxième et
-quatrième alinéas de l'article L. 312-3 et des articles L. 312-17 et L. 312-18. L'article L. 352-1 s'y applique également.
-Les dispositions de l'article L. 312-1 qui s'appliquent aux établissements de crédit s'appliquent également au Trésor public.
+Le chapitre II du titre Ier du livre III est applicable dans les îles Wallis-et-Futuna, à l'exception des articles L. 312-17
+et L. 312-18.L'article L. 352-1 s'y applique également.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
 
 	**Codifié par**:
 
@@ -59358,17 +59441,12 @@ Les dispositions de l'article L. 312-1 qui s'appliquent aux établissements de c
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II, art. 108 JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 108 () JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L312-1 (M)
-	  - Code monétaire et financier - art. L312-17 (M)
-	  - Code monétaire et financier - art. L312-18 (M)
-	  - Code monétaire et financier - art. L312-3 (M)
-	  - Code monétaire et financier - art. L352-1 (V)
+	  - Code monétaire et financier - art. L312-17
+	  - Code monétaire et financier - art. L352-1
 
 
 ##### Sous-section 3 : Crédits
