@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-11-30
+Version Consolidée au 2008-12-06
 
 # Partie législative
 
@@ -54582,7 +54582,7 @@ Saint-Barthélemy, Saint-Martin, Mayotte, Saint-Pierre-et-Miquelon, la Polynési
 
 #### Chapitre II : Les produits
 
-##### Section unique : Les instruments financiers
+##### Section 1 : Les instruments financiers
 
 ##### Sous-section 1 : Définition et règles générales
 
@@ -54760,16 +54760,6 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 	  - Code monétaire et financier - art. L214-18
 	  - Code monétaire et financier - art. L214-34
 
-
-##### Section 1 : Les instruments financiers
-
-##### Sous-section 1 : Définition et règles générales
-
-##### Sous-section 2 : Les titres de capital et titres donnant accès au capital
-
-##### Sous-section 3 : Les titres de créance
-
-##### Sous-section 4 : Les placements collectifs
 
 ##### Section 2 : Les produits d'épargne
 
@@ -85032,28 +85022,24 @@ enfreindrait la réglementation en vigueur l'une des sanctions suivantes :
 ###### Article R512-25
 
 Les caisses de crédit mutuel sont avisées des sanctions qu'elles encourent et invitées à exprimer leurs observations ou à se
-faire représenter à la séance de la Confédération nationale à laquelle leur cas sera examiné.
+faire représenter à la séance de la Confédération nationale à laquelle leur cas sera examiné. 
 
-Le conseil d'administration de la confédération prononce les sanctions à la majorité des deux tiers des membres présents.
+Le conseil d'administration de la confédération prononce les sanctions à la majorité des deux tiers des membres présents. 
 
-Les décisions de sanctions sont motivées, elles sont portées à la connaissance du Gouvernement et notifiées à la caisse
-intéressée.
+Les décisions de sanctions sont motivées, elles sont portées à la connaissance de la Commission bancaire et notifiées à la
+caisse intéressée. 
 
 La radiation de la liste des caisses de crédit mutuel peut être déférée dans les deux mois, par la caisse intéressée ou par
 la fédération à laquelle elle est rattachée, à l'assemblée générale de la confédération, qui statue dans un délai de trois
-mois à la majorité de ses membres présents ou représentés.
+mois à la majorité de ses membres présents ou représentés. 
 
 Si la radiation est confirmée, la caisse intéressée peut se pourvoir devant la juridiction compétente.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°67-1035 1967-11-25 art 10
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1265 du 4 décembre 2008 - art. 1
 
 
 ##### Section 5 : Le Crédit mutuel agricole et rural.
@@ -85691,8 +85677,9 @@ conformer aux décisions prises par la caisse nationale en application des dispo
 
 ###### Article R512-49
 
-Les collectivités territoriales ne peuvent devenir sociétaires que des sociétés locales d'épargne affiliées à la caisse
-d'épargne et de prévoyance qui exerce son activité dans leur ressort.
+Les collectivités territoriales et les établissements publics de coopération intercommunale à fiscalité propre ne peuvent
+devenir sociétaires que des sociétés locales d'épargne affiliées à la caisse d'épargne et de prévoyance qui exerce son
+activité dans leur ressort.
 
 **Liens relatifs à cet article**
 
@@ -85700,15 +85687,16 @@ d'épargne et de prévoyance qui exerce son activité dans leur ressort.
 
 	  - Décret n°2000-221 du 8 mars 2000 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1262 du 4 décembre 2008 - art. 1
 
 
 ###### Article R512-50
 
-Les demandes de souscription par les collectivités territoriales de parts sociales des sociétés locales d'épargne sont
-servies dans la limite du plafond fixé à l'article L. 512-93.
+Les demandes de souscription par les collectivités territoriales et les établissements publics de coopération intercommunale
+à fiscalité propre de parts sociales des sociétés locales d'épargne sont servies dans la limite du plafond fixé à l'article
+L. 512-93.
 
 **Liens relatifs à cet article**
 
@@ -85716,23 +85704,26 @@ servies dans la limite du plafond fixé à l'article L. 512-93.
 
 	  - Décret n°2000-221 du 8 mars 2000 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1262 du 4 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L512-93 (V)
+	  - Code monétaire et financier - art. L512-93
 
 
 ###### Article R512-51
 
-Les représentants des collectivités territoriales sociétaires de sociétés locales d'épargne au conseil d'orientation et de
-surveillance de la caisse d'épargne et de prévoyance à laquelle ces sociétés sont affiliées sont élus par un collège unique
-constitué par les maires, les présidents des conseils généraux et les présidents des conseils régionaux de ces collectivités
-parmi les membres de leurs assemblées délibérantes. Les maires, les présidents des conseils généraux et les présidents des
-conseils régionaux disposent chacun d'un nombre de voix proportionnel au montant des parts sociales détenues par la
-collectivité territoriale qu'ils représentent, sans toutefois que ce nombre puisse être supérieur à 30 % du total des voix.
+Les représentants des collectivités territoriales et les établissements publics de coopération intercommunale à fiscalité
+propre sociétaires de sociétés locales d'épargne au conseil d'orientation et de surveillance de la caisse d'épargne et de
+prévoyance à laquelle ces sociétés sont affiliées sont élus par un collège unique constitué par les maires, les présidents
+des EPCI à fiscalité propre, les présidents des conseils généraux et les présidents des conseils régionaux de ces
+collectivités parmi les membres de leurs assemblées délibérantes. Les maires, les présidents des EPCI à fiscalité propre, les
+présidents des conseils généraux et les présidents des conseils régionaux disposent chacun d'un nombre de voix proportionnel
+au montant des parts sociales détenues par la collectivité territoriale ou les établissements publics de coopération
+intercommunale à fiscalité propre qu'ils représentent, sans toutefois que ce nombre puisse être supérieur à 30 % du total des
+voix.
 
 **Liens relatifs à cet article**
 
@@ -85740,48 +85731,45 @@ collectivité territoriale qu'ils représentent, sans toutefois que ce nombre pu
 
 	  - Décret n°2000-222 du 8 mars 2000 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1262 du 4 décembre 2008 - art. 2
 
 
 ###### Article R512-52
 
 Le nombre de sièges à pourvoir, qui ne peut être supérieur à trois, est déterminé pour chaque caisse d'épargne et de
 prévoyance en fonction du montant total des parts sociales des sociétés locales d'épargne affiliées détenues par l'ensemble
-des collectivités territoriales.
+des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre. 
 
-Si ce montant est inférieur à 10 % du montant maximal que peuvent détenir des collectivités territoriales, en application du
-plafond fixé à l'article L. 512-93, elles disposent d'un seul siège.
+Si ce montant est inférieur à 10 % du montant maximal que peuvent détenir des collectivités territoriales et des
+établissements publics de coopération intercommunale à fiscalité propre, en application du plafond fixé à l'article L.
+512-93, elles disposent d'un seul siège. 
 
-Si ce montant est compris entre 10 % et 50 % du montant maximal, elles disposent de deux sièges.
+Si ce montant est compris entre 10 % et 50 % du montant maximal, elles disposent de deux sièges. 
 
-Si ce montant est supérieur à 50 % du montant maximal, elles disposent de trois sièges.
+Si ce montant est supérieur à 50 % du montant maximal, elles disposent de trois sièges. 
 
 Le nombre de sièges à pourvoir est fixé quatre mois avant la date de renouvellement des conseils d'orientation et de
 surveillance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2000-222 2000-03-08 art 2 (sauf le dernier alinéa)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1262 du 4 décembre 2008 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L512-93 (V)
+	  - Code monétaire et financier - art. L512-93
 
 
 ###### Article R512-53
 
-Dans le cas où il n'y a qu'un seul siège à pourvoir, le représentant des collectivités territoriales est élu au scrutin
-uninominal majoritaire à deux tours. Toute déclaration de candidature doit comporter la désignation d'un suppléant, répondant
-aux mêmes conditions d'éligibilité que le candidat. Elle doit être signée par le candidat et le suppléant. Nul ne peut être
-suppléant de plusieurs candidats.
+Dans le cas où il n'y a qu'un seul siège à pourvoir, le représentant des collectivités territoriales et des établissements
+publics de coopération intercommunale à fiscalité propre est élu au scrutin uninominal majoritaire à deux tours. Toute
+déclaration de candidature doit comporter la désignation d'un suppléant, répondant aux mêmes conditions d'éligibilité que le
+candidat. Elle doit être signée par le candidat et le suppléant. Nul ne peut être suppléant de plusieurs candidats.
 
 Dans les autres cas, l'élection s'effectue au scrutin de liste proportionnel, sans panachage et sans modification dans le
 nombre et l'ordre de présentation des candidats. Les listes doivent comporter deux fois plus de candidats que de sièges à
@@ -85798,9 +85786,9 @@ Le vote s'effectue par correspondance.
 
 	  - Décret n°2000-222 du 8 mars 2000 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1262 du 4 décembre 2008 - art. 4
 
 
 ###### Article R512-54
@@ -85823,10 +85811,11 @@ Elle procède aux opérations de dépouillement, qui sont publiques et donnent l
 
 ###### Article R512-55
 
-Lorsqu'un représentant des collectivités territoriales au conseil d'orientation et de surveillance de la caisse d'épargne et
-de prévoyance perd son mandat électif ou atteint la limite d'âge prévue par les statuts des caisses d'épargne et de
-prévoyance, il est remplacé, selon le cas, soit par son suppléant s'il a été élu au scrutin uninominal majoritaire à deux
-tours, soit par le premier candidat non élu de la liste s'il a été élu au scrutin de liste.
+Lorsqu'un représentant des collectivités territoriales ou des établissements publics de coopération intercommunale à
+fiscalité propre au conseil d'orientation et de surveillance de la caisse d'épargne et de prévoyance perd son mandat électif
+ou atteint la limite d'âge prévue par les statuts des caisses d'épargne et de prévoyance, il est remplacé, selon le cas, soit
+par son suppléant s'il a été élu au scrutin uninominal majoritaire à deux tours, soit par le premier candidat non élu de la
+liste s'il a été élu au scrutin de liste.
 
 Lorsque les dispositions de l'alinéa précédent ne permettent plus de pourvoir à une vacance, il est procédé à une nouvelle
 élection en vue d'y pourvoir.
@@ -85837,9 +85826,9 @@ Lorsque les dispositions de l'alinéa précédent ne permettent plus de pourvoir
 
 	  - Décret n°2000-222 du 8 mars 2000 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1262 du 4 décembre 2008 - art. 5
 
 
 ##### Sous-section 5 : La Caisse nationale des caisses d'épargne et de prévoyance.
