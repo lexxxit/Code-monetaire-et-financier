@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-12-10
+Version Consolidée au 2008-12-13
 
 # Partie législative
 
@@ -76983,34 +76983,6 @@ Le plafond prévu à l'article R. 221-1 est fixé à 15 300 euros, sauf s'il en 
 	**Cite**:
 
 	  - Code monétaire et financier - art. R221-1 (V)
-
-
-###### Article R*221-7
-
-L'autorité administrative compétente mentionnée à l'article R. 221-6 est le ministre chargé de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 17 (ecqc la décision du ministre)
-	  - Décret n°76-79 1976-01-26 art 2 (alinéas 1 et 2, ecqc la décision du ministre)
-
-	**Créé par**:
-
-	  - Décret n°2005-1006 2005-08-02 Annexe JORF 25 août 2005
-
-	**Codifié par**:
-
-	  - Décret n°2005-1006 2005-08-02 JORF 25 août 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R221-6 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1302 du 11 décembre 2008 - art. 1
 
 
 ###### Article R221-1
