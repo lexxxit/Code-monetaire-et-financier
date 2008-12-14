@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-12-13
+Version Consolidée au 2008-12-15
 
 # Partie législative
 
@@ -68860,6 +68860,43 @@ Le capital initial d'une société d'investissement à capital variable ne peut 
 	  - Code monétaire et financier - art. D214-58 (Ab)
 
 
+###### Article D214-20-3
+
+La SICAV destinée à recevoir les actifs dont la cession ne serait pas conforme à l'intérêt des actionnaires, en application
+de l'article L. 214-19, prend la forme de société d'investissement contractuelle. En application du dernier alinéa de
+l'article L. 214-35-2, ses statuts prévoient que son activité correspond à la gestion extinctive de tout actif qui lui est
+transféré lors de la scission. Les paragraphes I et II de l'article R. 214-19 ne lui sont pas applicables. Par dérogation à
+l'article D. 214-20, son capital initial peut être inférieur à 8 millions d'euros sans toutefois pouvoir être inférieur à 1
+euro. En application de l'article L. 214-19, la SICAV ne peut procéder au rachat de ses actions. 
+
+La SICAV destinée à recevoir les actifs autres que ceux mentionnés au premier alinéa est de la même nature que la SICAV objet
+de la scission. 
+
+Le dépositaire et le commissaire aux comptes des deux SICAV issues de la scission sont, lors de la création de celles-ci, les
+mêmes que ceux de la SICAV objet de la scission. 
+
+La SICAV objet de la scission informe immédiatement les actionnaires et leur transmet notamment un rapport justifiant la
+décision de scission et en détaillant les modalités. Les statuts et les prospectus simplifiés des deux SICAV issues de la
+scission sont également mis à leur disposition. 
+
+Les frais de gestion de la SICAV mentionnée au premier alinéa doivent être adaptés à une gestion de type extinctive.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1312 du 12 décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-922 du 1er août 2011 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-19
+	  - Code monétaire et financier - art. L214-35-2
+
+
 ###### Article R214-20-1
 
 Pour l'application de la seconde phrase du I de l'article L. 233-8 du code de commerce aux sociétés d'investissement à
@@ -68966,6 +69003,51 @@ de titres ultérieurs et selon des modalités fixées par le règlement du fonds
 	**Abrogé par**:
 
 	  - Décret n°2011-922 du 1er août 2011 - art. 1
+
+
+###### Article D214-22-1
+
+Le fonds destiné à recevoir les actifs dont la cession ne serait pas conforme à l'intérêt des porteurs, en application de
+l'article L. 214-30, prend la forme de fonds d'investissement contractuel. En application du dernier alinéa de l'article L.
+214-35-2, son règlement prévoit que son activité correspond à la gestion extinctive de tout actif qui lui est transféré lors
+de la scission. Les paragraphes I et II de l'article R. 214-19 ne lui sont pas applicables. Par dérogation à l'article D.
+214-21, le montant initial de ses actifs peut être inférieur à 400 000 euros sans toutefois pouvoir être inférieur à 1 euro.
+En application de l'article L. 214-30, le fonds ne peut procéder au rachat de ses parts. 
+
+Le fonds destiné à recevoir les actifs autres que ceux mentionnés au premier alinéa est de la même nature que le fonds objet
+de la scission. 
+
+Le dépositaire, le commissaire aux comptes et la société de gestion des deux fonds issus de la scission sont, lors de la
+création de ceux-ci, les mêmes que ceux du fonds objet de la scission. 
+
+La société de gestion informe immédiatement les porteurs du fonds objet de la scission et leur transmet notamment un rapport
+justifiant la décision de scission et en détaillant les modalités. Elle met également à leur disposition les prospectus
+simplifiés et les règlements des deux fonds issus de la scission. 
+
+Au plus tard dans les huit jours qui suivent la réalisation de la scission, les contrôleurs légaux établissent un rapport
+fixant la liste des actifs transférés lors de la scission. Ce rapport est tenu à la disposition des porteurs par la société
+de gestion. 
+
+Les frais de gestion du fonds mentionné au premier paragraphe doivent être adaptés à une gestion de type extinctive.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 411-133 (V)
+	  - Arrêté du 12 novembre 2004 - art. 411-134 (V)
+	  - Décret n°2014-87 du 30 janvier 2014 (V)
+	  - Code monétaire et financier - art. D214-32-1 (V)
+	  - Code monétaire et financier - art. R214-186 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-1312 du 12 décembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-30
+	  - Code monétaire et financier - art. L214-35-2
 
 
 ##### Sous-section 4 : Organismes de placement collectif en valeurs mobilières à compartiments.
@@ -69339,6 +69421,31 @@ susmentionnée lorsqu'ils utilisent la dérogation prévue au premier alinéa du
 
 
 ##### Sous-section 9 : Organismes de placement collectif en valeurs mobilières réservés à certains investisseurs.
+
+###### Article D214-28-1
+
+La convention établie en application de l'article L. 214-34-1 fixe les modalités selon lesquelles la conservation des actifs
+de l'organisme sera déléguée à un établissement tiers habilité à exercer cette fonction. Lorsque la conservation est ainsi
+déléguée, la convention peut limiter l'obligation de restitution des actifs incombant au dépositaire. Les obligations du
+dépositaire quant à la mise en œuvre et au contrôle des modalités de conservation restent inchangées.
+
+**Nota:**
+
+Une anomalie s'est glissée dans le décret 2008-1312 du 12 décembre 2008 JORF du 14 décembre 2008 qui crée l'article D214-28-1
+du code monétaire et financier.
+
+Un prochain rectificatif précisera le numéro de cet article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 323-14 (M)
+
+	**Créé par**:
+
+	  - Décret n°2008-1312 du 12 décembre 2008 - art. 1
+
 
 ##### Paragraphe 1 : Organismes de placement collectif en valeurs mobilières à règles d'investissement allégées.
 
