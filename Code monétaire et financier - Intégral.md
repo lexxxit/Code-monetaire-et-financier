@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-12-15
+Version Consolidée au 2008-12-20
 
 # Partie législative
 
@@ -70515,6 +70515,29 @@ leur montant estimé.
 	  - Code monétaire et financier - art. R214-42 (V)
 	  - Code monétaire et financier - art. R214-46 (V)
 	  - Code monétaire et financier - art. R214-47 (V)
+
+
+##### Paragraphe 4 - Fonds communs de placement à risques contractuels 				 					  
+
+###### Article D214-50-1
+
+La limite prévue à la seconde phrase du quatrième alinéa de l'article L. 214-38-1 est fixée à 15 %. Pour l'appréciation de
+cette limite, est inscrit au dénominateur le plus élevé des deux montants suivants : l'actif net du fonds ou le montant
+libéré des souscriptions dans le fonds.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1341 du 17 décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-922 du 1er août 2011 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-38-1
 
 
 ##### Sous-section 11 : Fonds communs de placement d'entreprise.
