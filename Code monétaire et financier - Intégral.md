@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-12-27
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -125,27 +125,26 @@ dispositions de l'article 759 du code civil.
 ###### Article L112-3
 
 Par dérogation aux dispositions de l'article L. 112-1 et du premier alinéa de l'article L. 112-2 et selon des modalités
-définies par décret, peuvent être indexés sur le niveau général des prix : 
+définies par décret, peuvent être indexés sur le niveau général des prix :
 
-1° Les titres de créance et les instruments financiers à terme mentionnés aux 2 et 4 du I de l'article L. 211-1 ; 
+1° Les titres de créance et les instruments financiers à terme mentionnés aux 2 et 4 du I de l'article L. 211-1 ;
 
-2° Les premiers livrets de la Caisse nationale d'épargne et des caisses d'épargne et de prévoyance, ainsi que les comptes
-spéciaux sur livret du crédit mutuel définis à l'article L. 221-1 ; 
+2° Les livrets A définis à l'article L. 221-1 ; 
 
-3° Les comptes sur livret d'épargne populaire définis à l'article L. 221-13 ; 
+3° Les comptes sur livret d'épargne populaire définis à l'article L. 221-13 ;
 
-4° Les comptes pour le développement industriel définis à l'article L. 221-27 ; 
+4° Les livrets de développement durable définis à l'article L. 221-27 ; 
 
-5° Les comptes d'épargne-logement définis à l'article L. 315-1 du code de la construction et de l'habitation ; 
+5° Les comptes d'épargne-logement définis à l'article L. 315-1 du code de la construction et de l'habitation ;
 
 6° Les livrets d'épargne-entreprise définis à l'article 1er de la loi n° 84-578 du 9 juillet 1984 sur le développement de
-l'initiative économique ; 
+l'initiative économique ;
 
 7° Les livrets d'épargne institués au profit des travailleurs manuels définis à l'article 80 de la loi de finances pour 1977
-(n° 76-1232 du 29 décembre 1976) ; 
+(n° 76-1232 du 29 décembre 1976) ;
 
 8° Les prêts accordés aux personnes morales ainsi qu'aux personnes physiques pour les besoins de leur activité
-professionnelle ; 
+professionnelle ;
 
 9° Les loyers prévus par les conventions portant sur un local d'habitation ou sur un local affecté à des activités
 commerciales relevant du décret prévu au premier alinéa de l'article L. 112-2.
@@ -158,14 +157,14 @@ commerciales relevant du décret prévu au premier alinéa de l'article L. 112-2
 
 	**Cite**:
 
-	  - Loi n°76-1232 du 29 décembre 1976 - art. 80 (V)
-	  - Loi n°84-578 du 9 juillet 1984 - art. 1 (V)
-	  - Code monétaire et financier - art. L112-2 (V)
-	  - Code monétaire et financier - art. L211-1 (V)
-	  - Code monétaire et financier - art. L221-1 (VT)
-	  - Code monétaire et financier - art. L221-13 (V)
-	  - Code monétaire et financier - art. L221-27 (VT)
-	  - Code de la construction et de l'habitation. - art. L315-1 (V)
+	  - Loi n°76-1232 du 29 décembre 1976
+	  - Loi n°84-578 du 9 juillet 1984 - art. 1
+	  - Code monétaire et financier - art. L112-2
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L221-1
+	  - Code monétaire et financier - art. L221-13
+	  - Code monétaire et financier - art. L221-27
+	  - Code de la construction et de l'habitation. - art. L315-1
 
 	**Codifié par**:
 
@@ -173,7 +172,7 @@ commerciales relevant du décret prévu au premier alinéa de l'article L. 112-2
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 40
+	  - Loi n°2008-776 du 4 août 2008 - art. 145
 
 	**Cité par**:
 
@@ -16168,21 +16167,10 @@ scission et la liquidation des compartiments.
 
 ##### Section 1 : Le livret A
 
-##### Sous-section 1 : Dispositions communes
-
-##### Paragraphe 1 : Dispositions communes aux caisses d'épargne et de prévoyance, à la Caisse nationale d'épargne et au Crédit mutuel.
-
 ###### Article L221-1
 
-Les sommes versées sur un premier livret de la Caisse nationale d'épargne ou des caisses d'épargne et de prévoyance, dénommé
-livret A, ou sur un compte spécial sur livret du crédit mutuel, sont soumises à plafonnement dans des conditions fixées par
-voie réglementaire.
-
-Les sommes versées en excédent du plafond peuvent être déposées sur un ou plusieurs livrets supplémentaires. Les livrets de
-caisse d'épargne sont nominatifs.
-
-Une même personne ne peut être titulaire que d'un seul livret A de caisse d'épargne ou d'un seul compte spécial sur livret du
-Crédit mutuel.
+Le livret A peut être proposé par tout établissement de crédit habilité à recevoir du public des fonds à vue et qui s'engage
+à cet effet par convention avec l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -16211,39 +16199,19 @@ Crédit mutuel.
 	  - Code monétaire et financier - art. R743-6-1 A (V)
 	  - Code monétaire et financier - art. R753-6-1 A (V)
 
-	**Anciens textes**:
-
-	  - Décret n°65-1158 1965-12-24 art. 1
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 29 () JORF 7 mai 2005
+	  - Loi n°2008-776 du 4 août 2008 - art. 145
 
-
-##### Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne.
 
 ###### Article L221-2
 
-Les caisses d'épargne peuvent rembourser à vue les fonds déposés mais les remboursements ne sont exigibles que dans un délai
-de quinzaine.
-
-Les délais supplémentaires sont fixés par décret pour les opérations nécessitant l'intervention d'un bureau ou d'une caisse
-situé en dehors de la France continentale.
-
-En cas de force majeure, un décret en Conseil d'Etat pris sur le rapport du ministre chargé de l'économie et du ministre
-chargé de La Poste peut limiter les remboursements par quinzaine à 2 % du maximum autorisé des dépôts sur le livret A. Les
-dépôts postérieurs au décret sont libérés de la clause de sauvegarde.
-
-Cette clause de sauvegarde n'est pas applicable aux sociétés d'assistance aux blessés, reconnues d'utilité publique. Des
-dérogations spéciales peuvent être accordées par le ministre chargé de l'économie aux livrets de sociétés utiles à la défense
-nationale ou ayant pour but la lutte contre l'exclusion.
-
-Les dispositions relatives au remboursement sont portées à la connaissance des déposants dans des conditions prévues par voie
-réglementaire.
+L'établissement de crédit mentionné à l'article L. 518-25-1 ouvre un livret A à toute personne mentionnée à l'article L.
+221-3 qui en fait la demande.
 
 **Liens relatifs à cet article**
 
@@ -16255,36 +16223,37 @@ réglementaire.
 	  - Code monétaire et financier - art. L752-6-1 (V)
 	  - Code monétaire et financier - art. L755-7-1 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 30 () JORF 7 mai 2005
+	  - Loi n°2008-776 du 4 août 2008 - art. 145
 
 	**Anciens textes**:
 
 	  - Code des caisses d'épargne - art. 11 (Ab)
 
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-3 (VD)
+	  - Code monétaire et financier - art. L518-25-1 (VD)
+
 
 ###### Article L221-3
 
-Tout déposant peut faire transférer ses fonds d'une caisse d'épargne et de prévoyance à une autre, ou d'une caisse d'épargne
-et de prévoyance à la Caisse nationale d'épargne, ou de la Caisse nationale d'épargne à une caisse d'épargne et de
-prévoyance.
+Le livret A est ouvert aux personnes physiques, aux associations mentionnées au 5 de l'article 206 du code général des impôts
+et aux organismes d'habitations à loyer modéré. 
+
+Les mineurs sont admis à se faire ouvrir des livrets A sans l'intervention de leur représentant légal. Ils peuvent retirer,
+sans cette intervention, les sommes figurant sur les livrets ainsi ouverts, mais seulement après l'âge de seize ans révolus
+et sauf opposition de la part de leur représentant légal. 
+
+Une même personne ne peut être titulaire que d'un seul livret A ou d'un seul compte spécial sur livret du Crédit mutuel
+ouvert avant le 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 31 () JORF 7 mai 2005
+	  - Loi n°2008-776 du 4 août 2008 - art. 145
 
 	**Cité par**:
 
@@ -16303,23 +16272,26 @@ prévoyance.
 	  - Code monétaire et financier - art. R752-8 (V)
 	  - Code monétaire et financier - art. R762-8 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code des caisses d'épargne - art. 12 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 206 (V)
 
 
 ###### Article L221-4
 
-Les mineurs sont admis à se faire ouvrir des livrets sans l'intervention de leur représentant légal. Ils peuvent retirer sans
-cette intervention, mais seulement après l'âge de seize ans révolus, les sommes figurant sur les livrets ainsi ouverts, sauf
-opposition de la part de leur représentant légal.
+Un décret en Conseil d'Etat précise les modalités d'ouverture, de fonctionnement et de clôture du livret A. 
+
+Les versements effectués sur un livret A ne peuvent porter le montant inscrit sur le livret au-delà d'un plafond fixé par le
+décret prévu au premier alinéa. 
+
+Le même décret précise les montants minimaux des opérations individuelles de retrait et de dépôt pour les établissements qui
+proposent le livret A et pour l'établissement de crédit mentionné à l'article L. 518-25-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°2008-776 du 4 août 2008 - art. 145
 
 	**Cité par**:
 
@@ -16336,27 +16308,45 @@ opposition de la part de leur représentant légal.
 
 	  - Code des caisses d'épargne - art. 13 (Ab)
 
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-25-1 (V)
+
 
 ###### Article L221-5
 
-Lorsqu'il s'est écoulé un délai de trente ans à partir tant du dernier versement ou remboursement que de tout achat de rente
-et de toute autre opération effectuée à la demande des déposants, les sommes que détiennent les caisses d'épargne au compte
-de ceux-ci sont prescrites à leur égard. Elles sont réparties entre les caisses d'épargne à concurrence des deux cinquièmes
-et, pour le surplus, versées au fonds national de solidarité et d'action mutualiste.
+Une quote-part du total des dépôts collectés au titre du livret A et du livret de développement durable régi par l'article L.
+221-27 par les établissements distribuant l'un ou l'autre livret est centralisée par la Caisse des dépôts et consignations
+dans le fonds prévu à l'article L. 221-7. 
 
-A l'égard des versements faits sous la condition stipulée par le donateur ou le testateur que le titulaire n'en pourra
-disposer qu'après une date déterminée, le délai de trente ans ne court qu'à partir de cette date.
+Le taux de centralisation des dépôts collectés au titre du livret A et du livret de développement durable est fixé de manière
+à ce que les ressources centralisées sur ces livrets dans le fonds prévu à l'article L. 221-7 soient au moins égales au
+montant des prêts consentis au bénéfice du logement social et de la politique de la ville par la Caisse des dépôts et
+consignations au titre de ce même fonds, affecté d'un coefficient multiplicateur égal à 1, 25. 
+
+Un décret en Conseil d'Etat pris après avis de la commission de surveillance de la Caisse des dépôts et consignations précise
+les conditions de mise en œuvre des deux premiers alinéas. 
+
+Les ressources collectées par les établissements distribuant le livret A ou le livret de développement durable et non
+centralisées en application des alinéas précédents sont employées par ces établissements au financement des petites et
+moyennes entreprises, notamment pour leur création et leur développement, ainsi qu'au financement des travaux d'économie
+d'énergie dans les bâtiments anciens. Les dépôts dont l'utilisation ne satisfait pas à cette condition sont centralisés à la
+Caisse des dépôts et consignations. 
+
+Les établissements distribuant le livret A ou le livret de développement durable rendent public annuellement un rapport
+présentant l'emploi des ressources collectées au titre de ces deux livrets et non centralisées. 
+
+Ces établissements fournissent, une fois par trimestre, au ministre chargé de l'économie, une information écrite sur les
+concours financiers accordés à l'aide des ressources ainsi collectées. 
+
+La forme et le contenu des informations mentionnées aux deux alinéas précédents sont fixés par arrêté du ministre chargé de
+l'économie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 32 () JORF 7 mai 2005
+	  - Loi n°2008-776 du 4 août 2008 - art. 145
 
 	**Cité par**:
 
@@ -16381,25 +16371,25 @@ disposer qu'après une date déterminée, le délai de trente ans ne court qu'à
 	  - Code monétaire et financier - art. R221-8 (VD)
 	  - Code monétaire et financier - art. R518-52 (Ab)
 
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 18 (MMN)
-
 
 ###### Article L221-6
 
-Aucune saisie-attribution ou opposition, aucun transfert ou cession, aucune signification ayant pour objet d'arrêter le
-paiement à distance des opérations pour compte effectuées par les caisses d'épargne et de prévoyance ne peuvent avoir d'effet
-s'ils interviennent après que la caisse d'épargne détentrice du compte a donné son autorisation à la caisse chargée du
-paiement et, pour la Caisse nationale d'épargne, après que le service détenteur du compte a donné son autorisation au bureau
-de poste chargé du paiement.
+Les établissements distribuant le livret A et ceux distribuant le livret de développement durable perçoivent une rémunération
+en contrepartie de la centralisation opérée. Ses modalités de calcul sont fixées par décret en Conseil d'Etat après avis de
+la commission de surveillance de la Caisse des dépôts et consignations. 
+
+L'établissement de crédit mentionné à l'article L. 518-25-1 perçoit une rémunération complémentaire au titre des obligations
+spécifiques qui lui incombent en matière de distribution et de fonctionnement du livret A. Les modalités de calcul de cette
+rémunération complémentaire sont fixées par décret en Conseil d'Etat. 
+
+La rémunération et la rémunération complémentaire mentionnées aux deux alinéas précédents sont supportées par le fonds prévu
+à l'article L. 221-7.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°2008-776 du 4 août 2008 - art. 145
 
 	**Cité par**:
 
@@ -16418,22 +16408,33 @@ de poste chargé du paiement.
 
 	  - Code des caisses d'épargne - art. 26 (Ab)
 
+	**Cite**:
 
-##### Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance.
+	  - Code monétaire et financier - art. L518-25-1 (V)
+
 
 ###### Article L221-7
 
-Les sommes détenues par les caisses d'épargne et de prévoyance au compte des déposants et qui sont susceptibles d'être
-prescrites font l'objet d'avis individuels et de mesures d'affichage selon des modalités prévues par décret en Conseil
-d'Etat. Elles ne peuvent, à partir de l'exécution de ces mesures, être réclamées par l'Etat en cas de déshérence ou de
-déclaration d'absence. Il en est de même des sommes figurant aux comptes exemptés des mesures précitées.
+I.-Les sommes mentionnées à l'article L. 221-5 sont centralisées par la Caisse des dépôts et consignations dans un fonds géré
+par elle et dénommé fonds d'épargne. 
+
+II.-La Caisse des dépôts et consignations, après accord de sa commission de surveillance et après autorisation du ministre
+chargé de l'économie, peut émettre des titres de créances au bénéfice du fonds. 
+
+III.-Les sommes centralisées en application de l'article L. 221-5 ainsi que, le cas échéant, le produit des titres de
+créances mentionnés au II du présent article sont employés en priorité au financement du logement social. Une partie des
+sommes peut être utilisée pour l'acquisition et la gestion d'instruments financiers définis à l'article L. 211-1. 
+
+IV.-Les emplois du fonds d'épargne sont fixés par le ministre chargé de l'économie. La commission de surveillance de la
+Caisse des dépôts et consignations présente au Parlement le tableau des ressources et emplois du fonds d'épargne mentionné au
+présent article pour l'année expirée. 
+
+V.-La garantie de l'Etat dont bénéficient les sommes déposées par les épargnants sur les livrets dont les dépôts sont
+centralisés en tout ou partie dans le fonds d'épargne ainsi que celle dont bénéficient les créances détenues sur le fonds
+d'épargne par les établissements distribuant ces livrets sont régies par l'article 120 de la loi n° 2008-1443 du 30 décembre
+2008 de finances rectificative pour 2008.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -16460,27 +16461,25 @@ déclaration d'absence. Il en est de même des sommes figurant aux comptes exemp
 	  - Code monétaire et financier - art. R221-11 (V)
 	  - Code monétaire et financier - art. R221-58 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 120 (M)
+
 	**Anciens textes**:
 
 	  - Code des caisses d'épargne - art. 44 (Ab)
-	  - Code des caisses d'épargne - art. 44 (M)
 
 
 ###### Article L221-8
 
-Les sommes déposées sur le livret A des caisses d'épargne et de prévoyance sont centralisées à la caisse des dépôts et
-consignations et bénéficient de la garantie de l'Etat.
+Les opérations relatives au livret A ainsi que celles relatives aux comptes spéciaux sur livret du Crédit mutuel ouverts
+avant le 1er janvier 2009 sont soumises au contrôle sur pièces et sur place de l'inspection générale des finances.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°99-532 du 25 juin 1999 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -16491,43 +16490,27 @@ consignations et bénéficient de la garantie de l'Etat.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 33 () JORF 7 mai 2005
-
-
-###### Article L221-8-1
-
-Les opérations des caisses d'épargne et de prévoyance relatives aux produits d'épargne à régime fiscal spécifique ou dont
-l'emploi est réglementé ou qui bénéficient d'une garantie de l'Etat sont soumises au contrôle sur pièces et sur place de
-l'inspection générale des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°2003-591 du 2 juillet 2003 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 34
-
-	**Abrogé par**:
-
 	  - Loi n°2008-776 du 4 août 2008 - art. 145
 
 
-##### Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne.
-
 ###### Article L221-9
 
-Tout déposant muni d'un livret de la Caisse nationale d'épargne peut effectuer ses versements et opérer ses retraits dans
-tous les bureaux de poste français dûment organisés en agences de cette caisse.
+Il est créé un observatoire de l'épargne réglementée chargé de suivre la mise en œuvre de la généralisation de la
+distribution du livret A, notamment son impact sur l'épargne des ménages, sur le financement du logement social et sur le
+développement de l'accessibilité bancaire. 
+
+Les établissements de crédit fournissent à l'observatoire les informations nécessaires à l'exercice de sa mission. 
+
+Un décret en Conseil d'Etat précise l'organisation et le fonctionnement de l'observatoire, ainsi que la liste et la
+périodicité des informations que les établissements distribuant le livret A lui adressent.L'observatoire de l'épargne
+réglementée remet un rapport annuel au Parlement et au Gouvernement sur la mise en œuvre de la généralisation de la
+distribution du livret A.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°2008-776 du 4 août 2008 - art. 145
 
 	**Cité par**:
 
@@ -16536,101 +16519,6 @@ tous les bureaux de poste français dûment organisés en agences de cette caiss
 	**Anciens textes**:
 
 	  - Code des caisses d'épargne - art. 28 (Ab)
-
-
-###### Article L221-10
-
-L'établissement de crédit visé à l'article L. 518-26 ouvre un compte sur livret à toute personne par laquelle des fonds sont
-versés, à titre d'épargne.
-
-**Nota:**
-
-Loi 2005-516 2005-05-20 art. 16 V : 
-
-1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
-juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
-dispositions. 
-
-2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
-2005 fixe la date de transfert prévu au 31 décembre 2005.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2005-516 du 20 mai 2005 - art. 16 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 145
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 27 (Ab)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L518-26
-
-
-##### Sous-section 4 : Dispositions spécifiques au Crédit mutuel.
-
-###### Article L221-11
-
-Les caisses de crédit mutuel régies par les articles L. 512-55 à L. 512-59 peuvent ouvrir à leurs déposants un compte spécial
-sur livret dans des conditions définies par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1242 1975-12-27 art. 9 I
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 9 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 145
-
-
-###### Article L221-12
-
-Les sommes inscrites à ce compte ne peuvent excéder les montants maxima prévus pour le livret A des caisses d'épargne.
-
-La moitié des sommes figurant sur les comptes spéciaux sur livret du crédit mutuel est affectée à des emplois d'intérêt
-général. La nature de ces emplois et les modalités de réalisation de cette obligation sont fixées par arrêté du ministère
-chargé de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 9 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 35
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 145
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L512-63 (V)
 
 
 ##### Section 2 : L'épargne populaire
@@ -16769,31 +16657,6 @@ remplissent les conditions de stabilité qui sont fixées à six mois civils.
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R221-48 (Ab)
-
-
-###### Article L221-17-1
-
-Ainsi qu'il est dit à l'article 83 de la loi n° 82-1126 du 29 décembre 1982 portant loi de finances pour 1983, la garantie de
-l'Etat est accordée au remboursement en capital, intérêts et complément de rémunération aux fonds déposés sur les comptes sur
-livret d'épargne populaire ouverts en application des dispositions de la présente sous-section.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 83, v. init.
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 37 () JORF 7 mai 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 120 (V)
 
 
 ###### Article L221-17-2
@@ -17097,16 +16960,17 @@ finances et les établissements et organismes collecteurs sont, à raison de cet
 ###### Article L221-27
 
 Le livret de développement durable est ouvert par les personnes physiques ayant leur domicile fiscal en France dans les
-établissements et organismes autorisés à recevoir des dépôts. Les sommes déposées sur ce livret servent au financement des
-petites et moyennes entreprises et des travaux d'économies d'énergie dans les bâtiments anciens.
+établissements et organismes autorisés à recevoir des dépôts. Les sommes déposées sur ce livret sont employées conformément à
+l'article L. 221-5. 
 
-Le plafond des versements sur ce livret est fixé par voie réglementaire.
+Les versements effectués sur un livret de développement durable ne peuvent porter le montant inscrit sur le livret au-delà
+d'un plafond fixé par voie réglementaire. 
 
 Il ne peut être ouvert qu'un livret par contribuable ou un livret pour chacun des époux ou partenaires liés par un pacte
-civil de solidarité, soumis à une imposition commune.
+civil de solidarité, soumis à une imposition commune. 
 
 Les modalités d'ouverture et de fonctionnement du livret de développement durable, ainsi que la nature des travaux
-d'économies d'énergie auxquels sont affectées les sommes déposées sur ce livret, sont fixées par voie réglementaire.
+d'économies d'énergie auxquels sont affectées les sommes déposées sur ce livret, sont fixées par voie réglementaire. 
 
 Les opérations relatives au livret de développement durable sont soumises au contrôle sur pièces et sur place de l'inspection
 générale des finances.
@@ -17115,7 +16979,6 @@ générale des finances.
 
 	**Anciens textes**:
 
-	  - Loi n°83-607 1983-07-08 art. 5 et art. 7 al. 1
 	  - Loi n°83-607 du 8 juillet 1983 - art. 5 (M)
 	  - Loi n°83-607 du 8 juillet 1983 - art. 7 (M)
 
@@ -17139,37 +17002,6 @@ générale des finances.
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Modifié par**:
-
-	  - Loi n°2006-1771 2006-12-30 art. 30 I, II Finances rectificative pour 2006 JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 30 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-
-###### Article L221-28
-
-Les établissements recevant des dépôts sur des livrets de développement durable mettent à la disposition des titulaires de
-ces livrets, une fois par an, une information écrite sur les concours financiers accordés à l'aide des fonds ainsi collectés.
-
-Ces établissements fournissent, une fois par trimestre, au ministre chargé de l'économie, une information écrite sur les
-concours financiers accordés à l'aide des fonds ainsi collectés.
-
-La forme et le contenu des informations écrites mentionnées aux deux alinéas précédents sont fixés par arrêté du ministre
-chargé de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-607 du 8 juillet 1983 - art. 8 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 15 juillet 1998 - art. 1 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
 
 	  - Loi n°2008-776 du 4 août 2008 - art. 145
 
@@ -17640,6 +17472,42 @@ habilités à cet effet et par le gouverneur de la Banque de France.
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L742-6-2 (V)
+
+
+###### Article L221-38
+
+L'établissement qui est saisi d'une demande d'ouverture d'un produit d'épargne relevant du présent chapitre est tenu de
+vérifier préalablement à cette ouverture si la personne détient déjà ce produit. Il ne peut être procédé à l'ouverture d'un
+nouveau produit si la personne en détient déjà un. Un décret en Conseil d'Etat précise les modalités de cette vérification.
+
+**Nota:**
+
+Loi n° 2008-776 du 4 août 2008 art. 146 VI : L'article L. 221-38 du code monétaire et financier est applicable à la date
+d'entrée en vigueur du décret en Conseil d'Etat prévu par cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 145
+
+	**Cité par**:
+
+	  - Décret n°2012-1128 du 4 octobre 2012 (V)
+	  - Arrêté du 31 octobre 2012 - art. 6 (VD)
+	  - Code monétaire et financier - art. L712-5 (VT)
+	  - Code monétaire et financier - art. L742-6-1 (V)
+	  - Code monétaire et financier - art. L745-7-1 (V)
+	  - Code monétaire et financier - art. L752-6-1 (V)
+	  - Code monétaire et financier - art. L755-7-1 (V)
+	  - Code monétaire et financier - art. L762-6-1 (V)
+	  - Code monétaire et financier - art. R221-121 (VD)
+	  - Code monétaire et financier - art. R221-122 (VD)
+	  - Livre des procédures fiscales - art. L166 A (VD)
 
 
 #### Chapitre II : Produits d'épargne salariale
@@ -18692,35 +18560,40 @@ que soit le support ou le procédé technique utilisé.
 ###### Article L312-1
 
 Toute personne physique ou morale domiciliée en France, dépourvue d'un compte de dépôt, a droit à l'ouverture d'un tel compte
-dans l'établissement de crédit de son choix ou auprès des services.
+dans l'établissement de crédit de son choix.
 
 L'ouverture d'un tel compte intervient après remise auprès de l'établissement de crédit d'une déclaration sur l'honneur
 attestant le fait que le demandeur ne dispose d'aucun compte. En cas de refus de la part de l'établissement choisi, la
-personne peut saisir la Banque de France afin qu'elle lui désigne soit un établissement de crédit, soit les services
-financiers de La Poste.
+personne peut saisir la Banque de France afin qu'elle lui désigne un établissement de crédit situé à proximité de son
+domicile ou d'un autre lieu de son choix, en prenant en considération les parts de marché de chaque établissement concerné,
+dans un délai d'un jour ouvré à compter de la réception des pièces requises. L'établissement de crédit qui a refusé
+l'ouverture d'un compte informe le demandeur que celui-ci peut demander à la Banque de France de lui désigner un
+établissement de crédit pour lui ouvrir un compte. Il lui propose, s'il s'agit d'une personne physique, d'agir en son nom et
+pour son compte en transmettant la demande de désignation d'un établissement de crédit à la Banque de France ainsi que les
+informations requises pour l'ouverture du compte.
 
-Les établissements de crédit ou les services ne pourront limiter les services liés à l'ouverture d'un compte de dépôt aux
-services bancaires de base que dans des conditions définies par décret.
+L'Association française des établissements de crédit et des entreprises d'investissement, mentionnée à l'article L. 511-29,
+adopte une charte d'accessibilité bancaire afin de renforcer l'effectivité du droit au compte. Cette charte précise les
+délais et les modalités de transmission, par les établissements de crédit à la Banque de France, des informations requises
+pour l'ouverture d'un compte. Elle définit les documents d'information que les établissements de crédit doivent mettre à
+disposition de la clientèle et les actions de formation qu'ils doivent réaliser. 
+
+La charte d'accessibilité bancaire, homologuée par arrêté du ministre chargé de l'économie, après avis du comité consultatif
+du secteur financier et du comité consultatif de la législation et de la réglementation financières, est applicable à tout
+établissement de crédit. Le contrôle du respect de la charte est assuré par la Commission bancaire et relève de la procédure
+prévue à l'article L. 613-15. 
+
+Les établissements de crédit ne peuvent limiter les services liés à l'ouverture d'un compte de dépôt aux services bancaires
+de base que dans des conditions définies par décret. 
 
 En outre, l'organisme désigné par la Banque de France, limitant l'utilisation du compte de dépôt aux services bancaires de
-base, exécute sa mission dans des conditions tarifaires fixées par décret.
+base, exécute sa mission dans des conditions tarifaires fixées par décret. 
 
 Toute décision de clôture de compte à l'initiative de l'établissement de crédit désigné par la Banque de France doit faire
 l'objet d'une notification écrite et motivée adressée au client et à la Banque de France pour information. Un délai minimum
-de quarante-cinq jours doit être consenti obligatoirement au titulaire du compte.
+de quarante-cinq jours doit être consenti obligatoirement au titulaire du compte. 
 
 Ces dispositions s'appliquent aux interdits bancaires.
-
-**Nota:**
-
-(1) : Loi 2005-516 2005-05-20 art. 16 V :
-
-1 - Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du
-2 juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par
-ces dispositions.
-
-2 - Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
-2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -18776,7 +18649,12 @@ ces dispositions.
 
 	**Modifié par**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
+	  - Loi n°2008-776 du 4 août 2008 - art. 145
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-29 (V)
+	  - Code monétaire et financier - art. L613-15 (V)
 
 
 ###### Article L312-1-1
@@ -34562,44 +34440,6 @@ des cotisations auprès des caisses d'épargne et de prévoyance.
 	  - Loi n°2008-776 du 4 août 2008 - art. 148
 
 
-##### Sous-section 7 : Fonds de réserve et de garantie.
-
-###### Article L512-101
-
-Il existe un fonds de réserve et de garantie des caisses d'épargne et de prévoyance auprès de la caisse des dépôts et
-consignations.
-
-Les modalités d'affectation à cette réserve sont déterminées par voie réglementaire.
-
-Le fonds de réserve et de garantie des caisses d'épargne et de prévoyance est géré par la Caisse des dépôts et consignations
-sous le contrôle de la commission de surveillance dans les conditions prévues à l'article L. 518-7.
-
-Il est rendu compte de ces opérations dans un chapitre spécial du rapport annuel présenté au Parlement par la commission de
-surveillance conformément à l'article L. 518-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 146 (V)
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 54 (Ab)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R221-8 (V)
-	  - Code monétaire et financier - art. R512-59 (Ab)
-	  - Code monétaire et financier - art. R512-60 (Ab)
-	  - Code monétaire et financier - art. R518-52 (Ab)
-
-
 ##### Sous-section 8 : Dispositions générales
 
 ###### Article L512-102
@@ -37735,110 +37575,42 @@ dispositions.
 	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 
-##### Section 4 : La Caisse nationale d'épargne
+###### Article L518-25-1
 
-###### Article L518-26
+I.-Un établissement de crédit, dont La Poste détient la majorité du capital, reçoit les dépôts du livret A dans les
+conditions prévues à la section 1 du chapitre Ier du titre II du livre II. 
 
-La Caisse nationale d'épargne est une caisse d'épargne publique instituée sous la garantie de l'Etat pour recevoir les dépôts
-du Livret A dans les conditions définies aux articles L. 221-1 et suivants, sans préjudice des dispositions propres aux
-caisses d'épargne ordinaires ; elle est placée sous l'autorité du ministre chargé de l'économie.
+II.-L'Etat et cet établissement de crédit concluent une convention qui précise les conditions applicables à cet établissement
+pour la distribution et le fonctionnement du livret A. 
 
-La Caisse nationale d'épargne peut recevoir des dons et legs dans les formes et selon les règles prévues pour les
-établissements d'utilité publique.
-
-La Caisse nationale d'épargne est gérée, pour le compte de l'Etat, par un établissement de crédit dont La Poste détient la
-majorité du capital, dans des conditions déterminées par une convention conclue entre l'Etat, La Poste et cet établissement.
-
-**Nota:**
-
-Loi 2005-516 2005-05-20 art. 16 V : 
-
-1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
-juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
-dispositions. 
-
-2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
-2005 fixe la date de transfert prévu au 31 décembre 2005.
+III.-La Poste et ce même établissement de crédit concluent une convention, dans les conditions prévues à l'article L. 518-25,
+qui précise les conditions dans lesquelles tout déposant muni d'un livret A ouvert auprès de cet établissement peut effectuer
+ses versements et opérer ses retraits dans les bureaux de poste dûment organisés à cet effet.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°90-568 du 2 juillet 1990 - art. 2 (VD)
+	  - Décret n°97-1038 du 12 novembre 1997 - art. 1 (VD)
+	  - Code monétaire et financier - art. L221-2 (VT)
+	  - Code monétaire et financier - art. L221-4 (VD)
+	  - Code monétaire et financier - art. L221-6 (V)
+	  - Code monétaire et financier - art. R221-3 (V)
+	  - Code monétaire et financier - art. R221-5 (V)
+	  - Code monétaire et financier - art. R221-8-1 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cité par**:
+	**Créé par**:
 
-	  - Loi - art. 80 (M)
-	  - Code monétaire et financier - art. L221-10 (VT)
-	  - Code monétaire et financier - art. R221-26 (Ab)
-	  - Code monétaire et financier - art. R221-27-1 (Ab)
-	  - Code monétaire et financier - art. R518-46 (Ab)
-	  - Code monétaire et financier - art. R518-47 (Ab)
-	  - Code monétaire et financier - art. R518-51 (Ab)
-	  - Code monétaire et financier - art. R518-52 (Ab)
-	  - Code monétaire et financier - art. R518-54 (Ab)
-	  - Code monétaire et financier - art. R518-55 (Ab)
+	  - Loi n°2008-776 du 4 août 2008 - art. 145
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 146 (V)
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 3 (Ab)
-	  - Code des caisses d'épargne - art. 39 (Ab)
-
-
-###### Article L518-27
-
-Le mode de contrôle de la Caisse nationale d'épargne est déterminé par un décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 146 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 12 février 2015 (V)
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 40 (Ab)
-
-
-###### Article L518-28
-
-Il existe un fonds de réserve et de garantie de la Caisse nationale d'épargne dont les règles d'organisation et de
-fonctionnement sont définies par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 146 (V)
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 34 (Ab)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R221-8 (V)
-	  - Code monétaire et financier - art. R518-54 (Ab)
+	  - Code monétaire et financier - art. L518-25
 
 
 #### Chapitre IX : Les intermédiaires en opérations de banque
@@ -77080,57 +76852,28 @@ l'article R. 214-13.
 
 #### Chapitre Ier : Produits d'épargne générale à régime fiscal spécifique.
 
-##### Section 1 : Le livret de caisse d'épargne et le compte spécial sur livret du Crédit mutuel.
+##### Section 1 : Le livret A.
 
-##### Sous-section 1 : Dispositions communes.
-
-##### Paragraphe 1 : Dispositions communes aux caisses d'épargne et de prévoyance, à la Caisse nationale d'épargne et au Crédit mutuel.
-
-###### Article D221-3
-
-Le plafond prévu à l'article R. 221-1 est fixé à 15 300 euros, sauf s'il en est disposé autrement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-441 1984-06-13 art 1 (1ère phrase, ecqc le montant du plafond de droit commun)
-	  - Décret n°84-441 du 13 juin 1984 - art. 1 (Ab)
-	  - Code des caisses d'épargne - art. 5 (Ab)
-	  - Code des caisses d'épargne art 5 (1er alinéa, 1ère phrase, ecqc le montant du plafond de droit commun)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cité par**:
-
-	  - Arrêté du 4 décembre 2008 - art. 1 (VT)
-	  - Code monétaire et financier - art. R742-8 (V)
-	  - Code monétaire et financier - art. R752-8 (V)
-	  - Code monétaire et financier - art. R762-8 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R221-1 (V)
-
+##### Sous-section 1 : Fonctionnement du livret A.
 
 ###### Article R221-1
 
-Le plafond des sommes qui peuvent être déposées sur un livret A de la Caisse nationale d'épargne ou un livret A des caisses
-d'épargne et de prévoyance ou sur un compte spécial sur livret du Crédit mutuel est fixé par décret.
+L'ouverture d'un livret A fait l'objet d'un contrat écrit conclu entre le souscripteur et l'établissement distribuant le
+livret.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Code des caisses d'épargne art 5 (1er alinéa, 1ère phrase, ecqc le principe du plafond)
-	  - Décret n°84-441 1984-06-13 art 1 (ecqc les dispositions de droit commun), art 3
 	  - Décret n°84-441 du 13 juin 1984 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - DEPLACE: Décret n°2008-1263 du 4 décembre 2008 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2008-1263 du 4 décembre 2008 - art. 2
 
 	**Cité par**:
 
@@ -77148,19 +76891,14 @@ d'épargne et de prévoyance ou sur un compte spécial sur livret du Crédit mut
 
 ###### Article R221-2
 
-La capitalisation des intérêts peut porter le solde du livret A ou du compte spécial sur livret du Crédit mutuel au-delà du
-plafond mentionné à l'article R. 221-1.
+Le plafond prévu à l'article L. 221-4 est fixé à 15 300 euros pour les personnes physiques et 76 500 euros pour les
+associations mentionnées au premier alinéa de l'article L. 221-3. La capitalisation des intérêts peut porter le solde du
+livret A au-delà de ce plafond. 
+
+Les organismes d'habitation à loyer modéré sont autorisés à effectuer des dépôts sur leur livret A sans être soumis à un
+plafond.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-441 1984-06-13 art 1 (2e phrase, ecqc les dispositions de droit commun)
-	  - Code des caisses d'épargne art 6 (2e alinéa, 2e phrase)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Cité par**:
 
@@ -77170,40 +76908,82 @@ plafond mentionné à l'article R. 221-1.
 	  - Code monétaire et financier - art. R752-8 (V)
 	  - Code monétaire et financier - art. R762-8 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2008-1263 du 4 décembre 2008 - art. 2
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. R221-1 (V)
+	  - Code monétaire et financier - art. L221-3
+	  - Code monétaire et financier - art. L221-4
 
 
-###### Article R221-4
+###### Article R221-3
 
-Aucune opération de retrait ne peut avoir pour effet de rendre le compte débiteur.
+Aucune opération ne peut avoir pour effet de rendre le compte débiteur. 
 
-**Liens relatifs à cet article**
+Le montant minimal des opérations individuelles de retrait ou de dépôt en espèces sur un livret A est fixé à 10 euros. 
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-
-###### Article R221-5
-
-L'intérêt servi aux déposants part du 1er ou du 16 de chaque mois après le jour du versement. Il cesse de courir à la fin de
-la quinzaine qui précède le jour du remboursement.
-
-Au 31 décembre de chaque année, l'intérêt acquis s'ajoute au capital et devient lui-même productif d'intérêts.
+Le montant mentionné à l'alinéa précédent est fixé à 1, 5 euro pour les livrets A ouverts auprès de l'établissement de crédit
+mentionné à l'article L. 518-25-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Code des caisses d'épargne art 6 (1er alinéa et 2e alinéa, 1ère phrase)
+	  - Décret n°84-441 du 13 juin 1984 - art. 1 (Ab)
+	  - Code des caisses d'épargne - art. 5 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 4 décembre 2008 - art. 1 (VT)
+	  - Code monétaire et financier - art. R742-8 (V)
+	  - Code monétaire et financier - art. R752-8 (V)
+	  - Code monétaire et financier - art. R762-8 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-1263 du 4 décembre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-25-1
+
+
+###### Article R221-4
+
+L'intérêt servi aux déposants sur un livret A est fixé par arrêté du ministre chargé de l'économie. 
+
+L'intérêt servi aux déposants part du 1er ou du 16 de chaque mois après le jour du versement. Il cesse de courir à la fin de
+la quinzaine qui précède le jour du remboursement. Au 31 décembre de chaque année, l'intérêt acquis s'ajoute au capital et
+devient lui-même productif d'intérêts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1263 du 4 décembre 2008 - art. 2
+
+
+###### Article R221-5
+
+I.-Sauf dispositions contraires prévues par le présent chapitre, les opérations soit de versement, soit de retrait, soit
+encore de virement entre le livret A et le compte à vue du titulaire du livret sont réalisées dans les conditions prévues par
+la réglementation générale applicable aux comptes sur livret. 
+
+II.-Un arrêté du ministre chargé de l'économie fixe la liste des opérations que les établissements de crédit peuvent, en
+complément des opérations mentionnées au I, autoriser à partir d'un livret A ou à destination d'un même livret A. Chaque
+établissement de crédit distributeur du livret A précise, dans ses conditions générales de commercialisation du livret A,
+celles des opérations figurant sur la liste qu'il autorise aux titulaires d'un livret A ouvert dans ses comptes. 
+
+III.-L'établissement de crédit mentionné à l'article L. 518-25-1 autorise la totalité des opérations figurant sur la liste
+mentionnée au II.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
 	  - Décret n°84-441 du 13 juin 1984 - art. 2 (Ab)
-	  - Décret n°76-79 1976-01-26 art 3 (2e alinéa)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Cité par**:
 
@@ -77214,32 +76994,30 @@ Au 31 décembre de chaque année, l'intérêt acquis s'ajoute au capital et devi
 	  - Code monétaire et financier - art. R742-8 (V)
 	  - Code monétaire et financier - art. R752-8 (V)
 
+	**Modifié par**:
 
-###### Article R221-6
-
-Sur décision de l'autorité administrative compétente, les contrevenants aux dispositions du troisième alinéa de l'article L.
-221-1 sont frappés d'une pénalité qui peut aller jusqu'à la perte des intérêts de la totalité des sommes déposées pendant la
-période de coexistence d'un livret A de la Caisse nationale d'épargne et d'un livret A des caisses d'épargne et de
-prévoyance, ou d'un livret A et d'un compte spécial sur livret du Crédit mutuel, sans que cette retenue puisse remonter à
-plus d'une année à compter du jour de la constatation de cette coexistence.
-
-Toutefois, si le montant cumulé ne dépasse pas le plafond du livret A, la retenue d'intérêts ne porte que sur le livret le
-plus récemment ouvert.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 17 (alinéas 1 et 2, sauf ecqc la décision du ministre)
-	  - Décret n°76-79 1976-01-26 art 2 (alinéas 1 et 2, sauf ecqc la décision du ministre)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1263 du 4 décembre 2008 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L221-1 (M)
+	  - Code monétaire et financier - art. L518-25-1
+
+
+###### Article R221-6
+
+L'opposition, mentionnée à l'article L. 221-3, du représentant légal au retrait par le mineur des sommes inscrites au crédit
+du livret A dont le mineur est titulaire est notifiée à l'établissement dépositaire par lettre recommandée avec demande
+d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1263 du 4 décembre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-3 (V)
 
 	**Cité par**:
 
@@ -77248,46 +77026,147 @@ plus récemment ouvert.
 	  - Code monétaire et financier - art. R518-52 (Ab)
 
 
-###### Article R221-8
+###### Article R221-7
 
-Les retenues d'intérêt faites en application des dispositions de l'article R. 221-6 sont affectées au fonds de réserve et de
-garantie mentionné à l'article L. 512-101 ou à celui mentionné à l'article L. 518-28, ou à un fonds spécial ouvert dans les
-écritures du Crédit mutuel.
+En cas de clôture du livret A en cours d'année, les intérêts sur la période courue depuis le début de l'année sont crédités
+au jour de clôture du compte.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des caisses d'épargne art 17 (3e alinéa)
-	  - Décret n°76-79 1976-01-26 art 2 (3e alinéa)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1263 du 4 décembre 2008 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L512-101 (V)
-	  - Code monétaire et financier - art. L518-28 (V)
-	  - Code monétaire et financier - art. R221-6 (V)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R512-59 (Ab)
-	  - Décret n°2016-163 du 18 février 2016 - art. 2 (V)
+	  - Code monétaire et financier - art. R221-6
 
 
-##### Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne.
+##### Sous-section 2 : Dispositions relatives aux établissements distribuant le livret A ou le livret de développement durable.
 
-###### Article D221-11
+###### Article D221-9
 
-Le plafond prévu à l'article R. 221-10 est fixé à 76 500 euros.
+Les règles d'emploi des ressources collectées par les établissements distribuant le livret A ou le livret de développement
+durable et non centralisées en application de l'article L. 221-5 sont précisées par arrêté du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1266 du 4 décembre 2008 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D742-9 (VD)
+	  - Code monétaire et financier - art. D752-9 (VD)
+	  - Code monétaire et financier - art. D762-9 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-5 (V)
+
+
+###### Article R221-8
+
+Pour l'application du premier alinéa de l'article L. 221-6, la Caisse des dépôts et consignations sert à chaque établissement
+de crédit, s'agissant de l'encours centralisé en application du premier alinéa de l'article L. 221-5, un taux d'intérêt
+majoré de 0, 6 % par rapport à celui qui est servi aux déposants.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2016-163 du 18 février 2016 - art. 2 (V)
+	  - Code monétaire et financier - art. R512-59 (Ab)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-5
+	  - Code monétaire et financier - art. L221-6
+
+
+###### Article R221-8-1
+
+La rémunération complémentaire prévue au deuxième alinéa de l'article L. 221-6 est calculée de manière à assurer à
+l'établissement de crédit mentionné à l'article L. 518-25-1 une compensation proportionnée aux missions de service d'intérêt
+économique général qui sont conférées à cet établissement en application de la présente section. Le montant annuel de cette
+rémunération complémentaire est fixé par arrêté du ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 4 décembre 2008 - art. 1 (Ab)
+	  - Arrêté du 21 janvier 2011 - art. 1 (V)
+	  - Arrêté du 29 juillet 2013 - art. 1 (V)
+	  - Arrêté du 26 février 2015 - art. 1 (V)
+	  - Code monétaire et financier - art. R742-8 (V)
+	  - Code monétaire et financier - art. R752-8 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-1263 du 4 décembre 2008 - art. 4
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-6
+	  - Code monétaire et financier - art. L518-25-1
+
+
+##### Sous-section 3 : Dispositions relatives au fonds d'épargne prévu à l'article L. 221-7.
+
+###### Article R221-10
+
+Les charges annuelles du fonds d'épargne prévu à l'article L. 221-7 comprennent : 
+
+1° Le montant des intérêts et éventuels compléments de rémunération dus aux déposants, à due concurrence de la part des
+dépôts effectivement centralisés dans le fonds ; 
+
+2° La rémunération des établissements distribuant les livrets dont les dépôts sont centralisés en tout ou partie dans le
+fonds ; 
+
+3° Le remboursement des frais exposés par la Caisse des dépôts et consignations pour la gestion des dépôts centralisés dans
+le fonds ; 
+
+4° Le remboursement des charges supportées par l'Etat au titre du contrôle des régimes d'épargne donnant lieu à
+centralisation totale ou partielle dans le fonds ; 
+
+5° Les autres frais ou charges liés au fonctionnement ou à la gestion du fonds.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D221-11 (V)
+	  - Code monétaire et financier - art. R221-12 (V)
+	  - Code monétaire et financier - art. R742-8 (V)
+	  - Code monétaire et financier - art. R752-8 (V)
+	  - Code monétaire et financier - art. R762-8 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-7
+
+
+###### Article R221-11
+
+Chaque année est prélevée sur le fonds d'épargne prévu à l'article L. 221-7 la rémunération de la garantie accordée par
+l'Etat aux dépôts collectés par les établissements de crédit et centralisés en tout ou partie dans le fonds. Le montant de
+cette rémunération est fixé par décret après avis de la commission de surveillance de la Caisse des dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 3
 
 	**Cité par**:
 
@@ -77301,617 +77180,68 @@ Le plafond prévu à l'article R. 221-10 est fixé à 76 500 euros.
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R221-10 (V)
+	  - Code monétaire et financier - art. L221-7 (V)
 
 
-###### Article R221-9
-
-Les organismes d'habitations à loyer modéré et de crédit immobilier sont autorisés à effectuer des dépôts sur leur livret A
-sans être soumis à un plafond.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 10 (3e alinéa)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. D742-9 (VD)
-	  - Code monétaire et financier - art. D752-9 (VD)
-	  - Code monétaire et financier - art. D762-9 (VD)
-
-
-###### Article R221-10
-
-Un plafond particulier pour le livret A est fixé par décret pour les sociétés mutualistes et les institutions de coopération,
-de bienfaisance et d'autres sociétés de même nature relevant de catégories définies par arrêté du ministre chargé de
-l'économie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 10 (1er alinéa)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. D221-11 (V)
-	  - Code monétaire et financier - art. R221-12 (V)
-	  - Code monétaire et financier - art. R742-8 (V)
-	  - Code monétaire et financier - art. R752-8 (V)
-	  - Code monétaire et financier - art. R762-8 (V)
-
+##### Sous-section 4 : Observatoire de l'épargne réglementée.
 
 ###### Article R221-12
 
-La capitalisation des intérêts peut porter le solde du livret A des sociétés et institutions mentionnées à l'article R.
-221-10 au-delà du plafond mentionné à l'article D. 221-11.
+I. - L'observatoire de l'épargne réglementée comprend onze membres : 
+
+1° Le gouverneur de la Banque de France, ou l'un des sous-gouverneurs, qui le préside ; 
+
+2° Le directeur général du Trésor et de la politique économique placé auprès du ministre chargé de l'économie, ou son
+représentant ; 
+
+3° Le directeur de l'habitat, de l'urbanisme et des paysages placé auprès du ministre chargé du logement, ou son
+représentant ; 
+
+4° Le directeur général de la Caisse des dépôts et consignations, ou son représentant ; 
+
+5° Le président du comité consultatif du secteur financier, ou son représentant ; 
+
+6° Six personnalités qualifiées nommées par le ministre chargé de l'économie : 
+
+a) Quatre en raison de leurs compétences en matière bancaire et financière ; 
+
+b) Une en raison de ses compétences en matière de logement social ; 
+
+c) Une en raison de ses compétences en matière de financement des petites et moyennes entreprises. 
+
+Les fonctions de membre de l'observatoire de l'épargne réglementée sont gratuites, sans préjudice du remboursement des frais
+exposés pour l'exercice de celles-ci. 
+
+II. - Les membres de l'observatoire, à l'exception des membres de droit, sont nommés pour une durée de trois ans. 
+
+En cas de décès ou de démission d'un membre ou de perte en cours de mandat de la qualité ayant justifié sa désignation, il
+est procédé dans les mêmes formes à son remplacement pour la durée restant à courir de son mandat. 
+
+III. - Les membres de l'observatoire ont un devoir de discrétion pour les informations dont ils ont connaissance en raison de
+leurs fonctions. 
+
+IV. - Le secrétariat de l'observatoire de l'épargne réglementée est assuré par un secrétaire général nommé par le ministre
+chargé de l'économie. 
+
+V. - L'observatoire se réunit au moins une fois par semestre sur convocation de son président ou à la demande du ministre
+chargé de l'économie. En cas de partage égal des voix lors d'un scrutin, celle du président est prépondérante. 
+
+VI. - Les établissements de crédit distribuant le livret A transmettent chaque semestre à l'observatoire de l'épargne
+réglementée les informations nécessaires à l'exercice de sa mission. Ces informations comprennent au moins, pour chaque
+établissement, le nombre de livrets A, l'encours des dépôts inscrits sur ces livrets, les sommes déposées et retirées sur ces
+livrets au cours de la période considérée, ainsi que les données équivalentes pour les autres produits d'épargne
+comparables. 
+
+Un arrêté du ministre chargé de l'économie précise, en tant que de besoin, le contenu et les modalités de transmission de ces
+informations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des caisses d'épargne art 10 (2e alinéa)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. D221-11 (V)
-	  - Code monétaire et financier - art. R221-10 (V)
-
-
-###### Article R221-13
-
-Aucun versement dans les caisses d'épargne ne peut être inférieur à 1,5 euro.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-304 1974-04-10 art 2 (1ère phrase)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R221-27-1 (Ab)
-
-
-###### Article R221-14
-
-Les déposants sont informés des conditions de remboursement par affichage dans le local des caisses d'épargne ou par une
-inscription placée en tête du livret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
-
-
-###### Article R221-15
-
-Les formalités relatives au transfert de fonds d'une caisse à une autre prévu par l'article L. 221-3 sont prévues par un
-arrêté des ministres intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 12 (Ab)
-	  - Code des caisses d'épargne art 12
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L221-3
-
-
-###### Article R221-16
-
-L'opposition, mentionnée à l'article L. 221-4, du représentant légal au retrait par le mineur des sommes inscrites au crédit
-du livret A dont le mineur est titulaire, est notifiée à l'établissement dépositaire par lettre recommandée avec demande
-d'avis de réception.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 15 (Ab)
-	  - Code des caisses d'épargne art 15
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L221-4
-
-
-###### Article R221-17
-
-Les caisses d'épargne sont tenues d'adresser six mois avant l'expiration du délai de trente ans prévu à l'article L. 221-5,
-aux fins de remboursement, un avis au titulaire de tout compte atteint par la prescription et dont l'avoir en capital et
-intérêts est égal ou supérieur à 75 euros. Si l'ayant droit ne peut être connu, ou si le remboursement ne peut être opéré
-pour une autre cause, la somme inscrite à son crédit est répartie dans les conditions fixées à l'article L. 221-5.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-304 du 10 avril 1974 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L221-5
-
-
-###### Article R221-18
-
-Les caisses d'épargne ne sont pas tenues de conserver les archives relatives aux comptes courants ou demandes de livrets
-ayant plus de trente ans de date. Ce délai est réduit à dix ans pour les autres registres, pour les quittances de
-remboursement et pièces diverses. Toutefois ce délai est de deux ans pour les bordereaux de contrôle et les bordereaux
-d'opérations ainsi que pour les livrets soldés ou remplacés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 23 (Ab)
-	  - Code des caisses d'épargne art 23
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
-
-
-###### Article R221-19
-
-Sous la réserve des fonds jugés nécessaires pour assurer le service des remboursements, les sommes que la Caisse nationale
-d'épargne reçoit des déposants ainsi que celles déposées par les caisses d'épargne et de prévoyance sont employées par la
-Caisse des dépôts et consignations :
-
-1° En valeurs émises par l'Etat français et en valeurs ou prêts jouissant de sa garantie ;
-
-2° En prêts aux communes, établissements publics de coopération intercommunale, départements, collectivités régies par les
-articles 73 et 74 de la Constitution et Nouvelle-Calédonie, régions, chambres de commerce et d'industrie, chambres de métiers
-et de l'artisanat et leurs assemblées permanentes ainsi qu'en prêts ou valeurs bénéficiant de la garantie de ces
-collectivités ou établissements ;
-
-3° En obligations émises par les sociétés de crédit foncier définies aux articles L. 515-13 à L. 515-33 ;
-
-4° En instruments financiers admis aux négociations sur les marchés réglementés ;
-
-5° En billets à ordre régis par les articles L. 313-42 à L. 313-48 ;
-
-6° Au financement des prêts consentis par les caisses d'épargne, conformément aux dispositions des articles L. 315-1 à L.
-315-3 du code de la construction et de l'habitation dans les cas où les fonds recueillis au titre de l'épargne-logement
-seraient insuffisants ;
-
-7° Au financement de prêts complémentaires aux prêts d'épargne-logement ;
-
-8° Au financement des prêts personnels consentis par les caisses d'épargne et de prévoyance habilitées à consentir de tels
-prêts ;
-
-9° En autres valeurs ou emplois autorisés par le ministre chargé de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 19 (sauf la 1ère phrase)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
-
-	**Cite**:
-
-	  - Code monétaire et financier
-	  - Code de la construction et de l'habitation.
-
-
-###### Article R221-20
-
-Toute somme versée à une caisse d'épargne est au regard de la caisse la propriété du titulaire du livret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 5 (2e alinéa)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
-
-
-##### Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance.
-
-###### Article R221-21
-
-Les caisses d'épargne et de prévoyance délivrent à chaque bénéficiaire, s'il en fait la demande, un ou plusieurs livrets sur
-lesquels sont inscrits les versements, les remboursements et les intérêts acquis.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Codes caisses d'épargne art 42
-	  - Code des caisses d'épargne - art. 42 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
-
-
-###### Article R221-22
-
-Durant les six mois qui précèdent l'expiration du délai de trente ans fixé à l'article L. 221-5, la liste des déposants
-titulaires de comptes atteints par la prescription est affichée dans les locaux accessibles au public de la caisse d'épargne
-et des succursales ou, pour les caisses ayant plus de cinq cents comptes abandonnés, tenue à la disposition des intéressés au
-siège de la caisse d'épargne.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 44
-	  - Code des caisses d'épargne - art. 44 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L221-5
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R221-23 (Ab)
-
-
-###### Article R221-23
-
-Sont exemptés de l'affichage prescrit à l'article R. 221-22 les comptes dont le montant en capital et intérêts est inférieur
-à 7,5 euros.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-304 du 10 avril 1974 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R221-22
-
-
-###### Article R221-24
-
-Le taux de l'intérêt servi par la Caisse des dépôts et consignations aux caisses d'épargne et de prévoyance sur les fonds
-provenant du livret A est supérieur de 1,00 % à celui qui est servi aux déposants.
-
-La rémunération définie à l'alinéa précédent, versée par la Caisse des dépôts et consignations, est majorée d'un
-intéressement ou diminuée d'une réfaction dont le montant est calculé en fonction des variations d'encours moyens annuels des
-dépôts des livrets A. Cette majoration ou cette réfaction sont fixées par le ministre chargé de l'économie par rapport à un
-taux d'évolution des dépôts qu'il détermine chaque année après consultation de la Caisse nationale des caisses d'épargne et
-de prévoyance, sans que la différence entre le taux de l'intérêt servi par la Caisse des dépôts et consignations et celui qui
-est servi aux déposants puisse excéder 1,05 % ni être inférieure à 0,95 %.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 51
-	  - Code des caisses d'épargne - art. 51 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - DEPLACE: Décret n°2008-1263 du 4 décembre 2008 - art. 1
 
 	**Modifié par**:
-
-	  - Décret n°2005-1335 du 28 octobre 2005 - art. 1 () JORF 29 octobre 2005 en vigueur le 1er novembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
-
-
-##### Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne.
-
-###### Article R221-25
-
-Les taux des intérêts servis par la Caisse nationale d'épargne à ses déposants ne peuvent être supérieurs à ceux servis par
-les caisses d'épargne et de prévoyance pour les livrets de même catégorie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 30 (2e alinéa)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 3
-
-
-###### Article R221-26
-
-L'établissement de crédit mentionné à l'article L. 518-26 du code monétaire et financier ouvre gratuitement un livret A à
-toute personne en faisant la demande.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 29
-	  - Code des caisses d'épargne - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L518-26
-
-
-###### Article R221-27
-
-Le service des succursales militaires de la Caisse nationale d'épargne est prévu par le décret n° 55-1638 du 20 novembre
-1955.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cite**:
-
-	  - Décret n°55-1638 1955-11-20
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 3
-
-
-###### Article R221-27-1
-
-Les sommes versées en excédent du plafond mentionné à l'article R. 221-1 par tout titulaire d'un livret A de la Caisse
-nationale d'épargne sont portées sur un compte sur livret ouvert auprès de l'établissement de crédit mentionné à l'article L.
-518-26 du code monétaire et financier.
-
-Les articles R. 221-5 et R. 221-13 sont applicables aux comptes sur livret ouverts pour recevoir les sommes versées en
-excédent du plafond du livret A.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1006 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-	**Cité par**:
-
-	  - Décret n°2005-1068 du 30 août 2005 - art. 11 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L518-26
-	  - Code monétaire et financier - art. R221-1
-	  - Code monétaire et financier - art. R221-13
-	  - Code monétaire et financier - art. R221-5
-
-
-##### Sous-section 4 : Dispositions spécifiques au Crédit mutuel.
-
-###### Article D221-28
-
-Un plafond particulier peut être institué par décret pour les comptes spéciaux sur livrets des caisses de crédit mutuel des
-personnes morales suivantes :
-
-1° Les associations à but non lucratif régies par la loi du 1er juillet 1901 ou régies par la loi locale maintenue en vigueur
-dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ;
-
-2° Les organismes sans but lucratif à caractère cultuel ;
-
-3° Les syndicats professionnels et leurs unions visés au chapitre Ier du titre Ier du livre IV du code du travail ;
-
-4° Les comités d'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-441 1984-06-13 art 1 (sauf 2e phrase, ecqc les dispositions particulières)
-	  - Décret n°84-441 du 13 juin 1984 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1263 du 4 décembre 2008 - art. 3
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. D221-29 (V)
-	  - Code monétaire et financier - art. D221-30 (V)
-
-	**Cite**:
-
-	  - Loi n°1901-07-01
-
-
-###### Article D221-29
-
-Le plafond prévu à l'article D. 221-28 est fixé à 76 500 euros.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-441 1984-06-13 art 1 (2e phrase, ecqc le montant du plafond particulier)
-	  - Décret n°84-441 du 13 juin 1984 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1263 du 4 décembre 2008 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. D221-28 (V)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. D221-30 (V)
-
-
-###### Article D221-30
-
-Le solde du compte spécial sur livret des personnes morales mentionnées à l'article D. 221-28 peut dépasser le plafond prévu
-à l'article D. 221-29 par capitalisation des intérêts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-441 1984-06-13 art 1 (2e phrase, ecqc la capitalisation)
-	  - Décret n°84-441 du 13 juin 1984 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1263 du 4 décembre 2008 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. D221-28 (V)
-	  - Code monétaire et financier - art. D221-29 (V)
-
-
-###### Article D221-31
-
-Le taux d'intérêt servi aux titulaires d'un compte spécial sur livret du Crédit mutuel est celui qui est fixé pour le livret
-A, après tous prélèvements fiscaux et sociaux auxquels les produits du compte spécial sur livret du Crédit mutuel sont
-assujettis.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Anciens textes**:
-
-	  - Décret n°76-79 1976-01-26 art 3 (1er alinéa)
-
-	**Abrogé par**:
 
 	  - Décret n°2008-1263 du 4 décembre 2008 - art. 3
 
@@ -78503,9 +77833,9 @@ total ou partiel de l'habilitation.
 
 ###### Article R221-58
 
-Les dépôts collectés au titre du régime d'épargne populaire sont centralisés et versés à un fonds géré par la Caisse des
-dépôts et consignations dans des conditions fixées par une convention passée entre le ministre chargé de l'économie et le
-directeur général de cet établissement. 
+Les dépôts collectés au titre du régime d'épargne populaire sont centralisés et versés au fonds d'épargne prévu à l'article
+L. 221-7 dans des conditions fixées par une convention passée entre le ministre chargé de l'économie et le directeur général
+de cet établissement. 
 
 Une fraction de l'encours de ces dépôts peut toutefois être laissée au libre emploi des établissements collecteurs à
 condition que ces derniers prennent en charge un pourcentage équivalent du montant total des rémunérations à servir aux
@@ -78530,90 +77860,11 @@ compte sur livret d'épargne populaire. Cette fraction ne peut excéder 30 % de 
 
 	**Modifié par**:
 
-	  - Décret n°2008-1057 du 15 octobre 2008 - art. 1
-
-
-##### Paragraphe 3 : Dispositions relatives à la centralisation et à la gestion des fonds collectés.
-
-###### Article R221-59
-
-Les charges annuelles du fonds constitué en application de l'article R. 221-58 comprennent :
-
-1° Le montant des intérêts et complément de rémunération dus aux déposants, à due concurrence de la part centralisée des
-dépôts ;
-
-2° La rémunération des réseaux de collecte ;
-
-3° Le remboursement, conformément aux dispositions de la convention visée à l'article R. 221-58, des frais exposés par la
-Caisse des dépôts et consignations pour la gestion de la part centralisée des dépôts ;
-
-4° Le remboursement des charges supportées par l'Etat au titre du contrôle du régime d'épargne populaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-454 du 28 mai 1982 - art. 23 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
+	  - Décret n°2008-1264 du 4 décembre 2008 - art. 4
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R221-58
-
-
-###### Article R221-60
-
-Les dépôts d'épargne populaire centralisés à la Caisse des dépôts et consignations donnent lieu à constitution d'un fonds de
-réserve à laquelle sont affectés :
-
-1° Le résultat annuel de la gestion du fonds créé en application de l'article R. 221-58 ;
-
-2° Le revenu des placements du fonds de réserve lui-même.
-
-Lorsque le fonds de réserve excède 8 % du montant des dépôts centralisé à la Caisse des dépôts et consignations, l'excédent
-est versé au fonds de réserve du financement du logement institué par le décret n° 93-735 du 29 mars 1993.
-
-Chaque année sont prélevés sur le fonds de réserve du livret d'épargne populaire, et affectés au budget général, des crédits
-nécessaires à la rémunération de la garantie accordée par l'Etat aux fonds des livrets définis par l'article L. 221-13. Le
-montant de cette rémunération est fixé par décret après avis de la commission de surveillance de la Caisse des dépôts et
-consignations. Il ne peut conduire à ramener le montant du fonds de réserve du livret d'épargne populaire à une somme
-inférieure à 2 % de l'encours des fonds du livret d'épargne populaire centralisés à la Caisse des dépôts et consignations, y
-compris les intérêts capitalisés.
-
-Sur décision du ministre chargé de l'économie, des dépenses exceptionnelles dont la nature intéresse directement le
-fonctionnement de l'ensemble du régime d'épargne populaire peuvent être imputées sur ce fonds de réserve.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-454 du 28 mai 1982 - art. 24 (M)
-	  - Décret n°82-454 du 28 mai 1982 - art. 24 (Ab)
-
-	**Cite**:
-
-	  - Décret n°93-735 du 29 mars 1993
-	  - Code monétaire et financier - art. L221-13
-	  - Code monétaire et financier - art. R221-58
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cité par**:
-
-	  - Décret n°2006-680 du 9 juin 2006 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
+	  - Code monétaire et financier - art. L221-7
 
 
 ##### Paragraphe 4 : Dispositions relatives aux relations entre l'Etat, la Caisse des dépôts et consignations et les établissements ou organismes collecteurs.
@@ -78661,26 +77912,6 @@ contrôle des opérations et l'information des déposants.
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-
-###### Article R221-63
-
-Les établissements et organismes habilités agissent dans leurs rapports avec les déposants en qualité de mandataires de la
-Caisse des dépôts et consignations pour la fraction centralisée des dépôts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°82-454 du 28 mai 1982 - art. 28 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1263 du 4 décembre 2008 - art. 5
 
 
 ###### Article R221-64
@@ -79571,89 +78802,9 @@ plafond.
 	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
 
 
-###### Article D221-105
-
-Les sommes inscrites au crédit des livrets de développement durable doivent être :
-
-1° Placées en obligations émises, individuellement ou par l'intermédiaire de groupements, par des établissements ou
-organismes autorisés à recevoir des dépôts et ayant passé avec la Caisse des dépôts et consignations, agissant tant pour le
-compte de l'Etat qu'en son nom propre, une convention conforme à l'un des modèles types approuvés par le ministre chargé de
-l'économie ;
-
-1° bis Affectées à l'achat de créances relatives à des prêts consentis par les établissements et organismes mentionnés au 1°
-ci-dessus ;
-
-2° Placées en titres pour le développement industriel émis par la Caisse des dépôts et consignations dans des conditions
-fixées par arrêté du ministre chargé de l'économie.
-
-La répartition entre les catégories ci-dessus et les règles relatives aux fonds en instance d'emploi sont fixées par arrêté
-du ministre chargé de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-872 du 30 septembre 1983 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-161 du 6 février 2007 - art. 2 () JORF 8 février 2007 en vigueur le 1er janvier 2007
-	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1266 du 4 décembre 2008 - art. 2
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. D221-106 (VT)
-
-
-###### Article D221-106
-
-Les valeurs mentionnées aux 1°, 1° bis et 2° de l'article D. 221-105 et les fonds en instance d'emploi font l'objet d'une
-gestion collective par l'établissement où les livrets de développement durable ont été ouverts, dans les conditions fixées
-par un règlement de gestion collective conforme à l'un des modèles types approuvés par arrêté du ministre chargé de
-l'économie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-872 du 30 septembre 1983 - art. 3 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°84-121 du 22 février 1984 - art. 1 (VT)
-	  - Arrêté du 29 novembre 1983 - art. Annexe (VT)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 381 KA (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-161 du 6 février 2007 - art. 3 () JORF 8 février 2007 en vigueur le 1er janvier 2007
-	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1266 du 4 décembre 2008 - art. 2
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. D221-105
-
-
 ###### Article D221-107
 
-L'ouverture d'un livret de développement durable doit faire l'objet d'une convention entre l'établissement et son client.
-Cette convention doit reproduire le règlement mentionné à l'article précédent.
+L'ouverture d'un livret de développement durable doit faire l'objet d'une convention entre l'établissement et son client. 
 
 Dans cette convention, le client doit déclarer sur l'honneur qu'il a la qualité de contribuable ayant son domicile fiscal en
 France ou de conjoint ou de partenaire lié par un pacte civil de solidarité d'un tel contribuable et qu'il ne détient aucun
@@ -79665,14 +78816,9 @@ autre livret de développement durable dans quelque établissement que ce soit.
 
 	  - Décret n°83-872 du 30 septembre 1983 - art. 4 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-161 du 6 février 2007 - art. 4 () JORF 8 février 2007 en vigueur le 1er janvier 2007
-	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
+	  - Décret n°2008-1266 du 4 décembre 2008 - art. 2
 
 
 ##### Section 5 : L'épargne-logement.
@@ -86104,174 +85250,6 @@ caisses d'épargne et de prévoyance.
 	  - Code monétaire et financier - art. R512-57 (V)
 
 
-##### Sous-section 7 : Fonds de réserve et de garantie.
-
-###### Article R512-59
-
-Sont affectés au fonds de réserve et de garantie mentionné au premier alinéa de l'article L. 512-101 :
-
-1° Le fonds de réserve actuel ;
-
-2° Les intérêts et les primes d'amortissements provenant de ce fonds lui-même ;
-
-3° La différence entre, d'une part, le revenu des valeurs du portefeuille et du compte courant avec le Trésor et, d'autre
-part, le montant des intérêts, des ristournes et de la part des primes de fidélité servies chaque année aux caisses d'épargne
-au titre du livret A ;
-
-4° Les retenues d'intérêts imposées aux titulaires de plusieurs livrets A conformément à l'article R. 221-8.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 52
-	  - Code des caisses d'épargne - art. 52 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L512-101
-	  - Code monétaire et financier - art. R221-8
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R512-63 (Ab)
-
-
-###### Article R512-60
-
-Peuvent seules être imputées sur le fonds de réserve et de garantie mentionné à l'article L. 512-101 :
-
-1° Les pertes qui viendraient à résulter soit de différences d'intérêts, soit d'opérations ayant pour but d'assurer le
-service des remboursements au titre du livret A ;
-
-2° Les sommes à prélever soit à titre définitif, soit à titre d'avance en cas d'insuffisance de la fortune personnelle d'une
-caisse d'épargne pour faire face aux pertes déjà constatées ou qui seraient ultérieurement reconnues dans sa gestion dans la
-mesure où ces pertes sont rattachées à la gestion des fonds déposés par les caisses d'épargne et de prévoyance au titre du
-livret A ;
-
-3° La rémunération de la garantie de l'Etat mentionnée à l'article R. 512-62. Le montant de cette rémunération est fixé par
-décret, après avis de la commission de surveillance de la Caisse des dépôts et consignations ;
-
-4° Sur décision du ministre chargé de l'économie, les dépenses exceptionnelles dont la nature intéresse l'ensemble des
-caisses d'épargne.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 53 (sauf dernier alinéa)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L512-101
-	  - Code monétaire et financier - art. R512-62
-
-
-###### Article R512-61
-
-Lorsque le montant du fonds de réserve et de garantie excède 8 % du montant des fonds versés à la Caisse des dépôts et
-consignations par les caisses d'épargne et de prévoyance au titre du livret A, le montant de cet excédent est versé au fonds
-de réserve du financement du logement institué par le décret n° 93-735 du 29 mars 1993.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 53-1 (Ab)
-	  - Code des caisses d'épargne art 53-1
-
-	**Cite**:
-
-	  - Décret n°93-735 du 29 mars 1993
-
-	**Cité par**:
-
-	  - Décret n°93-735 du 29 mars 1993 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-
-###### Article R512-62
-
-Chaque année sont prélevés sur le fonds de réserve et de garantie les crédits nécessaires à la rémunération de la garantie
-accordée par l'Etat aux fonds collectés par les caisses d'épargne et de prévoyance. Le montant de cette rémunération est fixé
-par décret, après avis de la commission de surveillance de la Caisse des dépôts et consignations.
-
-Peuvent également être prélevées sur le fonds de réserve et de garantie les dépenses exposées par les caisses d'épargne et de
-prévoyance à l'occasion de la confrontation de leurs écritures avec les renseignements recueillis auprès des déposants à la
-demande de l'autorité de tutelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 67
-	  - Code des caisses d'épargne - art. 67 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cité par**:
-
-	  - Décret n°2006-680 du 9 juin 2006 - art. 2 (V)
-	  - Décret n°2007-685 du 4 mai 2007 - art. 1 (V)
-	  - Code monétaire et financier - art. R512-60 (Ab)
-	  - Code monétaire et financier - art. R512-63 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-
-###### Article R512-63
-
-Le montant de la rémunération prévue à l'article R. 512-62 ne peut avoir pour effet de ramener le montant du fonds de réserve
-et de garantie prévu à l'article R. 512-59 à une somme inférieure à 2 % des fonds versés par les caisses d'épargne et de
-prévoyance à la Caisse des dépôts et consignations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-1189 1983-12-30 art 3 (sauf dispositions relatives au décret 54-1080)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R512-59
-	  - Code monétaire et financier - art. R512-62
-
-
 #### Chapitre IV : Les caisses de crédit municipal.
 
 ##### Section 1 : Opérations.
@@ -89521,292 +88499,6 @@ sera valablement libérée en lui remboursant le montant du dépôt sur sa quitt
 
 	  - Ordonnance 1816-07-03 art 11
 	  - Ordonnance n°1816-07-03 du 3 juillet 1816 - art. 11 (Ab)
-
-
-##### Section 4 : La Caisse nationale d'épargne.
-
-###### Article R518-46
-
-I. - L'établissement de crédit mentionné à l'article L. 518-26 du code monétaire et financier assure la gestion
-administrative et commerciale de la Caisse nationale d'épargne pour le compte de l'Etat dans des conditions déterminées par
-une convention conclue entre l'Etat, La Poste et cet établissement.
-
-II. - L'établissement de crédit mentionné à l'article L. 518-26 procède à la centralisation intégrale des fonds reçus au
-titre des livrets A de la Caisse nationale d'épargne à la Caisse des dépôts et consignations selon des modalités précisées
-par une convention conclue avec la Caisse des dépôts et consignations. Cette convention, qui est approuvée par le ministre
-chargé des postes et télécommunications et par le ministre chargé de l'économie, précise les conditions de tenue des comptes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L518-26
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R518-47 (Ab)
-	  - Code monétaire et financier - art. R518-48 (Ab)
-
-
-###### Article R518-47
-
-La gestion administrative et commerciale du livret A, assurée par l'établissement de crédit mentionné à l'article L. 518-26
-pour le compte de l'Etat, dans les conditions prévues par l'article R. 518-46, fait l'objet d'une commission prenant en
-compte le coût de collecte, les gains de productivité et une incitation à la collecte, selon des modalités fixées par la
-convention mentionnée à l'article L. 518-26. Cette commission est due à l'établissement de crédit mentionné à l'article L.
-518-26 quel que soit le rendement du portefeuille géré par la Caisse des dépôts et consignations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L518-26
-	  - Code monétaire et financier - art. R518-46
-
-
-###### Article R518-49
-
-La Caisse nationale d'épargne est tenue de verser à la Caisse des dépôts et consignations toutes les sommes qu'elle reçoit
-des déposants.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 19 (1ère phrase)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-
-###### Article R518-50
-
-Les dispositions du présent code ne font pas obstacle à l'emploi d'une partie des fonds déposés à la Caisse nationale
-d'épargne prévu par la loi du 5 décembre 1922 sur les habitations à loyer modéré et par les lois postérieures.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne art 21
-	  - Code des caisses d'épargne - art. 21 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-	**Cite**:
-
-	  - Loi n°1922-12-05
-
-
-###### Article R518-51
-
-Les actes relatifs aux cessions, aux saisies conservatoires et aux saisies-attribution pratiquées à l'encontre des titulaires
-d'un compte de la Caisse nationale d'épargne ne sont valablement notifiés qu'au siège social de l'établissement de crédit
-mentionné à l'article L. 518-26 ou au lieu de domiciliation du compte du titulaire. Ils ne peuvent être notifiés dans un
-bureau de poste.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 31 (Ab)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L518-26
-
-	**Cité par**:
-
-	  - Code rural et de la pêche maritime - art. R725-12 (V)
-
-
-###### Article R518-52
-
-I. - Sont affectés chaque année au fonds de réserve et de garantie de la Caisse nationale d'épargne :
-
-1° Le résultat bénéficiaire de la gestion du fonds lui-même au titre de l'exercice précédent ;
-
-2° Le résultat bénéficiaire de la gestion des fonds du livret A de la Caisse nationale d'épargne, après paiement par la
-Caisse des dépôts et consignations des intérêts dus aux déposants et de la commission qui rémunère l'établissement de crédit
-mentionné à l'article L. 518-26 du code monétaire et financier ;
-
-3° Les retenues d'intérêt effectuées en application des dispositions de l'article R. 221-6 ;
-
-4° Les sommes acquises à la Caisse nationale d'épargne en application des dispositions de l'article L. 221-5.
-
-II. - Peuvent seules être imputées sur le fonds de réserve et de garantie de la Caisse nationale d'épargne :
-
-1° Les pertes qui viendraient à résulter soit de différences d'intérêts, soit d'opérations destinées à assurer le service des
-remboursements de leurs fonds aux déposants sur les livrets A de la Caisse nationale d'épargne ;
-
-2° Les sommes à prélever à titre définitif ou à titre d'avance à la Caisse nationale d'épargne pour faire face aux pertes
-déjà constatées ou qui seraient ultérieurement reconnues dans sa gestion au titre du livret A.
-
-III. - Sous réserve des dispositions du II ci-dessus, les dispositions de l'article L. 512-101 sont applicables au fonds de
-réserve et de garantie de la Caisse nationale d'épargne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L221-5
-	  - Code monétaire et financier - art. L512-101
-	  - Code monétaire et financier - art. L518-26
-	  - Code monétaire et financier - art. R221-6
-
-
-###### Article R518-53
-
-Chaque année sont prélevés sur le fonds de réserve et de garantie de la Caisse nationale d'épargne et affectés au budget
-général des crédits nécessaires à la rémunération de la garantie accordée par l'Etat aux fonds des livrets A de la Caisse
-nationale d'épargne. Le montant de cette rémunération est fixé par décret après avis de la commission de surveillance de la
-Caisse des dépôts et consignations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-	**Cité par**:
-
-	  - Décret n°2006-680 du 9 juin 2006 - art. 3 (V)
-	  - Décret n°2007-685 du 4 mai 2007 - art. 2 (V)
-	  - Code monétaire et financier - art. R518-54 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 35-1 (Ab)
-
-
-###### Article R518-54
-
-Le montant de la rémunération prévue à l'article R. 518-53 ne peut avoir pour effet de ramener le montant du fonds de réserve
-et de garantie de la Caisse nationale d'épargne institué par l'article L. 518-28 à une somme inférieure à 2 % de l'encours
-annuel moyen des fonds reçus par L'établissement de crédit mentionné à l'article L .518-26 au titre des livrets A et versés à
-la Caisse des dépôts et consignations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 35-2 (Ab)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L518-26
-	  - Code monétaire et financier - art. L518-28
-	  - Code monétaire et financier - art. R518-53
-
-
-###### Article R518-55
-
-Lorsque le montant du fonds de réserve et de garantie de la Caisse nationale d'épargne excède 8 % du montant des fonds versés
-par l'établissement de crédit mentionné à l'article L. 518-26 à la Caisse des dépôts et consignations au titre des livrets A,
-le montant de cet excédent est versé au fonds de réserve du financement du logement prévu par le décret n° 93-735 du 29 mars
-1993 relatif au fonds de réserve du financement du logement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°93-735 du 29 mars 1993
-	  - Code monétaire et financier - art. L518-26
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1264 du 4 décembre 2008 - art. 8
-
-	**Anciens textes**:
-
-	  - Code des caisses d'épargne - art. 35-3 (Ab)
 
 
 ##### Section 5 : Les associations sans but lucratif et les sociétés autorisées à effectuer certaines opérations de banque.
@@ -97420,33 +96112,26 @@ Les accords mentionnés à l'article L. 632-7 sont publiés au Journal officiel 
 
 ##### Sous-section 2 : Dispositions particulières à l'Autorité des marchés financiers
 
-###### Article D632-3
+###### Article D632-4
 
 Les accords mentionnés au quatrième alinéa de l'article L. 632-16 sont publiés au Journal officiel de la République
 française.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Créé par**:
 
-	  - Décret n°2007-904 du 15 mai 2007 - art. 5 () JORF 16 mai 2007 en vigueur le 1er novembre 2007
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 5
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2008-1480 du 30 décembre 2008 - art. 5
+	  - Code monétaire et financier - art. D632-3 (T)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code monétaire et financier - art. D632-4 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L632-16
+	  - Code monétaire et financier - art. D746-11-2 (V)
+	  - Code monétaire et financier - art. D756-6-2 (V)
+	  - Code monétaire et financier - art. D766-6-2 (V)
 
 
 ###### Article R632-3
@@ -98747,30 +97432,54 @@ départements d'outre-mer.
 	  - Code monétaire et financier - art. R564-1 (M)
 
 
-### Titre III : Dispositions applicables à Mayotte.
+### Titre III : Dispositions spécifiques à Mayotte
 
-#### Chapitre Ier : La monnaie.
+###### Article R730-1
 
-##### Section 1 : Les instruments de la monnaie scripturale
-
-###### Article D731-4
-
-L'article D. 131-25 est applicable à Mayotte.
+Les références faites par des dispositions du présent code à d'autres articles du même code ne concernent que les articles
+applicables à Mayotte, le cas échéant, avec les adaptations prévues dans le présent titre.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
-	**Cite**:
 
-	  - Code monétaire et financier - art. D131-25 (M)
+###### Article R730-2
 
-	**Cité par**:
+En l'absence d'adaptation, les références faites par des dispositions du présent code applicables à Mayotte à des
+dispositions qui n'y sont pas applicables, notamment à des dispositions du code du travail et du code général des impôts,
+sont remplacées par les références aux dispositions ayant le même objet applicables localement.
 
-	  - Code monétaire et financier - art. R731-6 (V)
+**Liens relatifs à cet article**
 
+	**Créé par**:
+
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-488 du 15 mai 2014 - art. 1
+
+
+###### Article R730-3
+
+Les dispositions du présent code faisant référence à la Communauté européenne ne sont applicables à Mayotte que dans les
+limites de la décision d'association prévue à l'article 187 du traité instituant la Communauté européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-488 du 15 mai 2014 - art. 1
+
+
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier
 
 ###### Article R731-1
 
@@ -98780,13 +97489,9 @@ ces déclarations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°94-284 1994-04-06 art 5 (ecqc Mayotte), art 7 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -98801,13 +97506,13 @@ Les déclarations mentionnées à l'article R. 731-1 sont adressées à l'Instit
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°94-284 1994-04-06 art 6 (ecqc la déclaration à Mayotte)
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2014-488 du 15 mai 2014 - art. 1
 
 	**Cité par**:
 
@@ -98815,42 +97520,56 @@ Les déclarations mentionnées à l'article R. 731-1 sont adressées à l'Instit
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R731-1 (V)
+	  - Code monétaire et financier - art. R731-1 (Ab)
 
 
 ###### Article R731-3
 
-Sous réserve de l'article R. 731-5, les articles R. 131-1, R. 131-5 à R. 131-24, R. 131-26 à R. 131-55, R. 132-1, R. 163-2 et
-R. 163-3 sont applicables à Mayotte.
+A Mayotte, la pénalité libératoire prévue par les articles L. 131-75 et L. 131-76 est réglée par versement d'espèces à un
+comptable direct du Trésor ou remise à celui-ci d'un chèque émis dans les conditions prévues par l'article R. 131-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°94-284 1994-04-06 art 1 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2005-1738 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-358 du 30 mars 2011 - art. 15
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R131-1 (M)
-	  - Code monétaire et financier - art. R132-1 (V)
-	  - Code monétaire et financier - art. R163-2 (M)
-	  - Code monétaire et financier - art. R163-3 (V)
-	  - Code monétaire et financier - art. R731-5 (V)
-	  - Code monétaire et financier R731-5, R131-1, R131-5 à R131-24, R131-26 à R131-55, R132-1, R163-2, R163-3
+	  - Code monétaire et financier - art. L131-75
+	  - Code monétaire et financier - art. L131-76
+	  - Code monétaire et financier - art. R131-2
+
+
+###### Article R731-4
+
+La déclaration des sommes, titres ou valeurs prévue à l'article L. 731-3 est déposée par les personnes physiques qui
+effectuent le transfert de ces sommes, titres ou valeurs pour leur compte ou pour celui d'autrui auprès du service des
+douanes de Mayotte. Les modalités d'établissement et de dépôt de cette déclaration sont précisées par arrêté du représentant
+de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L731-3
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R731-6 (V)
 
 
 ###### Article R731-5
 
-A Mayotte, la pénalité libératoire prévue par les articles L. 131-75 et L. 131-76 est réglée par versement d'espèces à un
-comptable direct du Trésor ou remise à celui-ci d'un chèque émis dans les conditions prévues par l'article R. 131-2.
+Les dispositions de l'article R. 731-4 sont applicables aux envois postaux.
 
 **Liens relatifs à cet article**
 
@@ -98858,15 +97577,13 @@ comptable direct du Trésor ou remise à celui-ci d'un chèque émis dans les co
 
 	  - Décret n°94-284 du 6 avril 1994 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code monétaire et financier - art. L131-75 (M)
-	  - Code monétaire et financier - art. L131-76 (M)
-	  - Code monétaire et financier - art. R131-2 (M)
+	  - Décret n°2014-488 du 15 mai 2014 - art. 1
 
 	**Cité par**:
 
@@ -98874,31 +97591,47 @@ comptable direct du Trésor ou remise à celui-ci d'un chèque émis dans les co
 	  - Code monétaire et financier - art. R731-8 (Ab)
 	  - Code monétaire et financier - art. R731-9 (Ab)
 
+	**Cite**:
 
-##### Section 2 : Les relations financières avec l'étranger
+	  - Code monétaire et financier - art. R731-4 (Ab)
 
-##### Sous-section 2 : Obligations de déclaration
 
 ###### Article R731-6
 
-La déclaration des sommes, titres ou valeurs, prévue à l'article L. 731-3, est déposée par les personnes physiques qui
-effectuent le transfert de ces sommes, titres ou valeurs pour leur compte ou pour celui d'autrui auprès du service des
-douanes de Mayotte. Les modalités d'établissement et de dépôt de cette déclaration sont précisées par arrêté du représentant
-de l'Etat.
+Sont considérés comme des sommes, titres ou valeurs devant faire l'objet de la déclaration mentionnée à l'article R. 731-4 : 
+
+1° Les billets de banque ; 
+
+2° Les pièces de monnaie ; 
+
+3° Les chèques avec ou sans indication de bénéficiaire ; 
+
+4° Les chèques au porteur ; 
+
+5° Les chèques endossables autres que ceux destinés à ou adressés par des entreprises exerçant à titre habituel et
+professionnel une activité de commerce international ; 
+
+6° Les chèques de voyage ; 
+
+7° Les effets de commerce non domiciliés ; 
+
+8° Les lettres de crédit non domiciliées ; 
+
+9° Les bons de caisse anonymes ; 
+
+10° Les valeurs mobilières et autres titres de créance négociables au porteur ou endossables ; 
+
+11° Les lingots d'or et pièces d'or ou d'argent cotés sur un marché officiel.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2002-1440 2002-12-05 art 1 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L731-3 (M)
+	  - Code monétaire et financier - art. D731-4
 
 	**Cité par**:
 
@@ -98908,17 +97641,14 @@ de l'Etat.
 
 ###### Article R731-7
 
-Les dispositions de l'article R. 731-6 sont applicables aux envois postaux.
+Lorsque le transfert est opéré pour le compte d'un tiers, la déclaration mentionnée à l'article R. 731-6 comporte
+l'identification du propriétaire des sommes, titres ou valeurs transférés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2002-1440 2002-12-05 art 2 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -98926,577 +97656,99 @@ Les dispositions de l'article R. 731-6 sont applicables aux envois postaux.
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R731-6 (V)
-
-
-###### Article R731-8
-
-Sont considérés comme des sommes, titres ou valeurs devant faire l'objet de la déclaration mentionnée à l'article R. 731-6 :
-
-1° Les billets de banque ;
-
-2° Les pièces de monnaie ;
-
-3° Les chèques avec ou sans indication de bénéficiaire ;
-
-4° Les chèques au porteur ;
-
-5° Les chèques endossables autres que ceux destinés à ou adressés par des entreprises exerçant à titre habituel et
-professionnel une activité de commerce international ;
-
-6° Les chèques de voyage ;
-
-7° Les effets de commerce non domiciliés ;
-
-8° Les lettres de crédit non domiciliées ;
-
-9° Les bons de caisse anonymes ;
-
-10° Les valeurs mobilières et autres titres de créance négociables au porteur ou endossables ;
-
-11° Sous réserve de l'article R. 731-5, les lingots d'or et pièces d'or ou d'argent cotés sur un marché officiel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-1440 2002-12-05 art 3 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R731-5
 	  - Code monétaire et financier - art. R731-6
 
 
-###### Article R731-9
+#### Chapitre II : Dispositions d'adaptation du livre II
 
-Lorsque le transfert est opéré pour le compte d'un tiers, la déclaration mentionnée à l'article R. 731-5 comporte
-l'identification du propriétaire des sommes, titres ou valeurs transférés.
+###### Article D732-1
 
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-1440 2002-12-05 art 4 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R731-5
-
-
-#### Chapitre II : Les produits.
-
-##### Section 1 : Les instruments financiers
-
-##### Sous-section 1 : Définition et règles générales
-
-###### Article R732-1
-
-Les articles R. 211-1 à R. 211-8 et R. 211-16 sont applicables à Mayotte.
+L'article D. 214-1 n'est pas applicable à Mayotte.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-359 1983-05-02 art 23-1 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier R211-1 à R211-8, R211-16
-
-
-##### Sous-section 3 : Les titres de créance
-
-##### Paragraphe 1 : Les titres de créances négociables
-
-###### Article D*732-2
-
-Les dispositions de l'article D.* 213-4 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2005-1006 2005-08-02 Annexe JORF 25 août 2005
-
-	**Codifié par**:
-
-	  - Décret n°2005-1006 2005-08-02 JORF 25 août 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier D213-4
-
-
-###### Article D732-3
-
-Les articles D. 213-1 à D. 213-3 et D. 213-5 à D. 213-14 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-137 1992-02-13 art 18-1 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
-
-
-##### Sous-section 4 : Les placements collectifs
-
-###### Article D732-5
-
-Les articles D. 214-20 à D. 214-22 et D. 214-91 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-624 1989-09-06 art 14-1 (ecqc Mayotte, sauf ecqc l'article 10)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
-	  - Code monétaire et financier - art. D214-91
-
-
-###### Article R732-4
-
-Les articles R. 214-1 à R. 214-19, R. 214-23, R. 214-24, R. 214-26, R. 214-27 à l'article R. 214-28 sauf son IV, les articles
-R. 214-29 à R. 214-50 et l'article R. 214-90 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-623 1989-09-06 art 16-1 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
-	  - Code monétaire et financier - art. R214-23
-	  - Code monétaire et financier - art. R214-24
-	  - Code monétaire et financier - art. R214-26
-	  - Code monétaire et financier - art. R214-27
-	  - Code monétaire et financier - art. R214-28
-	  - Code monétaire et financier - art. R214-90
-
-
-###### Article R732-6
-
-Les dispositions des articles R. 214-92 à R. 214-115 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 12 novembre 2004 - art. 421-1 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1255 2004-11-24 art 27 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
-
-
-###### Article R732-7
-
-Les articles R. 214-116 à R. 214-143 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-524 1971-07-01 art 27 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
-
-
-##### Section 2 : Produits d'épargne
-
-##### Sous-section 1 : Epargne-logement
-
-###### Article R732-8
-
-Les règles relatives à l'épargne-logement sont applicables à Mayotte dans les conditions prévues à l'article R. 315-43 du
-code de la construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2006-1215 du 3 octobre 2006 - art. 2 () JORF 5 octobre 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation.
-
-
-#### Chapitre III : Les services.
-
-##### Section 1 : Les opérations de banque
-
-##### Sous-section 2 : Comptes et dépôts
-
-###### Article D733-2
-
-Les articles D. 312-5 et D. 312-6 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. D312-5 (M)
-	  - Code monétaire et financier - art. D312-6 (V)
-
-
-###### Article R733-1
-
-Les articles R. 312-1, R. 312-3 et R. 351-5 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Décret n°2005-1738 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R312-1 (V)
-	  - Code monétaire et financier - art. R312-3 (V)
-	  - Code monétaire et financier - art. R351-5 (V)
-
-
-##### Sous-section 3 : Crédits
-
-##### Paragraphe 1 : Dispositions générales
-
-###### Article D733-4
-
-Les dispositions de l'article D. 313-2 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
+	  - Décret n°2014-488 du 15 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. D313-2
+	  - Code monétaire et financier - art. D214-1
 
 
-###### Article R733-3
+###### Article R732-2
 
-Les dispositions de l'article R. 313-1 sont applicables à Mayotte.
+L'article R. 214-25 n'est pas applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
+	  - Décret n°2014-488 du 15 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R313-1
+	  - Code monétaire et financier - art. R214-25
 
 
-##### Paragraphe 2 : Catégories de crédits
+#### Chapitre III : Dispositions d'adaptation du livre III
 
-###### Article D733-4-1
+###### Article D733-1
 
-L'article D. 313-14-1 est applicable à Mayotte.
+Au 2° de l'article D. 313-27, les mots : " l'article 415 du code des douanes " sont remplacés par les mots : " l'article 283
+du code des douanes applicable à Mayotte ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-335 2007-03-12 art. 1 1° JORF 14 mars 2007
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-
-##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles
-
-###### Article R733-5
-
-Les articles R. 313-15 à R. 313-19 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°81-862 1981-09-09 art 7 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
+	  - Décret n°2014-488 du 15 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier
-
-
-##### Paragraphe 4 : Garantie des cautions
-
-###### Article R733-6
-
-I. - Les articles D. 313-26 à D. 313-31 sont applicables à Mayotte.
-
-II. - Pour l'application de l'article D. 313-26 :
-
-1° Les références au code du travail, au code des assurances, au code rural et au code de la construction et de l'habitation
-sont remplacées par des références aux dispositions applicables localement, ayant le même objet ;
-
-2° Sont supprimées les références aux dispositions :
-
-a) De la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations
-portant sur les immeubles et les fonds de commerce ;
-
-b) De l'article 27 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et
-juridiques ;
-
-c) De la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs ;
-
-d) De la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière ;
-
-e) Du décret n° 89-273 du 26 avril 1989 portant application du décret du 9 janvier 1852 modifié sur l'exercice de la pêche
-maritime en ce qui concerne la première mise en marche des produits de la pêche maritime et les règles relatives aux
-communications d'informations statistiques ;
-
-f) Du décret n° 90-200 du 5 mars 1990 relatif à l'exercice de la profession de commissionnaire de transport ;
-
-g) Du décret n° 98-58 du 28 janvier 1998 relatif aux conditions d'attribution de la carte d'identité de commerçant étranger ;
-
-h) Du décret n° 99-752 du 30 août 1999 relatif au transport routier de marchandises ;
-
-i) De l'arrêté du 6 mai 1995 relatif aux aérodromes et autres emplacements utilisés par les hélicoptères.
-
-III. - Pour l'application de l'article D. 313-27, les références au code des douanes sont remplacées par des références aux
-dispositions applicables localement ayant le même objet.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1995-05-06
-	  - Décret n°1852-01-09
-	  - Loi n°70-9 du 2 janvier 1970
-	  - Loi n°71-1130 du 31 décembre 1971 - art. 27
-	  - Loi n°82-1153 du 30 décembre 1982
-	  - Loi n°84-595 du 12 juillet 1984
-	  - Décret n°89-273 du 26 avril 1989
-	  - Décret n°90-200 du 5 mars 1990
-	  - Décret n°98-58 du 28 janvier 1998
-	  - Décret n°99-752 du 30 août 1999
-	  - Code monétaire et financier
-	  - Code monétaire et financier - art. D313-26
+	  - Code des douanes de Mayotte - art. 283
 	  - Code monétaire et financier - art. D313-27
 
-	**Codifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+###### Article R733-2
 
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers
-
-###### Article R733-7
-
-Les articles R. 330-1 à R. 330-3 sont applicables à Mayotte.
+Pour l'application des cinquième et septième alinéas de l'article D. 341-13, après les mots : " numéros SIREN ", sont ajoutés
+les mots : " ou numéros équivalents ".
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2003-195 2003-03-07 art 3-1 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
-	**Cite**:
-
-	  - Code monétaire et financier
-
-
-##### Section 4 : Démarchage bancaire et financier
-
-###### Article D733-8
-
-Les articles D. 341-1 à D. 341-8 sont applicables à Mayotte, sous réserve de supprimer à l'article D. 341-4, au premier et au
-second alinéa, les mots : "et les sociétés de capital-risque".
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1019 2004-09-28 art 9-1 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Abrogé par**:
 
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
+	  - Décret n°2014-488 du 15 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier
-	  - Code monétaire et financier - art. D341-4
-
-
-###### Article D733-9
-
-Les articles D. 341-9 à D. 341-15 sont applicables à Mayotte, à l'exception de la seconde phrase du premier alinéa de
-l'article D. 341-11.
-
-Pour l'application des cinquième et septième alinéas de l'article D. 341-13, après les mots : "numéros SIREN", sont ajoutés
-les mots :
-
-"ou numéros équivalents".
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1018 2004-09-28 art 8-1 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
-	  - Code monétaire et financier - art. D341-11
 	  - Code monétaire et financier - art. D341-13
 
 
-#### Chapitre IV : Les marchés.
-
-##### Section 1 : L'appel public à l'épargne
+#### Chapitre IV : Dispositions d'adaptation du livre IV
 
 ###### Article D734-1
 
-Les articles D. 411-1 à D. 411-4, à l'exclusion de l'article D. 411-2, sont applicables à Mayotte.
+L'article D. 424-1 n'est pas applicable à Mayotte.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-880 1998-10-01 art 2-1 (ecqc Mayotte)
 
 	**Cité par**:
 
@@ -99505,488 +97757,87 @@ Les articles D. 411-1 à D. 411-4, à l'exclusion de l'article D. 411-2, sont ap
 	  - Arrêté du 12 novembre 2004 - art. 314-59 (V)
 	  - Arrêté du 12 novembre 2004 - art. 412-113 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-335 du 12 mars 2007 - art. 2 (V) JORF 14 mars 2007
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. D411-2 (M)
-	  - Code monétaire et financier D411-1 à D411-4, D411-2
-
-
-##### Section 3 : Les négociations sur instruments financiers
-
-##### Sous-section 1 : Dispositions générales
-
-##### Paragraphe 1 : Transfert de propriété et mise en gage
-
-###### Article D734-2
-
-Les articles D. 431-1 à D. 431-5 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°97-509 1997-05-21 art 5-1 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
+	  - Décret n°2014-488 du 15 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier
+	  - Code monétaire et financier - art. D424-1
 
 
-##### Sous-section 2 : Les formes particulières de cession d'instruments financiers
-
-###### Article D734-3
-
-L'article D. 432-1 est applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-335 2007-03-12 art. 3 1° JORF 14 mars 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. D432-1
-
-
-##### Section 4 : Les entreprises de marché et les chambres de compensations
-
-###### Article D734-4
-
-Les articles D. 441-1 à D. 441-3 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-335 2007-03-12 art. 4 1° JORF 14 mars 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
-
-
-#### Chapitre V : Les prestataires de services.
-
-##### Section 1 : Les établissements du secteur bancaire
-
-###### Article D735-2
-
-Les articles D. 511-8 à D. 511-12 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier D511-8 à D511-12
-
+#### Chapitre V : Dispositions d'adaptation du livre V
 
 ###### Article R735-1
 
-Les articles R. 511-1, R. 511-2, R. 511-6, R. 511-13 et R. 511-14 sont applicables à Mayotte.
+Ne sont pas applicables à Mayotte les dispositions du livre V ci-après : 
+
+1° Dans le titre Ier, la sous-section 2 de la section 3 du chapitre Ier relative au libre établissement et à la libre
+prestation de services des établissements de crédit sur le territoire des Etats partie à l'accord sur l'Espace économique
+européen ; 
+
+2° Dans le titre III, la section 2 du chapitre II relative au libre établissement et à la libre prestation de services des
+prestataires de services d'investissement sur le territoire des Etats partie à l'accord sur l'Espace économique européen.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R511-1 (V)
-	  - Code monétaire et financier - art. R511-13 (V)
-	  - Code monétaire et financier - art. R511-14 (M)
-	  - Code monétaire et financier - art. R511-2 (V)
-	  - Code monétaire et financier - art. R511-6 (V)
-
-
-##### Sous-section 2 : Les institutions financières spécialisées
-
-###### Article R735-3
-
-L'Agence française de développement mentionnée aux articles R. 516-3 et suivants exerce également ses attributions en faveur
-de Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1176 1992-10-30 art 4 de l'annexe (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
-	**Cite**:
-
-	  - Code monétaire et financier - art. R516-3
-
-
-##### Sous-section 3 : Les compagnies financières
-
-###### Article D735-4
-
-Les articles D. 517-1 à D. 517-3 et D. 517-5 à D. 517-7 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Abrogé par**:
 
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
+	  - Décret n°2014-488 du 15 mai 2014 - art. 1
 
 
-##### Section 2 : Les changeurs manuels
-
-###### Article R735-5
+###### Article R735-2
 
 Les changeurs manuels résidant à Mayotte adressent leur déclaration d'activité à l'Institut d'émission des départements
 d'outre-mer.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°91-160 1991-02-13 art 7 (dernier alinéa, ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-
-##### Section 3 : Les prestataires de services d'investissement
-
-##### Sous-section 2 : Les conditions d'accès à la profession
-
-###### Article R735-6
-
-Les articles R. 532-1 à R. 532-7, R. 532-8 à l'exception de son premier alinéa, R. 532-10 à R. 532-14, R. 532-15 à
-l'exception de son premier alinéa et R. 542-1 sont applicables à Mayotte.
-
-Les dispositions du second alinéa des articles R. 532-8 et R. 532-15 sont applicables aux filiales directes ou indirectes
-d'un établissement de crédit ou d'une entreprise d'investissement agréés dans un autre Etat partie à l'Espace économique
-européen.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°96-880 1996-10-08 art 19-1 (ecqc Mayotte)
-
-	**Cité par**:
-
-	  - Arrêté du 12 novembre 2004 - art. 311-7 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
-	  - Code monétaire et financier - art. R532-15
-	  - Code monétaire et financier - art. R532-8
-
-
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement
-
-###### Article D735-8
-
-Les articles D. 533-3 à D. 533-7 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
-
-
-###### Article R735-7
-
-Les articles R. 533-1, R. 533-2 et R. 533-8 à R. 533-10 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
-	  - Code monétaire et financier - art. R533-1
-	  - Code monétaire et financier - art. R533-2
-
-
-##### Section 4 : Autres prestataires de services
-
-###### Article D735-9
-
-Les articles D. 541-1 à D. 541-9 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-1023 2004-09-29 art 9-1 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
-
-
-##### Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes
-
-###### Article D735-11
-
-Les dispositions de l'article D. 564-2 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-545 du 11 avril 2007 - art. 3 () JORF 13 avril 2007
+	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. D564-2
-
-
-###### Article R735-10
-
-Les articles R. 562-1, R. 562-2, R. 562-2-1 à R. 562-2-3, R. 563-1 à R. 563-4, R. 564-1, R. 564-2, R. 565-1, D. 565-3, R.
-565-2-1, D. 562-2 et R. 565-4 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°91-160 1991-02-13 art 9 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 3 () JORF 13 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
+	  - Décret n°2010-363 du 8 avril 2010 - art. 1
 
 	**Cite**:
 
 	  - Code monétaire et financier
-	  - Code monétaire et financier - art. D565-3
-	  - Code monétaire et financier - art. R562-1
-	  - Code monétaire et financier - art. R562-2
-	  - Code monétaire et financier - art. R564-1
-	  - Code monétaire et financier - art. R564-2
-	  - Code monétaire et financier - art. R565-1
-	  - Code monétaire et financier - art. R565-2-1
-	  - Code monétaire et financier - art. R565-4
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière.
-
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement
-
-##### Sous-section 1 : Réglementation
+#### Chapitre VI : Dispositions d'adaptation du livre VI
 
 ###### Article R736-1
 
-Les articles R. 611-1 à R. 611-3 sont applicables à Mayotte.
+Ne sont pas applicables à Mayotte les dispositions du livre VI ci-après : 
+
+1° Dans le titre Ier, l'article R. 613-3-2 et la sous-section 2 de la section 6 du chapitre III relative aux mesures
+d'assainissement et de liquidation des établissements de crédit communautaires ; 
+
+2° Dans le titre II, le d du 1° de l'article R. 621-31 ; 
+
+3° Dans le titre III, l'article R. 633-1.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Cite**:
-
-	  - Code monétaire et financier R611-1 à R611-3
-
-
-##### Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement
-
-###### Article R736-2
-
-Les articles R. 612-2, R. 612-3 et R. 612-5 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R612-2
-	  - Code monétaire et financier - art. R612-3
-	  - Code monétaire et financier - art. R612-5
-
-
-##### Sous-section 3 : La Commission bancaire
-
-###### Article R736-3
-
-Les articles R. 613-2 et R. 613-4 à R. 613-23 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
-	  - Code monétaire et financier - art. R613-2
-
-
-##### Section 2 : L'Autorité des marchés financiers
-
-###### Article D736-5
-
-Les articles D. 621-27 à D. 621-30 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2003-1290 2003-12-26 art 5 (ecqc Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier
-
-
-###### Article R736-4
-
-Les articles R. 621-1 à R. 621-26, R. 621-30-1 à R. 621-30-4 et R. 621-31 à R. 621-46 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2003-1109 2003-11-21 art 55-1 (ecqc Mayotte et ecqc les articles 2 à 23, le 2e alinéa de l'article 24 et les articles 25 à 45)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Décret n°2007-1367 du 19 septembre 2007 - art. 1 (V) JORF 21 septembre 2007 en vigueur le 1er novembre 2007
-
-	**Abrogé par**:
-
 	  - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier
+	  - Code monétaire et financier - art. R613-3-2
+	  - Code monétaire et financier - art. R621-31
+	  - Code monétaire et financier - art. R633-1
 
 
 ### Titre IV : Dispositions applicables en Nouvelle-Calédonie
@@ -100254,6 +98105,19 @@ l'identification du propriétaire des sommes, titres ou valeurs transférés.
 ##### Section unique : Les instruments financiers.
 
 ##### Sous-section 1 : Inscription en compte.
+
+##### Sous-section 1 : Définitions et règles générales
+
+###### Article D742-1-1
+
+L'article D. 211-1 A est applicable en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 1 (V)
+
 
 ###### Article R742-1
 
@@ -100601,6 +98465,27 @@ dispositions applicables localement ayant le même objet.
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
+##### Section 2 : Les services d'investissement et leurs services connexes
+
+###### Article D743-6-1
+
+Les articles D. 321-1 et D. 321-2 sont applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 2 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2010-970 du 26 août 2010 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. D743-6-2 (V)
+
+
 ##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers
 
 ###### Article R743-7
@@ -100711,91 +98596,71 @@ Les articles D. 411-1 à D. 411-4, à l'exclusion de l'article D. 411-2, sont ap
 	  - Code monétaire et financier D411-1 à D411-4, D411-2
 
 
+##### Section 2 : Les catégories de marché.
+
+###### Article D744-2-1
+
+Les articles D. 421-2 à D. 421-9 et D. 421-11 sont applicables en Nouvelle-Calédonie. Les dispositions de l'article D. 421-6
+faisant référence aux autorités européennes s'appliquent dans le respect de la décision d'association prévue à l'article 187
+du Traité instituant la Communauté européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D421-11
+	  - Code monétaire et financier - art. D421-2
+	  - Code monétaire et financier - art. D421-6
+
+
 ##### Section 3 : Les négociations sur instruments financiers
 
 ##### Sous-section 1 : Dispositions générales
 
 ##### Paragraphe 1 : Transfert de propriété et mise en gage
 
-###### Article D744-2
+###### Article D744-3
 
 Les articles D. 431-1 à D. 431-5 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°97-509 1997-05-21 art 5-1 (ecqc la Nouvelle-Calédonie)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. D744-3 (V)
-
-
-##### Sous-section 2 : Les formes particulières de cession d'instruments financiers
-
-###### Article D744-3
-
-L'article D. 432-1 est applicable en Nouvelle-Calédonie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-335 2007-03-12 art. 3 2° JORF 14 mars 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. D432-1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. D744-3-1 (V)
-
-
-##### Section 4 : Les entreprises de marché et les chambres de compensations.
-
-###### Article D744-4
-
-Les articles D. 441-1 à D. 441-3 sont applicables en Nouvelle-Calédonie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-335 2007-03-12 art. 4 2° JORF 14 mars 2007
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier
+	  - Code monétaire et financier - art. D431-1
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. D744-2 (T)
+
+
+##### Sous-section 2 : Les formes particulières de cession d'instruments financiers
+
+###### Article D744-3-1
+
+L'article D. 432-1 est applicable en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D432-1
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. D744-3 (M)
 
 
 #### Chapitre V : Les prestataires de services
@@ -100984,6 +98849,17 @@ mer.
 
 ##### Sous-section 2 : Les conditions d'accès à la profession
 
+###### Article D745-6-1
+
+L'article D. 531-1 est applicable en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 4
+
+
 ###### Article R745-6
 
 Les articles R. 532-1 à R. 532-7, R. 532-8 à l'exception de son premier alinéa, R. 532-10 à R. 532-14, R. 532-15 à
@@ -101018,17 +98894,19 @@ européen.
 
 ###### Article D745-8
 
-Les articles D. 533-3 à D. 533-7 sont applicables en Nouvelle-Calédonie.
+Les articles D. 533-2-1, D. 533-3 à D. 533-7, D. 533-11 à D. 533-14 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 4
 
 	**Cite**:
 
-	  - Code monétaire et financier D533-3 à D533-7
+	  - Code monétaire et financier - art. D533-11 (V)
+	  - Code monétaire et financier - art. D533-2-1 (V)
+	  - Code monétaire et financier - art. D533-3 (V)
 
 
 ###### Article R745-7
@@ -101365,6 +99243,30 @@ Les articles R. 621-1 à R. 621-26, R. 621-30-1 à R. 621-30-4 et R. 621-31 à R
 	  - Code monétaire et financier R621-1 à R621-26, R621-30-1 à R621-30-4, R621-31 à R621-46
 
 
+##### Section 3 : Echanges d'information.
+
+###### Article D746-11-1
+
+L'article D. 632-1-1 est applicable en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 5
+
+
+###### Article D746-11-2
+
+L'article D. 632-4 est applicable en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 5
+
+
 ### Titre V : Dispositions applicables en Polynésie française
 
 #### Chapitre Ier : La monnaie
@@ -101630,6 +99532,19 @@ l'identification du propriétaire des sommes, titres ou valeurs transférés.
 ##### Section 1 : Les instruments financiers
 
 ##### Sous-section 1 : Inscription en compte.
+
+##### Sous-section 1 : Définitions et règles générales
+
+###### Article D752-1-1
+
+L'article D. 211-1 A est applicable en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 1 (V)
+
 
 ###### Article R752-1
 
@@ -101976,6 +99891,27 @@ dispositions applicables localement ayant le même objet.
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
+##### Section 2 : Les services d'investissement et leurs services connexes
+
+###### Article D753-6-1
+
+Les articles D. 321-1 et D. 321-2 sont applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 2 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2010-970 du 26 août 2010 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. D753-6-2 (V)
+
+
 ##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers
 
 ###### Article R753-7
@@ -102086,96 +100022,77 @@ Les articles D. 411-1 à D. 411-4, à l'exclusion de l'article D. 411-2, sont ap
 	  - Code monétaire et financier D411-1 à D411-4, D411-2
 
 
+##### Section 2 : Les catégories de marché.
+
+###### Article D754-2-1
+
+I.-Les articles D. 421-2 à D. 421-9 et D. 421-11 sont applicables en Polynésie française, dans les conditions prévues au II. 
+
+II. Les dispositions de l'article D. 421-6 faisant référence aux autorités européennes s'appliquent dans le respect de la
+décision d'association prévue à l'article 187 du traité instituant la Communauté européenne. Pour l'application de l'article
+D. 421-8, les références au code de commerce sont remplacées par des références aux dispositions applicables localement ayant
+le même objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D421-11
+	  - Code monétaire et financier - art. D421-2
+	  - Code monétaire et financier - art. D421-6
+	  - Code monétaire et financier - art. D421-8
+
+
 ##### Section 3 : Les négociations sur instruments financiers
 
 ##### Sous-section 1 : Dispositions générales
 
 ##### Paragraphe 1 : Transfert de propriété des titres et mise en gage
 
-###### Article D754-2
+###### Article D754-3
 
 Les articles D. 431-1 à D. 431-5 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°97-509 1997-05-21 art 5-1 (ecqc la Polynésie française)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier
+	  - Code monétaire et financier - art. D431-1
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code monétaire et financier - art. D754-3 (V)
+	  - Code monétaire et financier - art. D754-2 (T)
 
 
 ##### Sous-section 2 : Les formes particulières de cession d'instruments financiers
 
-###### Article D754-3
+###### Article D754-3-1
 
 L'article D. 432-1 est applicable en Polynésie française sous réserve de remplacer la référence à l'article L. 511-8 du code
 de commerce par une référence aux dispositions applicables localement ayant le même objet.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-335 2007-03-12 art. 3 3° JORF 14 mars 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L511-8 (V)
-	  - Code monétaire et financier - art. D432-1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. D754-3-1 (V)
-
-
-##### Section 4 : Les entreprises de marché et les chambres de compensations.
-
-###### Article D754-4
-
-Les articles D. 441-1 à D. 441-3 sont applicables en Polynésie française pour l'application de l'article D. 441-2, les
-références au code de commerce sont remplacées par des références à des dispositions applicables localement ayant le même
-objet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-335 2007-03-12 art. 4 3° JORF 14 mars 2007
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier
-	  - Code monétaire et financier - art. D441-2
+	  - Code de commerce - art. L511-8
+	  - Code monétaire et financier - art. D432-1
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. D754-3 (M)
 
 
 #### Chapitre V : Les prestataires de services
@@ -102364,6 +100281,17 @@ mer.
 
 ##### Sous-section 2 : Les conditions d'accès à la profession
 
+###### Article D755-6-1
+
+L'article D. 531-1 est applicable en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 4
+
+
 ###### Article R755-6
 
 Les articles R. 532-1 à R. 532-7, R. 532-8 à l'exception de son premier alinéa, R. 532-10 à R. 532-14, R. 532-15 à
@@ -102398,17 +100326,19 @@ européen.
 
 ###### Article D755-8
 
-Les articles D. 533-3 à D. 533-7 sont applicables en Polynésie française.
+Les articles D. 533-2-1, D. 533-3 à D. 533-7, D. 533-11 à D. 533-14 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 4
 
 	**Cite**:
 
-	  - Code monétaire et financier D533-3 à D533-7
+	  - Code monétaire et financier - art. D533-11 (V)
+	  - Code monétaire et financier - art. D533-2-1 (V)
+	  - Code monétaire et financier - art. D533-3 (V)
 
 
 ###### Article R755-7
@@ -102611,6 +100541,30 @@ française.
 	**Cite**:
 
 	  - Code monétaire et financier R621-1 à R621-26, R621-30-1 à R621-30-4, R621-31 à R621-46
+
+
+##### Section 3 : Echanges d'informations.
+
+###### Article D756-6-1
+
+L'article D. 632-1-1 est applicable en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 5
+
+
+###### Article D756-6-2
+
+L'article D. 632-4 est applicable en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 5
 
 
 ### Titre VI : Dispositions applicables à Wallis et Futuna
@@ -102875,6 +100829,19 @@ l'identification du propriétaire des sommes, titres ou valeurs transférés.
 ##### Section 1 : Les instruments financiers
 
 ##### Sous-section 1 : Inscription en compte.
+
+##### Sous-section 1 : Définitions et règles générales
+
+###### Article D762-1-1
+
+L'article D. 211-1 A est applicable dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 1 (V)
+
 
 ###### Article R762-1
 
@@ -103219,6 +101186,23 @@ dispositions applicables localement ayant le même objet.
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
+##### Section 2 : Les services d'investissement et leurs services connexes
+
+###### Article D763-6-1
+
+Les articles D. 321-1 et D. 321-2 sont applicables dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2010-970 du 26 août 2010 - art. 4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. D763-6-2 (V)
+
+
 ##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers
 
 ###### Article R763-7
@@ -103323,91 +101307,71 @@ Les articles D. 411-1 à D. 411-4, à l'exclusion de l'article D. 411-2, sont ap
 	  - Code monétaire et financier D411-1 à D411-4, D411-2
 
 
+##### Section 2 : Les catégories de marché.
+
+###### Article D764-2-1
+
+Les articles D. 421-2 à D. 421-9 et D. 421-11 sont applicables dans les îles Wallis et Futuna. Les dispositions de l'article
+D. 421-6 faisant référence aux autorités européennes s'appliquent dans le respect de la décision d'association prévue à
+l'article 187 du traité instituant la Communauté européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D421-11
+	  - Code monétaire et financier - art. D421-2
+	  - Code monétaire et financier - art. D421-6
+
+
 ##### Section 3 : Les négociations sur instruments financiers
 
 ##### Sous-section 1 : Dispositions générales
 
 ##### Paragraphe 1 : Transfert de propriété et mise en gage
 
-###### Article D764-2
+###### Article D764-3
 
 Les articles D. 431-1 à D. 431-5 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°97-509 1997-05-21 art 5-1 (ecqc Wallis et Futuna)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. D764-3 (V)
-
-
-##### Sous-section 2 : Les formes particulières de cession d'instruments financiers
-
-###### Article D764-3
-
-L'article D. 432-1 est applicable dans les îles Wallis et Futuna.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-335 2007-03-12 art. 3 4° JORF 14 mars 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. D432-1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. D764-3-1 (V)
-
-
-##### Section 4 : Les entreprises de marché et les chambres de compensations.
-
-###### Article D764-4
-
-Les articles D. 441-1 à D. 441-3 sont applicables dans les îles Wallis et Futuna.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-335 2007-03-12 art. 4 4° JORF 14 mars 2007
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier
+	  - Code monétaire et financier - art. D431-1
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. D764-2 (T)
+
+
+##### Sous-section 2 : Les formes particulières de cession d'instruments financiers
+
+###### Article D764-3-1
+
+L'article D. 432-1 est applicable dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D432-1
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. D764-3 (M)
 
 
 #### Chapitre V : Les prestataires de services
@@ -103508,6 +101472,17 @@ d'outre-mer.
 
 ##### Sous-section 2 : Les conditions d'accès à la profession
 
+###### Article D765-6-1
+
+L'article D. 531-1 est applicable dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 4
+
+
 ###### Article R765-6
 
 Les articles R. 532-1 à R. 532-7, R. 532-8 à l'exception de son premier alinéa, R. 532-10 à R. 532-14, R. 532-15 à
@@ -103542,17 +101517,19 @@ européen.
 
 ###### Article D765-8
 
-Les articles D. 533-3 à D. 533-7 sont applicables dans les îles Wallis et Futuna.
+Les articles D. 533-2-1, D. 533-3 à D. 533-7, D. 533-11 à D. 533-14 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 4
 
 	**Cite**:
 
-	  - Code monétaire et financier D533-3 à D533-7
+	  - Code monétaire et financier - art. D533-11 (V)
+	  - Code monétaire et financier - art. D533-2-1 (V)
+	  - Code monétaire et financier - art. D533-3 (V)
 
 
 ###### Article R765-7
@@ -103750,5 +101727,29 @@ et Futuna.
 	**Cite**:
 
 	  - Code monétaire et financier R621-1 à R621-26, R621-30-1 à R621-30-4, R621-31 à R621-46
+
+
+##### Section 3 : Echanges d'informations.
+
+###### Article D766-6-1
+
+L'article D. 632-1-1 est applicable dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 5
+
+
+###### Article D766-6-2
+
+L'article D. 632-4 est applicable dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1480 du 30 décembre 2008 - art. 5
 
 
