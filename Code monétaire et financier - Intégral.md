@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-01-10
 
 # Partie législative
 
@@ -37,11 +37,11 @@ La monnaie de la France est l'euro. Un euro est divisé en cent centimes.
 
 ###### Article L112-1
 
-Sous réserve des dispositions du premier alinéa de l'article L. 112-2 et des articles L. 112-3 et L. 112-4, l'indexation
-automatique des prix de biens ou de services est interdite.
+Sous réserve des dispositions du premier alinéa de l'article L. 112-2 et des articles L. 112-3, L. 112-3-1 et L. 112-4,
+l'indexation automatique des prix de biens ou de services est interdite. 
 
 Est réputée non écrite toute clause d'un contrat à exécution successive, et notamment des baux et locations de toute nature,
-prévoyant la prise en compte d'une période de variation de l'indice supérieure à la durée s'écoulant entre chaque révision.
+prévoyant la prise en compte d'une période de variation de l'indice supérieure à la durée s'écoulant entre chaque révision. 
 
 Est interdite toute clause d'une convention portant sur un local d'habitation prévoyant une indexation fondée sur l'indice "
 loyers et charges " servant à la détermination des indices généraux des prix de détail. Il en est de même de toute clause
@@ -53,20 +53,20 @@ textes pris pour son application.
 
 	**Cite**:
 
-	  - Loi n°48-1360 1948-09-01
-	  - Code monétaire et financier - art. L112-2 (M)
-	  - Code monétaire et financier - art. L112-4 (V)
+	  - Loi n°48-1360 du 1er septembre 1948
+	  - Code monétaire et financier - art. L112-2
 
 	**Anciens textes**:
 
-	  - Ordonnance 58-1374 1958-12-30 art. 79, 1, 3 al. 3 et al. 4
-	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 1, v. init.
-	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 79, v. init.
 	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 79 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 6
 
 	**Cité par**:
 
@@ -125,26 +125,26 @@ dispositions de l'article 759 du code civil.
 ###### Article L112-3
 
 Par dérogation aux dispositions de l'article L. 112-1 et du premier alinéa de l'article L. 112-2 et selon des modalités
-définies par décret, peuvent être indexés sur le niveau général des prix :
+définies par décret, peuvent être indexés sur le niveau général des prix : 
 
-1° Les titres de créance et les instruments financiers à terme mentionnés aux 2 et 4 du I de l'article L. 211-1 ;
+1° (Abrogé) ; 
 
 2° Les livrets A définis à l'article L. 221-1 ; 
 
-3° Les comptes sur livret d'épargne populaire définis à l'article L. 221-13 ;
+3° Les comptes sur livret d'épargne populaire définis à l'article L. 221-13 ; 
 
 4° Les livrets de développement durable définis à l'article L. 221-27 ; 
 
-5° Les comptes d'épargne-logement définis à l'article L. 315-1 du code de la construction et de l'habitation ;
+5° Les comptes d'épargne-logement définis à l'article L. 315-1 du code de la construction et de l'habitation ; 
 
 6° Les livrets d'épargne-entreprise définis à l'article 1er de la loi n° 84-578 du 9 juillet 1984 sur le développement de
-l'initiative économique ;
+l'initiative économique ; 
 
 7° Les livrets d'épargne institués au profit des travailleurs manuels définis à l'article 80 de la loi de finances pour 1977
-(n° 76-1232 du 29 décembre 1976) ;
+(n° 76-1232 du 29 décembre 1976) ; 
 
 8° Les prêts accordés aux personnes morales ainsi qu'aux personnes physiques pour les besoins de leur activité
-professionnelle ;
+professionnelle ; 
 
 9° Les loyers prévus par les conventions portant sur un local d'habitation ou sur un local affecté à des activités
 commerciales relevant du décret prévu au premier alinéa de l'article L. 112-2.
@@ -157,10 +157,9 @@ commerciales relevant du décret prévu au premier alinéa de l'article L. 112-2
 
 	**Cite**:
 
-	  - Loi n°76-1232 du 29 décembre 1976
+	  - Loi n°76-1232 du 29 décembre 1976 - art. 80
 	  - Loi n°84-578 du 9 juillet 1984 - art. 1
 	  - Code monétaire et financier - art. L112-2
-	  - Code monétaire et financier - art. L211-1
 	  - Code monétaire et financier - art. L221-1
 	  - Code monétaire et financier - art. L221-13
 	  - Code monétaire et financier - art. L221-27
@@ -172,13 +171,33 @@ commerciales relevant du décret prévu au premier alinéa de l'article L. 112-2
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 145
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 6
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 125 A (VD)
 	  - Code monétaire et financier - art. D112-1 (V)
 	  - Code monétaire et financier - art. L112-1 (V)
+
+
+###### Article L112-3-1
+
+Nonobstant toute disposition législative contraire, l'indexation des titres de créance et des contrats financiers mentionnés
+respectivement au 2 du II et au III de l'article L. 211-1 est libre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 6
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1
 
 
 ###### Article L112-4
@@ -6549,24 +6568,18 @@ douanes. Sont également applicables les dispositions de l'article 451 du code d
 
 ###### Article L211-1
 
-I.-Les instruments financiers comprennent : 
+I. - Les instruments financiers sont les titres financiers et les contrats financiers. 
 
-1. Les actions et autres titres donnant ou pouvant donner accès, directement ou indirectement, au capital ou aux droits de
-vote, transmissibles par inscription en compte ou tradition ; 
+II. - Les titres financiers sont : 
 
-2. Les titres de créance qui représentent chacun un droit de créance sur la personne morale ou le fonds commun de titrisation
-qui les émet, transmissibles par inscription en compte ou tradition, à l'exclusion des effets de commerce et des bons de
-caisse ; 
+1. Les titres de capital émis par les sociétés par actions ; 
 
-3. Les parts ou actions d'organismes de placements collectifs ; 
+2. Les titres de créance, à l'exclusion des effets de commerce et des bons de caisse ; 
 
-4. Les instruments financiers à terme figurant sur une liste fixée par décret ; 
+3. Les parts ou actions d'organismes de placement collectif. 
 
-5. Et tous instruments financiers équivalents à ceux mentionnés aux précédents alinéas, ainsi que les droits représentatifs
-d'un placement financier dans une entité, émis sur le fondement de droits étrangers. 
-
-II.-Les instruments financiers mentionnés aux 1 à 3 du I ne peuvent être émis que par l'Etat, une personne morale, un fonds
-commun de placement, un fonds de placement immobilier ou un fonds commun de créances.
+III. - Les contrats financiers, également dénommés " instruments financiers à terme ", sont les contrats à terme qui figurent
+sur une liste fixée par décret.
 
 **Liens relatifs à cet article**
 
@@ -6715,19 +6728,18 @@ commun de placement, un fonds de placement immobilier ou un fonds commun de cré
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 
 ##### Section 2 : Règles générales applicables aux valeurs mobilières.
 
+##### Sous-section 1 : Conditions d'émission
+
 ###### Article L211-2
 
-Constituent des valeurs mobilières, les titres émis par des personnes morales, publiques ou privées, transmissibles par
-inscription en compte ou tradition, qui confèrent des droits identiques par catégorie et donnent accès, directement ou
-indirectement, à une quotité du capital de la personne morale émettrice ou à un droit de créance général sur son patrimoine. 
-
-Sont également des valeurs mobilières les parts de fonds communs de placement, les parts de fonds de placement immobilier et
-de   fonds communs de titrisation .
+Les titres financiers, qui comprennent les valeurs mobilières au sens du deuxième alinéa de l'article L. 228-1 du code de
+commerce, ne peuvent être émis que par l'Etat, une personne morale, un fonds commun de placement, un fonds de placement
+immobilier ou un fonds commun de titrisation.
 
 **Liens relatifs à cet article**
 
@@ -6741,7 +6753,7 @@ de   fonds communs de titrisation .
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -6750,22 +6762,20 @@ de   fonds communs de titrisation .
 	  - Code monétaire et financier - art. L752-1 (VD)
 
 
-##### Sous-section 1 : Conditions d'émission
+##### Sous-section 2 : Inscription en compte
+
+##### Paragraphe 1 : Dispositions générales
 
 ###### Article L211-3
 
-Les sociétés par actions peuvent émettre des valeurs mobilières dans les conditions prévues à l'article L. 228-1 du code de
-commerce.
+Les titres financiers, émis en territoire français et soumis à la législation française, sont inscrits dans un compte-titres
+tenu soit par l'émetteur, soit par l'un des intermédiaires mentionnés aux 2° à 7° de l'article L. 542-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -6803,48 +6813,26 @@ commerce.
 	  - Code monétaire et financier - art. R211-4 (V)
 	  - Code monétaire et financier - art. R211-6 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L228-1 (M)
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
+	**Cite**:
 
-##### Sous-section 2 : Inscription en compte
+	  - Code monétaire et financier - art. L542-1
+
 
 ###### Article L211-4
 
-Les valeurs mobilières émises en territoire français et soumises à la législation française, quelle que soit leur forme,
-doivent être inscrites en comptes tenus par l'émetteur ou par un intermédiaire habilité.
+Le compte-titres est ouvert au nom d'un ou de plusieurs titulaires, propriétaires des titres financiers qui y sont inscrits. 
 
-Les titres des sociétés par actions qui ne sont pas admis aux négociations sur un marché réglementé, à l'exception des
-actions de sociétés d'investissement à capital variable "SICAV" ou de sociétés de placement à prépondérance immobilière à
-capital variable, doivent être inscrits à un compte tenu chez lui par l'émetteur au nom du propriétaire des titres.
+Par dérogation, le compte-titres peut être ouvert : 
 
-Par dérogation aux obligations de l'alinéa précédent, lorsque les titres sont admis aux opérations d'un dépositaire central,
-ils peuvent être inscrits en compte chez un intermédiaire habilité si cela est prévu dans les statuts de la personne morale
-émettrice lorsqu'il s'agit de titres de capital, ou dans le contrat d'émission, lorsqu'il s'agit d'autres titres. Le
-dépositaire central est soumis aux obligations prévues par le chapitre II du titre VI du livre V.
+1. Au nom d'un fonds commun de placement, d'un fonds de placement immobilier ou d'un fonds commun de titrisation, la
+désignation du fonds pouvant être valablement substituée à celle de tous les copropriétaires ; 
 
-Ces dispositions ne concernent pas les obligations émises avant le 3 novembre 1984, amortissables par tirage au sort de
-numéros. Elles ne concernent pas non plus les rentes perpétuelles sur l'Etat, détenues sous forme nominative, émises avant
-cette date.
-
-Les détenteurs de valeurs mobilières, émises avant la même date, ne peuvent exercer les droits attachés à leurs titres que si
-ceux-ci ont été présentés à l'émetteur ou à un intermédiaire habilité en vue de leur inscription en compte. A compter du 3
-mai 1988, dans des conditions définies par décret, les émetteurs doivent procéder à la vente des droits correspondant aux
-valeurs mobilières non présentées. Le produit de la vente est consigné jusqu'à restitution éventuelle aux ayants droit.
-
-Dans les sociétés mentionnées au deuxième alinéa, lorsqu'ils ne justifient pas avoir effectué toute diligence pour assurer
-l'application effective des présentes dispositions, les gérants, le président du conseil d'administration ou du directoire
-sont pour l'application des droits de mutation par décès et de l'impôt de solidarité sur la fortune présumés, sauf preuve
-contraire, être les propriétaires des valeurs mobilières non présentées ou qui n'auraient pas été vendues dans les conditions
-de l'alinéa précédent.
-
-**Nota:**
-
-Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
-celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
-homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
-collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+2. Au nom d'un intermédiaire inscrit agissant pour le compte du propriétaire des titres financiers, mentionné au septième
+alinéa de l'article L. 228-1 du code de commerce et dans les conditions prévues par ce même code.
 
 **Liens relatifs à cet article**
 
@@ -6858,7 +6846,7 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -6876,87 +6864,17 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 	  - Code monétaire et financier - art. L752-1 (M)
 	  - Code monétaire et financier - art. L762-1 (M)
 
-
-###### Article L211-4-1
-
-Aucune saisie, même à titre conservatoire, n'est admise sur les comptes courants de valeurs mobilières ouverts dans les
-écritures d'un dépositaire central.
-
-Aucune mesure d'exécution forcée ou conservatoire menée à l'encontre d'un intermédiaire habilité mentionné à l'article L.
-542-1 n'est admise sur les instruments financiers inscrits sur un compte, ouvert à son nom dans les livres d'un autre
-intermédiaire habilité, lorsqu'ils sont la propriété de ses clients.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 21 () JORF 7 mai 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
-
 	**Cite**:
 
-	  - Code monétaire et financier - art. L542-1
+	  - Code de commerce - art. L228-1
 
-
-##### Sous-section 3 : Identification des détenteurs.
 
 ###### Article L211-5
 
-Les obligations d'information concernant les détenteurs de titres sont fixées par l'article L. 228-2 du code de commerce.
+La procédure d'identification des propriétaires de titres de capital est fixée aux articles L. 228-2 à L. 228-3-4 du code de
+commerce.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cité par**:
-
-	  - Ordonnance n°2009-884 du 22 juillet 2009 - art. 2 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L228-2 (M)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L228-2 (M)
-
-
-##### Section 3 : Règles applicables en cas de procédure de sauvegarde, de redressement ou liquidation judiciaire d'un intermédiaire habilité.
-
-###### Article L211-6
-
-En cas d'ouverture d'une procédure de sauvegarde, de redressement ou de liquidation judiciaires d'un établissement teneur de
-comptes, l'administrateur judiciaire ou le liquidateur, conjointement avec l'administrateur provisoire ou le liquidateur
-nommé, le cas échéant, par la commission bancaire, vérifie instrument financier par instrument financier que l'ensemble des
-titres détenus en compte courant chez un dépositaire central ou chez un autre intermédiaire au nom de l'intermédiaire
-défaillant, quelle que soit la nature des comptes ouverts chez ces derniers, sont en nombre suffisant pour que
-l'intermédiaire puisse remplir ses obligations vis-à-vis des propriétaires des instruments financiers inscrits en compte dans
-ses livres. En cas d'insuffisance du nombre de ces titres, il est procédé instrument financier par instrument financier à une
-répartition proportionnelle des titres entre les propriétaires ; à proportion des titres rendus disponibles, leurs
-propriétaires peuvent les faire virer à un compte tenu par un autre intermédiaire ou par la personne morale émettrice. 
-
-Pour la créance correspondant aux instruments financiers dont la disposition n'aura pu être rendue aux propriétaires, faute
-d'une encaisse suffisante chez le dépositaire central, ceux-ci sont dispensés de la déclaration prévue à l'article L. 622-24
-du code de commerce. 
-
-Le juge commissaire est informé du résultat de la vérification opérée par l'administrateur judiciaire ou le liquidateur et,
-le cas échéant, de la répartition proportionnelle des titres ainsi que des virements de comptes effectués à la demande des
-propriétaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier art. L431-6
 
 	**Codifié par**:
 
@@ -6964,17 +6882,1180 @@ propriétaires.
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 2005-07-26 annexe JORF 27 juillet 2006 en vigueur le 1er janvier 2006
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Ordonnance n°2009-884 du 22 juillet 2009 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code de commerce. - art. L622-24 (V)
+	  - Code de commerce - art. L228-2
+
+
+##### Paragraphe 2 : Tenue de compte-conservation
+
+###### Article L211-6
+
+Le compte-titres est tenu par l'émetteur lorsque la loi l'exige ou lorsque l'émetteur le décide. Dans les autres cas, il est
+tenu au choix du propriétaire des titres par l'émetteur ou par un intermédiaire mentionné à l'article L. 211-3.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-3
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L532-18 (VD)
 	  - Code monétaire et financier - art. L613-31 (V)
+
+
+###### Article L211-7
+
+Les titres financiers admis aux opérations d'un dépositaire central peuvent être inscrits dans un compte-titres tenu par un
+intermédiaire mentionné à l'article L. 211-3, sauf décision contraire de l'émetteur. 
+
+Les titres financiers qui ne sont pas admis aux opérations d'un dépositaire central doivent être inscrits dans un compte-
+titres tenu par l'émetteur au nom du propriétaire des titres. Toutefois, sauf lorsque la loi ou l'émetteur l'interdit, les
+parts ou actions d'organismes de placement collectif peuvent être inscrites dans un compte-titres tenu par un intermédiaire
+mentionné à l'article L. 211-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-3
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L212-3 (V)
+	  - Code monétaire et financier - art. L213-8 (V)
+
+
+###### Article L211-8
+
+Le teneur de compte-conservateur de titres financiers peut, dans les conditions fixées par le règlement général de l'Autorité
+des marchés financiers, confier à un tiers tout ou partie de ses tâches.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L613-34-1 (V)
+
+
+##### Paragraphe 3 : Protection du titulaire du compte 
+
+
+
+###### Article L211-9
+
+Le teneur de compte-conservateur sauvegarde les droits des titulaires des comptes sur les titres financiers qui y sont
+inscrits. Il ne peut utiliser ces titres pour son propre compte que dans les conditions prévues au 6° de l'article L. 533-10.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L533-10
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L742-1 (VD)
+	  - Code monétaire et financier - art. L752-1 (VD)
+	  - Code monétaire et financier - art. L762-1 (VD)
+
+
+###### Article L211-10
+
+En cas d'ouverture d'une procédure de redressement ou de liquidation judiciaire d'un intermédiaire mentionné à l'article L.
+211-3, l'administrateur judiciaire ou le liquidateur, conjointement avec l'administrateur provisoire ou le liquidateur nommé,
+le cas échéant, par la commission bancaire, vérifie titre financier par titre financier que l'ensemble des titres financiers
+figurant en compte chez un dépositaire central ou chez un autre intermédiaire au nom de l'intermédiaire défaillant, quelle
+que soit la nature des comptes ouverts chez ces derniers, sont en nombre suffisant pour que l'intermédiaire puisse remplir
+ses obligations vis-à-vis des titulaires de compte. 
+
+En cas d'insuffisance du nombre de ces titres, il est procédé titre financier par titre financier à une répartition
+proportionnelle entre les titulaires de compte concernés ; ceux-ci peuvent faire virer à un compte-titres tenu par un autre
+intermédiaire ou par l'émetteur les titres dont ils obtiennent restitution. 
+
+Pour la créance correspondant aux titres financiers qui, faute d'une encaisse suffisante chez le dépositaire central ou chez
+un autre intermédiaire, n'auront pu être restitués aux titulaires de compte, ceux-ci sont dispensés de la déclaration prévue
+à l'article L. 622-24 du code de commerce. 
+
+Le juge commissaire est informé du résultat de la vérification opérée par l'administrateur judiciaire ou le liquidateur et,
+le cas échéant, de la répartition proportionnelle des titres financiers ainsi que des virements effectués à la demande des
+titulaires de compte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L622-24
+	  - Code monétaire et financier - art. L211-3
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L613-31 (V)
+	  - Code monétaire et financier - art. L752-1 (VD)
+
+
+###### Article L211-11
+
+Aucune saisie, même à titre conservatoire, n'est admise sur les comptes ouverts auprès d'un dépositaire central. 
+
+Aucune mesure d'exécution forcée ou conservatoire menée à l'encontre d'un intermédiaire mentionné à l'article L. 211-3 n'est
+admise sur les titres financiers inscrits sur un compte, ouvert à son nom dans les livres d'un autre intermédiaire mentionné
+au même article, lorsqu'ils ne sont pas la propriété du premier intermédiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L211-12 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-3
+
+
+###### Article L211-12
+
+Sous réserve des dispositions de l'article L. 211-11, les saisies de titres financiers sont régies par les dispositions de la
+loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°91-650 du 9 juillet 1991
+	  - Code monétaire et financier - art. L211-11
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 6 (V)
+
+
+##### Paragraphe 4 : Dispositions transitoires 
+
+
+
+
+
+
+###### Article L211-13
+
+Les dispositions de la présente sous-section ne concernent pas les obligations émises avant le 3 novembre 1984, amortissables
+par tirage au sort de numéros. Elles ne concernent pas non plus les rentes perpétuelles sur l'Etat, détenues sous forme
+nominative, émises avant cette date. 
+
+Les détenteurs de titres financiers émis avant la même date ne peuvent exercer les droits attachés à leurs titres que si
+ceux-ci ont été inscrits en compte par l'émetteur ou présentés à un intermédiaire mentionné à l'article L. 211-3 en vue de
+leur inscription en compte. Dans des conditions définies par décret, les émetteurs ou les intermédiaires doivent procéder à
+la vente des droits correspondant aux titres financiers non présentés ou dont les titulaires sont inconnus ou n'ont pas été
+atteints depuis la même date du 3 novembre 1984. Le produit de la vente est consigné jusqu'à restitution éventuelle aux
+ayants droit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 754 B (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-3
+
+
+##### Section 2 : Les titres financiers
+
+##### Sous-section 1 : Conditions d'émission
+
+##### Sous-section 2 : Inscription en compte
+
+##### Sous-section 3 : Transmission 
+
+
+
+
+
+
+
+##### Paragraphe 1 : Négociabilité 
+
+
+
+
+
+
+###### Article L211-14
+
+A l'exception des parts des sociétés civiles de placement immobilier mentionnées à l'article L. 214-50 et des parts des
+sociétés d'épargne forestière mentionnées à l'article L. 214-85, les titres financiers sont négociables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L214-162-8 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-50
+	  - Code monétaire et financier - art. L214-85
+
+
+###### Article L211-15
+
+Les titres financiers se transmettent par virement de compte à compte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+
+###### Article L211-16
+
+Nul ne peut revendiquer pour quelque cause que ce soit un titre financier dont la propriété a été acquise de bonne foi par le
+titulaire du compte-titres dans lequel ces titres sont inscrits.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+
+##### Paragraphe 2 : Transfert de propriété 
+
+
+
+
+
+
+###### Article L211-17
+
+Le transfert de propriété de titres financiers résulte de l'inscription de ces titres au compte-titres de l'acquéreur. 
+
+Lorsque les titres financiers sont admis aux opérations d'un dépositaire central ou livrés dans un système de règlement et de
+livraison d'instruments financiers mentionné à l'article L. 330-1, le transfert de propriété résulte de l'inscription des
+titres au compte-titres de l'acquéreur, à la date et dans les conditions définies par le règlement général de l'Autorité des
+marchés financiers. 
+
+Par dérogation aux alinéas précédents, lorsque le système de règlement et de livraison assure la livraison des titres
+financiers en prévoyant un dénouement irrévocable en continu, le transfert n'intervient au profit de l'acquéreur que lorsque
+celui-ci a réglé le prix. Tant que l'acquéreur n'a pas réglé le prix, l'intermédiaire qui a reçu les titres financiers en est
+le propriétaire. Le règlement général de l'Autorité des marchés financiers précise les modalités particulières de transfert
+de propriété applicables dans le cas prévu au présent alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 560-11 (V)
+	  - Arrêté du 12 novembre 2004 - art. 570-8 (V)
+	  - Ordonnance n°2005-303 du 31 mars 2005 - art. 4 (V)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Décret n°2014-1466 du 8 décembre 2014 (V)
+	  - Code de commerce - art. L228-1 (V)
+	  - Code général des impôts, CGI. - art. 235 ter ZD (VT)
+	  - Code monétaire et financier - art. L744-5 (Ab)
+	  - Code monétaire et financier - art. L754-5 (Ab)
+	  - Code monétaire et financier - art. L764-5 (Ab)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L330-1
+
+
+###### Article L211-18
+
+En cas de livraison de titres financiers contre règlement d'espèces, le défaut de livraison ou de règlement constaté à la
+date et dans les conditions définies dans le règlement général de l'Autorité des marchés financiers ou, à défaut, par une
+convention entre les parties délie de plein droit de toute obligation la partie non défaillante vis-à-vis de la partie
+défaillante, nonobstant toute disposition législative contraire. 
+
+Lorsqu'un intermédiaire mentionné à l'article L. 211-3 procède à la livraison des titres ou au paiement du prix en se
+substituant à son client défaillant, il acquiert la pleine propriété des titres financiers ou des espèces reçus de la
+contrepartie. Les dispositions du livre VI du code de commerce ne font pas obstacle à l'application du présent article. Aucun
+créancier du client défaillant ne peut opposer un droit quelconque sur ces titres financiers ou espèces.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-3
+
+
+###### Article L211-19
+
+Pour chaque ordre de négociation, cession ou mutation d'un titre financier inscrit dans un compte tenu par l'émetteur et
+admis aux opérations d'un dépositaire central, ou pour toute autre modification affectant l'inscription en compte dudit titre
+financier, l'intermédiaire mentionné à l'article L. 211-3 établit un bordereau de références nominatives. Ce bordereau
+indique les éléments d'identification du donneur d'ordre, la nature juridique de ses droits et les restrictions dont le titre
+financier peut être frappé et porte un code permettant de déterminer l'opération à laquelle il se rattache. 
+
+Le règlement général de l'Autorité des marchés financiers détermine les modalités et les délais de circulation du bordereau
+de références nominatives entre l'intermédiaire, le dépositaire et l'émetteur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 322-54 (V)
+	  - Arrêté du 12 novembre 2004 - art. 322-64 (V)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Code de l'action sociale et des familles - art. R314-95 (VD)
+	  - Code rural - art. L275-11 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-3
+
+
+##### Sous-section 4 : Nantissement de comptes-titres 
+
+
+
+
+
+
+###### Article L211-20
+
+I. ― Le nantissement d'un compte-titres est réalisé, tant entre les parties qu'à l'égard de la personne morale émettrice et
+des tiers, par une déclaration signée par le titulaire du compte. Cette déclaration comporte les énonciations fixées par
+décret. Les titres financiers figurant initialement dans le compte nanti, ceux qui leur sont substitués ou les complètent en
+garantie de la créance initiale du créancier nanti, de quelque manière que ce soit, ainsi que leurs fruits et produits en
+toute monnaie, sont compris dans l'assiette du nantissement. Les titres financiers et les sommes en toute monnaie
+postérieurement inscrits au crédit du compte nanti, en garantie de la créance initiale du créancier nanti, sont soumis aux
+mêmes conditions que ceux y figurant initialement et sont considérés comme ayant été remis à la date de déclaration de
+nantissement initiale. Le créancier nanti peut obtenir, sur simple demande au teneur de compte, une attestation de
+nantissement de compte d'instruments financiers, comportant inventaire des titres financiers et sommes en toute monnaie
+inscrits en compte nanti à la date de délivrance de cette attestation. 
+
+II. ― Le compte nanti prend la forme d'un compte spécial ouvert au nom du titulaire et tenu par un intermédiaire mentionné à
+l'article L. 211-3, un dépositaire central ou, le cas échéant, l'émetteur.
+
+A défaut d'un compte spécial, sont réputés constituer le compte nanti les titres financiers mentionnés au premier alinéa,
+ainsi que les sommes en toute monnaie ayant fait l'objet d'une identification à cet effet par un procédé informatique. 
+
+III. ― Lorsque les titres financiers figurant dans le compte nanti sont inscrits dans un compte tenu par l'émetteur et que
+celui-ci n'est pas une personne autorisée à recevoir des fonds du public au sens de l'article L. 312-2, les fruits et
+produits mentionnés au I versés en toute monnaie doivent être inscrits au crédit d'un compte spécial ouvert au nom du
+titulaire du compte nanti dans les livres d'un intermédiaire mentionné à l'article L. 211-3 ou d'un établissement de crédit.
+Ce compte spécial est réputé faire partie intégrante du compte nanti à la date de signature de la déclaration de
+nantissement. Le créancier nanti peut obtenir, sur simple demande au teneur du compte spécial, une attestation comportant
+l'inventaire des sommes en toute monnaie inscrites au crédit de ce compte à la date de la délivrance de cette attestation. 
+
+IV. ― Le créancier nanti définit avec le titulaire du compte-titres les conditions dans lesquelles ce dernier peut disposer
+des titres financiers et des sommes en toute monnaie figurant dans le compte nanti. Le créancier nanti bénéficie en toute
+hypothèse d'un droit de rétention sur les titres financiers et sommes en toute monnaie figurant au compte nanti.
+
+V. ― Le créancier nanti titulaire d'une créance certaine, liquide et exigible peut, pour les titres financiers, français ou
+étrangers, négociés sur un marché réglementé, les parts ou actions d'organismes de placement collectif, ainsi que pour les
+sommes en toute monnaie, réaliser le nantissement, civil ou commercial, huit jours ― ou à l'échéance de tout autre délai
+préalablement convenu avec le titulaire du compte ― après mise en demeure du débiteur remise en mains propres ou adressée par
+courrier recommandé. Cette mise en demeure du débiteur est également notifiée au constituant du nantissement lorsqu'il n'est
+pas le débiteur ainsi qu'au teneur de compte lorsque ce dernier n'est pas le créancier nanti. La réalisation du nantissement
+intervient selon des modalités fixées par décret. 
+
+Pour les instruments financiers autres que ceux mentionnés à l'alinéa précédent, la réalisation du nantissement intervient
+conformément aux dispositions de l'article L. 521-3 du code de commerce. 
+
+VI. ― Les dispositions du V du présent article relatives à la réalisation du nantissement s'appliquent aux nantissements de
+titres financiers constitués antérieurement au 4 juillet 1996.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Ordonnance n°2009-884 du 22 juillet 2009 - art. 2 (V)
+	  - Code de la mutualité - art. R212-50 (V)
+	  - Code de la sécurité sociale. - art. R931-10-38 (V)
+	  - Code des assurances - art. R332-17 (VD)
+	  - Code monétaire et financier - art. D211-10 (V)
+	  - Code monétaire et financier - art. D211-11 (V)
+	  - Code monétaire et financier - art. D211-12 (V)
+	  - Code monétaire et financier - art. D211-13 (V)
+	  - Code monétaire et financier - art. L513-2 (VD)
+	  - Code monétaire et financier - art. L513-30 (V)
+	  - Code monétaire et financier - art. L515-13 (VT)
+	  - Code monétaire et financier - art. L515-36 (VT)
+	  - Code monétaire et financier - art. L744-6 (Ab)
+	  - Code monétaire et financier - art. L752-1 (VD)
+	  - Code monétaire et financier - art. L754-6 (Ab)
+	  - Code monétaire et financier - art. L764-6 (Ab)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-3
+	  - Code monétaire et financier - art. L312-2
+
+
+##### Sous-section 5 : Formes particulières de transmission 
+
+
+
+
+##### Paragraphe 1 : Adjudication 
+
+
+
+
+
+
+###### Article L211-21
+
+Les adjudications publiques volontaires ou forcées de titres financiers sont faites, si ces titres sont admis aux
+négociations sur un marché réglementé, par les prestataires de services d'investissement membres du marché réglementé où ces
+titres sont négociés et, dans le cas contraire, par un prestataire de services d'investissement ou par un notaire. 
+
+Même en cas de dispositions statutaires contraires, les dispositions du présent article s'appliquent aux adjudications pour
+défaut de libération d'actions. 
+
+Les dispositions du présent article ne sont pas applicables aux adjudications de titres de la dette publique effectuées pour
+le compte de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Décret n°2015-1480 du 16 novembre 2015 - art. 3 (V)
+	  - Code de commerce - art. R228-11 (V)
+	  - Code de commerce - art. R228-12 (VD)
+	  - Code de commerce. - art. R228-24 (V)
+	  - Code monétaire et financier - art. L744-8 (Ab)
+	  - Code monétaire et financier - art. L754-8 (Ab)
+	  - Code monétaire et financier - art. L764-8 (Ab)
+
+
+##### Paragraphe 2 : Prêt de titres financiers 
+
+
+
+
+###### Article L211-22
+
+Les dispositions de l'article L. 211-24 sont applicables aux prêts de titres financiers qui remplissent les conditions
+suivantes : 
+
+1. Le prêt porte sur des titres financiers ; 
+
+2. Le prêt porte sur des titres financiers qui ne sont pas susceptibles de faire l'objet, pendant la durée du prêt, du
+détachement d'un droit à dividende ou du paiement d'un intérêt soumis à la retenue à la source prévue au 1° de l'article 119
+bis ou à l'article 1678 bis du code général des impôts ou ouvrant droit au crédit impôt prévu au b du 1 de l'article 220 du
+même code, d'un amortissement, d'un tirage au sort pouvant conduire au remboursement ou d'un échange ou d'une conversion
+prévus par le contrat d'émission ; 
+
+3. Le prêt est soumis aux dispositions des articles 1892 à 1904 inclus du code civil ; 
+
+4. Les titres financiers sont empruntés par une personne morale soumise de plein droit à un régime réel d'imposition, par un
+organisme de placement collectif, ou par une personne, société ou institution non résidente ayant un statut comparable. 
+
+Les parties peuvent convenir de remises complémentaires, en pleine propriété, d'espèces ou de titres financiers, pour tenir
+compte de l'évolution de la valeur des titres financiers prêtés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis (V)
+	  - Code de commerce - art. L239-1 (V)
+	  - Code général des impôts, CGI. - art. 260 C (VD)
+	  - Code général des impôts, CGI. - art. 261 C (V)
+	  - Code général des impôts, CGI. - art. 39 (VD)
+	  - Code général des impôts, CGI. - art. 39 duodecies (V)
+	  - Code monétaire et financier - art. L513-2 (VD)
+	  - Code monétaire et financier - art. L513-30 (V)
+	  - Code monétaire et financier - art. L515-13 (VT)
+	  - Code monétaire et financier - art. L515-36 (VT)
+	  - Code monétaire et financier - art. L711-17 (VD)
+	  - Code monétaire et financier - art. L724-1 (V)
+	  - Code monétaire et financier - art. L734-3 (VT)
+	  - Code monétaire et financier - art. L742-1 (VT)
+	  - Code monétaire et financier - art. L744-8-1 (Ab)
+	  - Code monétaire et financier - art. L752-1 (VD)
+	  - Code monétaire et financier - art. L754-8-1 (Ab)
+	  - Code monétaire et financier - art. L762-1 (VT)
+	  - Code monétaire et financier - art. L764-8-1 (Ab)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 119
+	  - Code général des impôts, CGI. - art. 1678 bis
+	  - Code civil - art. 1892
+	  - Code monétaire et financier - art. L211-24
+
+
+###### Article L211-23
+
+Le régime de la rémunération allouée en paiement de prêts de titres financiers est fixé par les dispositions du 2 du I de
+l'article 38 bis du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Code monétaire et financier - art. L711-17 (VD)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 38 bis
+
+
+###### Article L211-24
+
+Lorsque les titres financiers sont prêtés par une entreprise, ils sont prélevés par priorité sur les titres de même nature
+acquis ou souscrits à la date la plus récente. 
+
+La créance représentative des titres financiers prêtés est inscrite distinctement au bilan à la valeur d'origine de ces
+titres. 
+
+A l'expiration du prêt, les titres financiers restitués sont inscrits au bilan à cette même valeur. 
+
+La provision pour dépréciation constituée antérieurement, le cas échéant, sur les titres financiers prêtés n'est pas
+réintégrée lors du prêt. Elle doit figurer sur une ligne distincte au bilan et demeurer inchangée jusqu'à la restitution de
+ces titres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Code général des impôts, CGI. - art. 38 bis (V)
+	  - Code général des impôts, CGI. - art. 39 (VD)
+	  - Code monétaire et financier - art. L211-22 (V)
+	  - Code monétaire et financier - art. L742-1 (VT)
+	  - Code monétaire et financier - art. L752-1 (VD)
+	  - Code monétaire et financier - art. L762-1 (VT)
+
+
+###### Article L211-25
+
+Les titres financiers empruntés et la dette représentative de l'obligation de restitution de ces titres sont inscrits
+distinctement au bilan de l'emprunteur au prix du marché au jour du prêt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Code général des impôts, CGI. - art. 38 bis (V)
+
+
+###### Article L211-26
+
+Lorsque l'emprunteur cède des titres financiers, ceux-ci sont prélevés par priorité sur les titres de même nature empruntés à
+la date la plus ancienne. Les achats ultérieurs de titres de même nature sont affectés par priorité au remplacement des
+titres empruntés. 
+
+A la clôture de l'exercice, les titres financiers empruntés qui figurent au bilan de l'emprunteur et la dette représentative
+de l'obligation de restitution qui résulte des contrats en cours sont inscrits au prix que ces titres ont sur le marché à
+cette date. 
+
+A l'expiration du prêt, les titres financiers empruntés sont réputés restitués à la valeur pour laquelle la dette
+représentative de l'obligation de restitution figure au bilan.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Code général des impôts, CGI. - art. 38 bis (V)
+
+
+##### Paragraphe 3 : Pension 
+
+
+
+
+
+
+###### Article L211-27
+
+La pension est l'opération par laquelle une personne morale, un fonds commun de placement, un fonds de placement immobilier
+ou un fonds commun de titrisation cède en pleine propriété à une autre personne morale, à un fonds commun de placement, à un
+fonds de placement immobilier ou à un fonds commun de titrisation, moyennant un prix convenu, des titres financiers et par
+laquelle le cédant et le cessionnaire s'engagent respectivement et irrévocablement, le premier à reprendre les titres, le
+second à les rétrocéder pour un prix et à une date convenus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+
+###### Article L211-28
+
+La pension porte sur des titres financiers qui ne sont pas susceptibles de faire l'objet, pendant toute la durée de
+l'opération : 
+
+1. Du détachement d'un droit à dividende, ouvrant droit au crédit d'impôt prévu au b du 1 de l'article 220 du code général
+des impôts ; 
+
+2. Du paiement d'un intérêt soumis à la retenue à la source prévue au 1 de l'article 119 bis ou à l'article 1678 bis du code
+général des impôts ou ouvrant droit à un crédit d'impôt prévu au b du 1 de l'article 220 du même code.
+
+L'amortissement, le tirage au sort conduisant au remboursement, l'échange, la conversion ou l'exercice d'un bon de
+souscription mettent fin à l'opération de pension.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis-0 A bis (V)
+	  - Code monétaire et financier - art. L711-17 (VD)
+	  - Code monétaire et financier - art. L742-1 (VT)
+	  - Code monétaire et financier - art. L744-8-1 (Ab)
+	  - Code monétaire et financier - art. L752-1 (VD)
+	  - Code monétaire et financier - art. L762-1 (VT)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 119 bis
+	  - Code général des impôts, CGI. - art. 1678 bis
+	  - Code général des impôts, CGI. - art. 220
+
+
+###### Article L211-29
+
+La pension devient opposable aux tiers dès la livraison, dont les modalités sont fixées par décret, des titres financiers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Code monétaire et financier - art. D211-15 (V)
+
+
+###### Article L211-30
+
+Au terme fixé pour la rétrocession, le cédant paye le prix convenu au cessionnaire et ce dernier rétrocède les titres
+financiers au cédant ; si le cédant manque à son obligation de payer le prix de la rétrocession, les titres restent acquis au
+cessionnaire et si le cessionnaire manque à son obligation de rétrocéder les titres, le montant de la cession reste acquis au
+cédant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+
+###### Article L211-31
+
+La rémunération du cessionnaire, quelle qu'en soit la forme, constitue un revenu de créance. Elle est traitée sur le plan
+comptable comme des intérêts. 
+
+Lorsque la durée de la pension couvre la date de paiement des revenus attachés aux titres financiers donnés en pension, le
+cessionnaire les reverse au cédant qui les comptabilise parmi les produits de même nature.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Code monétaire et financier - art. L744-8-1 (Ab)
+	  - Code monétaire et financier - art. L754-8-1 (Ab)
+
+
+###### Article L211-32
+
+La pension entraîne, chez le cédant, d'une part, le maintien à l'actif de son bilan des titres financiers mis en pension et,
+d'autre part, l'inscription au passif du bilan du montant de sa dette vis-à-vis du cessionnaire ; ces titres et cette dette
+sont individualisés à une rubrique spécifique dans la comptabilité du cédant. En outre, le montant des titres financiers mis
+en pension, ventilé selon la nature des actifs concernés, doit figurer dans les documents annexés aux comptes annuels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+
+###### Article L211-33
+
+Les titres financiers reçus en pension ne sont pas inscrits au bilan du cessionnaire ; celui-ci enregistre à l'actif de son
+bilan le montant de sa créance sur le cédant. 
+
+Lorsque le cessionnaire cède des titres financiers qu'il a lui-même reçus en pension, il constate au passif de son bilan le
+montant de cette cession représentatif de sa dette de titres financiers qui, à la clôture de l'exercice, est évaluée au prix
+de marché de ces actifs. Les écarts de valeur constatés sont retenus pour la détermination du résultat imposable de cet
+exercice. 
+
+Lorsque le cessionnaire donne en pension des titres financiers qu'il a lui-même reçus en pension, il inscrit au passif de son
+bilan le montant de sa dette à l'égard du nouveau cessionnaire. 
+
+Les montants représentatifs des créances et dettes mentionnées au présent article sont individualisés dans la comptabilité du
+cessionnaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Code monétaire et financier - art. L724-1 (V)
+
+
+###### Article L211-34
+
+Pour l'application des articles L. 211-27 à L. 211-33, les effets publics ou privés sont assimilés à des titres financiers. 
+
+Toutefois, seuls les établissements de crédit peuvent prendre ou mettre en pension les effets privés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis-0 A bis (V)
+	  - Code monétaire et financier - art. L511-7 (V)
+
+
+##### Section 3 : Contrats financiers 
+
+
+
+
+###### Article L211-35
+
+Nul ne peut, pour se soustraire aux obligations qui résultent de contrats financiers, se prévaloir de l'article 1965 du code
+civil, alors même que ces opérations se résoudraient par le paiement d'une simple différence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Code monétaire et financier - art. L744-9 (Ab)
+	  - Code monétaire et financier - art. L752-1 (VD)
+	  - Code monétaire et financier - art. L754-9 (Ab)
+	  - Code monétaire et financier - art. L764-9 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 1965
+
+
+##### Section 4 : Règles communes applicables aux opérations sur instruments financiers 
+
+
+
+
+##### Paragraphe 1 : Compensation et cessions de créances 
+
+
+
+
+
+
+###### Article L211-36
+
+Les dispositions du présent paragraphe sont applicables : 
+
+1° Aux obligations financières résultant d'opérations sur instruments financiers lorsque l'une au moins des parties à
+l'opération est un établissement de crédit, un prestataire de services d'investissement, un établissement public, une
+collectivité territoriale, une institution, une personne ou entité bénéficiaire des dispositions de l'article L. 531-2, une
+chambre de compensation, un établissement non résident ayant un statut comparable, une organisation ou organisme financier
+international dont la France ou la Communauté européenne est membre ; 
+
+2° Aux obligations financières résultant de tout contrat donnant lieu à un règlement en espèces ou à une livraison
+d'instruments financiers lorsque toutes les parties appartiennent à l'une des catégories de personnes mentionnées à l'alinéa
+précédent, à l'exception des personnes mentionnées aux alinéas c à i du 2° de l'article L. 531-2 ; 
+
+3° Aux obligations financières résultant de tout contrat conclu dans le cadre d'un système mentionné à l'article L. 330-1.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 411-32 (V)
+	  - Loi n°2008-1061 du 16 octobre 2008 - art. 6 (V)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Ordonnance n°2009-884 du 22 juillet 2009 - art. 2 (V)
+	  - Code de la mutualité - art. R212-81 (V)
+	  - Code de la sécurité sociale. - art. R931-10-59 (VT)
+	  - Code des assurances - art. R332-56 (V)
+	  - Code monétaire et financier - art. L211-36-1 (V)
+	  - Code monétaire et financier - art. L211-37 (V)
+	  - Code monétaire et financier - art. L211-38 (M)
+	  - Code monétaire et financier - art. L511-7 (V)
+	  - Code monétaire et financier - art. L513-2 (VD)
+	  - Code monétaire et financier - art. L513-30 (V)
+	  - Code monétaire et financier - art. L515-35 (VT)
+	  - Code monétaire et financier - art. L515-36 (VT)
+	  - Code monétaire et financier - art. L532-18 (VT)
+	  - Code monétaire et financier - art. L532-18-1 (VD)
+	  - Code monétaire et financier - art. L744-7 (Ab)
+	  - Code monétaire et financier - art. L754-7 (Ab)
+	  - Code monétaire et financier - art. L764-7 (Ab)
+	  - Code monétaire et financier - art. R214-114 (V)
+	  - Code monétaire et financier - art. R214-116 (V)
+	  - Code monétaire et financier - art. R214-14 (V)
+	  - Code monétaire et financier - art. R214-16 (V)
+	  - Code monétaire et financier - art. R214-18 (V)
+	  - Code monétaire et financier - art. R214-193 (V)
+	  - Code monétaire et financier - art. R214-195 (Ab)
+	  - Code monétaire et financier - art. R214-32-27 (V)
+	  - Code monétaire et financier - art. R513-7 (V)
+	  - Code monétaire et financier - art. R513-8 (V)
+	  - Code monétaire et financier - art. R515-7-1 (T)
+	  - Code monétaire et financier - art. R515-7-2 (T)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L330-1
+	  - Code monétaire et financier - art. L531-2
+
+
+###### Article L211-36-1
+
+I. ― Les conventions relatives aux obligations financières mentionnées au I sont résiliables, et les dettes et les créances y
+afférentes sont compensables. Les parties peuvent prévoir l'établissement d'un solde unique, que ces obligations financières
+soient régies par une ou plusieurs conventions ou conventions-cadres. 
+
+II. ― Les modalités de résiliation, d'évaluation et de compensation des opérations et obligations mentionnées aux I et II
+sont opposables aux tiers. Ces modalités peuvent être notamment prévues par des conventions ou conventions-cadres. Toute
+opération de résiliation, d'évaluation ou de compensation faite en raison d'une procédure civile d'exécution ou de l'exercice
+d'un droit d'opposition est réputée être intervenue avant cette procédure. 
+
+III. ― Pour l'application du présent article, sont également des instruments financiers les contrats d'option, contrats à
+terme fermes et tous autres contrats à terme sur marchandises ou autorisations d'émission autres que ceux mentionnés au III
+de l'article L. 211-1, à condition qu'ils fassent l'objet d'un enregistrement par une chambre de compensation reconnue ou
+d'appels de couvertures périodiques.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 411-82 (V)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Code monétaire et financier - art. L211-38 (M)
+	  - Code monétaire et financier - art. L613-31-16 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1
+
+
+###### Article L211-37
+
+La cession de créances afférentes aux obligations financières mentionnées à l'article L. 211-36 est opposable aux tiers du
+fait de la notification de la cession au débiteur. La cession de contrats afférents aux obligations financières mentionnées à
+l'article L. 211-36 est opposable aux tiers du fait de l'accord écrit des parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-36
+
+
+##### Paragraphe 2 : Garantie des obligations financières
+
+###### Article L211-38
+
+I. ― A titre de garantie des obligations financières présentes ou futures mentionnées à l'article L. 211-36, les parties
+peuvent prévoir des remises en pleine propriété, opposables aux tiers sans formalités, d'instruments financiers, effets,
+créances, contrats ou sommes d'argent, ou la constitution de sûretés sur de tels biens ou droits, réalisables, même lorsque
+l'une des parties fait l'objet d'une des procédures prévues par le livre VI du code de commerce, ou d'une procédure
+judiciaire ou amiable équivalente sur le fondement d'un droit étranger, ou d'une procédure civile d'exécution ou de
+l'exercice d'un droit d'opposition. 
+
+Les dettes et créances relatives à ces garanties et celles afférentes à ces obligations sont alors compensables conformément
+au I de l'article L. 211-36-1. 
+
+II. ― Lorsque les garanties mentionnées au I sont relatives aux obligations financières mentionnées aux 2° et 3° de l'article
+L. 211-36-1 : 
+
+1° La constitution de telles garanties et leur opposabilité ne sont subordonnées à aucune formalité. Elles résultent du
+transfert des biens et droits en cause, de la dépossession du constituant ou de leur contrôle par le bénéficiaire ou par une
+personne agissant pour son compte ; 
+
+2° L'identification des biens et droits en cause, leur transfert, la dépossession du constituant ou le contrôle par le
+bénéficiaire doivent pouvoir être attestés par écrit ; 
+
+3° La réalisation de telles garanties intervient à des conditions normales de marché, par compensation, appropriation ou
+vente, sans mise en demeure préalable, selon les modalités d'évaluation prévues par les parties dès lors que les obligations
+financières couvertes sont devenues exigibles. 
+
+III. ― L'acte prévoyant la constitution des sûretés mentionnées au I peut définir les conditions dans lesquelles le
+bénéficiaire de ces sûretés peut utiliser ou aliéner les biens ou droits en cause, à charge pour lui de restituer au
+constituant des biens ou droits équivalents. Les sûretés concernées portent alors sur les biens ou droits équivalents ainsi
+restitués comme si elles avaient été constituées dès l'origine sur ces biens ou droits équivalents. Cet acte peut permettre
+au bénéficiaire de compenser sa dette de restitution des biens ou droits équivalents avec les obligations financières au
+titre desquelles les sûretés ont été constituées, lorsqu'elles sont devenues exigibles. 
+
+Par biens ou droits équivalents, on entend : 
+
+1° Lorsqu'il s'agit d'espèces, une somme de même montant et dans la même monnaie ; 
+
+2° Lorsqu'il s'agit d'instruments financiers, des instruments financiers ayant le même émetteur ou débiteur, faisant partie
+de la même émission ou de la même catégorie, ayant la même valeur nominale, libellés dans la même monnaie et ayant la même
+désignation, ou d'autres actifs, lorsque les parties le prévoient, en cas de survenance d'un fait concernant ou affectant les
+instruments financiers constitués en sûreté. 
+
+Lorsqu'il s'agit d'autres biens ou droits que ceux mentionnés aux 1° et 2°, la restitution porte sur ces mêmes biens ou
+droits. 
+
+IV. ― Les modalités de réalisation et de compensation des garanties mentionnées au I et des obligations mentionnées à
+l'article L. 211-36 sont opposables aux tiers. Toute réalisation ou compensation effectuée en raison d'une procédure civile
+d'exécution ou de l'exercice d'un droit d'opposition est réputée être intervenue avant cette procédure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Code général des impôts, CGI. - art. 38 bis-0 A bis (V)
+	  - Code monétaire et financier - art. L211-39 (V)
+	  - Code monétaire et financier - art. L214-127 (V)
+	  - Code monétaire et financier - art. L214-147 (V)
+	  - Code monétaire et financier - art. L214-169 (V)
+	  - Code monétaire et financier - art. L214-43 (V)
+	  - Code monétaire et financier - art. L330-2 (VD)
+	  - Code monétaire et financier - art. L440-7 (V)
+	  - Code monétaire et financier - art. L440-8 (V)
+	  - Code monétaire et financier - art. L734-3 (VT)
+	  - Code monétaire et financier - art. L744-8-1 (Ab)
+	  - Code monétaire et financier - art. R214-109 (V)
+	  - Code monétaire et financier - art. R214-110 (V)
+	  - Code monétaire et financier - art. R214-12 (V)
+	  - Code monétaire et financier - art. R214-188 (Ab)
+	  - Code monétaire et financier - art. R214-189 (V)
+	  - Code monétaire et financier - art. R214-19 (V)
+	  - Code monétaire et financier - art. R214-222 (V)
+	  - Code monétaire et financier - art. R214-32-28 (V)
+	  - Code monétaire et financier - art. R214-97 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-36
+	  - Code monétaire et financier - art. L211-36-1
+
+
+###### Article L211-39
+
+Les droits ou obligations du constituant, du bénéficiaire ou de tout tiers relatifs aux garanties mentionnées au I de
+l'article L. 211-38 portant sur des titres financiers sont déterminés par la loi de l'Etat où est situé le compte dans lequel
+ces titres sont remis ou constitués en garantie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-38
+
+
+##### Paragraphe 3 : Disposition commune 
+
+
+
+
+
+
+###### Article L211-40
+
+Les dispositions du livre VI du code de commerce, ou celles régissant toutes procédures judiciaires ou amiables équivalentes
+ouvertes sur le fondement de droits étrangers, ne font pas obstacle à l'application des dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+	  - Code monétaire et financier - art. L744-7 (Ab)
+	  - Code monétaire et financier - art. L752-1 (VD)
+	  - Code monétaire et financier - art. L754-7 (Ab)
+
+
+##### Section 5 : Régime des instruments financiers étrangers 
+
+
+
+
+###### Article L211-41
+
+Sont assimilés aux titres financiers mentionnés à l'article L. 211-1 tous les instruments équivalents ou droits
+représentatifs d'un placement financier dans une entité émis sur le fondement de droits étrangers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 60 (V)
+	  - Code général des impôts, CGI. - art. 235 ter ZD (VT)
+	  - Code monétaire et financier - art. L214-36 (V)
+	  - Code monétaire et financier - art. L214-92 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1
 
 
 #### Chapitre II : Titres de capital et titres donnant accès au capital.
@@ -7051,23 +8132,23 @@ Les actions de numéraire relèvent des dispositions de l'article L. 228-9 du co
 
 ###### Article L212-3
 
-I. - Sous réserve des dispositions du troisième alinéa de l'article L. 211-4, les actions émises en territoire français et
-soumises à la législation française, des sociétés par actions, autres que les SICAV ou les sociétés de placement à
-prépondérance immobilière à capital variable, qui ne sont pas admises aux négociations sur un marché réglementé revêtent la
-forme nominative.
+I.-Sous réserve des dispositions de l'article L. 211-7, les actions émises en territoire français et soumises à la
+législation française, des sociétés par actions, autres que les SICAV ou les sociétés de placement à prépondérance
+immobilière à capital variable, qui ne sont pas admises aux négociations sur un marché réglementé revêtent la forme
+nominative. 
 
-II. - Cette obligation doit être satisfaite dans un délai de six mois à compter de la date d'émission des actions concernées
-ou de la date à laquelle celles-ci ont cessé d'être admises aux opérations d'un dépositaire central.
+II.-Cette obligation doit être satisfaite dans un délai de six mois à compter de la date d'émission des actions concernées ou
+de la date à laquelle celles-ci ont cessé d'être admises aux opérations d'un dépositaire central. 
 
 Passé ce délai, les détenteurs d'actions qui ne satisfont pas à l'obligation prévue au I, ne peuvent exercer les droits
 attachés à ces titres, que si ceux-ci ont été présentés à la société émettrice ou un intermédiaire habilité en vue de leur
-mise sous forme nominative.
+mise sous forme nominative. 
 
-III. - Les sociétés émettrices doivent, dans un délai d'un an, à partir de l'expiration du délai prévu au II, procéder à la
+III.-Les sociétés émettrices doivent, dans un délai d'un an, à partir de l'expiration du délai prévu au II, procéder à la
 vente des droits correspondant aux actions non présentées, dans des conditions fixées par décret. Le produit de la vente est
-consigné jusqu'à restitution éventuelle aux ayants droit.
+consigné jusqu'à restitution éventuelle aux ayants droit. 
 
-IV. - Lorsqu'ils ne justifient pas avoir effectué toute diligence pour assurer l'application effective des présentes
+IV.-Lorsqu'ils ne justifient pas avoir effectué toute diligence pour assurer l'application effective des présentes
 dispositions, les gérants, le président du conseil d'administration ou du directoire de la société émettrice sont, pour
 l'application des droits de mutation par décès et de l'impôt de solidarité sur la fortune présumés, sauf preuve contraire,
 être les propriétaires des actions qui ne revêtiraient pas la forme nominative ou qui n'auraient pas été vendues dans les
@@ -7084,7 +8165,6 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 	**Anciens textes**:
 
-	  - Loi n°81-1160 1981-12-30 art. 94 I
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 94 (M)
 
 	**Codifié par**:
@@ -7093,7 +8173,7 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 5 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -7101,7 +8181,7 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-4 (M)
+	  - Code monétaire et financier - art. L211-7
 
 
 ###### Article L212-4
@@ -7293,40 +8373,6 @@ l'offre ou de la demande de retrait. Le montant de l'indemnisation revenant aux 
 
 ##### Section 2 : Les titres donnant accès au capital
 
-###### Article L212-7
-
-Les règles relatives à l'émission de titres donnant accès au capital et aux titulaires de ces titres sont fixées par les
-articles L. 228-91 à L. 228-106 du code de commerce relatifs aux valeurs mobilières donnant accès au capital.
-
-**Nota:**
-
-Les articles L. 228-94 et L. 228-96 du code de commerce sont abrogés par l'article 51 VII de l'ordonnance n° 2004-604 du 24
-juin 2004.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce - art. L228-91 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce L225-150 à L225-158
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L451-1-2 (V)
-	  - Code monétaire et financier - art. L621-8 (VD)
-
-
 ##### Section 3 : Régimes particuliers d'accès au capital en faveur du personnel salarié
 
 ##### Sous-section 1 : Intéressement et participation des salariés aux résultats de l'entreprise
@@ -7435,24 +8481,93 @@ prévues à l'article 163 bis G du code général des impôts.
 	  - Code général des impôts, CGI. - art. 163 bis G (V)
 
 
+#### Chapitre II : Titres de capital
+
+###### Article L212-1 A
+
+Les titres de capital émis par les sociétés par actions comprennent les actions et les autres titres donnant ou pouvant
+donner accès au capital ou aux droits de vote.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 7 février 2012 - art. 1 (V)
+	  - Code général des impôts, CGI. - art. 235 ter ZD (VT)
+	  - Code général des impôts, CGI. - art. 235 ter ZD bis (VD)
+	  - Code monétaire et financier - art. L762-1 (VT)
+
+
+##### Section 1 : Les actions
+
+##### Sous-section 1 : Actions de numéraire et d'apport
+
+##### Sous-section 2 : Actions à forme nominative obligatoire
+
+##### Sous-section 3 : Actions de préférence
+
+##### Sous-section 4 : Dispositions applicables aux catégories de titres en voie d'extinction
+
+##### Section 2 : Les autres titres donnant ou pouvant donner accès au capital ou aux droits de vote
+
+###### Article L212-7
+
+Les règles relatives à l'émission de titres donnant accès au capital et aux titulaires de ces titres sont fixées par les
+articles L. 228-91 à L. 228-106 du code de commerce relatifs aux valeurs mobilières donnant accès au capital.
+
+**Nota:**
+
+Les articles L. 228-94 et L. 228-96 du code de commerce sont abrogés par l'article 51 VII de l'ordonnance n° 2004-604 du 24
+juin 2004.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L228-91 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce L225-150 à L225-158
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L451-1-2 (V)
+	  - Code monétaire et financier - art. L621-8 (VD)
+
+
+##### Section 3 : Régimes particuliers d'accès au capital en faveur du personnel salarié
+
 #### Chapitre III : Titres de créances.
 
 ##### Section 1 : Les titres de créances négociables
 
 ###### Article L213-1
 
-Les titres de créances négociables sont des titres émis au gré de l'émetteur, négociables sur un marché réglementé ou de gré
-à gré, qui représentent chacun un droit de créance pour une durée déterminée.
+Les titres de créances négociables sont des titres financiers émis au gré de l'émetteur, négociables sur un marché réglementé
+ou de gré à gré, qui représentent chacun un droit de créance.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°91-716 1991-07-26 art. 19 I
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -7467,22 +8582,10 @@ Les titres de créances négociables sont des titres émis au gré de l'émetteu
 
 ###### Article L213-2
 
-Les titres de créances négociables sont stipulés au porteur.
-
-Ils sont inscrits en comptes tenus par un intermédiaire habilité.
-
-La constitution en gage des titres de créances négociables est réalisée conformément aux dispositions de l'article L. 431-4.
-
-En cas de redressement judiciaire des biens d'un intermédiaire financier teneur de comptes, les titulaires des titres de
-créances négociables inscrits en compte font virer l'intégralité de leurs droits à un compte tenu par un autre intermédiaire
-habilité ; le juge commissaire est informé de ce virement. En cas d'insuffisance des inscriptions, ils font une déclaration
-au mandataire judiciaire pour le complément de leurs droits.
+Les titres de créances négociables sont inscrits dans un compte-titres tenu par un intermédiaire mentionné à l'article L.
+211-3.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°91-716 1991-07-26 art. 19 II
 
 	**Codifié par**:
 
@@ -7490,11 +8593,11 @@ au mandataire judiciaire pour le complément de leurs droits.
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2006 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L431-4 (M)
+	  - Code monétaire et financier - art. L211-3
 
 
 ###### Article L213-3
@@ -8212,8 +9315,10 @@ Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'appli
 
 ###### Article L213-21-1
 
-Tout propriétaire de titres émis par l'Etat faisant partie d'une émission comprenant à la fois des titres au porteur et des
-titres nominatifs a la faculté de convertir ses titres dans l'autre forme.
+Tout propriétaire de titres financiers émis par l'Etat faisant partie d'une émission comprenant à la fois des titres
+financiers inscrits dans un compte-titres tenu par un intermédiaire mentionné à l'article L. 211-3 et des titres financiers
+inscrits dans un compte-titres tenu par l'Etat a la faculté de demander le changement du mode d'inscription en compte de ses
+titres.
 
 **Liens relatifs à cet article**
 
@@ -8221,9 +9326,13 @@ titres nominatifs a la faculté de convertir ses titres dans l'autre forme.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-3
 
 
 ##### Sous-section 1 : Emprunts d'Etat
@@ -8499,6 +9608,38 @@ banques mutualistes ou coopératives et les établissements publics à caractèr
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
+#### Chapitre III : Titres de créance
+
+###### Article L213-1 A
+
+Les titres de créance représentent chacun un droit de créance sur la personne morale ou le fonds commun de titrisation qui
+les émet.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 31 décembre 1998 - art. 3 (V)
+	  - Arrêté du 12 novembre 2004 - art. 238-2-1 (V)
+	  - Arrêté du 16 février 2005 - art. 7 (V)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 60 (V)
+	  - Code monétaire et financier - art. D213-1-A (VD)
+	  - Code monétaire et financier - art. D213-7 (V)
+	  - Code monétaire et financier - art. L762-1 (VT)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+
+##### Section 1 : Les titres de créances négociables
+
+##### Section 2 : Les obligations
+
+##### Section 3 : Les titres émis par l'Etat
+
+##### Section 4 : Les titres participatifs
+
 #### Chapitre IV : Placements collectifs
 
 ###### Article L214-1
@@ -8694,8 +9835,8 @@ Un organisme de placement collectif en valeurs mobilières peut procéder à des
 d'espèces dans la limite d'une fraction de ses actifs.S'agissant des emprunts d'espèces, cette limite ne peut être supérieure
 à 10 % des actifs. 
 
-Un organisme de placement collectif en valeurs mobilières ne peut détenir plus de 10 % d'une même catégorie de valeurs
-mobilières d'un même émetteur. Un décret en Conseil d'Etat fixe les catégories de valeurs mobilières ainsi que les conditions
+Un organisme de placement collectif en titres financiers ne peut détenir plus de 10 % d'une même catégorie de titres
+financiers d'un même émetteur. Un décret en Conseil d'Etat fixe les catégories de titres financiers ainsi que les conditions
 dans lesquelles il peut être dérogé à cette limite. Ce seuil est porté à 25 % lorsque l'émetteur est une entreprise solidaire
 mentionnée à l'article L. 3332-17-1 du code du travail.
 
@@ -8767,7 +9908,7 @@ mentionnée à l'article L. 3332-17-1 du code du travail.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 81 (V)
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 	**Cite**:
 
@@ -9445,7 +10586,7 @@ Les parts peuvent être admises aux négociations sur un marché réglementé da
 
 ###### Article L214-21
 
-Dans tous les cas où des dispositions relatives aux sociétés et aux valeurs mobilières exigent l'indication des nom, prénoms
+Dans tous les cas où des dispositions relatives aux sociétés et aux titres financiers exigent l'indication des nom, prénoms
 et domicile du titulaire du titre ainsi que pour toutes les opérations faites pour le compte des copropriétaires, la
 désignation du fonds commun de placement peut être valablement substituée à celle de tous les copropriétaires.
 
@@ -9462,6 +10603,10 @@ désignation du fonds commun de placement peut être valablement substituée à 
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 2004 - art. 411-74 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 
 ###### Article L214-22
@@ -10960,78 +12105,79 @@ commun de placement à risques contractuel qu'avec l'accord exprès de chaque po
 
 Le règlement du fonds constitué en vue de gérer les sommes investies en application de l'article L. 225-187 du code de
 commerce (1) et du titre IV du livre IV du code du travail relatif à l'intéressement et à la participation des salariés
-prévoit l'institution d'un conseil de surveillance et les cas où la société de gestion doit recueillir l'avis de ce conseil.
+prévoit l'institution d'un conseil de surveillance et les cas où la société de gestion doit recueillir l'avis de ce conseil. 
 
 Le conseil de surveillance est composé de salariés représentant les porteurs de parts, eux-mêmes porteurs de parts et, pour
 moitié au plus, de représentants de l'entreprise. Lorsque le fonds réunit les valeurs acquises avec des sommes provenant de
 réserves de participation ou versées dans des plans d'épargne d'entreprise constitués dans plusieurs entreprises, le
 règlement détermine, dans des conditions fixées par décret, les modalités de représentation des entreprises dans le conseil
-de surveillance et de désignation de leurs représentants.
+de surveillance et de désignation de leurs représentants. 
 
 Le règlement précise les modalités de désignation des représentants des porteurs de parts soit par élection, soit par choix
 opéré par le ou les comités d'entreprise intéressés ou par les organisations syndicales représentatives au sens de l'article
-L. 2231-1 du code du travail.
+L. 2231-1 du code du travail. 
 
-Le président du conseil de surveillance est choisi parmi les représentants des porteurs de parts.
+Le président du conseil de surveillance est choisi parmi les représentants des porteurs de parts. 
 
 Lorsqu'il est fait application du dernier alinéa de l'article L. 3332-15 du même code, le règlement fait référence aux
-dispositions précisées par le règlement du plan d'épargne.
+dispositions précisées par le règlement du plan d'épargne. 
 
 Le conseil de surveillance exerce les droits de vote attachés aux valeurs comprises dans le fonds et décide de l'apport des
 titres. Toutefois, le règlement peut prévoir que les droits de vote relatifs à ces titres sont exercés par la société de
 gestion, et que celle-ci peut décider de l'apport des titres, à l'exception des titres de l'entreprise ou de toute entreprise
-qui lui est liée dans les conditions prévues aux articles L. 3344-1 et L. 3344-2 du code du travail. Le conseil de
+qui lui est liée dans les conditions prévues à l'article L. 3344-1 et L. 3344-2 du code du travail. Le conseil de
 surveillance est chargé notamment de l'examen de la gestion financière, administrative et comptable. Il peut demander à
 entendre la société de gestion, le dépositaire et le commissaire aux comptes du fonds qui sont tenus de déférer à sa
 convocation. Il décide des fusions, scissions ou liquidations. Le règlement du fonds précise les transformations et les
 modifications du règlement qui ne peuvent être décidées sans l'accord du conseil de surveillance. Sans préjudice des
 compétences de la société de gestion mentionnées à l'article L. 214-25 et de celles du liquidateur prévues à l'article L.
-214-31, le conseil de surveillance peut agir en justice pour défendre ou faire valoir les droits ou intérêts des porteurs.
+214-31, le conseil de surveillance peut agir en justice pour défendre ou faire valoir les droits ou intérêts des porteurs. 
 
 Le conseil de surveillance adopte un rapport annuel mis à la disposition de chaque porteur de parts et dont le contenu est
-précisé par un règlement de l'Autorité des marchés financiers.
+précisé par un règlement de l'Autorité des marchés financiers. 
 
-Le règlement peut prévoir que :
+Le règlement peut prévoir que : 
 
-1. Les actifs du fonds sont conservés par plusieurs dépositaires ;
+1. Les actifs du fonds sont conservés par plusieurs dépositaires ; 
 
-2. Les produits des actifs du fonds sont réinvestis dans le fonds.
+2. Les produits des actifs du fonds sont réinvestis dans le fonds. 
 
 Le fonds ne peut être dissous que si sa dissolution n'entraîne pas la perte des avantages accordés aux salariés dans les
-conditions prévues à l'article L. 225-194 du code de commerce (1) et des articles L. 3324-10, L. 3332-4 et L. 3325-1 à L.
-3325-4, L3332-14 et L. 3332-25 et L. 3332-26 du code du travail.
+conditions prévues à l'article L. 225-194 du code de commerce (1) et des articles L. 3324-10, L. 3323-4 et L. 3325-1 à L.
+3325-4, 
+L. 3332-14 et L. 3332-25 et L. 3332-26 du code du travail. 
 
 Les dispositions du présent article sont applicables aux fonds dont l'actif comprend au plus un tiers de titres émis par
 l'entreprise ou par toute autre société qui est liée dans les conditions prévues à l'article L. 3344-1 et L. 3344-2 du code
-du travail.
+du travail. 
 
 Le règlement précise, le cas échéant, les considérations sociales, environnementales ou éthiques que doit respecter la
 société de gestion dans l'achat ou la vente des titres, ainsi que dans l'exercice des droits qui leur sont attachés. Le
-rapport annuel du fonds rend compte de leur application, dans des conditions définies par l'Autorité des marchés financiers.
+rapport annuel du fonds rend compte de leur application, dans des conditions définies par l'Autorité des marchés financiers. 
 
 Lorsque l'entreprise est régie par les dispositions de la loi n° 47-1775 du 10 septembre 1947 portant statut de la
 coopération, le fonds commun de placement d'entreprise peut investir dans les titres de capital qu'elle émet, sans préjudice
 des dispositions spécifiques qui régissent, le cas échéant, la souscription de ces titres par les salariés et dans les
-conditions fixées par décret.
+conditions fixées par décret. 
 
 Les dispositions du présent article sont également applicables aux fonds solidaires qui peuvent être souscrits dans le cadre
-du plan d'épargne pour la retraite collectif mentionné aux articles L. 3334-1 à L. 3334-9 et L. 3334-11 à L. 3334-16 du même
-code. L'actif de ces fonds solidaires est composé :
+du plan d'épargne pour la retraite collectif mentionné à l'article L. 3334-1 à L. 3334-9 et L. 3334-11 à L. 3334-16 du même
+code.L'actif de ces fonds solidaires est composé : 
 
 a) Pour une part, comprise entre 5 et 10 %, de titres émis par des entreprises solidaires agréées en application de l'article
 L. 443-3-2 du code du travail ou par des sociétés de capital-risque visées à l'article 1er-1 de la loi n° 85-695 du 11
 juillet 1985 portant diverses dispositions d'ordre économique et financier ou par des fonds communs de placements à risques,
 visés à l'article L. 214-36, sous réserve que leur actif soit composé d'au moins 40 % de titres émis par des entreprises
-solidaires mentionnées à l'article L. 443-3-2 du code du travail ;
+solidaires mentionnées à l'article L. 443-3-2 du code du travail ; 
 
-b) Pour le surplus, de valeurs mobilières admises aux négociations sur un marché réglementé, de parts d'organismes de
-placement collectif en valeurs mobilières investies dans ces mêmes valeurs et, à titre accessoire, de liquidités.
+b) Pour le surplus, de titres financiers admis aux négociations sur un marché réglementé, de parts d'organismes de placement
+collectif en valeurs mobilières investies dans ces mêmes titres et, à titre accessoire, de liquidités. 
 
 Les fonds qui peuvent être souscrits dans le cadre d'un plan d'épargne pour la retraite collectif ne peuvent détenir plus de
 5 % de titres non admis aux négociations sur un marché réglementé, sans préjudice des dispositions du a, ou plus de 5 % de
-titres de l'entreprise qui a mis en place le plan ou de sociétés qui lui sont liées au sens de l'article L. 3344-1 du code du
-travail. Cette limitation ne s'applique pas aux parts et actions d'organismes de placement collectif en valeurs mobilières
-détenues par le fonds.
+titres de l'entreprise qui a mis en place le plan ou de sociétés qui lui sont liées au sens de l'article L. 3344-1 et L.
+3344-2 du code du travail. Cette limitation ne s'applique pas aux parts et actions d'organismes de placement collectif en
+valeurs mobilières détenues par le fonds.
 
 **Nota:**
 
@@ -11042,19 +12188,22 @@ février 2001.
 
 	**Cite**:
 
-	  - Loi n°47-1775 1947-09-10
-	  - Loi n°85-695 1985-07-11
-	  - Code de commerce. - art. L225-187 (Ab)
-	  - Code de commerce. - art. L225-194 (Ab)
-	  - Code monétaire et financier - art. L214-25 (M)
-	  - Code monétaire et financier - art. L214-31 (V)
-	  - Code monétaire et financier - art. L214-36 (M)
-	  - Code du travail - art. L132-2 (M)
-	  - Code du travail - art. L442-7 (M)
-	  - Code du travail - art. L442-8 (Ab)
-	  - Code du travail - art. L443-3-2 (AbD)
-	  - Code du travail - art. L443-6 (M)
-	  - Code du travail - art. L444-3 (M)
+	  - Loi n°47-1775 du 10 septembre 1947
+	  - Loi n°85-695 du 11 juillet 1985
+	  - Code de commerce - art. L225-187
+	  - Code de commerce - art. L225-194
+	  - Code monétaire et financier - art. L214-25
+	  - Code monétaire et financier - art. L214-31
+	  - Code monétaire et financier - art. L214-36
+	  - Code du travail - art. L2231-1 (V)
+	  - Code du travail - art. L3323-4 (V)
+	  - Code du travail - art. L3324-10 (V)
+	  - Code du travail - art. L3325-1 (V)
+	  - Code du travail - art. L3325-4 (V)
+	  - Code du travail - art. L3332-14 (V)
+	  - Code du travail - art. L3332-25 (V)
+	  - Code du travail - art. L3344-1 (V)
+	  - Code du travail - art. L3344-2 (V)
 
 	**Anciens textes**:
 
@@ -11113,7 +12262,7 @@ février 2001.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 
 ###### Article L214-40
@@ -11268,12 +12417,12 @@ la transmission de l'entreprise, la stabilité de l'actionnariat ou la liquidit�
 
 ###### Article L214-40-1
 
-Une société d'investissement à capital variable peut avoir pour objet la gestion d'un portefeuille de valeurs mobilières
-émises par l'entreprise ou par toute société qui lui est liée dans les conditions prévues à l'article L. 443-3 du code du
-travail. Les cinquième et sixième alinéas de l'article L. 214-40 s'appliquent à son conseil d'administration. Les statuts
-prévoient que les dividendes et les coupons attachés aux titres compris à l'actif de la société sont distribués aux
-actionnaires, à leur demande expresse, suivant des modalités qu'ils déterminent. Ils prévoient, le cas échéant, différentes
-catégories d'actions.
+Une société d'investissement à capital variable peut avoir pour objet la gestion d'un portefeuille de titres financiers émis
+par l'entreprise ou par toute société qui lui est liée dans les conditions prévues à l'article L. 3332-15 du code du travail.
+Les cinquième et sixième alinéas de l'article L. 214-40 s'appliquent à son conseil d'administration. Les statuts prévoient
+que les dividendes et les coupons attachés aux titres compris à l'actif de la société sont distribués aux actionnaires, à
+leur demande expresse, suivant des modalités qu'ils déterminent. Ils prévoient, le cas échéant, différentes catégories
+d'actions.
 
 **Liens relatifs à cet article**
 
@@ -11300,12 +12449,17 @@ catégories d'actions.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 35 (V) JORF 31 décembre 2006
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-915 du 1er août 2011 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-40 (M)
-	  - Code du travail - art. L443-3 (Ab)
+	  - Code monétaire et financier - art. L214-40
+	  - Code du travail - art. L3332-15
 
 
 ##### Sous-section 12 : Fonds communs de placement dans l'innovation
@@ -11313,7 +12467,7 @@ catégories d'actions.
 ###### Article L214-41
 
 I.-Les fonds communs de placement dans l'innovation sont des fonds communs de placement à risques dont l'actif est constitué,
-pour 60 % au moins, de valeurs mobilières, parts de société à responsabilité limitée et avances en compte courant, dont au
+pour 60 % au moins, de titres financiers , parts de société à responsabilité limitée et avances en compte courant, dont au
 moins 6 % dans des entreprises dont le capital est compris entre 100 000 euros et deux millions d'euros, telles que définies
 par le 1° et le a du 2° de l'article L. 214-36, émises par des sociétés ayant leur siège dans un Etat membre de la Communauté
 européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
@@ -11457,7 +12611,7 @@ même tierce société.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 26
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 	**Cite**:
 
@@ -11471,7 +12625,7 @@ même tierce société.
 ###### Article L214-41-1
 
 1. Les fonds d'investissement de proximité sont des fonds communs de placement à risques dont l'actif est constitué, pour 60
-% au moins, de valeurs mobilières, parts de société à responsabilité limitée et avances en compte courant, dont au moins 10 %
+% au moins, de titres financiers, parts de société à responsabilité limitée et avances en compte courant, dont au moins 10 %
 dans des nouvelles entreprises exerçant leur activité ou juridiquement constituées depuis moins de cinq ans, telles que
 définies par le 1 et le a du 2 de l'article L. 214-36, émises par des sociétés ayant leur siège dans un Etat membre de la
 Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France
@@ -11580,7 +12734,7 @@ par le fonds ainsi que les règles spécifiques relatives aux cessions et aux li
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 35
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 
 ##### Sous-section 14 : Fonds communs d'intervention sur les marchés à terme
@@ -11730,7 +12884,7 @@ I de l'article L. 214-49-7, l'organisme ou, le cas échéant, ses compartiments 
 les actifs qu'ils détiennent et dénouer ou liquider les contrats constituant des instruments financiers à terme. 
 
 Pour la réalisation de son objet, un organisme de titrisation peut, dans les conditions définies par décret en Conseil
-d'Etat, octroyer les garanties mentionnées à l'article L. 431-7-3, et, dans les conditions définies par son règlement ou ses
+d'Etat, octroyer les garanties mentionnées à l'article L. 211-38, et, dans les conditions définies par son règlement ou ses
 statuts, recevoir tout type de garantie ou de sûreté.
 
 L'acquisition ou la cession des créances s'effectue par la seule remise d'un bordereau dont les énonciations et le support
@@ -11794,12 +12948,14 @@ l'organisme ou, le cas échéant, d'un compartiment de l'organisme.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 	**Cite**:
 
 	  - Code civil - art. 2285
-	  - Code monétaire et financier - art. L431-7-3
+	  - Code monétaire et financier - art. L211-38
+	  - Code monétaire et financier - art. L214-49-1
+	  - Code monétaire et financier - art. L214-49-7
 
 
 ###### Article L214-44
@@ -13897,71 +15053,72 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 ###### Article L214-92
 
-I. - Dans les conditions et limites fixées par décret en Conseil d'Etat, l'actif d'un organisme de placement collectif
-immobilier est exclusivement constitué :
+I.-Dans les conditions et limites fixées par décret en Conseil d'Etat, l'actif d'un organisme de placement collectif
+immobilier est exclusivement constitué : 
 
 a) Des immeubles construits ou acquis, en vue de la location et des droits réels portant sur de tels biens et énumérés par le
-décret en Conseil d'Etat mentionné à l'alinéa précédent ;
+décret en Conseil d'Etat mentionné à l'alinéa précédent ; 
 
-b) Des parts de sociétés de personnes qui ne sont pas admises aux négociations sur un marché mentionné aux articles L. 421-4,
-L. 422-1 et L. 423-1, et qui satisfont aux conditions suivantes :
+b) Des parts de sociétés de personnes qui ne sont pas admises aux négociations sur un marché mentionné aux articles L.
+421-4, 
+L. 422-1 et L. 423-1, et qui satisfont aux conditions suivantes : 
 
 1° Les associés répondent du passif au-delà de leurs apports sauf dans les cas où, en application de l'article L. 214-55 ou
-d'une disposition équivalente de droit étranger, ils ne sont tenus du passif que dans la limite de leurs apports ;
+d'une disposition équivalente de droit étranger, ils ne sont tenus du passif que dans la limite de leurs apports ; 
 
 2° L'actif est principalement constitué d'immeubles acquis ou construits en vue de la location, de droits réels portant sur
 de tels biens, de droits détenus en qualité de crédit-preneur afférents à des contrats de crédit-bail portant sur des
 immeubles en vue de leur location, ou de participations directes ou indirectes dans des sociétés répondant aux conditions du
-présent b ;
+présent b ; 
 
 3° Les autres actifs sont des avances en compte courant visées à l'article L. 214-98, des créances résultant de leur activité
-principale, des liquidités mentionnées au i ou des instruments financiers à caractère liquide mentionnés au h ;
+principale, des liquidités mentionnées au i ou des instruments financiers à caractère liquide mentionnés au h ; 
 
 4° Les instruments financiers qu'elles émettent ne sont pas admis aux négociations sur un marché mentionné aux articles L.
-421-4, L. 422-1 et L. 423-1 ;
+421-4, L. 422-1 et L. 423-1 ; 
 
 c) Des parts de sociétés de personnes autres que celles mentionnées au b, des parts ou des actions de sociétés autres que des
 sociétés de personnes qui ne sont pas admises aux négociations sur un marché mentionné aux articles L. 421-4, L. 422-1 et L.
-423-1. Ces sociétés satisfont aux conditions suivantes :
+423-1. Ces sociétés satisfont aux conditions suivantes : 
 
-1° La responsabilité des associés ou actionnaires est limitée au montant de leurs apports ;
+1° La responsabilité des associés ou actionnaires est limitée au montant de leurs apports ; 
 
 2° L'actif est principalement constitué d'immeubles acquis ou construits en vue de la location, de droits réels portant sur
 de tels biens, de droits détenus en qualité de crédit-preneur afférents à des contrats de crédit-bail portant sur des
 immeubles en vue de leur location ou de participations directes ou indirectes dans des sociétés répondant aux conditions des
-1°, 2° et 4° du b ou du présent c ;
+1°, 2° et 4° du b ou du présent c ; 
 
 3° Les instruments financiers qu'elles émettent ne sont pas admis aux négociations sur un marché mentionné aux articles L.
-421-4, L. 422-1 et L. 423-1 ;
+421-4, L. 422-1 et L. 423-1 ; 
 
 d) Des actions négociées sur un marché mentionné aux articles L. 421-4, L. 422-1 et L. 423-1 et émises par une société dont
 l'actif est principalement constitué d'immeubles acquis ou construits en vue de la location, de droits réels portant sur de
 tels biens, de droits détenus en qualité de crédit-preneur afférents à des contrats de crédit-bail portant sur des immeubles
 en vue de leur location ou de participations directes ou indirectes dans des sociétés dont l'actif répond aux mêmes
-conditions ;
+conditions ; 
 
 e) Des parts ou actions d'organismes de placement collectif immobilier et de parts, actions ou droits détenus dans des
-organismes de droit étranger ayant un objet équivalent, quelle que soit leur forme ;
+organismes de droit étranger ayant un objet équivalent, quelle que soit leur forme ; 
 
-f) Des instruments financiers mentionnés aux 1, 2, 3 et 5 du I de l'article L. 211-1 admis aux négociations sur un marché
+f) Des titres financiers mentionnés au II de l'article L. 211-1 et à l'article L. 211-41 admis aux négociations sur un marché
 mentionné aux articles L. 421-1, L. 422-1 et L. 423-1 ainsi que des instruments financiers à terme dans les conditions fixées
-à l'article L. 214-94 ;
+à l'article L. 214-94 ; 
 
 g) Des parts ou actions d'organismes de placement collectif en valeurs mobilières, à l'exception de ceux visés aux sous-
 sections 9 à 14 de la section 1 du chapitre IV du titre Ier du livre II, agréés par l'Autorité des marchés financiers ou
-autorisés à la commercialisation en France ;
+autorisés à la commercialisation en France ; 
 
-h) Des dépôts et des instruments financiers à caractère liquide définis par décret en Conseil d'Etat ;
+h) Des dépôts et des instruments financiers à caractère liquide définis par décret en Conseil d'Etat ; 
 
-i) Des liquidités définies par décret en Conseil d'Etat ;
+i) Des liquidités définies par décret en Conseil d'Etat ; 
 
-j) Des avances en compte courant consenties en application de l'article L. 214-98.
+j) Des avances en compte courant consenties en application de l'article L. 214-98. 
 
 Un décret en Conseil d'Etat définit les règles de dispersion et de plafonnement des risques, notamment en matière de
-construction, applicables à l'organisme de placement collectif immobilier.
+construction, applicables à l'organisme de placement collectif immobilier. 
 
-II. - Un organisme de placement collectif immobilier et les sociétés mentionnées au b du I ne peuvent détenir d'actions,
-parts, droits financiers ou droits de vote dans une entité, quelle que soit sa forme, dont les associés ou membres répondent
+II.-Un organisme de placement collectif immobilier et les sociétés mentionnées au b du I ne peuvent détenir d'actions, parts,
+droits financiers ou droits de vote dans une entité, quelle que soit sa forme, dont les associés ou membres répondent
 indéfiniment et solidairement des dettes de l'entité.
 
 **Liens relatifs à cet article**
@@ -14040,17 +15197,17 @@ indéfiniment et solidairement des dettes de l'entité.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 1 () JORF 19 octobre 2007 en vigueur le 1er novembre 2007
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-1 (M)
-	  - Code monétaire et financier - art. L214-55 (M)
-	  - Code monétaire et financier - art. L214-94 (M)
-	  - Code monétaire et financier - art. L421-1 (M)
-	  - Code monétaire et financier - art. L421-4 (M)
-	  - Code monétaire et financier - art. L422-1 (M)
-	  - Code monétaire et financier - art. L423-1 (M)
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L211-41
+	  - Code monétaire et financier - art. L214-55
+	  - Code monétaire et financier - art. L214-94
+	  - Code monétaire et financier - art. L421-4
+	  - Code monétaire et financier - art. L422-1
+	  - Code monétaire et financier - art. L423-1
 
 
 ###### Article L214-93
@@ -21772,7 +22929,7 @@ services d'investissement mentionnés au présent article.
 
 Les services connexes aux services d'investissement comprennent :
 
-1. La conservation ou l'administration d'instruments financiers pour le compte de tiers et les services accessoires comme la
+1. La tenue de compte-conservation d'instruments financiers pour le compte de tiers et les services accessoires comme la
 tenue de comptes d'espèces correspondant à ces instruments financiers ou la gestion de garanties financières ;
 
 2. L'octroi de crédits ou de prêts à un investisseur pour lui permettre d'effectuer une transaction qui porte sur un
@@ -21872,7 +23029,7 @@ services d'investissement ou de services connexes.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 2 () JORF 19 octobre 2007 en vigueur le 1er novembre 2007
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 2
 
 
 ###### Article L321-3
@@ -22306,17 +23463,34 @@ Ce représentant est soumis aux incapacités énoncées à l'article L. 500-1.
 
 ###### Article L330-1
 
-I.-Un système de règlements interbancaires ou de règlement et de livraison d'instruments financiers s'entend, d'une procédure
-nationale ou internationale organisant les relations entre deux parties au moins, ayant la qualité d'établissement de crédit,
-d'institution ou d'entreprise mentionnés à l'article L. 518-1, d'entreprise d'investissement ou d'adhérent à une chambre de
-compensation ou d'établissement non résident ayant un statut comparable, permettant l'exécution à titre habituel, par
-compensation ou non, de paiements ainsi que, pour ce qui concerne les systèmes de règlement et de livraison d'instruments
+I.-Un système de règlements interbancaires ou de règlement et de livraison d'instruments financiers s'entend d'une procédure
+nationale ou internationale organisant les relations entre deux parties au moins, permettant l'exécution à titre habituel,
+par compensation ou non, de paiements ainsi que, pour ce qui concerne les systèmes de règlement et de livraison d'instruments
 financiers, la livraison de titres entre lesdits participants. 
 
-Sans préjudice des dispositions du 4 du IV de l'article L. 622-7 (1), le système doit soit avoir été institué par une
-autorité publique, soit être régi par une convention-cadre respectant les principes généraux d'une convention-cadre de place
-ou par une convention type. Le ministre chargé de l'économie notifie à la Commission européenne la liste des systèmes
-bénéficiant des dispositions du présent titre. 
+Le système doit soit avoir été institué par une autorité publique, soit être régi par une convention-cadre respectant les
+principes généraux d'une convention-cadre de place ou par une convention type. Le ministre chargé de l'économie notifie à la
+Commission européenne la liste des systèmes bénéficiant des dispositions du présent titre. 
+
+II.-Seuls peuvent avoir la qualité de participants d'un système de règlements interbancaires ou d'un système de règlement et
+de livraison d'instruments financiers : 
+
+1° Les établissements de crédit et les entreprises d'investissement ayant leur siège social ou, à défaut de siège social,
+leur direction effective dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen ; 
+
+2° Les institutions ou entreprises mentionnées à l'article L. 518-1 ; 
+
+3° Les adhérents d'une chambre de compensation mentionnés à l'article L. 440-2 ; 
+
+4° Les dépositaires centraux ; 
+
+5° Les gestionnaires de système de règlement et de livraison d'instruments financiers ; 
+
+6° Dans les conditions fixées par le règlement général de l'Autorité des marchés financiers, les établissements de crédit et
+les entreprises d'investissement autres que ceux mentionnés au 1°, ainsi que d'autres personnes morales non résidentes ayant
+une activité comparable à celle des personnes mentionnées du 2° au 5°, et soumis, dans leur Etat d'origine, à des règles
+d'accès à cette activité, d'exercice et de contrôle équivalentes à celles en vigueur en France.
 
 L'accès des établissements de crédit et des entreprises d'investissement ayant leur siège social ou, à défaut de siège
 social, leur direction effective dans un autre Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur
@@ -22328,26 +23502,22 @@ l'accès d'un établissement de crédit ou d'une entreprise d'investissement aya
 social, leur direction effective dans un autre Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur
 l'Espace économique européen. 
 
-Lorsqu'une procédure de sauvegarde, de redressement ou de liquidation judiciaires est ouverte à l'encontre d'un participant à
+Lorsqu'une procédure de sauvegarde, de redressement ou de liquidation judiciaire est ouverte à l'encontre d'un participant à
 un système de règlement interbancaire ou de règlement et de livraison d'instruments financiers de l'Espace économique
 européen, les droits et obligations découlant de sa participation ou liés à cette participation audit système sont déterminés
 par la loi qui régit le système, sous réserve que cette loi soit celle d'un Etat partie à l'accord sur l'Espace économique
 européen. 
 
-II.-Nonobstant toute disposition législative contraire, les paiements et les livraisons d'instruments financiers effectués
+III.-Nonobstant toute disposition législative contraire, les paiements et les livraisons d'instruments financiers effectués
 dans le cadre de systèmes de règlements interbancaires ou dans le cadre de systèmes de règlement et de livraison
 d'instruments financiers, jusqu'à l'expiration du jour où est rendu un jugement d'ouverture de redressement, de sauvegarde ou
 de liquidation judiciaires à l'encontre d'un établissement participant, directement ou indirectement, à un tel système, ne
 peuvent être annulés, même au motif qu'est intervenu ce jugement. 
 
-III.-Ces dispositions sont également applicables aux instructions de paiement ainsi qu'aux instructions de livraison
+IV.-Ces dispositions sont également applicables aux instructions de paiement ainsi qu'aux instructions de livraison
 d'instruments financiers, dès lors qu'elles ont acquis un caractère irrévocable dans l'un des systèmes mentionnés au II. Le
 moment et les modalités selon lesquels une instruction est considérée comme irrévocable dans un système sont définis par les
 règles de fonctionnement de ce système.
-
-**Nota:**
-
-l'article L. 622-7 du code monétaire et financier a été abrogé par l'article 48 I 1° de la loi n° 2003-706 du 1er août 2003.
 
 **Liens relatifs à cet article**
 
@@ -22396,39 +23566,39 @@ l'article L. 622-7 du code monétaire et financier a été abrogé par l'article
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 2 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L518-1 (V)
-	  - Code monétaire et financier - art. L622-7 (Ab)
+	  - Code monétaire et financier - art. L440-2
+	  - Code monétaire et financier - art. L518-1
 
 
 ###### Article L330-2
 
-I. - Les règles de fonctionnement, la convention-cadre ou la convention type régissant tout système mentionné à l'article L.
+I.-Les règles de fonctionnement, la convention-cadre ou la convention type régissant tout système mentionné à l'article L.
 330-1 peuvent, lorsqu'ils organisent les relations entre plus de deux parties, exiger des établissements participant,
 directement ou indirectement, à un tel système des garanties constituées et susceptibles de réalisation conformément aux
-dispositions de l'article L. 431-7-3 ou l'affectation spéciale des valeurs, titres, effets, créances ou sommes d'argent pour
-satisfaire aux obligations de paiement découlant de la participation à un tel système.
+dispositions de l'article L. 211-38 ou l'affectation spéciale des valeurs, titres, effets, créances ou sommes d'argent pour
+satisfaire aux obligations de paiement découlant de la participation à un tel système. 
 
-II. - Les règles de fonctionnement, la convention-cadre ou la convention type précisent les modalités de constitution,
-d'affectation, de réalisation ou d'utilisation des biens ou droits constitués en garantie.
+II.-Les règles de fonctionnement, la convention-cadre ou la convention type précisent les modalités de constitution,
+d'affectation, de réalisation ou d'utilisation des biens ou droits constitués en garantie. 
 
-III. - Les dispositions du livre VI du code de commerce ou celles équivalentes régissant toutes procédures judiciaires ou
+III.-Les dispositions du livre VI du code de commerce ou celles équivalentes régissant toutes procédures judiciaires ou
 amiables ouvertes hors de France ainsi que toutes procédures civiles d'exécution ou tout exercice d'un droit d'opposition ne
-font pas obstacle à l'application du présent titre.
+font pas obstacle à l'application du présent titre. 
 
 Aucun créancier d'un établissement participant, directement ou indirectement, à un tel système, ou selon le cas, du système
 lui-même, ne peut se prévaloir d'un droit quelconque sur ces garanties, même sur le fondement des dispositions
-susmentionnées.
+susmentionnées. 
 
-IV. - Lorsque les instruments financiers, effets, créances, sommes d'argent ou tout instrument similaire émis sur le
-fondement d'un droit étranger sont inscrits dans un registre, un compte ou auprès d'un dépositaire central ou d'un système,
-régi par un droit étranger, de dépôt centralisé situés dans un Etat partie à l'accord sur l'Espace économique européen, et
-remis ou constitués en garantie pour satisfaire aux obligations de paiement découlant de la participation à un système de
-règlement interbancaire ou de règlement et de livraison d'instruments financiers tel que défini à l'article L. 330-1, les
-droits du bénéficiaire de ladite garantie sont déterminés par la loi applicable au lieu de ladite inscription.
+IV.-Lorsque les instruments financiers, effets, créances, sommes d'argent ou tout instrument similaire émis sur le fondement
+d'un droit étranger sont inscrits dans un registre, un compte ou auprès d'un dépositaire central ou d'un système, régi par un
+droit étranger, de dépôt centralisé situés dans un Etat partie à l'accord sur l'Espace économique européen, et remis ou
+constitués en garantie pour satisfaire aux obligations de paiement découlant de la participation à un système de règlement
+interbancaire ou de règlement et de livraison d'instruments financiers tel que défini à l'article L. 330-1, les droits du
+bénéficiaire de ladite garantie sont déterminés par la loi applicable au lieu de ladite inscription.
 
 **Liens relatifs à cet article**
 
@@ -22442,7 +23612,7 @@ droits du bénéficiaire de ladite garantie sont déterminés par la loi applica
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-171 du 24 février 2005 - art. 4 () JORF 25 février 2005
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 2
 
 	**Cité par**:
 
@@ -22462,7 +23632,7 @@ droits du bénéficiaire de ladite garantie sont déterminés par la loi applica
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L431-7-3 (V)
+	  - Code monétaire et financier - art. L211-38
 
 
 ### Titre IV : Démarchage, colportage et fourniture à distance de services financiers
@@ -23896,26 +25066,26 @@ informations détenus par ce fonds, de violer le secret professionnel institué 
 
 ###### Article L353-1
 
-Est puni de six mois d'emprisonnement et de 7 500 euros d'amende :
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende : 
 
 1° Le fait, pour toute personne, de se livrer à l'activité de démarchage bancaire ou financier définie à l'article L. 341-1
-sans avoir obtenu une carte de démarchage en cas d'activité réalisée dans les conditions de l'article L. 341-8 ;
+sans avoir obtenu une carte de démarchage en cas d'activité réalisée dans les conditions de l'article L. 341-8 ; 
 
 2° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier dans les conditions définies au
 septième alinéa de l'article L. 341-1, de ne pas communiquer à la personne démarchée les informations et documents mentionnés
-à l'article L. 341-12 et à l'avant-dernier alinéa de l'article L. 341-6 ;
+à l'article L. 341-12 et à l'avant-dernier alinéa de l'article L. 341-6 ; 
 
 3° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier définie à l'article L. 341-1, de
-ne pas respecter les règles relatives à la signature du contrat prévues à l'article L. 341-14 ;
+ne pas respecter les règles relatives à la signature du contrat prévues à l'article L. 341-14 ; 
 
 4° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier définie à l'article L. 341-1, de
 ne pas permettre à la personne démarchée de bénéficier du délai de rétractation mentionné à l'article L. 341-16 sous réserve
-des dérogations prévues à cet article ;
+des dérogations prévues à cet article ; 
 
 5° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier définie au deuxième alinéa de
 l'article L. 341-1, de recevoir des personnes démarchées des ordres ou des fonds en vue de la fourniture de services de
 réception-transmission et exécution d'ordres pour le compte de tiers mentionnés à l'article L. 321-1, ou d'instruments
-financiers mentionnés à l'article L. 221-1, avant l'expiration du délai de quarante-huit heures mentionné au IV de l'article
+financiers mentionnés à l'article L. 211-1, avant l'expiration du délai de quarante-huit heures mentionné au IV de l'article
 L. 341-16.
 
 **Liens relatifs à cet article**
@@ -23947,18 +25117,18 @@ L. 341-16.
 
 	**Modifié par**:
 
-	  - Loi n°2006-387 du 31 mars 2006 - art. 25 (V) JORF 1 avril 2006 en vigueur le 1er décembre 2005
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L221-1 (M)
-	  - Code monétaire et financier - art. L321-1 (M)
-	  - Code monétaire et financier - art. L341-1 (M)
-	  - Code monétaire et financier - art. L341-12 (M)
-	  - Code monétaire et financier - art. L341-14 (M)
-	  - Code monétaire et financier - art. L341-16 (M)
-	  - Code monétaire et financier - art. L341-6 (M)
-	  - Code monétaire et financier - art. L341-8 (M)
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L321-1
+	  - Code monétaire et financier - art. L341-1
+	  - Code monétaire et financier - art. L341-12
+	  - Code monétaire et financier - art. L341-14
+	  - Code monétaire et financier - art. L341-16
+	  - Code monétaire et financier - art. L341-6
+	  - Code monétaire et financier - art. L341-8
 
 
 ###### Article L353-2
@@ -24240,19 +25410,19 @@ fondement d'un droit étranger autre que de type fermé.
 
 II.-Ne constitue pas une opération par appel public à l'épargne l'émission ou la cession d'instruments financiers lorsque : 
 
-1° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du I de l'article L. 211-1 émis par une société
+1° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du II de l'article L. 211-1 émis par une société
 anonyme ou une société en commandite par actions et que le montant total de l'offre est inférieur à un montant fixé par le
 règlement général de l'Autorité des marchés financiers ou à un montant et une quotité du capital de l'émetteur fixés par le
 règlement général. 
 
 Le montant total de l'offre est calculé sur une période de douze mois dans des conditions fixées par le règlement général ; 
 
-2° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du I de l'article L. 211-1 émis par une société
+2° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du II de l'article L. 211-1 émis par une société
 anonyme ou une société en commandite par actions et que les bénéficiaires de l'offre acquièrent ces instruments financiers
 pour un montant total par investisseur et par offre distincte supérieur à un montant fixé par le règlement général de
 l'Autorité des marchés financiers ; 
 
-3° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du I de l'article L. 211-1 émis par une société
+3° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du II de l'article L. 211-1 émis par une société
 anonyme ou une société en commandite par actions et que la valeur nominale de chacun de ces instruments financiers est
 supérieure à un montant fixé par le règlement général de l'Autorité des marchés financiers ; 
 
@@ -24333,7 +25503,7 @@ sociétés procédant à des opérations mentionnées aux 1° à 3° du II sont 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 5
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 	**Cite**:
 
@@ -25139,30 +26309,30 @@ marchés financiers lui communique l'identité des membres du marché réglement
 
 ###### Article L421-14
 
-I. - L'admission d'instruments financiers aux négociations sur un marché réglementé est décidée par l'entreprise de marché,
-conformément aux règles du marché concerné.
+I.-L'admission d'instruments financiers aux négociations sur un marché réglementé est décidée par l'entreprise de marché,
+conformément aux règles du marché concerné. 
 
 Ces règles garantissent que tout instrument financier admis aux négociations sur un marché réglementé est susceptible de
-faire l'objet d'une négociation équitable, ordonnée et efficace et, dans le cas des instruments mentionnés aux 1 et 2 du I de
-l'article L. 211-1, d'être négocié librement.
+faire l'objet d'une négociation équitable, ordonnée et efficace et, dans le cas des instruments mentionnés aux 1 et 2 du II
+de l'article L. 211-1, d'être négocié librement. 
 
-II. - L'accord exprès de l'émetteur est requis dans le cas des instruments mentionnés aux 1 et 2 du I de l'article L. 211-1
+II.-L'accord exprès de l'émetteur est requis dans le cas des instruments mentionnés aux 1 et 2 du II de l'article L. 211-1
 qui ne sont pas déjà admis aux négociations sur un autre marché réglementé d'un Etat membre de la Communauté européenne ou
-d'un autre Etat partie à l'accord sur l'Espace économique européen.
+d'un autre Etat partie à l'accord sur l'Espace économique européen. 
 
-Lorsqu'un instrument financier mentionné aux 1 ou 2 du I de l'article L. 211-1 est déjà admis aux négociations sur un marché
+Lorsqu'un instrument financier mentionné aux 1 ou 2 du II de l'article L. 211-1 est déjà admis aux négociations sur un marché
 réglementé d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
 avec le consentement de l'émetteur, il peut être admis aux négociations sur un marché réglementé sans le consentement de
 l'émetteur. Dans ce cas, l'entreprise de marché en informe l'émetteur, qui n'est tenu de son côté à aucune obligation
-d'information vis-à-vis de l'entreprise de marché.
+d'information vis-à-vis de l'entreprise de marché. 
 
-III. - Les règles du marché doivent garantir que les caractéristiques des instruments financiers à terme permettent une
-négociation ordonnée et, le cas échéant, une livraison efficace des actifs sous-jacents.
+III.-Les règles du marché doivent garantir que les caractéristiques des instruments financiers à terme permettent une
+négociation ordonnée et, le cas échéant, une livraison efficace des actifs sous-jacents. 
 
-IV. - L'entreprise de marché est tenue de mettre en place des procédures afin de vérifier que les émetteurs dont elle admet
-les titres aux négociations se conforment aux dispositions qui leur sont applicables et facilitent l'accès des membres du
-marché aux informations que ces émetteurs rendent publiques. Le règlement général de l'Autorité des marchés financiers
-précise les conditions d'application du présent IV.
+IV.-L'entreprise de marché est tenue de mettre en place des procédures afin de vérifier que les émetteurs dont elle admet les
+titres aux négociations se conforment aux dispositions qui leur sont applicables et facilitent l'accès des membres du marché
+aux informations que ces émetteurs rendent publiques. Le règlement général de l'Autorité des marchés financiers précise les
+conditions d'application du présent IV.
 
 **Liens relatifs à cet article**
 
@@ -25178,13 +26348,13 @@ précise les conditions d'application du présent IV.
 	  - Code monétaire et financier - art. L754-3 (VT)
 	  - Code monétaire et financier - art. L764-3 (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-1 (M)
+	  - Code monétaire et financier - art. L211-1
 
 
 ###### Article L421-15
@@ -25566,16 +26736,15 @@ au marché réglementé concerné. Elle en informe sans délai la Commission eur
 ###### Article L423-1
 
 Le public ne peut être sollicité, sous quelque forme que ce soit et par quelque moyen que ce soit, directement ou
-indirectement, en vue d'opérations sur un marché étranger de valeurs mobilières autre qu'un marché réglementé d'un Etat
-partie à l'accord sur l'Espace économique européen, de contrats à terme négociables ou de tous produits financiers que
-lorsque le marché a été reconnu dans des conditions fixées par décret et sous réserve de réciprocité.
+indirectement, en vue d'opérations sur un marché étranger de titres financiers autre qu'un marché réglementé d'un Etat partie
+à l'accord sur l'Espace économique européen, de contrats à terme négociables ou de tous produits financiers que lorsque le
+marché a été reconnu dans des conditions fixées par décret et sous réserve de réciprocité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1885-03-28 du 28 mars 1885 - art. 18 (V)
-	  - Loi n°1885-03-28 art. 18 al. 2
 
 	**Codifié par**:
 
@@ -25583,7 +26752,7 @@ lorsque le marché a été reconnu dans des conditions fixées par décret et so
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 	**Cité par**:
 
@@ -25783,16 +26952,16 @@ raisonnable, l'Autorité des marchés financiers lui communique l'identité des 
 
 ###### Article L424-5
 
-I. - L'admission d'un instrument financier aux négociations sur un système multilatéral de négociation est décidée par la
-personne qui gère ce système.
+I.-L'admission d'un instrument financier aux négociations sur un système multilatéral de négociation est décidée par la
+personne qui gère ce système. 
 
-Les règles du système fixent des critères transparents concernant l'admission des instruments financiers aux négociations.
+Les règles du système fixent des critères transparents concernant l'admission des instruments financiers aux négociations. 
 
-Lorsqu'un instrument financier mentionné aux 1 ou 2 du I de l'article L. 211-1, admis aux négociations sur un marché
+Lorsqu'un instrument financier mentionné aux 1 ou 2 du II de l'article L. 211-1, admis aux négociations sur un marché
 réglementé, est également négocié sur un système multilatéral de négociation sans le consentement de l'émetteur, celui-ci
-n'est soumis à aucune obligation d'information financière à l'égard de la personne qui gère ce système.
+n'est soumis à aucune obligation d'information financière à l'égard de la personne qui gère ce système. 
 
-II. - Le président de l'Autorité des marchés financiers ou son représentant légalement désigné peut requérir la suspension ou
+II.-Le président de l'Autorité des marchés financiers ou son représentant légalement désigné peut requérir la suspension ou
 la radiation d'un instrument financier négocié sur un système multilatéral de négociation.
 
 **Liens relatifs à cet article**
@@ -25806,13 +26975,13 @@ la radiation d'un instrument financier négocié sur un système multilatéral d
 	  - Arrêté du 12 novembre 2004 - art. 231-15 (V)
 	  - Code monétaire et financier - art. L424-2 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-1 (M)
+	  - Code monétaire et financier - art. L211-1
 
 
 ##### Section 4 : Régime des membres
@@ -26113,1105 +27282,6 @@ La détention, le transport et le commerce de l'or sont libres sur le territoire
 
 
 ### Titre III : Les négociations sur instruments financiers
-
-#### Chapitre Ier : Dispositions générales
-
-##### Section 1 : Transfert de propriété des titres et mise en gage
-
-##### Sous-section 1 : Transfert de propriété des titres.
-
-###### Article L431-1
-
-Pour chaque ordre de négociation, cession ou mutation d'un instrument financier revêtant la forme nominative en application
-de la loi ou des statuts de la personne morale émettrice et admis aux opérations d'un dépositaire central, ou pour toute
-autre modification affectant l'inscription en compte dudit instrument financier, l'intermédiaire habilité mentionné au
-premier alinéa de l'article L. 211-4 établit un bordereau de références nominatives. Ce bordereau indique les éléments
-d'identification du donneur d'ordre, la nature juridique de ses droits et les restrictions dont l'instrument financier peut
-être frappé et porte un code permettant de déterminer l'opération à laquelle il se rattache.
-
-Le règlement général de l'Autorité des marchés financiers détermine les modalités et les délais de circulation du bordereau
-de références nominatives entre l'intermédiaire habilité, le dépositaire central et la personne morale émettrice.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
-	**Cité par**:
-
-	  - Arrêté du 12 novembre 2004 - art. 322-64 (M)
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - Code de l'action sociale et des familles - art. R314-95 (V)
-	  - Code monétaire et financier - art. L734-5 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L211-4
-
-
-###### Article L431-2
-
-Le transfert de propriété d'instruments financiers mentionnés aux 1, 2 et 3 du I de l'article L. 211-1 et de tous les
-instruments financiers équivalents émis sur le fondement de droits étrangers, lorsqu'ils sont admis aux opérations d'un
-dépositaire central ou livrés dans un système de règlement et de livraison d'instruments financiers, mentionné à l'article L.
-330-1, résulte de leur inscription au compte de l'acheteur, à la date et dans les conditions définies par le règlement
-général de l'Autorité des marchés financiers.
-
-Si le compte de l'intermédiaire habilité de l'acheteur n'a pas été crédité des instruments financiers dont il s'agit à la
-date et dans les conditions définies dans le règlement général de l'Autorité des marchés financiers, le transfert est résolu
-de plein droit, nonobstant toute disposition législative contraire, sans préjudice des recours de l'acheteur.
-
-Quand plusieurs acheteurs sont affectés par cette résolution, celle-ci est effectuée au prorata des droits de chacun.
-
-Par dérogation aux alinéas précédents, lorsque le système de règlement et de livraison assure la livraison des instruments
-financiers en prévoyant un dénouement irrévocable en continu, le règlement général de l'Autorité des marchés financiers fixe
-des conditions particulières de transfert de propriété. Ce transfert n'intervient au profit de l'acheteur que lorsque celui-
-ci a réglé le prix de la transaction. Tant que l'acheteur n'a pas réglé le prix, l'intermédiaire qui a reçu les instruments
-financiers en est le propriétaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 1983-01-03 art. 47 bis
-	  - Loi n°83-1 du 3 janvier 1983 - art. 47 bis (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-	  - Loi n°2005-811 2005-07-20 art. 7 II JORF 21 juillet 2005
-
-	**Cité par**:
-
-	  - Arrêté du 12 novembre 2004 - art. 560-11 (M)
-	  - Arrêté du 12 novembre 2004 - art. 560-2 (T)
-	  - Arrêté du 12 novembre 2004 - art. 570-2 (M)
-	  - Arrêté du 12 novembre 2004 - art. 570-8 (M)
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - Code de commerce. - art. L228-1 (V)
-	  - Code monétaire et financier - art. L734-5 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2005-811 du 20 juillet 2005 - art. 7 (V) JORF 21 juillet 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L211-1
-	  - Code monétaire et financier - art. L330-1
-
-
-###### Article L431-3
-
-En cas de livraison d'instruments financiers mentionnés aux 1, 2 et 3 du I de l'article L. 211-1 contre règlement d'espèces,
-le défaut de livraison ou de règlement constaté à la date et dans les conditions définies dans le règlement général de
-l'Autorité des marchés financiers ou, à défaut, par une convention entre les parties délie de plein droit de toute obligation
-la partie non défaillante vis-à-vis de la partie défaillante, nonobstant toute disposition législative contraire.
-
-Lorsqu'un intermédiaire teneur de compte ou conservateur procède au dénouement d'une opération, par livraison d'instruments
-financiers contre règlement d'espèces, en se substituant à son client défaillant, il peut se prévaloir des dispositions du
-présent article : il acquiert alors la pleine propriété des instruments financiers ou des espèces reçus de la contrepartie.
-Les dispositions du livre VI du code de commerce ne font pas obstacle à l'application du présent article. Aucun créancier du
-client défaillant ne peut opposer un droit quelconque sur ces instruments financiers ou espèces.
-
-**Nota:**
-
-Ordonnance 2005-303 2005-03-31 art. 4 : Les articles 1er,2,3 de la présente ordonnance entrent en vigueur à compter de la
-publication au Journal officiel de la République française des dispositions du règlement général de l'Autorité des marchés
-financiers auxquelles les articles L. 431-2 et L. 431-3 modifiés du code monétaire et financier renvoient.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 1983-01-03 art. 47 ter
-	  - Loi n°83-1 du 3 janvier 1983 - art. 47 ter (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-303 du 31 mars 2005 - art. 2 () JORF 1er avril 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - Code monétaire et financier - art. L432-15 (M)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L211-1
-
-
-##### Sous-section 2 : Mise en gage.
-
-###### Article L431-4
-
-I. - La constitution en gage d'un compte d'instruments financiers mentionnés aux 1, 2 et 3 du I de l'article L. 211-1 et
-d'instruments financiers équivalents émis sur le fondement de droits étrangers est réalisée, tant entre les parties qu'à
-l'égard de la personne morale émettrice et des tiers, par une déclaration signée par le titulaire du compte. Cette
-déclaration comporte les énonciations fixées par décret. Les instruments financiers figurant initialement dans le compte
-gagé, ceux qui leur sont substitués ou les complètent en garantie de la créance initiale du créancier gagiste, de quelque
-manière que ce soit, ainsi que leurs fruits et produits en toute monnaie, sont compris dans l'assiette du gage. Le créancier
-gagiste peut obtenir, sur simple demande au teneur de compte, une attestation de nantissement de compte d'instruments
-financiers, comportant l'inventaire des instruments financiers et sommes en toute monnaie, inscrits en compte gagé à la date
-de délivrance de cette attestation. Les instruments financiers et les sommes en toute monnaie postérieurement inscrits au
-crédit du compte gagé, en garantie de la créance initiale du créancier gagiste, sont soumis aux mêmes conditions que ceux y
-figurant initialement et sont considérés comme ayant été remis à la date de déclaration de gage initiale.
-
-II. - Le compte gagé prend la forme d'un compte spécial ouvert au nom du titulaire et tenu par un intermédiaire habilité, un
-dépositaire central ou, le cas échéant, la personne morale émettrice.
-
-A défaut d'un compte spécial, sont réputés constituer le compte gagé les instruments financiers mentionnés au premier alinéa,
-ainsi que les sommes en toute monnaie ayant fait l'objet d'une identification à cet effet par un procédé informatique.
-
-III. - Lorsque les instruments financiers figurant dans le compte gagé sont en forme nominative et que le teneur du compte
-n'est pas une personne autorisée à recevoir des fonds du public au sens de l'article L. 312-2, les fruits et produits
-mentionnés au I versés en toute monnaie doivent être inscrits au crédit d'un compte spécial ouvert au nom du titulaire du
-compte gagé dans les livres d'un intermédiaire habilité ou d'un établissement de crédit. Ce compte spécial est réputé faire
-partie intégrante du compte gagé à la date de signature de la déclaration de gage. Le créancier gagiste peut obtenir, sur
-simple demande au teneur du compte spécial, une attestation comportant l'inventaire des sommes en toute monnaie inscrites au
-crédit de ce compte à la date de la délivrance de cette attestation.
-
-IV. - Le créancier gagiste définit avec le titulaire du compte les conditions dans lesquelles ce dernier peut disposer des
-instruments financiers et des sommes en toute monnaie figurant dans le compte gagé. Le créancier gagiste bénéficie en toute
-hypothèse d'un droit de rétention sur les instruments financiers et sommes en toute monnaie figurant au compte gagé.
-
-V. - Le créancier gagiste titulaire d'une créance certaine, liquide et exigible peut, pour les instruments financiers,
-français ou étrangers, négociés sur un marché réglementé, les parts ou actions d'organismes de placement collectif, ainsi que
-pour les sommes en toute monnaie, réaliser le gage, civil ou commercial, huit jours - ou à l'échéance de tout autre délai
-préalablement convenu avec le titulaire du compte après mise en demeure du débiteur remise en mains propres ou adressée par
-courrier recommandé. Cette mise en demeure du débiteur est également notifiée au constituant du gage lorsqu'il n'est pas le
-débiteur ainsi qu'au teneur de compte lorsque ce dernier n'est pas le créancier gagiste. La réalisation du gage intervient
-selon des modalités fixées par décret.
-
-Pour les instruments financiers autres que ceux mentionnés à l'alinéa précédent, la réalisation du gage intervient
-conformément aux dispositions de l'article L. 521-3 du code de commerce.
-
-**Nota:**
-
-Ordonnance 2005-171 2005-02-24 art. 1er 1° c) 2ème alinéa : 
-
-Les dispositions du premier alinéa du I 1° c) revêtent un caractère interprétatif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 1983-01-03 art. 29
-	  - Loi n°83-1 du 3 janvier 1983 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-171 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - Code de la sécurité sociale. - art. R931-10-38 (V)
-	  - Code monétaire et financier - art. D431-1 (Ab)
-	  - Code monétaire et financier - art. D431-2 (Ab)
-	  - Code monétaire et financier - art. D431-3 (Ab)
-	  - Code monétaire et financier - art. D431-4 (Ab)
-	  - Code monétaire et financier - art. L213-2 (V)
-	  - Code monétaire et financier - art. L330-2 (M)
-	  - Code monétaire et financier - art. L431-5 (Ab)
-	  - Code monétaire et financier - art. L515-13 (V)
-
-	**Cite**:
-
-	  - Code de commerce - art. L521-3
-	  - Code monétaire et financier - art. L211-1
-	  - Code monétaire et financier - art. L312-2
-
-
-###### Article L431-5
-
-Les dispositions du V de l'article L. 431-4 relatives à la réalisation du gage s'appliquent aux nantissements d'instruments
-financiers inscrits en compte, français ou étrangers, constitués antérieurement au 4 juillet 1996.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 29-1 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-171 du 24 février 2005 - art. 1 () JORF 25 février 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L431-4
-
-
-##### Section 2 : Compensation et cession de créances
-
-###### Article L431-7
-
-I. - Les dispositions de la présente section sont applicables :
-
-1° Aux obligations financières résultant d'opérations sur instruments financiers lorsque l'une au moins des parties à
-l'opération est un établissement de crédit, un prestataire de services d'investissement, un établissement public, une
-collectivité territoriale, une institution, une personne ou entité bénéficiaire des dispositions de l'article L. 531-2, une
-chambre de compensation, un établissement non résident ayant un statut comparable, une organisation ou organisme financier
-international dont la France ou l'Union européenne est membre ;
-
-2° Aux obligations financières résultant de tout contrat donnant lieu à un règlement en espèces ou à une livraison
-d'instruments financiers lorsque toutes les parties appartiennent à l'une des catégories de personnes mentionnées à l'alinéa
-précédent, à l'exception des personnes mentionnées aux alinéas c à n du 2° de l'article L. 531-2 ;
-
-3° Aux obligations financières résultant de tout contrat conclu dans le cadre d'un système mentionné à l'article L. 330-1.
-
-II. - Les conventions relatives aux obligations financières mentionnées au I sont résiliables, et les dettes et les créances
-y afférentes sont compensables. Les parties peuvent prévoir l'établissement d'un solde unique, que ces obligations
-financières soient régies par une ou plusieurs conventions ou conventions-cadres.
-
-III. - Les modalités de résiliation, d'évaluation et de compensation des opérations et obligations mentionnées aux I et II
-sont opposables aux tiers. Ces modalités peuvent être notamment prévues par des conventions ou conventions-cadres. Toute
-opération de résiliation, d'évaluation ou de compensation faite en raison d'une procédure civile d'exécution ou de l'exercice
-d'un droit d'opposition est réputée être intervenue avant cette procédure.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°89-623 du 6 septembre 1989 - art. 4-5 (Ab)
-	  - Décret n°89-623 du 6 septembre 1989 - art. 4-6 (Ab)
-	  - Décret n°89-623 du 6 septembre 1989 - art. 4-8 (Ab)
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V)
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V)
-	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
-	  - Loi n°2008-1061 du 16 octobre 2008 - art. 6 (V)
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 902 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 990 J (MMN)
-	  - Code de la mutualité - art. R212-81 (V)
-	  - Code de la sécurité sociale. - art. R931-10-59 (V)
-	  - Code des assurances - art. R332-56 (V)
-	  - Code monétaire et financier - art. D211-1 A (V)
-	  - Code monétaire et financier - art. L431-7-1 (Ab)
-	  - Code monétaire et financier - art. L431-7-3 (Ab)
-	  - Code monétaire et financier - art. L432-16 (Ab)
-	  - Code monétaire et financier - art. L432-8 (Ab)
-	  - Code monétaire et financier - art. L511-7 (V)
-	  - Code monétaire et financier - art. L532-18 (V)
-	  - Code monétaire et financier - art. L532-18-1 (V)
-	  - Code monétaire et financier - art. L734-7 (M)
-	  - Code monétaire et financier - art. L744-7 (V)
-	  - Code monétaire et financier - art. L754-7 (Ab)
-	  - Code monétaire et financier - art. R214-13 (M)
-	  - Code monétaire et financier - art. R214-14 (V)
-	  - Code monétaire et financier - art. R214-16 (V)
-	  - Code monétaire et financier - art. R214-192 (T)
-	  - Code monétaire et financier - art. R214-193 (V)
-	  - Code monétaire et financier - art. R214-195 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 du 2 juillet 1996 - art. 52 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 3 () JORF 19 octobre 2007 en vigueur le 1er novembre 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L330-1
-	  - Code monétaire et financier - art. L531-2
-
-
-###### Article L431-7-1
-
-La cession de créances afférentes aux obligations financières mentionnées au I de l'article L. 431-7 est opposable aux tiers
-du fait de la notification de la cession au débiteur. La cession de contrats afférents aux obligations financières
-mentionnées au I de l'article L. 431-7 est opposable aux tiers du fait de l'accord écrit des parties.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L431-7
-
-
-###### Article L431-7-2
-
-Les dispositions du livre VI du code de commerce, ou celles régissant toutes procédures judiciaires ou amiables équivalentes
-ouvertes sur le fondement de droits étrangers, ne font pas obstacle à l'application des dispositions de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-
-
-##### Section 3 : Garanties
-
-###### Article L431-7-3
-
-I. - A titre de garantie des obligations financières présentes ou futures mentionnées au I de l'article L. 431-7, les parties
-peuvent prévoir des remises en pleine propriété, opposables aux tiers sans formalités, de valeurs, instruments financiers,
-effets, créances, contrats ou sommes d'argent, ou la constitution de sûretés sur de tels biens ou droits, réalisables, même
-lorsque l'une des parties fait l'objet d'une des procédures prévues par le livre VI du code de commerce, ou d'une procédure
-judiciaire ou amiable équivalente sur le fondement d'un droit étranger, ou d'une procédure civile d'exécution ou de
-l'exercice d'un droit d'opposition.
-
-Les dettes et créances relatives à ces garanties et celles afférentes à ces obligations sont alors compensables conformément
-au II de l'article L. 431-7.
-
-II. - Lorsque les garanties mentionnées au I sont relatives aux obligations financières mentionnées aux 2° et 3° du I de
-l'article L. 431-7 :
-
-1° La constitution de telles garanties et leur opposabilité ne sont subordonnées à aucune formalité. Elles résultent du
-transfert des biens et droits en cause, de la dépossession du constituant ou de leur contrôle par le bénéficiaire ou par une
-personne agissant pour son compte ;
-
-2° L'identification des biens et droits en cause, leur transfert, la dépossession du constituant ou le contrôle par le
-bénéficiaire doivent pouvoir être attestés par écrit ;
-
-3° La réalisation de telles garanties intervient à des conditions normales de marché, par compensation, appropriation ou
-vente, sans mise en demeure préalable, selon les modalités d'évaluation prévues par les parties dès lors que les obligations
-financières couvertes sont devenues exigibles.
-
-III. - L'acte prévoyant la constitution des sûretés mentionnées au I peut définir les conditions dans lesquelles le
-bénéficiaire de ces sûretés peut utiliser ou aliéner les biens ou droits en cause, à charge pour lui de restituer au
-constituant des biens ou droits équivalents. Les sûretés concernées portent alors sur les biens ou droits équivalents ainsi
-restitués comme si elles avaient été constituées dès l'origine sur ces biens ou droits équivalents. Cet acte peut permettre
-au bénéficiaire de compenser sa dette de restitution des biens ou droits équivalents avec les obligations financières au
-titre desquelles les sûretés ont été constituées, lorsqu'elles sont devenues exigibles.
-
-Par biens ou droits équivalents on entend :
-
-1° Lorsqu'il s'agit d'espèces, une somme de même montant et dans la même monnaie ;
-
-2° Lorsqu'il s'agit d'instruments financiers, des instruments financiers ayant le même émetteur ou débiteur, faisant partie
-de la même émission ou de la même catégorie, ayant la même valeur nominale, libellés dans la même monnaie et ayant la même
-désignation ou, d'autres actifs, lorsque les parties le prévoient, en cas de survenance d'un fait concernant ou affectant les
-instruments financiers constitués en sûreté.
-
-Lorsqu'il s'agit d'autres biens ou droits que ceux mentionnés aux 1° et 2°, la restitution porte sur ces mêmes biens ou
-droits.
-
-IV. - Les modalités de réalisation et de compensation des garanties mentionnées au I et des obligations mentionnées au I de
-l'article L. 431-7 sont opposables aux tiers. Toute réalisation ou compensation effectuée en raison d'une procédure civile
-d'exécution ou de l'exercice d'un droit d'opposition est réputée être intervenue avant cette procédure.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°89-623 du 6 septembre 1989 - art. 4-4 (Ab)
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis-0 A bis (V)
-	  - Code monétaire et financier - art. L214-43 (V)
-	  - Code monétaire et financier - art. L330-2 (V)
-	  - Code monétaire et financier - art. L431-7-4 (Ab)
-	  - Code monétaire et financier - art. L734-3 (VT)
-	  - Code monétaire et financier - art. L734-8-1 (Ab)
-	  - Code monétaire et financier - art. L744-8-1 (V)
-	  - Code monétaire et financier - art. L754-8-1 (V)
-	  - Code monétaire et financier - art. L764-8-1 (V)
-	  - Code monétaire et financier - art. R214-12 (V)
-	  - Code monétaire et financier - art. R214-188 (V)
-	  - Code monétaire et financier - art. R214-189 (V)
-	  - Code monétaire et financier - art. R214-97 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L431-7
-
-
-###### Article L431-7-4
-
-Les droits ou obligations du constituant, du bénéficiaire ou de tout tiers relatifs aux garanties mentionnées au I de
-l'article L. 431-7-3 portant sur des instruments financiers représentés par une inscription en compte sont déterminés par la
-loi de l'Etat où est situé le compte sur lequel les instruments financiers sont remis ou constitués en garantie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L431-7-3
-
-
-###### Article L431-7-5
-
-Les dispositions du livre VI du code de commerce, ou celles régissant toutes les procédures judiciaires ou amiables
-équivalentes ouvertes sur le fondement de droits étrangers, ne font pas obstacle à l'application de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-
-
-#### Chapitre II : Formes particulières de cessions d'instruments financiers
-
-##### Section 2 : Adjudication.
-
-###### Article L432-5
-
-Les adjudications publiques volontaires ou forcées de valeurs mobilières négociables sont faites, si les titres sont admis
-aux négociations sur un marché réglementé, par les prestataires de services d'investissement membres du marché réglementé où
-ces titres sont négociés, et, dans le cas contraire, par un prestataire de services d'investissement ou par un notaire.
-
-Même en cas de dispositions statutaires contraires, les dispositions du présent article s'appliquent aux adjudications pour
-défaut de libération d'actions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°42-290 du 14 février 1942 - art. 20 bis (Ab)
-
-	**Cité par**:
-
-	  - Décret n°67-236 du 23 mars 1967 - art. 205-2 (Ab)
-	  - Décret n°67-236 du 23 mars 1967 - art. 208 (Ab)
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - Code de commerce. - art. R228-12 (V)
-	  - Code de commerce. - art. R228-24 (V)
-	  - Code monétaire et financier - art. L734-8 (V)
-	  - Code monétaire et financier - art. L744-8 (V)
-	  - Code monétaire et financier - art. L754-8 (Ab)
-	  - Code monétaire et financier - art. L764-8 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-
-##### Section 3 : Cessions temporaires
-
-##### Sous-section 1 : Prêt de titres.
-
-###### Article L432-6
-
-Les dispositions de l'article L. 432-9 sont applicables aux prêts de titres qui remplissent les conditions suivantes :
-
-1. Le prêt porte sur des instruments financiers visés aux 1, 2 et 3 de l'article L. 211-1 ou sur tous instruments équivalents
-émis sur le fondement de droits étrangers ;
-
-2. Le prêt porte sur des titres qui ne sont pas susceptibles de faire l'objet, pendant la durée du prêt, du détachement d'un
-droit à dividende ou du paiement d'un intérêt soumis à la retenue à la source prévue au 1° de l'article 119 bis ou à
-l'article 1678 bis du code général des impôts ou ouvrant droit au crédit d'impôt prévu au b du 1 de l'article 220 du même
-code, d'un amortissement, d'un tirage au sort pouvant conduire au remboursement ou d'un échange ou d'une conversion prévus
-par le contrat d'émission ;
-
-3. Le prêt est soumis aux dispositions des articles 1892 à 1904 inclus du code civil ;
-
-4. Les titres sont empruntés par une personne morale soumise de plein droit à un régime réel d'imposition, par un organisme
-de placement collectif en valeurs mobilières, ou par une personne, société ou institution non résidente ayant un statut
-comparable.
-
-Les parties peuvent convenir de remises complémentaires, en pleine propriété, d'espèces ou de titres, pour tenir compte de
-l'évolution de la valeur des titres prêtés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1678 bis, 220
-	  - Code civil
-	  - Code monétaire et financier
-	  - Code monétaire et financier - art. L211-1
-	  - Code monétaire et financier - art. L432-9
-
-	**Anciens textes**:
-
-	  - Loi n°87-416 du 17 juin 1987 - art. 31 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 38 2° JORF 2 août 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 260 C (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis A (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 duodecies (V)
-	  - Code monétaire et financier - art. L432-8 (Ab)
-	  - Code monétaire et financier - art. L511-7 (M)
-	  - Code monétaire et financier - art. L515-13 (V)
-	  - Code monétaire et financier - art. L734-3 (VT)
-	  - Code monétaire et financier - art. L734-8-1 (Ab)
-	  - Code monétaire et financier - art. L744-8-1 (V)
-	  - Code monétaire et financier - art. L754-8-1 (V)
-	  - Code monétaire et financier - art. L764-8-1 (V)
-
-
-###### Article L432-7
-
-Le régime de la rémunération allouée en paiement de prêts de titres est fixé par les deux premières phrases du 2 du I de
-l'article 38 bis du code général des impôts reproduites ci-après :
-
-"2. La rémunération allouée en rémunération du prêt de titres constitue un revenu de créance. Lorsque la période du prêt
-couvre la date de paiement des revenus attachés aux titres prêtés, le montant de la rémunération ne peut être inférieur à la
-valeur des revenus auxquels le prêteur a renoncé. La fraction de la rémunération qui correspond à ces produits est soumise au
-même régime fiscal que les revenus des titres prêtés."
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 38 bis
-
-	**Cite**:
-
-	  - CGI 38 bis
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - Code monétaire et financier - art. L734-8-1 (Ab)
-	  - Code monétaire et financier - art. L744-8-1 (V)
-	  - Code monétaire et financier - art. L754-8-1 (V)
-	  - Code monétaire et financier - art. L764-8-1 (V)
-
-
-###### Article L432-9
-
-Lorsque les titres sont prêtés par une entreprise, ils sont prélevés par priorité sur les titres de même nature acquis ou
-souscrits à la date la plus récente.
-
-La créance représentative des titres prêtés est inscrite distinctement au bilan à la valeur d'origine de ces titres.
-
-A l'expiration du prêt, les titres restitués sont inscrits au bilan à cette même valeur.
-
-La provision pour dépréciation constituée antérieurement, le cas échéant, sur les titres prêtés n'est pas réintégrée lors du
-prêt. Elle doit figurer sur une ligne distincte au bilan et demeurer inchangée jusqu'à la restitution de ces titres.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°87-416 du 17 juin 1987 - art. 34 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - Code monétaire et financier - art. L432-6 (Ab)
-	  - Code monétaire et financier - art. L734-8-1 (V)
-	  - Code monétaire et financier - art. L744-8-1 (V)
-	  - Code monétaire et financier - art. L754-8-1 (V)
-	  - Code monétaire et financier - art. L764-8-1 (V)
-
-
-###### Article L432-10
-
-Les titres empruntés et la dette représentative de l'obligation de restitution de ces titres sont inscrits distinctement au
-bilan de l'emprunteur au prix du marché au jour du prêt.
-
-Lorsque l'emprunteur cède des titres, ceux-ci sont prélevés par priorité sur les titres de même nature empruntés à la date la
-plus ancienne. Les achats ultérieurs de titres de même nature sont affectés par priorité au remplacement des titres
-empruntés.
-
-A la clôture de l'exercice, les titres empruntés qui figurent au bilan de l'emprunteur et la dette représentative de
-l'obligation de restitution qui résulte des contrats en cours sont inscrits au prix que ces titres ont sur le marché à cette
-date.
-
-A l'expiration du prêt, les titres empruntés sont réputés restitués à la valeur pour laquelle la dette représentative de
-l'obligation de restitution figure au bilan.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°87-416 du 17 juin 1987 - art. 35 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - Code monétaire et financier - art. L734-8-1 (Ab)
-	  - Code monétaire et financier - art. L744-8-1 (V)
-	  - Code monétaire et financier - art. L754-8-1 (V)
-	  - Code monétaire et financier - art. L764-8-1 (V)
-
-
-###### Article L432-11
-
-Les dispositions de la présente sous-section s'appliquent dans les conditions prévues au II bis de l'article 38 bis du code
-général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 38 bis
-
-	**Anciens textes**:
-
-	  - CGI 38 bis II bis
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-
-##### Sous-section 2 : Pension.
-
-###### Article L432-12
-
-La pension est l'opération par laquelle une personne morale, un fonds commun de placement, un fonds de placement immobilier
-ou un organisme de titrisation cède en pleine propriété à une autre personne morale, à un fonds commun de placement , un
-fonds de placement immobilier ou à un organisme de titrisation, moyennant un prix convenu, des valeurs, titres ou effets
-définis ci-après et par laquelle le cédant et le cessionnaire s'engagent respectivement et irrévocablement, le premier à
-reprendre les valeurs, titres ou effets, le second à les rétrocéder pour un prix et à une date convenus. 
-
-Les valeurs, titres ou effets mentionnés ci-dessus sont : 
-
-1. Les instruments financiers visés aux 1, 2 et 3 de l'article L. 211-1 ou tous instruments équivalents émis sur le fondement
-de droits étrangers ; 
-
-2. Les effets publics ou privés. 
-
-Toutefois, seuls les établissements de crédit peuvent prendre ou mettre en pension les effets privés.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 6
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 260 C (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis-0 A bis (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
-	  - Code général des impôts, CGI. - art. 726 (V)
-	  - Code monétaire et financier - art. L432-16 (Ab)
-	  - Code monétaire et financier - art. L511-7 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L211-1
-
-
-###### Article L432-13
-
-La pension porte sur des valeurs, titres ou effets, qui ne sont pas susceptibles de faire l'objet, pendant toute la durée de
-l'opération :
-
-1. Du détachement d'un droit à dividende, ouvrant droit au crédit d'impôt prévu au b du 1 de l'article 220 du code général
-des impôts. (1)
-
-2. Du paiement d'un intérêt soumis à la retenue à la source prévue au 1 de l'article 119 bis ou à l'article 1678 bis du code
-général des impôts ou ouvrant droit à un crédit d'impôt prévu au b du 1 de l'article 220 du même code.
-
-L'amortissement, le tirage au sort conduisant au remboursement, l'échange, la conversion ou l'exercice d'un bon de
-souscription mettent fin à l'opération de pension.
-
-**Nota:**
-
-1 : Art. 93 II E loi 2003-1311 2003-12-30 Finances pour 2004 : Ces dispositions sont applicables aux revenus distribués ou
-répartis perçus à compter du 1er janvier 2005.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 220, 1678 bis, 119 bis
-
-	**Anciens textes**:
-
-	  - Loi n°93-1444 1993-12-31 art. 12 II
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi - art. 93 (V) JORF 31 décembre 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis-0 A bis (V)
-	  - Code monétaire et financier - art. L734-8-1 (Ab)
-	  - Code monétaire et financier - art. L744-8-1 (V)
-	  - Code monétaire et financier - art. L754-8-1 (V)
-	  - Code monétaire et financier - art. L764-8-1 (V)
-
-
-###### Article L432-14
-
-La pension devient opposable aux tiers dès la livraison, dont les modalités sont fixées par décret, des valeurs, titres ou
-effets.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-1444 1993-12-31 art. 12 IV
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - Code monétaire et financier - art. D432-1 (Ab)
-
-
-###### Article L432-15
-
-Au terme fixé pour la rétrocession, le cédant paye le prix convenu au cessionnaire et ce dernier rétrocède les valeurs,
-titres ou effets au cédant ; si le cédant manque à son obligation de payer le prix de la rétrocession, les valeurs, titres ou
-effets restent acquis au cessionnaire et si le cessionnaire manque à son obligation de rétrocéder les valeurs, titres ou
-effets, le montant de la cession reste acquis au cédant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 29 () JORF 16 mai 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-
-
-###### Article L432-17
-
-La rémunération du cessionnaire, quelle qu'en soit la forme, constitue un revenu de créance. Elle est traitée sur le plan
-comptable comme des intérêts.
-
-Lorsque la durée de la pension couvre la date de paiement des revenus attachés aux valeurs, titres ou effets donnés en
-pension, le cessionnaire les reverse au cédant qui les comptabilise parmi les produits de même nature.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-1444 1993-12-31 art. 12 VI al. 1 et al. 2
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-
-
-###### Article L432-18
-
-La pension entraîne, chez le cédant, d'une part, le maintien à l'actif de son bilan des valeurs, titres ou effets mis en
-pension et, d'autre part, l'inscription au passif du bilan du montant de sa dette vis-à-vis du cessionnaire ; ces valeurs,
-titres ou effets et cette dette sont individualisés à une rubrique spécifique dans la comptabilité du cédant. En outre, le
-montant des valeurs, titres ou effets mis en pension, ventilé selon la nature des actifs concernés, doit figurer dans les
-documents annexés aux comptes annuels.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-1444 1993-12-31 art. 12 VII al. 1
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-
-
-###### Article L432-19
-
-Les valeurs, titres ou effets reçus en pension ne sont pas inscrits au bilan du cessionnaire ; celui-ci enregistre à l'actif
-de son bilan le montant de sa créance sur le cédant.
-
-Lorsque le cessionnaire cède des valeurs, titres ou effets qu'il a lui-même reçus en pension, il constate au passif de son
-bilan le montant de cette cession représentatif de sa dette de valeurs, titres ou effets qui, à la clôture de l'exercice, est
-évaluée au prix de marché de ces actifs. Les écarts de valeur constatés sont retenus pour la détermination du résultat
-imposable de cet exercice.
-
-Lorsque le cessionnaire donne en pension des valeurs, titres ou effets qu'il a lui même reçus en pension, il inscrit au
-passif de son bilan le montant de sa dette à l'égard du nouveau cessionnaire.
-
-Les montants représentatifs des créances et dettes mentionnées au présent article sont individualisés dans la comptabilité du
-cessionnaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-1444 1993-12-31 art. 12 VIII
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
-
-
-##### Section 4 : Opérations à terme.
-
-###### Article L432-20
-
-Les instruments financiers à terme mentionnés au 4 du I de l'article L. 211-1 sont valides, alors même qu'ils feraient
-l'objet de dispositions législatives spéciales, pour autant que leur cause et leur objet sont licites. Nul ne peut, pour se
-soustraire aux obligations qui résultent d'opérations à terme, se prévaloir de l'article 1965 du code civil, lors même que
-ces opérations se résoudraient par le paiement d'une simple différence.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 46 I
-	  - Loi n°96-597 du 2 juillet 1996 - art. 46 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
-	  - Code monétaire et financier - art. L532-18 (M)
-	  - Code monétaire et financier - art. L532-18-1 (V)
-	  - Code monétaire et financier - art. L734-9 (Ab)
-	  - Code monétaire et financier - art. L744-9 (V)
-	  - Code monétaire et financier - art. L754-9 (Ab)
-	  - Code monétaire et financier - art. L764-9 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 1965
-	  - Code monétaire et financier - art. L211-1
-
 
 #### Chapitre III : Opérations spécifiques aux marchés réglementés
 
@@ -28210,11 +28280,11 @@ L. 233-14 du code de commerce, reproduits ci-après :
 " Art.L. 233-7-I.-Lorsque les actions d'une société ayant son siège sur le territoire de la République sont admises aux
 négociations sur un marché réglementé d'un Etat partie à l'accord sur l'Espace économique européen ou sur un marché
 d'instruments financiers admettant aux négociations des actions pouvant être inscrites en compte chez un intermédiaire
-habilité dans les conditions prévues par l'article L. 211-4 du code monétaire et financier, toute personne physique ou morale
-agissant seule ou de concert qui vient à posséder un nombre d'actions représentant plus du vingtième, du dixième, des trois
-vingtièmes, du cinquième, du quart, du tiers, de la moitié, des deux tiers, des dix-huit vingtièmes ou des dix-neuf
-vingtièmes du capital ou des droits de vote informe la société dans un délai fixé par décret en Conseil d'Etat, à compter du
-franchissement du seuil de participation, du nombre total d'actions ou de droits de vote qu'elle possède. 
+mentionné à l'article L. 211-3 du code monétaire et financier, toute personne physique ou morale agissant seule ou de concert
+qui vient à posséder un nombre d'actions représentant plus du vingtième, du dixième, des trois vingtièmes, du cinquième, du
+quart, du tiers, de la moitié, des deux tiers, des dix-huit vingtièmes ou des dix-neuf vingtièmes du capital ou des droits de
+vote informe la société dans un délai fixé par décret en Conseil d'Etat, à compter du franchissement du seuil de
+participation, du nombre total d'actions ou de droits de vote qu'elle possède.
 
 L'information mentionnée à l'alinéa précédent est également donnée dans les mêmes délais lorsque la participation en capital
 ou en droits de vote devient inférieure aux seuils mentionnés par cet alinéa. 
@@ -28231,8 +28301,8 @@ portée à la connaissance du public dans les conditions fixées par le règleme
 Le règlement général précise également les modalités de calcul des seuils de participation. 
 
 III.-Les statuts de la société peuvent prévoir une obligation supplémentaire d'information portant sur la détention de
-fractions du capital ou des droits de vote inférieures à celle du vingtième mentionnée au I. L'obligation porte sur la
-détention de chacune de ces fractions, qui ne peuvent être inférieures à 0,5 % du capital ou des droits de vote. 
+fractions du capital ou des droits de vote inférieures à celle du vingtième mentionnée au I.L'obligation porte sur la
+détention de chacune de ces fractions, qui ne peuvent être inférieures à 0, 5 % du capital ou des droits de vote. 
 
 IV.-Les obligations d'information prévues aux I, II et III ne s'appliquent pas aux actions : 
 
@@ -28248,7 +28318,7 @@ fixé par le règlement général de l'Autorité des marchés financiers et que 
 pas exercés ni autrement utilisés pour intervenir dans la gestion de l'émetteur ; 
 
 4° Remises aux membres du Système européen de banques centrales ou par ceux-ci dans l'exercice de leurs fonctions d'autorités
-monétaires, dans les conditions fixées par le règlement général de l'Autorité des marchés financiers. 
+monétaires, dans les conditions fixées par le règlement général de l'Autorité des marchés financiers.
 
 V.-Les obligations d'information prévues aux I, II et III ne s'appliquent pas : 
 
@@ -28344,10 +28414,10 @@ directoire ou ses gérants ;
 III.-Les personnes agissant de concert sont tenues solidairement aux obligations qui leur sont faites par les lois et
 règlements. " 
 
-" Art. L. 233-10-1 - En cas d'offre publique d'acquisition, sont considérées comme agissant de concert les personnes qui ont
+" Art.L. 233-10-1-En cas d'offre publique d'acquisition, sont considérées comme agissant de concert les personnes qui ont
 conclu un accord avec l'auteur d'une offre publique visant à obtenir le contrôle de la société qui fait l'objet de l'offre.
 Sont également considérées comme agissant de concert les personnes qui ont conclu un accord avec la société qui fait l'objet
-de l'offre afin de faire échouer cette offre. "
+de l'offre afin de faire échouer cette offre. 
 
 " Art.L. 233-11-Toute clause d'une convention prévoyant des conditions préférentielles de cession ou d'acquisition d'actions
 admises aux négociations sur un marché réglementé et portant sur au moins 0, 5 % du capital ou des droits de vote de la
@@ -28374,11 +28444,6 @@ Les notifications sont faites dans le délai d'un mois à compter soit du jour o
 société pour les titres qu'elle détenait avant cette date, soit du jour de l'opération pour les acquisitions ou aliénations
 ultérieures. " 
 
-" Art.L. 233-10-1-En cas d'offre publique d'acquisition, sont considérées comme agissant de concert les personnes qui ont
-conclu un accord avec l'auteur d'une offre publique visant à obtenir le contrôle de la société qui fait l'objet de l'offre.
-Sont également considérées comme agissant de concert les personnes qui ont conclu un accord avec la société qui fait l'objet
-de l'offre afin de faire échouer cette offre. 
-
 " Art.L. 233-13-En fonction des informations reçues en application des articles L. 233-7 et L. 233-12, le rapport présenté
 aux actionnaires sur les opérations de l'exercice mentionne l'identité des personnes physiques ou morales détenant
 directement ou indirectement plus du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, du tiers, de la
@@ -28390,9 +28455,9 @@ le rapport des commissaires aux comptes."
 " Art.L. 233-14-A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux I et II de l'article L. 233-7,
 les actions excédant la fraction qui aurait dû être déclarée, lorsqu'elles sont admises aux négociations sur un marché
 réglementé d'un Etat partie à l'accord sur l'Espace économique européen ou sur un marché d'instruments financiers admettant
-aux négociations des actions pouvant être inscrites en compte chez un intermédiaire habilité dans les conditions prévues à
-l'article L. 211-4 du code monétaire et financier, sont privées du droit de vote pour toute assemblée d'actionnaires qui se
-tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la date de régularisation de la notification.
+aux négociations des actions pouvant être inscrites en compte chez un intermédiaire mentionné à l'article L. 211-3 du code
+monétaire et financier, sont privées du droit de vote pour toute assemblée d'actionnaires qui se tiendrait jusqu'à
+l'expiration d'un délai de deux ans suivant la date de régularisation de la notification. 
 
 Dans les mêmes conditions, les droits de vote attachés à ces actions et qui n'ont pas été régulièrement déclarés ne peuvent
 être exercés ou délégués par l'actionnaire défaillant.
@@ -28400,7 +28465,7 @@ Dans les mêmes conditions, les droits de vote attachés à ces actions et qui n
 L'actionnaire qui n'aurait pas procédé à la déclaration prévue au VII de l'article L. 233-7 est privé des droits de vote
 attachés aux titres excédant la fraction du dixième ou du cinquième mentionnée au même alinéa pour toute assemblée
 d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la date de régularisation de la
-notification.
+notification. 
 
 Le tribunal de commerce dans le ressort duquel la société a son siège social peut, le ministère public entendu, sur demande
 du président de la société, d'un actionnaire ou de l'Autorité des marchés financiers, prononcer la suspension totale ou
@@ -28417,7 +28482,7 @@ général de l'Autorité des marchés financiers."
 
 	**Modifié par**:
 
-	  - Loi n°2007-1774 du 17 décembre 2007 - art. 10
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 7
 
 	**Cite**:
 
@@ -28510,10 +28575,10 @@ propres titres de capital informe préalablement le marché.
 
 ###### Article L452-1
 
-Les associations régulièrement déclarées ayant pour objet statutaire explicite la défense des investisseurs en valeurs
-mobilières ou en produits financiers peuvent agir en justice devant toutes les juridictions même par voie de constitution de
+Les associations régulièrement déclarées ayant pour objet statutaire explicite la défense des investisseurs en titres
+financiers ou en produits financiers peuvent agir en justice devant toutes les juridictions même par voie de constitution de
 partie civile, relativement aux faits portant un préjudice direct ou indirect à l'intérêt collectif des investisseurs ou de
-certaines catégories d'entre eux.
+certaines catégories d'entre eux. 
 
 Ces associations sont :
 
@@ -28523,12 +28588,12 @@ membres cotisant individuellement et lorsque leurs dirigeants remplissent des co
 fixées par décret ;
 
 - les associations qui répondent aux critères de détention de droits de vote définis par l'article L. 225-120 du code de
-commerce si elles ont communiqué leurs statuts à l'Autorité des marchés financiers.
+commerce si elles ont communiqué leurs statuts à l'Autorité des marchés financiers. 
 
 Lorsqu'une pratique contraire aux dispositions législatives ou réglementaires est de nature à porter atteinte aux droits des
 épargnants, les associations d'actionnaires mentionnées au premier alinéa peuvent demander en justice qu'il soit ordonné à la
 personne qui en est responsable de se conformer à ces dispositions, de mettre fin à l'irrégularité ou d'en supprimer les
-effets.
+effets. 
 
 La demande est portée devant le président du tribunal de grande instance du siège social de la société en cause, qui statue
 en la forme des référés et dont la décision est exécutoire par provision. Le président du tribunal est compétent pour
@@ -28554,11 +28619,11 @@ l'exécution de son ordonnance, une astreinte versée au Trésor public.
 
 	**Modifié par**:
 
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-120 (M)
+	  - Code de commerce - art. L225-120
 
 
 ###### Article L452-2
@@ -29591,41 +29656,41 @@ personnes morales mentionnées à l'article L. 313-21-1 pour la délivrance des 
 
 ###### Article L511-7
 
-I. - Les interdictions définies à l'article L. 511-5 ne font pas obstacle à ce qu'une entreprise, quelle que soit sa nature,
-puisse :
+I.-Les interdictions définies à l'article L. 511-5 ne font pas obstacle à ce qu'une entreprise, quelle que soit sa nature,
+puisse : 
 
-1. Dans l'exercice de son activité professionnelle consentir à ses contractants des délais ou avances de paiement ;
+1. Dans l'exercice de son activité professionnelle consentir à ses contractants des délais ou avances de paiement ; 
 
-2. Conclure des contrats de location de logements assortis d'une option d'achat ;
+2. Conclure des contrats de location de logements assortis d'une option d'achat ; 
 
 3. Procéder à des opérations de trésorerie avec des sociétés ayant avec elle, directement ou indirectement, des liens de
-capital conférant à l'une des entreprises liées un pouvoir de contrôle effectif sur les autres ;
+capital conférant à l'une des entreprises liées un pouvoir de contrôle effectif sur les autres ; 
 
-4. Emettre des valeurs mobilières ainsi que des titres de créances négociables ;
+4. Emettre des titres financiers ; 
 
-5. Emettre des bons et cartes délivrés pour l'achat auprès d'elle, d'un bien ou d'un service déterminé ;
+5. Emettre des bons et cartes délivrés pour l'achat auprès d'elle, d'un bien ou d'un service déterminé ; 
 
 6. Remettre des espèces en garantie d'une opération sur instruments financiers ou d'une opération de prêt de titres régies
-par les dispositions de l'article L. 431-7 ;
+par les dispositions des articles L. 211-36 et L. 211-36-1 ; 
 
-7. Prendre ou mettre en pension des instruments financiers et effets publics visés à l'article L. 432-12.
+7. Prendre ou mettre en pension des instruments financiers et effets publics mentionnés aux articles L. 211-27 et L. 211-34. 
 
-II. - Le Comité des établissements de crédit et des entreprises d'investissement peut exempter d'agrément une entreprise
+II.-Le Comité des établissements de crédit et des entreprises d'investissement peut exempter d'agrément une entreprise
 exerçant toute activité de mise à disposition ou de gestion de moyens de paiement lorsque ceux-ci ne sont acceptés que par
 des sociétés qui sont liées à cette entreprise au sens du 3 du I ou par un nombre limité d'entreprises qui se distinguent
 clairement par le fait qu'elles se trouvent dans les mêmes locaux ou dans une zone géographique restreinte ou par leur
 étroite relation financière ou commerciale avec l'établissement émetteur, notamment sous la forme d'un dispositif de
-commercialisation ou de distribution commun.
+commercialisation ou de distribution commun. 
 
 Pour accorder l'exemption, le Comité des établissements de crédit et des entreprises d'investissement doit notamment prendre
 en compte la sécurité des moyens de paiement, les modalités retenues pour assurer la protection des utilisateurs, le montant
-unitaire et les modalités de chaque transaction.
+unitaire et les modalités de chaque transaction. 
 
 Lorsque l'entreprise bénéficiaire de l'exemption gère ou met à disposition des moyens de paiement sous forme de monnaie
-électronique :
+électronique : 
 
 1° La capacité maximale de chargement du support électronique mis à la disposition des porteurs à des fins de paiement ne
-peut excéder un montant fixé par arrêté du ministre chargé de l'économie ;
+peut excéder un montant fixé par arrêté du ministre chargé de l'économie ; 
 
 2° Un rapport d'activité, dont le contenu est fixé par arrêté du ministre chargé de l'économie, est fourni annuellement à la
 Banque de France.
@@ -29640,10 +29705,6 @@ Banque de France.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 70 1° JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 12 (VD)
@@ -29656,11 +29717,15 @@ Banque de France.
 	  - Code monétaire et financier - art. L562-1 (V)
 	  - Code monétaire et financier - art. L712-5 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 4
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L431-7 (M)
-	  - Code monétaire et financier - art. L432-12 (M)
-	  - Code monétaire et financier - art. L511-5 (V)
+	  - Code monétaire et financier - art. L211-34
+	  - Code monétaire et financier - art. L211-36
+	  - Code monétaire et financier - art. L511-5
 
 
 ###### Article L511-8
@@ -35085,9 +35150,9 @@ III.-Nonobstant toutes dispositions ou stipulations contraires, les sociétés d
 conformément aux articles L. 313-23 à L. 313-34, l'ensemble des créances qu'elles détiennent, quelle que soit la nature,
 professionnelle ou non, de ces créances. Dans ce cas, les énonciations figurant au bordereau mentionné à l'article L. 313-23
 sont déterminées par décret. Les sociétés de crédit foncier peuvent également procéder à des cessions temporaires de leurs
-titres dans les conditions fixées aux articles L. 432-6 à L. 432-19 et recourir à la constitution en gage d'un compte
-d'instruments financiers définie à l'article L. 431-4. Les créances ou titres ainsi mobilisés ou cédés ne sont pas
-comptabilisés par ces sociétés au titre de l'article L. 515-20. 
+titres dans les conditions fixées aux articles L. 211-22 à L. 211-34 et recourir au nantissement d'un compte-titres défini à
+l'article L. 211-20. Les créances ou titres ainsi mobilisés ou cédés ne sont pas comptabilisés par ces sociétés au titre de
+l'article L. 515-20. 
 
 IV.-Les sociétés de crédit foncier peuvent acquérir et posséder tous biens immeubles ou meubles nécessaires à
 l'accomplissement de leur objet ou provenant du recouvrement de leurs créances.
@@ -35133,13 +35198,15 @@ V.-Les sociétés de crédit foncier ne peuvent détenir de participations.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 157
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 4
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L211-20
+	  - Code monétaire et financier - art. L211-22
 	  - Code monétaire et financier - art. L313-23
 	  - Code monétaire et financier - art. L313-42
-	  - Code monétaire et financier - art. L431-4 (V)
+	  - Code monétaire et financier - art. L431-4
 	  - Code monétaire et financier - art. L432-6
 	  - Code monétaire et financier - art. L515-20
 
@@ -36848,12 +36915,7 @@ Elle est organisée par décret en Conseil d'Etat, pris sur la proposition de la
 
 ###### Article L518-2-1
 
-La Caisse des dépôts et consignations peut émettre les titres de créance visés au 2 du I de l'article L. 211-1.
-
-**Nota:**
-
-Loi 2005-842 2005-07-26 art. 28 I : Une anomalie s'est glissée lors de la rédaction de l'article 28 de la loi n° 2005-842 :
-Lire code monétaire et financier et non code de commerce.
+La Caisse des dépôts et consignations peut émettre les titres de créance visés au 2 du II de l'article L. 211-1.
 
 **Liens relatifs à cet article**
 
@@ -36861,17 +36923,13 @@ Lire code monétaire et financier et non code de commerce.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
-
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 28 () JORF 27 juillet 2005
-
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 18 () JORF 16 décembre 2005
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 4
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-1 (M)
+	  - Code monétaire et financier - art. L211-1
 
 
 ###### Article L518-3
@@ -37328,19 +37386,18 @@ règlements fixant le statut de l'établissement.
 
 ###### Article L518-17
 
-La Caisse des dépôts et consignations est chargée de recevoir les consignations de toute nature, en numéraire ou en valeurs
-mobilières, prévues par une disposition législative ou réglementaire ou ordonnées soit par une décision de justice soit par
+La Caisse des dépôts et consignations est chargée de recevoir les consignations de toute nature, en numéraire ou en titres
+financiers, prévues par une disposition législative ou réglementaire ou ordonnées soit par une décision de justice soit par
 une décision administrative.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 4
 
 	**Anciens textes**:
 
-	  - Loi n°1875-07-28 art. 1
 	  - Ordonnance n°1816-07-03 du 3 juillet 1816 - art. 1 (Ab)
 
 
@@ -37397,35 +37454,35 @@ décernées en matière d'enregistrement, et la procédure est communiquée aux 
 
 ###### Article L518-21
 
-Tous les frais et risques relatifs à la garde, conservation et mouvement des fonds et des valeurs mobilières consignés sont à
-la charge de la caisse des dépôts et consignations. Les valeurs mobilières consignées ne donnent lieu à aucun droit de garde.
+Tous les frais et risques relatifs à la garde, conservation et mouvement des fonds et des titres financiers consignés sont à
+la charge de la caisse des dépôts et consignations. Les titres financiers consignés ne donnent lieu à aucun droit de garde.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 1816-07-03 art. 13
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 4
 
 
 ###### Article L518-22
 
 Les sommes encaissées à titre d'arrérages, intérêts, dividendes, produits de remboursements ou négociations et autres
-produits quelconques de valeurs mobilières consignées ne donnent droit à aucune liquidation ni à aucun paiement d'intérêts à
-la charge de la caisse des dépôts et consignations, quelle que soit la date de leur encaissement.
+produits quelconques de titres financiers consignés ne donnent droit à aucune liquidation ni à aucun paiement d'intérêts à la
+charge de la caisse des dépôts et consignations, quelle que soit la date de leur encaissement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°55-359 du 3 avril 1955 - art. 25, v. init.
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 4
 
 
 ##### Paragraphe 2 : Rémunération des dépôts et des consignations
@@ -37484,7 +37541,7 @@ Les sommes atteintes par la déchéance sont versées annuellement au Trésor pu
 En aucun cas, la caisse des dépôts et consignations ne peut être tenue de payer plus de trente années d'intérêts, à moins
 qu'avant l'expiration de trente ans il n'ait été formé contre la caisse une demande en justice reconnue fondée. 
 
-Les dispositions qui précèdent sont applicables aux valeurs mobilières déposées à quelque titre que ce soit à la caisse des
+Les dispositions qui précèdent sont applicables aux titres financiers déposés à quelque titre que ce soit à la caisse des
 dépôts et consignations.
 
 **Liens relatifs à cet article**
@@ -37503,12 +37560,13 @@ dépôts et consignations.
 
 	**Modifié par**:
 
-	  - Loi n°2008-561 du 17 juin 2008 - art. 22
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 4
 
 	**Cite**:
 
 	  - Code civil - art. 2241
 	  - Code civil - art. 2244
+	  - Ordonnance du 3 juillet 1816 - art. 15 (Ab)
 
 
 ##### Section 3 : La Poste
@@ -39506,10 +39564,11 @@ Dans la limite des services qu'elle est autorisée à fournir sur le territoire 
 l'agrément qu'elle y a reçu, toute personne morale ou physique agréée pour fournir des services d'investissement peut, sans
 préjudice des dispositions des articles L. 511-21 à L. 511-26, fournir des services d'investissement et des services connexes
 en libre prestation de services sur le territoire de la France métropolitaine et des départements d'outre-mer de Saint-
-Barthélemy et de Saint-Martin.
+Barthélemy et de Saint-Martin. 
 
-Pour l'application des articles L. 213-3, L. 421-17 à L. 421-19, L. 431-7, L. 531-10, L. 621-17-2 à L. 621-17-7 et L.
-621-18-1, les personnes mentionnées à l'alinéa précédent sont assimilées à des prestataires de services d'investissement.
+Pour l'application des articles L. 213-3, 
+L. 421-17 à L. 421-19, L. 211-36, L. 211-36-1, L. 531-10, L. 621-17-2 à L. 621-17-7 et L. 621-18-1, les personnes mentionnées
+à l'alinéa précédent sont assimilées à des prestataires de services d'investissement.
 
 **Liens relatifs à cet article**
 
@@ -39546,14 +39605,15 @@ Pour l'application des articles L. 213-3, L. 421-17 à L. 421-19, L. 431-7, L. 5
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 4
 
 	**Cite**:
 
-	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L211-36
 	  - Code monétaire et financier - art. L213-3
-	  - Code monétaire et financier - art. L431-7
-	  - Code monétaire et financier - art. L621-18-1
+	  - Code monétaire et financier - art. L421-17
+	  - Code monétaire et financier - art. L511-21
+	  - Code monétaire et financier - art. L621-17-2
 
 
 ###### Article L532-18-1
@@ -39562,11 +39622,11 @@ Dans la limite des services qu'elle est autorisée à fournir sur le territoire 
 l'agrément qu'elle y a reçu, toute personne morale ou physique agréée pour fournir des services d'investissement peut, sans
 préjudice des dispositions des articles L. 511-21 à L. 511-28, établir des succursales pour fournir des services
 d'investissement et des services connexes sur le territoire de la France métropolitaine et des départements d'outre-mer de
-Saint-Barthélemy et de Saint-Martin.
+Saint-Barthélemy et de Saint-Martin. 
 
-Pour l'application des articles L. 213-3, L. 421-17 à L. 421-19, L. 431-7, L. 432-20, L. 531-10, du 5 de l'article L. 533-10,
-des articles L. 621-17-2 à L. 621-17-7 et L. 621-18-1, les personnes mentionnées à l'alinéa précédent sont assimilées à des
-prestataires de services d'investissement.
+Pour l'application des articles L. 213-3, L. 421-17 à L. 421-19, L. 211-36, L. 211-36-1, L. 211-35, L. 531-10, du 5 de
+l'article L. 533-10, des articles L. 621-17-2 à L. 621-17-7 et L. 621-18-1, les personnes mentionnées à l'alinéa précédent
+sont assimilées à des prestataires de services d'investissement. 
 
 Lorsqu'un prestataire de services d'investissement ayant son siège social dans un autre Etat membre recourt à des agents liés
 mentionnés à l'article L. 545-1, établis sur le territoire de la France métropolitaine et des départements d'outre-mer de
@@ -39580,7 +39640,7 @@ Saint-Barthélemy et de Saint-Martin, ces agents sont assimilés à une succursa
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 4
 
 	**Cité par**:
 
@@ -39605,12 +39665,13 @@ Saint-Barthélemy et de Saint-Martin, ces agents sont assimilés à une succursa
 
 	**Cite**:
 
-	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L211-36
 	  - Code monétaire et financier - art. L213-3
-	  - Code monétaire et financier - art. L431-7
-	  - Code monétaire et financier - art. L432-20
+	  - Code monétaire et financier - art. L421-17
+	  - Code monétaire et financier - art. L511-21
 	  - Code monétaire et financier - art. L533-10
-	  - Code monétaire et financier - art. L621-18-1
+	  - Code monétaire et financier - art. L545-1
+	  - Code monétaire et financier - art. L621-17-2
 
 
 ###### Article L532-18-2
@@ -41362,27 +41423,27 @@ registre.
 
 ###### Article L542-1
 
-Seuls peuvent exercer les activités de conservation ou d'administration d'instruments financiers :
+Seuls peuvent exercer les activités de tenue de compte-conservation d'instruments financiers : 
 
-1° Les personnes morales au titre des instruments financiers qu'elles émettent par appel public à l'épargne ;
+1° Les personnes morales au titre des instruments financiers qu'elles émettent par appel public à l'épargne ; 
 
-2° Les établissements de crédit établis en France ;
+2° Les établissements de crédit établis en France ; 
 
-3° Les entreprises d'investissement établies en France ;
+3° Les entreprises d'investissement établies en France ; 
 
 4° Les personnes morales dont les membres ou associés sont indéfiniment et solidairement responsables des dettes et
 engagements, à condition que ces membres ou associés soient des établissements ou entreprises mentionnées aux 2° et 3°
-habilités en vue de l'administration ou de la conservation d'instruments financiers ;
+habilités en vue de l'administration ou de la conservation d'instruments financiers ; 
 
 5° Les personnes morales établies en France ayant pour objet principal ou unique l'activité de conservation ou
 d'administration d'instruments financiers, ainsi que celles ayant pour objet exclusif d'administrer une ou plusieurs
-institutions de retraite professionnelle collective ;
+institutions de retraite professionnelle collective ; 
 
-6° Les institutions mentionnées à l'article L. 518-1 ;
+6° Les institutions mentionnées à l'article L. 518-1 ; 
 
 7° Dans des conditions fixées par le règlement général de l'Autorité des marchés financiers, les établissements de crédit,
 les entreprises d'investissement et les personnes morales ayant pour objet principal ou unique l'activité de conservation ou
-d'administration d'instruments financiers qui ne sont pas établis en France.
+d'administration d'instruments financiers qui ne sont pas établis en France. 
 
 Les personnes mentionnées au 1° sont soumises, pour leur activité d'administration ou de conservation d'instruments
 financiers, au pouvoir de contrôle et de sanction de l'Autorité des marchés financiers. Les personnes mentionnées aux 2° à 5°
@@ -41390,7 +41451,7 @@ sont soumises, pour leur activité d'administration ou de conservation d'instrum
 et réglementaires et aux règles de contrôle et de sanction fixées par le présent code pour les prestataires de services
 d'investissement. Les personnes mentionnées aux 2° et 3° font l'objet, pour leur activité d'administration ou de conservation
 d'instruments financiers, d'une habilitation délivrée dans le cadre de leur agrément. Les personnes mentionnées au 5° sont
-soumises aux règles d'agrément fixées par le présent code pour les entreprises d'investissement.
+soumises aux règles d'agrément fixées par le présent code pour les entreprises d'investissement. 
 
 Les personnes mentionnées au 7° doivent être soumises dans leur Etat d'origine à des règles d'exercice de l'activité de
 conservation ou d'administration d'instruments financiers et de contrôle équivalentes à celles en vigueur en France.
@@ -41460,18 +41521,13 @@ autorités compétentes de chaque Etat.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cite**:
-
-	  - Directive 93-22 CE 1993-05-10
-	  - Directive 97-9 CE 1997-03-03
-	  - Code monétaire et financier - art. L518-1 (M)
-	  - Code du travail - art. L442-5 (M)
-	  - Code du travail - art. L443-1-1 (M)
-	  - Code du travail - art. L443-1-2 (M)
-
 	**Modifié par**:
 
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 64 (V) JORF 31 décembre 2006
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 4
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-1
 
 
 #### Chapitre III : Les sociétés de gestion d'organismes de placement collectif
@@ -46941,7 +46997,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 ###### Article L613-31
 
 Les dispositions relatives à la sauvegarde, au redressement et à la liquidation des établissements de crédit et des
-entreprises d'investissement prévues aux articles L. 613-25 à L. 613-30 et L. 211-6 ne sont pas applicables aux procédures
+entreprises d'investissement prévues aux articles L. 613-25 à L. 613-30 et L. 211-10 ne sont pas applicables aux procédures
 judiciaires ouvertes avant le 29 juin 1999.
 
 **Liens relatifs à cet article**
@@ -46952,12 +47008,12 @@ judiciaires ouvertes avant le 29 juin 1999.
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 5
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-6 (V)
-	  - Code monétaire et financier - art. L613-25 (V)
+	  - Code monétaire et financier - art. L211-10
+	  - Code monétaire et financier - art. L613-25
 
 
 ##### Sous-section 2 : Mesures d'assainissement et de liquidation des établissements de crédit communautaires
@@ -48125,65 +48181,65 @@ propriété des personnes publiques applicables aux établissements publics de l
 
 ###### Article L621-5-3
 
-I. - Il est institué un droit fixe dû par les personnes soumises au contrôle de l'Autorité des marchés financiers, lorsque la
-législation ou la réglementation le prévoit, dans les cas suivants :
+I.-Il est institué un droit fixe dû par les personnes soumises au contrôle de l'Autorité des marchés financiers, lorsque la
+législation ou la réglementation le prévoit, dans les cas suivants : 
 
 1° A l'occasion de la publication par l'Autorité des marchés financiers d'une déclaration faite par une personne agissant
 seule ou de concert en application des articles L. 233-7 ou L. 233-11 du code de commerce, le droit dû, fixé par décret, est
-supérieur à 500 euros et inférieur ou égal à 1 000 euros. Il est exigible le jour du dépôt du document ;
+supérieur à 500 euros et inférieur ou égal à 1 000 euros. Il est exigible le jour du dépôt du document ; 
 
 2° A l'occasion de l'examen de l'obligation de dépôt d'une offre publique, le droit dû, fixé par décret, est supérieur à 2
-000 euros et inférieur ou égal à 4 000 euros. Il est exigible le jour de la décision de l'Autorité des marchés financiers ;
+000 euros et inférieur ou égal à 4 000 euros. Il est exigible le jour de la décision de l'Autorité des marchés financiers ; 
 
 3° A l'occasion du contrôle d'un document de référence annuel ou du document de base soumis par une société dont les actions
 sont admises aux négociations sur un marché réglementé en application de l'article L. 621-18, le droit dû, fixé par décret,
-est supérieur à 500 euros et inférieur ou égal à 1 000 euros. Il est exigible le jour du dépôt du document ;
+est supérieur à 500 euros et inférieur ou égal à 1 000 euros. Il est exigible le jour du dépôt du document ; 
 
 4° A l'occasion d'une autorisation de commercialisation en France d'un organisme de placements collectifs soumis à la
 législation d'un Etat étranger ou d'un compartiment d'un tel organisme, le droit dû, fixé par décret, est supérieur à 1 000
 euros et inférieur ou égal à 2 000 euros. Il est exigible le jour du dépôt de la demande d'autorisation la première année et
-le 30 avril les années suivantes ;
+le 30 avril les années suivantes ; 
 
 5° A l'occasion de la soumission par un émetteur d'un document d'information sur un programme d'émission de titres de
 créances à l'enregistrement préalable de l'Autorité des marchés financiers en application de l'article L. 621-8 ou portant
-sur des instruments financiers à terme mentionnés au 4 du I de l'article L. 211-1, le droit dû, fixé par décret, est
-supérieur à 1 000 euros et inférieur ou égal à 2 000 euros. Il est exigible le jour du dépôt du document ;
+sur des instruments financiers à terme mentionnés au II de l'article L. 211-1, le droit dû, fixé par décret, est supérieur à
+1 000 euros et inférieur ou égal à 2 000 euros. Il est exigible le jour du dépôt du document ; 
 
 6° A l'occasion de l'émission de chaque tranche de warrants sur le fondement d'un document d'information soumis au visa
 préalable de l'Autorité des marchés financiers en application de l'article L. 621-8, le droit dû est fixé à 150 euros par
-tranche. Il est exigible le jour de l'émission ;
+tranche. Il est exigible le jour de l'émission ; 
 
 7° A l'occasion du dépôt auprès de l'Autorité des marchés financiers d'un document d'information ou d'un projet de contrat
 type relatif à un projet de placement en biens divers régi par les articles L. 550-1 à L. 550-5, le droit dû, fixé par
-décret, est supérieur à 6 000 euros et inférieur ou égal à 8 000 euros. Il est exigible le jour dudit dépôt.
+décret, est supérieur à 6 000 euros et inférieur ou égal à 8 000 euros. Il est exigible le jour dudit dépôt. 
 
-II. - Il est institué une contribution due par les personnes soumises au contrôle de l'Autorité des marchés financiers,
-lorsque la législation ou la réglementation le prévoit, dans les cas suivants :
+II.-Il est institué une contribution due par les personnes soumises au contrôle de l'Autorité des marchés financiers, lorsque
+la législation ou la réglementation le prévoit, dans les cas suivants : 
 
 1° A l'occasion d'une procédure d'offre publique d'acquisition, d'offre publique de retrait ou de garantie de cours, la
 contribution est la somme, d'une part, d'un droit fixé à 10 000 euros et, d'autre part, d'un montant égal à la valeur des
 instruments financiers achetés, échangés, présentés ou indemnisés, multipliée par un taux, fixé par décret, qui ne peut être
-supérieur à 0,30 pour mille lorsque l'opération est réalisée sur des titres donnant ou pouvant donner accès directement ou
-indirectement au capital ou aux droits de vote, et à 0,15 pour mille dans les autres cas.
+supérieur à 0, 30 pour mille lorsque l'opération est réalisée sur des titres donnant ou pouvant donner accès directement ou
+indirectement au capital ou aux droits de vote, et à 0, 15 pour mille dans les autres cas. 
 
 Cette contribution est exigible de tout initiateur d'une offre, quel qu'en soit le résultat, le jour de la publication des
-résultats de l'opération ;
+résultats de l'opération ; 
 
 2° A l'occasion de la soumission par un émetteur d'un document d'information sur une émission, une cession dans le public,
 une admission aux négociations sur un marché réglementé ou un rachat de titres au visa préalable de l'Autorité des marchés
 financiers en application de l'article L. 621-8, cette contribution est assise sur la valeur des instruments financiers lors
-de l'opération. Son taux, fixé par décret, ne peut être supérieur à 0,20 pour mille lorsque l'opération porte sur des titres
-donnant accès ou pouvant donner accès au capital et à 0,05 pour mille lorsque l'opération est réalisée sur des titres de
-créance.
+de l'opération. Son taux, fixé par décret, ne peut être supérieur à 0, 20 pour mille lorsque l'opération porte sur des titres
+donnant accès ou pouvant donner accès au capital et à 0, 05 pour mille lorsque l'opération est réalisée sur des titres de
+créance. 
 
-La même contribution est due en cas de rachat de titres dans le cadre du programme de rachat que l'émetteur met en oeuvre.
+La même contribution est due en cas de rachat de titres dans le cadre du programme de rachat que l'émetteur met en oeuvre. 
 
 Cette contribution est exigible le jour de la clôture de l'opération ou, dans le cas d'un rachat de titres, le jour de la
 publication du résultat de l'opération. Son montant ne peut être inférieur à 1 000 euros lorsque l'opération porte sur des
-titres donnant accès ou pouvant donner accès au capital, et ne peut être supérieur à 5 000 euros dans les autres cas ;
+titres donnant accès ou pouvant donner accès au capital, et ne peut être supérieur à 5 000 euros dans les autres cas ; 
 
 3° Dans le cadre du contrôle des personnes mentionnées aux 1° à 8° du II de l'article L. 621-9, cette contribution est
-calculée comme suit :
+calculée comme suit : 
 
 a) Pour les personnes mentionnées aux 1° et 2° du II de l'article L. 621-9, la contribution est fixée à un montant par
 service d'investissement pour lequel elles sont agréées autre que le service d'investissement mentionné au 4 de l'article L.
@@ -48191,29 +48247,29 @@ service d'investissement pour lequel elles sont agréées autre que le service d
 égal à 5 000 euros. Ce montant est multiplié par deux si les fonds propres de la personne concernée sont supérieurs à 45
 millions d'euros et inférieurs ou égaux à 75 millions d'euros, par trois s'ils sont supérieurs à 75 millions d'euros et
 inférieurs ou égaux à 150 millions d'euros, par quatre s'ils sont supérieurs à 150 millions d'euros et inférieurs ou égaux à
-750 millions d'euros, par six s'ils sont supérieurs à 750 millions d'euros et inférieurs ou égaux à 1,5 milliard d'euros et
-par huit s'ils sont supérieurs à 1,5 milliard d'euros ; la contribution due par l'ensemble des personnes relevant d'un même
+750 millions d'euros, par six s'ils sont supérieurs à 750 millions d'euros et inférieurs ou égaux à 1, 5 milliard d'euros et
+par huit s'ils sont supérieurs à 1, 5 milliard d'euros ; la contribution due par l'ensemble des personnes relevant d'un même
 groupe ou par l'ensemble constitué par les personnes affiliées à un organe central au sens de l'article L. 511-30 et par cet
-organe ne peut excéder un montant fixé par décret et supérieur à 250 000 Euros et inférieur ou égal à 1,5 million d'euros ;
+organe ne peut excéder un montant fixé par décret et supérieur à 250 000 Euros et inférieur ou égal à 1, 5 million d'euros ; 
 
 b) Pour les personnes mentionnées au 4° du II de l'article L. 621-9, la contribution est égale à un montant fixé par décret
-et supérieur à 500 euros et inférieur ou égal à 1 000 euros ;
+et supérieur à 500 euros et inférieur ou égal à 1 000 euros ; 
 
 c) Pour les personnes mentionnées aux 3°, 5° et 6° du II de l'article L. 621-9, la contribution est fixée à un montant égal à
 leur produit d'exploitation réalisé au cours de l'exercice précédent et déclaré au plus tard dans les trois mois suivant sa
-clôture, multiplié par un taux fixé par décret qui ne peut dépasser 0,9 % ;
+clôture, multiplié par un taux fixé par décret qui ne peut dépasser 0, 9 % ; 
 
 d) Pour les prestataires de services d'investissement habilités à exercer le service d'investissement mentionné au 4 de
 l'article L. 321-1 ainsi que pour les personnes mentionnées aux 7° et 8° du II de l'article L. 621-9, la contribution est
 fixée à un montant égal à l'encours des parts ou actions des organismes de placements collectifs et des entités
 d'investissement de droit étranger, et des actifs gérés sous mandat, quel que soit le pays où les actifs sont conservés ou
-inscrits en compte, multiplié par un taux fixé par décret qui ne peut excéder 0,015 pour mille sans pouvoir être inférieur à
-1 500 euros. Les encours sont calculés au 31 décembre de l'année précédente et déclarés au plus tard le 30 avril ;
+inscrits en compte, multiplié par un taux fixé par décret qui ne peut excéder 0, 015 pour mille sans pouvoir être inférieur à
+1 500 euros. Les encours sont calculés au 31 décembre de l'année précédente et déclarés au plus tard le 30 avril ; 
 
 4° Dans le cadre du contrôle des personnes mentionnées au 10° du II de l'article L. 621-9, cette contribution est égale à un
-montant fixé par décret et supérieur à 500 euros et inférieur ou égal à 1 000 euros.
+montant fixé par décret et supérieur à 500 euros et inférieur ou égal à 1 000 euros. 
 
-III. - Les décrets prévus par le présent article sont pris après avis du collège de l'Autorité des marchés financiers.
+III.-Les décrets prévus par le présent article sont pris après avis du collège de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -48252,19 +48308,16 @@ III. - Les décrets prévus par le présent article sont pris après avis du col
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 5 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 5
 
 	**Cite**:
 
-	  - Code de commerce. - art. L233-11 (M)
-	  - Code de commerce. - art. L233-7 (M)
-	  - Code monétaire et financier - art. L211-1 (M)
-	  - Code monétaire et financier - art. L321-1 (M)
-	  - Code monétaire et financier - art. L511-30 (M)
-	  - Code monétaire et financier - art. L621-18 (M)
-	  - Code monétaire et financier - art. L621-8 (M)
-	  - Code monétaire et financier - art. L621-9 (M)
-	  - Code monétaire et financier L621-18, L621-8, L211-1, L550-1 à L550-5, L621-9, L321-1, L511-30
+	  - Code de commerce - art. L233-7
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L550-1
+	  - Code monétaire et financier - art. L621-18
+	  - Code monétaire et financier - art. L621-8
+	  - Code monétaire et financier - art. L621-9
 
 
 ###### Article L621-5-4
@@ -98104,8 +98157,6 @@ l'identification du propriétaire des sommes, titres ou valeurs transférés.
 
 ##### Section unique : Les instruments financiers.
 
-##### Sous-section 1 : Inscription en compte.
-
 ##### Sous-section 1 : Définitions et règles générales
 
 ###### Article D742-1-1
@@ -99531,8 +99582,6 @@ l'identification du propriétaire des sommes, titres ou valeurs transférés.
 
 ##### Section 1 : Les instruments financiers
 
-##### Sous-section 1 : Inscription en compte.
-
 ##### Sous-section 1 : Définitions et règles générales
 
 ###### Article D752-1-1
@@ -100827,8 +100876,6 @@ l'identification du propriétaire des sommes, titres ou valeurs transférés.
 #### Chapitre II : Les produits
 
 ##### Section 1 : Les instruments financiers
-
-##### Sous-section 1 : Inscription en compte.
 
 ##### Sous-section 1 : Définitions et règles générales
 
