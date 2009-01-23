@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-01-10
+Version Consolidée au 2009-01-24
 
 # Partie législative
 
@@ -6731,7 +6731,7 @@ sur une liste fixée par décret.
 	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
 
-##### Section 2 : Règles générales applicables aux valeurs mobilières.
+##### Section 2 : Les titres financiers
 
 ##### Sous-section 1 : Conditions d'émission
 
@@ -7106,12 +7106,6 @@ ayants droit.
 
 	  - Code monétaire et financier - art. L211-3
 
-
-##### Section 2 : Les titres financiers
-
-##### Sous-section 1 : Conditions d'émission
-
-##### Sous-section 2 : Inscription en compte
 
 ##### Sous-section 3 : Transmission 
 
@@ -8058,9 +8052,28 @@ représentatifs d'un placement financier dans une entité émis sur le fondement
 	  - Code monétaire et financier - art. L211-1
 
 
-#### Chapitre II : Titres de capital et titres donnant accès au capital.
+#### Chapitre II : Titres de capital
 
-##### Section 1 : Les titres de capital
+###### Article L212-1 A
+
+Les titres de capital émis par les sociétés par actions comprennent les actions et les autres titres donnant ou pouvant
+donner accès au capital ou aux droits de vote.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 7 février 2012 - art. 1 (V)
+	  - Code général des impôts, CGI. - art. 235 ter ZD (VT)
+	  - Code général des impôts, CGI. - art. 235 ter ZD bis (VD)
+	  - Code monétaire et financier - art. L762-1 (VT)
+
+
+##### Section 1 : Les actions
 
 ##### Sous-section 1 : Actions de numéraire et d'apport
 
@@ -8371,7 +8384,41 @@ l'offre ou de la demande de retrait. Le montant de l'indemnisation revenant aux 
 	  - Code monétaire et financier - art. L212-6-3 (V)
 
 
-##### Section 2 : Les titres donnant accès au capital
+##### Section 2 : Les autres titres donnant ou pouvant donner accès au capital ou aux droits de vote
+
+###### Article L212-7
+
+Les règles relatives à l'émission de titres donnant accès au capital et aux titulaires de ces titres sont fixées par les
+articles L. 228-91 à L. 228-106 du code de commerce relatifs aux valeurs mobilières donnant accès au capital.
+
+**Nota:**
+
+Les articles L. 228-94 et L. 228-96 du code de commerce sont abrogés par l'article 51 VII de l'ordonnance n° 2004-604 du 24
+juin 2004.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L228-91 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce L225-150 à L225-158
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L451-1-2 (V)
+	  - Code monétaire et financier - art. L621-8 (VD)
+
 
 ##### Section 3 : Régimes particuliers d'accès au capital en faveur du personnel salarié
 
@@ -8481,76 +8528,29 @@ prévues à l'article 163 bis G du code général des impôts.
 	  - Code général des impôts, CGI. - art. 163 bis G (V)
 
 
-#### Chapitre II : Titres de capital
+#### Chapitre III : Titres de créance
 
-###### Article L212-1 A
+###### Article L213-1 A
 
-Les titres de capital émis par les sociétés par actions comprennent les actions et les autres titres donnant ou pouvant
-donner accès au capital ou aux droits de vote.
+Les titres de créance représentent chacun un droit de créance sur la personne morale ou le fonds commun de titrisation qui
+les émet.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 31 décembre 1998 - art. 3 (V)
+	  - Arrêté du 12 novembre 2004 - art. 238-2-1 (V)
+	  - Arrêté du 16 février 2005 - art. 7 (V)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 60 (V)
+	  - Code monétaire et financier - art. D213-1-A (VD)
+	  - Code monétaire et financier - art. D213-7 (V)
+	  - Code monétaire et financier - art. L762-1 (VT)
 
 	**Créé par**:
 
 	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
 
-	**Cité par**:
-
-	  - Arrêté du 7 février 2012 - art. 1 (V)
-	  - Code général des impôts, CGI. - art. 235 ter ZD (VT)
-	  - Code général des impôts, CGI. - art. 235 ter ZD bis (VD)
-	  - Code monétaire et financier - art. L762-1 (VT)
-
-
-##### Section 1 : Les actions
-
-##### Sous-section 1 : Actions de numéraire et d'apport
-
-##### Sous-section 2 : Actions à forme nominative obligatoire
-
-##### Sous-section 3 : Actions de préférence
-
-##### Sous-section 4 : Dispositions applicables aux catégories de titres en voie d'extinction
-
-##### Section 2 : Les autres titres donnant ou pouvant donner accès au capital ou aux droits de vote
-
-###### Article L212-7
-
-Les règles relatives à l'émission de titres donnant accès au capital et aux titulaires de ces titres sont fixées par les
-articles L. 228-91 à L. 228-106 du code de commerce relatifs aux valeurs mobilières donnant accès au capital.
-
-**Nota:**
-
-Les articles L. 228-94 et L. 228-96 du code de commerce sont abrogés par l'article 51 VII de l'ordonnance n° 2004-604 du 24
-juin 2004.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce - art. L228-91 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce L225-150 à L225-158
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L451-1-2 (V)
-	  - Code monétaire et financier - art. L621-8 (VD)
-
-
-##### Section 3 : Régimes particuliers d'accès au capital en faveur du personnel salarié
-
-#### Chapitre III : Titres de créances.
 
 ##### Section 1 : Les titres de créances négociables
 
@@ -9607,38 +9607,6 @@ banques mutualistes ou coopératives et les établissements publics à caractèr
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-
-#### Chapitre III : Titres de créance
-
-###### Article L213-1 A
-
-Les titres de créance représentent chacun un droit de créance sur la personne morale ou le fonds commun de titrisation qui
-les émet.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 31 décembre 1998 - art. 3 (V)
-	  - Arrêté du 12 novembre 2004 - art. 238-2-1 (V)
-	  - Arrêté du 16 février 2005 - art. 7 (V)
-	  - Loi n°2016-1691 du 9 décembre 2016 - art. 60 (V)
-	  - Code monétaire et financier - art. D213-1-A (VD)
-	  - Code monétaire et financier - art. D213-7 (V)
-	  - Code monétaire et financier - art. L762-1 (VT)
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
-
-
-##### Section 1 : Les titres de créances négociables
-
-##### Section 2 : Les obligations
-
-##### Section 3 : Les titres émis par l'Etat
-
-##### Section 4 : Les titres participatifs
 
 #### Chapitre IV : Placements collectifs
 
@@ -14347,26 +14315,25 @@ décisions sont prises par voie de consultation écrite des associés.
 ###### Article L214-78
 
 A la clôture de chaque exercice, les dirigeants de la société de gestion dressent l'inventaire des divers éléments de l'actif
-et du passif existant à cette date.
+et du passif existant à cette date. 
 
-Ils dressent également les comptes annuels et établissent un rapport de gestion écrit.
+Ils dressent également les comptes annuels et établissent un rapport de gestion écrit. 
 
-Ils sont tenus d'appliquer le plan comptable général adapté, suivant les modalités qui seront fixées par un règlement du
-comité de la réglementation comptable, aux besoins et aux moyens desdites sociétés, compte tenu de la nature de leur
-activité.
+Ils sont tenus d'appliquer le plan comptable général adapté, suivant les modalités qui seront fixées par un règlement de
+l'Autorité des normes comptables, aux besoins et aux moyens desdites sociétés, compte tenu de la nature de leur activité. 
 
 Le rapport de gestion expose la situation de la société durant l'exercice écoulé, son évolution prévisible, ainsi que les
-événements importants intervenus entre la date de la clôture de l'exercice et la date à laquelle il est établi.
+événements importants intervenus entre la date de la clôture de l'exercice et la date à laquelle il est établi. 
 
 Les dirigeants de la société de gestion mentionnent dans un état annexe au rapport de gestion la valeur comptable, la valeur
 de réalisation et la valeur de reconstitution de la société civile qu'ils gèrent. La valeur de réalisation est égale à la
 somme de la valeur vénale des immeubles et de la valeur nette des autres actifs de la société. La valeur de reconstitution de
 la société est égale à la valeur de réalisation augmentée du montant des frais afférents à une reconstitution de son
-patrimoine.
+patrimoine. 
 
 Ces valeurs font l'objet de résolutions soumises à l'approbation de l'assemblée générale. En cours d'exercice, et en cas de
 nécessité, le conseil de surveillance prévu à l'article L. 214-70 peut autoriser la modification de ces valeurs, sur rapport
-motivé de la société de gestion.
+motivé de la société de gestion. 
 
 Les documents mentionnés au présent article sont mis à la disposition des commissaires aux comptes dans des conditions
 déterminées par décret.
@@ -14375,12 +14342,15 @@ déterminées par décret.
 
 	**Anciens textes**:
 
-	  - Loi n°70-1300 du 31 décembre 1970 - art. 11 (M)
 	  - Loi n°70-1300 du 31 décembre 1970 - art. 11 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 	**Cité par**:
 
@@ -14390,7 +14360,7 @@ déterminées par décret.
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-70 (V)
+	  - Code monétaire et financier - art. L214-70
 
 
 ###### Article L214-79
@@ -31323,7 +31293,7 @@ l'informatique, aux fichiers et aux libertés.
 ###### Article L511-35
 
 Les dispositions des articles L. 232-1 et L. 232-6 du code de commerce sont applicables à tous les établissements de crédit
-et entreprises d'investissement dans des conditions fixées par le comité de la réglementation comptable après avis du Comité
+et entreprises d'investissement dans des conditions fixées par l'Autorité des normes comptables après avis du Comité
 consultatif de la législation et de la réglementation financières.
 
 **Liens relatifs à cet article**
@@ -31335,10 +31305,6 @@ consultatif de la législation et de la réglementation financières.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -31355,12 +31321,16 @@ consultatif de la législation et de la réglementation financières.
 	  - Code monétaire et financier - art. L745-1-1 (VT)
 	  - Code monétaire et financier - art. L755-1-1 (VT)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
+
 
 ###### Article L511-36
 
 Lorsqu'ils établissent leurs comptes sous une forme consolidée, les établissements de crédit le font selon les règles
-définies par règlement du Comité de la réglementation comptable pris après avis du Comité consultatif de la législation et de
-la réglementation financières. Toutefois, ils sont dispensés de se conformer à ces règles lorsqu'ils utilisent les normes
+définies par règlement de l'Autorité des normes comptables pris après avis du Comité consultatif de la législation et de la
+réglementation financières. Toutefois, ils sont dispensés de se conformer à ces règles lorsqu'ils utilisent les normes
 comptables internationales adoptées par règlement de la Commission européenne.
 
 **Liens relatifs à cet article**
@@ -31372,10 +31342,6 @@ comptables internationales adoptées par règlement de la Commission européenne
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 2 (V) JORF 29 juillet 2005
 
 	**Cité par**:
 
@@ -31390,17 +31356,20 @@ comptables internationales adoptées par règlement de la Commission européenne
 	  - Code monétaire et financier - art. L755-1-1 (VT)
 	  - Code monétaire et financier - art. L765-1-1 (VT)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
+
 
 ###### Article L511-37
 
 Tout établissement de crédit, entreprise d'investissement, autre qu'une société de gestion de portefeuille, ou adhérent aux
 chambres de compensation mentionné au 3 de l'article L. 440-2 doit publier ses comptes annuels dans des conditions fixées par
-le comité de la réglementation comptable après avis du Comité consultatif de la législation et de la réglementation
-financières.
+l'Autorité des normes comptables après avis du Comité consultatif de la législation et de la réglementation financières. 
 
 La commission bancaire s'assure que les publications prévues au présent article sont régulièrement effectuées. Elle peut
 ordonner aux personnes mentionnées à l'alinéa précédent de procéder à des publications rectificatives dans le cas où des
-inexactitudes ou des omissions auraient été relevées dans les documents publiés.
+inexactitudes ou des omissions auraient été relevées dans les documents publiés. 
 
 Elle peut porter à la connaissance du public toutes informations qu'elle estime nécessaires.
 
@@ -31414,10 +31383,6 @@ Elle peut porter à la connaissance du public toutes informations qu'elle estime
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 4 () JORF 19 octobre 2007 en vigueur le 1er novembre 2007
-
 	**Cité par**:
 
 	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
@@ -31425,9 +31390,13 @@ Elle peut porter à la connaissance du public toutes informations qu'elle estime
 	  - Code monétaire et financier - art. L533-2 (M)
 	  - Code monétaire et financier - art. L571-8 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L440-2 (V)
+	  - Code monétaire et financier - art. L440-2
 
 
 ##### Sous-section 2 : Commissaires aux comptes
@@ -31441,14 +31410,14 @@ justifie, procéder à la désignation d'un commissaire aux comptes supplémenta
 représenter ou appartenir à des cabinets ayant entre eux des liens de nature juridique, professionnelle, de capital ou
 organisationnelle. Ils exercent leur activité dans des conditions prévues par le livre VIII du code de commerce et procèdent
 à la certification des comptes annuels. Ils vérifient la sincérité des informations destinées au public, et leur concordance
-avec lesdits comptes.
+avec lesdits comptes. 
 
 Toutefois, lorsque le total du bilan d'un établissement de crédit ou d'une entreprise d'investissement est inférieur à un
-seuil fixé par le comité de la réglementation comptable après avis du Comité consultatif de la législation et de la
-réglementation financières, la certification mentionnée à l'alinéa précédent peut être exercée par un seul commissaire aux
-comptes. Lorsque cette condition est remplie, et que l'établissement est soumis soit aux règles de la comptabilité publique,
-soit à un régime spécifique d'approbation de ses comptes présentant des garanties jugées suffisantes par la commission
-bancaire, celle-ci peut décider de lever l'obligation de certification mentionnée à l'alinéa précédent.
+seuil fixé par l'Autorité des normes comptables après avis du Comité consultatif de la législation et de la réglementation
+financières, la certification mentionnée à l'alinéa précédent peut être exercée par un seul commissaire aux comptes. Lorsque
+cette condition est remplie, et que l'établissement est soumis soit aux règles de la comptabilité publique, soit à un régime
+spécifique d'approbation de ses comptes présentant des garanties jugées suffisantes par la commission bancaire, celle-ci peut
+décider de lever l'obligation de certification mentionnée à l'alinéa précédent. 
 
 Les commissaires aux comptes doivent présenter toutes les garanties d'indépendance à l'égard des établissements de crédit,
 des entreprises d'investissement ou des compagnies financières contrôlés. Les dispositions du livre VIII du code de commerce
@@ -31467,7 +31436,7 @@ financière.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 21 ()
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 	**Cité par**:
 
@@ -36748,9 +36717,9 @@ réglementaires qui les régissent.
 
 Les arrêtés du ministre chargé de l'économie pris en application des articles L. 611-1, 
 L. 611-3, 
-L. 611-4 ainsi que les règlements du comité de la réglementation comptable peuvent, sous réserve des adaptations nécessaires
-et dans des conditions fixées par décret en Conseil d'Etat, être étendus à La Poste, dans les conditions définies à l'article
-L. 518-25, et aux comptables du Trésor.
+L. 611-4 ainsi que les règlements de l'Autorité des normes comptables peuvent, sous réserve des adaptations nécessaires et
+dans des conditions fixées par décret en Conseil d'Etat, être étendus à La Poste, dans les conditions définies à l'article L.
+518-25, et aux comptables du Trésor.
 
 **Liens relatifs à cet article**
 
@@ -36856,7 +36825,7 @@ L. 518-25, et aux comptables du Trésor.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 	**Cite**:
 
@@ -45185,9 +45154,9 @@ de portefeuille peut être modifiée, conformément à l'article L. 531-6.
 
 ###### Article L611-5
 
-Les arrêtés du ministre chargé de l'économie ainsi que les règlements du Comité de la réglementation comptable peuvent être
+Les arrêtés du ministre chargé de l'économie ainsi que les règlements de l'Autorité des normes comptables peuvent être
 différents selon le statut juridique des établissements de crédit ou des entreprises d'investissement, l'étendue de leurs
-réseaux ou les caractéristiques de leur activité.
+réseaux ou les caractéristiques de leur activité. 
 
 Ils peuvent, en tant que de besoin, prévoir les conditions d'octroi de dérogations individuelles à titre exceptionnel et
 temporaire.
@@ -45196,23 +45165,20 @@ temporaire.
 
 	**Anciens textes**:
 
-	  - Loi n°84-46 du 24 janvier 1984 - art. 35 (M)
 	  - Loi n°84-46 du 24 janvier 1984 - art. 35 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 28 II 1°, 5°, art. 48 II 2° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 28 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V)
 	  - Code monétaire et financier - art. L611-1 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 
 ###### Article L611-6
@@ -47813,7 +47779,7 @@ II. - Le collège est composé de seize membres :
 
 5° Un représentant de la Banque de France désigné par le gouverneur ;
 
-6° Le président du Conseil national de la comptabilité ;
+6° Le président de l'Autorité des normes comptables ;
 
 7° Trois membres désignés, à raison de leur compétence financière et juridique ainsi que de leur expérience en matière
 d'appel public à l'épargne et d'investissement de l'épargne dans des instruments financiers, respectivement par le Président
@@ -47907,11 +47873,6 @@ désignation et, pour chaque réunion, dès réception de la convocation.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 3 () JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Loi n°2003-706 du 1 août 2003 - art. 49 (VD)
@@ -47925,6 +47886,10 @@ désignation et, pour chaque réunion, dès réception de la convocation.
 	  - Code monétaire et financier - art. L642-1 (V)
 	  - Code monétaire et financier - art. R621-6 (V)
 	  - Code monétaire et financier - art. R621-7 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 	**Cite**:
 
@@ -55700,15 +55665,15 @@ application de l'article L. 532-1.
 
 Par dérogation aux articles L. 745-1-1 et L. 745-10, les dispositions des chapitres Ier à VII du titre Ier du livre V et
 celles du chapitre II du titre III du même livre ne sont pas applicables aux services financiers de l'office des postes et
-télécommunications.
+télécommunications. 
 
 Les arrêtés du ministre chargé de l'économie pris en application des articles L. 611-1, L. 611-3 et L. 611-4 et les
-règlements du Comité de la réglementation bancaire et financière ainsi que les règlements du Comité de la réglementation
-comptable peuvent être étendus aux services financiers de l'office des postes et télécommunications, sous réserve des
-adaptations nécessaires et dans des conditions fixées par décret en Conseil d'Etat.
+règlements du Comité de la réglementation bancaire et financière ainsi que les règlements de l'Autorité des normes comptables
+peuvent être étendus aux services financiers de l'office des postes et télécommunications, sous réserve des adaptations
+nécessaires et dans des conditions fixées par décret en Conseil d'Etat. 
 
 Les services financiers de l'office des postes et télécommunications sont soumis aux vérifications de l'inspection générale
-des finances.
+des finances. 
 
 Le titre VI du livre V relatif à la lutte contre le blanchiment de capitaux, à l'exception de l'article L. 563-2, ainsi que
 le chapitre IV du titre VII du même livre sont applicables à l'office des postes et télécommunications. En cas de
@@ -55723,17 +55688,17 @@ bancaire pour faire prononcer une des sanctions prévues à l'article L. 613-21.
 
 	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L563-2 (M)
-	  - Code monétaire et financier - art. L611-1 (M)
-	  - Code monétaire et financier - art. L611-3 (M)
-	  - Code monétaire et financier - art. L611-4 (M)
-	  - Code monétaire et financier - art. L613-21 (M)
-	  - Code monétaire et financier - art. L745-1-1 (M)
-	  - Code monétaire et financier - art. L745-10 (AbD)
+	  - Code monétaire et financier - art. L563-2
+	  - Code monétaire et financier - art. L611-1
+	  - Code monétaire et financier - art. L611-3
+	  - Code monétaire et financier - art. L611-4
+	  - Code monétaire et financier - art. L613-21
+	  - Code monétaire et financier - art. L745-1-1
+	  - Code monétaire et financier - art. L745-10
 
 
 ##### Sous-section 1 : Le chèque postal et les cartes de paiement
@@ -57969,15 +57934,15 @@ application de l'article L. 532-1.
 
 Par dérogation aux articles L. 755-1-1 et L. 755-10, les dispositions des chapitres Ier à VII du titre Ier du livre V et
 celles du chapitre II du titre III du même livre ne sont pas applicables aux services financiers de l'office des postes et
-télécommunications.
+télécommunications. 
 
 Les arrêtés du ministre chargé de l'économie pris en application des articles L. 611-1, L. 611-3 et L. 611-4 et les
-règlements du Comité de la réglementation bancaire et financière ainsi que les règlements du Comité de la réglementation
-comptable peuvent être étendus aux services financiers de l'office des postes et télécommunications, sous réserve des
-adaptations nécessaires et dans des conditions fixées par décret en Conseil d'Etat.
+règlements du Comité de la réglementation bancaire et financière ainsi que les règlements de l'Autorité des normes comptables
+peuvent être étendus aux services financiers de l'office des postes et télécommunications, sous réserve des adaptations
+nécessaires et dans des conditions fixées par décret en Conseil d'Etat. 
 
 Les services financiers de l'office des postes et télécommunications sont soumis aux vérifications de l'inspection générale
-des finances.
+des finances. 
 
 Le titre VI du livre V relatif à la lutte contre le blanchiment de capitaux, à l'exception de l'article L. 563-2, ainsi que
 le chapitre IV du titre VII du même livre sont applicables à l'office des postes et télécommunications. En cas de
@@ -57992,17 +57957,17 @@ bancaire pour faire prononcer une des sanctions prévues à l'article L. 613-21.
 
 	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L563-2 (M)
-	  - Code monétaire et financier - art. L611-1 (M)
-	  - Code monétaire et financier - art. L611-3 (M)
-	  - Code monétaire et financier - art. L611-4 (M)
-	  - Code monétaire et financier - art. L613-21 (M)
-	  - Code monétaire et financier - art. L755-1-1 (M)
-	  - Code monétaire et financier - art. L755-10 (AbD)
+	  - Code monétaire et financier - art. L563-2
+	  - Code monétaire et financier - art. L611-1
+	  - Code monétaire et financier - art. L611-3
+	  - Code monétaire et financier - art. L611-4
+	  - Code monétaire et financier - art. L613-21
+	  - Code monétaire et financier - art. L755-1-1
+	  - Code monétaire et financier - art. L755-10
 
 
 ##### Sous-section 1 : Le chèque postal et les cartes de paiement
@@ -61465,18 +61430,14 @@ président-directeur général.
 ###### Article R121-16
 
 L'établissement public La Monnaie de Paris est soumis en matière de gestion financière et comptable aux règles applicables
-aux entreprises industrielles et commerciales. Il tient sa comptabilité générale conformément aux règlements du comité de la
-réglementation comptable. Il tient une comptabilité analytique.
+aux entreprises industrielles et commerciales. Il tient sa comptabilité générale conformément aux règlements de l'Autorité
+des normes comptables. Il tient une comptabilité analytique.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-259 du 27 février 2007 - art. 1 () JORF 28 février 2007
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 
 ###### Article R121-17
@@ -64610,16 +64571,16 @@ Les règles obligatoires de comptabilisation et d'évaluation arrêtées en vue 
 européen de banques centrales conformément à l'article 26 du protocole annexé au traité instituant la Communauté européenne
 sur les statuts du Système européen de banques centrales et de la Banque centrale européenne s'appliquent à l'établissement
 des comptes annuels de la Banque de France pour ce qui concerne les opérations relevant des missions définies à l'article L.
-141-1.
+141-1. 
 
-Les prescriptions comptables générales établies par le Comité de la réglementation comptable en application du premier alinéa
-de l'article 1er de la loi n° 98-261 du 6 avril 1998 portant réforme de la réglementation comptable et adaptation du régime
-de la publicité foncière, ainsi que les méthodes de comptabilisation et d'évaluation fixées par les règlements du Comité de
-la réglementation comptable mentionnés au I de l'article 4 de la même loi, s'appliquent à la Banque de France pour les
-opérations autres que celles comptabilisées et évaluées selon les règles mentionnées au premier alinéa du présent article.
+Les prescriptions comptables générales établies par l'Autorité des normes comptables en application du premier alinéa de
+l'article 1er de la loi n° 98-261 du 6 avril 1998 portant réforme de la réglementation comptable et adaptation du régime de
+la publicité foncière, ainsi que les méthodes de comptabilisation et d'évaluation fixées par les règlements de l'Autorité des
+normes comptables mentionnés au I de l'article 4 de la même loi, s'appliquent à la Banque de France pour les opérations
+autres que celles comptabilisées et évaluées selon les règles mentionnées au premier alinéa du présent article. 
 
 Le conseil général arrête, après avis du comité monétaire du conseil général, la présentation des états comptables publiés.
-Sur proposition du comité monétaire du conseil général, il peut limiter le détail des informations rendues publiques.
+Sur proposition du comité monétaire du conseil général, il peut limiter le détail des informations rendues publiques. 
 
 Toutefois, le conseil général, après avis du comité monétaire du conseil général, peut, par dérogation au deuxième alinéa du
 présent article, rendre applicables à la Banque de France les règles de comptabilisation et d'évaluation recommandées par la
@@ -64629,17 +64590,13 @@ Banque centrale européenne.
 
 	**Cite**:
 
-	  - Loi n°98-261 du 6 avril 1998 - art. 1 (V)
-	  - Loi n°98-261 du 6 avril 1998 - art. 4 (M)
-	  - Code monétaire et financier - art. L141-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°98-261 du 6 avril 1998 - art. 1
+	  - Loi n°98-261 du 6 avril 1998 - art. 4
+	  - Code monétaire et financier - art. L141-1
 
 	**Modifié par**:
 
-	  - Décret n°2007-902 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 	**Cité par**:
 
@@ -83252,15 +83209,15 @@ décisions de refus doivent être motivées.
 ###### Article D452-7
 
 Les associations rendent compte annuellement de leur activité selon des modalités fixées par arrêté pris dans les formes
-prévues à l'article D. 452-5.
+prévues à l'article D. 452-5. 
 
 Les associations établissent des comptes annuels. Ces comptes annuels comportent un bilan, un compte de résultat et une
 annexe selon les principes et méthodes comptables définis au code de commerce et dans les textes pris pour son application,
 sous réserve des adaptations que rend nécessaires leur forme juridique ou la nature de leur activité. Le plan comptable
 applicable à ces associations est approuvé par arrêté du garde des sceaux, ministre de la justice, et des ministres chargés
-de l'économie et du budget, après avis du Conseil national de la comptabilité. Si des particularités d'activité, de structure
-ou d'opérations le justifient, des adaptations pourront être apportées, dans les mêmes formes, aux dispositions de ce plan
-comptable.
+de l'économie et du budget, après avis de l'Autorité des normes comptables. Si des particularités d'activité, de structure ou
+d'opérations le justifient, des adaptations pourront être apportées, dans les mêmes formes, aux dispositions de ce plan
+comptable. 
 
 Les comptes annuels sont soumis, en même temps que le rapport de gestion, à l'approbation de l'organe délibérant au plus tard
 dans les six mois de la clôture de l'exercice, et le cas échéant, transmis aux commissaires aux comptes quarante-cinq jours
@@ -83269,13 +83226,9 @@ légal de la personne morale, par ordonnance du président du tribunal de grande
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2005-1211 du 21 septembre 2005 - art. 1 () JORF 28 septembre 2005
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 	**Cite**:
 
