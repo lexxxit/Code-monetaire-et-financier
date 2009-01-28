@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-01-24
+Version Consolidée au 2009-01-29
 
 # Partie législative
 
@@ -69211,27 +69211,20 @@ de l'organisme sera déléguée à un établissement tiers habilité à exercer 
 déléguée, la convention peut limiter l'obligation de restitution des actifs incombant au dépositaire. Les obligations du
 dépositaire quant à la mise en œuvre et au contrôle des modalités de conservation restent inchangées.
 
-**Nota:**
-
-Une anomalie s'est glissée dans le décret 2008-1312 du 12 décembre 2008 JORF du 14 décembre 2008 qui crée l'article D214-28-1
-du code monétaire et financier.
-
-Un prochain rectificatif précisera le numéro de cet article.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 2004 - art. 323-14 (M)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2008-1312 du 12 décembre 2008 - art. 1
+	  - Décret n°2011-922 du 1er août 2011 - art. 1
 
 
 ##### Paragraphe 1 : Organismes de placement collectif en valeurs mobilières à règles d'investissement allégées.
 
-###### Article D214-28-1
+###### Article D214-28-2
 
 Afin d'éviter qu'un déséquilibre entre les demandes de rachat et l'actif de l'organisme de placement collectif en valeurs
 mobilières à règles d'investissement allégées ou de l'un de ses compartiments ne lui permette pas d'honorer les demandes de
@@ -69261,9 +69254,13 @@ le seuil visé au 1° aux prochaines dates de centralisation ou procède à leur
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1083 du 23 octobre 2008 - art. 1
+	  - Décret n°2009-95 du 26 janvier 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-922 du 1er août 2011 - art. 1
 
 
 ##### Sous-paragraphe 1 : Règles applicables aux organismes de placement collectif en valeurs mobilières à règles d'investissement allégées sans effet de levier.
