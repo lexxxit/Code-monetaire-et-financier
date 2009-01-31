@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-01-29
+Version Consolidée au 2009-02-01
 
 # Partie législative
 
@@ -254,30 +254,23 @@ En cas de paiement en billets et pièces, il appartient au débiteur de faire l'
 
 ###### Article L112-6
 
-I. - Les règlements qui excèdent la somme de 1 100 euros ou qui ont pour objet le paiement par fraction d'une dette
-supérieure à ce montant, portant sur les loyers, les transports, les services, fournitures et travaux ou afférents à des
-acquisitions d'immeubles ou d'objets mobiliers ainsi que le paiement des produits de titres nominatifs et des primes ou
-cotisations d'assurance doivent être effectués par chèque barré, virement ou carte de paiement ; il en est de même pour les
-transactions sur des animaux vivants ou sur les produits de l'abattage.
+I. - Ne peut être effectué en espèces le paiement d'une dette supérieure à un montant fixé par décret, tenant compte du lieu
+du domicile fiscal du débiteur et de la finalité professionnelle ou non de l'opération.
 
-Le paiement des traitements et salaires est soumis aux mêmes conditions au-delà d'un montant fixé par décret.
+Au-delà d'un montant mensuel fixé par décret, le paiement des traitements et salaires est soumis à l'interdiction mentionnée
+à l'alinéa précédent et doit être effectué par chèque barré ou par virement à un compte bancaire ou postal.
 
-II. - Les dispositions du I ne sont pas applicables :
+II. - Nonobstant les dispositions du I, les dépenses des services concédés qui excèdent la somme de 450 euros doivent être
+payées par virement.
 
-a) Aux règlements à la charge de personnes qui sont incapables de s'obliger par chèques ou de celles qui, ne disposant plus
-de compte, en ont demandé l'ouverture en application des dispositions de l'article L. 312-1 ;
+III. - Les dispositions qui précèdent ne sont pas applicables :
 
-b) Aux règlements faits directement par des particuliers non commerçants à d'autres particuliers, à des commerçants ou à des
-artisans ;
+a) Aux paiements réalisés par des personnes qui sont incapables de s'obliger par chèque ou par un autre moyen de paiement,
+ainsi que par celles qui n'ont pas de compte de dépôt ;
 
-c) Aux règlements des transactions portant sur des animaux vivants ou sur les produits de l'abattage effectués par un
-particulier pour les besoins de sa consommation familiale ou par un agriculteur avec un autre agriculteur, à condition
-qu'aucun des deux intéressés n'exerce par ailleurs une profession non agricole impliquant de telles transactions ;
+b) Aux paiements effectués entre personnes physiques n'agissant pas pour des besoins professionnels ;
 
-d) Au règlement des dépenses de l'Etat et des collectivités et établissements publics.
-
-Par dérogation aux dispositions du I ci-dessus, les dépenses des services concédés qui excèdent la somme de 450 euros doivent
-être payées par virement.
+c) Au paiement des dépenses de l'Etat et des autres personnes publiques.
 
 **Liens relatifs à cet article**
 
@@ -292,7 +285,7 @@ Par dérogation aux dispositions du I ci-dessus, les dépenses des services conc
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 39 () JORF 3 août 2005
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -314,26 +307,29 @@ Par dérogation aux dispositions du I ci-dessus, les dépenses des services conc
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L312-1 (M)
+	  - Code monétaire et financier - art. L312-1
 
 
 ###### Article L112-7
 
 Les infractions aux dispositions de l'article L. 112-6 sont constatées par des agents désignés par arrêté du ministre chargé
-du budget. Les contrevenants sont passibles d'une amende fiscale dont le montant ne peut excéder 5 % des sommes indûment
-réglées en numéraire. Cette amende, qui est recouvrée comme en matière de timbre, incombe pour moitié au débiteur et au
-créancier ; mais chacun d'eux est solidairement tenu d'en assurer le règlement total.
+du budget. Le débiteur ayant procédé à un paiement en violation des dispositions du même article est passible d'une amende
+dont le montant est fixé, compte tenu de la gravité des manquements, et ne peut excéder 5 % des sommes payées en violation
+des dispositions susmentionnées. Le débiteur et le créancier sont solidairement responsables du paiement de cette amende.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1940-10-22 du 22 octobre 1940 - art. 3 (Ab)
-	  - Loi n°1940-10-22 art. 3
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -345,33 +341,21 @@ créancier ; mais chacun d'eux est solidairement tenu d'en assurer le règlement
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L112-6 (M)
+	  - Code monétaire et financier - art. L112-6
 
 
 ###### Article L112-8
 
-Tout règlement d'un montant supérieur à 3 000 euros effectué par un particulier non commerçant, en paiement d'un bien ou d'un
-service, doit être opéré soit par chèque, répondant aux caractéristiques de barrement d'avance et de non-transmissibilité par
-voie d'endossement, mentionné à l'article L. 96 du livre des procédures fiscales, soit par tout autre moyen inscrivant le
-montant réglé au débit d'un compte tenu chez un établissement de crédit, une entreprise d'investissement ou une institution
-mentionnée à l'article L. 518-1. Toutefois, les dispositions du présent alinéa ne font pas obstacle au paiement d'un acompte,
-réglé par tout moyen, dans la limite de 460 euros.
-
-Toutefois, les particuliers non commerçants n'ayant pas leur domicile fiscal en France peuvent continuer d'effectuer le
-règlement de tout bien ou service d'un montant supérieur à 3 000 euros en chèque de voyage ou en espèces, après relevé, par
-le vendeur du bien ou le prestataire de services, de leurs identité et domicile justifiés.
-
-Tout règlement d'un montant supérieur à 3 000 euros en paiement d'un ou de plusieurs biens vendus aux enchères, à l'occasion
-d'une même vente, doit être opéré selon les modalités prévues au premier alinéa.
-
-Tout versement d'une prime ou d'une cotisation d'assurance au titre d'un contrat d'assurance vie ou d'une assurance décès
-doit être opéré selon les modalités prévues au premier alinéa, au-delà de 3 000 euros par an et par contrat.
+Les livraisons de céréales par les producteurs aux coopératives sont réglées par chèque ou virement sur un établissement de
+crédit. Les coopératives autorisent ces établissements à communiquer à l'inspection générale des finances et aux agents de
+l'Office national interprofessionnel des grandes cultures les pièces justificatives de leurs comptes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°89-936 du 29 décembre 1989 - art. 107 (Ab)
+	  - Code monétaire et financier - art. L112-9 (T)
 
 	**Codifié par**:
 
@@ -379,7 +363,7 @@ doit être opéré selon les modalités prévues au premier alinéa, au-delà de
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 14 () JORF 7 mai 2005
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -391,42 +375,8 @@ doit être opéré selon les modalités prévues au premier alinéa, au-delà de
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L96 (M)
-	  - Code monétaire et financier - art. L518-1 (M)
-
-
-###### Article L112-9
-
-Les livraisons de céréales par les producteurs aux coopératives sont réglées par chèque ou virement sur un établissement de
-crédit. Les coopératives autorisent ces établissements à communiquer à l'inspection générale des finances et aux agents de
-l'Office national interprofessionnel des grandes cultures les pièces justificatives de leurs comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°81-1160 1981-12-30 art. 96 I
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 96 (P)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-594 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
-
-	**Cité par**:
-
-	  - Ordonnance n°2006-594 du 23 mai 2006 - art. 3 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L112-8 (V)
+	  - Livre des procédures fiscales - art. L96
+	  - Code monétaire et financier - art. L518-1
 
 
 ##### Section 4 : Mode de paiement du salaire
@@ -5813,35 +5763,6 @@ affecte à une activité principale relevant du droit privé.
 
 ### Titre VI : Dispositions pénales
 
-#### Chapitre Ier : Infractions relatives à la prohibition du paiement en espèces de certaines créances
-
-###### Article L161-1
-
-Est punie d'une amende de 15 000 euros le fait de méconnaître les obligations prescrites à l'article L. 112-8.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 8
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L112-8
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L725-3 (V)
-
-
 #### Chapitre II : Infractions relatives à la monnaie
 
 ###### Article L162-1
@@ -6874,6 +6795,12 @@ alinéa de l'article L. 228-1 du code de commerce et dans les conditions prévue
 La procédure d'identification des propriétaires de titres de capital est fixée aux articles L. 228-2 à L. 228-3-4 du code de
 commerce.
 
+La procédure d'identification mentionnée au premier alinéa est applicable aux organismes de placement collectif, qu'ils aient
+ou non la forme de société par actions, et peut être exercée par leur société de gestion. Pour l'ensemble de ces organismes,
+cette procédure est applicable, nonobstant l'absence de stipulations spécifiques dans les statuts ou le règlement. La demande
+d'identification est exercée soit directement auprès des établissements teneurs de compte-conservateurs, soit par
+l'intermédiaire du dépositaire central.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -6882,7 +6809,7 @@ commerce.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 4
 
 	**Cité par**:
 
@@ -7286,11 +7213,11 @@ toute monnaie, sont compris dans l'assiette du nantissement. Les titres financie
 postérieurement inscrits au crédit du compte nanti, en garantie de la créance initiale du créancier nanti, sont soumis aux
 mêmes conditions que ceux y figurant initialement et sont considérés comme ayant été remis à la date de déclaration de
 nantissement initiale. Le créancier nanti peut obtenir, sur simple demande au teneur de compte, une attestation de
-nantissement de compte d'instruments financiers, comportant inventaire des titres financiers et sommes en toute monnaie
-inscrits en compte nanti à la date de délivrance de cette attestation. 
+nantissement de compte-titres, comportant inventaire des titres financiers et sommes en toute monnaie inscrits en compte
+nanti à la date de délivrance de cette attestation. 
 
 II. ― Le compte nanti prend la forme d'un compte spécial ouvert au nom du titulaire et tenu par un intermédiaire mentionné à
-l'article L. 211-3, un dépositaire central ou, le cas échéant, l'émetteur.
+l'article L. 211-3, un dépositaire central ou, le cas échéant, l'émetteur. 
 
 A défaut d'un compte spécial, sont réputés constituer le compte nanti les titres financiers mentionnés au premier alinéa,
 ainsi que les sommes en toute monnaie ayant fait l'objet d'une identification à cet effet par un procédé informatique. 
@@ -7305,7 +7232,7 @@ l'inventaire des sommes en toute monnaie inscrites au crédit de ce compte à la
 
 IV. ― Le créancier nanti définit avec le titulaire du compte-titres les conditions dans lesquelles ce dernier peut disposer
 des titres financiers et des sommes en toute monnaie figurant dans le compte nanti. Le créancier nanti bénéficie en toute
-hypothèse d'un droit de rétention sur les titres financiers et sommes en toute monnaie figurant au compte nanti.
+hypothèse d'un droit de rétention sur les titres financiers et sommes en toute monnaie figurant au compte nanti. 
 
 V. ― Le créancier nanti titulaire d'une créance certaine, liquide et exigible peut, pour les titres financiers, français ou
 étrangers, négociés sur un marché réglementé, les parts ou actions d'organismes de placement collectif, ainsi que pour les
@@ -7323,9 +7250,9 @@ titres financiers constitués antérieurement au 4 juillet 1996.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 5
 
 	**Cité par**:
 
@@ -7349,6 +7276,7 @@ titres financiers constitués antérieurement au 4 juillet 1996.
 
 	**Cite**:
 
+	  - Code de commerce - art. L521-3 (V)
 	  - Code monétaire et financier - art. L211-3
 	  - Code monétaire et financier - art. L312-2
 
@@ -7784,7 +7712,7 @@ international dont la France ou la Communauté européenne est membre ;
 
 2° Aux obligations financières résultant de tout contrat donnant lieu à un règlement en espèces ou à une livraison
 d'instruments financiers lorsque toutes les parties appartiennent à l'une des catégories de personnes mentionnées à l'alinéa
-précédent, à l'exception des personnes mentionnées aux alinéas c à i du 2° de l'article L. 531-2 ; 
+précédent, à l'exception des personnes mentionnées aux alinéas  c à n du 2° de l'article L. 531-2 ; 
 
 3° Aux obligations financières résultant de tout contrat conclu dans le cadre d'un système mentionné à l'article L. 330-1.
 
@@ -7825,9 +7753,9 @@ précédent, à l'exception des personnes mentionnées aux alinéas c à i du 2�
 	  - Code monétaire et financier - art. R515-7-1 (T)
 	  - Code monétaire et financier - art. R515-7-2 (T)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 5
 
 	**Cite**:
 
@@ -7837,14 +7765,14 @@ précédent, à l'exception des personnes mentionnées aux alinéas c à i du 2�
 
 ###### Article L211-36-1
 
-I. ― Les conventions relatives aux obligations financières mentionnées au I sont résiliables, et les dettes et les créances y
-afférentes sont compensables. Les parties peuvent prévoir l'établissement d'un solde unique, que ces obligations financières
-soient régies par une ou plusieurs conventions ou conventions-cadres. 
+I. ― Les conventions relatives aux obligations financières mentionnées à l'article L. 211-36 sont résiliables, et les dettes
+et les créances y afférentes sont compensables. Les parties peuvent prévoir l'établissement d'un solde unique, que ces
+obligations financières soient régies par une ou plusieurs conventions ou conventions-cadres. 
 
-II. ― Les modalités de résiliation, d'évaluation et de compensation des opérations et obligations mentionnées aux I et II
-sont opposables aux tiers. Ces modalités peuvent être notamment prévues par des conventions ou conventions-cadres. Toute
-opération de résiliation, d'évaluation ou de compensation faite en raison d'une procédure civile d'exécution ou de l'exercice
-d'un droit d'opposition est réputée être intervenue avant cette procédure. 
+II. ― Les modalités de résiliation, d'évaluation et de compensation des opérations et obligations mentionnées à l'article L.
+211-36 et au I du présent article sont opposables aux tiers. Ces modalités peuvent être notamment prévues par des conventions
+ou conventions-cadres. Toute opération de résiliation, d'évaluation ou de compensation faite en raison d'une procédure civile
+d'exécution ou de l'exercice d'un droit d'opposition est réputée être intervenue avant cette procédure. 
 
 III. ― Pour l'application du présent article, sont également des instruments financiers les contrats d'option, contrats à
 terme fermes et tous autres contrats à terme sur marchandises ou autorisations d'émission autres que ceux mentionnés au III
@@ -7860,13 +7788,14 @@ d'appels de couvertures périodiques.
 	  - Code monétaire et financier - art. L211-38 (M)
 	  - Code monétaire et financier - art. L613-31-16 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 5
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L211-36
 
 
 ###### Article L211-37
@@ -9618,15 +9547,17 @@ I.-Les organismes de placements collectifs sont :
 
 2. Les organismes de titrisation ; 
 
-3. Les sociétés civiles de placement immobilier. 
+3. Les sociétés civiles de placement immobilier ; 
 
-4. Les sociétés d'épargne forestière. 
+4. Les sociétés d'épargne forestière ; 
 
-5. Les organismes de placement collectif immobilier. 
+5. Les organismes de placement collectif immobilier ;
 
-II.-    Tout organisme de placement collectif ou fonds d'investissement constitué sur le fondement d'un droit étranger autre
-que de type fermé doit, préalablement à sa commercialisation sur le territoire de la République française, faire l'objet
-d'une autorisation délivrée par l'Autorité des marchés financiers. Un décret définit les conditions de délivrance de cette
+6. Les sociétés d'investissement à capital fixe.  
+
+II.- Tout organisme de placement collectif ou fonds d'investissement constitué sur le fondement d'un droit étranger autre que
+de type fermé doit, préalablement à sa commercialisation sur le territoire de la République française, faire l'objet d'une
+autorisation délivrée par l'Autorité des marchés financiers. Un décret définit les conditions de délivrance de cette
 autorisation.
 
 **Liens relatifs à cet article**
@@ -9691,7 +9622,7 @@ autorisation.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 1
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
 
 
 ##### Section 1 : Les organismes de placement collectif en valeurs mobilières
@@ -17286,6 +17217,515 @@ scission et la liquidation des compartiments.
 	**Cite**:
 
 	  - Code civil - art. 2285 (M)
+
+
+##### Section 6 :  Les sociétés d'investissement à capital fixe
+
+##### Sous-section 1 : Dispositions générales
+
+###### Article L214-147
+
+La société d'investissement à capital fixe dite " SICAF ” est une société anonyme qui a pour objet la gestion d'un
+portefeuille d'instruments financiers, de dépôts et de liquidités, en diversifiant directement ou indirectement les risques
+d'investissement, dans le but de faire bénéficier ses actionnaires des résultats de cette gestion. Sauf dans les cas prévus
+par les statuts, les actions ne peuvent être rachetées par la SICAF à la demande de ses actionnaires. Elle peut procéder à
+des prêts et emprunts de titres et à des emprunts d'espèces. Pour la réalisation de son objectif de gestion, elle peut
+octroyer les garanties mentionnées à l'article L. 211-38 ou en bénéficier, dans les conditions définies à ce même article,
+ainsi que bénéficier des cautions solidaires ou garanties à première demande. Elle peut conclure des contrats financiers
+mentionnés à l'article L. 211-1 dans des conditions fixées par décret en Conseil d'Etat. 
+
+La société doit faire figurer sur tous les actes et documents destinés aux tiers sa dénomination sociale et sa qualité de
+société d'investissement à capital fixe. 
+
+Le capital initial d'une SICAF ne peut être inférieur à un montant fixé par décret. 
+
+Les actions d'une SICAF peuvent être admises aux négociations sur un marché réglementé d'instruments financiers mentionné à
+l'article L. 421-1 ou un système multilatéral de négociation mentionné à l'article L. 424-1, dans les conditions prévues à la
+sous-section 2.L'actif net par action de la SICAF est alors calculé et communiqué dans des conditions fixées par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Ordonnance n°2009-884 du 22 juillet 2009 - art. 2 (V)
+	  - Code général des impôts, CGI. - art. 208 (V)
+	  - Code général des impôts, CGI. - art. 208 A (V)
+	  - Code monétaire et financier - art. L214-148 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L211-38
+	  - Code monétaire et financier - art. L421-1
+	  - Code monétaire et financier - art. L424-1
+
+
+###### Article L214-148
+
+Le conseil d'administration ou le directoire de la SICAF fixent sa stratégie d'investissement dans des conditions définies
+par décret. Cette stratégie et sa politique prévue en matière de distribution sont présentées dans les statuts de la SICAF,
+et reproduites dans le rapport annuel mentionné à l'article L. 225-100 du code de commerce. La stratégie d'investissement
+doit être respectée à tout moment. Elle peut prévoir que l'actif de la SICAF sera investi en tout ou partie en actions ou
+parts d'un autre organisme de placement collectif ou fonds d'investissement étranger relevant de la présente section et en
+droits représentatifs d'un placement dans une entité n'ayant pas la personnalité morale émis sur le fondement d'un droit
+étranger, sous réserve que l'investissement soit compatible avec l'objectif de répartition des risques mentionné à l'article
+L. 214-147 du présent code. 
+
+Les documents destinés à l'information du public mentionnent de manière claire que, sauf dans les cas prévus par les statuts,
+les actions ne peuvent être rachetées par la SICAF à la demande de ses actionnaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-100
+	  - Code monétaire et financier - art. L214-147
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 990 E (V)
+	  - Code monétaire et financier - art. D214-225 (Ab)
+	  - Code monétaire et financier - art. L752-6 (M)
+
+
+###### Article L214-149
+
+La gestion d'une SICAF est assurée par une société de gestion de portefeuille relevant de l'article L. 532-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L532-9
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R214-201 (V)
+
+
+###### Article L214-150
+
+Les actifs de la SICAF sont conservés par un prestataire de services d'investissement unique, distinct de la SICAF et de la
+société de gestion, et choisi par la SICAF parmi les personnes morales agréées pour fournir le service de conservation
+d'instruments financiers pour compte de tiers. Ce prestataire est désigné dans les statuts de la SICAF. Il s'assure de la
+régularité des décisions de la SICAF et de la société de gestion dans des conditions prévues par décret. Il est regardé comme
+un dépositaire d'organisme de placement collectif pour l'application du 12° du II de l'article L. 621-9. 
+
+La SICAF, le prestataire visé au premier alinéa et la société de gestion doivent agir de façon indépendante, au bénéfice
+exclusif des actionnaires. Ils doivent présenter des garanties suffisantes en ce qui concerne leur organisation, leurs moyens
+techniques et financiers, l'honorabilité et l'expérience de leurs dirigeants. Ils doivent prendre des dispositions propres à
+assurer la sécurité des opérations. 
+
+La responsabilité du prestataire mentionné au premier alinéa n'est pas affectée par le fait qu'il confie à un tiers tout ou
+partie des actifs dont il a la garde. Toutefois, dans les conditions définies par les statuts de la SICAF, une convention
+conclue entre ce prestataire et la SICAF peut définir les obligations qui demeurent à la charge du prestataire au titre du
+service mentionné au 1 de l'article L. 321-2. Un décret détermine les conditions d'application du présent alinéa. 
+
+Les créanciers dont le titre résulte de la conservation ou de la gestion des actifs d'une SICAF n'ont d'action que sur ces
+actifs. 
+
+Les créanciers du prestataire visé au premier alinéa ne peuvent poursuivre le paiement de leurs créances sur les actifs d'une
+SICAF conservés par lui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 423-14 (V)
+	  - Code monétaire et financier - art. D214-225 (Ab)
+	  - Code monétaire et financier - art. D214-226 (Ab)
+	  - Code monétaire et financier - art. D214-227 (V)
+	  - Code monétaire et financier - art. D214-228 (V)
+	  - Code monétaire et financier - art. D214-229 (V)
+	  - Code monétaire et financier - art. D214-230 (Ab)
+	  - Code monétaire et financier - art. D214-231 (Ab)
+	  - Code monétaire et financier - art. D214-232 (Ab)
+	  - Code monétaire et financier - art. D214-233 (Ab)
+	  - Code monétaire et financier - art. D214-234 (V)
+	  - Code monétaire et financier - art. D214-235 (Ab)
+	  - Code monétaire et financier - art. D214-236 (V)
+	  - Code monétaire et financier - art. D214-237 (V)
+	  - Code monétaire et financier - art. D214-238 (V)
+	  - Code monétaire et financier - art. D214-239 (V)
+	  - Code monétaire et financier - art. L214-156 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L321-2
+	  - Code monétaire et financier - art. L621-9
+
+
+###### Article L214-151
+
+La SICAF ne peut procéder à une offre au public sauf si le montant nominal des actions émises est supérieur à un montant fixé
+par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D214-240 (V)
+	  - Code monétaire et financier - art. L214-153 (V)
+
+
+###### Article L214-152
+
+Par dérogation aux articles L. 225-127 à L. 225-149-3 du code de commerce, le président du conseil d'administration ou du
+directoire de la SICAF peut procéder à tout moment à une augmentation de capital dans les conditions fixées par les statuts
+de la société. 
+
+Une SICAF ne peut émettre d'actions à un prix inférieur à l'actif net par action sans les proposer en priorité à ses
+actionnaires existants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2014-747 du 1er juillet 2014 - art. 2 (V)
+	  - Code monétaire et financier - art. L752-6 (M)
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-127
+
+
+###### Article L214-153
+
+Lorsque leur montant nominal est inférieur au seuil mentionné à l'article L. 214-151, les parts ou actions émises par la
+SICAF ou un fonds d'investissement de type fermé constitué sur le fondement d'un droit étranger ne peuvent faire l'objet de
+démarchage sauf auprès d'investisseurs qualifiés mentionnés au II de l'article L. 411-2.
+
+Toutefois, lorsque la souscription ou l'acquisition d'actions de SICAF est réalisée par un non-résident français à l'occasion
+d'un acte de commercialisation à l'étranger, les investisseurs auxquels la souscription ou l'acquisition de ces SICAF est
+réservée sont régis par le droit de l'Etat où a lieu la commercialisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 423-17 (V)
+	  - Arrêté du 12 novembre 2004 - art. 423-40 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-151
+	  - Code monétaire et financier - art. L411-2
+
+
+###### Article L214-154
+
+Par dérogation aux dispositions des titres II et III du livre II et du titre II du livre VIII du code de commerce : 
+
+1° Les actions sont intégralement libérées dès leur émission ; 
+
+2° Tout apport en nature est apprécié sous sa responsabilité par le commissaire aux comptes ; 
+
+3° L'assemblée générale ordinaire peut se tenir sans qu'un quorum soit requis ; il en est de même, sur deuxième convocation,
+de l'assemblée générale extraordinaire ; 
+
+4° Une même personne physique peut exercer simultanément cinq mandats de directeur général, de membre du directoire ou de
+directeur général unique de SICAF. Les mandats de directeur général, de membre du directoire ou de directeur général unique
+exercés au sein d'une SICAF ne sont pas pris en compte pour les règles de cumul visées au livre II du code de commerce ; 
+
+5° Les mandats de représentant permanent d'une personne morale au conseil d'administration ou de surveillance d'une SICAF ne
+sont pas pris en compte pour l'application des dispositions des articles L. 225-21, L. 225-77 et L. 225- 94-1 du code de
+commerce ; 
+
+6° Le commissaire aux comptes est désigné pour six exercices par le conseil d'administration ou le directoire, après accord
+de l'Autorité des marchés financiers. La désignation d'un commissaire aux comptes suppléant n'est pas requise. Le commissaire
+aux comptes est délié du secret professionnel à l'égard de l'Autorité des marchés financiers. 
+
+Le commissaire aux comptes est tenu de signaler dans les meilleurs délais à l'Autorité des marchés financiers tout fait ou
+décision concernant une société d'investissement à capital fixe dont il a eu connaissance dans l'exercice de sa mission, de
+nature : 
+
+a) A constituer une violation des dispositions législatives ou réglementaires applicables à cette société et susceptible
+d'avoir des effets significatifs sur la situation financière, le résultat ou le patrimoine ; 
+
+b) A porter atteinte à la continuité de son exploitation ; 
+
+c) A entraîner l'émission de réserves ou le refus de la certification des comptes. 
+
+La responsabilité du commissaire aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles
+il procède en exécution des obligations imposées par le présent article.
+
+L'Autorité des marchés financiers peut également transmettre aux commissaires aux comptes des sociétés d'investissement à
+capital fixe les informations nécessaires à l'accomplissement de leur mission. Les informations transmises sont couvertes par
+la règle du secret professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 313-12 (V)
+	  - Code de commerce - art. L225-95-1 (V)
+	  - Code de la mutualité - art. R212-31 (V)
+	  - Code de la sécurité sociale. - art. L651-2 (V)
+	  - Code de la sécurité sociale. - art. R931-10-21 (V)
+	  - Code des assurances - art. R332-2 (V)
+	  - Code général des impôts, CGI. - art. 1655 sexies A (V)
+	  - Code monétaire et financier - art. L214-162-7 (V)
+	  - Code monétaire et financier - art. L511-6 (V)
+	  - Code monétaire et financier - art. L752-6 (M)
+	  - Code monétaire et financier - art. R214-32-19 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-21
+	  - Code de commerce - art. L225-77
+	  - Code de commerce - art. L225-94-1
+
+
+###### Article L214-155
+
+Les articles L. 224-1, L. 224-2, L. 225-3 à L. 225-16, le deuxième alinéa de l'article L. 225-68, le deuxième alinéa de
+l'article L. 225-131, les articles L. 225-258 à L. 225-270, L. 232-2, et L. 232-10, du code de commerce ne sont pas
+applicables aux SICAF.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 423-27 (V)
+	  - Code monétaire et financier - art. L214-162-1 (V)
+	  - Code monétaire et financier - art. L752-6 (M)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L224-1
+	  - Code de commerce - art. L225-131
+	  - Code de commerce - art. L225-258
+	  - Code de commerce - art. L225-3
+	  - Code de commerce - art. L225-68
+	  - Code de commerce - art. L232-10
+	  - Code de commerce - art. L232-2
+
+
+###### Article L214-156
+
+Les modalités de constitution de la SICAF sont fixées par le règlement général de l'Autorité des marchés financiers. 
+
+Les statuts de la SICAF fixent la durée des exercices comptables qui ne peut excéder douze mois. Toutefois, le premier
+exercice peut s'étendre sur une durée différente sans excéder dix-huit mois. 
+
+Dans un délai de six semaines à compter de la fin de chaque semestre de l'exercice, la SICAF établit l'inventaire de l'actif
+sous le contrôle du prestataire mentionné à l'article L. 214-150. 
+
+La SICAF publie, dans un délai de huit semaines à compter de la fin de chacun des semestres de l'exercice, la composition de
+l'actif et l'actif net par action. Le commissaire aux comptes en certifie l'exactitude avant publication. La SICAF publie
+dans les mêmes conditions une description de l'exposition aux différents risques financiers.A l'issue de ce délai, tout
+actionnaire qui en fait la demande a droit à la communication de ce document.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-150
+
+
+##### Sous-section 2 : Sociétés d'investissement à capital fixe dont les actions sont négociées sur un marché d'instruments financiers 
+
+
+
+
+###### Article L214-157
+
+Les dispositions de la présente sous-section s'appliquent aux SICAF dont les actions sont admises à la négociation sur un
+marché réglementé d'instruments financiers mentionné à l'article L. 421-1, ou un système multilatéral de négociation
+mentionné à l'article L. 424-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D214-32-12 (V)
+	  - Code monétaire et financier - art. D214-32-15 (V)
+	  - Code monétaire et financier - art. D214-8 (V)
+	  - Code monétaire et financier - art. L214-162-1 (M)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L421-1
+	  - Code monétaire et financier - art. L424-1
+
+
+###### Article L214-158
+
+Les articles L. 225-209 et L. 225-209-1, le premier alinéa de l'article L. 225-210 et les articles L. 225-211 et L. 225-212
+du code de commerce ne sont pas applicables aux SICAF relevant de la présente sous-section. 
+
+Une SICAF relevant de la présente sous-section est autorisée à racheter ses actions, sans obtenir l'autorisation de
+l'assemblée générale, jusqu'à une limite de 10 % de son capital par an. Cette limite est toutefois portée à 25 % lorsque le
+cours des actions est inférieur de plus de 10 % à l'actif net par action. Le nombre d'actions pris en compte pour le calcul
+de ces limites correspond au nombre d'actions achetées, déduction faite du nombre d'actions revendues pendant
+l'année.L'assemblée générale extraordinaire de la SICAF peut autoriser le rachat d'actions au-delà de cette limite de 25 %. 
+
+Une SICAF relevant de la présente sous-section ne peut posséder, directement ou par l'intermédiaire d'une personne agissant
+en son propre nom, mais pour le compte de la SICAF, plus de 10 % du total de ses propres actions. 
+
+Les SICAF relevant de la présente sous-section rendent compte chaque mois à l'Autorité des marchés financiers des
+acquisitions, cessions, annulations et transferts qu'elles ont effectués. Elles publient trimestriellement ces mêmes
+informations. 
+
+Le conseil d'administration ou le directoire de la SICAF, selon le cas, doit indiquer, dans le rapport prévu à l'article L.
+225-100 du code de commerce, le nombre des actions achetées et vendues au cours de l'exercice, les cours moyens des achats et
+des ventes, le montant des frais de négociation, le nombre des actions détenues à la clôture de l'exercice et leur valeur
+évaluée au cours d'achat, ainsi que leur valeur nominale, pour chacune des finalités, le nombre des actions utilisées, ainsi
+que les éventuelles réallocations dont elles ont fait l'objet et la fraction du capital qu'elles représentent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 423-16 (V)
+	  - Code monétaire et financier - art. L752-6 (M)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-100
+	  - Code de commerce - art. L225-209
+	  - Code de commerce - art. L225-210
+	  - Code de commerce - art. L225-211
+
+
+##### Sous-section 3 : Fonds fermés de droit étranger dont les parts ou actions sont négociées sur un marché d'instruments financiers 
+
+
+
+
+
+
+###### Article L214-159
+
+Lorsque sont admises à la négociation sur un marché d'instruments financiers mentionné à l'article L. 421-1 ou un système
+multilatéral de négociation mentionné à l'article L. 424-1 les parts ou actions d'un fonds d'investissement de type fermé
+constitué sur le fondement d'un droit étranger, l'entreprise de marché ou le gestionnaire du système vérifie que ce fonds est
+soumis à des règles permettant d'assurer la sécurité des opérations et garantissant l'intérêt des investisseurs ainsi qu'à
+des règles de rachat et de détention de ses propres parts ou actions au moins équivalentes à celles fixées par la présente
+section
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 423-37 (V)
+	  - Code de commerce - art. L225-95-1 (V)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+	  - Code monétaire et financier - art. D214-64-1 (V)
+	  - Code monétaire et financier - art. D214-79-1 (V)
+	  - Code monétaire et financier - art. L214-153-1 (V)
+	  - Code monétaire et financier - art. L214-30 (V)
+	  - Code monétaire et financier - art. L214-31 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L421-1
+	  - Code monétaire et financier - art. L424-1
 
 
 ### Titre II : Les produits d'épargne
@@ -28355,14 +28795,14 @@ spécifiques des actionnaires concernés.
 II.-Ne sont pas assimilées aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue au I de
 l'article L. 233-7 : 
 
-1° Les actions détenues par les organismes de placement collectif en valeurs mobilières gérés par une société de gestion de
-portefeuille contrôlée par cette personne au sens de l'article L. 233-3, sauf exceptions prévues par le règlement général de
-l'Autorité des marchés financiers ; 
+1° Les actions détenues par les organismes de placement collectif en valeurs mobilières ou les SICAF gérés par une société de
+gestion de portefeuille contrôlée par cette personne au sens de l'article L. 233-3, sauf exceptions prévues par le règlement
+général de l'Autorité des marchés financiers ; 
 
 2° Les actions détenues dans un portefeuille géré par un prestataire de services d'investissement contrôlé par cette personne
 au sens de l'article L. 233-3, dans le cadre du service de gestion de portefeuille pour compte de tiers dans les conditions
-fixées par le règlement général de l'Autorité des marchés financiers, sauf exceptions prévues par le même règlement général.
-" 
+fixées par le règlement général de l'Autorité des marchés financiers, sauf exceptions prévues par le même règlement
+général." 
 
 " Art.L. 233-10-I.-Sont considérées comme agissant de concert les personnes qui ont conclu un accord en vue d'acquérir ou de
 céder des droits de vote ou en vue d'exercer les droits de vote, pour mettre en oeuvre une politique vis-à-vis de la
@@ -28387,7 +28827,7 @@ règlements. "
 " Art.L. 233-10-1-En cas d'offre publique d'acquisition, sont considérées comme agissant de concert les personnes qui ont
 conclu un accord avec l'auteur d'une offre publique visant à obtenir le contrôle de la société qui fait l'objet de l'offre.
 Sont également considérées comme agissant de concert les personnes qui ont conclu un accord avec la société qui fait l'objet
-de l'offre afin de faire échouer cette offre. 
+de l'offre afin de faire échouer cette offre. "
 
 " Art.L. 233-11-Toute clause d'une convention prévoyant des conditions préférentielles de cession ou d'acquisition d'actions
 admises aux négociations sur un marché réglementé et portant sur au moins 0, 5 % du capital ou des droits de vote de la
@@ -28452,7 +28892,7 @@ général de l'Autorité des marchés financiers."
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 7
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 2
 
 	**Cite**:
 
@@ -37800,32 +38240,18 @@ sont soumis aux dispositions des articles L. 341-4 à L. 341-17 et L. 353-1 à L
 
 ###### Article L520-1
 
-Les personnes physiques ou morales autres que les établissements de crédit et les institutions et services mentionnés à
-l'article L. 518-1, qui font profession habituelle d'effectuer des opérations de change manuel, adressent, avant de commencer
-leurs opérations, une déclaration d'activité à la Banque de France. Elles sont inscrites au registre du commerce et des
-sociétés, quelle que soit leur nature juridique. 
+I.-Constitue une opération de change manuel l'échange immédiat de billets ou monnaies libellés en devises différentes.
+Constitue également une opération de change manuel le fait d'accepter, en échange des espèces délivrées à un client, un
+règlement par un autre moyen de paiement, sous réserve que celui-ci soit libellé dans une devise différente. 
 
-Constitue une opération de change manuel, au sens du présent titre, l'échange immédiat de billets ou monnaies libellés en
-devises différentes. En outre, les changeurs manuels peuvent accepter en échange des espèces qu'ils délivrent aux clients un
-règlement par un autre moyen de paiement, sous réserve que celui-ci soit libellé dans une devise différente. Par dérogation à
-l'interdiction édictée à l'article L. 511-5, ils peuvent également remettre des euros en espèces en contrepartie de chèques
-de voyage libellés en euros.
+II.-Les changeurs manuels sont des personnes physiques ou morales, autres que les établissements de crédit et les
+institutions et services mentionnés à l'article L. 518-1, qui effectuent à titre de profession habituelle des opérations de
+change manuel. 
 
-L'exercice de la profession de changeur manuel, ou de fonctions de dirigeant de droit ou de fait dans une personne morale
-exerçant cette profession, est interdit à toute personne qui n'a pas souscrit la déclaration d'activité à la Banque de France
-ou qui a fait l'objet de la sanction prévue au 3 de l'article L. 520-3. 
-
-Les changeurs manuels sont tenus à tout moment de justifier soit d'un capital libéré, soit d'une caution d'un établissement
-de crédit ou d'une entreprise d'assurances, d'un montant au moins égal à une somme fixée par un arrêté du ministre chargé de
-l'économie. 
-
-Les changeurs manuels tiennent un registre des transactions.
+Toutefois, ne constitue pas l'exercice de la profession de changeur manuel le fait de réaliser, à titre occasionnel ou pour
+des montants limités, des opérations de change manuel dans des conditions définies par décret.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 25 I
 
 	**Codifié par**:
 
@@ -37849,45 +38275,36 @@ Les changeurs manuels tiennent un registre des transactions.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 69 () JORF 7 mai 2005
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L518-1 (V)
+	  - Code monétaire et financier - art. L518-1
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L524-1 (VD)
 
 
 ###### Article L520-2
 
-Pour l'application du présent titre :
+I.-Par dérogation à l'interdiction édictée à l'article L. 511-5, les changeurs manuels peuvent remettre des euros en espèces
+en contrepartie de chèques de voyage libellés en euros. 
 
-Le ministre chargé de l'économie peut, par voie d'arrêté, soumettre les changeurs manuels à des règles particulières.
-
-La commission bancaire exerce le pouvoir disciplinaire sur les changeurs manuels dans les conditions prévues à l'article L.
-520-3.
-
-Le secrétariat général de la commission bancaire exerce le contrôle, notamment sur place, des changeurs manuels dans les
-conditions prévues aux articles L. 613-6 à L. 613-8, L. 613-10 et L. 613-11. Les agents chargés du contrôle sur place peuvent
-procéder au contrôle de caisse.
-
-Les agents des douanes ayant au moins le grade de contrôleur peuvent également exercer, pour le compte de la commission
-bancaire, le contrôle sur place des changeurs manuels dans les conditions prévues à l'article L. 520-4.
-
-Nonobstant toute disposition législative contraire, la commission bancaire et l'administration des douanes peuvent, pour
-l'application des dispositions du présent titre et du titre VI du présent livre, se communiquer les informations nécessaires.
+II.-Les personnes exerçant l'activité de change manuel à titre occasionnel ou pour des montants limités dans les conditions
+prévues au dernier alinéa de l'article L. 520-1 sont tenues d'adresser à la Commission bancaire une déclaration par laquelle
+elles certifient qu'elles respectent ces conditions. Les modalités et la périodicité de cette déclaration sont fixées par un
+arrêté du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 25 II
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -37898,44 +38315,54 @@ l'application des dispositions du présent titre et du titre VI du présent livr
 	  - Code monétaire et financier - art. R565-1 (Ab)
 	  - Code monétaire et financier - art. R613-2 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L520-3 (M)
-	  - Code monétaire et financier - art. L520-4 (V)
-	  - Code monétaire et financier - art. L613-10 (M)
-	  - Code monétaire et financier - art. L613-11 (M)
-	  - Code monétaire et financier L520-3, L613-6 à L613-8, L613-10, L613-11, L520-4
+	  - Code monétaire et financier - art. L511-5
+	  - Code monétaire et financier - art. L520-1
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L524-2 (VD)
 
 
 ###### Article L520-3
 
-Si un changeur manuel a enfreint une disposition du présent titre ou du titre VI du présent livre ou des textes
-réglementaires pris pour son application, la commission bancaire peut prononcer l'une des sanctions disciplinaires
-suivantes :
+I. - Avant d'exercer leur activité, les changeurs manuels obtiennent une autorisation délivrée par le comité des
+établissements de crédit et des entreprises d'investissement qui vérifie si l'entreprise satisfait aux obligations
+suivantes : 
 
-1. L'avertissement ;
+a) Elle est inscrite au registre du commerce et des sociétés ; 
 
-2. Le blâme ;
+b) Elle justifie soit d'un capital libéré, soit d'une caution d'un établissement de crédit ou d'une entreprise d'assurances,
+d'un montant au moins égal à une somme fixée par un arrêté du ministre chargé de l'économie ; 
 
-3. L'interdiction d'exercer la profession de changeur manuel. La Commission bancaire peut, en outre, interdire aux dirigeants
-de droit ou de fait des personnes morales mentionnées à l'article L. 520-1 d'exercer, directement ou indirectement,
-l'activité de change manuel définie au même article.
+c) Ses dirigeants et ses bénéficiaires effectifs justifient qu'ils possèdent l'honorabilité et la compétence nécessaires,
+dans des conditions définies par décret et selon des modalités fixées par un arrêté du ministre chargé de l'économie. 
 
-En outre, la commission bancaire peut prononcer soit à la place, soit en sus de ces sanctions, une sanction pécuniaire au
-plus égale à un million d'euros. Lorsque le changeur manuel est une personne morale, la Commission bancaire peut décider que
-ses dirigeants de droit ou de fait seront tenus solidairement au paiement de la sanction pécuniaire prononcée.
+II. - Toute modification affectant le respect par un changeur manuel des obligations prévues au I doit faire l'objet, selon
+le cas, d'une autorisation préalable du comité des établissements de crédit et des entreprises d'investissement, d'une
+déclaration ou d'une notification, dans les conditions fixées par un arrêté du ministre chargé de l'économie. 
 
-Les sommes correspondantes sont recouvrées par le Trésor public et versées au budget de l'Etat.
+III. - Le comité des établissements de crédit et des entreprises d'investissement peut retirer l'autorisation dont est
+titulaire un changeur manuel, soit à la demande de l'établissement, soit d'office, lorsque le changeur manuel n'a pas fait
+usage de cette autorisation dans un délai de douze mois ou n'exerce plus son activité depuis au moins six mois. 
+
+IV. - Le comité des établissements de crédit et des entreprises d'investissement publie la liste des changeurs manuels selon
+des modalités définies par arrêté du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 71 2°, 3°, 4° JORF 2 août 2003
 
 	**Cité par**:
 
@@ -37952,63 +38379,204 @@ Les sommes correspondantes sont recouvrées par le Trésor public et versées au
 	  - Code monétaire et financier - art. R613-2 (Ab)
 	  - Code monétaire et financier - art. R613-7 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L524-3 (VD)
+
 
 ###### Article L520-4
 
-I.-Les agents des douanes ayant au moins le grade de contrôleur sont habilités à rechercher et constater les manquements aux
-règles applicables aux changeurs manuels prévues par le présent titre et par le titre VI du présent livre ou les textes
-réglementaires pris pour leur application. 
+L'exercice de la profession de changeur manuel est interdit à toute personne n'ayant pas reçu une autorisation préalable du
+comité des établissements de crédit et des entreprises d'investissement.
 
-II.-A cette fin, les agents des douanes mentionnés au I ci-dessus ont accès, durant les heures d'activité professionnelle des
-changeurs manuels, aux locaux à usage professionnel à l'exclusion des parties de ces locaux affectées au domicile privé. 
-
-Ils peuvent se faire communiquer les registres et les documents professionnels que les changeurs manuels sont tenus d'établir
-en application des articles L. 520-1 à L. 520-3, et L. 563-2 à L. 563-4. 
-
-Ils peuvent se faire délivrer copie des documents susmentionnés. 
-
-Ils peuvent procéder au contrôle de caisse. 
-
-Ils peuvent recueillir sur place ou sur convocation des renseignements et justifications. Les auditions auxquelles
-l'application des dispositions qui précèdent peuvent donner lieu font l'objet de comptes rendus écrits. 
-
-III.-Lorsqu'il est fait application des dispositions du II ci-dessus en vue de rechercher et constater les infractions
-pénales prévues à l'article L. 572-1, le procureur de la République est préalablement informé des opérations envisagées ; il
-peut s'y opposer. 
-
-IV.-A l'issue des contrôles, les agents des douanes établissent un procès-verbal. 
-
-La liste des documents dont une copie a été délivrée lui est annexée. 
-
-Le procès-verbal est signé par les agents des douanes ayant procédé au contrôle ainsi que par le changeur manuel personne
-physique ou son représentant s'il s'agit d'une personne morale, qui peut faire valoir ses observations dans un délai de
-trente jours. Celles-ci seront annexées au dossier par procès-verbal. En cas de refus de signer, mention en est faite au
-procès-verbal. Copie de celui-ci est remise à l'intéressé.
-
-V.-Le procès-verbal ainsi que le ou les comptes rendus d'audition et les observations du changeur manuel le cas échéant sont
-transmis à toutes fins utiles et dans les meilleurs délais à la commission bancaire.
+L'exercice de l'activité de change manuel ou la direction de droit ou de fait d'une entreprise exerçant une telle activité
+est interdit à toute personne qui a fait l'objet de la sanction prévue au 3 du II de l'article L. 613-21.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-614 1990-07-12 art. 25 bis
 	  - Loi n°90-614 du 12 juillet 1990 - art. 25 bis (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code monétaire et financier - art. L520-1, v. 3.1 (V)
-	  - Code monétaire et financier - art. L563-2 (V)
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L520-2 (V)
 	  - Code monétaire et financier - art. L572-1 (V)
 	  - Code monétaire et financier - art. L572-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L524-4 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-21
+
+
+###### Article L520-5
+
+Il est interdit à toute entreprise qui n'a pas la qualité de changeur manuel d'utiliser une dénomination, une raison sociale,
+une publicité ou tout autre procédé laissant croire qu'elle est autorisée en cette qualité ou de créer une confusion à cet
+égard.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L524-5 (VD)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L572-1 (V)
+
+
+###### Article L520-6
+
+I.-Les changeurs manuels sont tenus à tout moment de justifier du respect des conditions mentionnées à l'article L. 520-3
+ainsi que du respect de l'ensemble des dispositions auxquelles ils sont assujettis, notamment de celles des dispositions du
+titre VI qui leur sont applicables. 
+
+Les changeurs manuels tiennent un registre de leurs transactions. 
+
+Le ministre chargé de l'économie peut, par arrêté, les soumettre à des règles et conditions particulières relatives à leurs
+obligations prévues par le titre VI et par le présent titre, ainsi qu'à des règles d'exécution des opérations de change
+manuel, d'organisation et de contrôle interne propres à en assurer le respect. 
+
+II.-La Commission bancaire exerce le pouvoir disciplinaire sur les changeurs manuels dans les conditions prévues au II de
+l'article L. 613-21. 
+
+La Commission bancaire exerce le contrôle, notamment sur place, des changeurs manuels dans les conditions prévues aux
+articles L. 613-6 à L. 613-8, L. 613-10, L. 613-11 et L. 613-20. Les agents chargés du contrôle sur place peuvent procéder au
+contrôle de caisse. 
+
+Les agents des douanes ayant au moins le grade de contrôleur peuvent également exercer, pour le compte de la Commission
+bancaire, le contrôle sur place des changeurs manuels dans les conditions prévues à l'article L. 520-7. 
+
+Nonobstant toute disposition législative contraire, la Commission bancaire et l'administration des douanes peuvent, pour
+l'application des dispositions du présent titre et du titre VI du présent livre, se communiquer les informations nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
+
+	**Cité par**:
+
+	  - Arrêté du 10 septembre 2009 - art. 4 (V)
+	  - Code monétaire et financier - art. L520-6 (VT)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L520-3
+	  - Code monétaire et financier - art. L613-10
+	  - Code monétaire et financier - art. L613-11
+	  - Code monétaire et financier - art. L613-20
+	  - Code monétaire et financier - art. L613-21
+	  - Code monétaire et financier - art. L613-6
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L524-6 (VD)
+
+
+###### Article L520-7
+
+I.-Les agents des douanes ayant au moins le grade de contrôleur sont habilités à rechercher et constater les manquements aux
+règles applicables aux changeurs manuels, prévues par le présent titre et par le titre VI ou les textes réglementaires pris
+pour leur application. 
+
+II.-A cette fin, les agents des douanes mentionnés au I ont accès, durant les heures d'activité professionnelle des changeurs
+manuels, aux locaux à usage professionnel à l'exclusion des parties de ces locaux affectées au domicile privé. 
+
+Ils peuvent se faire communiquer les registres et les documents professionnels que les changeurs manuels sont tenus d'établir
+en application du présent titre et des articles L. 563-2 à L. 563-4. 
+
+Ils peuvent se faire délivrer copie des documents susmentionnés. 
+
+Ils peuvent procéder au contrôle de caisse. 
+
+Ils peuvent recueillir sur place ou sur convocation des renseignements et justifications. Les auditions des changeurs
+manuels, auxquelles l'application des dispositions qui précèdent peut donner lieu, font l'objet de comptes rendus écrits. 
+
+III.-Lorsqu'il est fait application des dispositions du II en vue de rechercher et constater les infractions pénales prévues
+à l'article L. 572-1, le procureur de la République est préalablement informé des opérations envisagées. Il peut s'y opposer
+dans un délai fixé par voie réglementaire. 
+
+IV.-A l'issue des contrôles, les agents des douanes établissent un procès-verbal. 
+
+La liste des documents dont une copie a été délivrée lui est annexée. 
+
+Le procès-verbal est signé par les agents des douanes ayant procédé au contrôle ainsi que par le changeur manuel ou, s'il
+s'agit d'une personne morale, son représentant. La personne intéressée peut faire valoir ses observations dans un délai de
+trente jours. Celles-ci sont jointes au dossier. En cas de refus de signer, mention en est faite au procès-verbal. Copie de
+celui-ci est remise à l'intéressé.
+
+V.-Le procès-verbal ainsi que le ou les comptes rendus d'audition et les observations du changeur manuel sont transmis dans
+les meilleurs délais à la Commission bancaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L524-7 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L563-2
+	  - Code monétaire et financier - art. L572-1
 
 
 ### Titre III : Les prestataires de services d'investissement
@@ -39017,7 +39585,7 @@ services d'investissement ou chez la personne morale émettrice.
 
 Les sociétés de gestion de portefeuille sont des entreprises d'investissement qui fournissent, à titre principal, le service
 d'investissement mentionné au 4 de l'article L. 321-1, ou qui gèrent un ou plusieurs organismes de placement collectifs
-mentionnés aux 1, 2 et 5 du I de l'article L. 214-1. 
+mentionnés aux 1, 2, 5 et 6 du I de l'article L. 214-1. 
 
 Les sociétés de gestion de portefeuille sont agréées par l'Autorité des marchés financiers. 
 
@@ -39038,8 +39606,8 @@ seule personne. Il précise les mesures qui doivent être prises pour garantir l
 concernée ; 
 
 5. Dispose d'un programme d'activité pour chacun des services qu'elle entend exercer, qui précise les conditions dans
-lesquelles elle envisage       de fournir les services d'investissement concernés ou d'exercer la gestion des organismes
-mentionnés au premier alinéa et indique le type d'opérations envisagées et la structure de son organisation ; 
+lesquelles elle envisage de fournir les services d'investissement concernés ou d'exercer la gestion des organismes mentionnés
+au premier alinéa et indique le type d'opérations envisagées et la structure de son organisation ; 
 
 6. Adhère à un mécanisme de garantie des titres géré par le Fonds de garantie des dépôts conformément aux articles L. 322-5
 et L. 322-10.
@@ -39129,7 +39697,7 @@ Les sociétés de gestion de portefeuille doivent satisfaire à tout moment aux 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 7
+	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
 
 	**Cite**:
 
@@ -42091,24 +42659,29 @@ ses fonctions par décision de justice à la demande du gestionnaire ou de tout 
 
 ### Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux, le financement des activités terroristes et les loteries, jeux et paris prohibés
 
-#### Chapitre Ier : Déclaration de certaines sommes ou opérations.
+#### Chapitre Ier : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement du terrorisme
+
+##### Section 1 : Personnes soumises à une obligation de déclaration au procureur de la République
 
 ###### Article L561-1
 
-Les personnes autres que celles mentionnées à l'article L. 562-1 qui, dans l'exercice de leur profession, réalisent,
+Les personnes autres que celles mentionnées à l'article L. 561-2 qui, dans l'exercice de leur profession, réalisent,
 contrôlent ou conseillent des opérations entraînant des mouvements de capitaux, sont tenues de déclarer au procureur de la
 République les opérations dont elles ont connaissance et qui portent sur des sommes qu'elles savent provenir de l'une des
-infractions mentionnées à l'article L. 562-2.
+infractions mentionnées à l'article L. 561-15. 
 
-Lorsqu'elles ont fait de bonne foi une telle déclaration, ces personnes bénéficient des dispositions de l'article L. 562-8.
-Elles sont tenues de respecter les obligations définies à l'article L. 574-1. Le procureur de la République informe le
-service mentionné à l'article L. 562-4 qui lui fournit tous renseignements utiles.
+Lorsqu'elles ont fait de bonne foi une telle déclaration, ces personnes bénéficient des dispositions de l'article L. 561-22. 
+
+Les dispositions de l'article L. 574-1 leur sont applicables lorsqu'elles portent à la connaissance du propriétaire de ces
+sommes ou de l'auteur de ces opérations l'existence de cette déclaration ou donnent des informations sur les suites qui lui
+ont été réservées. 
+
+Le procureur de la République informe le service mentionné à l'article L. 561-23 qui lui fournit tous renseignements utiles.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-614 1990-07-12 art. 2
 	  - Loi n°90-614 du 12 juillet 1990 - art. 2 (Ab)
 
 	**Codifié par**:
@@ -42117,7 +42690,7 @@ service mentionné à l'article L. 562-4 qui lui fournit tous renseignements uti
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
 
 	**Cité par**:
 
@@ -42125,71 +42698,2460 @@ service mentionné à l'article L. 562-4 qui lui fournit tous renseignements uti
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L562-4 (M)
-	  - Code monétaire et financier - art. L562-8 (M)
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-22
+	  - Code monétaire et financier - art. L561-23
+	  - Code monétaire et financier - art. L574-1
+
+
+##### Section 2 : Personnes assujetties aux obligations de lutte contre le blanchiment des capitaux et le financement du terrorisme
+
+###### Article L561-2
+
+Sont assujettis aux obligations prévues par les dispositions des sections 2 à 7 du présent chapitre : 
+
+1° Les organismes, institutions et services régis par les dispositions du titre Ier du présent livre ; 
+
+2° Les entreprises mentionnées à l'article L. 310-1 du code des assurances et les intermédiaires d'assurance sauf ceux qui
+agissent sous l'entière responsabilité de l'entreprise d'assurance ; 
+
+3° Les institutions ou unions régies par le titre III du livre IX du code de la sécurité sociale ou relevant du II de
+l'article L. 727-2 du code rural ; 
+
+4° Les mutuelles et unions régies par le livre II du code de la mutualité ; 
+
+5° La Banque de France, l'institut d'émission des départements d'outre-mer mentionné à l'article L. 711-2 du présent code et
+l'institut d'émission d'outre-mer mentionné à l'article L. 712-4 du même code ; 
+
+6° Les entreprises d'investissement autres que les sociétés de gestion de portefeuille, les personnes mentionnées à l'article
+L. 440-2, les entreprises de marché mentionnées à l'article L. 421-2, les dépositaires centraux et gestionnaires de systèmes
+de règlement et de livraison d'instruments financiers, les conseillers en investissements financiers et les intermédiaires
+habilités mentionnés à l'article L. 211-4, les sociétés de gestion de portefeuille au titre des services d'investissement
+mentionnés à l'article L. 321-1, ainsi que les sociétés de gestion de portefeuille et les sociétés de gestion au titre de la
+commercialisation des parts ou actions d'organismes de placement collectif dont elles assurent ou non la gestion ; 
+
+7° Les changeurs manuels ; 
+
+8° Les personnes exerçant les activités mentionnées aux 1°, 2°, 4°, 5° et 8° de l'article 1er de la loi n° 70-9 du 2 janvier
+1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les
+fonds de commerce, à l'exclusion de l'échange, de la location ou de la sous-location, saisonnière ou non, en nu ou en
+meublé ; 
+
+9° Les représentants légaux et directeurs responsables de casinos et les groupements, cercles et sociétés organisant des jeux
+de hasard, des loteries, des paris, des pronostics sportifs ou hippiques ; 
+
+10° Les personnes se livrant habituellement au commerce ou organisant la vente de pierres précieuses, de matériaux précieux,
+d'antiquités et d'œuvres d'art ; 
+
+11° Les entreprises bénéficiant de l'exemption prévue au II de l'article L. 511-7 ; 
+
+12° Les experts-comptables, les salariés autorisés à exercer la profession d'expert-comptable en application des articles 83
+ter et 83 quater de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et
+réglementant les titres et la profession d'expert-comptable ainsi que les commissaires aux comptes ; 
+
+13° Les avocats au Conseil d'Etat et à la Cour de cassation, les avocats, les avoués près les cours d'appel, les notaires,
+les huissiers de justice, les administrateurs judiciaires, les mandataires judiciaires et les commissaires-priseurs
+judiciaires, dans les conditions prévues à l'article L. 561-3 ; 
+
+14° Les sociétés de ventes volontaires de meubles aux enchères publiques ; 
+
+15° Les personnes exerçant l'activité de domiciliation mentionnée aux articles L. 123-11-2 et suivants du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 83 quater
+	  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 83 ter
+	  - Loi n°70-9 du 2 janvier 1970 - art. 1
+	  - Code rural - art. L727-2
+	  - Code monétaire et financier - art. L211-4
+	  - Code monétaire et financier - art. L321-1
+	  - Code monétaire et financier - art. L421-2
+	  - Code monétaire et financier - art. L440-2
+	  - Code monétaire et financier - art. L511-7
+	  - Code monétaire et financier - art. L711-2
+	  - Code monétaire et financier - art. L712-4
+	  - Code des assurances - art. L310-1
+	  - Code de l'environnement - art. L561-3
+
+	**Cité par**:
+
+	  - Décret n°47-798 du 5 mai 1947 - art. 1-2 (VT)
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 19 (V)
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 12 (V)
+	  - Décret n°2009-874 du 16 juillet 2009 - art. 1 (V)
+	  - Arrêté du 10 septembre 2009 - art. 4 (VD)
+	  - Arrêté du 10 novembre 2009 (V)
+	  - Arrêté du 10 novembre 2009 - art. 1
+	  - Arrêté du 27 juillet 2011 - art. 2 (V)
+	  - Décret n°2012-1125 du 3 octobre 2012 (V)
+	  - Arrêté du 23 octobre 2012 - art. 1 (V)
+	  - Décret n°2013-183 du 28 février 2013 (V)
+	  - Décret n°2013-385 du 7 mai 2013 (V)
+	  - Arrêté du 6 juin 2013 - art. 2 (V)
+	  - Arrêté du 6 juin 2013 - art. 3 (V)
+	  - Arrêté du 6 juin 2013 - art. 4 (V)
+	  - Arrêté du 6 juin 2013 - art. 7 (V)
+	  - Décret n°2013-480 du 6 juin 2013 (V)
+	  - Arrêté du 16 septembre 2013 (V)
+	  - Arrêté du 16 septembre 2013 - art. 1 (V)
+	  - Ordonnance n°2014-559 du 30 mai 2014 - art. 33 (VD)
+	  - Décret n°2014-1540 du 18 décembre 2014 - art. 3
+	  - Décret n°2015-324 du 23 mars 2015 (V)
+	  - Décret n°2015-1090 du 28 août 2015 - art. (VD)
+	  - Code de commerce - art. A823-37 (V)
+	  - Code de la mutualité - art. A114-2 (V)
+	  - Code de la mutualité - art. R211-28 (VT)
+	  - Code de la sécurité sociale. - art. A951-3-3 (V)
+	  - Code de la sécurité sociale. - art. R931-43 (V)
+	  - Code des assurances - art. A310-7 (V)
+	  - Code des assurances - art. R336-1 (V)
+	  - Code monétaire et financier - art. D520-1 (V)
+	  - Code monétaire et financier - art. D524-1 (V)
+	  - Code monétaire et financier - art. D561-31-3 (VD)
+	  - Code monétaire et financier - art. D561-32-1 (V)
+	  - Code monétaire et financier - art. D561-51 (V)
+	  - Code monétaire et financier - art. D561-53 (V)
+	  - Code monétaire et financier - art. D561-54 (V)
+	  - Code monétaire et financier - art. L561-1 (V)
+	  - Code monétaire et financier - art. L561-10 (VT)
+	  - Code monétaire et financier - art. L561-10-1 (M)
+	  - Code monétaire et financier - art. L561-10-2 (V)
+	  - Code monétaire et financier - art. L561-10-3 (V)
+	  - Code monétaire et financier - art. L561-11 (V)
+	  - Code monétaire et financier - art. L561-12 (V)
+	  - Code monétaire et financier - art. L561-13 (V)
+	  - Code monétaire et financier - art. L561-14 (V)
+	  - Code monétaire et financier - art. L561-15 (V)
+	  - Code monétaire et financier - art. L561-15-1 (V)
+	  - Code monétaire et financier - art. L561-16 (VD)
+	  - Code monétaire et financier - art. L561-18 (M)
+	  - Code monétaire et financier - art. L561-19 (VD)
+	  - Code monétaire et financier - art. L561-2-1 (V)
+	  - Code monétaire et financier - art. L561-20 (VD)
+	  - Code monétaire et financier - art. L561-21 (V)
+	  - Code monétaire et financier - art. L561-22 (VT)
+	  - Code monétaire et financier - art. L561-25 (V)
+	  - Code monétaire et financier - art. L561-26 (V)
+	  - Code monétaire et financier - art. L561-28 (VD)
+	  - Code monétaire et financier - art. L561-29-1 (V)
+	  - Code monétaire et financier - art. L561-3 (M)
+	  - Code monétaire et financier - art. L561-32 (M)
+	  - Code monétaire et financier - art. L561-33 (M)
+	  - Code monétaire et financier - art. L561-34 (M)
+	  - Code monétaire et financier - art. L561-35 (V)
+	  - Code monétaire et financier - art. L561-36 (V)
+	  - Code monétaire et financier - art. L561-37 (M)
+	  - Code monétaire et financier - art. L561-38 (M)
+	  - Code monétaire et financier - art. L561-4 (V)
+	  - Code monétaire et financier - art. L561-41 (M)
+	  - Code monétaire et financier - art. L561-45 (V)
+	  - Code monétaire et financier - art. L561-47 (VD)
+	  - Code monétaire et financier - art. L561-5 (M)
+	  - Code monétaire et financier - art. L561-6 (V)
+	  - Code monétaire et financier - art. L561-7 (V)
+	  - Code monétaire et financier - art. L561-8 (M)
+	  - Code monétaire et financier - art. L561-9 (V)
+	  - Code monétaire et financier - art. L562-11 (VD)
+	  - Code monétaire et financier - art. L562-2 (VD)
+	  - Code monétaire et financier - art. L562-3 (VD)
+	  - Code monétaire et financier - art. L562-4 (VD)
+	  - Code monétaire et financier - art. L562-8 (VD)
+	  - Code monétaire et financier - art. L562-9 (VD)
+	  - Code monétaire et financier - art. L574-4 (V)
+	  - Code monétaire et financier - art. L713-4 (VD)
+	  - Code monétaire et financier - art. L725-3 (V)
+	  - Code monétaire et financier - art. L745-13 (MMN)
+	  - Code monétaire et financier - art. L755-13 (MMN)
+	  - Code monétaire et financier - art. L765-13 (VT)
+	  - Code monétaire et financier - art. R214-203-3 (V)
+	  - Code monétaire et financier - art. R561-1 (V)
+	  - Code monétaire et financier - art. R561-10 (V)
+	  - Code monétaire et financier - art. R561-11 (V)
+	  - Code monétaire et financier - art. R561-12 (V)
+	  - Code monétaire et financier - art. R561-13 (V)
+	  - Code monétaire et financier - art. R561-14 (V)
+	  - Code monétaire et financier - art. R561-15 (V)
+	  - Code monétaire et financier - art. R561-16 (VD)
+	  - Code monétaire et financier - art. R561-16-1 (V)
+	  - Code monétaire et financier - art. R561-17 (V)
+	  - Code monétaire et financier - art. R561-2 (V)
+	  - Code monétaire et financier - art. R561-20 (V)
+	  - Code monétaire et financier - art. R561-23 (V)
+	  - Code monétaire et financier - art. R561-24 (V)
+	  - Code monétaire et financier - art. R561-27 (V)
+	  - Code monétaire et financier - art. R561-28 (VD)
+	  - Code monétaire et financier - art. R561-29 (V)
+	  - Code monétaire et financier - art. R561-3 (V)
+	  - Code monétaire et financier - art. R561-30 (V)
+	  - Code monétaire et financier - art. R561-31 (VD)
+	  - Code monétaire et financier - art. R561-31-2 (V)
+	  - Code monétaire et financier - art. R561-37-1 (V)
+	  - Code monétaire et financier - art. R561-38 (V)
+	  - Code monétaire et financier - art. R561-39 (V)
+	  - Code monétaire et financier - art. R561-40 (V)
+	  - Code monétaire et financier - art. R561-5 (V)
+	  - Code monétaire et financier - art. R561-6 (V)
+	  - Code monétaire et financier - art. R561-7 (V)
+	  - Code monétaire et financier - art. R561-8 (V)
+	  - Code monétaire et financier - art. R561-9 (V)
+	  - Code monétaire et financier - art. R562-1 (VD)
+	  - Code monétaire et financier - art. R562-2 (V)
+	  - Code monétaire et financier - art. R562-3 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+
+###### Article L561-2-1
+
+Pour l'application du présent chapitre, une relation d'affaires est nouée lorsqu'une personne mentionnée à l'article L. 561-2
+engage une relation professionnelle ou commerciale qui est censée, au moment où le contact est établi, s'inscrire dans une
+certaine durée. La relation d'affaires peut être prévue par un contrat selon lequel plusieurs opérations successives seront
+réalisées entre les cocontractants ou qui crée à ceux-ci des obligations continues. Une relation d'affaires est également
+nouée lorsqu'en l'absence d'un tel contrat un client bénéficie de manière régulière de l'intervention d'une personne
+susmentionnée pour la réalisation de plusieurs opérations ou d'une opération présentant un caractère continu ou, s'agissant
+des personnes mentionnées au 12° de l'article L. 561-2, pour l'exécution d'une mission légale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+
+
+###### Article L561-2-2
+
+Pour l'application du présent chapitre, le bénéficiaire effectif s'entend de la personne physique qui contrôle, directement
+ou indirectement, le client ou de celle pour laquelle une transaction est exécutée ou une activité réalisée. 
+
+Un décret en Conseil d'Etat précise la définition du bénéficiaire effectif pour les différentes catégories de personnes
+morales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2016-1683 du 5 décembre 2016 - art. 11 (V)
+	  - Code monétaire et financier - art. L561-46 (VD)
+
+
+###### Article L561-3
+
+I.-Les personnes mentionnées au 13° de l'article L. 561-2 sont soumises aux dispositions du présent chapitre lorsque, dans le
+cadre de leur activité professionnelle : 
+
+1° Elles participent au nom et pour le compte de leur client à toute transaction financière ou immobilière ou agissent en
+qualité de fiduciaire ; 
+
+2° Elles assistent leur client dans la préparation ou la réalisation des transactions concernant : 
+
+a) L'achat et la vente de biens immeubles ou de fonds de commerce ; 
+
+b) La gestion de fonds, titres ou autres actifs appartenant au client ; 
+
+c) L'ouverture de comptes bancaires, d'épargne ou de titres ou de contrats d'assurance ; 
+
+d) L'organisation des apports nécessaires à la création des sociétés ; 
+
+e) La constitution, la gestion ou la direction des sociétés ; 
+
+f) La constitution, la gestion ou la direction de fiducies, régies par les articles 2011 à 2031 du code civil ou de droit
+étranger, ou de toute autre structure similaire ; 
+
+g) La constitution ou la gestion de fonds de dotation. 
+
+II.-Les avocats au Conseil d'Etat et à la Cour de cassation, les avocats et les avoués près les cours d'appel, dans
+l'exercice d'une activité relative aux transactions mentionnées au I, ne sont pas soumis aux dispositions du présent chapitre
+lorsque l'activité se rattache à une procédure juridictionnelle, que les informations dont ils disposent soient reçues ou
+obtenues avant, pendant ou après cette procédure, y compris dans le cadre de conseils relatifs à la manière d'engager ou
+d'éviter une telle procédure, non plus que lorsqu'ils donnent des consultations juridiques, à moins qu'elles n'aient été
+fournies à des fins de blanchiment de capitaux ou de financement du terrorisme ou en sachant que le client les demande aux
+fins de blanchiment de capitaux ou de financement du terrorisme. 
+
+III.-Les autres personnes mentionnées au 13° de l'article L. 561-2, dans l'exercice d'une activité relative aux transactions
+mentionnées au I, ne sont pas soumises aux dispositions de la section 4 du présent chapitre lorsqu'elles donnent des
+consultations juridiques, à moins qu'elles n'aient été fournies à des fins de blanchiment de capitaux ou de financement du
+terrorisme ou en sachant que le client les demande aux fins de blanchiment de capitaux ou de financement du terrorisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2014-585 du 4 juin 2014 (V)
+	  - Code monétaire et financier - art. D561-3-1 (V)
+	  - Code monétaire et financier - art. L561-15-1 (V)
+	  - Code monétaire et financier - art. L561-17 (VD)
+	  - Code monétaire et financier - art. L561-2 (VT)
+	  - Code monétaire et financier - art. L713-4 (VD)
+	  - Code monétaire et financier - art. L745-13 (MMN)
+	  - Code monétaire et financier - art. L755-13 (MMN)
+	  - Code monétaire et financier - art. R561-32 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 2011
+
+
+###### Article L561-4
+
+Les personnes physiques ou morales qui exercent, en lien direct avec leur activité principale, une activité financière
+accessoire qui relève d'une des catégories mentionnées aux 1° à 7° de l'article L. 561-2 et qui présente peu de risques de
+blanchiment de capitaux ou de financement du terrorisme sont exemptées des obligations du présent chapitre. 
+
+Un décret en Conseil d'Etat définit les activités financières accessoires en fonction de leur nature, de leur volume et du
+montant des opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R561-4 (V)
+
+
+##### Section 3 : Obligations de vigilance à l'égard de la clientèle
+
+###### Article L561-5
+
+I.-Avant d'entrer en relation d'affaires avec leur client ou de l'assister dans la préparation ou la réalisation d'une
+transaction, les personnes mentionnées à l'article L. 561-2 identifient leur client et, le cas échéant, le bénéficiaire
+effectif de la relation d'affaires par des moyens adaptés et vérifient ces éléments d'identification sur présentation de tout
+document écrit probant. 
+
+Elles identifient dans les mêmes conditions leurs clients occasionnels et, le cas échéant, le bénéficiaire effectif de la
+relation d'affaires, lorsqu'elles soupçonnent que l'opération pourrait participer au blanchiment des capitaux ou au
+financement du terrorisme ou, dans des conditions fixées par décret en Conseil d'Etat, lorsque les opérations sont d'une
+certaine nature ou dépassent un certain montant. 
+
+II.-Par dérogation au I, lorsque le risque de blanchiment des capitaux ou de financement du terrorisme paraît faible et dans
+des conditions fixées par décret en Conseil d'Etat, il peut être procédé uniquement pendant l'établissement de la relation
+d'affaires à la vérification de l'identité du client et, le cas échéant, du bénéficiaire effectif. 
+
+III.-Les personnes mentionnées au 9° de l'article L. 561-2 satisfont à ces obligations en appliquant les mesures prévues à
+l'article L. 561-13. 
+
+IV.-Les conditions d'application des I et II du présent article sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 19 (V)
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 12 (V)
+	  - Arrêté du 10 novembre 2009 (V)
+	  - Arrêté du 2 mai 2013 - art. 56 (V)
+	  - Arrêté du 3 novembre 2014 - art. 63 (V)
+	  - Code de commerce - art. A823-37 (V)
+	  - Code de la sécurité sociale. - art. A951-3-3 (M)
+	  - Code des assurances - art. A310-6 (V)
+	  - Code monétaire et financier - art. D315-2 (V)
+	  - Code monétaire et financier - art. L561-10 (VT)
+	  - Code monétaire et financier - art. L561-10-1 (M)
+	  - Code monétaire et financier - art. L561-10-2 (V)
+	  - Code monétaire et financier - art. L561-13 (V)
+	  - Code monétaire et financier - art. L561-14-1 (V)
+	  - Code monétaire et financier - art. L561-14-2 (V)
+	  - Code monétaire et financier - art. L561-15 (V)
+	  - Code monétaire et financier - art. L561-45 (V)
+	  - Code monétaire et financier - art. L561-7 (M)
+	  - Code monétaire et financier - art. L561-8 (M)
+	  - Code monétaire et financier - art. L561-9 (V)
+	  - Code monétaire et financier - art. L713-4 (VD)
+	  - Code monétaire et financier - art. R561-10 (V)
+	  - Code monétaire et financier - art. R561-13 (V)
+	  - Code monétaire et financier - art. R561-15 (V)
+	  - Code monétaire et financier - art. R561-16 (VD)
+	  - Code monétaire et financier - art. R561-20 (V)
+	  - Code monétaire et financier - art. R561-21 (V)
+	  - Code monétaire et financier - art. R561-5 (V)
+	  - Code monétaire et financier - art. R561-6 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+
+
+###### Article L561-6
+
+Avant d'entrer en relation d'affaires avec un client, les personnes mentionnées à l'article L. 561-2 recueillent les
+informations relatives à l'objet et à la nature de cette relation et tout autre élément d'information pertinent sur ce
+client. 
+
+Pendant toute sa durée et dans les conditions fixées par décret en Conseil d'Etat, ces personnes exercent sur la relation
+d'affaires, dans la limite de leurs droits et obligations, une vigilance constante et pratiquent un examen attentif des
+opérations effectuées en veillant à ce qu'elles soient cohérentes avec la connaissance actualisée qu'elles ont de leur
+client.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 2 septembre 2009 (V)
+	  - Arrêté du 10 novembre 2009 (V)
+	  - Code de commerce - art. A823-37 (V)
+	  - Code monétaire et financier - art. L561-10 (M)
+	  - Code monétaire et financier - art. L561-10-1 (M)
+	  - Code monétaire et financier - art. L561-10-2 (M)
+	  - Code monétaire et financier - art. L561-7 (V)
+	  - Code monétaire et financier - art. L561-9 (V)
+	  - Code monétaire et financier - art. R561-12 (V)
+	  - Code monétaire et financier - art. R561-16 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+
+
+###### Article L561-7
+
+I.-Pour les personnes mentionnées aux 1° à 6° de l'article L. 561-2, les obligations prévues au premier alinéa des articles
+L. 561-5 et L. 561-6 peuvent être mises en œuvre par un tiers dans les conditions suivantes : 
+
+a) Le tiers est une personne mentionnée aux 1° à 6° ou aux 12° ou 13° de l'article L. 561-2, située ou ayant son siège social
+en France ou une personne appartenant à une catégorie équivalente sur le fondement d'un droit étranger et située dans un pays
+tiers imposant des obligations équivalentes en matière de lutte contre le blanchiment et le financement du terrorisme
+figurant sur la liste prévue au 2° du II de l'article L. 561-9 ; 
+
+b) La personne assujettie a accès aux informations recueillies par le tiers dans les conditions prévues par un décret en
+Conseil d'Etat. 
+
+La personne assujettie qui se repose sur les diligences effectuées par un tiers demeure responsable du respect de ses
+obligations. 
+
+II.-Les personnes mentionnées aux 1° à 6° de l'article L. 561-2 peuvent communiquer les informations recueillies pour la mise
+en œuvre du premier alinéa des articles L. 561-5 et L. 561-6 à une autre personne mentionnée aux 1° à 6° de l'article L.
+561-2 située ou ayant son siège social en France. Elles peuvent également communiquer ces informations à un établissement
+proposant des activités financières équivalentes à celles exercées par les personnes mentionnées aux 1° à 6° de l'article L.
+561-2, dans les conditions suivantes : 
+
+a) Le tiers destinataire est situé dans un pays tiers imposant des obligations équivalentes en matière de lutte contre le
+blanchiment et le financement des activités terroristes, dont la liste est mentionnée au 2° du II de l'article L. 561-9 ; 
+
+b) Le traitement par le tiers destinataire des données à caractère personnel garantit un niveau de protection suffisant de la
+vie privée et des libertés et droits fondamentaux des personnes, conformément aux articles 68 et 69 de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 68
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-5
+	  - Code monétaire et financier - art. L561-6
+	  - Code monétaire et financier - art. L561-9
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-55 (V)
+	  - Arrêté du 12 novembre 2004 - art. 320-20 (V)
+	  - Code des assurances - art. A310-8 (V)
+	  - Code monétaire et financier - art. R561-13 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+
+###### Article L561-8
+
+Lorsqu'une personne mentionnée à l'article L. 561-2 n'est pas en mesure d'identifier son client ou d'obtenir des informations
+sur l'objet et la nature de la relation d'affaires, elle n'exécute aucune opération, quelles qu'en soient les modalités, et
+n'établit ni ne poursuit aucune relation d'affaires. Lorsqu'elle n'a pas été en mesure d'identifier son client ou d'obtenir
+des informations sur l'objet et la nature de la relation d'affaires et que celle-ci a néanmoins été établie en application du
+II de l'article L. 561-5, elle y met un terme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code de commerce - art. A823-37 (V)
+	  - Code monétaire et financier - art. L561-45 (V)
+	  - Code monétaire et financier - art. R561-14 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-5
+
+
+###### Article L561-9
+
+I.-Lorsque le risque de blanchiment des capitaux et de financement du terrorisme leur paraît faible, les personnes
+mentionnées à l'article L. 561-2 peuvent réduire l'intensité des mesures prévues à l'article L. 561-6. Dans ce cas, elles
+justifient auprès de l'autorité de contrôle mentionnée à l'article L. 561-36 que l'étendue des mesures est appropriée à ces
+risques. 
+
+II.-Les personnes mentionnées à l'article L. 561-2 ne sont pas soumises aux obligations prévues aux articles L. 561-5 et L.
+561-6, pour autant qu'il n'existe pas de soupçon de blanchiment de capitaux ou de financement du terrorisme, dans les cas
+suivants : 
+
+1° Pour les clients ou les produits qui présentent un faible risque de blanchiment de capitaux ou de financement du
+terrorisme, dont la liste est définie par décret en Conseil d'Etat ; 
+
+2° Lorsque le client est une personne mentionnée aux 1° à 6° de l'article L. 561-2, établie ou ayant son siège en France,
+dans un autre Etat membre de l'Union européenne ou dans un pays tiers imposant des obligations équivalentes de lutte contre
+le blanchiment et le financement du terrorisme. La liste de ces pays est arrêtée par le ministre chargé de l'économie. 
+
+Les personnes mentionnées à l'article L. 561-2 recueillent des informations suffisantes sur leur client à l'effet de vérifier
+qu'il est satisfait aux conditions prévues aux deux précédents alinéas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 10 novembre 2009 (V)
+	  - Arrêté du 27 juillet 2011 - art. 1 (V)
+	  - Décret n°2013-183 du 28 février 2013 (V)
+	  - Code monétaire et financier - art. L561-10 (VT)
+	  - Code monétaire et financier - art. L561-10-1 (M)
+	  - Code monétaire et financier - art. L561-20 (VD)
+	  - Code monétaire et financier - art. L561-21 (V)
+	  - Code monétaire et financier - art. L561-45 (V)
+	  - Code monétaire et financier - art. L561-7 (V)
+	  - Code monétaire et financier - art. R561-15 (V)
+	  - Code monétaire et financier - art. R561-16 (VD)
+	  - Code monétaire et financier - art. R561-16-1 (V)
+	  - Code monétaire et financier - art. R561-20 (V)
+	  - Code monétaire et financier - art. R561-8 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-36
+	  - Code monétaire et financier - art. L561-5
+	  - Code monétaire et financier - art. L561-6
+
+
+###### Article L561-10
+
+Les personnes mentionnées à l'article L. 561-2 appliquent des mesures de vigilance complémentaires à l'égard de leur client,
+en sus des mesures prévues aux articles L. 561-5 et L. 561-6, lorsque : 
+
+1° Le client ou son représentant légal n'est pas physiquement présent aux fins de l'identification ; 
+
+2° Le client est une personne résidant dans un autre Etat membre de l'Union européenne ou un pays tiers et qui est exposée à
+des risques particuliers en raison des fonctions politiques, juridictionnelles ou administratives qu'elle exerce ou a
+exercées pour le compte d'un autre Etat ou de celles qu'exercent ou ont exercées des membres directs de sa famille ou des
+personnes connues pour lui être étroitement associées ; 
+
+3° Le produit ou l'opération favorise l'anonymat de celle-ci ; 
+
+4° L'opération est une opération pour compte propre ou pour compte de tiers effectuée avec des personnes physiques ou
+morales, y compris leurs filiales ou établissements, domiciliées, enregistrées ou établies dans un Etat ou un territoire
+mentionné au VI de l'article L. 561-15. 
+
+Un décret en Conseil d'Etat précise les catégories de personnes mentionnées au 2°, la liste des produits et des opérations
+mentionnées au 3°, ainsi que les mesures de vigilance complémentaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-55 (V)
+	  - Arrêté du 12 novembre 2004 - art. 320-20 (V)
+	  - Code des assurances - art. A310-8 (V)
+	  - Code monétaire et financier - art. L561-12 (V)
+	  - Code monétaire et financier - art. L561-15 (V)
+	  - Code monétaire et financier - art. L561-22 (V)
+	  - Code monétaire et financier - art. L561-26 (V)
+	  - Code monétaire et financier - art. L561-45 (V)
+	  - Code monétaire et financier - art. R561-18 (V)
+	  - Code monétaire et financier - art. R561-19 (V)
+	  - Code monétaire et financier - art. R561-20 (V)
+	  - Code monétaire et financier - art. R561-5 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-5
+	  - Code monétaire et financier - art. L561-6
+
+
+###### Article L561-10-1
+
+Lorsqu'une personne mentionnée au 1° ou au 5° de l'article L. 561-2 ou une entreprise d'investissement autre qu'une société
+de gestion de portefeuille entretient avec un organisme financier situé dans un pays non membre de l'Union européenne ou qui
+n'est pas Partie à l'accord sur l'Espace économique européen une relation transfrontalière de correspondant bancaire ou une
+relation en vue de la distribution d'instruments financiers mentionnés à l'article L. 211-1, la personne française assujettie
+exerce sur l'organisme financier étranger avec lequel elle est en relation, en plus des mesures prévues aux articles L. 561-5
+et L. 561-6, des mesures de vigilance renforcée dont les modalités sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 64 (V)
+	  - Code monétaire et financier - art. R561-21 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-5
+	  - Code monétaire et financier - art. L561-6
+
+
+###### Article L561-10-2
+
+I.-Lorsque le risque de blanchiment des capitaux et de financement du terrorisme présenté par un client, un produit ou une
+transaction leur paraît élevé, les personnes mentionnées à l'article L. 561-2 renforcent l'intensité des mesures prévues aux
+articles L. 561-5 et L. 561-6. 
+
+II.-Les personnes mentionnées à l'article L. 561-2 effectuent un examen renforcé de toute opération particulièrement complexe
+ou d'un montant inhabituellement élevé ou ne paraissant pas avoir de justification économique ou d'objet licite. Dans ce cas,
+ces personnes se renseignent auprès du client sur l'origine des fonds et la destination de ces sommes ainsi que sur l'objet
+de l'opération et l'identité de la personne qui en bénéficie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-55 (V)
+	  - Arrêté du 12 novembre 2004 - art. 320-20 (V)
+	  - Arrêté du 3 novembre 2014 - art. 46 (V)
+	  - Arrêté du 3 novembre 2014 - art. 66 (V)
+	  - Arrêté du 3 novembre 2014 - art. 72 (V)
+	  - Code des assurances - art. A310-8 (V)
+	  - Code monétaire et financier - art. L561-12 (M)
+	  - Code monétaire et financier - art. L561-15 (V)
+	  - Code monétaire et financier - art. L561-22 (VT)
+	  - Code monétaire et financier - art. L561-26 (V)
+	  - Code monétaire et financier - art. R561-22 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-5
+	  - Code monétaire et financier - art. L561-6
+
+
+###### Article L561-10-3
+
+Il est interdit aux personnes mentionnées aux 1° et 5° de l'article L. 561-2 de nouer ou maintenir une relation de
+correspondant bancaire avec un établissement de crédit ou exerçant des activités équivalentes constitué dans un pays où cet
+établissement n'a aucune présence physique effective permettant que s'exercent des activités de direction et de gestion, s'il
+n'est pas rattaché à un établissement ou à un groupe réglementé. 
+
+Les personnes mentionnées aux 1° et 5° de l'article L. 561-2 prennent des mesures appropriées pour s'assurer qu'elles ne
+nouent ni ne maintiennent une relation de correspondant avec une personne entretenant elle-même des relations de banque
+correspondante permettant à un établissement constitué dans les conditions mentionnées à l'alinéa précédent d'utiliser ses
+comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+
+
+###### Article L561-11
+
+Un décret en Conseil d'Etat peut, pour des motifs d'ordre public, soumettre à des conditions spécifiques, restreindre ou
+interdire tout ou partie des opérations réalisées pour leur propre compte ou pour compte de tiers par les personnes
+mentionnées aux 1° à 7° de l'article L. 561-2 établies en France, avec des personnes physiques ou morales, y compris leurs
+filiales ou établissements, domiciliées, enregistrées ou établies dans l'ensemble des Etats ou territoires mentionnés au VI
+de l'article L. 561-15.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-2
+
+
+###### Article L561-12
+
+Sous réserve de dispositions plus contraignantes, les personnes mentionnées à l'article L. 561-2 conservent pendant cinq ans
+à compter de la clôture de leurs comptes ou de la cessation de leurs relations avec eux les documents relatifs à l'identité
+de leurs clients habituels ou occasionnels. Elles conservent également, dans la limite de leurs attributions, pendant cinq
+ans à compter de leur exécution, les documents relatifs aux opérations faites par ceux-ci, ainsi que les documents consignant
+les caractéristiques des opérations mentionnées au IV de l'article L. 561-10. 
+
+Les personnes mentionnées au 9° de l'article L. 561-2 satisfont à cette obligation en appliquant les mesures prévues à
+l'article L. 561-13.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°45-0120 du 19 décembre 1945 - art. 20 (VD)
+	  - Décret n°56-222 du 29 février 1956 - art. 56 (Ab)
+	  - Décret n°56-222 du 29 février 1956 - art. 94-11 (V)
+	  - Décret n°74-737 du 12 août 1974 - art. 11 (V)
+	  - Décret n°86-211 du 14 février 1986 - art. 2 (Ab)
+	  - Décret n°91-1197 du 27 novembre 1991 - art. 155 (V)
+	  - Décret n°2002-76 du 11 janvier 2002 - art. 20-1 (V)
+	  - Décret n°2012-432 du 30 mars 2012 - art. 171 (V)
+	  - Arrêté du 2 mai 2013 - art. 56 (V)
+	  - Arrêté du 3 novembre 2014 - art. 67 (V)
+	  - Code de commerce - art. R321-40-1 (V)
+	  - Code des assurances - art. A310-8 (V)
+	  - Code monétaire et financier - art. L520-7 (VT)
+	  - Code monétaire et financier - art. L524-7 (V)
+	  - Code monétaire et financier - art. L561-26 (V)
+	  - Code monétaire et financier - art. L713-4 (VD)
+	  - Code monétaire et financier - art. R561-22 (V)
+	  - Code monétaire et financier - art. R561-7 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-10
+	  - Code monétaire et financier - art. L561-13
+	  - Code monétaire et financier - art. L561-2
+
+
+###### Article L561-13
+
+Les casinos sont tenus, après vérification, sur présentation d'un document probant, de l'identité des joueurs, de procéder à
+l'enregistrement de leurs noms et adresses lorsqu'ils échangent tous modes de paiement, plaques, jetons, tickets dont le
+montant excède un seuil fixé par décret. Ces informations, qui ne peuvent être utilisées à d'autres fins que celles prévues
+au présent chapitre, sont consignées sur un registre spécifique et doivent être conservées pendant cinq ans. 
+
+Les groupements, cercles et sociétés organisant des jeux de hasard, des loteries, des paris, des pronostics sportifs ou
+hippiques sont tenus de s'assurer, par la présentation de tout document écrit probant, de l'identité des joueurs gagnant des
+sommes supérieures à un montant fixé par décret et d'enregistrer les noms et adresses de ces joueurs, ainsi que le montant
+des sommes qu'ils ont gagnées. Ces informations doivent être conservées pendant cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 14 mai 2007 - art. 29 (V)
+	  - Décret n°2010-363 du 8 avril 2010 (V)
+	  - Décret n°2016-774 du 10 juin 2016 (V)
+	  - Code de la sécurité intérieure - art. L323-2 (VD)
+	  - Code monétaire et financier - art. D561-10-1 (V)
+	  - Code monétaire et financier - art. D561-10-2 (VD)
+	  - Code monétaire et financier - art. L152-1 (V)
+	  - Code monétaire et financier - art. L561-12 (V)
+	  - Code monétaire et financier - art. L561-26 (V)
+	  - Code monétaire et financier - art. L561-5 (M)
+	  - Livre des procédures fiscales - art. L84 C (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+
+###### Article L561-14
+
+Les personnes mentionnées aux 1° à 7° de l'article L. 561-2 ne tiennent pas de comptes ni de livrets d'épargne anonymes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+
+
+###### Article L561-14-1
+
+Les dispositions de l'article L. 561-5 s'appliquent aux bons et titres mentionnés à l'article 990 A du code général des
+impôts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 990 A
+	  - Code monétaire et financier - art. L561-5
+
+
+###### Article L561-14-2
+
+Les dispositions du deuxième alinéa de l'article 537 du code général des impôts ne font pas obstacle à l'application de
+l'article L. 561-5 du présent code. Toutefois, les informations mentionnées à ce dernier article sont portées sur un registre
+distinct de celui institué par l'article 537 du code général des impôts. 
+
+Lorsque le client n'a pas autorisé l'organisme financier à communiquer son identité et son domicile fiscal à l'administration
+fiscale, le droit de communication prévu aux articles L. 83, L. 85, L. 87 et L. 89 du livre des procédures fiscales ne
+s'applique ni au registre institué par le présent article ni aux documents justificatifs mentionnés au premier alinéa de
+l'article L. 561-5 établis en raison des transactions sur les bons, titres et valeurs mentionnés à l'article 990 A du code
+général des impôts et au deuxième alinéa de l'article 537 de ce code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 537
+	  - Code général des impôts, CGI. - art. 990 A
+	  - Livre des procédures fiscales - art. L83
+	  - Livre des procédures fiscales - art. L85
+	  - Livre des procédures fiscales - art. L87
+	  - Livre des procédures fiscales - art. L89
+	  - Code monétaire et financier - art. L561-5
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L711-18 (V)
+	  - Code monétaire et financier - art. L725-3 (V)
+	  - Code monétaire et financier - art. L735-3 (VT)
+	  - Code monétaire et financier - art. L745-13 (MMN)
+	  - Code monétaire et financier - art. L755-13 (MMN)
+	  - Code monétaire et financier - art. L765-13 (VT)
+
+
+##### Section 4 : Obligations de déclaration
+
+###### Article L561-15
+
+I.-Les personnes mentionnées à l'article L. 561-2 sont tenues, dans les conditions fixées par le présent chapitre, de
+déclarer au service mentionné à l'article L. 561-23 les sommes inscrites dans leurs livres ou les opérations portant sur des
+sommes dont elles savent, soupçonnent ou ont de bonnes raisons de soupçonner qu'elles proviennent d'une infraction passible
+d'une peine privative de liberté supérieure à un an ou participent au financement du terrorisme. 
+
+II.-Par dérogation au I, les personnes mentionnées à l'article L. 561-2 déclarent au service mentionné au I les sommes ou
+opérations dont ils savent, soupçonnent ou ont de bonnes raisons de soupçonner qu'elles proviennent d'une fraude fiscale
+lorsqu'il y a présence d'au moins un critère défini par décret. 
+
+III.-A l'issue de l'examen renforcé prescrit au IV de l'article L. 561-10, les personnes mentionnées à l'article L. 561-2
+effectuent, le cas échéant, la déclaration prévue au I du présent article. 
+
+IV.-Les personnes mentionnées à l'article L. 561-2 sont également tenues de déclarer au service mentionné à l'article L.
+561-23 toute opération pour laquelle l'identité du donneur d'ordre ou du bénéficiaire effectif ou du constituant d'un fonds
+fiduciaire ou de tout autre instrument de gestion d'un patrimoine d'affectation reste douteuse malgré les diligences
+effectuées conformément à l'article L. 561-5.
+
+V.-Toute information de nature à infirmer, conforter ou modifier les éléments contenus dans la déclaration est portée, sans
+délai, à la connaissance du service mentionné à l'article L. 561-23. 
+
+VI.-Un décret peut étendre l'obligation de déclaration mentionnée au I aux opérations pour compte propre ou pour compte de
+tiers effectuées par les personnes mentionnées aux 1° à 7° de l'article L. 561-2 avec des personnes physiques ou morales, y
+compris leurs filiales ou établissements, domiciliées, enregistrées ou établies dans l'ensemble des Etats ou territoires dont
+les insuffisances de la législation ou les pratiques font obstacle à la lutte contre le blanchiment des capitaux et le
+financement du terrorisme. Ce décret fixe le montant minimum des opérations soumises à déclaration. 
+
+VII.-Un décret en Conseil d'Etat précise les modalités de cette déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-55 (V)
+	  - Arrêté du 12 novembre 2004 - art. 320-20 (V)
+	  - Décret n°2009-874 du 16 juillet 2009 (V)
+	  - Décret n°2009-874 du 16 juillet 2009 - art. 1 (V)
+	  - Décret n°2009-874 du 16 juillet 2009 - art. 2 (T)
+	  - Arrêté du 10 septembre 2009 - art. 5 (VD)
+	  - Arrêté du 10 septembre 2009 - art. 7 (V)
+	  - Décret n°2010-518 du 19 mai 2010 - art. 15 (V)
+	  - Décret n°2010-518 du 19 mai 2010 - art. 9 (V)
+	  - Arrêté du 7 janvier 2011 - art. 2 (V)
+	  - Arrêté du 6 juin 2013 (V)
+	  - Arrêté du 6 juin 2013 - art. 2 (V)
+	  - Arrêté du 6 juin 2013 - art. 3 (V)
+	  - Arrêté du 6 juin 2013 - art. 4 (V)
+	  - Arrêté du 6 juin 2013 - art. 5 (V)
+	  - Décret n°2013-480 du 6 juin 2013 (V)
+	  - Arrêté du 3 novembre 2014 - art. 46 (V)
+	  - Arrêté du 3 novembre 2014 - art. 55 (V)
+	  - Arrêté du 3 novembre 2014 - art. 68 (V)
+	  - Arrêté du 3 novembre 2014 - art. 69 (V)
+	  - Arrêté du 3 novembre 2014 - art. 70 (V)
+	  - Arrêté du 3 novembre 2014 - art. 72 (V)
+	  - Code de commerce - art. A823-37 (V)
+	  - Code des assurances - art. A310-8 (V)
+	  - Code monétaire et financier - art. D561-32-1 (V)
+	  - Code monétaire et financier - art. L561-1 (V)
+	  - Code monétaire et financier - art. L561-10 (V)
+	  - Code monétaire et financier - art. L561-11 (V)
+	  - Code monétaire et financier - art. L561-15-1 (V)
+	  - Code monétaire et financier - art. L561-16 (VD)
+	  - Code monétaire et financier - art. L561-17 (VD)
+	  - Code monétaire et financier - art. L561-18 (M)
+	  - Code monétaire et financier - art. L561-19 (VD)
+	  - Code monétaire et financier - art. L561-20 (VD)
+	  - Code monétaire et financier - art. L561-21 (V)
+	  - Code monétaire et financier - art. L561-22 (VT)
+	  - Code monétaire et financier - art. L561-23 (VT)
+	  - Code monétaire et financier - art. L561-24 (V)
+	  - Code monétaire et financier - art. L561-25 (V)
+	  - Code monétaire et financier - art. L561-26 (V)
+	  - Code monétaire et financier - art. L561-28 (VD)
+	  - Code monétaire et financier - art. L561-29 (VT)
+	  - Code monétaire et financier - art. L561-3 (M)
+	  - Code monétaire et financier - art. L561-30 (V)
+	  - Code monétaire et financier - art. L561-45 (V)
+	  - Code monétaire et financier - art. L711-19 (V)
+	  - Code monétaire et financier - art. L725-3 (V)
+	  - Code monétaire et financier - art. L735-3 (VT)
+	  - Code monétaire et financier - art. L745-13 (MMN)
+	  - Code monétaire et financier - art. L755-13 (MMN)
+	  - Code monétaire et financier - art. R561-10 (V)
+	  - Code monétaire et financier - art. R561-14 (V)
+	  - Code monétaire et financier - art. R561-20 (V)
+	  - Code monétaire et financier - art. R561-23 (V)
+	  - Code monétaire et financier - art. R561-24 (V)
+	  - Code monétaire et financier - art. R561-25 (V)
+	  - Code monétaire et financier - art. R561-26 (V)
+	  - Code monétaire et financier - art. R561-31 (VD)
+	  - Code monétaire et financier - art. R561-33 (V)
+	  - Livre des procédures fiscales - art. L228 A (V)
+	  - Livre des procédures fiscales - art. L84 D (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+
+
+###### Article L561-16
+
+Les personnes mentionnées à l'article L. 561-2 s'abstiennent d'effectuer toute opération dont elles soupçonnent qu'elle est
+liée au blanchiment de capitaux ou au financement du terrorisme jusqu'à ce qu'elles aient fait la déclaration prévue à
+l'article L. 561-15. Elles ne peuvent alors procéder à la réalisation de l'opération que si les conditions prévues au
+quatrième alinéa de l'article L. 561-25 sont réunies. 
+
+Lorsqu'une opération devant faire l'objet de la déclaration prévue à l'article L. 561-15 a déjà été réalisée, soit parce
+qu'il a été impossible de surseoir à son exécution, soit que son report aurait pu faire obstacle à des investigations portant
+sur une opération suspectée de blanchiment des capitaux ou de financement du terrorisme, soit qu'il est apparu
+postérieurement à sa réalisation qu'elle était soumise à cette déclaration, la personne mentionnée à l'article L. 561-2 en
+informe sans délai le service prévu à l'article L. 561-23.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°78-1067 du 9 novembre 1978 - art. 19 (V)
+	  - Loi n°2010-476 du 12 mai 2010 - art. 17 (V)
+	  - Loi n°2010-476 du 12 mai 2010 - art. 66 (V)
+	  - Décret n°2010-518 du 19 mai 2010 - art. 15 (V)
+	  - Décret n°2010-518 du 19 mai 2010 - art. 8 (V)
+	  - Décret n°2010-518 du 19 mai 2010 - art. 9 (V)
+	  - Code monétaire et financier - art. L561-17 (VD)
+	  - Code monétaire et financier - art. L561-22 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-23
+	  - Code monétaire et financier - art. L561-25
+
+
+###### Article L561-17
+
+Par dérogation aux articles L. 561-15 et L. 561-16, l'avocat au Conseil d'Etat et à la Cour de cassation, l'avocat ou l'avoué
+près la cour d'appel communique la déclaration, selon le cas, au président de l'ordre des avocats au Conseil d'Etat et à la
+Cour de cassation, au bâtonnier de l'ordre auprès duquel l'avocat est inscrit ou au président de la compagnie dont relève
+l'avoué. Dès lors que les conditions fixées à l'article L. 561-3 sont remplies, ces autorités transmettent la déclaration au
+service mentionné à l'article L. 561-23, dans les délais et selon les modalités définis par décret en Conseil d'Etat. 
+
+Lorsqu'une déclaration a été transmise en méconnaissance de ces dispositions, le service mentionné à l'article L. 561-23 en
+refuse la communication et informe dans les meilleurs délais, selon le cas, le président de l'ordre des avocats au Conseil
+d'Etat et à la Cour de cassation, le bâtonnier de l'ordre auprès duquel l'avocat déclarant est inscrit ou le président de la
+compagnie dont relève l'avoué déclarant. 
+
+Cette dérogation ne s'applique pas à l'avocat agissant en qualité de fiduciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-16
+	  - Code monétaire et financier - art. L561-23
+	  - Code monétaire et financier - art. L561-3
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L561-18 (M)
+	  - Code monétaire et financier - art. L561-19 (VD)
+	  - Code monétaire et financier - art. L561-22 (VT)
+	  - Code monétaire et financier - art. L561-26 (V)
+	  - Code monétaire et financier - art. R561-32 (V)
+
+
+###### Article L561-18
+
+La déclaration mentionnée à l'article L. 561-15 est établie par écrit. Elle peut toutefois être recueillie verbalement, sauf
+pour les personnes mentionnées à l'article L. 561-17, par le service prévu à l'article L. 561-23, dans des conditions
+permettant à ce dernier de s'assurer de sa recevabilité, selon des modalités définies par décret en Conseil d'Etat. 
+
+Ce service accuse réception de la déclaration, sauf si la personne mentionnée à l'article L. 561-2 a indiqué expressément ne
+pas vouloir en être destinataire. 
+
+Les conditions dans lesquelles le service accuse réception de la déclaration et s'assure de sa recevabilité sont précisées
+par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2013-480 du 6 juin 2013 (V)
+	  - Code monétaire et financier - art. L574-1 (V)
+	  - Code monétaire et financier - art. R561-31 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-17
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-23
+
+
+###### Article L561-19
+
+I.-La déclaration mentionnée à l'article L. 561-15 est confidentielle. 
+
+Sous réserve des dispositions de l'article 44 de la loi n° 78-17 du 6 janvier 1978 mentionnée ci-dessus, il est interdit,
+sous peine des sanctions prévues à l'article L. 574-1, aux dirigeants et préposés d'organismes financiers, aux personnes
+mentionnées à l'article L. 561-2, au président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, au
+bâtonnier de l'ordre auprès duquel l'avocat est inscrit ou au président de la compagnie dont relève l'avoué, de porter à la
+connaissance du propriétaire des sommes ou de l'auteur de l'une des opérations mentionnées à l'article L. 561-15 ou à des
+tiers, autres que les autorités de contrôle, ordres professionnels et instances représentatives nationales visées à l'article
+L. 561-36, l'existence et le contenu d'une déclaration faite auprès du service mentionné à l'article L. 561-23 et de donner
+des informations sur les suites qui ont été réservées à cette déclaration. 
+
+Le fait, pour les personnes mentionnées au 13° de l'article L. 561-2, de s'efforcer de dissuader leur client de prendre part
+à une activité illégale ne constitue pas une divulgation au sens de l'alinéa précédent. 
+
+II.-Les dirigeants et préposés des personnes mentionnées aux 1° à 7° de l'article L. 561-2 peuvent révéler à l'autorité
+judiciaire ou aux officiers de police judiciaire agissant sur délégation que des informations ont été transmises au service
+mentionné à l'article L. 561-23 en application de l'article L. 561-15. Dans ce cas, l'autorité judiciaire ou les officiers de
+police judiciaire peuvent demander confirmation à ce service de l'existence de cette déclaration. 
+
+La déclaration prévue à l'article L. 561-15 n'est accessible à l'autorité judiciaire que sur réquisition auprès du service
+mentionné à l'article L. 561-23 et dans les seuls cas où cette déclaration est nécessaire à la mise en œuvre de la
+responsabilité des personnes mentionnées à l'article L. 561-2, de leurs dirigeants et préposés ou de celle des autorités
+mentionnées à l'article L. 561-17 et lorsque l'enquête judiciaire fait apparaître qu'ils peuvent être impliqués dans le
+mécanisme de blanchiment de capitaux ou de financement du terrorisme qu'ils ont révélé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 44
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-17
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-23
+	  - Code monétaire et financier - art. L561-36
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L561-20 (VD)
+	  - Code monétaire et financier - art. L561-21 (M)
 	  - Code monétaire et financier - art. L574-1 (M)
 
 
-#### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite.
+###### Article L561-20
 
-###### Article L562-1
+Par dérogation à l'article L. 561-19, les personnes mentionnées aux 1° à 6° de l'article L. 561-2, les compagnies financières
+et les compagnies financières holding mixtes qui appartiennent à un même groupe, tel que défini au III de l'article L. 511-20
+du présent code ou à l'article L. 334-2 du code des assurances, d'une part, et, d'autre part, les personnes mentionnées aux
+12° et 13° de l'article L. 561-2 du présent code, qui appartiennent au même réseau ou à une même structure d'exercice
+professionnel, s'informent de l'existence et du contenu de la déclaration prévue à l'article L. 561-15 lorsque les conditions
+suivantes sont réunies : 
 
-Les dispositions du présent chapitre sont applicables :
+a) Les informations ne sont échangées qu'entre personnes d'un même groupe, d'un même réseau ou d'une même structure
+d'exercice professionnel soumises à l'obligation de déclaration prévue à l'article L. 561-15 ; 
 
-1. Aux organismes, institutions et services régis par les dispositions du titre Ier du présent livre ;
+b) Les informations divulguées sont nécessaires à l'exercice, au sein du groupe, du réseau ou de la structure d'exercice
+professionnel, de la vigilance en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme et
+seront exclusivement utilisées à cette fin ; 
 
-2. A la Banque de France, à l'institut d'émission des départements d'outre-mer et à l'institut d'émission d'outre-mer ;
+c) Les informations sont divulguées au profit d'un établissement situé en France ou dans un pays figurant sur la liste prévue
+au 2° du II de l'article L. 561-9 ; 
 
-3. Aux entreprises et services mentionnés à l'article L. 310-1 du code des assurances et aux courtiers d'assurance et de
-réassurance ;
+d) Le traitement des informations réalisé dans ce pays garantit un niveau de protection suffisant de la vie privée et des
+libertés et droits fondamentaux des personnes conformément aux articles 68 et 69 de la loi n° 78-17 du 6 janvier 1978
+mentionnée ci-dessus.
 
-3 bis. Aux institutions ou unions régies par les titres III et IV du livre IX du code de la sécurité sociale ou relevant du
-II de l'article L. 727-2 du code rural ;
+**Liens relatifs à cet article**
 
-4. Aux organismes entrant dans le champ de l'article L. 111-1 du code de la mutualité (1) ;
+	**Cite**:
 
-5. Aux entreprises d'investissement, aux membres des marchés réglementés d'instruments financiers et aux personnes morales
-mentionnées aux articles L. 421-17 et L. 440-2, ainsi qu'aux organismes de placement collectif en valeurs mobilières
-mentionnés au 1 du I de l'article L. 214-1, aux sociétés de gestion d'organismes de placements collectifs mentionnées à
-l'article L. 543-1, aux intermédiaires en biens divers mentionnés au titre V du présent livre, aux personnes habilitées à
-procéder au démarchage mentionnées aux articles L. 341-3 et L. 341-4 et aux conseillers en investissements financiers ;
+	  - Loi n°78-17 du 6 janvier 1978 - art. 68
+	  - Loi n°78-17 du 6 janvier 1978 - art. 69
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-19
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-9
+	  - Code des assurances - art. L334-2
 
-6. Aux changeurs manuels ;
+	**Codifié par**:
 
-7. Aux personnes qui réalisent, contrôlent, ou conseillent des opérations portant sur l'acquisition, la vente, la cession ou
-la location de biens immobiliers ;
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-8. Aux représentants légaux et aux directeurs responsables de casinos et aux groupements, cercles et sociétés organisant des
-jeux de hasard, des loteries, des paris, des pronostics sportifs ou hippiques ;
+	**Cité par**:
 
-9. Aux personnes se livrant habituellement au commerce ou organisant la vente de pierres précieuses, de matériaux précieux,
-d'antiquités et d'oeuvres d'art ;
+	  - Arrêté du 12 novembre 2004 - art. 315-55 (V)
+	  - Arrêté du 12 novembre 2004 - art. 320-20 (V)
+	  - Arrêté du 3 novembre 2014 - art. 68 (V)
+	  - Code de commerce - art. A823-37 (V)
+	  - Code de commerce - art. Annexe 8-9 (V)
+	  - Code des assurances - art. A310-8 (V)
+	  - Code monétaire et financier - art. L745-13 (MMN)
+	  - Code monétaire et financier - art. L755-13 (MMN)
+	  - Code monétaire et financier - art. L765-13 (VT)
 
-10. Aux entreprises bénéficiant de l'exemption prévue par le II de l'article L. 511-7 ;
+	**Créé par**:
 
-11. Aux experts comptables et aux commissaires aux comptes ;
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
 
-12. Aux notaires, huissiers de justice, administrateurs judiciaires et mandataires judiciaires à la liquidation des
-entreprises ainsi qu'aux avocats au Conseil d'Etat et à la Cour de cassation, aux avocats et aux avoués près les cours
-d'appel, dans les conditions prévues à l'article L. 562-2-1 ;
 
-13. Aux commissaires-priseurs judiciaires et aux sociétés de ventes volontaires de meubles aux enchères publiques ;
+###### Article L561-21
 
-14. Aux intermédiaires habilités mentionnés à l'article L. 211-4.
+Par dérogation à l'article L. 561-19, les personnes mentionnées aux 1° à 7° et aux 12° et 13° de l'article L. 561-2 peuvent,
+lorsqu'elles interviennent pour un même client et dans une même transaction, s'informer mutuellement de l'existence et du
+contenu de la déclaration prévue à l'article L. 561-15. Ces échanges d'informations ne sont autorisés qu'entre les personnes
+mentionnées aux 1° à 7° ou entre les personnes mentionnées aux 12° et 13° de l'article L. 561-2, si les conditions suivantes
+sont réunies : 
 
-Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont désignées sous le nom d'organismes financiers.
+a) Les personnes mentionnées aux 1° à 7° et aux 12° et 13° de l'article L. 561-2 ont un établissement en France ou dans un
+pays figurant sur la liste prévue au 2° du II de l'article L. 561-9 ; 
+
+b) Ces personnes sont soumises à des obligations équivalentes en matière de secret professionnel ; 
+
+c) Les informations échangées sont utilisées exclusivement à des fins de prévention du blanchiment des capitaux et du
+financement du terrorisme ; 
+
+d) Le traitement des informations communiquées, lorsqu'il est réalisé dans un pays tiers, garantit un niveau de protection
+suffisant de la vie privée et des libertés et droits fondamentaux des personnes, conformément aux articles 68 et 69 de la loi
+n° 78-17 du 6 janvier 1978 mentionnée ci-dessus. 
+
+Pour l'application du présent article, les personnes mentionnées aux 1° à 6° de l'article L. 561-2, à l'exception des
+sociétés de transfert de fonds qui ne sont pas des établissements de crédit, constituent une seule et même catégorie
+professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 68
+	  - Loi n°78-17 du 6 janvier 1978 - art. 69
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-19
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-9
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 69 (V)
+
+
+###### Article L561-22
+
+I.-Aucune poursuite fondée sur les articles 226-10, 226-13 et 226-14 du code pénal ne peut être intentée contre : 
+
+a) Les personnes mentionnées à l'article L. 561-2 ou leurs dirigeants et préposés ou les autorités mentionnées à l'article L.
+561-17 lorsqu'ils ont, de bonne foi, fait la déclaration prévue à l'article L. 561-15 dans les conditions prescrites par les
+dispositions législatives ou réglementaires applicables ou lorsqu'ils ont communiqué des informations au service mentionné à
+l'article L. 561-23 en application de l'article L. 561-26 ; 
+
+b) Les autorités de contrôle qui ont transmis des informations au service mentionné à l'article L. 561-23 en application de
+l'article L. 561-27 ; 
+
+c) Les personnes qui ont transmis des informations à ce service en application de l'article L. 561-30. 
+
+II.-Aucune action en responsabilité civile ne peut être intentée ni aucune sanction professionnelle prononcée contre : 
+
+a) Les personnes mentionnées à l'article L. 561-2 ou leurs dirigeants et préposés ou les autorités mentionnées à l'article L.
+561-17, lorsqu'ils ont, de bonne foi, fait la déclaration prévue à l'article L. 561-15 dans les conditions prescrites par les
+dispositions législatives ou réglementaires applicables, notamment par l'article L. 561-16, ou lorsqu'ils ont communiqué des
+informations au service mentionné à l'article L. 561-23 en application de l'article L. 561-26 ; 
+
+b) Les autorités de contrôle qui ont transmis des informations au service mentionné à l'article L. 561-23 en application de
+l'article L. 561-27 ; 
+
+c) Les personnes qui ont transmis des informations à ce service en application de l'article L. 561-30. 
+
+En cas de préjudice résultant directement d'une telle déclaration ou communication, l'Etat répond du dommage subi. 
+
+III.-Les dispositions du présent article s'appliquent même si la preuve du caractère délictueux des faits à l'origine de la
+déclaration mentionnée à l'article L. 561-15, de l'information transmise en application des articles L. 561-27 et L. 561-30
+ou de l'exercice du droit de communication prévu à l'article L. 561-26 n'est pas rapportée ou si les poursuites engagées en
+raison de ces faits ont été closes par une décision de non-lieu, de relaxe ou d'acquittement. 
+
+IV.-Lorsque l'opération a été exécutée comme il est prévu aux articles L. 561-16 ou L. 561-25 et sauf concertation
+frauduleuse avec le propriétaire des sommes ou l'auteur de l'opération, les personnes mentionnées à l'article L. 561-2 sont
+dégagées de toute responsabilité et aucune poursuite pénale ne peut être engagée à leur encontre de ce chef par application
+des articles 222-34 à 222-41, 321-1, 321-2, 321-3, 324-1, 324-2 et 421-2-2 du code pénal ou de l'article 415 du code des
+douanes.
+
+V.-Sauf concertation frauduleuse avec le propriétaire des sommes ou l'auteur de l'opération, la responsabilité pénale des
+personnes mentionnées au 1° de l'article L. 561-2 ne peut être engagée, par application des articles 222-34 à 222-41, 321-1,
+321-2, 321-3, 324-1 et 324-2 du code pénal ou de l'article 415 du code des douanes, lorsqu'elles ouvrent un compte sur
+désignation de la Banque de France conformément à l'article L. 312-1 du présent code. 
+
+Il en va de même pour des opérations réalisées par la personne ainsi désignée lorsque le client a fait l'objet d'une
+déclaration mentionnée à l'article L. 561-15 et qu'elle ne respecte pas les obligations de vigilance prévues à l'article L.
+561-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 222-34
+	  - Code pénal - art. 226-10
+	  - Code pénal - art. 226-13
+	  - Code pénal - art. 226-14
+	  - Code pénal - art. 321-1
+	  - Code pénal - art. 321-2
+	  - Code pénal - art. 321-3
+	  - Code pénal - art. 324-1
+	  - Code pénal - art. 324-2
+	  - Code pénal - art. 421-2-2
+	  - Code des douanes - art. 415
+	  - Code monétaire et financier - art. L312-1
+	  - Code monétaire et financier - art. L561-10
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-16
+	  - Code monétaire et financier - art. L561-17
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-23
+	  - Code monétaire et financier - art. L561-26
+	  - Code monétaire et financier - art. L561-27
+	  - Code monétaire et financier - art. L561-30
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L561-1 (V)
+	  - Code monétaire et financier - art. R561-31 (VD)
+
+
+##### Section 5 : La cellule de renseignement financier nationale
+
+###### Article L561-23
+
+I.-Une cellule de renseignement financier nationale exerce les attributions prévues au présent chapitre. Elle est composée
+d'agents spécialement habilités par le ministre chargé de l'économie. Les conditions de cette habilitation ainsi que
+l'organisation et les modalités de fonctionnement de ce service sont définies par décret en Conseil d'Etat. 
+
+II.-Le service mentionné au I reçoit les déclarations prévues à l'article L. 561-15 et les informations mentionnées aux
+articles L. 561-26, L. 561-27, L. 561-30 et L. 561-31. 
+
+Ce service recueille, analyse, enrichit et exploite tout renseignement propre à établir l'origine ou la destination des
+sommes ou la nature des opérations ayant fait l'objet d'une déclaration mentionnée à l'article L. 561-15 ou d'une information
+reçue au titre des articles L. 561-26, L. 561-27, L. 561-30 ou L. 561-31. 
+
+Lorsque ses investigations mettent en évidence des faits susceptibles de relever du blanchiment du produit d'une infraction
+punie d'une peine privative de liberté supérieure à un an ou du financement du terrorisme, et réserve faite de l'hypothèse où
+la seule infraction est celle définie à l'article 1741 du code général des impôts, le service mentionné au I saisit le
+procureur de la République par note d'information.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2010-569 du 28 mai 2010 - art. 1 (V)
+	  - Décret n°2010-569 du 28 mai 2010 - art. 5 (V)
+	  - Arrêté du 3 mai 2012 - art. 234-1 (VD)
+	  - Arrêté du 6 juin 2013 - art. 2 (V)
+	  - Arrêté du 6 juin 2013 - art. 3 (V)
+	  - Arrêté du 6 juin 2013 - art. 5 (V)
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 18 (V)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 118 (V)
+	  - Décret n°2016-1523 du 10 novembre 2016 (V)
+	  - Décret n°2016-1523 du 10 novembre 2016 - art. 1
+	  - Arrêté du 7 mars 2017 - art. (V)
+	  - Arrêté du 7 mars 2017 - art. 13
+	  - Décret n°2017-699 du 2 mai 2017 - art. 1
+	  - Code de commerce - art. Annexe 8-1-1 (V)
+	  - Code de commerce - art. L821-12-1 (VD)
+	  - Code de commerce - art. L824-6 (V)
+	  - Code de commerce - art. R128-6 (VD)
+	  - Code de la sécurité intérieure - art. L323-3 (V)
+	  - Code monétaire et financier - art. D561-3-1 (V)
+	  - Code monétaire et financier - art. L561-1 (V)
+	  - Code monétaire et financier - art. L561-15 (V)
+	  - Code monétaire et financier - art. L561-15-1 (V)
+	  - Code monétaire et financier - art. L561-16 (VD)
+	  - Code monétaire et financier - art. L561-17 (VD)
+	  - Code monétaire et financier - art. L561-18 (M)
+	  - Code monétaire et financier - art. L561-19 (V)
+	  - Code monétaire et financier - art. L561-22 (VT)
+	  - Code monétaire et financier - art. L561-24 (V)
+	  - Code monétaire et financier - art. L561-25 (V)
+	  - Code monétaire et financier - art. L561-26 (V)
+	  - Code monétaire et financier - art. L561-27 (V)
+	  - Code monétaire et financier - art. L561-28 (VD)
+	  - Code monétaire et financier - art. L561-29 (V)
+	  - Code monétaire et financier - art. L561-29-1 (V)
+	  - Code monétaire et financier - art. L561-30 (V)
+	  - Code monétaire et financier - art. L561-31 (V)
+	  - Code monétaire et financier - art. L561-34 (M)
+	  - Code monétaire et financier - art. L561-35 (V)
+	  - Code monétaire et financier - art. L711-20 (V)
+	  - Code monétaire et financier - art. L711-21 (V)
+	  - Code monétaire et financier - art. L713-7 (VD)
+	  - Code monétaire et financier - art. L725-3 (V)
+	  - Code monétaire et financier - art. L735-3 (VT)
+	  - Code monétaire et financier - art. L745-13 (MMN)
+	  - Code monétaire et financier - art. L755-13 (MMN)
+	  - Code monétaire et financier - art. L765-13 (VT)
+	  - Code monétaire et financier - art. R561-33 (V)
+	  - Code monétaire et financier - art. R561-34 (V)
+	  - Code monétaire et financier - art. R561-37 (V)
+	  - Livre des procédures fiscales - art. L134 B (V)
+	  - Livre des procédures fiscales - art. L228 A (V)
+	  - Livre des procédures fiscales - art. L84 D (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1741
+
+
+###### Article L561-24
+
+Dans le cas où le service mentionné à l'article L. 561-23 saisit le procureur de la République, la déclaration mentionnée à
+l'article L. 561-15 ou l'information transmise en application des articles L. 561-26, L. 561-27, L. 561-30 ou L. 561-31 ne
+figure pas au dossier de procédure, afin de préserver l'anonymat de ses auteurs. 
+
+Le procureur de la République ou le procureur général informe ce service de l'engagement d'une procédure judiciaire, du
+classement sans suite ainsi que des décisions prononcées par une juridiction répressive, dans les affaires ayant fait l'objet
+d'une note d'information en application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-23
+	  - Code monétaire et financier - art. L561-26
+	  - Code monétaire et financier - art. L561-27
+	  - Code monétaire et financier - art. L561-30
+	  - Code monétaire et financier - art. L561-31
+
+
+###### Article L561-25
+
+Le service mentionné à l'article L. 561-23 peut s'opposer à l'exécution d'une opération qui a fait l'objet d'une déclaration
+établie en application de l'article L. 561-15. Son opposition est notifiée à l'auteur de la déclaration selon des modalités
+définies par décret en Conseil d'Etat, dans un délai d'un jour ouvrable à compter de la date de réception de la déclaration. 
+
+Dans ce cas, l'opération est reportée d'une durée de deux jours ouvrables à compter du jour d'émission de cette
+notification. 
+
+Le président du tribunal de grande instance de Paris peut, sur requête du service mentionné à l'article L. 561-23, après avis
+du procureur de la République de ce siège, proroger le délai prévu au deuxième alinéa du présent article ou ordonner le
+séquestre provisoire des fonds, comptes ou titres concernés par la déclaration. Le procureur de la République peut présenter
+une requête ayant le même objet.L'ordonnance qui fait droit à la requête est exécutoire sur minute avant toute notification à
+l'auteur de la déclaration mentionnée à l'article L. 561-15.
+
+L'opération qui a fait l'objet de la déclaration peut être exécutée si le service n'a pas notifié d'opposition ou si, au
+terme du délai ouvert par la notification de l'opposition, aucune décision du président du tribunal de grande instance de
+Paris n'est parvenue à la personne mentionnée à l'article L. 561-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 7 janvier 2011 - art. 1 (V)
+	  - Code monétaire et financier - art. L561-16 (V)
+	  - Code monétaire et financier - art. L561-22 (VT)
+	  - Code monétaire et financier - art. L574-1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-23
+
+
+###### Article L561-26
+
+I.-Pour l'application du présent chapitre, le service mentionné à l'article L. 561-23 peut demander que les pièces conservées
+en application du III de l'article L. 561-10 et des articles L. 561-12 et L. 561-13 lui soient communiquées quel que soit le
+support utilisé pour leur conservation et dans les délais qu'il fixe. Ce droit s'exerce, sur pièces ou sur place pour les
+personnes mentionnées aux 1° à 7° de l'article L. 561-2 et sur pièces pour les autres personnes mentionnées à cet article,
+dans le but de reconstituer l'ensemble des transactions faites par une personne physique ou morale liées à une opération
+ayant fait l'objet d'une déclaration mentionnée à l'article L. 561-15 ou à une information reçue au titre des articles L.
+561-27, L. 561-30 ou L. 561-31, ainsi que dans le but de renseigner, dans les conditions prévues à l'article L. 561-31, des
+cellules de renseignement financier homologues étrangères. 
+
+II.-Par dérogation au I, les demandes de communication de pièces effectuées auprès des avocats au Conseil d'Etat et à la Cour
+de cassation, des avocats et des avoués près les cours d'appel sont présentées par le service, selon le cas, au président de
+l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, au bâtonnier de l'ordre auprès duquel l'avocat est inscrit
+ou au président de la compagnie dont relève l'avoué.
+
+L'avocat au Conseil d'Etat et à la Cour de cassation, l'avocat ou l'avoué près la cour d'appel, communique à l'autorité dont
+il relève les pièces qu'elle lui demande.L'autorité les transmet au service selon les modalités prévues à l'article L.
+561-17.
+
+A défaut du respect de cette procédure, l'avocat au Conseil d'Etat et à la Cour de cassation, l'avocat ou l'avoué près la
+cour d'appel est en droit de s'opposer à la communication des pièces demandées par le service mentionné à l'article L.
+561-23. 
+
+Cette dérogation ne s'applique pas à l'avocat agissant en qualité de fiduciaire. 
+
+III.-Il est interdit, sous peine des sanctions prévues à l'article L. 574-1, aux dirigeants et aux personnes mentionnées à
+l'article L. 561-2, au président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, au bâtonnier de l'ordre
+auprès duquel l'avocat est inscrit ou au président de la compagnie dont relève l'avoué de porter à la connaissance du
+propriétaire des sommes ou de l'auteur de l'une des opérations mentionnées à l'article L. 561-15 ou à des tiers, autres que
+les autorités de contrôle, ordres professionnels et instances représentatives nationales visées à l'article L. 561-36, les
+informations provenant de l'exercice par le service mentionné à l'article L. 561-23 du droit de communication prévu à
+l'article L. 561-26. 
+
+Le fait pour les personnes mentionnées au 13° de l'article L. 561-2 de s'efforcer de dissuader leur client de prendre part à
+une activité illégale ne constitue pas une divulgation au sens de l'alinéa qui précède.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 7 janvier 2011 - art. 3 (V)
+	  - Décret n°2016-1793 du 21 décembre 2016 (V)
+	  - Code monétaire et financier - art. L561-22 (VT)
+	  - Code monétaire et financier - art. L561-23 (VT)
+	  - Code monétaire et financier - art. L561-24 (V)
+	  - Code monétaire et financier - art. L561-25 (V)
+	  - Code monétaire et financier - art. L561-26 (V)
+	  - Code monétaire et financier - art. L561-45 (V)
+	  - Code monétaire et financier - art. L574-1 (V)
+	  - Code monétaire et financier - art. R561-32 (V)
+	  - Code monétaire et financier - art. R561-37-1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-10
+	  - Code monétaire et financier - art. L561-12
+	  - Code monétaire et financier - art. L561-13
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-17
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-27
+	  - Code monétaire et financier - art. L561-30
+	  - Code monétaire et financier - art. L561-31
+
+
+###### Article L561-27
+
+Le service mentionné à l'article L. 561-23 reçoit, à l'initiative des administrations de l'Etat, des collectivités
+territoriales, des établissements publics, des organismes mentionnés à l'article L. 134-1 du code des juridictions
+financières et de toute autre personne chargée d'une mission de service public, toutes les informations nécessaires à
+l'accomplissement de sa mission ou les obtient de ceux-ci à sa demande.
+
+L'autorité judiciaire, les juridictions financières et les officiers de police judiciaire peuvent le rendre destinataire de
+toute information aux mêmes fins.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 juin 1982 - art. 4 (V)
+	  - Arrêté du 5 avril 2002 - art. 7 (V)
+	  - Arrêté du 6 juillet 2004 - art. 4 (V)
+	  - Arrêté du 11 avril 2005 - art. 6 (V)
+	  - Arrêté du 7 janvier 2011 - art. 2 (V)
+	  - Arrêté du 2 octobre 2012 - art. 5 (V)
+	  - Arrêté du 13 septembre 2013 - art. 6 (V)
+	  - Arrêté du 31 janvier 2017 (V)
+	  - Arrêté du 15 février 2017 - art. 4
+	  - Arrêté du 25 avril 2017 - art. 2
+	  - Décret n°2017-699 du 2 mai 2017 - art. 1
+	  - Code monétaire et financier - art. L561-22 (VT)
+	  - Code monétaire et financier - art. L561-23 (VT)
+	  - Code monétaire et financier - art. L561-24 (V)
+	  - Code monétaire et financier - art. L561-26 (M)
+	  - Code monétaire et financier - art. L561-28 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L134-1
+
+
+###### Article L561-28
+
+I.-Lorsque, sur le fondement d'une déclaration faite conformément à l'article L. 561-15, le service mentionné à l'article L.
+561-23 saisit le procureur de la République, il en informe selon des modalités fixées par décret la personne mentionnée à
+l'article L. 561-2 qui a effectué la déclaration. 
+
+Lorsque la déclaration lui a été transmise par le président de l'ordre des avocats au Conseil d'Etat et à la Cour de
+cassation, le bâtonnier de l'ordre des avocats ou le président de la compagnie des avoués, en application de l'article L.
+561-27, le service informe ces autorités de la transmission de la déclaration au procureur de la République. 
+
+Les modalités de cette information sont fixées par décret. 
+
+II.-Le service mentionné à l'article L. 561-23 peut, si les circonstances l'exigent, informer les personnes qui lui ont
+transmis des informations en application du premier alinéa de l'article L. 561-27 qu'il a saisi le procureur de la République
+sur la base de ces informations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-23
+	  - Code monétaire et financier - art. L561-27
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R561-37 (V)
+	  - Livre des procédures fiscales - art. L84 D (V)
+
+
+###### Article L561-29
+
+I.-Sous réserve de l'application de l'article 40 du code de procédure pénale, les informations détenues par le service
+mentionné à l'article L. 561-23 ne peuvent être utilisées à d'autres fins que celles prévues au présent chapitre. 
+
+Leur divulgation est interdite, sans qu'il soit fait obstacle cependant à l'application des dispositions de l'article 44 de
+la loi n° 78-17 du 6 janvier 1978 mentionnée ci-dessus. 
+
+II.-Toutefois, sous réserve qu'elles soient en relation avec les faits mentionnés au I de l'article L. 561-15, le service est
+autorisé à communiquer des informations qu'il détient à l'administration des douanes et aux services de police judiciaire. 
+
+Il peut également transmettre aux services de renseignement spécialisés des informations relatives à des faits qui sont
+susceptibles de révéler une menace contre les intérêts fondamentaux de la nation en matière de sécurité publique et de sûreté
+de l'Etat. 
+
+Il peut aussi transmettre à l'administration fiscale, qui peut les utiliser pour l'exercice de ses missions, des informations
+sur des faits susceptibles de relever de l'infraction définie à l'article 1741 du code général des impôts ou du blanchiment
+du produit de cette infraction. Dans ce dernier cas, le ministre chargé du budget les transmet au procureur de la République
+sur avis conforme de la commission des infractions fiscales rendu dans les conditions prévues à l'article L. 228 A du livre
+des procédures fiscales. 
+
+Lorsque, après la transmission d'une note d'information au procureur de la République en application du dernier alinéa de
+l'article L. 561-23 II, l'infraction sous-jacente à l'infraction de blanchiment se révèle celle de l'article 1741 du code
+général des impôts, l'avis de la commission visée à l'article L. 228 A du livre des procédures fiscales n'a pas à être
+sollicité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 44
+	  - Code général des impôts, CGI. - art. 1741
+	  - Code de procédure pénale - art. 40
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-23
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L574-2 (V)
+	  - Code monétaire et financier - art. L711-21 (V)
+	  - Code monétaire et financier - art. L745-13 (V)
+	  - Code monétaire et financier - art. L755-13 (MMN)
+	  - Code monétaire et financier - art. L765-13 (VT)
+	  - Code monétaire et financier - art. R561-34 (V)
+	  - Livre des procédures fiscales - art. L228 A (V)
+
+
+###### Article L561-30
+
+I.-Le service mentionné à l'article L. 561-23 échange avec les autorités de contrôle, les ordres professionnels et instances
+représentatives nationales mentionnées à l'article L. 561-36 toute information utile à l'accomplissement de leurs missions
+respectives pour l'application du présent chapitre. 
+
+II.-Lorsque, dans l'accomplissement de leur mission, les autorités de contrôle et les ordres professionnels découvrent des
+faits susceptibles d'être liés au blanchiment des capitaux ou au financement du terrorisme, ils en informent le service
+mentionné à l'article L. 561-23. 
+
+Ce service en accuse réception et peut, sur leur demande, les tenir informés des suites qui ont été réservées à ces
+informations. 
+
+III.-Par dérogation au II, lorsque, dans l'accomplissement de ses missions, le conseil de l'ordre des avocats ou la chambre
+de la compagnie des avoués a connaissance de faits susceptibles d'être liés au blanchiment des capitaux ou au financement du
+terrorisme, le bâtonnier ou le président, selon le cas, en informe le procureur général près la cour d'appel qui transmet
+cette information sans délai au service mentionné à l'article L. 561-23. 
+
+Le président du conseil de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation informe des faits de même nature
+dont l'ordre aurait connaissance le procureur général près la Cour de cassation, qui transmet cette information sans délai à
+ce service.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 7 janvier 2011 - art. 2 (V)
+	  - Arrêté du 7 janvier 2011 - art. 3 (V)
+	  - Code monétaire et financier - art. L561-22 (VT)
+	  - Code monétaire et financier - art. L561-23 (VT)
+	  - Code monétaire et financier - art. L561-24 (V)
+	  - Code monétaire et financier - art. L561-25 (V)
+	  - Code monétaire et financier - art. L561-26 (V)
+	  - Code monétaire et financier - art. R561-34 (V)
+	  - Livre des procédures fiscales - art. L84 D (M)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-36
+
+
+###### Article L561-31
+
+Le service mentionné à l'article L. 561-23 peut communiquer, sur leur demande ou à son initiative, aux cellules de
+renseignement financier homologues étrangères les informations qu'il détient sur des sommes ou opérations qui paraissent
+avoir pour objet le blanchiment du produit d'une infraction punie d'une peine privative de liberté supérieure à un an ou le
+financement du terrorisme, sous réserve de réciprocité et si les conditions suivantes sont réunies : 
+
+a) Les autorités étrangères sont soumises à des obligations de confidentialité au moins équivalentes ; 
+
+b) Le traitement des informations communiquées garantit un niveau de protection suffisant de la vie privée et des libertés et
+droits fondamentaux des personnes, conformément aux articles 68 et 69 de la loi du 6 janvier 1978 susmentionnée. 
+
+La communication de ces informations ne peut avoir lieu (si une procédure pénale a été engagée en France sur la base des
+mêmes faits ou) si la communication porte atteinte à la souveraineté ou aux intérêts nationaux, à la sécurité ou à l'ordre
+public.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 68
+	  - Loi n°78-17 du 6 janvier 1978 - art. 69
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L561-23 (VT)
+	  - Code monétaire et financier - art. L561-24 (V)
+	  - Code monétaire et financier - art. L561-26 (V)
+	  - Code monétaire et financier - art. R561-34 (V)
+
+
+##### Section 6 : Procédures et contrôle interne
+
+###### Article L561-32
+
+Les personnes mentionnées à l'article L. 561-2 mettent en place des systèmes d'évaluation et de gestion des risques de
+blanchiment des capitaux et de financement du terrorisme. 
+
+Les conditions d'application du présent article sont définies par décret en Conseil d'Etat et, s'agissant des organismes
+financiers mentionnés au 2° de l'article L. 561-36, par le règlement général de l'Autorité des marchés financiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-52 (V)
+	  - Arrêté du 12 novembre 2004 - art. 320-17 (V)
+	  - Arrêté du 12 novembre 2004 - art. 325-12 (V)
+	  - Arrêté du 12 novembre 2004 - art. 550-10 (V)
+	  - Arrêté du 12 novembre 2004 - art. 560-13 (V)
+	  - Arrêté du 10 septembre 2009 - art. 5 (VD)
+	  - Arrêté du 27 juillet 2011 - art. 2 (V)
+	  - Code de commerce - art. Annexe 8-9 (V)
+	  - Code monétaire et financier - art. D561-3-1 (V)
+	  - Code monétaire et financier - art. R561-38 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-36
+
+
+###### Article L561-33
+
+Les personnes mentionnées à l'article L. 561-2 assurent la formation et l'information régulières de leurs personnels en vue
+du respect des obligations prévues aux chapitres Ier et II du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 45 (V)
+	  - Décret n°2017-913 du 9 mai 2017 - art. 8 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+
+
+###### Article L561-34
+
+Les personnes mentionnées à l'article L. 561-2 appliquent des mesures au moins équivalentes à celles prévues au chapitre Ier
+du présent titre en matière de vigilance à l'égard du client et de conservation des informations dans leurs succursales
+situées à l'étranger. Elles veillent à ce que des mesures équivalentes soient appliquées dans leurs filiales dont le siège
+est à l'étranger. 
+
+Lorsque le droit applicable localement ne leur permet pas de mettre en œuvre des mesures équivalentes dans leurs succursales
+et filiales à l'étranger, les personnes assujetties en informent le service mentionné à l'article L. 561-23 et l'autorité de
+contrôle mentionnée à l'article L. 561-36 dont ils relèvent. 
+
+Les organismes financiers communiquent les mesures minimales appropriées en matière de lutte contre le blanchiment des
+capitaux et le financement du terrorisme à leurs succursales et à leurs filiales situées à l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-56 (V)
+	  - Arrêté du 12 novembre 2004 - art. 320-21 (V)
+	  - Code monétaire et financier - art. R561-29 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-23
+	  - Code monétaire et financier - art. L561-36
+
+
+###### Article L561-35
+
+Les personnes énumérées à l'article L. 561-2 et les autorités de contrôle mentionnées à l'article L. 561-36 reçoivent du
+service prévu à l'article L. 561-23 les informations dont celui-ci dispose sur les mécanismes de blanchiment des capitaux ou
+de financement du terrorisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-23
+	  - Code monétaire et financier - art. L561-36
+
+
+##### Section 7 : Les autorités de contrôle   et les sanctions administratives
+
+##### Sous-section 1 : Dispositions générales
+
+###### Article L561-36
+
+I.-Le contrôle des obligations prévues aux chapitres Ier et II du présent titre et, le cas échéant, le pouvoir de sanction en
+cas de non-respect de celles-ci sont assurés : 
+
+1° a) Par la Commission bancaire sur les organismes et les personnes qui lui sont soumis en vertu des articles L. 520-2, L.
+613-1, L. 613-2, sur les intermédiaires habilités mentionnés à l'article L. 211-4 et sur la Caisse des dépôts et
+consignations ; 
+
+b) A cette fin, le contrôle de la Commission bancaire sur la Caisse des dépôts et consignations est exercé, dans les
+conditions prévues à l'article L. 613-20 et au I de l'article L. 613-23, selon les modalités prévues par les articles L.
+613-6 à L. 613-11 et L. 613-15 ainsi qu'aux 1° et 2° du I de l'article L. 613-21. 
+
+La Commission bancaire peut adresser à la Caisse des dépôts et consignations des recommandations ou des injonctions de
+prendre les mesures appropriées pour améliorer ses procédures ou son organisation. 
+
+La Commission bancaire peut également prononcer à son encontre, soit à la place, soit en sus des sanctions prévues aux 1° et
+2° du I de l'article L. 613-21, compte tenu de la gravité des manquements, une sanction pécuniaire d'un montant maximal égal
+au décuple du capital minimum auquel sont astreintes les banques. Les sommes correspondantes sont recouvrées par le Trésor
+public et versées au budget de l'Etat. 
+
+Lorsqu'elle adresse des recommandations ou des injonctions à la Caisse des dépôts et consignations ou prononce des sanctions
+à son encontre, la Commission bancaire recueille préalablement l'avis de la Commission de surveillance mentionnée aux
+articles L. 518-4 à L. 518-10. 
+
+Pour la mise en œuvre du b du 1° du présent article, les articles L. 571-4, L. 613-20-1 et L. 613-20-2 sont applicables au
+groupe de la Caisse des dépôts et consignations et à ses dirigeants ; 
+
+2° Par l'Autorité des marchés financiers sur les organismes de placement collectif mentionnés au I de l'article L. 214-1, sur
+les sociétés de gestions de portefeuille mentionnées à l'article L. 532-9, sur les dépositaires centraux et les gestionnaires
+de systèmes de règlement et de livraison d'instruments financiers et sur les conseillers en investissements financiers ; 
+
+3° Par l'Autorité de contrôle des assurances et mutuelles sur les organismes et les personnes qui lui sont soumis en vertu de
+l'article L. 310-12 du code des assurances ; 
+
+4° Par le conseil de l'ordre du barreau auprès duquel les avocats sont inscrits, conformément à l'article 17 de la loi n°
+71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques. Il peut être assisté dans sa
+mission de contrôle par le Conseil national des barreaux conformément à l'article 21-1 de la même loi ; 
+
+5° Par les chambres des notaires sur les notaires de leur ressort, conformément à l'article 4 de l'ordonnance n° 45-2590 du 2
+novembre 1945 relative au statut du notariat ; 
+
+6° Par les chambres départementales des huissiers de justice sur les huissiers de justice de leur ressort, conformément à
+l'article 6 de l'ordonnance n° 45-2592 du 2 novembre 1945 relative au statut des huissiers de justice ; 
+
+7° Par la chambre de discipline des commissaires-priseurs judiciaires sur les commissaires-priseurs judiciaires de leur
+ressort, conformément à l'article 8 de l'ordonnance n° 45-2593 du 2 novembre 1945 ; 
+
+8° Par le conseil de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation sur les avocats au Conseil d'Etat et à
+la Cour de cassation, conformément à l'article 13-1 de l'ordonnance du 10 septembre 1817 qui réunit, sous la dénomination
+d'ordre des avocats au Conseil d'Etat et à la Cour de cassation, l'ordre des avocats aux conseils et le collège des avocats à
+la Cour de cassation, fixe irrévocablement le nombre des titulaires et contient des dispositions pour la discipline
+intérieure de l'ordre ; 
+
+9° Pour les administrateurs judiciaires et les mandataires judiciaires, dans les conditions définies au titre Ier du livre
+VIII du code de commerce ; 
+
+10° Pour les commissaires aux comptes, dans les conditions définies au titre II du livre VIII du code de commerce ; 
+
+11° Par l'ordre des experts-comptables sur les experts-comptables et les salariés autorisés à exercer la profession d'expert-
+comptable, en application des articles 83 ter et 83 quater de l'ordonnance n° 45-2138 du 19 septembre 1945 portant
+institution de l'ordre des experts-comptables et réglementant le titre et la profession d'experts-comptables, conformément à
+l'article 1er de cette ordonnance ; 
+
+12° Par le conseil de ventes volontaires de meubles aux enchères publiques sur les sociétés de ventes volontaires de meubles
+aux enchères publiques, conformément aux articles L. 321-18 et L. 321-22 du code de commerce. 
+
+II.-Le contrôle des obligations prévues aux chapitres Ier et II du présent titre est exercé sur les personnes mentionnées aux
+8°, 9° et 15° de l'article L. 561-2 par des inspections conduites par l'autorité administrative compétente, selon des
+modalités définies par décret en Conseil d'Etat. 
+
+Les inspections sont réalisées par des inspecteurs assermentés et spécialement habilités par l'autorité administrative. 
+
+Les inspecteurs peuvent demander aux personnes contrôlées, sans que le secret professionnel ne puisse leur être opposé,
+communication de tout document quel qu'en soit le support et en obtenir copie, ainsi que tout renseignement ou justification
+nécessaire à l'exercice de leur mission. 
+
+Les inspecteurs peuvent également obtenir des administrations de l'Etat, des collectivités territoriales, des établissements
+publics, des organismes mentionnés à l'article L. 134-1 du code des juridictions financières et de tout autre organisme ou
+personne chargé d'une mission de service public toutes les informations nécessaires à l'accomplissement de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 83 quater
+	  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 83 ter
+	  - Ordonnance n°45-2590 du 2 novembre 1945 - art. 4
+	  - Ordonnance n°45-2592 du 2 novembre 1945 - art. 6
+	  - Ordonnance n°45-2593 du 2 novembre 1945 - art. 8
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 17
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 21-1
+	  - Ordonnance du 10 septembre 1817 - art. 13
+	  - Code de commerce - art. L321-18
+	  - Code de commerce - art. L321-22
+	  - Code des juridictions financières - art. L134-1
+	  - Code monétaire et financier - art. L211-4
+	  - Code monétaire et financier - art. L214-1
+	  - Code monétaire et financier - art. L518-4
+	  - Code monétaire et financier - art. L520-2
+	  - Code monétaire et financier - art. L532-9
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L571-4
+	  - Code monétaire et financier - art. L613-1
+	  - Code monétaire et financier - art. L613-15
+	  - Code monétaire et financier - art. L613-2
+	  - Code monétaire et financier - art. L613-20
+	  - Code monétaire et financier - art. L613-20-1
+	  - Code monétaire et financier - art. L613-20-2
+	  - Code monétaire et financier - art. L613-21
+	  - Code monétaire et financier - art. L613-23
+	  - Code monétaire et financier - art. L613-6
+	  - Code des assurances - art. L310-12
+
+	**Cité par**:
+
+	  - Loi n°70-9 du 2 janvier 1970 - art. 8-2 (VD)
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 19 (V)
+	  - Arrêté du 3 mai 2012 - art. 234-1 (VD)
+	  - Arrêté du 23 octobre 2012 - art. 1 (V)
+	  - Ordonnance n°2014-559 du 30 mai 2014 - art. 33 (VD)
+	  - Code monétaire et financier - art. L561-19 (V)
+	  - Code monétaire et financier - art. L561-26 (V)
+	  - Code monétaire et financier - art. L561-29-1 (V)
+	  - Code monétaire et financier - art. L561-30 (V)
+	  - Code monétaire et financier - art. L561-32 (M)
+	  - Code monétaire et financier - art. L561-34 (M)
+	  - Code monétaire et financier - art. L561-35 (V)
+	  - Code monétaire et financier - art. L561-38 (M)
+	  - Code monétaire et financier - art. L561-41 (M)
+	  - Code monétaire et financier - art. L561-9 (V)
+	  - Code monétaire et financier - art. L574-4 (V)
+	  - Code monétaire et financier - art. L612-1 (V)
+	  - Code monétaire et financier - art. L745-13 (MMN)
+	  - Code monétaire et financier - art. L755-13 (MMN)
+	  - Code monétaire et financier - art. L765-13 (VT)
+	  - Code monétaire et financier - art. R561-20 (V)
+	  - Code monétaire et financier - art. R561-23 (V)
+	  - Code monétaire et financier - art. R561-24 (V)
+	  - Code monétaire et financier - art. R561-38 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+
+##### Sous-section 2 : La Commission nationale des sanctions
+
+###### Article L561-37
+
+Tout manquement aux dispositions des sections 3, 4, 5 et 6 du présent chapitre par les personnes mentionnées aux 8°, 9° et
+15° de l'article L. 561-2 est passible des sanctions prévues par l'article L. 561-40.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Loi n°2010-476 du 12 mai 2010 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-40
+
+
+###### Article L561-38
+
+Il est institué auprès du ministre chargé de l'économie une Commission nationale des sanctions chargée de prononcer les
+sanctions prévues à l'article L. 561-40. Elle est saisie des manquements constatés lors des contrôles effectués en
+application du II de l'article L. 561-36 : 
+
+1° Par le ministre chargé de l'économie ou le ministre chargé du budget pour les personnes mentionnées au 8° de l'article L.
+561-2 ; 
+
+2° Par le ministre de l'intérieur, le ministre chargé de l'économie ou le ministre chargé du budget pour les représentants
+légaux et directeurs responsables de casinos et les cercles de jeux ainsi que pour les sociétés organisant des jeux de
+hasard, des loteries, des paris, des pronostics sportifs ou hippiques, mentionnés au 9° de l'article L. 561-2 ; 
+
+3° Par le ministre chargé de l'économie pour les personnes mentionnées au 15° du même article. 
+
+La dissolution de la personne morale, la cessation d'activité ou la démission d'une personne mentionnée aux 8°, 9° et 15° de
+l'article L. 561-2 ne fait pas obstacle à la poursuite de la procédure de sanction à son encontre si les faits qui lui sont
+reprochés ont été commis pendant qu'elle était en activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 118 (V)
+	  - Code de commerce - art. R123-166-5 (VD)
+	  - Code monétaire et financier - art. R561-47 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-36
+	  - Code monétaire et financier - art. L561-40
+
+
+###### Article L561-39
+
+I. - La Commission nationale des sanctions est composée d'un conseiller d'Etat, président, désigné par le vice-président du
+Conseil d'Etat, d'un conseiller à la Cour de cassation, désigné par le premier président de la Cour de cassation et d'un
+conseiller-maître à la Cour des comptes, désigné par le premier président de la Cour des comptes, ainsi que de quatre
+personnalités qualifiées en matière juridique ou économique. 
+
+II. - Le président et les membres de la commission ainsi que leurs suppléants sont nommés par décret pour un mandat de cinq
+ans, renouvelable une fois. Ils sont tenus au secret professionnel. 
+
+III. - La commission statue à la majorité des membres présents. En cas de partage égal des voix, celle du président est
+prépondérante. 
+
+IV. - Un décret en Conseil d'Etat précise les conditions de fonctionnement de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+
+###### Article L561-40
+
+La Commission nationale des sanctions peut prononcer l'une des sanctions administratives suivantes : 
+
+1° L'avertissement ; 
+
+2° Le blâme ; 
+
+3° L'interdiction temporaire d'exercice de l'activité pour une durée n'excédant pas cinq ans ; 
+
+4° Le retrait d'agrément ou de la carte professionnelle. 
+
+La sanction de l'interdiction temporaire d'exercice peut être assortie du sursis. Si, dans le délai de cinq ans à compter du
+prononcé de la sanction, la personne sanctionnée commet une infraction ou une faute entraînant le prononcé d'une nouvelle
+sanction, celle-ci entraîne, sauf décision motivée, l'exécution de la première sanction sans confusion possible avec la
+seconde. 
+
+La commission peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction pécuniaire dont le montant est fixé
+compte tenu de la gravité des manquements commis et ne peut être supérieur à cinq millions d'euros. Les sommes sont
+recouvrées par le Trésor public. 
+
+La commission peut décider que les sanctions qu'elle inflige feront l'objet d'une publication aux frais de la personne
+sanctionnée dans les journaux ou publications qu'elle désigne. 
+
+La commission peut décider de mettre à la charge de la personne sanctionnée tout ou partie des frais occasionnés par les
+mesures de contrôle ayant permis la constatation des faits sanctionnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L561-37 (M)
+	  - Code monétaire et financier - art. L561-38 (M)
+
+
+###### Article L561-41
+
+La Commission nationale des sanctions reçoit les rapports établis à la suite des contrôles effectués par les autorités
+administratives mentionnées au II de l'article L. 561-36 et notifie les griefs à la personne physique mise en cause ou,
+s'agissant d'une personne morale, à son responsable légal. 
+
+Le cas échéant, ces griefs sont également notifiés à l'organisme central auquel est affiliée la personne en cause et portés à
+la connaissance de l'association professionnelle à laquelle elle adhère.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-36
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R561-47 (V)
+
+
+###### Article L561-42
+
+La Commission nationale des sanctions statue par décision motivée, hors la présence du rapporteur de l'affaire. Aucune
+sanction ne peut être prononcée sans que la personne concernée ou son représentant ait été entendu ou, à défaut, dûment
+convoqué.
 
 **Nota:**
 
-(1) : L'article L111-1 du code de la mutualité a été abrogé par l'article 3 de l'ordonnance n° 2001-350 du 19 avril 2001.
+Conformément à la décision n° 2016-616/617 QPC du 9 mars 2017 (NOR: CSCX1707927S), article 1 : L'article L. 561-42 du code
+monétaire et financier, dans sa rédaction issue de l'ordonnance n° 2009-104 du 30 janvier 2009 relative à la prévention de
+l'utilisation du système financier aux fins de blanchiment de capitaux et de financement du terrorisme, est contraire à la
+Constitution. La déclaration d'inconstitutionnalité de l'article 1er prend effet dans les conditions prévues au paragraphe 13
+de cette décision (11 mars 2017).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+
+###### Article L561-43
+
+Les recours formés contre les décisions de la Commission nationale des sanctions sont des recours de pleine juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+
+###### Article L561-44
+
+Les conditions d'application de la présente sous-section, notamment les conditions de récusation des membres de la Commission
+nationale des sanctions, sont définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+
+##### Section 8 : Droit d'accès indirect aux données
+
+###### Article L561-45
+
+Lorsque des données à caractère personnel font l'objet d'un traitement aux seules fins de l'application des articles L. 561-5
+à L. 561-23 par une personne mentionnée à l'article L. 561-2, le droit d'accès s'exerce auprès de la Commission nationale de
+l'informatique et des libertés. 
+
+La commission désigne l'un de ses membres appartenant ou ayant appartenu au Conseil d'Etat, à la Cour de cassation ou à la
+Cour des comptes pour mener les investigations utiles et faire procéder aux modifications nécessaires. Celui-ci peut se faire
+assister d'un agent de la commission. 
+
+Les données peuvent être communiquées au demandeur lorsque la commission constate, en accord avec le service mentionné à
+l'article L. 561-23 et après avis du responsable du traitement, que leur communication n'est susceptible ni de révéler
+l'existence d'une déclaration prévue à l'article L. 561-15 ou des suites qui lui ont été données, ou l'exercice par le
+service mentionné à l'article L. 561-23 de son droit de communication prévu à l'article L. 561-26, ni de mettre en cause la
+finalité de lutte contre le blanchiment des capitaux et le financement du terrorisme lorsque les données sont relatives au
+demandeur et détenues dans le cadre de la mise en œuvre des dispositions des articles L. 561-8, L. 561-9 et L. 561-10. 
+
+Lorsque la communication des données est susceptible de mettre en cause la finalité du traitement, la Commission nationale de
+l'informatique et des libertés, saisie par le demandeur, l'informe qu'il a été procédé aux vérifications nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-10
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-26
+	  - Code monétaire et financier - art. L561-5
+	  - Code monétaire et financier - art. L561-8
+	  - Code monétaire et financier - art. L561-9
+
+
+#### Chapitre II : Obligations relatives au gel des avoirs
+
+##### Section 1 :  Gel des avoirs dans le cadre de la lutte contre le financement du terrorisme
+
+###### Article L562-1
+
+Sans préjudice des mesures restrictives spécifiques prises en application de règlements du Conseil de l'Union européenne et
+des mesures prononcées par l'autorité judiciaire, le ministre chargé de l'économie peut décider le gel, pour une durée de six
+mois, renouvelable, de tout ou partie des fonds, instruments financiers et ressources économiques détenus auprès des
+organismes et personnes mentionnés à l'article L. 562-3 qui appartiennent à des personnes physiques ou morales qui
+commettent, ou tentent de commettre, des actes de terrorisme, définis comme il est dit au 4 de l'article 1er du règlement
+(CE) n° 2580 / 2001 du Conseil, du 27 décembre 2001, concernant l'adoption de mesures restrictives spécifiques à l'encontre
+de certaines personnes et entités dans le cadre de la lutte contre le terrorisme, les facilitent ou y participent et à des
+personnes morales détenues par ces personnes physiques ou contrôlées, directement ou indirectement, par elles au sens des 5
+et 6 de l'article 1er du règlement (CE) n° 2580 / 2001 du Conseil, du 27 décembre 2001, précité. Les fruits produits par les
+fonds, instruments et ressources précités sont également gelés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°90-614 du 12 juillet 1990 - art. 1 (Ab)
+	  - Code monétaire et financier - art. L564-2 (T)
 
 	**Codifié par**:
 
@@ -42248,52 +45210,21 @@ Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
 
-	**Cite**:
 
-	  - Code monétaire et financier - art. L211-4 (M)
-	  - Code monétaire et financier - art. L214-1 (M)
-	  - Code monétaire et financier - art. L341-3 (M)
-	  - Code monétaire et financier - art. L341-4 (M)
-	  - Code monétaire et financier - art. L421-17 (MMN)
-	  - Code monétaire et financier - art. L440-2 (V)
-	  - Code monétaire et financier - art. L511-7 (M)
-	  - Code monétaire et financier - art. L543-1 (Ab)
-	  - Code des assurances - art. L310-1 (M)
-	  - Code de la mutualité - art. L111-1 (Ab)
-	  - Code rural L727-2
-
+##### Section 2 : Gel des avoirs dans le cadre des sanctions financières internationales
 
 ###### Article L562-2
 
-Les organismes financiers et les personnes mentionnés à l'article L. 562-1 sont tenus, dans les conditions fixées par le
-présent titre, de déclarer au service institué à l'article L. 562-4 :
-
-1. Les sommes inscrites dans leurs livres qui pourraient provenir du trafic de stupéfiants, de la fraude aux intérêts
-financiers des Communautés européennes, de la corruption ou d'activités criminelles organisées ou qui pourraient participer
-au financement du terrorisme ;
-
-2. Les opérations qui portent sur des sommes qui pourraient provenir du trafic de stupéfiants, de la fraude aux intérêts
-financiers des Communautés européennes, de la corruption ou d'activités criminelles organisées ou qui pourraient participer
-au financement du terrorisme.
-
-Les organismes financiers sont également tenus de déclarer à ce service :
-
-1. Toute opération dont l'identité du donneur d'ordre ou du bénéficiaire reste douteuse malgré les diligences effectuées
-conformément à l'article L. 563-1 ;
-
-2. Les opérations effectuées par les organismes financiers pour compte propre ou pour compte de tiers avec des personnes
-physiques ou morales, y compris leurs filiales ou établissements, agissant sous forme ou pour le compte de fonds fiduciaires
-ou de tout autre instrument de gestion d'un patrimoine d'affectation dont l'identité des constituants ou des bénéficiaires
-n'est pas connue.
-
-Un décret pourra étendre l'obligation de déclaration mentionnée au premier alinéa aux opérations pour compte propre ou pour
-compte de tiers effectuées par les organismes financiers avec des personnes physiques ou morales, y compris leurs filiales ou
-établissements, domiciliées, enregistrées ou établies dans l'ensemble des Etats ou territoires dont la législation est
-reconnue insuffisante ou dont les pratiques sont considérées comme faisant obstacle à la lutte contre le blanchiment des
-capitaux par l'instance internationale de concertation et de coordination en matière de lutte contre le blanchiment d'argent.
-Ce décret fixera le montant minimum des opérations soumises à déclaration.
+En application des résolutions adoptées dans le cadre du chapitre VII de la Charte des Nations unies ou des actes pris en
+application de l'article 15 du traité sur l'Union européenne, le ministre chargé de l'économie peut décider le gel, pour une
+durée de six mois, renouvelable, de tout ou partie des fonds, instruments financiers et ressources économiques détenus auprès
+des personnes mentionnées à l'article L. 561-2 qui appartiennent à des personnes physiques ou morales, organismes ou entités
+qui ont commis, commettent ou, de par leurs fonctions, sont susceptibles de commettre des actes sanctionnés ou prohibés par
+ces résolutions ou ces actes, les facilitent ou y participent et à des personnes morales détenues par ces personnes physiques
+ou contrôlées, directement ou indirectement, par elles. Les fruits produits par les fonds, instruments et ressources
+susmentionnés sont également gelés
 
 **Liens relatifs à cet article**
 
@@ -42351,101 +45282,19 @@ Ce décret fixera le montant minimum des opérations soumises à déclaration.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L563-1 (M)
-
-
-###### Article L562-2-1
-
-Les personnes mentionnées au 12 de l'article L. 562-1 sont tenues de procéder à la déclaration prévue à l'article L. 562-2
-lorsque, dans le cadre de leur activité professionnelle, elles réalisent au nom et pour le compte de leur client toute
-transaction financière ou immobilière ou lorsqu'elles participent en assistant leur client à la préparation ou à la
-réalisation des transactions concernant : 
-
-1° L'achat et la vente de biens immeubles ou de fonds de commerce ; 
-
-2° La gestion de fonds, titres ou autres actifs appartenant au client ; 
-
-3° L'ouverture de comptes bancaires, d'épargne ou de titres ; 
-
-4° L'organisation des apports nécessaires à la création de sociétés ; 
-
-5° La constitution, la gestion ou la direction des sociétés ; 
-
-6° La constitution, la gestion ou la direction de fiducies régies par les articles 2011 à 2031 du code civil ou par un droit
-étranger ou de toute autre structure similaire ; 
-
-7° La constitution ou la gestion de fonds de dotation. 
-
-Les personnes mentionnées au 12 de l'article L. 562-1 dans l'exercice des activités relatives aux transactions visées ci-
-dessus et les experts-comptables lorsqu'ils effectuent des consultations juridiques conformément aux dispositions de
-l'article 22 de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et
-réglementant le titre et la profession d'expert-comptable ne sont pas tenus de procéder à la déclaration prévue à l'article
-L. 562-2 lorsque les informations ont été reçues d'un de leurs clients ou obtenues sur l'un d'eux, soit dans le cadre d'une
-consultation juridique sauf si celle-ci est fournie aux fins de blanchiment de capitaux ou si ces personnes y procèdent en
-sachant que leur client souhaite obtenir des conseils juridiques aux fins de blanchiment de capitaux, soit dans l'exercice de
-leur activité dans l'intérêt de ce client lorsque cette activité se rattache à une procédure juridictionnelle, que ces
-informations soient reçues ou obtenues avant, pendant ou après cette procédure, y compris dans le cadre de conseils relatifs
-à la manière d'engager ou d'éviter une telle procédure. 
-
-Par dérogation à l'article L. 562-2, l'avocat au Conseil d'Etat et à la Cour de cassation, l'avocat ou l'avoué près la cour
-d'appel communique la déclaration, selon le cas, au président de l'ordre des avocats au Conseil d'Etat et à la Cour de
-cassation, au bâtonnier de l'ordre auprès duquel l'avocat est inscrit ou au président de la compagnie dont relève l'avoué.
-Ces autorités transmettent, dans les délais et selon les modalités procédurales définis par décret en Conseil d'Etat, la
-déclaration qui leur a été remise par l'avocat ou l'avoué au service institué à l'article L. 562-4, sauf si elles considèrent
-qu'il n'existe pas de soupçon de blanchiment de capitaux. 
-
-Dans ce cas, le président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, le bâtonnier de l'ordre auprès
-duquel l'avocat est inscrit ou le président de la compagnie dont relève l'avoué informe l'avocat ou l'avoué des raisons pour
-lesquelles il a estimé ne pas devoir transmettre les informations qui lui avaient été communiquées par celui-ci. Le bâtonnier
-de l'ordre ou le président de la compagnie destinataire d'une déclaration qu'il n'a pas transmise au service institué à
-l'article L. 562-4 transmet les informations contenues dans cette déclaration au président du Conseil national des barreaux
-ou au président de la Chambre nationale des avoués. Cette transmission ne contient pas d'éléments relatifs à l'identification
-des personnes. Dans les mêmes conditions, le président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, le
-président du Conseil national des barreaux et le président de la Chambre nationale des avoués font rapport au garde des
-sceaux, ministre de la justice, selon une périodicité définie par décret en Conseil d'Etat, sur les situations n'ayant pas
-donné lieu à communication des déclarations. 
-
-Le service institué à l'article L. 562-4 est rendu destinataire de ces informations par le garde des sceaux, ministre de la
-justice.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°45-2138 du 19 septembre 1945
-	  - Code civil - art. 2011
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cité par**:
-
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
-	  - Code monétaire et financier - art. L562-1 (V)
-	  - Code monétaire et financier - art. R562-1 (Ab)
-	  - Code monétaire et financier - art. R562-2-2 (Ab)
-	  - Code monétaire et financier - art. R562-2-3 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 140 (VD)
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
 
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+
+
+##### Section 3 : Dispositions communes
 
 ###### Article L562-3
 
-Toute information de nature à modifier l'appréciation portée par l'organisme financier ou la personne visée à l'article L.
-562-1 lors de la déclaration prévue à l'article L. 562-2 doit être immédiatement portée à la connaissance du service institué
-à l'article L. 562-4.
+Les personnes mentionnées à l'article L. 561-2 qui détiennent ou reçoivent des fonds, instruments financiers et ressources
+économiques sont tenues d'appliquer les mesures de gel ou d'interdiction prises en vertu du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -42459,7 +45308,11 @@ Toute information de nature à modifier l'appréciation portée par l'organisme 
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
 
 	**Cité par**:
 
@@ -42468,26 +45321,20 @@ Toute information de nature à modifier l'appréciation portée par l'organisme 
 	  - Code monétaire et financier - art. L574-3 (VD)
 	  - Code monétaire et financier - art. L714-3 (V)
 
-	**Cite**:
-
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L562-4 (M)
-
 
 ###### Article L562-4
 
-Un service, placé sous l'autorité du ministre chargé de l'économie, reçoit la déclaration prévue à l'article L. 562-2. Ce
-service est composé d'agents publics de l'Etat spécialement habilités par le ministre, dans les conditions fixées par décret
-en Conseil d'Etat. Ce service recueille et rassemble tous renseignements propres à établir l'origine des sommes ou la nature
-des opérations ayant fait l'objet d'une déclaration mentionnée à l'article L. 562-2, de l'examen particulier prévu à
-l'article L. 563-3 ou d'une information mentionnée à l'article L. 563-5. Dès que les informations recueillies mettent en
-évidence des faits susceptibles de relever du trafic de stupéfiants ou d'activités criminelles organisées ou du financement
-du terrorisme, il en réfère au procureur de la République en lui précisant, le cas échéant, que l'administration des douanes
-a été saisie en vue de procéder à des investigations pour la recherche et la constatation de l'infraction prévue à l'article
-415 du code des douanes.
+Pour l'application du présent chapitre, on entend par fonds, instruments financiers et ressources économiques les avoirs de
+toute nature, corporels ou incorporels, mobiliers ou immobiliers, acquis par quelque moyen que ce soit, et les documents ou
+instruments légaux sous quelque forme que ce soit, y compris sous forme électronique ou numérique, qui prouvent un droit de
+propriété ou un intérêt ou un contrôle sur ces avoirs, incluant, notamment, les crédits bancaires, les chèques de voyage, les
+chèques bancaires, les mandats, les actions, les titres, les obligations, les traites et les lettres de crédit. 
 
-Le procureur de la République transmet au service mentionné ci-dessus toutes les décisions définitives prononcées dans les
-affaires ayant fait l'objet d'une déclaration de soupçon, en application du présent titre.
+Pour l'application du présent chapitre, le gel des fonds, instruments financiers et ressources économiques détenus auprès des
+personnes mentionnées à l'article L. 561-2 s'entend comme toute action visant à empêcher tout mouvement, transfert ou
+utilisation de fonds, instruments financiers et ressources économiques qui aurait pour conséquence un changement de leur
+montant, de leur localisation, de leur propriété ou de leur nature, ou toute autre modification qui pourrait en permettre
+l'utilisation par les personnes faisant l'objet de la mesure de gel.
 
 **Liens relatifs à cet article**
 
@@ -42534,34 +45381,21 @@ affaires ayant fait l'objet d'une déclaration de soupçon, en application du pr
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
 
 	**Cite**:
 
-	  - Code des douanes - art. 415 (T)
+	  - Code monétaire et financier - art. L561-2
 
 
 ###### Article L562-5
 
-Sous réserve des dispositions de l'article L. 562-6, le service institué à l'article L. 562-4 accuse réception de la
-déclaration dans le délai d'exécution de l'opération. Il peut former opposition à l'exécution de l'opération. Celle-ci est
-alors reportée pour une durée n'excédant pas douze heures.
-
-Si l'accusé de réception n'est pas assorti d'une opposition, ou si, au terme du délai ouvert par l'opposition, aucune
-décision du président du tribunal de grande instance de Paris ou, le cas échéant, du juge d'instruction, n'est parvenue à
-l'organisme financier ou à la personne visé à l'article L. 562-1 qui a effectué la déclaration, l'opération peut être
-exécutée.
-
-La déclaration porte sur des opérations déjà exécutées lorsqu'il a été impossible de surseoir à leur exécution. Il en est de
-même lorsqu'il est apparu postérieurement à la réalisation de l'opération que les sommes pourraient provenir du trafic de
-stupéfiants ou d'activités criminelles organisées ou du financement du terrorisme. Le service institué à l'article L. 562-4
-accuse réception de ces déclarations.
-
-Le président du tribunal de grande instance de Paris peut, sur requête du service institué à l'article L. 562-4 après avis du
-procureur de la République près le tribunal de grande instance de Paris, proroger le délai prévu au premier alinéa du présent
-article ou ordonner le séquestre provisoire des fonds, comptes ou titres concernés par la déclaration. Le procureur de la
-République près le tribunal de grande instance de Paris peut présenter une requête ayant le même objet. L'ordonnance qui fait
-droit à la requête est exécutoire sur minute avant toute notification à la personne concernée par la déclaration.
+Le ministre chargé de l'économie peut décider d'interdire, pour une durée de six mois renouvelable, tout mouvement ou
+transfert de fonds, instruments financiers et ressources économiques au bénéfice des personnes physiques ou morales,
+organismes ou entités auxquels ces fonds, instruments financiers et ressources économiques appartiennent et qui sont
+mentionnées à l'article L. 562-1 ou à l'article L. 562-2. Ces mesures s'appliquent également aux mouvements ou transferts de
+fonds, instruments financiers et ressources économiques dont l'ordre d'exécution a été émis antérieurement à la date de
+publication de la décision du ministre.
 
 **Liens relatifs à cet article**
 
@@ -42583,24 +45417,18 @@ droit à la requête est exécutoire sur minute avant toute notification à la p
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-4 (M)
-	  - Code monétaire et financier - art. L562-6 (M)
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L562-2
 
 
 ###### Article L562-6
 
-La déclaration peut être verbale ou écrite. L'organisme financier ou la personne visés à l'article L. 562-1 peuvent demander
-que le service institué à l'article L. 562-4 n'accuse pas réception de la déclaration. Dans le cas où ce service saisit le
-procureur de la République, la déclaration, dont ce dernier est avisé, ne figure pas au dossier de la procédure.
-
-Lorsque, sur le fondement d'une déclaration faite conformément aux articles L. 562-2, L. 563-1, L. 563-1-1 et L. 563-3 à L.
-563-5, le service institué à l'article L. 562-4 a saisi le procureur de la République, il en informe, selon des modalité
-fixées par décret en Conseil d'Etat, l'organisme financier ou la personne qui a effectué la déclaration.
+Les décisions du ministre arrêtées en application du présent chapitre sont publiées au Journal officiel et exécutoires à
+compter de la date de leur publication.
 
 **Liens relatifs à cet article**
 
@@ -42622,24 +45450,19 @@ fixées par décret en Conseil d'Etat, l'organisme financier ou la personne qui 
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L562-4 (M)
-	  - Code monétaire et financier - art. L563-1 (M)
-	  - Code monétaire et financier - art. L563-1-1 (M)
-	  - Code monétaire et financier L562-1, L562-4, L562-2, L563-1, L563-1-1, L563-3 à L563-5
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
 
 
 ###### Article L562-7
 
-Lorsque, par suite soit d'un grave défaut de vigilance, soit d'une carence dans l'organisation de ses procédures internes de
-contrôle, un organisme financier ou une personne visés à l'article L. 562-1 a omis de faire les obligations découlant du
-présent titre, l'autorité ayant pouvoir disciplinaire engage une procédure sur le fondement des règlements professionnels ou
-administratifs et en avise le procureur de la République.
+Les mesures de gel ou d'interdiction prises en vertu du présent chapitre s'imposent à toute personne copropriétaire des
+fonds, instruments financiers et ressources susmentionnés, ainsi qu'à toute personne titulaire d'un compte joint dont l'autre
+titulaire est une personne propriétaire, nue-propriétaire ou usufruitière mentionnée à l'article L. 562-1 ou à l'article L.
+562-2. 
+
+Ces mesures sont opposables à tout créancier et à tout tiers pouvant invoquer des droits sur les fonds, instruments
+financiers et ressources économiques considérés, même si l'origine de ces créances ou autres droits est antérieure à la
+publication de l'arrêté
 
 **Liens relatifs à cet article**
 
@@ -42653,11 +45476,12 @@ administratifs et en avise le procureur de la République.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1 (M)
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L562-2
 
 	**Cité par**:
 
@@ -42666,24 +45490,15 @@ administratifs et en avise le procureur de la République.
 
 ###### Article L562-8
 
-Pour les sommes ou les opérations ayant fait l'objet de la déclaration mentionnée à l'article L. 562-2, aucune poursuite
-fondée sur les articles 226-13 et 226-14 du code pénal ne peut être intentée contre les dirigeants et les préposés de
-l'organisme financier ou contre les autres personnes visés à l'article L. 562-1 qui, de bonne foi, ont effectué cette
-déclaration.
+Le secret bancaire ou professionnel ne fait pas obstacle à l'échange d'informations entre les personnes mentionnées à
+l'article L. 561-2 et les services de l'Etat chargés de mettre en œuvre une mesure de gel ou d'interdiction de mouvement ou
+de transfert des fonds, des instruments financiers et des ressources économiques lorsque ces informations peuvent permettre
+de vérifier l'identité des personnes concernées directement ou indirectement par cette mesure. Les informations fournies ou
+échangées ne peuvent être utilisées qu'à ces fins. 
 
-Aucune action en responsabilité civile ne peut être intentée ni aucune sanction professionnelle prononcée contre un organisme
-financier, ses dirigeants ou ses préposés ou contre une autre personne visés à l'article L. 562-1 qui ont fait de bonne foi
-la déclaration mentionnée à l'article L. 562-2. En cas de préjudice résultant directement d'une telle déclaration, l'Etat
-répond du dommage subi.
-
-Les dispositions du présent article s'appliquent même si la preuve du caractère délictueux des faits à l'origine de la
-déclaration n'est pas rapportée ou si ces faits ont fait l'objet d'une décision de non-lieu, de relaxe ou d'acquittement.
-
-Lorsque l'opération a été exécutée comme il est prévu à l'article L. 562-5 et sauf concertation frauduleuse avec le
-propriétaire des sommes ou l'auteur de l'opération, l'organisme financier est dégagé de toute responsabilité, et aucune
-poursuite pénale ne peut être engagée de ce fait contre ses dirigeants ou ses préposés par application des articles 222-34 à
-222-41, 321-1, 321-2, 321-3 et 324-1 du code pénal ou de l'article 415 du code des douanes. Les autres personnes visées à
-l'article L. 562-1 sont également dégagées de toutes responsabilités.
+Les services de l'Etat chargés de mettre en œuvre une mesure de gel ou d'interdiction de mouvement ou de transfert des fonds,
+des instruments financiers et ressources économiques et les autorités d'agrément et de contrôle des personnes mentionnées à
+l'article L. 561-2 sont autorisés à échanger les informations nécessaires à l'exercice de leurs missions respectives.
 
 **Liens relatifs à cet article**
 
@@ -42698,21 +45513,7 @@ l'article L. 562-1 sont également dégagées de toutes responsabilités.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Cite**:
-
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
-	  - Code pénal - art. 321-1 (M)
-	  - Code pénal - art. 321-2 (M)
-	  - Code pénal - art. 321-3 (M)
-	  - Code pénal - art. 324-1 (M)
-	  - Code pénal 226-13, 226-14, 222-34 à 222-41, 321-1, 321-2, 321-3, 324-1
-	  - Code des douanes - art. 415 (T)
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L562-5 (M)
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
 
 	**Cité par**:
 
@@ -42720,12 +45521,48 @@ l'article L. 562-1 sont également dégagées de toutes responsabilités.
 	  - Code monétaire et financier - art. L562-9 (Ab)
 	  - Code monétaire et financier - art. L735-3 (M)
 
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+
+
+###### Article L562-9
+
+L'Etat est responsable des conséquences dommageables de la mise en œuvre de bonne foi, par les personnes mentionnées à
+l'article L. 561-2, leurs dirigeants ou leurs préposés, des mesures de gel ou d'interdiction prévues à l'article L. 562-1 et
+à l'article L. 562-2. Aucune sanction professionnelle ne peut être prononcée à l'encontre de ces personnes, de leurs
+dirigeants ou de leurs préposés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°90-614 du 12 juillet 1990 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 12 (VD)
+	  - Code monétaire et financier - art. L714-3 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L562-2
+
 
 ###### Article L562-10
 
-Le service institué à l'article L. 562-4 anime un comité de liaison de la lutte contre le blanchiment des produits des crimes
-et des délits et de la lutte contre le financement des activités terroristes qui réunit, dans des conditions fixées par
-décret, les professions mentionnées à l'article L. 562-1, les autorités de contrôle et les services de l'Etat concernés.
+Les dispositions du présent chapitre ne sont pas applicables aux dépositaires centraux et aux gestionnaires de systèmes de
+règlement et de livraison d'instruments financiers.
 
 **Liens relatifs à cet article**
 
@@ -42748,40 +45585,48 @@ décret, les professions mentionnées à l'article L. 562-1, les autorités de c
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-4 (M)
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L562-4
 
 
-#### Chapitre III : Autres obligations de vigilance
+###### Article L562-11
+
+Un décret en Conseil d'Etat fixe les conditions d'application des dispositions du présent chapitre, notamment les conditions
+dans lesquelles les personnes mentionnées à l'article L. 561-2 sont tenues d'appliquer les mesures de gel ou d'interdiction
+de mouvement ou de transfert des fonds, instruments financiers et ressources économiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+
+
+#### Chapitre III : Obligations relatives à la lutte contre les loteries, jeux et paris prohibés
 
 ###### Article L563-1
 
-Les organismes financiers ou les personnes visées à l'article L. 562-1 doivent, avant de nouer une relation contractuelle ou
-d'assister leur client dans la préparation ou la réalisation d'une transaction, s'assurer de l'identité de leur cocontractant
-par la présentation de tout document écrit probant. Ils s'assurent dans les mêmes conditions de l'identité de leur client
-occasionnel qui leur demande de faire des opérations dont la nature et le montant sont fixés par décret en Conseil d'Etat.
-Les personnes visées au 8 de l'article L. 562-1 satisfont à cette obligation en appliquant les mesures prévues à l'article L.
-566-1.
-
-Ils se renseignent sur l'identité véritable des personnes avec lesquelles ils nouent une relation contractuelle ou qui
-demandent leur assistance dans la préparation ou la réalisation d'une transaction lorsqu'il leur apparaît que ces personnes
-pourraient ne pas agir pour leur propre compte.
-
-Les organismes financiers et les personnes mentionnés à l'article L. 562-1 prennent les dispositions spécifiques et
-adéquates, dans les conditions définies par un décret, nécessaires pour faire face au risque accru de blanchiment de capitaux
-qui existe lorsqu'elles nouent des relations contractuelles avec un client qui n'est pas physiquement présent aux fins de
-l'identification ou lorsqu'elles l'assistent dans la préparation ou la réalisation d'une transaction.
+Les organismes, institutions et services régis par le titre Ier du présent livre qui détiennent ou reçoivent des fonds du
+public sont tenus d'appliquer les mesures d'interdiction prises en vertu du présent chapitre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-614 1990-07-12 art. 12
 	  - Loi n°90-614 du 12 juillet 1990 - art. 12 (Ab)
+	  - Code monétaire et financier - art. L565-1 (T)
 
 	**Codifié par**:
 
@@ -42801,77 +45646,38 @@ l'identification ou lorsqu'elles l'assistent dans la préparation ou la réalisa
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L566-1 (V)
-
-
-###### Article L563-1-1
-
-Pour assurer l'application des recommandations émises par l'instance internationale de concertation et de coordination en
-matière de lutte contre le blanchiment d'argent, le Gouvernement peut, pour des raisons d'ordre public et par décret en
-Conseil d'Etat, soumettre à des conditions spécifiques, restreindre ou interdire tout ou partie des opérations réalisées pour
-leur propre compte ou pour compte de tiers par les organismes financiers établis en France avec des personnes physiques ou
-morales mentionnées au sixième alinéa de l'article L. 562-2 ou domiciliées, enregistrées ou ayant un compte auprès d'un
-établissement situé dans un Etat ou territoire mentionné au septième alinéa du même article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cité par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 12 (VD)
-	  - Code monétaire et financier - art. L562-6 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-2
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L566-1
 
 
 ###### Article L563-2
 
-Les dispositions de l'article L. 563-1 s'appliquent aux bons et titres mentionnés à l'article 990 A du code général des
-impôts.
+Le ministre chargé des finances et le ministre de l'intérieur peuvent décider d'interdire, pour une durée de six mois
+renouvelable, tout mouvement ou transfert de fonds en provenance des personnes physiques ou morales qui organisent des
+activités de jeux, paris ou loteries prohibés par la loi du 21 mai 1836 portant prohibition des loteries et la loi du 2 juin
+1891 ayant pour objet de réglementer l'autorisation et le fonctionnement des courses de chevaux, ainsi que la loi n° 83-628
+du 12 juillet 1983 relative aux jeux de hasard.
 
-Le régime fiscal de ces bons et titres est maintenu.
+Les ministres lèvent l'interdiction mentionnée au premier alinéa sur demande des personnes concernées par celle-ci lorsque
+les mouvements ou transferts de fonds sont réalisés dans le cadre d'opérations non prohibées sur le territoire français.
 
-Les dispositions du deuxième alinéa de l'article 537 du code général des impôts ne font pas obstacle à l'application de
-l'article L. 563-1. Toutefois les informations mentionnées à cet article sont portées sur un registre distinct du registre
-institué par l'article 537 du code général des impôts. Dès lors que le client n'a pas autorisé l'organisme financier à
-communiquer son identité et son domicile fiscal à l'administration fiscale, le droit de communication prévu aux articles L.
-83, L. 85, L. 87 et L. 89 du livre des procédures fiscales ne s'applique ni au registre ainsi institué par le présent article
-ni aux documents justificatifs mentionnés au premier alinéa de l'article L. 563-1 établis à raison des transactions sur les
-bons, titres et valeurs mentionnés à l'article 990 A et au deuxième alinéa de l'article 537 du code général des impôts.
+Les décisions des ministres arrêtées en application du présent article sont publiées au Journal officiel.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 990 A, 537
-	  - Livre des procédures fiscales - art. L83 (MMN)
-	  - Livre des procédures fiscales - art. L85 (MMN)
-	  - Livre des procédures fiscales - art. L87 (MMN)
-	  - Livre des procédures fiscales - art. L89 (MMN)
-	  - Code monétaire et financier - art. L563-1 (M)
-	  - Code monétaire et financier L563-1, 990
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 13 al. 1, al. 2 et al. 3
+	  - Livre des procédures fiscales - art. L83
+	  - Livre des procédures fiscales - art. L85
+	  - Livre des procédures fiscales - art. L87
+	  - Livre des procédures fiscales - art. L89
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L563-1
 
 	**Codifié par**:
 
@@ -42879,7 +45685,7 @@ bons, titres et valeurs mentionnés à l'article 990 A et au deuxième alinéa d
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
 
 	**Cité par**:
 
@@ -42896,30 +45702,33 @@ bons, titres et valeurs mentionnés à l'article 990 A et au deuxième alinéa d
 	  - Code monétaire et financier - art. L755-7-2 (V)
 	  - Code monétaire et financier - art. L765-13 (V)
 
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. L565-2 (T)
+
 
 ###### Article L563-3
 
-Toute opération importante portant sur des sommes dont le montant unitaire ou total est supérieur à une somme fixée par
-décret en Conseil d'Etat et qui, sans entrer dans le champ d'application de l'article L. 562-2, se présente dans des
-conditions inhabituelles de complexité et ne paraît pas avoir de justification économique ou d'objet licite, doit faire
-l'objet de la part de l'organisme financier ou de la personne mentionnés à l'article L. 562-1 d'un examen particulier. En ce
-cas, l'organisme financier ou la personne mentionnés à l'article L. 562-1 se renseigne auprès du client sur l'origine et la
-destination de ces sommes ainsi que sur l'objet de la transaction et l'identité de la personne qui en bénéficie.
+Les mesures d'interdiction prises en vertu du présent chapitre s'imposent à toute personne copropriétaire des fonds ainsi
+qu'à toute personne titulaire d'un compte joint dont l'autre titulaire est une personne propriétaire, nue-propriétaire ou
+usufruitière mentionnée au premier alinéa de l'article L. 565-2.
 
-Les caractéristiques de l'opération sont consignées par écrit et conservées par l'organisme financier ou la personne
-mentionnés à l'article L. 562-1 dans les conditions prévues à l'article L. 563-4. Le service institué à l'article L. 562-4 et
-l'autorité de contrôle peuvent seuls obtenir communication de ce document et des pièces qui s'y rattachent.
+Ces mesures sont opposables à tout créancier et à tout tiers pouvant invoquer des droits sur les fonds considérés même si
+l'origine de ces créances ou autres droits est antérieure à la publication de l'arrêté. 
 
-L'organisme financier ou la personne mentionnés à l'article L. 562-1 doit s'assurer que les obligations définies par l'alinéa
-précédent sont appliquées par ses succursales ou sociétés filiales dont le siège est à l'étranger, à moins que la législation
-locale y fasse obstacle, auquel cas ils en informent le service institué à l'article L. 562-4.
+Les mesures mentionnées au premier alinéa de l'article L. 565-2 s'appliquent aux mouvements ou transferts de fonds dont
+l'ordre d'exécution a été émis antérieurement à la date de publication de la décision d'interdiction.
+
+**Nota:**
+
+L'article L565-2 a été transféré sous les articles L563-2 et L566-2 auxquels il convient de se reporter.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-614 1990-07-12 art. 14
 	  - Loi n°90-614 du 12 juillet 1990 - art. 14 (Ab)
+	  - Code monétaire et financier - art. L565-3 (T)
 
 	**Codifié par**:
 
@@ -42938,33 +45747,30 @@ locale y fasse obstacle, auquel cas ils en informent le service institué à l'a
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-2 (M)
+	  - Code monétaire et financier - art. L565-2 (T)
 
 
 ###### Article L563-4
 
-Sans préjudice des dispositions édictant des obligations plus contraignantes, les organismes financiers et les personnes
-mentionnés à l'article L. 562-1 conservent pendant cinq ans à compter de la clôture de leurs comptes ou de la cessation de
-leurs relations avec eux les documents relatifs à l'identité de leurs clients habituels ou occasionnels. Ils conservent
-également les documents relatifs aux opérations faites par ceux-ci pendant cinq ans à compter de leur exécution.
+L'Etat est responsable des conséquences dommageables de la mise en oeuvre de bonne foi, par les organismes, institutions et
+services régis par le titre Ier du présent livre, leurs dirigeants ou leurs préposés, des mesures d'interdiction mentionnées
+à l'article L. 565-2. Aucune sanction professionnelle ne peut être prononcée à l'encontre de ces organismes, institutions ou
+services, leurs dirigeants ou leurs préposés.
 
-Pour l'application du présent titre, le service institué à l'article L. 562-4 et l'autorité de contrôle peuvent demander que
-ces pièces leur soient communiquées, dans le but de reconstituer l'ensemble des transactions faites par une personne physique
-ou morale et liées à une opération ayant fait l'objet d'une déclaration mentionnée à l'article L. 562-2, de l'examen
-particulier prévu à l'article L. 563-3 ou d'une information mentionnée à l'article L. 563-5, ainsi que dans le but de
-renseigner, dans les conditions prévues à l'article L. 566-2, les services des autres Etats exerçant des compétences
-analogues.
+**Nota:**
+
+L'article L. 565-2 a été transféré sous les articles L. 563-2 et L. 566-2 auxquels il convient de se reporter.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°90-614 du 12 juillet 1990 - art. 15 (Ab)
+	  - Code monétaire et financier - art. L565-4 (T)
 
 	**Codifié par**:
 
@@ -42979,30 +45785,18 @@ analogues.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L562-4 (M)
-	  - Code monétaire et financier - art. L563-5 (M)
-	  - Code monétaire et financier - art. L566-2 (V)
+	  - Code monétaire et financier - art. L565-2 (T)
 
 
 ###### Article L563-5
 
-Sans préjudice de l'application de l'article 40 du code de procédure pénale, les informations recueillies par le service
-institué à l'article L. 562-4 et les autorités de contrôle en application des articles L. 562-2, L. 563-2 à L. 563-4 ne
-peuvent être utilisées à d'autres fins que celles prévues par le présent titre.
-
-Leur divulgation est interdite. Sous réserve que ces informations soient en relation avec les faits mentionnés à l'article L.
-562-2, le service institué à l'article L. 562-4 est toutefois autorisé à communiquer les informations recueillies à des
-officiers de police judiciaire désignés par le ministre de l'intérieur dans les conditions fixées par décret en Conseil
-d'Etat, ainsi qu'aux autorités de contrôle. Il peut également communiquer ces informations au service des douanes. Il peut
-recevoir des officiers de police judiciaire et des autorités de contrôle, ainsi que des administrations de l'Etat, des
-collectivités territoriales, des établissements publics et des organismes visés à l'article L. 134-1 du code des juridictions
-financières, toutes les informations nécessaires à l'accomplissement de sa mission.
+Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre, notamment les conditions dans lesquelles
+les organismes, institutions et services régis par le titre Ier du présent livre sont tenus d'appliquer les mesures
+d'interdiction de mouvement ou de transfert de fonds prises en vertu du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -43021,6 +45815,7 @@ financières, toutes les informations nécessaires à l'accomplissement de sa mi
 	**Anciens textes**:
 
 	  - Loi n°90-614 du 12 juillet 1990 - art. 16 (Ab)
+	  - Code monétaire et financier - art. L565-5 (T)
 
 	**Codifié par**:
 
@@ -43028,650 +45823,14 @@ financières, toutes les informations nécessaires à l'accomplissement de sa mi
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L134-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. 40 (M)
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier L562-4, L562-2, L563-2 à L563-4
-
-
-###### Article L563-6
-
-Lorsque par suite soit d'un grave défaut de vigilance, soit d'une carence dans l'organisation de ses procédures internes de
-contrôle, un organisme financier ou une personne mentionnés à l'article L. 562-1 a méconnu les obligations que lui impose le
-présent chapitre, l'autorité ayant pouvoir disciplinaire peut agir d'office dans les conditions prévues par les règlements
-professionnels ou administratifs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 17
-	  - Loi n°90-614 du 12 juillet 1990 - art. 17 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cité par**:
-
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1
-
-
-#### Chapitre IV : Obligations relatives à la lutte contre le financement des activités terroristes
-
-###### Article L564-1
-
-Les organismes financiers et personnes mentionnés aux 1 à 5 et au 7 de l'article L. 562-1, qui détiennent ou reçoivent des
-fonds, instruments financiers et ressources économiques, sont tenus d'appliquer les mesures de gel ou d'interdiction prises
-en vertu du présent chapitre.
-
-Pour l'application du présent chapitre, on entend par fonds, instruments financiers et ressources économiques les avoirs de
-toute nature, corporels ou incorporels, mobiliers ou immobiliers, acquis par quelque moyen que ce soit, et les documents ou
-instruments légaux sous quelque forme que ce soit, y compris sous forme électronique ou numérique, qui prouvent un droit de
-propriété ou un intérêt sur ces avoirs, incluant, notamment, les crédits bancaires, les chèques de voyage, les chèques
-bancaires, les mandats, les actions, les titres, les obligations, les traites et les lettres de crédit.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 du 12 juillet 1990 - art. 18 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Cité par**:
-
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
-	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 4 (V)
-	  - Décret n°2016-774 du 10 juin 2016 (V)
-	  - Code monétaire et financier - art. D564-2 (T)
-	  - Code monétaire et financier - art. D564-3 (T)
-	  - Code monétaire et financier - art. D565-2 (Ab)
-	  - Code monétaire et financier - art. D565-3 (Ab)
-	  - Code monétaire et financier - art. L563-1 (M)
-	  - Code monétaire et financier - art. L564-2 (T)
-	  - Code monétaire et financier - art. L564-4 (V)
-	  - Code monétaire et financier - art. L564-5 (V)
-	  - Code monétaire et financier - art. L564-6 (V)
-	  - Code monétaire et financier - art. L574-3 (V)
-	  - Code monétaire et financier - art. R562-2 (V)
-	  - Code monétaire et financier - art. R564-2 (T)
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L562-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L565-1 (V)
-
-
-###### Article L564-2
-
-Sans préjudice des mesures restrictives spécifiques prises en application de règlements du Conseil de l'Union européenne et
-des mesures prononcées par l'autorité judiciaire, le ministre chargé de l'économie peut décider le gel, pour une durée de six
-mois, renouvelable, de tout ou partie des fonds, instruments financiers et ressources économiques détenus auprès des
-organismes et personnes mentionnés à l'article L. 564-1 qui appartiennent à des personnes physiques ou morales qui
-commettent, ou tentent de commettre, des actes de terrorisme, définis comme il est dit au 4 de l'article 1er du règlement
-(CE) n° 2580/2001 du Conseil, du 27 décembre 2001, concernant l'adoption de mesures restrictives spécifiques à l'encontre de
-certaines personnes et entités dans le cadre de la lutte contre le terrorisme, les facilitent ou y participent et à des
-personnes morales détenues par ces personnes physiques ou contrôlées, directement ou indirectement, par elles au sens des 5
-et 6 de l'article 1er du règlement (CE) n° 2580/2001 du Conseil, du 27 décembre 2001, précité. Les fruits produits par les
-fonds, instruments et ressources précités sont également gelés.
-
-Le gel des fonds, instruments financiers et ressources économiques détenus auprès des organismes et personnes mentionnés à
-l'article L. 564-1 s'entend comme toute action visant à empêcher tout mouvement, transfert ou utilisation de fonds,
-instruments financiers et ressources économiques qui auraient pour conséquence un changement de leur montant, de leur
-localisation, de leur propriété, de leur nature ou toute autre modification qui pourrait en permettre l'utilisation par les
-personnes faisant l'objet de la mesure de gel.
-
-Le ministre chargé de l'économie peut également décider d'interdire, pour une durée de six mois renouvelable, tout mouvement
-ou transfert de fonds, instruments financiers et ressources économiques au bénéfice des personnes physiques ou morales
-mentionnées au premier alinéa.
-
-Les décisions du ministre arrêtées en application du présent article sont publiées au Journal officiel et exécutoires à
-compter de la date de cette publication.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 du 12 juillet 1990 - art. 22 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Cité par**:
-
-	  - Arrêté du 14 mai 2007 - art. 29 (V)
-	  - Code monétaire et financier - art. L563-4 (M)
-	  - Code monétaire et financier - art. L564-3 (V)
-	  - Code monétaire et financier - art. L564-5 (V)
-	  - Code monétaire et financier - art. R562-2 (V)
-	  - Code monétaire et financier - art. R564-1 (Ab)
-	  - Code monétaire et financier - art. R564-2 (T)
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L562-1 (V)
-	  - Code monétaire et financier - art. L565-2 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L564-1
-	  - Règlement CE 2580/2001 2001-12-27
-
-
-###### Article L564-3
-
-Les mesures de gel ou d'interdiction prises en vertu du présent chapitre s'imposent à toute personne copropriétaire des
-fonds, instruments et ressources précités, ainsi qu'à toute personne titulaire d'un compte joint dont l'autre titulaire est
-une personne propriétaire, nue-propriétaire ou usufruitière mentionnée au premier alinéa de l'article L. 564-2.
-
-Ces mesures sont opposables à tout créancier et à tout tiers pouvant invoquer des droits sur les fonds, instruments
-financiers et ressources économiques considérés même si l'origine de ces créances ou autres droits est antérieure à la
-publication de l'arrêté.
-
-Les mesures mentionnées au troisième alinéa de l'article L. 564-2 s'appliquent aux mouvements ou transferts de fonds,
-instruments financiers et ressources économiques dont l'ordre d'exécution a été émis antérieurement à la date de publication
-de la décision d'interdiction.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 du 12 juillet 1990 - art. 24 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Cité par**:
-
-	  - Ordonnance n°2004-823 du 19 août 2004 - art. 12 (VD)
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
-	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 4 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L564-2 (T)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L565-3 (V)
-
-
-###### Article L564-4
-
-Le secret bancaire ou professionnel ne fait pas obstacle à l'échange d'informations entre les organismes et personnes
-mentionnés à l'article L. 564-1 et les services de l'Etat chargés de mettre en oeuvre une mesure de gel ou d'interdiction de
-mouvement ou de transfert des fonds, des instruments financiers et des ressources économiques lorsque ces informations visent
-à vérifier l'identité des personnes concernées directement ou indirectement par cette mesure. Les informations fournies ou
-échangées ne peuvent être utilisées qu'à ces fins.
-
-Les services de l'Etat chargés de mettre en oeuvre une mesure de gel ou d'interdiction de mouvement ou de transfert des
-fonds, des instruments financiers et ressources économiques et les autorités d'agrément et de contrôle des organismes et
-personnes mentionnés à l'article L. 564-1 sont autorisés à échanger les informations nécessaires à l'exercice de leurs
-missions respectives.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L564-1 (M)
-
-
-###### Article L564-5
-
-L'Etat est responsable des conséquences dommageables de la mise en oeuvre de bonne foi, par les organismes financiers et les
-personnes mentionnés à l'article L. 564-1, leurs dirigeants ou leurs préposés, des mesures de gel ou d'interdiction
-mentionnées à l'article L. 564-2. Aucune sanction professionnelle ne peut être prononcée à l'encontre de ces organismes et
-ces personnes, leurs dirigeants ou leurs préposés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L564-1 (M)
-	  - Code monétaire et financier - art. L564-2 (T)
-
-
-###### Article L564-6
-
-Un décret en Conseil d'Etat fixe les conditions d'application des dispositions du présent chapitre, notamment les conditions
-dans lesquelles les organismes et les personnes mentionnés à l'article L. 564-1 sont tenus d'appliquer les mesures de gel ou
-d'interdiction de mouvement ou de transfert des fonds, instruments financiers et ressources économiques prises en vertu du
-présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L564-1 (M)
-
-
-#### Chapitre V : Obligations relatives à la lutte contre les loteries, jeux et paris prohibés
-
-###### Article L565-1
-
-Les organismes, institutions et services régis par le titre Ier du présent livre qui détiennent ou reçoivent des fonds du
-public sont tenus d'appliquer les mesures d'interdiction prises en vertu du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L563-1 (M)
-	  - Code monétaire et financier - art. R564-2-1 (T)
-	  - Code monétaire et financier - art. R565-2-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L563-1 (V)
-	  - Code monétaire et financier - art. L566-1 (V)
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier - art. L564-1 (M)
-	  - Code monétaire et financier - art. L564-1 (T)
-
-
-###### Article L565-2
-
-Le ministre chargé des finances et le ministre de l'intérieur peuvent décider d'interdire, pour une durée de six mois
-renouvelable, tout mouvement ou transfert de fonds en provenance des personnes physiques ou morales qui organisent des
-activités de jeux, paris ou loteries prohibés par la loi du 21 mai 1836 portant prohibition des loteries et la loi du 2 juin
-1891 ayant pour objet de réglementer l'autorisation et le fonctionnement des courses de chevaux, ainsi que la loi n° 83-628
-du 12 juillet 1983 relative aux jeux de hasard.
-
-Les ministres lèvent l'interdiction mentionnée au premier alinéa sur demande des personnes concernées par celle-ci lorsque
-les mouvements ou transferts de fonds sont réalisés dans le cadre d'opérations non prohibées sur le territoire français.
-
-Les décisions des ministres arrêtées en application du présent article sont publiées au Journal officiel.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°1836-05-21
-	  - Loi n°1891-06-02
-	  - Loi n°83-628 du 12 juillet 1983
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L563-2 (V)
-	  - Code monétaire et financier - art. L566-2 (V)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L563-3 (V)
-	  - Code monétaire et financier - art. L563-4 (V)
-	  - Code monétaire et financier - art. L565-3 (T)
-	  - Code monétaire et financier - art. L565-4 (T)
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier - art. L564-2 (T)
-
-
-###### Article L565-3
-
-Les mesures d'interdiction prises en vertu du présent chapitre s'imposent à toute personne copropriétaire des fonds ainsi
-qu'à toute personne titulaire d'un compte joint dont l'autre titulaire est une personne propriétaire, nue-propriétaire ou
-usufruitière mentionnée au premier alinéa de l'article L. 565-2.
-
-Ces mesures sont opposables à tout créancier et à tout tiers pouvant invoquer des droits sur les fonds considérés même si
-l'origine de ces créances ou autres droits est antérieure à la publication de l'arrêté.
-
-Les mesures mentionnées au premier alinéa de l'article L. 565-2 s'appliquent aux mouvements ou transferts de fonds dont
-l'ordre d'exécution a été émis antérieurement à la date de publication de la décision d'interdiction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L563-3 (V)
-	  - Code monétaire et financier - art. L566-3 (V)
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier - art. L564-3 (M)
-	  - Code monétaire et financier - art. L564-3 (T)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L565-2
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R564-1 (T)
-
-
-###### Article L565-4
-
-L'Etat est responsable des conséquences dommageables de la mise en oeuvre de bonne foi, par les organismes, institutions et
-services régis par le titre Ier du présent livre, leurs dirigeants ou leurs préposés, des mesures d'interdiction mentionnées
-à l'article L. 565-2. Aucune sanction professionnelle ne peut être prononcée à l'encontre de ces organismes, institutions ou
-services, leurs dirigeants ou leurs préposés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L563-4 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L565-2
-
-
-###### Article L565-5
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre, notamment les conditions dans lesquelles
-les organismes, institutions et services régis par le titre Ier du présent livre sont tenus d'appliquer les mesures
-d'interdiction de mouvement ou de transfert de fonds prises en vertu du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 36 () JORF 7 mars 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L563-5 (V)
-
-
-#### Chapitre VI : Dispositions diverses
-
-###### Article L566-1
-
-Les casinos qui échangent des moyens de paiement, des jetons ou plaques ou qui acceptent les jetons ou plaques d'autres
-casinos sont tenus d'enregistrer les noms et adresses des joueurs qui échangent ou apportent des jetons et plaques pour une
-somme supérieure à un montant fixé par décret.
-
-Les groupements, cercles et sociétés organisant des jeux de hasard, des loteries, des paris, des pronostics sportifs ou
-hippiques sont tenus de s'assurer, par la présentation de tout document écrit probant, de l'identité des joueurs gagnant des
-sommes supérieures à un montant fixé par décret et d'enregistrer les noms et adresses de ces joueurs, ainsi que le montant
-des sommes qu'ils ont gagnées. Ces données doivent être conservées pendant cinq ans.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-297 2007-03-05 art. 36 JORF 7 mars 2007
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L563-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier - art. L565-1 (T)
-
-
-###### Article L566-2
-
-Dans le respect des dispositions législatives et des conventions internationales applicables en matière de protection de la
-vie privée et de communication des données à caractère nominatif, le service institué à l'article L. 562-4 peut communiquer,
-aux autorités des autres Etats exerçant des compétences analogues, les informations qu'il détient sur des opérations qui
-paraissent avoir pour objet le placement, la dissimulation, la conversion ou le transfert de sommes provenant de l'une des
-infractions prévues aux articles 222-34 à 222-39 et 324-1 du code pénal ou à l'article 415 du code des douanes, sous réserve
-de réciprocité et à condition que les autorités étrangères compétentes soient soumises aux mêmes obligations de secret
-professionnel que le service susmentionné.
-
-Cette communication ne peut être accordée si une procédure pénale a déjà été engagée en France sur la base des mêmes faits ou
-si cette communication porte atteinte à la souveraineté, à la sécurité, aux intérêts essentiels de la France ou à l'ordre
-public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
-
-	**Cite**:
-
-	  - Code pénal
-	  - Code pénal - art. 324-1
-	  - Code des douanes - art. 415
-	  - Code monétaire et financier - art. L562-4
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L563-4 (V)
-	  - Code monétaire et financier - art. L735-3 (M)
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier - art. L565-2 (T)
-
-	**Créé par**:
-
-	  - Décret n°2007-297 2007-03-05 art. 36 JORF 7 mars 2007
-
-
-###### Article L566-3
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent titre, sans préjudice des règlements professionnels
-ou administratifs prévus par les législations applicables aux organismes financiers et aux personnes mentionnés à l'article
-L. 562-1. 
-
-Pour l'application du présent titre : 
-
-1° La Commission bancaire exerce le contrôle et le pouvoir disciplinaire sur les entreprises mentionnées au 5 de l'article L.
-562-1. Elle peut prononcer les sanctions prévues à l'article L. 613-21. 
-
-2° La Caisse des dépôts et consignations est soumise, dans les conditions prévues à l'article L. 613-20 et au I de l'article
-L. 613-23, aux articles L. 613-6 à L. 613-11 et L. 613-15 ainsi qu'aux 1° et 2° du I de l'article L. 613-21. Pour la mise en
-œuvre du présent titre, la Commission bancaire peut adresser à la Caisse des dépôts et consignations des recommandations ou
-des injonctions de prendre les mesures appropriées pour améliorer ses procédures ou son organisation. En outre, la Caisse des
-dépôts et consignations peut voir prononcer à son encontre, soit à la place, soit en sus des sanctions prévues aux 1° et 2°
-du I de l'article L. 613-21, une sanction pécuniaire d'un montant maximal égal au décuple du capital minimum auquel sont
-astreintes les banques. Les sommes correspondantes sont versées au Trésor public au bénéfice du budget de l'Etat. Lorsqu'elle
-statue sur les recommandations, les injonctions et les sanctions applicables à la Caisse des dépôts et consignations, la
-Commission bancaire recueille l'avis préalable de la commission de surveillance. 
-
-Pour la mise en œuvre du présent article, les articles L. 571-4, L. 613-20-1 et L. 613-20-2 sont applicables au groupe de la
-Caisse des dépôts et consignations et à ses dirigeants ; 
-
-3° L'Autorité des marchés financiers exerce le contrôle et le pouvoir de sanction sur les organismes de placement collectif
-en valeurs mobilières mentionnés au 1 du I de l'article L. 214-1, sur les sociétés de gestion d'organismes de placements
-collectifs mentionnées au L. 543-1, sur les intermédiaires en biens divers mentionnés au titre V du présent livre, sur les
-personnes habilitées à procéder au démarchage mentionnées aux articles L. 341-3 et L. 341-4 et sur les conseillers en
-investissements financiers.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L214-1
-	  - Code monétaire et financier - art. L341-3
-	  - Code monétaire et financier - art. L543-1
-	  - Code monétaire et financier - art. L562-1
-	  - Code monétaire et financier - art. L571-4
-	  - Code monétaire et financier - art. L613-20
-	  - Code monétaire et financier - art. L613-20-1
-	  - Code monétaire et financier - art. L613-21
-	  - Code monétaire et financier - art. L613-23
-	  - Code monétaire et financier - art. L613-6
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier - art. L565-3 (T)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R563-1 (Ab)
-	  - Code monétaire et financier - art. R565-1 (Ab)
+	  - Code des juridictions financières - art. L134-1
+	  - Code de procédure pénale - art. 40
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L562-2
 
 
 ### Titre VII : Dispositions pénales
@@ -44265,22 +46424,34 @@ est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 ###### Article L572-1
 
-Est puni des peines prévues à l'article L. 571-15, le fait, pour toute personne, agissant soit pour son propre compte soit
-pour le compte d'une personne morale, de méconnaître l'une des interdictions prévues aux articles L. 520-1 à L. 520-3.
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait, pour toute personne, agissant soit pour son propre
+compte, soit pour le compte d'une personne morale, de méconnaître l'une des interdictions prévues aux deux premiers alinéas
+de l'article L. 520-4. 
+
+Est puni de la même peine le fait, pour toute personne, de méconnaître l'interdiction prescrite par l'article L. 520-5. 
+
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait, pour toute personne soumise à l'obligation de
+déclaration mentionnée au II de l'article L. 520-2, de ne pas la souscrire ou de communiquer des renseignements inexacts à la
+Commission bancaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 25 IV al. 1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 4
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L520-2
+	  - Code monétaire et financier - art. L520-4
+	  - Code monétaire et financier - art. L520-5
+
 	**Cité par**:
 
-	  - Code monétaire et financier - art. L520-4 (V)
 	  - Code monétaire et financier - art. L520-7 (VT)
 	  - Code monétaire et financier - art. L524-7 (V)
 	  - Code monétaire et financier - art. L745-8 (VD)
@@ -44289,11 +46460,6 @@ pour le compte d'une personne morale, de méconnaître l'une des interdictions p
 	  - Code monétaire et financier - art. L755-8-3 (V)
 	  - Code monétaire et financier - art. L765-8 (VD)
 	  - Code monétaire et financier - art. L765-8-3 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L571-15 (M)
-	  - Code monétaire et financier L571-15, L520-1 à L520-3
 
 
 ###### Article L572-4
@@ -44418,6 +46584,34 @@ l'exception des objets susceptibles de restitution ;
 	  - Code pénal - art. 131-39 (V)
 	  - Code monétaire et financier - art. L531-2 (V)
 	  - Code monétaire et financier - art. L532-1 (V)
+
+
+###### Article L573-1-1
+
+Le fait, pour tout dirigeant d'un prestataire de services d'investissement autre qu'une société de gestion de portefeuille ou
+d'une des personnes morales ou filiales mentionnées à l'article L. 613-10 ou pour tout dirigeant d'une entreprise de marché,
+d'un adhérent aux chambres de compensation ou d'une personne habilitée à exercer les activités de conservation ou
+d'administration d'instruments financiers, de ne pas répondre, après mise en demeure, aux demandes d'informations de la
+Commission bancaire, de mettre obstacle de quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle ou
+de lui communiquer des renseignements inexacts est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 5
+
+	**Cité par**:
+
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-10
 
 
 ###### Article L573-2
@@ -44762,12 +46956,8 @@ laquelle l'infraction a été commise.
 
 ###### Article L574-1
 
-Est puni d'une amende de 22 500 euros, sans préjudice de l'application des peines prévues pour l'une des infractions
-réprimées par les articles 222-34 à 222-41 du code pénal et 415 du code des douanes, le fait, pour les dirigeants ou les
-agents d'organismes financiers ou les autres personnes visés à l'article L. 562-1, à l'exception des avocats, des avoués et
-des avocats au Conseil d'Etat et à la Cour de cassation, de porter à la connaissance du propriétaire des sommes ou de
-l'auteur de l'une des opérations mentionnées à l'article L. 562-2 l'existence de la déclaration faite auprès du service
-institué à l'article L. 562-4 ou de donner des informations sur les suites qui lui ont été réservées.
+Est puni d'une amende de 22 500 euros le fait de méconnaître l'interdiction de divulgation prévue à l'article L. 561-19 et au
+II de l'article L. 561-26 ;
 
 **Liens relatifs à cet article**
 
@@ -44800,26 +46990,18 @@ institué à l'article L. 562-4 ou de donner des informations sur les suites qui
 
 	**Modifié par**:
 
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
-
-	**Cite**:
-
-	  - Code pénal 222-34 à 222-41
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L562-4 (M)
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 6
 
 
 ###### Article L574-2
 
 Est puni des peines prévues à l'article 226-13 du code pénal, le fait, pour toute personne, de méconnaître l'interdiction
-prescrite au deuxième alinéa de l'article L. 563-5, sous réserve des dispositions de l'article 226-14 du code pénal.
+prescrite au deuxième alinéa de l'article L. 561-29, sous réserve des dispositions de l'article 226-14 du code pénal.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-614 1990-07-12 art. 16 al. 2
 	  - Loi n°90-614 du 12 juillet 1990 - art. 16 (Ab)
 
 	**Codifié par**:
@@ -44828,13 +47010,13 @@ prescrite au deuxième alinéa de l'article L. 563-5, sous réserve des disposit
 
 	**Modifié par**:
 
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 6
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
-	  - Code monétaire et financier - art. L563-5 (M)
+	  - Code pénal - art. 226-13
+	  - Code pénal - art. 226-14
+	  - Code monétaire et financier - art. L561-29
 
 	**Cité par**:
 
@@ -44849,9 +47031,9 @@ prescrite au deuxième alinéa de l'article L. 563-5, sous réserve des disposit
 ###### Article L574-3
 
 Est puni des peines prévues au 1 de l'article 459 du code des douanes le fait, pour les dirigeants ou les préposés des
-organismes financiers et personnes mentionnés à l'article L. 564-1 et, pour les personnes faisant l'objet d'une mesure de gel
-ou d'interdiction prise en application du chapitre IV du titre VI du présent livre, de se soustraire aux obligations en
-résultant ou de faire obstacle à sa mise en oeuvre.
+organismes financiers et personnes mentionnés à l'article L. 562-3 et, pour les personnes faisant l'objet d'une mesure de gel
+ou d'interdiction prise en application du chapitre II du titre VI du présent livre, de se soustraire aux obligations en
+résultant ou de faire obstacle à sa mise en oeuvre. 
 
 Sont également applicables les dispositions relatives à la constatation des infractions, aux poursuites, au contentieux et à
 la répression des infractions des titres II et XII du code des douanes sous réserve des articles 453 à 459 du même code.
@@ -44862,20 +47044,43 @@ la répression des infractions des titres II et XII du code des douanes sous ré
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 6
 
 	**Cite**:
 
-	  - Code des douanes - art. 459 (M)
-	  - Code des douanes 459, 453 à 459
-	  - Code monétaire et financier - art. L564-1 (M)
+	  - Code des douanes - art. 453 (V)
+	  - Code des douanes - art. 459 (V)
+	  - Code monétaire et financier - art. L562-3 (V)
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L735-13 (V)
 	  - Code monétaire et financier - art. L735-4 (VT)
+
+
+###### Article L574-4
+
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait pour les personnes mentionnées aux 8°, 9°, 10 et 15° de
+l'article L. 561-2 de ne pas répondre, après mise en demeure, aux demandes d'information de l'autorité administrative en
+charge de l'inspection mentionnée au II de l'article L. 561-36 ou de mettre obstacle de quelque manière que ce soit à
+l'exercice par celle-ci de sa mission de contrôle ou de lui communiquer sciemment des renseignements inexacts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 6
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-36
 
 
 ## Livre VI : Les institutions en matière bancaire et financière
@@ -46623,6 +48828,53 @@ considérant 9.
 	  - Code monétaire et financier - art. L511-13
 	  - Code monétaire et financier - art. L532-2
 	  - Code monétaire et financier - art. L613-16
+
+
+###### Article L613-21-1
+
+Si un changeur manuel a enfreint une disposition du titre II du livre V, notamment s'il n'a pas respecté les conditions
+requises pour son autorisation, ou du titre VI du même livre ou des textes réglementaires pris pour leur application, la
+Commission bancaire peut prononcer l'une des sanctions disciplinaires suivantes :
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° Le retrait de l'autorisation d'exercer la profession de changeur manuel.
+
+La Commission bancaire peut interdire aux dirigeants de droit ou de fait des changeurs manuels d'exercer, directement ou
+indirectement, la profession de changeur manuel pour une durée de dix ans au plus.
+
+La Commission bancaire peut prononcer soit à la place, soit en sus de ces sanctions une sanction pécuniaire fixée en fonction
+de la gravité du manquement et qui ne peut excéder 1 million d'euros.
+
+Lorsque le changeur manuel est une personne morale, la Commission bancaire peut décider que ses dirigeants de droit ou de
+fait seront tenus solidairement au paiement de la sanction pécuniaire prononcée.
+
+Les sommes correspondantes sont recouvrées par le Trésor public et versées au budget de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 7
+
+	**Cité par**:
+
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 4 (V)
+	  - Code monétaire et financier - art. L520-4 (VT)
+	  - Code monétaire et financier - art. L520-6 (VT)
+	  - Code monétaire et financier - art. L523-2 (VD)
+	  - Code monétaire et financier - art. L524-4 (VD)
+	  - Code monétaire et financier - art. L524-6 (VD)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 6
 
 
 ###### Article L613-22
@@ -52750,6 +55002,535 @@ moyens de paiement et les terminaux ou les dispositifs techniques qui leur sont 
 	**Anciens textes**:
 
 	  - Décret-loi 1935-10-30 art. 74-3
+
+
+#### Chapitre III : Dispositions communes à Saint-Pierre-et-Miquelon, à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna en matière d'information sur le donneur d'ordre 
+
+
+##### Section 1 : Personnes et opérations soumises aux obligations d'information 
+
+
+
+###### Article L713-1
+
+Pour l'application du présent chapitre, on entend par : 
+
+1° " Donneur d'ordre ” : soit la personne qui est titulaire d'un compte ouvert chez les prestataires de services de paiement
+définis au 3° et qui autorise un virement de fonds à partir de ce compte, soit, en l'absence de compte, la personne qui donne
+l'ordre d'effectuer un virement de fonds ; 
+
+2° " Bénéficiaire ” : la personne qui est le destinataire final prévu des fonds virés ; 
+
+3° " Prestataire de services de paiement ” : les établissements régis par le titre Ier du livre V ainsi que les offices des
+postes et télécommunications en Nouvelle-Calédonie et en Polynésie française, lorsqu'ils effectuent des virements de fonds : 
+
+a) Le prestataire de services de paiement du donneur d'ordre est le prestataire de services de paiement qui reçoit d'un
+donneur d'ordre instruction de procéder à un virement de fonds en faveur d'un bénéficiaire ; 
+
+b) Le prestataire de services de paiement du bénéficiaire est le prestataire de services de paiement chargé de mettre les
+fonds à la disposition du bénéficiaire ; 
+
+c) Le prestataire de services de paiement intermédiaire est un prestataire de services de paiement, distinct de ceux
+mentionnés aux a et b, qui participe à l'exécution du virement de fonds ; 
+
+4° " Virement de fonds ” : toute opération effectuée par voie électronique pour le compte d'un donneur d'ordre par
+l'intermédiaire d'un prestataire de services de paiement en vue de mettre des fonds à la disposition d'un bénéficiaire
+titulaire d'un compte ouvert chez un prestataire de services de paiement, le donneur d'ordre et le bénéficiaire pouvant être
+ou non la même personne ; 
+
+5° " Virement par lots ” : plusieurs virements de fonds individuels qui sont groupés en vue de leur transmission ; 
+
+6° " Identifiant unique ” : une combinaison de lettres, de numéros ou de symboles déterminée par le prestataire de services
+de paiement conformément aux protocoles du système de paiement et de règlement ou du système de messagerie utilisé pour
+effectuer le virement de fonds, permettant d'identifier le donneur d'ordre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-102 du 30 janvier 2009 - art. 1
+
+
+###### Article L713-2
+
+Les dispositions du présent chapitre sont applicables aux virements de fonds en toutes monnaies émis ou reçus par tout
+prestataire de services de paiement domicilié à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie
+française ou dans les îles Wallis et Futuna, à l'exception : 
+
+1° Des virements de fonds effectués à l'aide d'une carte de crédit ou de débit, en vertu d'un contrat conclu avec un
+prestataire de services de paiement, permettant le paiement de la fourniture de biens et de services, lorsqu'il a été
+attribué un identifiant unique au donneur d'ordre ; 
+
+2° Des virements de fonds effectués au moyen de monnaie électronique lorsque le montant de la transaction est inférieur ou
+égal à 1 000 € ou la contre-valeur en monnaie locale ; 
+
+3° Des virements de fonds effectués au moyen d'un téléphone portable ou d'un autre dispositif numérique ou lié aux
+technologies de l'information, lorsque ces virements sont effectués à partir d'un prépaiement et n'excèdent pas 150 € ou la
+contre-valeur en monnaie locale ; 
+
+4° Des virements de fonds postpayés, exécutés au moyen d'un téléphone portable ou d'un autre dispositif numérique ou lié aux
+technologies de l'information en vertu d'un contrat conclu avec un prestataire de services de paiement, permettant le
+paiement de la fourniture de biens et de services, lorsqu'il a été attribué un identifiant unique au donneur d'ordre ; 
+
+5° Des virements de fonds effectués dans la collectivité et en provenance ou en direction de la France métropolitaine, des
+collectivités territoriales régies par les articles 73 et des autres collectivités régies par l'article 74 de la Constitution
+et de la Nouvelle-Calédonie à condition que le prestataire de services de paiement du bénéficiaire puisse, au moyen d'un
+numéro de référence unique, identifier, par l'intermédiaire du bénéficiaire, la personne physique ou morale qui a effectué le
+virement et que le montant de la transaction soit inférieur ou égal à 1 000 € ou la contre-valeur en monnaie locale ; 
+
+6° Des retraits d'espèces effectués par le donneur d'ordre pour son propre compte ; 
+
+7° Des virements de fonds effectués en vertu d'une autorisation de prélèvement automatique dès lors qu'il a été attribué un
+identifiant unique au donneur d'ordre ; 
+
+8° Des virements de fonds effectués au moyen de chèques sous forme d'images-chèques ; 
+
+9° Des virements de fonds destinés au paiement de taxes, d'amendes ou autres impôts aux autorités publiques, en France ; 
+
+10° Des virements de fonds pour lesquels le donneur d'ordre et le bénéficiaire sont tous deux des prestataires de services de
+paiement opérant pour leur propre compte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-102 du 30 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L713-3 (V)
+
+
+###### Article L713-3
+
+Les virements de fonds autres que ceux mentionnés aux 1° à 10° de l'article L. 713-2 sont régis par les articles L. 713-4 à
+L. 713-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-102 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L713-2
+	  - Code monétaire et financier - art. L713-4
+
+
+##### Section 2 : Obligations du prestataire de services de paiement du donneur d'ordre 
+
+
+
+###### Article L713-4
+
+I. ― Lorsque les virements de fonds sont destinés à un bénéficiaire dont le prestataire de services de paiement est situé
+hors de France : 
+
+1° Le prestataire de services de paiement du donneur d'ordre recueille des informations complètes sur ce dernier : son nom,
+son adresse et son numéro de compte. L'adresse peut être remplacée par la date et le lieu de naissance du donneur d'ordre,
+son numéro d'identification de client ou son numéro national d'identité. En l'absence de numéro de compte du donneur d'ordre,
+le prestataire de services de paiement du donneur d'ordre remplace cette donnée par un identifiant unique ; 
+
+2° En cas de virements par lots effectués par un donneur d'ordre unique en faveur de plusieurs bénéficiaires, les virements
+individuels groupés dans ces lots ne sont pas accompagnés d'informations complètes sur le donneur d'ordre, lorsque le fichier
+des lots contient ces informations et que les virements individuels portent le numéro de compte du donneur d'ordre ou un
+identifiant unique ; 
+
+3° Avant de virer les fonds, le prestataire de services de paiement du donneur d'ordre vérifie l'exactitude et l'exhaustivité
+des informations mentionnées au 1°, sur la base de documents, de données ou de renseignements obtenus auprès d'une source
+fiable et indépendante. 
+
+II. ― Lorsque les virements de fonds sont effectués à partir d'un compte, la vérification peut être considérée comme ayant eu
+lieu si l'une des conditions suivantes est réalisée : 
+
+a) L'identité d'un donneur d'ordre a été vérifiée lors de l'ouverture du compte, les informations obtenues ayant été
+conservées dans les conditions prévues à l'article L. 561-12, dans sa rédaction en vigueur à la date de publication de
+l'ordonnance n° 2009-104 du 30 janvier 2009 relative à la prévention de l'utilisation du système financier aux fins de
+blanchiment de capitaux et de financement du terrorisme ; 
+
+b) Le donneur d'ordre est l'une des personnes mentionnées au 13° de l'article L. 561-2, dans sa rédaction en vigueur à la
+date de publication de l'ordonnance n° 2009-104 en date du 30 janvier 2009 ; 
+
+Les virements de fonds non effectués à partir d'un compte, dont le montant est inférieur à 1 000 € ou la contre-valeur en
+monnaie locale ne donnent pas lieu aux vérifications prévues au premier alinéa, sauf si la transaction est effectuée en
+plusieurs opérations qui sont liées et excèdent au total 1 000 € ou la contre-valeur en monnaie locale. 
+
+III. ― Le prestataire de services de paiement du donneur d'ordre conserve pendant cinq ans les informations complètes sur le
+donneur d'ordre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-102 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-12 (V)
+	  - Code monétaire et financier - art. L561-2 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L713-12 (M)
+	  - Code monétaire et financier - art. L713-3 (VD)
+	  - Code monétaire et financier - art. L713-5 (VD)
+	  - Code monétaire et financier - art. L713-6 (VD)
+	  - Code monétaire et financier - art. R562-3 (V)
+
+
+###### Article L713-5
+
+I. ― Les virements de fonds effectués entre la collectivité, la France métropolitaine, les collectivités territoriales régies
+par les articles 73 et les autres collectivités territoriales régies par l'article 74 de la Constitution et la Nouvelle-
+Calédonie doivent seulement être accompagnés du numéro de compte du donneur d'ordre ou d'un identifiant unique. 
+
+II. ― Toutefois, le prestataire de services de paiement du donneur d'ordre, à la demande du prestataire de services de
+paiement du bénéficiaire, met à sa disposition les informations prévues au 1° du I de l'article L. 713-4, dans les trois
+jours ouvrables suivant la réception de cette demande.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 73
+	  - Constitution du 4 octobre 1958 - art. 74
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-102 du 30 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 48 (V)
+	  - Code monétaire et financier - art. L713-4 (VD)
+	  - Code monétaire et financier - art. L713-6 (M)
+
+
+##### Section 3 : Obligations du prestataire de services de paiement du bénéficiaire 
+
+
+
+###### Article L713-6
+
+Le prestataire de services de paiement du bénéficiaire vérifie que les champs relatifs aux informations concernant le donneur
+d'ordre, prévus dans le système de messagerie ou de paiement et de règlement utilisé pour effectuer un virement de fonds, ont
+été complétés à l'aide de caractères ou d'éléments compatibles avec ce système. 
+
+Il dispose de procédures permettant de déceler : 
+
+a) Lorsque le prestataire de services de paiement du donneur d'ordre est situé en France, l'absence des informations
+mentionnées au I de l'article L. 713-5 ; 
+
+b) Lorsque le prestataire de services de paiement du donneur d'ordre est situé hors de France, l'absence des informations
+mentionnées au 1° du I de l'article L. 713-4 ou, le cas échéant, au 3° de l'article L. 713-9 ; 
+
+c) Dans le cas de virements par lots, lorsque le prestataire de services de paiement du donneur d'ordre est situé hors de
+France, l'absence des informations mentionnées à l'article L. 713-4. L'absence de ces informations est recherchée dans le
+virement par lots mais non dans les virements individuels regroupés dans les lots.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-102 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L713-4 (V)
+	  - Code monétaire et financier - art. L713-5
+	  - Code monétaire et financier - art. L713-9
+
+
+###### Article L713-7
+
+I. ― Lorsque le prestataire de services de paiement du bénéficiaire constate, à la réception du virement de fonds, que les
+informations sur le donneur d'ordre sont manquantes ou incomplètes, il rejette le virement ou demande des informations
+complètes sur le donneur d'ordre. Dans tous les cas, il se conforme aux dispositions du titre VI du livre V. 
+
+II. ― 1° Lorsqu'un prestataire de services de paiement omet régulièrement de fournir les informations requises sur le donneur
+d'ordre, le prestataire de services de paiement du bénéficiaire prend des dispositions qui peuvent, dans un premier temps,
+comporter l'émission d'avertissements et la fixation d'échéances. Il peut ensuite rejeter tout nouveau virement de fonds
+provenant de ce prestataire de services de paiement ou restreindre sa relation commerciale avec ce dernier ou mettre fin à
+cette relation ; 
+
+2° La situation mentionnée au 1° fait l'objet d'une déclaration auprès du service mentionné à l'article L. 561-23 dans sa
+rédaction en vigueur à la date de l'ordonnance n° 2009-104 du 30 janvier 2009 par le prestataire de services de paiement du
+bénéficiaire. 
+
+III. ― Le prestataire de services de paiement du bénéficiaire prend en compte l'absence d'information totale ou partielle sur
+le donneur d'ordre pour apprécier le caractère suspect du virement de fonds ou toutes les opérations liées à ce virement et
+la nécessité de le déclarer, conformément aux obligations prévues au titre VI du livre V, au service mentionné à l'article L.
+561-23 dans sa rédaction en vigueur à la date de l'ordonnance n° 2009-104 du 30 janvier 2009. 
+
+IV. ― Le prestataire de services de paiement du bénéficiaire conserve pendant cinq ans toutes les informations qu'il a reçues
+sur le donneur d'ordre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-102 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-23 (V)
+
+
+##### Section 4 : Obligation des prestataires de services de paiement intermédiaires 
+
+
+
+###### Article L713-8
+
+Les prestataires de services de paiement intermédiaires veillent à ce que toutes les informations reçues sur le donneur
+d'ordre qui accompagnent un virement de fonds soient conservées avec ce virement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-102 du 30 janvier 2009 - art. 1
+
+
+###### Article L713-9
+
+Lorsque le prestataire de services de paiement du donneur d'ordre est situé hors de France et le prestataire de services de
+paiement intermédiaire est situé dans la collectivité : 
+
+1° Le prestataire de services de paiement intermédiaire peut utiliser, pour transmettre les virements de fonds au prestataire
+de services de paiement du bénéficiaire, un système de paiement qui comporte des limites techniques empêchant la transmission
+des informations sur le donneur d'ordre ; 
+
+2° Lorsque le prestataire de services de paiement intermédiaire constate, lors de la réception du virement de fonds, que les
+informations sont manquantes ou incomplètes, il n'utilise pas de système de paiement avec des limites techniques sauf s'il
+peut en informer le prestataire de services de paiement du bénéficiaire, selon un mode de communication accepté ou convenu
+entre les deux prestataires de services de paiement ; 
+
+3° Lorsqu'il utilise un système de paiement avec des limites techniques, le prestataire de services de paiement intermédiaire
+met à la disposition du prestataire de services de paiement du bénéficiaire, sur demande de ce dernier et dans les trois
+jours ouvrables suivant la réception de la demande, toutes les informations, complètes ou non, qu'il a reçues sur le donneur
+d'ordre ; 
+
+4° Dans les cas visés au 2° et au 3°, le prestataire de services de paiement intermédiaire conserve pendant cinq ans toutes
+les informations reçues sur le donneur d'ordre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-102 du 30 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L713-6 (VD)
+
+
+##### Section 5 : Obligations de coopération 
+
+
+
+
+###### Article L713-10
+
+I. ― Dans le respect des procédures prévues au titre VI du livre V, les prestataires de services de paiement donnent suite,
+de manière exhaustive et sans délai, aux demandes d'information sur le donneur d'ordre qui leur sont adressées par la
+Commission bancaire. 
+
+II. ― Les informations communiquées en application du I ne peuvent être exploitées qu'à des fins de prévention,
+d'investigation ou de détection des activités de blanchiment de capitaux ou de financement du terrorisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-102 du 30 janvier 2009 - art. 1
+
+
+##### Section 6 : Utilisation des informations collectées et conservées 
+
+
+
+###### Article L713-11
+
+Les informations collectées et conservées en application du présent chapitre sont utilisées aux seules fins de la lutte
+contre le blanchiment de capitaux et le financement du terrorisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-102 du 30 janvier 2009 - art. 1
+
+
+##### Section 7 : Sanctions
+
+###### Article L713-12
+
+La méconnaissance des obligations d'informations énoncées aux articles L. 713-4 à L. 713-11 est sanctionnée dans les
+conditions prévues à l'article L. 613-21.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-102 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L613-21 (Ab)
+	  - Code monétaire et financier - art. L713-4
+
+
+#### Chapitre IV : Dispositions communes à Saint-Pierre-et-Miquelon, à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna relatives aux mesures de gel des avoirs
+
+##### Section 1 : Mesures de gel des avoirs décidées dans les cas autres que ceux prévus aux articles L. 562-1 et L. 562-2 du code monétaire et financier
+
+###### Article L714-1
+
+I. ― Le ministre chargé de l'économie peut décider le gel, pour une durée de six mois, renouvelable, à Saint-Pierre-et-
+Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, de tout ou partie des
+fonds, instruments financiers et ressources économiques appartenant à des personnes, organismes ou entités à l'encontre
+desquels de telles mesures sont en vigueur en France métropolitaine, en vertu de règlements adoptés par la Commission
+européenne ou le Conseil.
+
+Les fruits produits par ces fonds, instruments financiers ou ressources économiques sont également gelés.
+
+II. ― Le ministre chargé de l'économie peut décider d'interdire dans les collectivités mentionnées au I, pour une durée de
+six mois, renouvelable, tout mouvement ou transfert de fonds, instruments financiers et ressources économiques au bénéfice
+des personnes, organismes ou entités mentionnés au I.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-103 du 30 janvier 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L714-3 (V)
+
+
+###### Article L714-2
+
+Les décisions du ministre chargé de l'économie, arrêtées en application du présent article, sont publiées au Journal officiel
+et sont exécutoires à compter de la date de leur publication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-103 du 30 janvier 2009 - art. 1
+
+
+###### Article L714-3
+
+Les mesures de gel et d'interdiction prévues à l'article L. 714-1 sont mises en œuvre dans les conditions prévues aux
+articles L. 562-3, L. 562-4 et L. 562-7 à L. 562-10 et L. 574-3, dans leur rédaction en vigueur à la date de publication de
+l'ordonnance n° 2009-104 du 30 janvier 2009 relative à la prévention de l'utilisation du système financier aux fins de
+blanchiment de capitaux et financement du terrorisme, sous réserve des adaptations suivantes : 
+
+1° Les " personnes mentionnées à l'article L. 561-2 ”, dans sa rédaction en vigueur à la date de publication de l'ordonnance
+n° 2009-104 du 30 janvier 2009 s'entendent des personnes, organismes et entités mentionnés à cet article, selon la
+réglementation qui leur est applicable localement ; 
+
+2° A l'article L. 562-7, les mots : " mentionnée à l'article L. 562-1 ou à l'article L. 562-2 ” sont remplacés par les mots :
+" mentionnée à l'article L. 714-1 ” ; 
+
+3° A l'article L. 562-9, les mots : " prévues à l'article L. 562-1 et à l'article L. 562-2 ” sont remplacés par les mots : "
+prévues à l'article L. 714-1 ” ; 
+
+4° A l'article L. 574-3, les mots : " prise en application du chapitre IV du titre VI du présent livre ” sont remplacés par
+les mots : " prise en application de la présente section ” et, pour l'application du deuxième alinéa, les références au code
+des douanes sont remplacées par les références aux dispositions applicables localement ayant le même objet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-103 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L562-3 (V)
+	  - Code monétaire et financier - art. L562-7 (V)
+	  - Code monétaire et financier - art. L562-9 (V)
+	  - Code monétaire et financier - art. L714-1
+
+
+###### Article L714-4
+
+Un décret en Conseil d'Etat fixe les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-103 du 30 janvier 2009 - art. 1
 
 
 ### Titre II : Dispositions spécifiques à Saint-Pierre-et-Miquelon
@@ -98599,6 +101380,8 @@ Les articles D. 411-1 à D. 411-4, à l'exclusion de l'article D. 411-2, sont ap
 
 ##### Section 2 : Les catégories de marché.
 
+##### Section 2 : Les plates-formes de négociation
+
 ###### Article D744-2-1
 
 Les articles D. 421-2 à D. 421-9 et D. 421-11 sont applicables en Nouvelle-Calédonie. Les dispositions de l'article D. 421-6
@@ -98616,6 +101399,21 @@ du Traité instituant la Communauté européenne.
 	  - Code monétaire et financier - art. D421-11
 	  - Code monétaire et financier - art. D421-2
 	  - Code monétaire et financier - art. D421-6
+
+
+###### Article R744-2
+
+L'article R. 421-1 est applicable en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 1 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 1 (V)
 
 
 ##### Section 3 : Les négociations sur instruments financiers
@@ -98863,32 +101661,29 @@ L'article D. 531-1 est applicable en Nouvelle-Calédonie.
 
 ###### Article R745-6
 
-Les articles R. 532-1 à R. 532-7, R. 532-8 à l'exception de son premier alinéa, R. 532-10 à R. 532-14, R. 532-15 à
-l'exception de son premier alinéa et R. 542-1 sont applicables en Nouvelle-Calédonie.
+Les articles R. 532-1 à R. 532-7, le dernier alinéa de l'article R. 532-8, les articles R. 532-10 à R. 532-14, le dernier
+alinéa de l'article R. 532-15 et l'article R. 542-1 sont applicables en Nouvelle-Calédonie. 
 
-Les dispositions du second alinéa des articles R. 532-8 et R. 532-15 sont applicables aux filiales directes ou indirectes
+Les dispositions du dernier alinéa des articles R. 532-8 et R. 532-15 sont applicables aux filiales directes ou indirectes
 d'un établissement de crédit ou d'une entreprise d'investissement agréés dans un autre Etat partie à l'Espace économique
 européen.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°96-880 1996-10-08 art 19-1 (ecqc la Nouvelle-Calédonie)
-
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 2004 - art. 311-7 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 2 (VD)
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R532-15 (M)
-	  - Code monétaire et financier - art. R532-8 (M)
-	  - Code monétaire et financier R532-1 à R532-7, R532-8, R532-15
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. R532-15
+	  - Code monétaire et financier - art. R532-8
 
 
 ##### Sous-section 3 : Les obligations des prestataires de services d'investissement
@@ -99053,18 +101848,18 @@ Les articles R. 612-2, R. 612-3 et R. 612-5 sont applicables en Nouvelle-Calédo
 
 ###### Article R746-3
 
-Les articles R. 613-2, R. 613-4 à R. 613-23 sont applicables en Nouvelle-Calédonie.
+Les articles R. 613-2, R. 613-3-1 et R. 613-4 à R. 613-23 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 3 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R613-2 (V)
-	  - Code monétaire et financier R613-2, R613-4 à R613-23
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. R613-2
 
 
 ##### Sous-section 5 : Comité consultatif du crédit en Nouvelle-Calédonie
@@ -99246,6 +102041,8 @@ Les articles R. 621-1 à R. 621-26, R. 621-30-1 à R. 621-30-4 et R. 621-31 à R
 
 ##### Section 3 : Echanges d'information.
 
+##### Section 3 : Coopération et échanges d'informations
+
 ###### Article D746-11-1
 
 L'article D. 632-1-1 est applicable en Nouvelle-Calédonie.
@@ -99266,6 +102063,17 @@ L'article D. 632-4 est applicable en Nouvelle-Calédonie.
 	**Créé par**:
 
 	  - Décret n°2008-1480 du 30 décembre 2008 - art. 5
+
+
+###### Article R746-11
+
+Les articles R. 632-1 et R. 632-3 sont applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 3 (V)
 
 
 ### Titre V : Dispositions applicables en Polynésie française
@@ -100023,6 +102831,8 @@ Les articles D. 411-1 à D. 411-4, à l'exclusion de l'article D. 411-2, sont ap
 
 ##### Section 2 : Les catégories de marché.
 
+##### Section 2 : Les plates-formes de négociation
+
 ###### Article D754-2-1
 
 I.-Les articles D. 421-2 à D. 421-9 et D. 421-11 sont applicables en Polynésie française, dans les conditions prévues au II. 
@@ -100044,6 +102854,21 @@ le même objet.
 	  - Code monétaire et financier - art. D421-2
 	  - Code monétaire et financier - art. D421-6
 	  - Code monétaire et financier - art. D421-8
+
+
+###### Article R754-2
+
+L'article R. 421-1 est applicable en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 1 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 1 (V)
 
 
 ##### Section 3 : Les négociations sur instruments financiers
@@ -100293,32 +103118,29 @@ L'article D. 531-1 est applicable en Polynésie française.
 
 ###### Article R755-6
 
-Les articles R. 532-1 à R. 532-7, R. 532-8 à l'exception de son premier alinéa, R. 532-10 à R. 532-14, R. 532-15 à
-l'exception de son premier alinéa et R. 542-1 sont applicables en Polynésie française.
+Les articles R. 532-1 à R. 532-7, le dernier alinéa de l'article R. 532-8, les articles, R. 532-10 à R. 532-14, le dernier
+alinéa de l'article R. 532-15 et l'article R. 542-1 sont applicables en Polynésie française.
 
-Les dispositions du second alinéa des articles R. 532-8 et R. 532-15 sont applicables aux filiales directes ou indirectes
+Les dispositions du dernier alinéa des articles R. 532-8 et R. 532-15 sont applicables aux filiales directes ou indirectes
 d'un établissement de crédit ou d'une entreprise d'investissement agréés dans un autre Etat partie à l'Espace économique
 européen.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°96-880 1996-10-08 art 19-1 (ecqc la Polynésie française)
-
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 2004 - art. 311-7 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 2 (VD)
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R532-15 (M)
-	  - Code monétaire et financier - art. R532-8 (M)
-	  - Code monétaire et financier R532-1 à R532-7, R532-8, R532-15
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. R532-15
+	  - Code monétaire et financier - art. R532-8
 
 
 ##### Sous-section 3 : Les obligations des prestataires de services d'investissement
@@ -100483,18 +103305,18 @@ Les articles R. 612-2 à R. 612-5 sont applicables en Polynésie française.
 
 ###### Article R756-3
 
-Les articles R. 613-2, R. 613-4 à R. 613-23 sont applicables en Polynésie française.
+Les articles R. 613-2, R. 613-3-1 et  R. 613-4 à R. 613-23 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R613-2 (V)
-	  - Code monétaire et financier R613-2, R613-4 à R613-23
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. R613-2
 
 
 ##### Section 2 : L'Autorité des marchés financiers
@@ -100544,6 +103366,8 @@ française.
 
 ##### Section 3 : Echanges d'informations.
 
+##### Section 3 : Coopération et échanges d'informations
+
 ###### Article D756-6-1
 
 L'article D. 632-1-1 est applicable en Polynésie française.
@@ -100564,6 +103388,17 @@ L'article D. 632-4 est applicable en Polynésie française.
 	**Créé par**:
 
 	  - Décret n°2008-1480 du 30 décembre 2008 - art. 5
+
+
+###### Article R756-6
+
+Les articles R. 632-1 et R. 632-3 sont applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 3 (V)
 
 
 ### Titre VI : Dispositions applicables à Wallis et Futuna
@@ -101306,6 +104141,8 @@ Les articles D. 411-1 à D. 411-4, à l'exclusion de l'article D. 411-2, sont ap
 
 ##### Section 2 : Les catégories de marché.
 
+##### Section 2 : Les plates-formes de négociation
+
 ###### Article D764-2-1
 
 Les articles D. 421-2 à D. 421-9 et D. 421-11 sont applicables dans les îles Wallis et Futuna. Les dispositions de l'article
@@ -101323,6 +104160,21 @@ l'article 187 du traité instituant la Communauté européenne.
 	  - Code monétaire et financier - art. D421-11
 	  - Code monétaire et financier - art. D421-2
 	  - Code monétaire et financier - art. D421-6
+
+
+###### Article R764-2
+
+L'article R. 421-1 est applicable dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 1 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 1 (V)
 
 
 ##### Section 3 : Les négociations sur instruments financiers
@@ -101482,32 +104334,29 @@ L'article D. 531-1 est applicable dans les îles Wallis et Futuna.
 
 ###### Article R765-6
 
-Les articles R. 532-1 à R. 532-7, R. 532-8 à l'exception de son premier alinéa, R. 532-10 à R. 532-14, R. 532-15 à
-l'exception de son premier alinéa et R. 542-1 sont applicables dans les îles Wallis et Futuna.
+Les articles R. 532-1 à R. 532-7, le dernier alinéa de l'article R. 532-8, les articles R. 532-10 à R. 532-14, le dernier
+alinéa de l'article R. 532-15 et l'article R. 542-1 sont applicables dans les îles Wallis et Futuna.
 
-Les dispositions du second alinéa des articles R. 532-8 et R. 532-15 sont applicables aux filiales directes ou indirectes
+Les dispositions du dernier alinéa des articles R. 532-8 et R. 532-15 sont applicables aux filiales directes ou indirectes
 d'un établissement de crédit ou d'une entreprise d'investissement agréés dans un autre Etat partie à l'Espace économique
 européen.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°96-880 1996-10-08 art 19-1 (ecqc Wallis et Futuna)
-
 	**Cité par**:
 
 	  - Arrêté du 12 novembre 2004 - art. 311-7 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 2 (VD)
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R532-15 (M)
-	  - Code monétaire et financier - art. R532-8 (M)
-	  - Code monétaire et financier R532-1 à R532-7, R532-8, R532-15
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. R532-15
+	  - Code monétaire et financier - art. R532-8
 
 
 ##### Sous-section 3 : Les obligations des prestataires de services d'investissement
@@ -101667,18 +104516,18 @@ Les articles R. 612-2 à R. 612-5 sont applicables dans les îles Wallis et Futu
 
 ###### Article R766-3
 
-Les articles R. 613-2, R. 613-4 à R. 613-23 sont applicables dans les îles Wallis et Futuna.
+Les articles R. 613-2, R. 613-3-1 et  R. 613-4 à R. 613-23 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R613-2 (V)
-	  - Code monétaire et financier R613-2, R613-4 à R613-23
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. R613-2
 
 
 ##### Section 2 : L'Autorité des marchés financiers
@@ -101728,6 +104577,8 @@ et Futuna.
 
 ##### Section 3 : Echanges d'informations.
 
+##### Section 3 : Coopération et échanges d'informations
+
 ###### Article D766-6-1
 
 L'article D. 632-1-1 est applicable dans les îles Wallis et Futuna.
@@ -101748,5 +104599,16 @@ L'article D. 632-4 est applicable dans les îles Wallis et Futuna.
 	**Créé par**:
 
 	  - Décret n°2008-1480 du 30 décembre 2008 - art. 5
+
+
+###### Article R766-6
+
+Les articles R. 632-1 et R. 632-3 sont applicables dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1473 du 30 décembre 2008 - art. 3 (V)
 
 
