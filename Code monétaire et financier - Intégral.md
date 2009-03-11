@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-03-07
+Version Consolidée au 2009-03-12
 
 # Partie législative
 
@@ -66580,38 +66580,19 @@ personnel, perçoit pour chaque réunion du conseil général à laquelle il ass
 dans la limite du cinquième de la moyenne de la rémunération mensuelle la plus basse et de la rémunération mensuelle la plus
 haute attachée au grade de conseiller d'Etat.
 
-Chaque membre du comité monétaire du conseil général, autre que le gouverneur et les sous-gouverneurs, peut en outre
-percevoir une indemnité forfaitaire mensuelle fixée par le conseil général dans la limite du quart de la moyenne de la
-rémunération mensuelle la plus basse et de la rémunération mensuelle la plus haute attachée au grade de conseiller d'Etat.
-
-**Nota:**
-
-Décret 2007-902 du 15 mai 2007 art. 3 : 
-
-I.-Le décret n° 93-1278 du 3 décembre 1993 sur la Banque de France est abrogé. 
-
-II.-Toutefois, par dérogation aux dispositions de l'article R. 142-4 du code monétaire et financier, les membres de droit du
-comité monétaire mentionnés au quatrième alinéa de l'article L. 142-5 continuent d'être rémunérés conformément aux
-dispositions de l'article 5 et sont soumis aux prescriptions de l'article 6 de ce décret, jusqu'à l'expiration de leur
-mandat.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°93-1278 du 3 décembre 1993 - art. 8 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
-
 	**Cité par**:
 
 	  - Décret n°2007-902 du 15 mai 2007 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-269 du 9 mars 2009 - art. 1
 
 
 ###### Article R142-5
@@ -66967,35 +66948,6 @@ correspondant au grade dont il est titulaire à la date de son élection.
 	**Nouveaux textes**:
 
 	  - Code monétaire et financier - art. R142-15 (V)
-
-
-##### Section 3 : Le comité monétaire du conseil général.
-
-###### Article R142-18
-
-Le comité monétaire du conseil général établit son règlement intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-1278 du 3 décembre 1993 - art. 22 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-902 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-269 du 9 mars 2009 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. R142-16 (V)
 
 
 ##### Section 4 : Le gouverneur et les sous-gouverneurs.
@@ -67404,24 +67356,22 @@ la publicité foncière, ainsi que les méthodes de comptabilisation et d'évalu
 normes comptables mentionnés au I de l'article 4 de la même loi, s'appliquent à la Banque de France pour les opérations
 autres que celles comptabilisées et évaluées selon les règles mentionnées au premier alinéa du présent article. 
 
-Le conseil général arrête, après avis du comité monétaire du conseil général, la présentation des états comptables publiés.
-Sur proposition du comité monétaire du conseil général, il peut limiter le détail des informations rendues publiques. 
+Le conseil général arrête la présentation des états comptables publiés. Il peut limiter le détail des informations rendues
+publiques. 
 
-Toutefois, le conseil général, après avis du comité monétaire du conseil général, peut, par dérogation au deuxième alinéa du
-présent article, rendre applicables à la Banque de France les règles de comptabilisation et d'évaluation recommandées par la
-Banque centrale européenne.
+Toutefois, le conseil général peut, par dérogation au deuxième alinéa du présent article, rendre applicables à la Banque de
+France les règles de comptabilisation et d'évaluation recommandées par la Banque centrale européenne.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°98-261 du 6 avril 1998 - art. 1
-	  - Loi n°98-261 du 6 avril 1998 - art. 4
 	  - Code monétaire et financier - art. L141-1
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
+	  - Décret n°2009-269 du 9 mars 2009 - art. 1
 
 	**Cité par**:
 
@@ -67528,18 +67478,14 @@ France.
 
 ###### Article R144-14
 
-Des actes du conseil général ou du comité monétaire du conseil général peuvent être publiés au Journal officiel de la
-République française sur proposition, respectivement, de ce conseil ou de ce comité.
+Des actes du conseil général peuvent être publiés au Journal officiel de la République française sur proposition de ce
+conseil.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-902 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+	  - Décret n°2009-269 du 9 mars 2009 - art. 1
 
 
 ### Titre V : Les relations financières avec l'étranger
@@ -91044,6 +90990,51 @@ dont elle a la gestion lorsque dix ans se sont écoulés à compter de la date d
 	**Codifié par**:
 
 	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+
+##### Paragraphe 5 : Contrôle externe. 
+
+
+
+###### Article R518-30-1
+
+Les obligations comptables, prudentielles et de contrôle interne applicables à la Caisse des dépôts et consignations sont
+fixées par le décret n° 2009-268 du 9 mars 2009.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2009-268 du 9 mars 2009
+
+	**Créé par**:
+
+	  - Décret n°2009-268 du 9 mars 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R518-30-2 (VD)
+
+
+###### Article R518-30-2
+
+I. ― Pour l'application de l'article L. 518-15-3, les contrôles diligentés au titre de l'article L. 613-10 font l'objet d'une
+communication préalable motivée à la commission de surveillance de la Caisse des dépôts et consignations. 
+
+II. ― Sans préjudice de la communication qu'elle fait à la commission de surveillance des rapports mentionnés à l'article L.
+518-15-3, la Commission bancaire rend compte au moins une fois par an à la Commission de surveillance des travaux de contrôle
+qu'elle a réalisés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-268 du 9 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L518-15-3
+	  - Code monétaire et financier - art. L613-10
 
 
 ##### Sous-section 4 : Opérations.
