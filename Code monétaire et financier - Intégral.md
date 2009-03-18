@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-03-12
+Version Consolidée au 2009-03-19
 
 # Partie législative
 
@@ -68698,55 +68698,47 @@ passible d'une amende égale au montant maximum applicable aux contraventions de
 
 ###### Article D211-1 A
 
-I. - Les instruments financiers à terme mentionnés au 4 du I de l'article L. 211-1 sont :
+I.-Les contrats financiers mentionnés au III de l'article L. 211-1 sont : 
 
 1. Les contrats d'option, contrats à terme fermes, contrats d'échange, accords de taux futurs et tous autres contrats à terme
 relatifs à des instruments financiers, des devises, des taux d'intérêt, des rendements, des indices financiers ou des mesures
-financières qui peuvent être réglés par une livraison physique ou en espèces ;
+financières qui peuvent être réglés par une livraison physique ou en espèces ; 
 
 2. Les contrats d'option, contrats à terme fermes, contrats d'échange, accords de taux futurs et tous autres contrats à terme
 relatifs à des marchandises qui doivent être réglés en espèces ou peuvent être réglés en espèces à la demande d'une des
-parties autrement qu'en cas de défaillance ou d'autre incident conduisant à la résiliation ;
+parties autrement qu'en cas de défaillance ou d'autre incident conduisant à la résiliation ; 
 
 3. Les contrats d'option, contrats à terme fermes, contrats d'échange et tous autres contrats à terme relatif à des
 marchandises qui peuvent être réglés par livraison physique, à condition qu'ils soient négociés sur un marché réglementé ou
-un système multilatéral de négociation ;
+un système multilatéral de négociation ; 
 
 4. Les contrats d'options, contrats à terme fermes, contrats d'échange et tous autres contrats à terme relatifs à des
 marchandises qui peuvent être réglés par livraison physique, non mentionnés par ailleurs au 3, et non destinés à des fins
 commerciales, qui présentent les caractéristiques d'autres instruments financiers à terme, en tenant compte de ce que,
 notamment, ils sont compensés et réglés par l'intermédiaire d'une chambre de compensation reconnue ou font l'objet d'appels
-de couvertures périodiques ;
+de couvertures périodiques ; 
 
-5. Les contrats à terme servant au transfert du risque de crédit ;
+5. Les contrats à terme servant au transfert du risque de crédit ; 
 
-6. Les contrats financiers avec paiement d'un différentiel ;
+6. Les contrats financiers avec paiement d'un différentiel ; 
 
 7. Les contrats d'options, contrats à terme fermes, contrats d'échanges, accords de taux futurs et tous autres contrats à
 terme relatifs à des variables climatiques, à des tarifs de fret, à des autorisations d'émissions ou à des taux d'inflation
 ou d'autres statistiques économiques officielles qui doivent être réglés en espèces ou peuvent être réglés en espèces à la
-demande d'une des parties autrement qu'en cas de défaillance ou d'autre incident amenant la résiliation ;
+demande d'une des parties autrement qu'en cas de défaillance ou d'autre incident amenant la résiliation ; 
 
 8. Tout autre contrat à terme concernant des actifs, des droits, des obligations, des indices et des mesures, non mentionné
 par ailleurs aux 1 à 7 ci-dessus, qui présente les caractéristiques d'autres instruments financiers à terme, en tenant compte
 de ce que, notamment, il est négocié sur un marché réglementé ou un système multilatéral de négociation, est compensé et
-réglé par l'intermédiaire d'une chambre de compensation reconnue ou fait l'objet d'appels de couvertures périodiques.
+réglé par l'intermédiaire d'une chambre de compensation reconnue ou fait l'objet d'appels de couvertures périodiques. 
 
-II. - Pour l'application de l'article L. 431-7, sont également des instruments financiers à terme les contrats d'options,
-contrats à terme fermes, contrats d'échanges et tous autres contrats à terme sur marchandises ou autorisations d'émission
-autres que ceux mentionnés au I, à condition qu'ils fassent l'objet, en suite de négociation, d'un enregistrement par une
-chambre de compensation reconnue ou d'appels de couvertures périodiques.
+II. (Abrogé)
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Décret n°2007-904 du 15 mai 2007 - art. 1 () JORF 16 mai 2007 en vigueur le 1er novembre 2007
+	  - Décret n°2009-297 du 16 mars 2009 - art. 1
 
 	**Cité par**:
 
@@ -68758,8 +68750,7 @@ chambre de compensation reconnue ou d'appels de couvertures périodiques.
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-1 (M)
-	  - Code monétaire et financier - art. L431-7 (M)
+	  - Code monétaire et financier - art. L211-1
 
 
 ##### Section 2 : Règles générales applicables aux valeurs mobilières.
@@ -68768,15 +68759,7 @@ chambre de compensation reconnue ou d'appels de couvertures périodiques.
 
 ###### Article R211-1
 
-Les titres constituant des valeurs mobilières ne sont matérialisés que par une inscription au compte de leur propriétaire.
-
-Le compte est tenu par l'émetteur si les titres sont demandés sous la forme nominative, par un intermédiaire financier
-habilité mentionné à l'article L. 562-1 (1) s'ils sont demandés sous la forme au porteur.
-
-**Nota:**
-
-(1) Une anomalie s'est glissée lors de la rédaction de l'article R211-1 : la référence est L542-1 et non L562-1 comme indiqué
-dans l'annexe du décret 2005-1007 du 2 août 2005 portant partie réglementaire du code monétaire et financier.
+Les titres financiers ne sont matérialisés que par une inscription au compte de leur propriétaire.
 
 **Liens relatifs à cet article**
 
@@ -68784,23 +68767,20 @@ dans l'annexe du décret 2005-1007 du 2 août 2005 portant partie réglementaire
 
 	  - Décret n°83-359 du 2 mai 1983 - art. 1 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code de commerce - art. R228-25 (V)
 	  - Code de commerce. - art. R225-158 (V)
 
-	**Cite**:
-
-	  - Code monétaire et financier - art. L542-1 (M)
-
 
 ###### Article R211-2
 
-Les titres inscrits en compte se transmettent par virement de compte à compte.
+Lorsque le compte-titres est tenu par l'émetteur, les titres financiers revêtent la forme nominative. Lorsqu'il est tenu par
+un intermédiaire mentionné à l'article L. 211-3, les titres financiers revêtent la forme au porteur.
 
 **Liens relatifs à cet article**
 
@@ -68808,15 +68788,19 @@ Les titres inscrits en compte se transmettent par virement de compte à compte.
 
 	  - Décret n°83-359 du 2 mai 1983 - art. 2 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-3
 
 
 ###### Article R211-3
 
-Lorsque les émetteurs désignent un mandataire pour la tenue des comptes qui leur incombe, ils sont tenus de publier au
-Bulletin des annonces légales obligatoires la dénomination et l'adresse de leur mandataire.
+Lorsque les émetteurs désignent un mandataire pour la tenue des comptes-titres qui leur incombe, ils publient au Bulletin des
+annonces légales obligatoires la dénomination et l'adresse de leur mandataire.
 
 **Liens relatifs à cet article**
 
@@ -68824,16 +68808,17 @@ Bulletin des annonces légales obligatoires la dénomination et l'adresse de leu
 
 	  - Décret n°83-359 du 2 mai 1983 - art. 3 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 
 ###### Article R211-4
 
-Un propriétaire de titres nominatifs peut charger un intermédiaire habilité de gérer son compte ouvert chez un émetteur. En
-ce cas, les inscriptions figurant sur ce compte figurent également dans un compte d'administration tenu par un intermédiaire
-habilité et le titulaire du compte s'oblige à ne plus donner d'ordre qu'à ce dernier.
+Un propriétaire de titres financiers nominatifs peut charger un intermédiaire mentionné à l'article L. 211-3 de tenir son
+compte-titres ouvert chez un émetteur. En ce cas, les inscriptions figurant sur ce compte-titres figurent également dans un
+compte d'administration tenu par cet intermédiaire. Le titulaire du compte-titres s'oblige à ne plus donner d'ordre qu'à ce
+dernier.
 
 **Liens relatifs à cet article**
 
@@ -68849,18 +68834,22 @@ habilité et le titulaire du compte s'oblige à ne plus donner d'ordre qu'à ce 
 	  - Code de commerce - art. R228-25 (V)
 	  - Code de commerce. - art. R225-122 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-3
 
 
 ###### Article R211-5
 
-Les valeurs mobilières à forme obligatoirement nominatives ne peuvent être négociées en bourse qu'après avoir été placées en
-compte d'administration.
+Les titres financiers à forme obligatoirement nominative ne peuvent être négociés sur un marché réglementé ou sur un système
+multilatéral de négociation qu'après avoir été placés en compte d'administration. 
 
-Les valeurs mobilières qui ne revêtent pas la forme obligatoirement nominative ne peuvent être négociées en bourse que sous
-la forme au porteur.
+Les titres financiers qui ne revêtent pas la forme obligatoirement nominative ne peuvent être négociés sur un marché
+réglementé ou sur un système multilatéral de négociation que sous la forme au porteur.
 
 **Liens relatifs à cet article**
 
@@ -68868,17 +68857,18 @@ la forme au porteur.
 
 	  - Décret n°83-359 du 2 mai 1983 - art. 5 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 
 ###### Article R211-6
 
-Un dépositaire central ouvre des comptes courants aux émetteurs de valeurs admises à ses opérations et aux intermédiaires
-habilités à exercer l'activité de tenue de compte qui acquièrent de ce fait la qualité d'adhérent.
+Un dépositaire central ouvre des comptes aux émetteurs de titres financiers admis à ses opérations et aux intermédiaires
+mentionnés à l'article L. 211-3 qui acquièrent de ce fait la qualité d'adhérent. 
 
-Il assure, pour les valeurs admises à ses opérations, la livraison par débit et crédit des comptes ouverts à ses adhérents.
+Il assure, pour les titres financiers admis à ses opérations, la livraison par débit et crédit des comptes ouverts à ses
+adhérents.
 
 **Liens relatifs à cet article**
 
@@ -68886,14 +68876,19 @@ Il assure, pour les valeurs admises à ses opérations, la livraison par débit 
 
 	  - Décret n°83-359 du 2 mai 1983 - art. 6 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-3
 
 
 ###### Article R211-7
 
-Un dépositaire central peut créer des certificats représentatifs de valeurs françaises ne pouvant circuler qu'à l'étranger.
+Un dépositaire central peut créer des certificats représentatifs de titres financiers français ne pouvant circuler qu'à
+l'étranger. 
 
 Il peut déléguer ce droit à un adhérent pour une émission déterminée.
 
@@ -68903,9 +68898,9 @@ Il peut déléguer ce droit à un adhérent pour une émission déterminée.
 
 	  - Décret n°83-359 du 2 mai 1983 - art. 7 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 	**Cité par**:
 
@@ -68915,8 +68910,8 @@ Il peut déléguer ce droit à un adhérent pour une émission déterminée.
 ###### Article R211-8
 
 Lorsqu'un dépositaire central s'est affilié à un organisme étranger de même nature, il a la faculté, d'une part, de prévoir
-que les inscriptions nominatives de valeurs mobilières étrangères se font sous le nom de son homologue étranger, d'autre
-part, de laisser les titres au porteur ou assimilés en dépôt auprès de celui-ci.
+que les inscriptions nominatives de titres financiers étrangers se font sous le nom de son homologue étranger, d'autre part,
+de laisser les titres financiers étrangers au porteur ou assimilés en dépôt auprès de celui-ci.
 
 **Liens relatifs à cet article**
 
@@ -68924,30 +68919,196 @@ part, de laisser les titres au porteur ou assimilés en dépôt auprès de celui
 
 	  - Décret n°83-359 du 2 mai 1983 - art. 8 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 
 ###### Article R211-9
 
-Les règles relatives à l'identification des détenteurs de titres sont définies par les articles R. 228-3 et R. 228-4 du code
-du commerce.
+Les règles relatives à l'identification des détenteurs de titres sont définies par les articles R. 228-3 à R. 228-6 du code
+de commerce.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de commerce. - art. R228-3 (V)
-	  - Code de commerce. - art. R228-4 (V)
+	  - Code de commerce - art. R228-3
+
+
+##### Section 2 : Les titres financiers.
+
+##### Sous-section 2 : Inscription en compte.
+
+##### Sous-section 4 : Nantissement de comptes-titres.
+
+###### Article D211-10
+
+La déclaration de nantissement d'un compte-titres tenu par un intermédiaire mentionné à l'article L. 211-3, un dépositaire
+central ou, le cas échéant, l'émetteur doit être datée et contenir : 
+
+1° La dénomination " Déclaration de nantissement de compte de titres financiers " ; 
+
+2° La mention que la déclaration est soumise aux dispositions de l'article L. 211-20 ;
+
+3° Le nom ou la dénomination sociale ainsi que l'adresse du constituant et du créancier nanti ou de leur siège social s'il
+s'agit de personnes morales ; 
+
+4° Le montant de la créance garantie ou, à défaut, les éléments permettant d'assurer l'identification de cette créance ; 
+
+5° Les éléments d'identification du compte spécial prévu au II de l'article L. 211-20 lorsqu'un tel compte existe ; 
+
+6° La nature et le nombre des titres financiers inscrits initialement au compte nanti.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-297 du 16 mars 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D211-14 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-20
+	  - Code monétaire et financier - art. L211-3
+
+
+###### Article D211-11
+
+La mise en demeure prévue au V de l'article L. 211-20 contient, à peine de nullité, les indications suivantes : 
+
+1° Faute de paiement, le nantissement pourra être réalisé par le créancier dans les huit jours ou à l'échéance de tout autre
+délai préalablement convenu avec le titulaire du compte nanti ; 
+
+2° Le titulaire du compte nanti peut, jusqu'à l'expiration du délai mentionné ci-dessus, faire connaître au teneur de compte
+l'ordre dans lequel les sommes ou titres financiers devront être attribués en pleine propriété ou vendus, au choix du
+créancier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-297 du 16 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-20
+
+
+###### Article D211-12
+
+Dans la limite du montant de la créance garantie et, le cas échéant, dans le respect de l'ordre indiqué par le titulaire du
+compte nanti, la réalisation du nantissement de ce compte prévue aux IV et V de l'article L. 211-20 intervient : 
+
+1° Pour les sommes en toute monnaie figurant dans le compte nanti, directement par transfert en pleine propriété au créancier
+nanti ; 
+
+2° Pour les titres financiers, français ou étrangers admis aux négociations sur un marché réglementé que le titulaire du
+compte nanti ou, à défaut, le créancier nanti a désignés, par vente sur un marché réglementé ou attribution en propriété de
+la quantité déterminée par le créancier nanti. Cette quantité est établie, par le créancier nanti, sur la base du dernier
+cours de clôture disponible sur un marché réglementé ; 
+
+3° Pour les parts ou actions d'organisme de placement collectif au sens du 3 du II de l'article L. 211-1, que le titulaire du
+compte nanti ou, à défaut, le créancier nanti a désignées, par présentation au rachat ou attribution en propriété de la
+quantité qu'il détermine. Cette quantité est établie, par le créancier nanti, sur la base de la dernière valorisation
+disponible desdites parts ou actions. 
+
+Le titulaire du compte nanti supporte tous les frais résultant de la réalisation du nantissement. Ces frais sont imputés sur
+le montant résultant de cette réalisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-297 du 16 mars 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D211-13 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L211-20
+
+
+###### Article D211-13
+
+Lorsque, n'étant pas le teneur de compte mentionné au II de l'article L. 211-20, le créancier nanti a autorisé le titulaire
+du compte à disposer des titres financiers et des sommes en toute monnaie figurant dans le compte nanti, le titulaire du
+compte et le créancier nanti informent par écrit le teneur de compte des conditions de cette disposition. Le teneur de compte
+ne peut déroger aux instructions reçues sans l'accord du créancier nanti. 
+
+Lorsque, n'étant pas le teneur de compte mentionné au II de l'article L. 211-20, le créancier nanti estime réunies les
+conditions de la réalisation du nantissement, il demande par écrit au teneur de compte de procéder à cette réalisation dans
+les conditions prévues à l'article D. 211-12. Aux frais du créancier nanti, le teneur de compte exécute les instructions
+reçues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-297 du 16 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. D211-12
+	  - Code monétaire et financier - art. L211-20
+
+
+###### Article D211-14
+
+Les dispositions des articles D. 211-10 à D. 211-13 ne s'appliquent pas aux nantissements portant sur des parts de sociétés
+civiles de placement immobilier ou des parts de sociétés d'épargne forestière, qui demeurent soumis aux dispositions des
+articles 1866 à 1868 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-297 du 16 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 1866
+	  - Code monétaire et financier - art. D211-10
+
+
+##### Sous-section 5 : Formes particulières de transmission.
+
+##### Paragraphe 3 : Pension.
+
+###### Article D211-15
+
+Les modalités de livraison mentionnées à l'article L. 211-29 sont arrêtées comme suit : 
+
+1° Les titres financiers ou effets créés matériellement sont dits livrés si, au moment de la mise en pension, ils sont
+effectivement et physiquement délivrés au cessionnaire ou à son mandataire ; s'agissant d'effets à ordre, ils doivent être
+préalablement endossés conformément à l'article L. 511-8 du code de commerce ; 
+
+2° Les titres financiers ou effets dématérialisés et ceux matériellement créés, conservés chez un dépositaire central, mais
+circulant par virement de compte à compte, sont dits livrés s'ils font l'objet, au moment de la mise en pension, d'une
+inscription à un compte ouvert au nom du cessionnaire chez un intermédiaire mentionné à l'article L. 211-3, chez un
+dépositaire central ou, le cas échéant, chez l'émetteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-297 du 16 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L511-8
+	  - Code monétaire et financier - art. L211-29
+	  - Code monétaire et financier - art. L211-3
 
 
 #### Chapitre II : Titres de capital et titres donnant accès au capital.
@@ -69017,25 +69178,6 @@ Les règles relatives aux certificats d'investissements sont définies par les a
 
 
 ##### Section 2 : Les titres donnant accès au capital.
-
-###### Article R212-4
-
-Les règles relatives aux titres donnant accès au capital sont définies par les articles R. 228-87 à 95 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
-
-	**Cite**:
-
-	  - Code de commerce - art. R228-87 (V)
-
 
 ##### Section 3 : Régimes particuliers d'accès au capital en faveur du personnel salarié.
 
@@ -69124,6 +69266,37 @@ du code de commerce.
 
 	  - Code de commerce - art. R225-137 (V)
 
+
+#### Chapitre II : Titres de capital.
+
+##### Section 1 : Les actions.
+
+##### Sous-section 3 : Actions de préférence.
+
+##### Sous-section 4 : Dispositions applicables aux catégories de titres en voie d'extinction.
+
+##### Section 2 : Les autres titres donnant ou pouvant donner accès au capital ou aux droits de vote.
+
+###### Article R212-4
+
+Les règles relatives aux titres donnant accès au capital sont définies par les articles R. 228-87 à 95 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. R228-87 (V)
+
+
+##### Section 3 : Régimes particuliers d'accès au capital en faveur du personnel salarié.
 
 #### Chapitre III : Titres de créance.
 
@@ -70076,7 +70249,7 @@ c) Les parts ou actions d'organismes de placement collectif en valeurs mobilièr
 
 d) Les parts et titres de créance émis par des fonds communs de titrisation ; 
 
-e) Les instruments financiers à terme au sens du I de l'article L. 211-1 ; 
+e) Les instruments financiers à terme au sens du III de l'article L. 211-1 ; 
 
 f) Les instruments du marché monétaire. 
 
@@ -70087,7 +70260,11 @@ c.
 
 	**Modifié par**:
 
-	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-922 du 1er août 2011 - art. 1
 
 	**Cité par**:
 
@@ -70865,7 +71042,7 @@ l'organisme ou ayant transféré des risques de crédit à l'organisme.
 ###### Article R214-12
 
 I.-Pour la réalisation de son objectif de gestion, un organisme de placement collectif en valeurs mobilières peut recevoir ou
-octroyer les garanties mentionnées à l'article L. 431-7-3, dans les conditions définies à ce même article ainsi que recevoir
+octroyer les garanties mentionnées à l'article L. 211-38, dans les conditions définies à ce même article ainsi que recevoir
 des cautions solidaires ou garanties à première demande.
 
 L'organisme de placement collectif en valeurs mobilières ne peut recevoir des garanties que si elles lui sont octroyées par
@@ -70953,13 +71130,13 @@ niveau de risque compatible avec son profil de risque ainsi qu'avec le respect d
 
 	**Modifié par**:
 
-	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L211-38
 	  - Code monétaire et financier - art. L214-4
 	  - Code monétaire et financier - art. L321-2
-	  - Code monétaire et financier - art. L431-7-3
 	  - Code monétaire et financier - art. R214-1-1
 	  - Code monétaire et financier - art. R214-3
 
@@ -71092,35 +71269,35 @@ dans le public en temps utile.
 ###### Article R214-14
 
 Un organisme de placement collectif en valeurs mobilières peut conclure des contrats constituant des instruments financiers à
-terme répondant aux caractéristiques des dérivés de crédit définis par les conventions mentionnées à l'article L. 431-7, dans
-les conditions fixées aux articles R. 214-12 et R. 214-13.
+terme répondant aux caractéristiques des dérivés de crédit définis par les conventions mentionnées aux articles L. 211-36 et
+L. 211-36-1, dans les conditions fixées aux articles R. 214-12 et R. 214-13. 
 
 Ces instruments financiers à terme permettent de transférer le risque de crédit lié à leur actif sous-jacent, indépendamment
-des autres risques liés à cet actif sous-jacent et respectent les critères qui suivent :
+des autres risques liés à cet actif sous-jacent et respectent les critères qui suivent : 
 
 1° Dans des conditions fixées par le règlement général de l'Autorité des marchés financiers, l'organisme de placement
 collectif en valeurs mobilières prend en compte de façon appropriée le risque que son cocontractant détienne des informations
-auxquelles il n'a pas accès ;
+auxquelles il n'a pas accès ; 
 
-2° Les émetteurs sur lesquels repose le risque de crédit peuvent être :
+2° Les émetteurs sur lesquels repose le risque de crédit peuvent être : 
 
-a) Un ou plusieurs Etats ;
+a) Un ou plusieurs Etats ; 
 
 b) Un ou plusieurs organismes publics internationaux dont un ou plusieurs Etats membres de la Communauté européenne sont
-membres ;
+membres ; 
 
-c) Une ou plusieurs collectivités territoriales de la Communauté européenne ;
+c) Une ou plusieurs collectivités territoriales de la Communauté européenne ; 
 
-d) Une ou plusieurs personnes morales ayant émis au moins :
+d) Une ou plusieurs personnes morales ayant émis au moins : 
 
 i) Soit des titres de créance répondant aux critères définis au II de l'article R. 214-2 ou des titres de créance admis aux
 négociations sur un marché réglementé au sens du I de l'article R. 214-2, et ayant rendu publique pour au moins une émission
 de tels titres de créance au moins une notation obtenue auprès d'un organisme figurant sur une liste arrêtée par le ministre
-chargé de l'économie ;
+chargé de l'économie ; 
 
-ii) Soit des titres de capital admis aux négociations sur un marché réglementé au sens du I de l'article R. 214-2 ;
+ii) Soit des titres de capital admis aux négociations sur un marché réglementé au sens du I de l'article R. 214-2 ; 
 
-e) Plusieurs entités relevant des catégories a à d ci-dessus ;
+e) Plusieurs entités relevant des catégories a à d ci-dessus ; 
 
 3° Le dénouement des engagements créés par ces contrats ne peut donner lieu qu'à la livraison ou au transfert d'actifs, en ce
 compris les espèces, éligibles à l'actif d'un organisme de placement collectif en valeurs mobilières.
@@ -71131,20 +71308,15 @@ compris les espèces, éligibles à l'actif d'un organisme de placement collecti
 
 	  - Décret n°89-623 du 6 septembre 1989 - art. 4-6 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L431-7 (M)
-	  - Code monétaire et financier - art. R214-12 (M)
-	  - Code monétaire et financier - art. R214-13 (M)
-	  - Code monétaire et financier - art. R214-2 (M)
+	  - Code monétaire et financier - art. L211-36
+	  - Code monétaire et financier - art. R214-12
+	  - Code monétaire et financier - art. R214-2
 
 	**Cité par**:
 
@@ -71214,24 +71386,24 @@ partiellement un instrument financier à terme lorsque ce dernier est négociabl
 
 ###### Article R214-16
 
-I. - Un organisme de placement collectif en valeurs mobilières peut effectuer, dans la limite de 100 % de son actif, des
-opérations de cession temporaire d'instruments financiers.
+I.-Un organisme de placement collectif en valeurs mobilières peut effectuer, dans la limite de 100 % de son actif, des
+opérations de cession temporaire d'instruments financiers. 
 
 Un organisme de placement collectif en valeurs mobilières peut effectuer, dans la limite de 100 % de son actif, des
-opérations d'acquisition temporaire d'instruments financiers.
+opérations d'acquisition temporaire d'instruments financiers. 
 
 Les valeurs liquidatives des actions ou parts d'un organisme de placement collectif en valeurs mobilières sont déterminées en
-tenant compte des variations de valeur des titres cédés temporairement.
+tenant compte des variations de valeur des titres cédés temporairement. 
 
-II. - Pour effectuer des opérations mentionnées au I, un organisme de placement collectif en valeurs mobilières doit
-respecter chacune des conditions suivantes :
+II.-Pour effectuer des opérations mentionnées au I, un organisme de placement collectif en valeurs mobilières doit respecter
+chacune des conditions suivantes : 
 
-1° Ces opérations sont réalisées avec un établissement mentionné au deuxième alinéa du I de l'article R. 214-12 ;
+1° Ces opérations sont réalisées avec un établissement mentionné au deuxième alinéa du I de l'article R. 214-12 ; 
 
-2° Elles sont régies par une convention-cadre mentionnée à l'article L. 431-7 ;
+2° Elles sont régies par une convention-cadre mentionnée aux articles L. 211-36 et L. 211-36-1 ; 
 
 3° Elles doivent être prises en compte pour l'application des règles générales de composition de l'actif, des ratios
-d'emprise, des règles d'exposition au risque de contrepartie et des règles d'engagement définis à la présente sous-section ;
+d'emprise, des règles d'exposition au risque de contrepartie et des règles d'engagement définis à la présente sous-section ; 
 
 4° Elles doivent respecter les règles de dénouement fixées au ii du b du 2° du I de l'article R. 214-13.
 
@@ -71239,7 +71411,6 @@ d'emprise, des règles d'exposition au risque de contrepartie et des règles d'e
 
 	**Anciens textes**:
 
-	  - Décret n°89-623 du 6 septembre 1989 - art. 4-8 (M)
 	  - Décret n°89-623 du 6 septembre 1989 - art. 4-8 (Ab)
 
 	**Cité par**:
@@ -71253,19 +71424,15 @@ d'emprise, des règles d'exposition au risque de contrepartie et des règles d'e
 	  - Code monétaire et financier - art. R214-25 (V)
 	  - Code monétaire et financier - art. R214-35 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-1206 du 10 août 2007 - art. 1 () JORF 12 août 2007
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L431-7 (M)
-	  - Code monétaire et financier - art. R214-12 (M)
-	  - Code monétaire et financier - art. R214-13 (M)
+	  - Code monétaire et financier - art. L211-36
+	  - Code monétaire et financier - art. R214-12
+	  - Code monétaire et financier - art. R214-13
 
 
 ##### Paragraphe 3 : Ratios d'emprise.
@@ -74964,7 +75131,7 @@ remboursement ou à la rémunération de ses parts, actions, titres de créances
 
 ###### Article R214-97
 
-Pour la réalisation de son objet, un organisme de titrisation peut octroyer les garanties mentionnées à l'article L. 431-7-3,
+Pour la réalisation de son objet, un organisme de titrisation peut octroyer les garanties mentionnées à l'article L. 211-38,
 dans les conditions définies à ce même article. 
 
 Lorsque les garanties octroyées par un organisme de titrisation sont des sûretés, l'acte constitutif de ces sûretés
@@ -74991,11 +75158,11 @@ peut excéder le montant de la créance du bénéficiaire sur l'organisme.
 
 	**Modifié par**:
 
-	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L431-7-3
+	  - Code monétaire et financier - art. L211-38
 
 
 ###### Article R214-98
@@ -75018,7 +75185,7 @@ son règlement ou ses statuts.
 
 ###### Article R214-99
 
-L'organisme de titrisation peut conclure des contrats constituant des instruments financiers à terme mentionnés au 4 du I de
+L'organisme de titrisation peut conclure des contrats constituant des instruments financiers à terme mentionnés au III de
 l'article L. 211-1 dans les conditions prévues par ses statuts ou son règlement. 
 
 La perte nette maximale de l'organisme résultant de l'ensemble des contrats constituant des instruments financiers à terme
@@ -75033,7 +75200,7 @@ son actif.
 
 	**Modifié par**:
 
-	  - Décret n°2008-711 du 17 juillet 2008 - art. 1
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 	**Cite**:
 
@@ -78250,7 +78417,7 @@ immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal 
 
 ###### Article R214-188
 
-Un organisme de placement collectif immobilier peut recevoir des garanties mentionnées à l'article L. 431-7-3 aux conditions
+Un organisme de placement collectif immobilier peut recevoir des garanties mentionnées à l'article L. 211-38 aux conditions
 définies à ce même article, ainsi que les garanties relevant de cautions solidaires ou les garanties à première demande.
 
 L'organisme de placement collectif immobilier ne peut recevoir des garanties que si elles lui sont octroyées par un
@@ -78258,32 +78425,24 @@ L'organisme de placement collectif immobilier ne peut recevoir des garanties que
 placement collectif en valeurs mobilières, par un établissement de crédit dont le siège est établi dans un Etat membre de
 l'Organisation de coopération et de développement économique ou une entreprise d'investissement dont le siège est situé dans
 un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen et qui est habilitée à
-fournir le service mentionné au 1 de l'article L. 321-2 et dont le montant des fonds propres, au sens de la directive
-2000/12/CE du Parlement européen et du Conseil du 20 mars 2000 concernant l'accès à l'activité des établissements de crédit
-et son exercice, est au moins égal à 3,8 millions d'euros.
-
-**Nota:**
-
-Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
-publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
-des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
-immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+fournir le service mentionné au 1 de l'article L. 321-2 et dont le montant des fonds propres, au sens de la directive 2000 /
+12 / CE du Parlement européen et du Conseil du 20 mars 2000 concernant l'accès à l'activité des établissements de crédit et
+son exercice, est au moins égal à 3, 8 millions d'euros.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L321-2 (M)
-	  - Code monétaire et financier - art. L431-7-3 (V)
-	  - Directive 2000-12 CE 2000-03-20 Parlement et Conseil
+	  - Code monétaire et financier - art. L211-38
+	  - Code monétaire et financier - art. L321-2
 
 	**Cité par**:
 
@@ -78293,31 +78452,24 @@ immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal 
 
 ###### Article R214-189
 
-Un organisme de placement collectif immobilier peut octroyer des garanties mentionnées à l'article L. 431-7-3 aux conditions
-définies à ce même article et aux conditions supplémentaires suivantes :
+Un organisme de placement collectif immobilier peut octroyer des garanties mentionnées à l'article L. 211-38 aux conditions
+définies à ce même article et aux conditions supplémentaires suivantes : 
 
 1° Les garanties octroyées par l'organisme portent sur les instruments financiers mentionnés aux d à g du I de l'article L.
 214-92 détenus par l'organisme ou sur les instruments financiers et dépôts mentionnés aux h et i du I de l'article L. 214-92
 détenus par l'organisme au-delà du quota de 10 % mentionné au 2° de l'article L. 214-93 ;
 
-2° Lorsque les garanties octroyées par l'organisme sont des sûretés, l'acte constitutif de ces sûretés définit :
+2° Lorsque les garanties octroyées par l'organisme sont des sûretés, l'acte constitutif de ces sûretés définit : 
 
-a) La nature des biens ou droits que le bénéficiaire des sûretés peut utiliser ou aliéner ;
+a) La nature des biens ou droits que le bénéficiaire des sûretés peut utiliser ou aliéner ; 
 
 b) Le montant maximal des biens ou droits que le bénéficiaire des sûretés peut utiliser ou aliéner. Ce montant maximal ne
 peut excéder 100 % de la créance du bénéficiaire sur l'organisme. Le règlement général de l'Autorité des marchés financiers
-précise les modalités de calcul de la créance du bénéficiaire sur l'organisme ;
+précise les modalités de calcul de la créance du bénéficiaire sur l'organisme ; 
 
 3° Les modalités d'évaluation des biens ou droits remis en garantie par l'organisme sont définies dans l'acte constitutif des
 garanties ou dans un contrat annexe conclu entre les parties. Le règlement général de l'Autorité des marchés financiers
 précise les modalités d'évaluation des biens ou droits remis en garantie par l'organisme.
-
-**Nota:**
-
-Décret n° 2006-1542 2006-12-06 art. 6 : Ces dispositions entrent en vigueur le premier jour du mois suivant celui de la
-publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant homologation
-des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement collectif
-immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -78325,20 +78477,15 @@ immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal 
 
 	  - Arrêté du 12 novembre 2004 - art. 424-57 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2006-1542 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-92 (MMN)
-	  - Code monétaire et financier - art. L214-93 (MMN)
-	  - Code monétaire et financier - art. L431-7-3 (V)
-	  - Code monétaire et financier L431-7-3, L214-92, L214-93, annexe
+	  - Code monétaire et financier - art. L211-38
+	  - Code monétaire et financier - art. L214-92
+	  - Code monétaire et financier - art. L214-93
 
 
 ###### Article R214-190
@@ -78488,7 +78635,7 @@ collectif immobilier.
 
 Un organisme de placement collectif immobilier peut conclure des contrats constituant des instruments financiers à terme
 mentionnés à l'article L. 214-94 répondant aux caractéristiques des dérivés de crédit définis par les conventions mentionnées
-à l'article L. 431-7, dans les conditions fixées aux articles R. 214-190 et D. 214-192. 
+aux articles L. 211-36 et L. 211-36-1, dans les conditions fixées aux articles R. 214-190 et D. 214-192. 
 
 Ces instruments financiers à terme permettent de transférer le risque de crédit lié à un instrument mentionné à l'article R.
 214-1-1, indépendamment des autres risques liés à cet instrument et respectent les critères qui suivent : 
@@ -78530,13 +78677,13 @@ compris des espèces, éligibles à l'actif d'un organisme de placement collecti
 
 	**Modifié par**:
 
-	  - Décret n°2008-726 du 22 juillet 2008 - art. 2
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. D214-192
+	  - Code monétaire et financier - art. L211-36
 	  - Code monétaire et financier - art. L214-94
-	  - Code monétaire et financier - art. L431-7
 	  - Code monétaire et financier - art. R214-1-1
 	  - Code monétaire et financier - art. R214-2
 
@@ -78581,7 +78728,7 @@ chacune des conditions suivantes :
 
 1° Ces opérations sont réalisées avec un établissement mentionné au deuxième alinéa de l'article R. 214-188 ; 
 
-2° Elles sont régies par une convention-cadre mentionnée à l'article L. 431-7 ; 
+2° Elles sont régies par une convention-cadre mentionnée aux articles L. 211-36 et L. 211-36-1 ;
 
 3° Elles doivent être prises en compte pour l'application des dispositions prévues aux articles R. 214-174 à R. 214-179, des
 règles d'exposition au risque de contrepartie définies à l'article R. 214-190 et de la règle d'engagement définie au 1° de
@@ -78594,13 +78741,17 @@ l'initiative de l'organisme.
 
 	**Modifié par**:
 
-	  - Décret n°2008-726 du 22 juillet 2008 - art. 2
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 8
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. D214-192
+	  - Code monétaire et financier - art. L211-36
 	  - Code monétaire et financier - art. L214-92
-	  - Code monétaire et financier - art. L431-7
 	  - Code monétaire et financier - art. R214-172
 	  - Code monétaire et financier - art. R214-174
 	  - Code monétaire et financier - art. R214-188
@@ -79601,7 +79752,7 @@ organisme similaire étranger, établit selon une périodicité au moins mensuel
 à la disposition du public. 
 
 II.-A des fins de couverture ou pour réaliser son objectif de gestion, la société d'investissement peut conclure des
-instruments financiers à terme mentionnés au 4 du I de l'article L. 211-1, dans les conditions prévues aux 1° et 2° du I de
+instruments financiers à terme mentionnés au III de l'article L. 211-1, dans les conditions prévues aux 1° et 2° du I de
 l'article R. 214-13.
 
 **Liens relatifs à cet article**
@@ -79614,7 +79765,7 @@ l'article R. 214-13.
 
 	**Modifié par**:
 
-	  - Décret n°2008-726 du 22 juillet 2008 - art. 3
+	  - Décret n°2009-295 du 16 mars 2009 - art. 1
 
 
 ### Titre II : Les produits d'épargne
@@ -84064,24 +84215,19 @@ mentionnés à l'article L. 424-1.
 
 ###### Article D321-2
 
-Les instruments financiers à terme mentionnés au 7 de l'article L. 321-2 sont ceux cités aux 2, 3, 4, 7 et 8 du I de
-l'article D. 211-1 A.
+Les instruments financiers à terme mentionnés au 7 de l'article L. 321-2 sont ceux cités aux 2, 3, 4, 7 et 8 de l'article D.
+211-1 A.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Décret n°2007-904 du 15 mai 2007 - art. 2 () JORF 16 mai 2007 en vigueur le 1er novembre 2007
+	  - Décret n°2009-297 du 16 mars 2009 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. D211-1 A (V)
-	  - Code monétaire et financier - art. L321-2 (M)
+	  - Code monétaire et financier - art. D211-1 A
+	  - Code monétaire et financier - art. L321-2
 
 	**Cité par**:
 
@@ -85563,238 +85709,6 @@ trente jours.
 	**Cite**:
 
 	  - Code monétaire et financier - art. L424-4 (V)
-
-
-### Titre III : Les négociations sur instruments financiers
-
-#### Chapitre Ier : Dispositions générales.
-
-##### Section 1 : Transfert de propriété des titres et mise en gage.
-
-##### Sous-section 2 : Mise en gage.
-
-###### Article D431-1
-
-La déclaration de gage d'un compte d'instruments financiers inscrits en compte auprès d'un intermédiaire habilité, un
-dépositaire central ou, le cas échéant, la personne morale émettrice doit être datée et contenir :
-
-1° La dénomination "Déclaration de gage de compte d'instruments financiers" ;
-
-2° La mention que la déclaration est soumise aux dispositions de l'article L. 431-4 ;
-
-3° Le nom ou la dénomination sociale ainsi que l'adresse du constituant et du créancier gagiste ou de leur siège social s'il
-s'agit de personnes morales ;
-
-4° Le montant de la créance garantie ou, à défaut, les éléments permettant d'assurer l'identification de cette créance ;
-
-5° Les éléments d'identification du compte spécial prévu au II de l'article L. 431-4 lorsqu'un tel compte existe ;
-
-6°  La nature et le nombre des instruments financiers inscrits initialement au compte gagé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°97-509 du 21 mai 1997 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2009-297 du 16 mars 2009 - art. 3
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. D744-3 (V)
-	  - Code monétaire et financier - art. D754-3 (V)
-	  - Code monétaire et financier - art. D764-3 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L431-4
-
-
-###### Article D431-2
-
-La mise en demeure prévue au V de l'article L. 431-4 contient, à peine de nullité, les indications suivantes :
-
-1° Faute de paiement, le gage pourra être réalisé par le créancier dans les huit jours ou à l'échéance de tout autre délai
-préalablement convenu avec le titulaire du compte gagé ;
-
-2° Le titulaire du compte gagé peut, jusqu'à l'expiration du délai mentionné ci-dessus, faire connaître au teneur de compte
-l'ordre dans lequel les sommes ou valeurs devront être attribuées en pleine propriété ou vendues, au choix du créancier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°97-509 du 21 mai 1997 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2009-297 du 16 mars 2009 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L431-4
-
-
-###### Article D431-3
-
-Dans la limite du montant de la créance garantie et, le cas échéant, dans le respect de l'ordre indiqué par le titulaire du
-compte, la réalisation du gage d'un compte d'instruments financiers prévue aux IV et V de l'article L. 431-4 intervient :
-
-1° Pour les sommes en toute monnaie figurant dans le compte gagé, directement par transfert en pleine propriété au créancier
-gagiste ;
-
-2° Pour les valeurs mobilières, françaises ou étrangères admises aux négociations sur un marché réglementé que le titulaire
-du compte gagé ou, à défaut, le créancier gagiste a désignées, par vente sur un marché réglementé ou attribution en propriété
-de la quantité déterminée par le créancier gagiste. Cette quantité est établie, par le créancier gagiste, sur la base du
-dernier cours de clôture disponible sur un marché réglementé ;
-
-3° Pour les parts ou actions d'organisme de placement collectif au sens du I de l'article L. 211-1, que le titulaire du
-compte gagé ou, à défaut, le créancier gagiste a désignées, par présentation au rachat ou attribution en propriété de la
-quantité qu'il détermine. Cette quantité est établie, par le créancier gagiste, sur la base de la dernière valorisation
-disponible desdites parts ou actions.
-
-Le titulaire du compte gagé supporte tous les frais résultant de la réalisation du gage. Ces frais sont imputés sur le
-montant résultant de cette réalisation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°97-509 du 21 mai 1997 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2009-297 du 16 mars 2009 - art. 3
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. D431-4 (Ab)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L211-1
-	  - Code monétaire et financier - art. L431-4
-
-
-###### Article D431-4
-
-Lorsque, n'étant pas le teneur de compte mentionné au II de l'article L. 431-4, le créancier gagiste a autorisé le titulaire
-du compte à disposer des instruments financiers et des sommes en toute monnaie figurant dans le compte gagé, le titulaire du
-compte et le créancier gagiste informent par écrit le teneur de compte des conditions de cette disposition. Le teneur de
-compte ne peut déroger aux instructions reçues sans l'accord du créancier gagiste.
-
-Lorsque, n'étant pas le teneur de compte mentionné au II de l'article L. 431-4, le créancier gagiste estime les conditions de
-la réalisation du gage réunies, il demande par écrit au teneur de compte de procéder à cette réalisation dans les conditions
-prévues à l'article D. 431-3. Aux frais du créancier gagiste, le teneur de compte exécute les instructions reçues.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°97-509 du 21 mai 1997 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2009-297 du 16 mars 2009 - art. 3
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. D431-3
-	  - Code monétaire et financier - art. L431-4
-
-
-###### Article D431-5
-
-Les dispositions des articles D. 431-1 à D. 431-4 ne s'appliquent pas aux nantissements portant sur des instruments
-financiers qui ne donnent pas lieu à une inscription en compte auprès d'un intermédiaire habilité, d'un dépositaire central
-ou, le cas échéant, de la personne morale émettrice. Ces nantissements demeurent soumis aux dispositions, selon le cas, des
-articles 2071 et suivants du code civil ou L. 521-1 et suivants du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°97-509 du 21 mai 1997 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2009-297 du 16 mars 2009 - art. 3
-
-	**Cite**:
-
-	  - Code civil - art. 2071
-	  - Code monétaire et financier
-
-
-#### Chapitre II : Formes particulières de cessions d'instruments financiers.
-
-##### Section 3 : Cessions temporaires
-
-##### Sous-section 2 : Pension.
-
-###### Article D432-1
-
-Les modalités de livraison mentionnées à l'article L. 432-14 sont arrêtées comme suit :
-
-1° Les valeurs, titres ou effets créés matériellement sont dits livrés si, au moment de la mise en pension, ils sont
-effectivement et physiquement délivrés au cessionnaire ou à son mandataire ; s'agissant d'effets à ordre, ils doivent être
-préalablement endossés conformément à l'article L. 511-8 du code de commerce ;
-
-2° Les valeurs, titres ou effets dématérialisés et ceux matériellement créés, conservés chez un dépositaire central, mais
-circulant par virement de compte à compte, sont dits livrés s'ils font l'objet, au moment de la mise en pension, d'une
-inscription à un compte ouvert au nom du cessionnaire chez un intermédiaire habilité, chez un dépositaire central ou, le cas
-échéant, chez l'émetteur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°94-350 du 2 mai 1994 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2009-297 du 16 mars 2009 - art. 3
-
-	**Cite**:
-
-	  - Code de commerce - art. L511-8
-	  - Code monétaire et financier - art. L432-14
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. D734-3 (Ab)
-	  - Code monétaire et financier - art. D744-3 (V)
-	  - Code monétaire et financier - art. D744-3-1 (V)
-	  - Code monétaire et financier - art. D754-3 (V)
-	  - Code monétaire et financier - art. D754-3-1 (V)
-	  - Code monétaire et financier - art. D764-3 (V)
-	  - Code monétaire et financier - art. D764-3-1 (V)
 
 
 ### Titre V : La protection des investisseurs
@@ -93857,6 +93771,8 @@ conseil portant exclusivement sur les services mentionnés au 4 de l'article L. 
 
 #### Chapitre II : Les intermédiaires et les personnes faisant appel public à l'épargne habilités en vue de l'administration ou de la conservation d'instruments financiers.
 
+#### Chapitre II : Les intermédiaires et les personnes faisant appel public à l'épargne habilités en vue de la tenue de compte-conservation d'instruments financiers.
+
 ###### Article R542-1
 
 Pour obtenir l'habilitation de teneur de compte conservateur mentionnée à l'article L. 542-1, les requérants adressent leur
@@ -96073,7 +95989,7 @@ cinq jours francs ouvrables. En l'absence de réponse de la Commission bancaire 
 favorable à l'ouverture de la procédure. 
 
 L'avis de la Commission bancaire est écrit. Il précise si la personne participe à un système et, dans ce cas, rappelle les
-dispositions du troisième alinéa du I de l'article L. 330-1. Il est transmis par tout moyen au greffier, qui le remet au
+dispositions du dernier alinéa du II de l'article L. 330-1. Il est transmis par tout moyen au greffier, qui le remet au
 président du tribunal et au procureur de la République. L'avis est versé au dossier.
 
 **Liens relatifs à cet article**
@@ -96084,11 +96000,11 @@ président du tribunal et au procureur de la République. L'avis est versé au d
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
+	  - Décret n°2009-295 du 16 mars 2009 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L330-1 (V)
+	  - Code monétaire et financier - art. L330-1
 
 	**Cité par**:
 
