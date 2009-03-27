@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-03-19
+Version Consolidée au 2009-03-28
 
 # Partie législative
 
@@ -347,15 +347,14 @@ des dispositions susmentionnées. Le débiteur et le créancier sont solidaireme
 ###### Article L112-8
 
 Les livraisons de céréales par les producteurs aux coopératives sont réglées par chèque ou virement sur un établissement de
-crédit. Les coopératives autorisent ces établissements à communiquer à l'inspection générale des finances et aux agents de
-l'Office national interprofessionnel des grandes cultures les pièces justificatives de leurs comptes.
+crédit. Les coopératives autorisent ces établissements à communiquer à l'inspection générale des finances et aux agents de l'
+établissement national des produits de l'agriculture et de la mer (FranceAgriMer) les pièces justificatives de leurs comptes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°89-936 du 29 décembre 1989 - art. 107 (Ab)
-	  - Code monétaire et financier - art. L112-9 (T)
 
 	**Codifié par**:
 
@@ -363,7 +362,7 @@ l'Office national interprofessionnel des grandes cultures les pièces justificat
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
+	  - Ordonnance n°2009-325 du 25 mars 2009 - art. 12
 
 	**Cité par**:
 
@@ -68753,7 +68752,7 @@ II. (Abrogé)
 	  - Code monétaire et financier - art. L211-1
 
 
-##### Section 2 : Règles générales applicables aux valeurs mobilières.
+##### Section 2 : Les titres financiers.
 
 ##### Sous-section 2 : Inscription en compte.
 
@@ -68940,10 +68939,6 @@ de commerce.
 	  - Code de commerce - art. R228-3
 
 
-##### Section 2 : Les titres financiers.
-
-##### Sous-section 2 : Inscription en compte.
-
 ##### Sous-section 4 : Nantissement de comptes-titres.
 
 ###### Article D211-10
@@ -69111,9 +69106,9 @@ dépositaire central ou, le cas échéant, chez l'émetteur.
 	  - Code monétaire et financier - art. L211-3
 
 
-#### Chapitre II : Titres de capital et titres donnant accès au capital.
+#### Chapitre II : Titres de capital.
 
-##### Section 1 : Les titres de capital
+##### Section 1 : Les actions.
 
 ##### Sous-section 3 : Actions de préférence.
 
@@ -69177,7 +69172,26 @@ Les règles relatives aux certificats d'investissements sont définies par les a
 	  - Code de commerce - art. R228-33 (V)
 
 
-##### Section 2 : Les titres donnant accès au capital.
+##### Section 2 : Les autres titres donnant ou pouvant donner accès au capital ou aux droits de vote.
+
+###### Article R212-4
+
+Les règles relatives aux titres donnant accès au capital sont définies par les articles R. 228-87 à 95 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de commerce - art. R228-87 (V)
+
 
 ##### Section 3 : Régimes particuliers d'accès au capital en faveur du personnel salarié.
 
@@ -69266,37 +69280,6 @@ du code de commerce.
 
 	  - Code de commerce - art. R225-137 (V)
 
-
-#### Chapitre II : Titres de capital.
-
-##### Section 1 : Les actions.
-
-##### Sous-section 3 : Actions de préférence.
-
-##### Sous-section 4 : Dispositions applicables aux catégories de titres en voie d'extinction.
-
-##### Section 2 : Les autres titres donnant ou pouvant donner accès au capital ou aux droits de vote.
-
-###### Article R212-4
-
-Les règles relatives aux titres donnant accès au capital sont définies par les articles R. 228-87 à 95 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
-
-	**Cite**:
-
-	  - Code de commerce - art. R228-87 (V)
-
-
-##### Section 3 : Régimes particuliers d'accès au capital en faveur du personnel salarié.
 
 #### Chapitre III : Titres de créance.
 
@@ -93768,8 +93751,6 @@ conseil portant exclusivement sur les services mentionnés au 4 de l'article L. 
 	  - Code monétaire et financier - art. L541-1 (V)
 	  - Code monétaire et financier - art. L541-3 (V)
 
-
-#### Chapitre II : Les intermédiaires et les personnes faisant appel public à l'épargne habilités en vue de l'administration ou de la conservation d'instruments financiers.
 
 #### Chapitre II : Les intermédiaires et les personnes faisant appel public à l'épargne habilités en vue de la tenue de compte-conservation d'instruments financiers.
 
