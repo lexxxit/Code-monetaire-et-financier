@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-04-01
+Version Consolidée au 2009-04-01 00:00:01 +0200
 
 # Partie législative
 
@@ -25757,64 +25757,6 @@ La saisie et la confiscation des matières mentionnées aux articles L. 342-1 à
 
 ## Livre IV : Les marchés
 
-### Titre Ier : L'appel public à l'épargne
-
-#### Chapitre II : Conditions de l'appel public à l'épargne
-
-##### Section 2 : Interdictions et sanctions
-
-###### Article L412-2
-
-Les interdictions d'émettre des valeurs mobilières, de procéder à une offre au public de titres financiers ou de faire
-admettre des titres sur un marché réglementé sont édictées par les articles L. 223-11, L. 227-2, et le premier alinéa des
-articles L. 228-39 et L. 252-10 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 1
-
-	**Cite**:
-
-	  - Code de commerce - art. L223-11
-	  - Code de commerce - art. L227-2
-	  - Code de commerce - art. L228-39
-	  - Code de commerce - art. L252-10
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L412-3 (V)
-	  - Code monétaire et financier - art. L734-2 (V)
-	  - Code monétaire et financier - art. L744-2 (V)
-	  - Code monétaire et financier - art. L754-2 (V)
-	  - Code monétaire et financier - art. L764-2 (V)
-
-
-###### Article L412-3
-
-Les manquements aux interdictions édictées aux articles du code de commerce cités à l'article L. 412-2 sont sanctionnés par
-la nullité des contrats conclus ou des titres financiers émis.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L412-2 (V)
-
-
 ### Titre Ier : Opérations
 
 #### Chapitre Ier : Définitions et champ d'application
@@ -26127,6 +26069,58 @@ règles ne sont applicables qu'à certains marchés d'instruments financiers, à
 
 
 ##### Section 2 : Interdictions et sanctions
+
+###### Article L412-2
+
+Les interdictions d'émettre des valeurs mobilières, de procéder à une offre au public de titres financiers ou de faire
+admettre des titres sur un marché réglementé sont édictées par les articles L. 223-11, L. 227-2, et le premier alinéa des
+articles L. 228-39 et L. 252-10 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L223-11
+	  - Code de commerce - art. L227-2
+	  - Code de commerce - art. L228-39
+	  - Code de commerce - art. L252-10
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L412-3 (V)
+	  - Code monétaire et financier - art. L734-2 (V)
+	  - Code monétaire et financier - art. L744-2 (V)
+	  - Code monétaire et financier - art. L754-2 (V)
+	  - Code monétaire et financier - art. L764-2 (V)
+
+
+###### Article L412-3
+
+Les manquements aux interdictions édictées aux articles du code de commerce cités à l'article L. 412-2 sont sanctionnés par
+la nullité des contrats conclus ou des titres financiers émis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L412-2 (V)
+
 
 ### Titre II : Les plates-formes de négociation
 
@@ -52250,7 +52244,7 @@ contrats types d'opérations sur instruments financiers.
 ###### Article L621-18-2
 
 I-Sont communiqués par les personnes mentionnées aux a à c à l'Autorité des marchés financiers, et rendus publics par cette
-dernière dans le délai déterminé par son règlement général, les acquisitions, cessions, souscriptions ou échanges de actions
+dernière dans le délai déterminé par son règlement général, les acquisitions, cessions, souscriptions ou échanges d'actions
 d'une société ainsi que les transactions opérées sur des instruments financiers qui leur sont liés, lorsque ces opérations
 sont réalisées par : 
 
@@ -52299,7 +52293,7 @@ d'instruments financiers ne constituant pas un marché réglementé, lorsque la 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 6
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 	**Cite**:
 
