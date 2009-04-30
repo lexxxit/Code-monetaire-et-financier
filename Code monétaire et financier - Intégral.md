@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-04-01 00:00:01 +0200
+Version Consolidée au 2009-05-01
 
 # Partie législative
 
@@ -73259,21 +73259,21 @@ libéré des souscriptions dans le fonds.
 
 Par dérogation aux dispositions du sixième alinéa de l'article L. 214-4 et au I de l'article R. 214-6, les fonds communs de
 placement d'entreprise et sociétés d'investissement à capital variable d'actionnariat salarié peuvent détenir sans limitation
-des valeurs mobilières émises par l'entreprise ou par une entreprise liée au sens du second alinéa de l'article L. 444-3 du
-code du travail.
+des valeurs mobilières émises par l'entreprise ou par une entreprise liée au sens des articles L. 3344-1 et L. 3344-2 du code
+du travail.
 
 S'agissant des parts de sociétés à responsabilité limitée émises par une entreprise régie par la loi n° 47-1775 du 10
 septembre 1947 portant statut de la coopération, la limite de 10 % prévue au I de l'article R. 214-6 est portée à 50 % à
 condition que les statuts de cette entreprise ne prévoient pas de restriction au rachat immédiat des parts sociales détenues
-par le fonds.
+par le fonds. 
 
 Par dérogation au huitième alinéa de l'article L. 214-4, les fonds communs de placement d'entreprise et sociétés
 d'investissement à capital variable d'actionnariat salarié peuvent détenir plus de 10 % des titres émis par l'entreprise ou
-par toute autre entreprise qui lui est liée au sens du second alinéa de l'article L. 444-3 du code du travail.
+par toute autre entreprise qui lui est liée au sens des articles L. 3344-1 et L. 3344-2 du code du travail. 
 
 Le montant cumulé des liquidités constatées lors de l'établissement de chacune des valeurs liquidatives de l'année en cours
-ne peut excéder le cinquième de la somme des actifs nets de la même période. L'Autorité des marchés financiers peut apporter
-à cette règle des dérogations exceptionnelles.
+ne peut excéder le cinquième de la somme des actifs nets de la même période.L'Autorité des marchés financiers peut apporter à
+cette règle des dérogations exceptionnelles. 
 
 Lorsque la proportion de l'actif d'un fonds commun de placement d'entreprise ou d'une société d'investissement à capital
 variable d'actionnariat salarié régis par les articles L. 214-40 et L. 214-40-1 investie en titres de l'entreprise ou de
@@ -73290,46 +73290,42 @@ cette situation dans les plus brefs délais, tout en tenant compte de l'intérê
 	  - Code monétaire et financier - art. L214-40 (M)
 	  - Code monétaire et financier - art. L214-40-1 (M)
 	  - Code monétaire et financier - art. R214-6 (M)
-	  - Code du travail - art. L444-3 (M)
+	  - Code du travail - art. L3344-1 (V)
+	  - Code du travail - art. L3344-2 (V)
 
 	**Anciens textes**:
 
-	  - Décret n°89-623 du 6 septembre 1989 - art. 7 (M)
 	  - Décret n°89-623 du 6 septembre 1989 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - 
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 
 ###### Article R214-52
 
 L'Autorité des marchés financiers peut demander que lui soient transmis les éléments lui permettant de s'assurer qu'est
-offerte aux adhérents du plan au moins une possibilité de placement respectant les conditions prévues à l'article L. 443-4 du
-code du travail.
+offerte aux adhérents du plan au moins une possibilité de placement respectant les conditions prévues à l'article L. 3332-17
+du code du travail. 
 
-Sont considérées comme liquides au sens de l'article L. 443-4 du code du travail :
+Sont considérées comme liquides au sens de l'article L. 3332-17 du code du travail : 
 
-1° Les valeurs mobilières qui sont admises aux négociations sur un marché réglementé français ou étranger ;
+1° Les valeurs mobilières qui sont admises aux négociations sur un marché réglementé français ou étranger ; 
 
 2° Les actions ou parts d'organismes de placement collectif en valeurs mobilières à vocation générale relevant des sous-
-sections 1 à 4 de la présente section.
+sections 1 à 4 de la présente section. 
 
 Le mécanisme garantissant la liquidité des titres non admis aux négociations sur un marché réglementé qui est prévu à
-l'article L. 443-4 du code du travail doit offrir une liquidité au moins équivalente à celle dont bénéficierait le fonds s'il
-détenait au moins un tiers de titres liquides. Il doit faire l'objet d'un contrat écrit annexé au règlement du fonds, qui
-précise notamment les modalités de son intervention et les frais qui peuvent être, le cas échéant, imputés sur l'actif du
-fonds.
+l'article L. 3332-17 du code du travail doit offrir une liquidité au moins équivalente à celle dont bénéficierait le fonds
+s'il détenait au moins un tiers de titres liquides. Il doit faire l'objet d'un contrat écrit annexé au règlement du fonds,
+qui précise notamment les modalités de son intervention et les frais qui peuvent être, le cas échéant, imputés sur l'actif du
+fonds. 
 
 Il peut être dénoncé à tout moment à l'initiative de la société de gestion ou du conseil de surveillance à condition d'être
-remplacé par des dispositions d'effet équivalent.
+remplacé par des dispositions d'effet équivalent. 
 
 Ce mécanisme est assuré par un établissement de crédit ou une entreprise d'assurance dont le siège social est situé dans un
-Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen.
+Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen. 
 
 Il peut être également assuré par une autre entité dans des conditions fixées par un règlement de l'Autorité des marchés
 financiers lorsque le capital de l'entreprise est variable ou lorsque l'entreprise établit des comptes consolidés ; en ce
@@ -73340,12 +73336,11 @@ des marchés financiers.
 
 	**Anciens textes**:
 
-	  - Décret n°89-623 1989-09-06 art 7 bis
 	  - Décret n°89-623 du 6 septembre 1989 - art. 7 bis (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 	**Cité par**:
 
@@ -73353,11 +73348,7 @@ des marchés financiers.
 
 	**Cite**:
 
-	  - Code du travail - art. L443-4 (Ab)
-
-	**Modifié par**:
-
-	  - 
+	  - Code du travail - art. L3332-17 (V)
 
 
 ###### Article R214-53
@@ -73470,15 +73461,16 @@ et les modalités de désignation de leurs membres sont fixées dans les conditi
 L'actif des fonds communs de placement d'entreprise régis par les articles L. 214-39 et L. 214-40 peut comprendre des parts
 de sociétés anonymes à responsabilité limitée émises par les entreprises régies par la loi n° 47-1775 du 10 septembre 1947
 portant statut de la coopération lorsque ces fonds sont souscrits par les salariés desdites entreprises ou par les salariés
-d'entreprises qui lui sont liées au sens du second alinéa de l'article L. 444-3 du code du travail.
+d'entreprises qui lui sont liées au sens du second alinéa de l'article L. 3344-1 et de l'article L. 3344-2 du code du
+travail. 
 
 Le règlement des fonds communs de placement d'entreprise peut prévoir qu'ils peuvent investir dans la limite de 10 % dans les
 actifs mentionnés à l'article R. 214-5 du présent code, à l'exception de ceux de ces fonds qui sont constitués en vue de
-gérer des titres émis par l'entreprise ou par toute autre société qui lui est liée au sens du second alinéa de l'article L.
-444-3 du code du travail et qui ne sont pas admis aux négociations sur un marché réglementé tel que défini à l'article L.
-421-3 du présent code. Cette limite est portée à 30 % pour les actions ou parts d'organismes de placement collectif en
-valeurs mobilières régis par les sous-sections 10 et 12 de la présente section, conformément à l'article L. 443-4 du code du
-travail.
+gérer des titres émis par l'entreprise ou par toute autre société qui lui est liée au sens du second alinéa des articles L.
+3344-1 et L. 3344-2 du code du travail et qui ne sont pas admis aux négociations sur un marché réglementé tel que défini à
+l'article L. 421-3 du présent code. Cette limite est portée à 30 % pour les actions ou parts d'organismes de placement
+collectif en valeurs mobilières régis par les sous-sections 10 et 12 de la présente section, conformément à l'article L.
+3332-17 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -73489,21 +73481,17 @@ travail.
 	  - Code monétaire et financier - art. L214-40 (M)
 	  - Code monétaire et financier - art. L421-3 (M)
 	  - Code monétaire et financier - art. R214-5 (V)
-	  - Code du travail - art. L443-4 (Ab)
-	  - Code du travail - art. L444-3 (M)
+	  - Code du travail - art. L3332-17 (V)
+	  - Code du travail - art. L3344-1 (V)
+	  - Code du travail - art. L3344-2 (V)
 
 	**Anciens textes**:
 
-	  - Décret n°89-623 du 6 septembre 1989 - art. 6 (M)
 	  - Décret n°89-623 du 6 septembre 1989 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - 
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 
 ##### Paragraphe 3 : Dispositions particulières aux sociétés d'investissement à capital variable d'actionnariat salarié.
@@ -82320,18 +82308,25 @@ documents.
 
 ###### Article R222-1
 
-Les articles R. 443-1 à R. 443-14 du code du travail déterminent les modalités d'application des règles relatives au plan
+Les articles R. 3332-1 à D. 3335-3 du code du travail déterminent les modalités d'application des règles relatives au plan
 d'épargne d'entreprise, fixées par les articles L. 443-1 à L. 443-8 de ce code.
+
+**Nota:**
+
+Aux termes de l'ordonnance n° 2007-329 du 12 mars 2007 relative au code du travail, les dispositions des articles L. 443-1 à
+L. 443-8 de l'ancien code du travail sont remplacées par les dispositions des articles L3332-1 à L3332-8, L3332-10 à
+L3332-27, L3333-1 à L3333-7, L3334-1 à L3334-16, R3332-4, R3332-8, R3334-2 du nouveau code du travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - 
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. D3335-3 (V)
+	  - Code du travail - art. R3332-1 (V)
 
 
 ### Titre III : Dispositions pénales
@@ -97857,18 +97852,18 @@ règles de publicité et de mise en concurrence.
 Pour l'application des dispositions du IX de l'article L. 621-7, une recommandation d'investissement s'entend de toute étude,
 information ou opinion, produite dans un cadre professionnel et destinée à être rendue publique, recommandant ou suggérant
 une stratégie d'investissement relative à une personne faisant appel public à l'épargne ou aux instruments financiers qu'elle
-émet.
+émet. 
 
-Constituent des recommandations d'investissement :
+Constituent des recommandations d'investissement : 
 
 1° L'ensemble des études, informations ou opinions mentionnées au premier alinéa qui recommandent ou suggèrent, directement
 ou indirectement, une stratégie d'investissement lorsqu'elles sont produites par une entreprise d'investissement, un
 établissement de crédit, toute autre personne dont l'activité professionnelle principale est de produire de telles études,
-informations ou opinions, ou les personnes physiques travaillant pour leur compte ;
+informations ou opinions, ou les personnes physiques travaillant pour leur compte ; 
 
 2° L'ensemble des études, informations ou opinions mentionnées au premier alinéa lorsqu'elles sont produites par toute autre
-personne que celles mentionnées au 1°, notamment par un journaliste professionnel au sens de l'article L. 761-2 du code du
-travail et qui recommandent directement une stratégie d'investissement.
+personne que celles mentionnées au 1°, notamment par un journaliste professionnel au sens des articles L. 7111-3 et 4 et L.
+7112-1 du code du travail et qui recommandent directement une stratégie d'investissement. 
 
 Une recommandation directe d'une stratégie d'investissement s'entend d'une indication explicite de la décision
 d'investissement recommandée, telle que la décision d'acheter, de conserver ou de vendre. Une recommandation indirecte d'une
@@ -97877,56 +97872,43 @@ de cours, à l'évolution de la situation d'un émetteur ou de toute autre mani�
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Décret n°2006-256 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
-
 	**Cité par**:
 
-	  - Décret n°2007-1367 du 19 septembre 2007 - art. 1 (V)
 	  - Arrêté du 12 novembre 2004 - art. 313-25 (V)
 	  - Arrêté du 12 novembre 2004 - art. 318-16 (V)
 	  - Arrêté du 12 novembre 2004 - art. 329-1 (V)
 	  - Arrêté du 12 novembre 2004 - art. 339-1 (V)
+	  - Décret n°2007-1367 du 19 septembre 2007 - art. 1 (V)
 	  - Code monétaire et financier - art. R621-30-2 (V)
 	  - Code monétaire et financier - art. R621-30-3 (V)
 	  - Code monétaire et financier - art. R746-9 (VD)
 	  - Code monétaire et financier - art. R756-4 (VD)
 	  - Code monétaire et financier - art. R766-4 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+
 	**Cite**:
 
 	  - Code monétaire et financier - art. L621-7 (M)
-	  - Code du travail - art. L761-2 (M)
-
-	**Modifié par**:
-
-	  - 
+	  - Code du travail - art. L7111-3 (V)
+	  - Code du travail - art. L7112-1 (V)
 
 
 ###### Article R621-30-2
 
 Ne constituent pas la production de recommandations d'investissement au sens du 2° de l'article R. 621-30-1 toutes les autres
-formes du travail d'un journaliste professionnel, au sens de l'article L. 761-2 du code du travail, qui consistent à produire
-ou diffuser des informations de presse portant sur une personne faisant appel public à l'épargne, sur les instruments
-financiers qu'elle émet ou sur une recommandation d'investissement produite par un tiers sans en modifier la substance, et
-même si cette recommandation n'a pas encore été rendue publique.
+formes du travail d'un journaliste professionnel, au sens des articles L. 7111-3 et 4 et L. 7112-1 du code du travail, qui
+consistent à produire ou diffuser des informations de presse portant sur une personne faisant appel public à l'épargne, sur
+les instruments financiers qu'elle émet ou sur une recommandation d'investissement produite par un tiers sans en modifier la
+substance, et même si cette recommandation n'a pas encore été rendue publique.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Décret n°2006-256 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 	**Cité par**:
 
@@ -97935,36 +97917,28 @@ même si cette recommandation n'a pas encore été rendue publique.
 	**Cite**:
 
 	  - Code monétaire et financier - art. R621-30-1 (V)
-	  - Code du travail - art. L761-2 (M)
-
-	**Modifié par**:
-
-	  - 
+	  - Code du travail - art. L7111-3 (V)
+	  - Code du travail - art. L7112-1 (V)
 
 
 ###### Article R621-30-3
 
 Pour l'application des dispositions du IX de l'article L. 621-7, on entend par diffusion d'une recommandation
 d'investissement le fait pour toute personne de diffuser, dans le cadre de sa profession, une recommandation d'investissement
-directe ou indirecte au sens de l'article R. 621-30-1.
+directe ou indirecte au sens de l'article R. 621-30-1. 
 
 Ne constitue pas la diffusion d'une recommandation d'investissement le fait pour tout média de diffuser une information de
-presse, élaborée par un journaliste professionnel au sens de l'article L. 761-2 du code du travail, portant sur une personne
-faisant appel public à l'épargne, sur les instruments financiers qu'elle émet ou sur une recommandation d'investissement
-produite par un tiers ou sur son résumé, même lorsqu'elle n'a pas encore été rendue publique dès lors que cette information
-de presse n'apporte aucune modification substantielle de la recommandation dont elle rend compte, notamment au sens de celle-
-ci.
+presse, élaborée par un journaliste professionnel au sens des articles L. 7111-3, L. 7111-4 et L. 7112-1 du code du travail,
+portant sur une personne faisant appel public à l'épargne, sur les instruments financiers qu'elle émet ou sur une
+recommandation d'investissement produite par un tiers ou sur son résumé, même lorsqu'elle n'a pas encore été rendue publique
+dès lors que cette information de presse n'apporte aucune modification substantielle de la recommandation dont elle rend
+compte, notamment au sens de celle-ci.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Décret n°2006-256 du 2 mars 2006 - art. 1 () JORF 5 mars 2006
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 	**Cité par**:
 
@@ -97974,11 +97948,9 @@ ci.
 
 	  - Code monétaire et financier - art. L621-7 (M)
 	  - Code monétaire et financier - art. R621-30-1 (V)
-	  - Code du travail - art. L761-2 (M)
-
-	**Modifié par**:
-
-	  - 
+	  - Code du travail - art. L7111-3 (V)
+	  - Code du travail - art. L7111-4 (V)
+	  - Code du travail - art. L7112-1 (V)
 
 
 ###### Article R621-30-4
