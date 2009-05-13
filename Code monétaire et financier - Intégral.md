@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-05-01
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -6281,14 +6281,9 @@ infractions prévues par le troisième alinéa de l'article L. 163-2 et les prem
 
 ###### Article L163-10-1
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
-pénal des infractions définies aux articles L. 163-2 à L. 163-4-1, L. 163-7 et L. 163-10.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées à l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 163-2 à L. 163-4-1, L. 163-7 et L. 163-10 encourent, outre l'amende suivant les
+modalités prévues par l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise.
@@ -6299,18 +6294,19 @@ l'exercice de laquelle l'infraction a été commise.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 44 () JORF 16 novembre 2001
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
-	  - Code monétaire et financier - art. L163-10 (M)
-	  - Code monétaire et financier - art. L163-7 (M)
-	  - Code monétaire et financier L163-2 à L163-4-1, L163-7, L163-10
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L163-10
+	  - Code monétaire et financier - art. L163-2 (V)
+	  - Code monétaire et financier - art. L163-7
 
 
 ###### Article L163-11
@@ -7833,7 +7829,7 @@ Les dettes et créances relatives à ces garanties et celles afférentes à ces 
 au I de l'article L. 211-36-1. 
 
 II. ― Lorsque les garanties mentionnées au I sont relatives aux obligations financières mentionnées aux 2° et 3° de l'article
-L. 211-36-1 : 
+L. 211-36 : 
 
 1° La constitution de telles garanties et leur opposabilité ne sont subordonnées à aucune formalité. Elles résultent du
 transfert des biens et droits en cause, de la dépossession du constituant ou de leur contrôle par le bénéficiaire ou par une
@@ -7871,9 +7867,9 @@ d'exécution ou de l'exercice d'un droit d'opposition est réputée être interv
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 	**Cité par**:
 
@@ -9738,7 +9734,7 @@ Un organisme de placement collectif en valeurs mobilières peut procéder à des
 d'espèces dans la limite d'une fraction de ses actifs.S'agissant des emprunts d'espèces, cette limite ne peut être supérieure
 à 10 % des actifs. 
 
-Un organisme de placement collectif en titres financiers ne peut détenir plus de 10 % d'une même catégorie de titres
+Un organisme de placement collectif en valeurs mobilières ne peut détenir plus de 10 % d'une même catégorie de titres
 financiers d'un même émetteur. Un décret en Conseil d'Etat fixe les catégories de titres financiers ainsi que les conditions
 dans lesquelles il peut être dérogé à cette limite. Ce seuil est porté à 25 % lorsque l'émetteur est une entreprise solidaire
 mentionnée à l'article L. 3332-17-1 du code du travail.
@@ -9811,23 +9807,23 @@ mentionnée à l'article L. 3332-17-1 du code du travail.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L211-1
-	  - Code du travail - art. L3332-17-1
+	  - Code monétaire et financier - art. L211-1 (V)
+	  - Code du travail - art. L3332-17-1 (V)
 
 
 ###### Article L214-5
 
-Les parts de fonds communs de créances ne peuvent être détenues au delà d'un pourcentage fixé par décret :
+Les parts d'organismes de titrisation ne peuvent être détenues au delà d'un pourcentage fixé par décret : 
 
 1. Par un fonds commun de placement dont la société de gestion est placée sous le contrôle, au sens de l'article L. 233-3 du
-code de commerce, d'un établissement de crédit ayant cédé des créances au fonds ;
+code de commerce, d'un établissement de crédit ayant cédé des créances à l'organisme ; 
 
 2. Par une SICAV dont les dirigeants sociaux et dirigeants titulaires d'un contrat de travail dépendent d'un établissement de
-crédit ayant cédé des créances au fonds.
+crédit ayant cédé des créances à l'organisme.
 
 **Liens relatifs à cet article**
 
@@ -9848,9 +9844,13 @@ crédit ayant cédé des créances au fonds.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
 	**Cite**:
 
-	  - Code de commerce. - art. L233-3 (M)
+	  - Code de commerce - art. L233-3
 
 
 ###### Article L214-6
@@ -25375,25 +25375,21 @@ qui sont faites à ce dernier article sont remplacées par des références fait
 
 Est puni d'une amende fiscale de 75 euros le fait de méconnaître l'une des obligations mentionnées aux deuxième, troisième,
 quatrième et cinquième alinéas du I de l'article L. 312-1-1. Cette amende est prononcée et recouvrée suivant les règles
-applicables à la taxe sur la valeur ajoutée. Le contentieux est suivi par l'administration qui a constaté l'infraction.
+applicables à la taxe sur la valeur ajoutée. Le contentieux est suivi par l'administration qui a constaté l'infraction. 
 
 Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait de méconnaître l'une des
 obligations mentionnées aux premier, sixième et septième alinéas du I de l'article L. 312-1-1 ou l'une des interdictions
-édictées au I de l'article L. 312-1-2.
-
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
-pénal des infractions définies à l'alinéa précédent. Les peines encourues par les personnes morales sont l'amende, suivant
-les modalités prévues par l'article 131-38 du code pénal.
+édictées au I de l'article L. 312-1-2. 
 
 Avant d'engager l'action publique tendant à l'application de la sanction pénale prévue au présent article, le parquet peut
 saisir pour avis le comité de la médiation bancaire s'il l'estime nécessaire, mentionné au II de l'article L. 312-1-3. En cas
 de dépôt d'une plainte avec constitution de partie civile portant sur des infractions aux dispositions mentionnées au premier
 alinéa, le procureur de la République peut, avant de prendre ses réquisitions, saisir pour avis le comité de la médiation
-bancaire. Les réquisitions sont transmises au juge d'instruction après avis du comité.
+bancaire. Les réquisitions sont transmises au juge d'instruction après avis du comité. 
 
 En cas de citation directe à l'audience du tribunal correctionnel par la victime pour les infractions visées à l'alinéa
 précédent, le président peut, avant tout examen au fond, saisir le comité de la médiation bancaire pour avis. Cet avis est
-transmis aux parties et au tribunal par le comité et versé au dossier.
+transmis aux parties et au tribunal par le comité et versé au dossier. 
 
 Le comité de la médiation bancaire se prononce dans un délai de six semaines au plus tard après la réception de la demande
 d'avis. Dans son avis, il apprécie notamment la gravité des faits ainsi que leur éventuel caractère répétitif.
@@ -25434,15 +25430,15 @@ d'avis. Dans son avis, il apprécie notamment la gravité des faits ainsi que le
 
 	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 106 () JORF 31 décembre 2004
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code monétaire et financier - art. L312-1-1 (M)
-	  - Code monétaire et financier - art. L312-1-2 (M)
-	  - Code monétaire et financier - art. L312-1-3 (M)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code monétaire et financier - art. L312-1-1 (VT)
+	  - Code monétaire et financier - art. L312-1-2
+	  - Code monétaire et financier - art. L312-1-3 (VT)
 
 
 #### Chapitre II : Infractions relatives au fonds de garantie des déposants
@@ -25639,14 +25635,9 @@ pour une durée de cinq ans au plus ;
 
 ###### Article L353-4
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies aux articles L. 353-1 et L. 353-2.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées à l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 353-1 et L. 353-2 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de ce même article porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
@@ -25664,7 +25655,6 @@ laquelle l'infraction a été commise.
 
 	**Anciens textes**:
 
-	  - Loi n°72-6 du 3 janvier 1972 - art. 10 (M)
 	  - Loi n°72-6 du 3 janvier 1972 - art. 10 (Ab)
 
 	**Codifié par**:
@@ -25673,15 +25663,14 @@ laquelle l'infraction a été commise.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 53 () JORF 2 août 2003
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
-	  - Code monétaire et financier - art. L353-1 (M)
-	  - Code monétaire et financier - art. L353-2 (M)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+	  - Code monétaire et financier - art. L353-1 (V)
 
 
 ###### Article L353-5
@@ -29354,14 +29343,9 @@ sur un marché réglementé, de nature à agir sur les cours.
 
 ###### Article L465-3
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies aux articles L. 465-1 et L. 465-2.
-
-Les peines encourues par les personnes morales sont :
-
-1. L'amende suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2. Les peines mentionnées à l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 465-1 et L. 465-2 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal, les peines prévues par l'article 131-39 du même code. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise.
@@ -29376,12 +29360,16 @@ l'exercice de laquelle l'infraction a été commise.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
-	  - Code monétaire et financier - art. L465-1 (M)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+	  - Code monétaire et financier - art. L465-1 (V)
 
 	**Cité par**:
 
@@ -44720,9 +44708,9 @@ articles L. 518-4 à L. 518-10.
 Pour la mise en œuvre du b du 1° du présent article, les articles L. 571-4, L. 613-20-1 et L. 613-20-2 sont applicables au
 groupe de la Caisse des dépôts et consignations et à ses dirigeants ; 
 
-2° Par l'Autorité des marchés financiers sur les organismes de placement collectif mentionnés au I de l'article L. 214-1, sur
-les sociétés de gestions de portefeuille mentionnées à l'article L. 532-9, sur les dépositaires centraux et les gestionnaires
-de systèmes de règlement et de livraison d'instruments financiers et sur les conseillers en investissements financiers ; 
+2° Par l'Autorité des marchés financiers sur les sociétés de gestion et les sociétés de gestion de portefeuille, au titre de
+leurs activités mentionnées au 6° de l'article L. 561-2, sur les dépositaires centraux et les gestionnaires de systèmes de
+règlement et de livraison d'instruments financiers et sur les conseillers en investissements financiers ; 
 
 3° Par l'Autorité de contrôle des assurances et mutuelles sur les organismes et les personnes qui lui sont soumis en vertu de
 l'article L. 310-12 du code des assurances ; 
@@ -44771,7 +44759,16 @@ nécessaire à l'exercice de leur mission.
 
 Les inspecteurs peuvent également obtenir des administrations de l'Etat, des collectivités territoriales, des établissements
 publics, des organismes mentionnés à l'article L. 134-1 du code des juridictions financières et de tout autre organisme ou
-personne chargé d'une mission de service public toutes les informations nécessaires à l'accomplissement de leur mission.
+personne chargé d'une mission de service public toutes les informations nécessaires à l'accomplissement de leur mission. 
+
+III.-Lorsque, par suite soit d'un grave défaut de vigilance, soit d'une carence dans l'organisation de ses procédures
+internes de contrôle, une personne mentionnée aux 1° à 7° et 11° à 14° de l'article L. 561-2 a omis de respecter les
+obligations découlant du présent titre, l'autorité de contrôle engage une procédure sur le fondement des règlements
+professionnels ou administratifs et en avise le procureur de la République. 
+
+Par dérogation, pour les avocats au Conseil d'Etat et à la Cour de cassation, les avocats et les avoués près les cours
+d'appel, cet avis est adressé, selon le cas, au procureur général près la Cour de cassation ou au procureur général près la
+cour d'appel.
 
 **Liens relatifs à cet article**
 
@@ -44837,9 +44834,9 @@ personne chargé d'une mission de service public toutes les informations nécess
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+	  - Loi n°2009-526 du 12 mai 2009 - art. 140 (V)
 
 
 ##### Sous-section 2 : La Commission nationale des sanctions
@@ -44987,7 +44984,19 @@ administratives mentionnées au II de l'article L. 561-36 et notifie les griefs 
 s'agissant d'une personne morale, à son responsable légal. 
 
 Le cas échéant, ces griefs sont également notifiés à l'organisme central auquel est affiliée la personne en cause et portés à
-la connaissance de l'association professionnelle à laquelle elle adhère.
+la connaissance de l'association professionnelle à laquelle elle adhère. 
+
+Lorsque, par suite soit d'un grave défaut de vigilance, soit d'une carence dans l'organisation de ses procédures internes de
+contrôle, une personne mentionnée aux 8°, 9° et 15° de l'article L. 561-2 a omis de respecter les obligations découlant du
+présent titre, la Commission nationale des sanctions engage une procédure disciplinaire et en avise le procureur de la
+République.
+
+**Nota:**
+
+Conformément à la décision n° 2016-616/617 QPC du 9 mars 2017 (NOR: CSCX1707927S), article 1 : L'article L. 561-41 du code
+monétaire et financier, dans  sa rédaction issue de la loi n° 2009-526 du 12 mai 2009 de simplification et de clarification
+du droit et d'allègement des procédures, est contraire à la Constitution. La déclaration d'inconstitutionnalité de l'article
+1er prend effet dans les conditions prévues au paragraphe 13 de cette décision (11 mars 2017).
 
 **Liens relatifs à cet article**
 
@@ -44995,12 +45004,13 @@ la connaissance de l'association professionnelle à laquelle elle adhère.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 2
+	  - Loi n°2009-526 du 12 mai 2009 - art. 140 (V)
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L561-2 (V)
 	  - Code monétaire et financier - art. L561-36
 
 	**Cité par**:
@@ -45875,14 +45885,9 @@ l'article L. 570-1. Est puni des mêmes peines l'employeur ayant agi en connaiss
 
 ###### Article L571-1
 
-Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies aux articles L. 571-3, L. 571-4, L. 571-6 à L. 571-9, L. 571-14 et L. 571-16.
-
-Les peines encourues par les personnes morales sont :
-
-1. L'amende suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2. Les peines mentionnées à l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 571-3, L. 571-4, L. 571-6 à L. 571-9, L. 571-14 et L. 571-16 encourent, outre l'amende
+suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise.
@@ -45897,16 +45902,19 @@ l'exercice de laquelle l'infraction a été commise.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
-	  - Code monétaire et financier - art. L571-14 (M)
-	  - Code monétaire et financier - art. L571-16 (M)
-	  - Code monétaire et financier - art. L571-3 (M)
-	  - Code monétaire et financier - art. L571-4 (M)
-	  - Code monétaire et financier L571-3, L571-4, L571-6 à L571-9, L571-14, L571-16
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+	  - Code monétaire et financier - art. L571-14 (V)
+	  - Code monétaire et financier - art. L571-16 (V)
+	  - Code monétaire et financier - art. L571-3 (V)
+	  - Code monétaire et financier - art. L571-6 (V)
 
 	**Cité par**:
 
@@ -46748,14 +46756,9 @@ comptes de l'entreprise sous une forme consolidée est puni de 15 000 euros d'am
 
 ###### Article L573-7
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies aux articles L. 573-1 à L. 573-6.
-
-Les peines encourues par les personnes morales sont :
-
-1. L'amende suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2. Les peines mentionnées à l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 573-1 à L. 573-6 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal, les peines prévues par l'article 131-39 du même code. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise.
@@ -46772,8 +46775,14 @@ l'exercice de laquelle l'infraction a été commise.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 57 I 1°, 2° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 57 () JORF 2 août 2003
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+	  - Code monétaire et financier - art. L573-1 (V)
 
 	**Cité par**:
 
@@ -46900,14 +46909,9 @@ pour une durée de cinq ans au plus ;
 
 ###### Article L573-11
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies à l'article L. 573-9.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées à l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies à l'article L. 573-9 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
+code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de ce même article porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
 laquelle l'infraction a été commise.
@@ -46918,16 +46922,16 @@ laquelle l'infraction a été commise.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 57 () JORF 2 août 2003
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
-	  - Code monétaire et financier - art. L573-9 (M)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+	  - Code monétaire et financier - art. L573-9 (V)
 
 
 #### Chapitre IV : Dispositions relatives à la lutte contre le blanchiment de capitaux et le financement des activités terroristes
@@ -55834,7 +55838,7 @@ Miquelon.
 
 ###### Article L724-1
 
-Les articles L. 432-6 à L. 432-19 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+Les articles L. 211-22 à L. 211-33 ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 **Nota:**
 
@@ -55848,11 +55852,12 @@ les articles L. 432-8 et L. 432-16 ont été abrogés par l'article 38 2° de la
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 86 () JORF 7 mai 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier L432-6 à L432-19
+	  - Code monétaire et financier - art. L211-22 (V)
+	  - Code monétaire et financier - art. L211-33 (V)
 
 
 #### Chapitre V : Les prestataires de services
@@ -56559,10 +56564,10 @@ remplacés par les mots : "en France".
 
 ###### Article L734-3
 
-Les dispositions des articles L. 432-6, L. 432-7, L. 432-9 et L. 432-10 s'appliquent, dans les conditions mentionnées à
-l'article L. 730-2, aux remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de
-l'article L. 431-7-3 effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré, aux
-remises de titres prévues au 3° de l'article L. 432-6 ainsi qu'aux remises prévues à l'article L. 330-2.
+Les dispositions des articles L. 211-22, L. 211-23, L. 211-24, L. 211-25 et L. 211-26 s'appliquent, dans les conditions
+mentionnées à l'article L. 730-2, aux remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues
+au I de l'article L. 211-38 effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré,
+aux remises de titres prévues au 3° de l'article L. 211-22 ainsi qu'aux remises prévues à l'article L. 330-2.
 
 **Liens relatifs à cet article**
 
@@ -56572,17 +56577,18 @@ remises de titres prévues au 3° de l'article L. 432-6 ainsi qu'aux remises pr�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+	  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L211-22
+	  - Code monétaire et financier - art. L211-38
 	  - Code monétaire et financier - art. L330-2
-	  - Code monétaire et financier - art. L431-7-3
-	  - Code monétaire et financier - art. L432-6
+	  - Code monétaire et financier - art. L730-2
 
 
 ###### Article L734-4
@@ -57977,60 +57983,68 @@ L'article L. 464-2 est également applicable en Nouvelle-Calédonie.
 
 ###### Article L744-5
 
-Les articles L. 431-1 à L. 431-3 sont applicables en Nouvelle-Calédonie.
+Les articles L. 211-17 à L. 211-19 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Anciens textes**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
+
 	**Cite**:
 
-	  - Code monétaire et financier L431-1 à L431-3
+	  - Code monétaire et financier - art. L211-17
 
 
 ###### Article L744-6
 
-Les articles L. 431-4 à L. 431-5 sont applicables en Nouvelle-Calédonie.
+L'article L. 211-20 est applicable en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Anciens textes**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
+
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 101 () JORF 7 mai 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
 
 	**Cite**:
 
-	  - Code monétaire et financier L431-4 à L431-5
+	  - Code monétaire et financier - art. L211-20
 
 
 ##### Paragraphe 2 : Compensation et cession de créances
 
 ###### Article L744-7
 
-Les articles L. 431-7 à L. 431-7-5 sont applicables en Nouvelle-Calédonie. Au 1° de l'article L. 431-7, après les mots :
+Les articles L. 211-36 à L. 211-40 sont applicables en Nouvelle-Calédonie. Au 1° de l'article L. 211-36, après les mots : 
 
-"bénéficiaires des dispositions de l'article L. 531-2" sont ajoutés les mots : "à l'exception des personnes mentionnées au a
-du 2°".
+" bénéficiaires des dispositions de l'article L. 531-2 " sont ajoutés les mots : " à l'exception des personnes mentionnées au
+a du 2° ".
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
@@ -58038,12 +58052,17 @@ du 2°".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L431-7 (M)
-	  - Code monétaire et financier L431-7 à L431-7-5, L431-7
+	  - Code monétaire et financier - art. L211-36
+	  - Code monétaire et financier - art. L211-40
+	  - Code monétaire et financier - art. L531-2
 
 
 ##### Sous-section 2 : Formes particulières de cessions d'instruments financiers
@@ -58052,74 +58071,45 @@ du 2°".
 
 ###### Article L744-8
 
-L'article L. 432-5 est applicable en Nouvelle-Calédonie.
+L'article L. 211-21 est applicable en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°290 1942-02-14 art. 25
-	  - Loi n°42-290 du 14 février 1942 - art. 25 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Anciens textes**:
+
+	  - Loi n°42-290 du 14 février 1942 - art. 25 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L432-5 (V)
+	  - Code monétaire et financier - art. L211-21
 
 
 ##### Paragraphe 1 bis : Cessions temporaires
 
 ###### Article L744-8-1
 
-I. - Les articles L. 432-6, L. 432-7, L. 432-9, L. 432-10, L. 432-12 à L. 432-15, ainsi que les articles L. 432-17 à L.
-432-19, sont applicables en Nouvelle-Calédonie. Les dispositions fiscales des articles L. 432-6, L. 432-7 et L. 432-13 sont
-remplacées par des dispositions du code des impôts applicable localement ayant le même objet.
+I.-Les articles L. 211-22, L. 211-23, L. 211-24, L. 211-25, L. 211-26, L. 211-27 à L. 211-30, ainsi que les articles L.
+211-31 à L. 211-34, sont applicables en Nouvelle-Calédonie. Les dispositions fiscales des articles L. 211-22, L. 211-23 et L.
+211-28 sont remplacées par des dispositions du code des impôts applicable localement ayant le même objet. 
 
-II. - Les dispositions des articles L. 432-6, L. 432-7, L. 432-9 et L. 432-10 s'appliquent sous les mêmes conditions aux
-remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de l'article L. 431-7-3
-effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré aux remises de titres prévues
-au 3° de l'article L. 432-6 ainsi qu'aux remises prévues à l'article L. 330-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 2 (V) JORF 20 janvier 2006
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L330-2 (M)
-	  - Code monétaire et financier - art. L431-7-3 (V)
-	  - Code monétaire et financier - art. L432-10 (V)
-	  - Code monétaire et financier - art. L432-13 (M)
-	  - Code monétaire et financier - art. L432-6 (M)
-	  - Code monétaire et financier - art. L432-7 (V)
-	  - Code monétaire et financier - art. L432-9 (V)
-	  - Code monétaire et financier L432-6, L432-7, L432-9, L432-10, L432-12 à L432-15, L432-17 à L432-19, L432-13, L431-7-3, L330-2
-
-	**Anciens textes**:
-
-	  - Loi n°290 1942-02-14 art. 25
-
-
-##### Paragraphe 2 : Les opérations à terme
-
-###### Article L744-9
-
-L'article L. 432-20 est applicable en Nouvelle-Calédonie.
+II.-Les dispositions des articles L. 211-22, L. 211-23, L. 211-24, L. 211-25 et L. 211-26 s'appliquent sous les mêmes
+conditions aux remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de l'article L.
+211-38 effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré aux remises de titres
+prévues au 3° de l'article L. 211-22 ainsi qu'aux remises prévues à l'article L. 211-22.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
@@ -58127,11 +58117,43 @@ L'article L. 432-20 est applicable en Nouvelle-Calédonie.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 103 () JORF 7 mai 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L432-20 (M)
+	  - Code monétaire et financier - art. L211-22
+	  - Code monétaire et financier - art. L211-28
+	  - Code monétaire et financier - art. L211-31
+	  - Code monétaire et financier - art. L211-38
+
+
+##### Paragraphe 2 : Les opérations à terme
+
+###### Article L744-9
+
+L'article L. 211-35 est applicable en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-35
 
 
 ##### Sous-section 3 : Modalités spécifiques aux marchés réglementés
@@ -60233,60 +60255,69 @@ L'article L. 464-2 est également applicable en Polynésie française.
 
 ###### Article L754-5
 
-Les articles L. 431-1 à L. 431-3 sont applicables en Polynésie française.
+Les articles L. 211-17 à L. 211-19 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Anciens textes**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
+
 	**Cite**:
 
-	  - Code monétaire et financier L431-1 à L431-3
+	  - Code monétaire et financier - art. L211-17
 
 
 ###### Article L754-6
 
-Les articles L. 431-4 à L. 431-5 sont applicables en Polynésie française.
+L'article L. 211-20 est applicable en Polynésie française.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Anciens textes**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
+
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 101 () JORF 7 mai 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
 
 	**Cite**:
 
-	  - Code monétaire et financier L431-4 à L431-5
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L211-20
 
 
 ##### Paragraphe 2 : Compensation et cession de créances
 
 ###### Article L754-7
 
-Les articles L. 431-7 à L. 431-7-5 sont applicables en Polynésie française. Au 1° du I de l'article L. 431-7, après les
-mots : "les bénéficiaires des dispositions de l'article L. 531-2" sont ajoutés les mots : "à l'exception des personnes
-mentionnées au a du 2°". La référence au livre VI du code de commerce est remplacée par la référence aux dispositions en
+Les articles L. 211-36 à L. 211-40 sont applicables en Polynésie française. Au 1° du I de l'article L. 211-36, après les
+mots : " les bénéficiaires des dispositions de l'article L. 531-2 " sont ajoutés les mots : " à l'exception des personnes
+mentionnées au a du 2° ". La référence au livre VI du code de commerce est remplacée par la référence aux dispositions en
 vigueur en Polynésie française ayant le même objet.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
@@ -60294,12 +60325,19 @@ vigueur en Polynésie française ayant le même objet.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L431-7 (M)
-	  - Code monétaire et financier L431-7 à L431-7-5, L431-7
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L211-36
+	  - Code monétaire et financier - art. L211-40
+	  - Code monétaire et financier - art. L431-7
+	  - Code monétaire et financier - art. L531-2
 
 
 ##### Sous-section 2 : Formes particulières de cessions d'instruments financiers
@@ -60308,84 +60346,55 @@ vigueur en Polynésie française ayant le même objet.
 
 ###### Article L754-8
 
-L'article L. 432-5 est applicable en Polynésie française.
+L'article L. 211-21 est applicable en Polynésie française.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°290 1942-02-14 art. 25
-	  - Loi n°42-290 du 14 février 1942 - art. 25 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Anciens textes**:
+
+	  - Loi n°42-290 du 14 février 1942 - art. 25 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L432-5 (V)
+	  - Code monétaire et financier - art. L211-21
+	  - Code monétaire et financier - art. L432-5
 
 
 ##### Paragraphe 1 bis : Cessions temporaires
 
 ###### Article L754-8-1
 
-I. - Les articles L. 432-6, L. 432-7, L. 432-9 L. 432-10, L. 432-12 à L. 432-15, ainsi que les articles L. 432-17 à L.
-432-19, sont applicables en Polynésie française, sous les réserves suivantes :
+I.-Les articles L. 211-22, L. 211-23, L. 211-24, L. 211-25, L. 211-26, L. 211-27 à L. 211-30, ainsi que les articles L.
+211-31 à L. 211-34, sont applicables en Polynésie française, sous les réserves suivantes : 
 
-1° Les dispositions fiscales des articles L. 432-6, L. 432-7 et L. 432-13 sont remplacées par des dispositions du code des
-impôts applicable localement, ayant le même objet ;
+1° Les dispositions fiscales des articles L. 211-22, L. 211-23 et L. 211-28 sont remplacées par des dispositions du code des
+impôts applicable localement, ayant le même objet ; 
 
-2° Au 3° de l'article L. 432-6, les références aux articles 1892 à 1904 du code civil sont remplacées par des références aux
-dispositions applicables localement, ayant le même objet ;
+2° Au 3° de l'article L. 211-22, les références aux articles 1892 à 1904 du code civil sont remplacées par des références aux
+dispositions applicables localement, ayant le même objet ; 
 
-3° L'article L. 432-10 est complété par un alinéa ainsi rédigé :
+3° L'article L. 211-26 est complété par un alinéa ainsi rédigé : 
 
-Le prêteur ne peut exiger la restitution des titres empruntés avant la date prévue pour l'expiration du prêt.
+Le prêteur ne peut exiger la restitution des titres empruntés avant la date prévue pour l'expiration du prêt. 
 
-II. - Les dispositions des articles L. 432-6, L. 432-7, L. 432-9 et L. 432-10 s'appliquent sous les mêmes conditions aux
-remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de l'article L. 431-7-3
-effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré aux remises de titres prévues
-au 3° de l'article L. 432-6 ainsi qu'aux remises prévues à l'article L. 330-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 2 (V) JORF 20 janvier 2006
-
-	**Cite**:
-
-	  - Code civil 1892 à 1904
-	  - Code monétaire et financier - art. L330-2 (M)
-	  - Code monétaire et financier - art. L431-7-3 (V)
-	  - Code monétaire et financier - art. L432-10 (V)
-	  - Code monétaire et financier - art. L432-13 (M)
-	  - Code monétaire et financier - art. L432-6 (M)
-	  - Code monétaire et financier - art. L432-7 (V)
-	  - Code monétaire et financier - art. L432-9 (V)
-	  - Code monétaire et financier L432-6, L432-7, L432-9, L432-12 à L432-15, L432-17 à L432-19, L432-13, L432-10, L431-7-3, L330-2
-
-	**Anciens textes**:
-
-	  - Loi n°290 1942-02-14 art. 25
-
-
-##### Paragraphe 2 : Les opérations à terme
-
-###### Article L754-9
-
-L'article L. 432-20 est applicable en Polynésie française.
+II.-Les dispositions des articles L. 211-22, L. 211-23, L. 211-24, L. 211-25 et L. 211-26 s'appliquent sous les mêmes
+conditions aux remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de l'article L.
+211-38 effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré aux remises de titres
+prévues au 3° de l'article L. 211-22 ainsi qu'aux remises prévues à l'article L. 330-2.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
@@ -60393,11 +60402,42 @@ L'article L. 432-20 est applicable en Polynésie française.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 103 () JORF 7 mai 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L432-20 (M)
+	  - Code monétaire et financier - art. L211-22
+	  - Code monétaire et financier - art. L211-31
+
+
+##### Paragraphe 2 : Les opérations à terme
+
+###### Article L754-9
+
+L'article L. 211-35 est applicable en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-35
+	  - Code monétaire et financier - art. L432-20
 
 
 ##### Sous-section 3 : Opérations spécifiques aux marchés réglementés
@@ -62560,13 +62600,9 @@ L'article L. 464-2 est également applicable dans les îles Wallis et Futuna.
 
 ###### Article L764-5
 
-Les articles L. 431-1 à L. 431-3 sont applicables dans les îles Wallis-et-Futuna.
+Les articles L. 211-17 à L. 211-19 sont applicables dans les îles Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
 
 	**Codifié par**:
 
@@ -62574,23 +62610,22 @@ Les articles L. 431-1 à L. 431-3 sont applicables dans les îles Wallis-et-Futu
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
 
 	**Cite**:
 
-	  - Code monétaire et financier L431-1 à L431-3
+	  - Code monétaire et financier - art. L211-17
 
 
 ###### Article L764-6
 
-Les articles L. 431-4 à L. 431-5 sont applicables dans les îles Wallis-et-Futuna.
+L'article L. 211-20 est applicable dans les îles Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
 
 	**Codifié par**:
 
@@ -62598,22 +62633,24 @@ Les articles L. 431-4 à L. 431-5 sont applicables dans les îles Wallis-et-Futu
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II, art. 101 JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 101 () JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-20
 
 
 ##### Paragraphe 2 : Compensation et cession de créances
 
 ###### Article L764-7
 
-Les articles L. 431-7 à L. 431-7-5 sont applicables dans les îles Wallis-et-Futuna.
+Les articles L. 211-36 à L. 211-40 sont applicables dans les îles Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
@@ -62621,8 +62658,15 @@ Les articles L. 431-7 à L. 431-7-5 sont applicables dans les îles Wallis-et-Fu
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-36
 
 
 ##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers
@@ -62631,78 +62675,45 @@ Les articles L. 431-7 à L. 431-7-5 sont applicables dans les îles Wallis-et-Fu
 
 ###### Article L764-8
 
-L'article L. 432-5 est applicable dans les îles Wallis-et-Futuna.
+L'article L. 211-21 est applicable dans les îles Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°42-290 du 14 février 1942 - art. 25 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Anciens textes**:
+
+	  - Loi n°42-290 du 14 février 1942 - art. 25 (V)
+
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L432-5 (V)
+	  - Code monétaire et financier - art. L211-21
 
 
 ##### Paragraphe 1 bis : Cessions temporaires
 
 ###### Article L764-8-1
 
-I. - Les articles L. 432-6, L. 432-7, L. 432-9, L. 432-10, L. 432-12 à L. 432-15, ainsi que les articles L. 432-17 à L.
-432-19 sont applicables dans les îles Wallis et Futuna. Les dispositions fiscales des articles L. 432-6, L. 432-7 et L.
-432-13 sont remplacées par des dispositions du code des impôts applicable localement, ayant le même objet.
+I.-Les articles L. 211-22 à L. 211-33 sont applicables dans les îles Wallis et Futuna. Les dispositions fiscales des articles
+L. 211-22, L. 211-23 et L. 211-28 sont remplacées par des dispositions du code des impôts applicable localement, ayant le
+même objet. 
 
-II. - Les dispositions des articles L. 432-6, L. 432-7, L. 432-9 et L. 432-10 s'appliquent sous les mêmes conditions aux
-remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de l'article L. 431-7-3
-effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré aux remises de titres prévues
-au 3° de l'article L. 432-6 ainsi qu'aux remises prévues à l'article L. 330-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°290 1942-02-14 art. 25
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 2 (V) JORF 20 janvier 2006
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L330-2 (M)
-	  - Code monétaire et financier - art. L431-7-3 (V)
-	  - Code monétaire et financier - art. L432-10 (V)
-	  - Code monétaire et financier - art. L432-13 (M)
-	  - Code monétaire et financier - art. L432-6 (M)
-	  - Code monétaire et financier - art. L432-7 (V)
-	  - Code monétaire et financier - art. L432-9 (V)
-	  - Code monétaire et financier L432-6, L432-7, L432-9, L432-10, L432-12 à L432-15, L432-17 à L432-19, L432-13, L431-7-3, L330-2
-
-
-##### Paragraphe 2 : Les opérations à terme
-
-###### Article L764-9
-
-L'article L. 432-20 est applicable dans les îles Wallis et Futuna.
+II.-Les dispositions des articles L. 211-22, L. 211-23, L. 211-24, L. 211-25 et L. 211-26 s'appliquent sous les mêmes
+conditions aux remises en pleine propriété, à titre de garantie, de valeurs, titres ou effets prévues au I de l'article L.
+211-38 effectuées dans le cadre d'opérations à terme d'instruments financiers réalisées de gré à gré aux remises de titres
+prévues au 3° de l'article L. 211-22 ainsi qu'aux remises prévues à l'article L. 330-2.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
@@ -62710,12 +62721,41 @@ L'article L. 432-20 est applicable dans les îles Wallis et Futuna.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 103 () JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L432-20 (M)
+	  - Code monétaire et financier - art. L211-22
+	  - Code monétaire et financier - art. L330-2
+
+
+##### Paragraphe 2 : Les opérations à terme
+
+###### Article L764-9
+
+L'article L. 211-35 est applicable dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 17
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-35
 
 
 ##### Sous-section 3 : Opérations spécifiques aux marchés réglementés
