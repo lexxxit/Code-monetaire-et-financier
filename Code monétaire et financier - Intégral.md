@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-22
 
 # Partie législative
 
@@ -69584,29 +69584,31 @@ conditions prévues à l'article L. 614-2.
 ###### Article D213-8
 
 Pour être habilitées à émettre des titres de créance négociables, les entreprises mentionnées au 2 de l'article L. 213-3
-doivent appartenir à l'une des catégories suivantes :
+doivent appartenir à l'une des catégories suivantes : 
 
 1° Les entreprises revêtant la forme de sociétés par actions ou, pour celles dont le siège social est situé à l'étranger, une
 forme reconnue comme équivalente par l'autorité chargée par le présent décret de veiller au respect des conditions d'émission
-et disposant d'un capital dont la partie libérée est au moins égale à 225 000 euros ;
+et disposant d'un capital dont la partie libérée est au moins égale à 225 000 euros ; 
 
-2° Les entreprises du secteur public faisant appel public à l'épargne ;
+2° Les entreprises du secteur public dès lors qu'elles remplissent les conditions fixées au 1° ; 
 
-3° Les sociétés coopératives agricoles et leurs unions disposant d'un capital dont la partie libérée est au moins égale à 225
-000 euros ;
+3° Les entreprises du secteur public qui ne disposent pas de capital social mais qui ont été autorisées à procéder à une
+offre au public de titres financiers ; 
 
-4° Les sociétés coopératives par actions disposant d'un capital dont la partie libérée est au moins égale à 225 000 euros.
+4° Les sociétés coopératives agricoles et leurs unions disposant d'un capital dont la partie libérée est au moins égale à 225
+000 euros ; 
+
+5° Les sociétés coopératives par actions disposant d'un capital dont la partie libérée est au moins égale à 225 000 euros.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-137 1992-02-13 art 2
 	  - Décret n°92-137 du 13 février 1992 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-558 du 19 mai 2009 - art. 1
 
 	**Cité par**:
 
@@ -69614,7 +69616,7 @@ et disposant d'un capital dont la partie libérée est au moins égale à 225 00
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L213-3 (M)
+	  - Code monétaire et financier - art. L213-3 (VT)
 
 
 ##### Sous-section 3 : Documentation financière et informations statistiques.
@@ -69920,7 +69922,7 @@ Il est remis ou adressé à toute personne dont la souscription est sollicitée.
 
 ###### Article D213-18
 
-Sous réserve des dispositions de l'article D. 213-19, lorsque l'association émettrice fait appel public à l'épargne pour le
+Sous réserve des dispositions de l'article D. 213-19, lorsque l'association émettrice procède à une offre au public pour le
 placement des titres mentionnés aux articles L. 213-8 et L. 213-9, les dispositions des articles R. 228-57 à 59 du code de
 commerce sont applicables à la notice mentionnée à l'article L. 213-11 pour autant qu'elles sont compatibles avec le régime
 juridique des associations.
@@ -69931,21 +69933,17 @@ juridique des associations.
 
 	  - Décret n°85-1322 du 11 décembre 1985 - art. 2 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2007-431 du 25 mars 2007 - art. 2 (V) JORF 27 mars 2007
+	  - Décret n°2009-558 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de commerce R228-57 à 59
-	  - Code monétaire et financier - art. D213-19 (V)
-	  - Code monétaire et financier - art. L213-11 (M)
-	  - Code monétaire et financier - art. L213-8 (V)
-	  - Code monétaire et financier - art. L213-9 (V)
+	  - Code de commerce - art. R228-57
+	  - Code monétaire et financier - art. D213-19
+	  - Code monétaire et financier - art. L213-11
+	  - Code monétaire et financier - art. L213-8
+	  - Code monétaire et financier - art. L213-9
 
 
 ###### Article D213-19
@@ -71689,8 +71687,8 @@ de l'organisme de placement collectif en valeurs mobilières.
 
 L'avis de convocation à l'assemblée générale des actionnaires d'une société d'investissement à capital variable et
 l'information de ceux-ci sur les projets de fusion ou de scission s'effectuent selon les mêmes modalités que celles prévues
-respectivement par les articles R. 225-67 et R. 236-2 du code de commerce pour les sociétés ne faisant pas publiquement appel
-à l'épargne et dont toutes les actions revêtent la forme nominative.
+respectivement par les articles R. 225-67 et R. 236-2 du code de commerce pour les sociétés dont les titres financiers ne
+sont pas admis aux négociations sur un marché réglementé ou dont toutes les actions revêtent la forme nominative.
 
 L'article R. 225-73 du code de commerce n'est pas applicable aux sociétés d'investissement à capital variable.
 
@@ -71698,7 +71696,7 @@ L'article R. 225-73 du code de commerce n'est pas applicable aux sociétés d'in
 
 	**Modifié par**:
 
-	  - Décret n°2008-726 du 22 juillet 2008 - art. 1
+	  - Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
@@ -76647,8 +76645,6 @@ la bonification ou à la garantie de prêts.
 	  - Code monétaire et financier - art. R214-145 (V)
 
 
-##### Paragraphe 1 : Dispositions communes.
-
 ###### Article R214-145
 
 I. - L'actif des sociétés d'épargne forestière mentionnées à l'article R. 214-144 comporte pour au moins 60 % un patrimoine
@@ -76696,19 +76692,18 @@ agent biotique est en cause, par une décision du ministre chargé des forêts.
 
 	**Anciens textes**:
 
-	  - Décret n°2003-82 2003-01-29 art 2
 	  - Décret n°2003-82 du 29 janvier 2003 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - DEPLACE: Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code forestier - art. L241-6 (M)
-	  - Code forestier - art. R*241-2 (M)
-	  - Code monétaire et financier - art. L214-85 (M)
-	  - Code monétaire et financier - art. R214-144 (V)
+	  - Code forestier - art. L241-6
+	  - Code forestier - art. R*241-2
+	  - Code monétaire et financier - art. L214-85
+	  - Code monétaire et financier - art. R214-144
 
 	**Cité par**:
 
@@ -76746,17 +76741,16 @@ au cours d'un exercice, la limite applicable aux échéances et cessions réalis
 
 	**Anciens textes**:
 
-	  - Décret n°2003-82 2003-01-29 art 3
 	  - Décret n°2003-82 du 29 janvier 2003 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - DEPLACE: Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-85 (M)
-	  - Code monétaire et financier - art. R214-145 (V)
+	  - Code monétaire et financier - art. L214-85
+	  - Code monétaire et financier - art. R214-145
 
 
 ###### Article R214-147
@@ -76787,16 +76781,15 @@ général des impôts, ainsi que des engagements pris dans le cadre d'opération
 
 	  - CGI 199 decies H, 793, 885 H
 	  - Code rural L121-1
-	  - Code monétaire et financier - art. L214-85 (M)
+	  - Code monétaire et financier - art. L214-85
 
 	**Anciens textes**:
 
-	  - Décret n°2003-82 2003-01-29 art 4
 	  - Décret n°2003-82 du 29 janvier 2003 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - DEPLACE: Décret n°2009-557 du 19 mai 2009 - art. 1
 
 
 ###### Article R214-148
@@ -76808,16 +76801,15 @@ l'objet d'une information auprès des acquéreurs de parts de cette société.
 
 	**Anciens textes**:
 
-	  - Décret n°2003-82 2003-01-29 art 5
 	  - Décret n°2003-82 du 29 janvier 2003 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - DEPLACE: Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-85 (M)
+	  - Code monétaire et financier - art. L214-85
 
 	**Cité par**:
 
@@ -76841,20 +76833,19 @@ l'engagement de les reboiser dans un délai de trois ans et de leur appliquer un
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°1930-06-28
-	  - Code monétaire et financier - art. L214-85 (M)
-	  - Loi n°1930-04-16 art. 15
-
 	**Anciens textes**:
 
-	  - Décret n°2003-82 2003-01-29 art 6
 	  - Décret n°2003-82 du 29 janvier 2003 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - DEPLACE: Décret n°2009-557 du 19 mai 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L214-85
+	  - Décret n°1930-06-28
+	  - Loi n°1930-04-16 art. 15
 
 	**Cité par**:
 
@@ -76878,17 +76869,16 @@ durée d'application restant à courir est au moins égale à trois ans.
 
 	**Anciens textes**:
 
-	  - Décret n°2003-82 2003-01-29 art 7
 	  - Décret n°2003-82 du 29 janvier 2003 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - DEPLACE: Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-85 (M)
-	  - Code monétaire et financier - art. R214-149 (V)
+	  - Code monétaire et financier - art. L214-85
+	  - Code monétaire et financier - art. R214-149
 
 	**Cité par**:
 
@@ -76913,19 +76903,18 @@ considérée, ils doivent faire l'objet d'une autorisation spéciale de l'assemb
 
 	**Anciens textes**:
 
-	  - Décret n°2003-82 2003-01-29 art 8
 	  - Décret n°2003-82 du 29 janvier 2003 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - DEPLACE: Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code forestier - art. R222-12 (M)
-	  - Code forestier R222-14 à R222-18, R222-12
-	  - Code monétaire et financier - art. L214-85 (M)
-	  - Code monétaire et financier - art. R214-149 (V)
+	  - Code forestier
+	  - Code forestier - art. R222-12
+	  - Code monétaire et financier - art. L214-85
+	  - Code monétaire et financier - art. R214-149
 
 	**Cité par**:
 
@@ -76951,19 +76940,18 @@ commerce du siège des sociétés concernées.
 
 	**Anciens textes**:
 
-	  - Décret n°2003-82 2003-01-29 art 9
 	  - Décret n°2003-82 du 29 janvier 2003 - art. 9 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - DEPLACE: Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-85 (M)
-	  - Code monétaire et financier - art. R214-135 (V)
-	  - Code monétaire et financier - art. R214-137 (V)
-	  - Code monétaire et financier - art. R214-138 (M)
+	  - Code monétaire et financier - art. L214-85
+	  - Code monétaire et financier - art. R214-135
+	  - Code monétaire et financier - art. R214-137
+	  - Code monétaire et financier - art. R214-138
 
 
 ###### Article R214-153
@@ -76984,19 +76972,18 @@ comptes, tient compte des plus-values et moins-values latentes sur actifs financ
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2003-82 2003-01-29 art 10
-	  - Décret n°2003-82 du 29 janvier 2003 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-85 (M)
+	  - Code monétaire et financier - art. L214-85
 	  - Décret n°75-1022 1975-10-27 art. 1
+
+	**Anciens textes**:
+
+	  - Décret n°2003-82 du 29 janvier 2003 - art. 10 (Ab)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2009-557 du 19 mai 2009 - art. 1
 
 
 ###### Article R214-154
@@ -77009,37 +76996,35 @@ peut conduire à ce qu'une société d'épargne forestière soit absorbée par u
 
 	**Anciens textes**:
 
-	  - Décret n°2003-82 2003-01-29 art 11
 	  - Décret n°2003-82 du 29 janvier 2003 - art. 11 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - DEPLACE: Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-85 (M)
+	  - Code monétaire et financier - art. L214-85
 
 
 ###### Article R214-155
 
 Le projet de fusion est arrêté par la société de gestion de chacune des sociétés d'épargne forestière et le gérant de chaque
-groupement forestier participant à l'opération.
+groupement forestier participant à l'opération. 
 
-Il doit contenir les indications suivantes :
+Il doit contenir les indications suivantes : 
 
 1° L'état des biens du patrimoine forestier, la dénomination et le siège social de toutes les sociétés participant à la
-fusion, la liste des servitudes et hypothèques pesant sur les biens des sociétés ;
+fusion, la liste des servitudes et hypothèques pesant sur les biens des sociétés ; 
 
 2° Les motifs, les buts et les conditions de la fusion : ces indications sont accompagnées des documents prévus à l'article
-R. 214-130 et, le cas échéant, pour les sociétés faisant appel public à l'épargne, à l'article R. 214-158, auquel peut
-s'ajouter le rapport du commissaire aux apports ;
+R. 214-130 et, à l'article R. 214-158, auquel peut s'ajouter le rapport du commissaire aux apports ; 
 
-3° Les dates auxquelles ont été arrêtés les comptes des sociétés intéressées pour établir les conditions de l'opération ;
+3° Les dates auxquelles ont été arrêtés les comptes des sociétés intéressées pour établir les conditions de l'opération ; 
 
-4° Les parités d'échange et le mode de calcul ;
+4° Les parités d'échange et le mode de calcul ; 
 
-5° La date de la fusion ;
+5° La date de la fusion ; 
 
 6° L'agrément du projet de fusion par l'Autorité des marchés financiers.
 
@@ -77047,18 +77032,16 @@ s'ajouter le rapport du commissaire aux apports ;
 
 	**Anciens textes**:
 
-	  - Décret n°2003-82 2003-01-29 art 12
 	  - Décret n°2003-82 du 29 janvier 2003 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-85 (M)
-	  - Code monétaire et financier - art. R214-130 (V)
-	  - Code monétaire et financier - art. R214-158 (V)
+	  - Code monétaire et financier - art. R214-130
+	  - Code monétaire et financier - art. R214-158
 
 	**Cité par**:
 
@@ -77077,43 +77060,39 @@ fusion.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°2003-82 du 29 janvier 2003 - art. 13 (Ab)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2009-557 du 19 mai 2009 - art. 1
+
 	**Cite**:
 
 	  - CGI 793, 885
-	  - Code monétaire et financier - art. L214-85 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°2003-82 2003-01-29 art 13
-	  - Décret n°2003-82 du 29 janvier 2003 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Code monétaire et financier - art. L214-85
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R214-157 (V)
 
 
-##### Paragraphe 2 : Dispositions particulières concernant les sociétés d'épargne forestière faisant appel public à l'épargne.
-
 ###### Article R214-157
 
 Le patrimoine forestier détenu directement ou indirectement par une société d'épargne forestière régie par la présente sous-
-section et faisant appel public à l'épargne doit, s'il est assuré contre l'incendie, se répartir en au moins deux unités de
-gestion distinctes sur au moins deux régions naturelles ou deux départements, à la condition que la part du patrimoine
-forestier présente dans l'une des régions naturelles ou l'un des départements ne soit pas supérieure à 60 % de l'ensemble de
-l'actif forestier.
+section  doit, s'il est assuré contre l'incendie, se répartir en au moins deux unités de gestion distinctes sur au moins deux
+régions naturelles ou deux départements, à la condition que la part du patrimoine forestier présente dans l'une des régions
+naturelles ou l'un des départements ne soit pas supérieure à 60 % de l'ensemble de l'actif forestier.
 
 Si le patrimoine forestier d'une société d'épargne forestière mentionné au premier alinéa du présent article n'est pas assuré
 contre l'incendie, ou que cette assurance ne couvre qu'une partie du patrimoine forestier, celui-ci doit se répartir en au
 moins deux unités de gestion distinctes sur au moins deux départements non contigus, à la condition que la part du patrimoine
 forestier présente dans l'un des départements ne soit pas supérieure à 60 % de l'ensemble de l'actif forestier.
 
-L'actif forestier d'une société d'épargne forestière faisant appel public à l'épargne ne doit pas être composé pour plus de
-40 % de parts d'intérêt de groupements forestiers ou de sociétés dont l'objet exclusif est la détention de bois et forêts
-dans lesquels elle n'aurait pas acquis plus de 50 % au moins des parts d'intérêt.
+L'actif forestier d'une société d'épargne forestière ne doit pas être composé pour plus de 40 % de parts d'intérêt de
+groupements forestiers ou de sociétés dont l'objet exclusif est la détention de bois et forêts dans lesquels elle n'aurait
+pas acquis plus de 50 % au moins des parts d'intérêt.
 
 La société d'épargne forestière bénéficie d'un délai de trois ans à partir de sa création pour se mettre en conformité avec
 les dispositions du présent article.
@@ -77122,42 +77101,39 @@ les dispositions du présent article.
 
 	**Anciens textes**:
 
-	  - Décret n°2003-82 2003-01-29 art 14
 	  - Décret n°2003-82 du 29 janvier 2003 - art. 14 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-85 (M)
+	  - Code monétaire et financier - art. L214-85
 
 
 ###### Article R214-158
 
-Le patrimoine forestier d'une société d'épargne forestière faisant appel public à l'épargne doit faire l'objet d'une
-expertise tous les quinze ans. La première expertise doit intervenir lors de l'acquisition des biens par la société. Elle est
-mise à jour tous les trois ans sur la base des documents fournis par la société de gestion, sauf événements, travaux ou
-coupes exceptionnels nécessitant une nouvelle mise à jour avant cette échéance. Il est procédé à une seconde expertise à
-partir de la deuxième année d'existence de la société d'épargne forestière à raison de 20 % au moins du patrimoine forestier
-de la société chaque année, de telle sorte que la totalité du patrimoine forestier soit expertisée à l'issue de la
-quatorzième année.
+Le patrimoine forestier d'une société d'épargne forestière doit faire l'objet d'une expertise tous les quinze ans. La
+première expertise doit intervenir lors de l'acquisition des biens par la société. Elle est mise à jour tous les trois ans
+sur la base des documents fournis par la société de gestion, sauf événements, travaux ou coupes exceptionnels nécessitant une
+nouvelle mise à jour avant cette échéance. Il est procédé à une seconde expertise à partir de la deuxième année d'existence
+de la société d'épargne forestière à raison de 20 % au moins du patrimoine forestier de la société chaque année, de telle
+sorte que la totalité du patrimoine forestier soit expertisée à l'issue de la quatorzième année.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2003-82 2003-01-29 art 15
 	  - Décret n°2003-82 du 29 janvier 2003 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-85 (M)
+	  - Code monétaire et financier - art. L214-85
 
 	**Cité par**:
 
@@ -77167,12 +77143,12 @@ quatorzième année.
 
 ###### Article R214-159
 
-I. - Dans le cas où une société d'épargne forestière faisant appel public à l'épargne détient 50 % au moins des parts
-d'intérêt d'un groupement forestier ou d'une société dont l'objet exclusif est la détention de bois et forêts, l'expertise
-prévue à l'article R. 214-158 est également réalisée sur le patrimoine du groupement forestier ou de la société dont l'objet
-exclusif est la détention de bois et forêts.
+I.-Dans le cas où une société d'épargne forestière détient 50 % au moins des parts d'intérêt d'un groupement forestier ou
+d'une société dont l'objet exclusif est la détention de bois et forêts, l'expertise prévue à l'article R. 214-158 est
+également réalisée sur le patrimoine du groupement forestier ou de la société dont l'objet exclusif est la détention de bois
+et forêts. 
 
-II. - Dans le cas où une société d'épargne forestière détient moins de 50 % de telles parts, elle doit, lors de l'expertise
+II.-Dans le cas où une société d'épargne forestière détient moins de 50 % de telles parts, elle doit, lors de l'expertise
 prévue à l'article R. 214-158, obtenir de chacun des gérants des groupements forestiers et des sociétés concernés une
 attestation ou une évaluation écrite indiquant la valeur vénale de la part d'intérêt détenue ou acquise.
 
@@ -77180,17 +77156,15 @@ attestation ou une évaluation écrite indiquant la valeur vénale de la part d'
 
 	**Anciens textes**:
 
-	  - Décret n°2003-82 2003-01-29 art 16
 	  - Décret n°2003-82 du 29 janvier 2003 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-85 (M)
-	  - Code monétaire et financier - art. R214-158 (V)
+	  - Code monétaire et financier - art. R214-158
 
 
 ##### Section 5 : Les organismes de placement collectif immobilier.
@@ -93841,12 +93815,12 @@ L. 532-1 à L. 532-5 et R. 532-1 à R. 532-9.
 
 ###### Article R550-1
 
-Le document d'information qui doit être déposé par tout intermédiaire en biens divers préalablement à tout appel public à
-l'épargne ou à tout démarchage pour proposer l'acquisition de droits ou de biens dans les conditions prévues à l'article L.
-550-3 doit comporter toutes les indications utiles à l'information des épargnants.
+Le document d'information qui doit être déposé par tout intermédiaire en biens divers préalablement à toute offre au public
+ou à tout démarchage pour proposer l'acquisition de droits ou de biens dans les conditions prévues à l'article L. 550-3 doit
+comporter toutes les indications utiles à l'information des épargnants. 
 
 Il décrit notamment la nature et l'objet de l'opération proposée. Il donne l'identité de son initiateur et des personnes qui
-seront chargées de la gestion des biens.
+seront chargées de la gestion des biens. 
 
 Il indique le montant des frais de toute nature qui seront supportés directement ou indirectement par l'épargnant. Il précise
 les modalités de revente des droits et des biens acquis.
@@ -93862,13 +93836,13 @@ les modalités de revente des droits et des biens acquis.
 	  - Arrêté du 12 novembre 2004 - art. 441-3 (V)
 	  - Arrêté du 27 avril 2017 - art.
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L550-3 (M)
+	  - Code monétaire et financier - art. L550-3
 
 
 ###### Article R550-2
@@ -97891,8 +97865,8 @@ règles de publicité et de mise en concurrence.
 
 Pour l'application des dispositions du IX de l'article L. 621-7, une recommandation d'investissement s'entend de toute étude,
 information ou opinion, produite dans un cadre professionnel et destinée à être rendue publique, recommandant ou suggérant
-une stratégie d'investissement relative à une personne faisant appel public à l'épargne ou aux instruments financiers qu'elle
-émet. 
+une stratégie d'investissement relative à une personne dont les instruments financiers sont admis aux négociations sur un
+marché réglementé ou aux instruments financiers qu'elle émet. 
 
 Constituent des recommandations d'investissement : 
 
@@ -97927,38 +97901,39 @@ de cours, à l'évolution de la situation d'un émetteur ou de toute autre mani�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+	  - Décret n°2009-557 du 19 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L621-7 (M)
-	  - Code du travail - art. L7111-3 (V)
-	  - Code du travail - art. L7112-1 (V)
+	  - Code monétaire et financier - art. L621-7
+	  - Code du travail - art. L7111-3
+	  - Code du travail - art. L7112-1
 
 
 ###### Article R621-30-2
 
 Ne constituent pas la production de recommandations d'investissement au sens du 2° de l'article R. 621-30-1 toutes les autres
 formes du travail d'un journaliste professionnel, au sens des articles L. 7111-3 et 4 et L. 7112-1 du code du travail, qui
-consistent à produire ou diffuser des informations de presse portant sur une personne faisant appel public à l'épargne, sur
-les instruments financiers qu'elle émet ou sur une recommandation d'investissement produite par un tiers sans en modifier la
-substance, et même si cette recommandation n'a pas encore été rendue publique.
+consistent à produire ou diffuser des informations de presse portant sur une personne dont les instruments financiers sont
+admis aux négociations sur un marché réglementé, sur les instruments financiers qu'elle émet ou sur une recommandation
+d'investissement produite par un tiers sans en modifier la substance, et même si cette recommandation n'a pas encore été
+rendue publique.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 	**Cité par**:
 
 	  - Décret n°2007-1367 du 19 septembre 2007 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-557 du 19 mai 2009 - art. 1
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. R621-30-1 (V)
-	  - Code du travail - art. L7111-3 (V)
-	  - Code du travail - art. L7112-1 (V)
+	  - Code monétaire et financier - art. R621-30-1
+	  - Code du travail - art. L7111-3
+	  - Code du travail - art. L7112-1
 
 
 ###### Article R621-30-3
@@ -97969,28 +97944,28 @@ directe ou indirecte au sens de l'article R. 621-30-1.
 
 Ne constitue pas la diffusion d'une recommandation d'investissement le fait pour tout média de diffuser une information de
 presse, élaborée par un journaliste professionnel au sens des articles L. 7111-3, L. 7111-4 et L. 7112-1 du code du travail,
-portant sur une personne faisant appel public à l'épargne, sur les instruments financiers qu'elle émet ou sur une
-recommandation d'investissement produite par un tiers ou sur son résumé, même lorsqu'elle n'a pas encore été rendue publique
-dès lors que cette information de presse n'apporte aucune modification substantielle de la recommandation dont elle rend
-compte, notamment au sens de celle-ci.
+portant sur une personne dont les instruments financiers sont admis aux négociations sur un marché réglementé, sur les
+instruments financiers qu'elle émet ou sur une recommandation d'investissement produite par un tiers ou sur son résumé, même
+lorsqu'elle n'a pas encore été rendue publique dès lors que cette information de presse n'apporte aucune modification
+substantielle de la recommandation dont elle rend compte, notamment au sens de celle-ci.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 	**Cité par**:
 
 	  - Décret n°2007-1367 du 19 septembre 2007 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-557 du 19 mai 2009 - art. 1
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L621-7 (M)
-	  - Code monétaire et financier - art. R621-30-1 (V)
-	  - Code du travail - art. L7111-3 (V)
-	  - Code du travail - art. L7111-4 (V)
-	  - Code du travail - art. L7112-1 (V)
+	  - Code monétaire et financier - art. L621-7
+	  - Code monétaire et financier - art. R621-30-1
+	  - Code du travail - art. L7111-3
+	  - Code du travail - art. L7111-4
+	  - Code du travail - art. L7112-1
 
 
 ###### Article R621-30-4
