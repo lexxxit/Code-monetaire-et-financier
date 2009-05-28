@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-05-22
+Version Consolidée au 2009-05-29
 
 # Partie législative
 
@@ -54568,33 +54568,50 @@ la métropole et sa zone d'intervention.
 
 ###### Article L711-5
 
-L'Institut d'émission des départements d'outre-mer est administré par un conseil de surveillance composé de quinze membres :
+I. - L'Institut d'émission des départements d'outre-mer est administré par un conseil de surveillance composé de sept
+membres :
 
-1. Le gouverneur de la Banque de France ou son représentant, président ;
+1° Le gouverneur de la Banque de France ou son représentant, président ;
 
-2. Sept représentants de la Banque de France, désignés pour quatre ans par le gouverneur de cette dernière ;
+2° Trois représentants de la Banque de France, désignés pour quatre ans par le gouverneur de cette dernière ;
 
-3. Six personnalités qualifiées, choisies en raison de leurs compétences dans les domaines monétaire, financier ou économique
-de l'outre-mer et nommées conjointement pour quatre ans par les ministres chargés de l'économie et de l'outre-mer ;
+3° Un représentant des personnels, élu pour quatre ans dans des conditions fixées par les statuts de l'institut ;
 
-4. Un représentant des personnels de l'institut, élu pour quatre ans dans des conditions fixées par les statuts.
+4° Deux représentants de l'Etat, désignés l'un par le ministre chargé de l'économie et l'autre par le ministre chargé de
+l'outre-mer. Ils peuvent participer au conseil à titre d'observateurs et sans voix délibérative.
+
+Un suppléant peut être désigné dans les mêmes formes que le titulaire pour les membres autres que le président.
 
 En cas de partage égal des voix lors des délibérations, la voix du président est prépondérante.
 
-Deux représentants de l'Etat, désignés l'un par le ministre chargé de l'économie et l'autre par le ministre chargé de
-l'outre-mer, peuvent participer au conseil à titre d'observateurs et sans voix délibérative.
-
-Un suppléant peut être désigné dans les mêmes formes que le titulaire pour les membres autres que le président et pour les
-représentants de l'Etat.
-
 Les statuts de l'institut fixent les conditions dans lesquelles, en cas d'urgence constatée par le président, le conseil de
 surveillance peut délibérer par voie de consultation écrite.
+
+II. - Il est créé au sein de l'Institut d'émission des départements d'outre-mer un comité économique consultatif chargé
+d'étudier les questions relatives à la conjoncture et au développement économiques des départements et collectivités d'outre-
+mer situés dans le champ d'intervention de l'institut. Le comité peut faire appel aux services de l'institut pour la
+réalisation de ses travaux.
+
+Le comité économique consultatif se réunit au moins une fois l'an.
+
+Le comité économique consultatif est composé de douze membres :
+
+1° Le gouverneur de la Banque de France ou son représentant, président ;
+
+2° Un représentant de la Banque de France, désigné pour quatre ans par le gouverneur de cette dernière ;
+
+3° Huit personnalités qualifiées, choisies en raison de leurs compétences dans les domaines monétaire, financier ou
+économique de l'outre-mer et nommées conjointement pour quatre ans par les ministres chargés de l'économie et de l'outre-
+mer ;
+
+4° Les deux représentants de l'Etat mentionnés au 4° du I.
+
+Un suppléant peut être désigné dans les mêmes formes que le titulaire pour les membres autres que le président.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance n°59-74 du 7 janvier 1959 - art. 3 (M)
 	  - Ordonnance n°59-74 du 7 janvier 1959 - art. 3 (Ab)
 
 	**Codifié par**:
@@ -54603,7 +54620,7 @@ surveillance peut délibérer par voie de consultation écrite.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 85 () JORF 7 mai 2005
+	  - Loi n°2009-594 du 27 mai 2009 - art. 56
 
 	**Cité par**:
 
@@ -54961,6 +54978,16 @@ Futuna est assuré par l'institut d'émission d'outre-mer dont le régime est fi
 
 L'institut d'émission d'outre-mer est un établissement public. Ses statuts sont fixés par décret en Conseil d'Etat.
 
+L'institut d'émission d'outre-mer met en œuvre, en liaison avec la Banque de France, la politique monétaire de l'Etat en
+Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. 
+
+Il définit les instruments nécessaires à sa mise en œuvre. A cet effet, il fixe notamment le taux et l'assiette des réserves
+obligatoires constituées dans ses livres par les établissements de crédit relevant de sa zone d'émission. 
+
+Les décisions afférentes à la mise en œuvre de la politique monétaire deviennent exécutoires dans un délai de dix jours
+suivant leur transmission au ministre chargé de l'économie, sauf opposition de sa part. En cas d'urgence constatée par
+l'institut, ce délai peut être ramené à trois jours.
+
 Les opérations de cet institut comportent l'escompte de crédits à court et moyen terme et l'exécution de transferts entre la
 Nouvelle-Calédonie, la Polynésie française, le territoire des îles Wallis-et-Futuna et la métropole.
 
@@ -54968,18 +54995,13 @@ Les bénéfices nets après constitution des réserves de l'Institut d'émission
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°66-948 1966-12-22 art. 30 al. 2
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 89 () JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 91 () JORF 7 mai 2005
+	  - Loi n°2009-594 du 27 mai 2009 - art. 56
 
 	**Cité par**:
 
@@ -55069,6 +55091,49 @@ moyens de paiement et les terminaux ou les dispositifs techniques qui leur sont 
 	**Anciens textes**:
 
 	  - Décret-loi 1935-10-30 art. 74-3
+
+
+##### Section 4 : Les systèmes de paiement et les systèmes de compensation, de règlement et de livraison des instruments financiers
+
+###### Article L712-6
+
+L'Institut d'émission d'outre-mer s'assure, en liaison avec la Banque de France, de la sécurité et du bon fonctionnement des
+systèmes de paiement ainsi que des systèmes de compensation, de règlement et de livraison des instruments financiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 56
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L766-5 (VT)
+
+
+##### Section 5 : Etablissement de la balance des paiements
+
+###### Article L712-7
+
+L'Institut d'émission d'outre-mer établit la balance des paiements des territoires relevant de sa zone d'émission. Il est
+habilité à se faire communiquer tous les renseignements qui lui sont nécessaires pour l'exercice de cette mission par les
+établissements et les entreprises exerçant leur activité sur ces territoires. 
+
+Un décret fixe les sanctions applicables en cas de manquement aux obligations déclaratives mentionnées au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 56
 
 
 #### Chapitre III : Dispositions communes à Saint-Pierre-et-Miquelon, à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna en matière d'information sur le donneur d'ordre 
