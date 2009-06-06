@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-06-01
+Version Consolidée au 2009-06-07
 
 # Partie législative
 
@@ -89366,10 +89366,18 @@ IV du code de la construction et de l'habitation.
 L'Agence française de développement, ci-après dénommée "l'agence", est un établissement public de l'Etat à caractère
 industriel et commercial, dont les missions et l'organisation sont fixées par la présente section.
 
-Elle a pour mission de mettre en oeuvre, outre-mer et à l'étranger, des opérations financières favorisant le développement
-économique et social dans le respect de l'environnement, ainsi que d'autres prestations de service concourant à cet objectif.
+Elle a pour mission de réaliser des opérations financières de toute nature en vue de : 
 
-L'agence est soumise aux dispositions du présent code relatives à l'activité et au contrôle des établissements de crédit.
+a) Contribuer à la mise en œuvre de la politique d'aide au développement de l'Etat à l'étranger ; 
+
+b) Contribuer au développement des départements et des collectivités d'outre-mer ainsi que de la Nouvelle-Calédonie. 
+
+A cette fin, elle finance des opérations de développement, dans le respect de l'environnement ; elle peut conduire d'autres
+activités et prestations de service se rattachant à sa mission.L'agence est en particulier chargée d'assurer, directement ou
+indirectement, des prestations d'expertise technique destinées aux bénéficiaires de ses concours. 
+
+L'agence est soumise, pour celles de ses activités qui en relèvent, aux dispositions du présent code applicables aux
+établissements de crédit.
 
 **Liens relatifs à cet article**
 
@@ -89377,13 +89385,17 @@ L'agence est soumise aux dispositions du présent code relatives à l'activité 
 
 	  - Décret n°92-1176 du 30 octobre 1992 - art. Annexe, art. 1 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2006-530 du 9 mai 2006 - art. 1 () JORF 11 mai 2006
+	  - Décret n°2009-618 du 5 juin 2009 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-23 (T)
 
 	**Cité par**:
 
@@ -89393,13 +89405,45 @@ L'agence est soumise aux dispositions du présent code relatives à l'activité 
 	  - Code monétaire et financier - art. R765-3 (M)
 
 
+###### Article R516-3-1
+
+Le ministre chargé de la coopération préside un conseil d'orientation stratégique composé des représentants de l'Etat au
+conseil d'administration. Il peut inviter le président du conseil d'administration et le directeur général de l'agence à y
+participer. 
+
+Le conseil d'orientation stratégique coordonne la préparation par l'Etat du contrat d'objectifs et de moyens liant l'agence à
+l'Etat et en contrôle l'exécution. Il prépare, avant leur présentation au conseil d'administration, les orientations fixées
+par l'Etat à l'agence en application des décisions arrêtées par le comité interministériel pour la coopération internationale
+et le développement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-618 du 5 juin 2009 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2012-803 du 9 juin 2012 - art. 2 (V)
+	  - Décret n°2014-430 du 29 avril 2014 - art. 2 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-24 (T)
+
+
 ##### Sous-section 1 : Opérations.
 
 ###### Article R516-4
 
 Les concours de l'agence peuvent être consentis sous forme de prêts, d'avances, de prises de participation, de garanties, de
-dons ou de toute autre forme de concours financier. Ces concours sont consentis aux Etats, à des personnes morales de droit
-public ou de droit privé, à des organisations internationales ou à des personnes physiques.
+dons ou de toute autre forme de concours financier. Ces concours sont consentis aux Etats,               à des organisations
+internationales, à des personnes morales de droit public ou de droit privé, notamment des organisations non gouvernementales
+engagées dans le développement,  ou à des personnes physiques.
 
 **Liens relatifs à cet article**
 
@@ -89407,9 +89451,17 @@ public ou de droit privé, à des organisations internationales ou à des person
 
 	  - Décret n°92-1176 du 30 octobre 1992 - art. Annexe, art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-618 du 5 juin 2009 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-25 (T)
 
 
 ##### Paragraphe 1 : Concours financiers de l'agence pour son compte propre.
@@ -89469,27 +89521,50 @@ dans les autres Etats.
 
 ###### Article R516-6
 
-L'agence exerce également ses attributions dans les collectivités régies par les articles 73 et 74 de la Constitution et en
-Nouvelle-Calédonie.
+L'agence exerce également ses attributions dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-1176 1992-10-30 annexe (art 4, au sein du statut)
 	  - Décret n°92-1176 du 30 octobre 1992 - art. Annexe, art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Décret n°2006-530 du 9 mai 2006 - art. 3 () JORF 11 mai 2006
+	  - Décret n°2009-618 du 5 juin 2009 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-27 (T)
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. R516-14 (V)
+
+
+###### Article R516-6-1
+
+L'agence répartit, en conformité avec un règlement qu'elle établit, un crédit annuel que lui délègue l'Etat pour le
+financement de projets proposés par les organisations non gouvernementales. Elle assure l'instruction et l'évaluation de ces
+projets.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-618 du 5 juin 2009 - art. 5
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-28 (T)
 
 
 ##### Paragraphe 2 : Opérations pour compte de l'Etat.
@@ -89574,33 +89649,16 @@ et financés par ces collectivités ou groupements.
 	  - Code monétaire et financier - art. R516-14 (V)
 
 
-###### Article R516-9
-
-L'agence fournit des prestations d'assistance technique, de conseil, d'étude et de formation dans les domaines se rattachant
-à ses activités.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-1176 du 30 octobre 1992 - art. Annexe, art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2009-618 du 5 juin 2009 - art. 6
-
-
 ##### Sous-section 2 : Organisation.
+
+##### Sous-section 2 : Organisation centrale.
 
 ###### Article R516-10
 
 Le siège de l'agence est à Paris.
 
-L'agence peut ouvrir des agences ou des représentations.
+L'agence peut ouvrir des représentations dans les départements et collectivités d'outre-mer, en Nouvelle-Calédonie et à
+l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -89608,9 +89666,17 @@ L'agence peut ouvrir des agences ou des représentations.
 
 	  - Décret n°92-1176 du 30 octobre 1992 - art. Annexe, art. 9 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-618 du 5 juin 2009 - art. 7
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-31 (T)
 
 
 ###### Article R516-11
@@ -89691,7 +89757,7 @@ b) Deux membres nommés par décret pris sur le rapport du ministre chargé de l
 
 c) Un membre nommé par décret pris sur le rapport du ministre chargé de l'outre-mer ; 
 
-d) Un membre nommé par décret pris sur le rapport du ministre chargé de l'immigration et du codéveloppement ; 
+d) Un membre nommé par décret pris sur le rapport du ministre chargé de l'immigration et du développement solidaire ; 
 
 2° Quatre membres désignés en raison de leur connaissance des questions économiques et financières, nommés par décret pris
 sur le rapport du ministre chargé de l'économie, du ministre chargé de la coopération et du ministre chargé de l'outre-mer ; 
@@ -89709,8 +89775,8 @@ Chaque membre du conseil d'administration est remplacé en cas d'absence ou d'em
 mêmes conditions que le titulaire. 
 
 II.-Le président du conseil d'administration est nommé par décret pris sur le rapport du ministre chargé de l'économie, du
-ministre chargé de la coopération, du ministre chargé de l'outre-mer et du ministre chargé du codéveloppement. La limite
-d'âge applicable au président du conseil d'aministration est de 70 ans. 
+ministre chargé de la coopération, du ministre chargé de l'outre-mer et du ministre chargé de l'immigration et du
+développement solidaire. La limite d'âge applicable au président du conseil d'aministration est de 70 ans. 
 
 Il dispose d'une voix prépondérante en cas de partage égal des voix. 
 
@@ -89737,8 +89803,7 @@ conjoint des ministres chargés de l'économie, de la coopération et de l'outre
 
 	**Modifié par**:
 
-	  - Décret n°2008-545 du 11 juin 2008 - art. 1
-	  - Décret n°2008-545 du 11 juin 2008 - art. 2
+	  - Décret n°2009-618 du 5 juin 2009 - art. 8
 
 	**Cité par**:
 
@@ -89747,33 +89812,34 @@ conjoint des ministres chargés de l'économie, de la coopération et de l'outre
 
 ###### Article R516-14
 
-Sont soumis à la délibération du conseil d'administration de l'agence :
+Sont soumis à la délibération du conseil d'administration de l'agence : 
 
-1° Les orientations stratégiques de l'établissement ;
+1° Les orientations stratégiques de l'établissement mettant en œuvre les objectifs confiés à l'agence par l'Etat ; 
 
-2° L'approbation de la convention-cadre et des contrats d'objectifs conclus avec l'Etat ;
+2° L'approbation du contrat d'objectifs et de moyens conclu avec l'Etat ; 
 
-3° Les conventions mentionnées à l'article R. 516-7 ;
+3° Les conventions mentionnées à l'article R. 516-7 ; 
 
-4° Les concours financiers mentionnés aux articles R. 516-5 et R. 516-6 ;
+4° Les concours financiers mentionnés aux articles R. 516-5, R. 516-6 et R. 516-6-1 ainsi que le règlement prévu par ce
+dernier article ; 
 
-5° Les conventions conclues en application des deuxième, troisième, quatrième et cinquième alinéas de l'article R. 516-8 ;
+5° Les conventions conclues en application des deuxième, troisième, quatrième et cinquième alinéas de l'article R. 516-8 ; 
 
-6° Le montant annuel des emprunts à contracter par l'agence ;
+6° Le montant annuel des emprunts à contracter par l'agence ; 
 
-7° L'état prévisionnel des produits et des charges d'exploitation ;
+7° L'état prévisionnel des produits et des charges d'exploitation ; 
 
-8° Les conditions générales des concours ;
+8° Les conditions générales des concours ; 
 
-9° Les comptes annuels et le rapport de gestion établis par le directeur général ;
+9° Les comptes annuels et le rapport de gestion établis par le directeur général ; 
 
-10° Les achats et les ventes d'immeubles ;
+10° Les achats et les ventes d'immeubles ; 
 
-11° Les créations ou suppressions d'agences ou de représentations ;
+11° Les créations ou suppressions d'agences ou de représentations ; 
 
-12° Les transactions sur les intérêts de l'agence et les clauses compromissoires ;
+12° Les transactions sur les intérêts de l'agence et les clauses compromissoires ; 
 
-13° La désignation des commissaires aux comptes.
+13° La désignation des commissaires aux comptes. 
 
 Le conseil d'administration est informé des évaluations, analyses et appréciations de qualité relatives à l'agence et à ses
 opérations.
@@ -89784,13 +89850,17 @@ opérations.
 
 	  - Décret n°92-1176 du 30 octobre 1992 - art. Annexe, art. 13 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2006-530 du 9 mai 2006 - art. 9 () JORF 11 mai 2006
+	  - Décret n°2009-618 du 5 juin 2009 - art. 9
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-35 (T)
 
 	**Cité par**:
 
@@ -89798,61 +89868,72 @@ opérations.
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R516-5 (M)
-	  - Code monétaire et financier - art. R516-6 (M)
-	  - Code monétaire et financier - art. R516-7 (M)
-	  - Code monétaire et financier - art. R516-8 (M)
+	  - Code monétaire et financier - art. R516-5 (T)
+	  - Code monétaire et financier - art. R516-7 (T)
+	  - Code monétaire et financier - art. R516-8 (V)
 
 
 ###### Article R516-15
 
-I. - Le conseil d'administration se réunit en séance ordinaire au moins quatre fois par an, sur convocation de son président.
-Il examine toute question inscrite à son ordre du jour par le président ou par le conseil statuant à la majorité simple.
+I.-Le conseil d'administration se réunit en séance ordinaire au moins quatre fois par an, sur convocation de son président.
+Il examine toute question inscrite à son ordre du jour par le président ou par le conseil statuant à la majorité simple. 
 
-Il se réunit en outre sur demande émanant du tiers au moins de ses membres titulaires.
+Il se réunit en outre sur demande émanant du tiers au moins de ses membres titulaires. 
 
-II. - Le conseil d'administration établit son règlement intérieur, qui prévoit notamment les modalités de la consultation à
+II.-Le conseil d'administration établit son règlement intérieur, qui prévoit notamment les modalités de la consultation à
 distance ou écrite de ses membres par le président sur une délibération d'urgence. Ces modalités comportent au moins un délai
 minimal de consultation, des règles de quorum, et le droit pour tout membre du conseil et pour le commissaire du Gouvernement
-de s'opposer à cette modalité de consultation.
+de s'opposer à cette modalité de consultation. 
 
-III. - Le conseil d'administration peut déléguer une partie de ses pouvoirs mentionnés aux 3°, 4°, 5° et 12° de l'article R.
-516-14, dans la mesure qu'il détermine, aux deux comités spécialisés suivants :
+III.-Le conseil d'administration peut déléguer une partie de ses pouvoirs mentionnés aux 3°, 4°, 5° et 12° de l'article R.
+516-14, dans la mesure qu'il détermine, aux trois comités spécialisés suivants : 
 
-1° Le comité spécialisé pour les opérations dans les collectivités d'outre-mer ;
+1° Le comité spécialisé pour les opérations dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie ; 
 
-2° Le comité spécialisé pour les opérations à l'étranger.
+2° Le comité spécialisé pour les opérations à l'étranger ; 
 
-Chacun de ces comités spécialisés comprend :
+3° Le comité spécialisé pour l'appui aux initiatives des organisations non gouvernementales. 
 
-1. Deux personnalités qualifiées désignées par le conseil d'administration, dont une siégeant à ce conseil ;
+Le comité spécialisé pour les opérations dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie comprend
+trois représentants de l'Etat, dont deux nommés par arrêté du ministre chargé de l'outre-mer et un nommé par arrêté du
+ministre chargé de l'économie. 
 
-2. Un des représentants du personnel au conseil d'administration, choisi par ces représentants.
+Le comité spécialisé pour les opérations à l'étranger comprend cinq représentants de l'Etat, dont deux nommés par arrêté du
+ministre des affaires étrangères, deux nommés par arrêté du ministre chargé de l'économie et un nommé par arrêté du ministre
+chargé de l'immigration et du développement solidaire. 
 
-En outre, le comité spécialisé pour les opérations dans les collectivités d'outre-mer comprend trois représentants de l'Etat,
-dont deux nommés par arrêté du ministre chargé de l'outre-mer et un nommé par arrêté du ministre chargé de l'économie. Le
-comité spécialisé pour les opérations à l'étranger comprend quatre représentants de l'Etat, dont deux nommés par arrêté du
-ministre des affaires étrangères et deux nommés par arrêté du ministre chargé de l'économie.
+Le comité spécialisé pour l'appui aux initiatives des organisations non gouvernementales comprend quatre représentants de
+l'Etat dont deux nommés par arrêté du ministre des affaires étrangères, un nommé par arrêté du ministre chargé de l'économie
+et un nommé par arrêté du ministre chargé de l'immigration et du développement solidaire. 
+
+Chacun de ces comités spécialisés comprend en outre : 
+
+1° Deux personnalités qualifiées désignées par le conseil d'administration, dont une siégeant à ce conseil ; 
+
+2° Un des représentants du personnel au conseil d'administration, choisi par ces représentants. 
 
 Ces comités spécialisés peuvent être complétés par un ou plusieurs membres du conseil d'administration sur décision de celui-
-ci. Ils sont présidés par le président du conseil d'administration.
+ci. Le comité spécialisé pour les opérations dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie
+ainsi que le comité spécialisé pour les opérations à l'étranger sont présidés par le président du conseil d'administration.
+Le comité spécialisé pour l'appui aux initiatives des organisations non gouvernementales est présidé par le président du
+conseil d'administration ou par un membre du conseil d'administration qu'il désigne parmi les représentants de l'Etat. 
 
 Pour les membres des comités spécialisés autres que le président et les membres du conseil d'administration, un suppléant est
-désigné dans les mêmes conditions que le titulaire.
+désigné dans les mêmes conditions que le titulaire. 
 
 La durée du mandat des membres des comités spécialisés et les conditions de leur remplacement éventuel sont les mêmes que
-celles fixées pour les membres du conseil d'administration.
+celles fixées pour les membres du conseil d'administration. 
 
 Les comités spécialisés peuvent décider de soumettre à la délibération du conseil d'administration toute affaire de leur
-compétence. En pareil cas, ils transmettent au conseil leur avis sur l'affaire renvoyée.
+compétence. En pareil cas, ils transmettent au conseil leur avis sur l'affaire renvoyée. 
 
-IV. - Le conseil d'administration peut également déléguer une partie de ses pouvoirs au directeur général, qui lui rend
-compte à chaque séance des décisions qu'il a prises en vertu de cette délégation. La délégation au directeur général est
-exclusive de celles données aux comités spécialisés et ne peut porter sur les matières mentionnées aux 1°, 2°, 6°, 7°, 9° et
-13° de l'article R. 516-14.
+IV.-Le conseil d'administration peut également déléguer une partie de ses pouvoirs au directeur général, qui lui rend compte
+à chaque séance des décisions qu'il a prises en vertu de cette délégation. La délégation au directeur général est exclusive
+de celles données aux comités spécialisés et ne peut porter sur les matières mentionnées aux 1°, 2°, 6°, 7°, 9° et 13° de
+l'article R. 516-14.
 
-V. - Le conseil d'administration désigne un comité d'audit de trois à cinq membres qualifiés en matière d'analyse financière
-et d'évaluation des risques, dont un au moins pris en son sein. Ce comité d'audit donne un avis au conseil d'administration,
+V.-Le conseil d'administration désigne un comité d'audit de trois à cinq membres qualifiés en matière d'analyse financière et
+d'évaluation des risques, dont un au moins pris en son sein. Ce comité d'audit donne un avis au conseil d'administration,
 chaque fois que nécessaire et au moins une fois l'an, sur les états financiers de l'agence, l'efficacité de son contrôle
 interne et la gestion de ses risques.
 
@@ -89862,20 +89943,83 @@ interne et la gestion de ses risques.
 
 	  - Décret n°92-1176 du 30 octobre 1992 - art. Annexe, art. 14 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 	**Modifié par**:
 
-	  - Décret n°2006-530 du 9 mai 2006 - art. 10 () JORF 11 mai 2006
+	  - Décret n°2009-618 du 5 juin 2009 - art. 10
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R516-14 (M)
+	  - Code monétaire et financier - art. R516-14
+
+
+##### Sous-section 3 : Organisation locale
+
+###### Article R516-15-1
+
+L'agence peut ouvrir des représentations dans les pays où elle intervient.
+
+L'action de ces représentations s'exerce dans le cadre de la mission de coordination et d'animation assurée, en vertu de
+l'article 3 du décret n° 79-433 du 1er juin 1979 relatif aux pouvoirs des ambassadeurs et à l'organisation des services de
+l'Etat à l'étranger, par le chef de mission diplomatique accrédité dans l'Etat d'implantation. 
+
+Le chef de la représentation locale est nommé par le directeur général de l'agence, après avis du chef de mission
+diplomatique accrédité dans l'Etat où elle a son siège ; ce chef de mission adresse au directeur général un avis annuel sur
+la manière de servir du chef de représentation. 
+
+Le chef de mission diplomatique est tenu informé, pour la zone de compétence de la représentation mentionnée aux alinéas
+précédents, de la programmation des activités de l'agence et des opérations qu'elle met en œuvre ; il peut adresser au
+directeur général de l'agence des avis, d'une part, sur la conformité de cette programmation aux orientations de la
+coopération française dans la zone, d'autre part, sur ces opérations aux stades de l'identification, de l'élaboration et de
+l'évaluation. 
+
+Les représentations locales de l'agence peuvent faire partie, sur demande du directeur général adressée au ministre des
+affaires étrangères, des missions diplomatiques. 
+
+Le ministre compétent ou le chef de mission diplomatique est cosignataire des conventions de don conclues entre l'agence et
+les bénéficiaires, ainsi que des conventions de prêts souverains.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°79-433 du 1 juin 1979 - art. 3
+
+	**Créé par**:
+
+	  - Décret n°2009-618 du 5 juin 2009 - art. 11
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-37 (T)
+
+
+###### Article R516-15-2
+
+Le chef de la représentation de l'agence dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie rend
+compte au représentant de l'Etat territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-618 du 5 juin 2009 - art. 11
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1315 du 3 novembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R513-38 (T)
 
 
 ##### Sous-section 3 : Dispositions diverses.
+
+##### Sous-section 4 : Dispositions diverses.
 
 ###### Article R516-16
 
