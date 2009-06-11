@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-06-07
+Version Consolidée au 2009-06-12
 
 # Partie législative
 
@@ -67197,7 +67197,7 @@ d) Un représentant du ministre de l'intérieur ;
 
 e) Un représentant du ministre de la défense ;
 
-f)  Un représentant du ministre chargé de la consommation ;
+f) Un représentant du ministre chargé de la consommation ;
 
 g) Un représentant du ministre chargé de l'industrie ;
 
@@ -67230,36 +67230,39 @@ Sur proposition du collège "consommateurs" du Conseil national de la consommati
 Sur proposition de l'Assemblée des chambres françaises de commerce et d'industrie ou des organisations professionnelles du
 commerce, saisies par le ministre chargé de l'économie, pour les représentants des commerçants.
 
-Les membres de l'observatoire, autres que ceux représentant l'Etat, le gouverneur de la Banque de France et le secrétaire
-général de la Commission bancaire sont nommés pour trois ans. Leur mandat est renouvelable une fois.
+Les représentants des assemblées parlementaires siègent au sein de l'observatoire jusqu'à la fin de leur mandat de
+parlementaire ; leur mandat de membre de l'observatoire est renouvelable en cas de renouvellement de leur mandat de
+parlementaire. Les autres membres de l'observatoire, à l'exception de ceux représentant l'Etat, du gouverneur de la Banque de
+France et du secrétaire général de la Commission bancaire, sont nommés pour un mandat de trois ans renouvelable. En cas de
+vacance d'un siège de membre de l'observatoire, pour quelque cause que ce soit, il est procédé à son remplacement pour la
+durée du mandat restant à courir.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-709 du 2 mai 2002 - art. 1, v. init.
 	  - Décret n°2002-709 du 2 mai 2002 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-654 du 9 juin 2009 - art. 1
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 
 ###### Article R142-23
 
 Le président de l'Observatoire de la sécurité des cartes de paiement est désigné parmi ses membres par le ministre chargé de
-l'économie. Son mandat est de trois ans, renouvelable une fois. En cas de partage des votes, il a voix prépondérante.
+l'économie. Son mandat est de trois ans, renouvelable. En cas de partage des votes, il a voix prépondérante.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-709 du 2 mai 2002 - art. 2, v. init.
 	  - Décret n°2002-709 du 2 mai 2002 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-654 du 9 juin 2009 - art. 2
 
 
 ###### Article R142-24
@@ -89649,8 +89652,6 @@ et financés par ces collectivités ou groupements.
 	  - Code monétaire et financier - art. R516-14 (V)
 
 
-##### Sous-section 2 : Organisation.
-
 ##### Sous-section 2 : Organisation centrale.
 
 ###### Article R516-10
@@ -90016,8 +90017,6 @@ compte au représentant de l'Etat territorialement compétent.
 
 	  - Code monétaire et financier - art. R513-38 (T)
 
-
-##### Sous-section 3 : Dispositions diverses.
 
 ##### Sous-section 4 : Dispositions diverses.
 
