@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-06-12
+Version Consolidée au 2009-06-15
 
 # Partie législative
 
@@ -91465,31 +91465,24 @@ sera valablement libérée en lui remboursant le montant du dépôt sur sa quitt
 
 ###### Article R518-57
 
-Un comité chargé d'habiliter les associations sans but lucratif mentionnées au 5° de l'article L. 511-6 et d'émettre un avis
-sur les demandes d'agrément mentionnées à l'article L. 313-21-1 est placé auprès du ministre chargé de l'économie. Il suit
-l'activité des organismes ainsi habilités et agréés.
+Un comité chargé d'habiliter les associations sans but lucratif et les fondations reconnues d'utilité publique mentionnées au
+5° de l'article L. 511-6 et d'émettre un avis sur les demandes d'agrément mentionnées à l'article L. 313-21-1 est placé
+auprès du ministre chargé de l'économie. Il suit l'activité des organismes ainsi habilités et agréés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-652 du 30 avril 2002 - art. 1, v. init.
 	  - Décret n°2002-652 du 30 avril 2002 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Décret n°2007-334 du 12 mars 2007 - art. 1 () JORF 14 mars 2007
-	  - Décret n°2007-334 du 12 mars 2007 - art. 2 () JORF 14 mars 2007
-	  - Décret n°2007-334 du 12 mars 2007 - art. 4 () JORF 14 mars 2007
+	  - Décret n°2009-682 du 12 juin 2009 - art. 2
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L313-21-1 (V)
-	  - Code monétaire et financier - art. L511-6 (M)
+	  - Code monétaire et financier - art. L511-6 (VT)
 
 	**Cité par**:
 
@@ -91541,25 +91534,22 @@ Le comité établit son règlement intérieur.
 
 Les membres du comité et les personnes qui concourent à son activité sont tenus au secret professionnel en ce qui concerne
 les informations dont ils ont connaissance à l'occasion de leurs fonctions. Tout membre du comité s'abstient de délibérer
-s'il a ou a eu un intérêt direct et personnel dans l'association ou la société sur laquelle le comité est amené à prendre une
-décision.
+s'il a ou a eu un intérêt direct et personnel dans l'association, la fondation ou la société sur laquelle le comité est amené
+à prendre une décision.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-652 du 30 avril 2002 - art. 2, v. init.
 	  - Décret n°2002-652 du 30 avril 2002 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Décret n°2007-334 du 12 mars 2007 - art. 1 () JORF 14 mars 2007
-	  - Décret n°2007-334 du 12 mars 2007 - art. 3 () JORF 14 mars 2007
-	  - Décret n°2007-334 du 12 mars 2007 - art. 4 () JORF 14 mars 2007
+	  - Décret n°2009-682 du 12 juin 2009 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-471 du 11 avril 2012 - art. 1
 
 	**Cité par**:
 
@@ -91568,254 +91558,9 @@ décision.
 	  - Code monétaire et financier - art. R518-60 (V)
 	  - Code monétaire et financier - art. R518-61 (V)
 
+	**Nouveaux textes**:
 
-##### Sous-section 2 : Les associations sans but lucratif habilitées à faire certains prêts
-
-###### Article R518-59
-
-La demande d'habilitation est faite auprès du secrétariat du comité. Elle donne lieu, de sa part, à la délivrance d'un
-récépissé dès réception de l'ensemble des documents nécessaires à l'instruction de la demande.
-
-Le comité statue sur la demande par décision motivée, dans un délai maximal de quatre mois suivant la date de délivrance du
-récépissé. L'absence de réponse au-delà de ce délai vaut accord tacite de la part du comité.
-
-L'habilitation délivrée par le comité est valable trois ans. Elle peut être retirée durant cette période si l'association ne
-satisfait plus aux critères des articles R. 518-60 à R. 518-64. Elle peut être renouvelée, à l'issue de cette période, par
-décision expresse du comité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-652 du 30 avril 2002 - art. 3, v. init.
-	  - Décret n°2002-652 du 30 avril 2002 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-334 du 12 mars 2007 - art. 1 () JORF 14 mars 2007
-	  - Décret n°2007-334 du 12 mars 2007 - art. 5 () JORF 14 mars 2007
-
-	**Cité par**:
-
-	  - Arrêté du 18 juillet 2012 - art. 1 (V)
-	  - Arrêté du 20 mai 2015 (V)
-	  - Code monétaire et financier - art. R518-58 (V)
-	  - Code monétaire et financier - art. R518-61 (V)
-	  - Code monétaire et financier - art. R518-62 (T)
-
-	**Cite**:
-
-	  - Code monétaire et financier R518-60 à R518-64
-
-
-###### Article R518-60
-
-Les associations qui demandent l'habilitation doivent remplir les conditions suivantes :
-
-1° Une ancienneté d'au moins trois ans dans l'activité d'accompagnement de projets financés par des prêts d'honneur consentis
-par elles ou par des crédits bancaires ;
-
-2° Le traitement, à ce titre, d'un nombre minimum de dossiers par an, fixé par arrêté du ministre chargé de l'économie ;
-
-3° La compétence requise appréciée par le comité au vu, notamment, des réalisations passées, des résultats de l'activité
-d'accompagnement, du taux de remboursement des crédits et de l'aptitude à contrôler les risques et la gestion ;
-
-4° L'adhésion à la charte de qualité du Conseil national de la création d'entreprise et l'engagement d'adopter les
-indicateurs de performance définis par le comité ;
-
-5° La signature d'une convention de garantie appropriée des emprunts contractés par l'association.
-
-Les dirigeants de l'association doivent posséder l'honorabilité, la compétence et l'expérience nécessaires à l'exercice de
-leurs fonctions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-652 du 30 avril 2002 - art. 4, v. init.
-	  - Décret n°2002-652 du 30 avril 2002 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-334 du 12 mars 2007 - art. 1 () JORF 14 mars 2007
-	  - Décret n°2007-334 du 12 mars 2007 - art. 5 () JORF 14 mars 2007
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R518-59 (T)
-
-
-###### Article R518-61
-
-Les associations habilitées sont soumises aux obligations suivantes :
-
-1° Inclure dans leur objet statutaire l'activité de prêt pour la création et le développement d'entreprises créées ou
-reprises par des chômeurs ou des titulaires des minima sociaux ;
-
-2° Mettre en place, dans le cadre de leur activité de prêt, un contrôle interne qui doit prévoir notamment les règles de
-sélection et de surveillance des risques, la séparation des fonctions de décision et de contrôle, la signature par deux
-personnes habilitées pour l'octroi des prêts, la désignation d'un responsable du contrôle interne et les indicateurs de suivi
-des résultats de l'activité ;
-
-3° Faire certifier leurs comptes annuels par un commissaire aux comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-652 du 30 avril 2002 - art. 5, v. init.
-	  - Décret n°2002-652 du 30 avril 2002 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-334 du 12 mars 2007 - art. 1 () JORF 14 mars 2007
-	  - Décret n°2007-334 du 12 mars 2007 - art. 5 () JORF 14 mars 2007
-
-	**Cité par**:
-
-	  - Décret n°2017-563 du 18 avril 2017 - art. 1 (V)
-	  - Code monétaire et financier - art. R518-62 (V)
-
-
-###### Article R518-62
-
-Les opérations de prêts effectuées par les associations dans le cadre de l'habilitation délivrée en application de l'article
-R. 518-59 doivent répondre aux caractéristiques suivantes :
-
-1° Les prêts sont effectués à titre onéreux ;
-
-2° Les prêts ne peuvent être alloués aux entreprises créées ou développées que durant les cinq premières années suivant leur
-création ou leur reprise ;
-
-3° Sauf décision exceptionnelle de rééchelonnement dûment motivée, tous les prêts accordés à un même bénéficiaire sont
-remboursables et les intérêts payables dans un délai maximum de cinq ans à partir de la date de premier décaissement des
-fonds versés ;
-
-4° Pendant la période mentionnée au 2°, l'association ne peut consentir un nouveau prêt à l'entreprise bénéficiaire, en
-application de la présente section, que si l'échéancier de remboursement du ou des prêts précédemment alloués, éventuellement
-rééchelonnés dans les conditions prévues au 3°, est respecté ;
-
-5° Le montant total de l'encours des prêts alloués, en application de la présente section, est plafonné à 6 000 euros par
-participant au projet, sans pouvoir excéder 10 000 euros pour une même entreprise.
-
-Les prêts accordés doivent faire l'objet d'un suivi financier pendant leur durée.
-
-Les prêts doivent bénéficier d'une garantie apportée par un fonds de garantie ou de cautionnement agréé ou par un
-établissement de crédit.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-652 du 30 avril 2002 - art. 6, v. init.
-	  - Décret n°2002-652 du 30 avril 2002 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-334 du 12 mars 2007 - art. 1 () JORF 14 mars 2007
-	  - Décret n°2007-334 du 12 mars 2007 - art. 5 () JORF 14 mars 2007
-
-	**Cité par**:
-
-	  - Arrêté du 18 juillet 2012 - art. 2 (V)
-	  - Arrêté du 18 juillet 2012 - art. 3 (V)
-	  - Arrêté du 18 juillet 2012 - art. 4 (V)
-	  - Arrêté du 18 juillet 2012 - art. 5 (V)
-	  - Arrêté du 20 mai 2015 (V)
-	  - Code monétaire et financier - art. R518-63 (T)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R518-59 (M)
-
-
-###### Article R518-63
-
-Les encours de prêts contentieux ou douteux doivent être provisionnés à hauteur des pertes probables.
-
-La fraction des encours de prêts non provisionnés qui n'est pas couverte par les garanties mentionnées à l'article R. 518-62
-doit donner lieu à la constitution d'un fonds de réserve dont le taux applicable à cette fraction est déterminé par le
-comité, pour chaque association, selon des modalités fixées par arrêté du ministre chargé de l'économie. Cet arrêté prévoit
-notamment les conditions dans lesquelles est pris en compte, pour la fixation de ce taux, le taux de défaut observé en
-moyenne sur les crédits accordés par l'association dans le passé.
-
-A tout moment, le montant total des fonds propres et ressources assimilées doit être au moins égal au produit de la fraction
-des encours mentionnée à l'alinéa précédent par un pourcentage fixé par arrêté du ministre chargé de l'économie.
-
-Cet arrêté détermine la liste des éléments admis en fonds propres et ressources assimilées en sus du fonds de réserve prévu
-au deuxième alinéa.
-
-A tout moment, les encours de crédit doivent être financés par des ressources de durée au moins égale à celle des prêts. Cet
-adossement s'apprécie globalement, dans des conditions fixées par arrêté du ministre chargé de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-652 du 30 avril 2002 - art. 7, v. init.
-	  - Décret n°2002-652 du 30 avril 2002 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-334 du 12 mars 2007 - art. 1 () JORF 14 mars 2007
-	  - Décret n°2007-334 du 12 mars 2007 - art. 5 () JORF 14 mars 2007
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R518-62 (M)
-
-
-###### Article R518-64
-
-Le comité suit l'activité des associations habilitées, sans préjudice des contrôles auxquels elles sont soumises en tant
-qu'associations sans but lucratif. Il est destinataire, à ce titre, du bilan, du compte de résultats, du rapport d'activité
-annuel de l'association et du rapport du commissaire aux comptes. Le rapport d'activité comprend notamment un état et une
-analyse de la production et du remboursement des prêts.
-
-Le comité peut entendre les dirigeants et se faire communiquer toute information ou tout document utiles à l'accomplissement
-de sa mission. Il peut recueillir l'avis de tout expert de son choix, y compris des services du secrétariat général de la
-commission bancaire. Ces experts sont tenus, dans l'exercice de leurs missions, de respecter les règles du secret
-professionnel. Le cas échéant, le comité peut demander à un organisme externe un audit de l'association.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-652 du 30 avril 2002 - art. 8, v. init.
-	  - Décret n°2002-652 du 30 avril 2002 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-334 du 12 mars 2007 - art. 1 () JORF 14 mars 2007
-	  - Décret n°2007-334 du 12 mars 2007 - art. 5 () JORF 14 mars 2007
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R518-62 (T)
+	  - Code monétaire et financier - art. R518-64 (M)
 
 
 ##### Sous-section 3 : Les sociétés autorisées à consentir certaines garanties
@@ -91981,6 +91726,289 @@ société.
 
 	  - Code monétaire et financier - art. R518-68 (V)
 
+
+##### Section 5 : Les associations sans but lucratif, les fondations reconnues d'utilité publique et les sociétés autorisées à effectuer certaines opérations de banque.
+
+##### Sous-section 1 : Dispositions communes.
+
+##### Sous-section 2 : Les associations sans but lucratif et les fondations reconnues d'utilité publique habilitées à faire certains prêts
+
+###### Article R518-59
+
+La demande d'habilitation est faite auprès du secrétariat du comité. Elle donne lieu, de sa part, à la délivrance d'un
+récépissé dès réception de l'ensemble des documents nécessaires à l'instruction de la demande. La demande d'habilitation
+précise la destination des prêts suivant qu'ils ont pour objet la création et le développement d'entreprises, ou la
+réalisation de projets d'insertion par des personnes physiques. 
+
+Le comité statue sur la demande par décision motivée, dans un délai maximal de quatre mois suivant la date de délivrance du
+récépissé.L'absence de réponse au-delà de ce délai vaut accord tacite de la part du comité.
+
+L'habilitation délivrée par le comité est valable trois ans. Elle peut être retirée durant cette période si l'association ou
+la fondation ne satisfait plus aux critères des articles R. 518-60 à R. 518-64. Elle peut être renouvelée, à l'issue de cette
+période, par décision expresse du comité.
+
+L'habilitation délivrée par le comité mentionne le ou les types de prêts pouvant être accordés par le demandeur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-652 du 30 avril 2002 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-682 du 12 juin 2009 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-471 du 11 avril 2012 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 18 juillet 2012 - art. 1 (V)
+	  - Arrêté du 20 mai 2015 (V)
+	  - Code monétaire et financier - art. R518-58 (V)
+	  - Code monétaire et financier - art. R518-61 (V)
+	  - Code monétaire et financier - art. R518-62 (T)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R518-58 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R518-60 (V)
+
+
+###### Article R518-60
+
+Les associations et les fondations qui demandent l'habilitation doivent remplir les conditions suivantes :
+
+1° Une ancienneté d'au moins dix-huit mois dans l'activité d'accompagnement de projets financés par des prêts consentis par
+elles sur leurs ressources propres ou par des crédits bancaires ;
+
+2° Le traitement, à ce titre, d'un nombre minimum de dossiers par an, fixé par arrêté du ministre chargé de l'économie ;
+
+3° La compétence requise appréciée par le comité au vu, notamment, des réalisations passées, des résultats de l'activité
+d'accompagnement, du taux de remboursement des crédits et de l'aptitude à contrôler les risques et la gestion ;
+
+4° L'engagement d'adopter les indicateurs de performance définis par le comité ;
+
+5° La signature d'une convention de garantie appropriée des emprunts contractés par l'association ou la fondation.
+
+Les dirigeants de l'association ou de la fondation doivent posséder l'honorabilité, la compétence et l'expérience nécessaires
+à l'exercice de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-652 du 30 avril 2002 - art. 4 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-682 du 12 juin 2009 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-471 du 11 avril 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R518-59 (T)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R518-59 (V)
+
+
+###### Article R518-61
+
+Les associations et les fondations habilitées sont soumises aux obligations suivantes : 
+
+1° Inclure dans leur objet statutaire l'activité de prêt pour la création et le développement d'entreprises et celle de prêts
+pour la réalisation de projets d'insertion par des personnes physiques, en fonction de l'habilitation qui leur a été donnée
+en application de l'article R. 518-59 ; 
+
+2° Mettre en place, dans le cadre de leur activité de prêt, un contrôle interne qui doit prévoir notamment les règles de
+sélection et de surveillance des risques, la séparation des fonctions de décision et de contrôle, la signature par une
+personne dûment habilitée pour l'octroi des prêts, la désignation d'un responsable du contrôle interne et les indicateurs de
+suivi des résultats de l'activité ; 
+
+3° Faire certifier leurs comptes annuels par un commissaire aux comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-652 du 30 avril 2002 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-682 du 12 juin 2009 - art. 5
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-471 du 11 avril 2012 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-563 du 18 avril 2017 - art. 1 (V)
+	  - Code monétaire et financier - art. R518-62 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R518-59 (V)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R518-60 (V)
+
+
+###### Article R518-62
+
+Les opérations de prêts effectuées par les associations et les fondations dans le cadre de l'habilitation délivrée en
+application de l'article R. 518-59 répondent aux caractéristiques suivantes : 
+
+1° Les prêts sont effectués à titre onéreux ; 
+
+2° Les prêts ne peuvent être alloués aux entreprises que durant les cinq premières années suivant leur création ou leur
+reprise ; 
+
+3° Les prêts ne peuvent être alloués à des entreprises employant plus de trois salariés ; 
+
+4° Les prêts destinés à participer au financement des projets d'insertion sont accordés à des personnes physiques,
+confrontées à des difficultés de financement, dont les capacités de remboursement de ces prêts sont jugées suffisantes par
+les associations ou les fondations et qui bénéficient d'un accompagnement social. Ces prêts sont accordés dans une
+perspective d'accès, de maintien ou de retour à un emploi. Ils peuvent également être accordés pour la réalisation de projets
+d'insertion sociale qui ne sont pas directement liés à un objectif professionnel ; 
+
+5° Sauf décision exceptionnelle de rééchelonnement dûment motivée, tous les prêts accordés à un même bénéficiaire sont
+remboursables et les intérêts payables dans un délai maximum de cinq ans à partir de la date de premier décaissement des
+fonds versés ; 
+
+6° Pendant la période mentionnée au 2°, l'association ou la fondation ne peut consentir un nouveau prêt à l'entreprise
+bénéficiaire, en application de la présente section, que si l'échéancier de remboursement du ou des prêts précédemment
+alloués, éventuellement rééchelonnés dans les conditions prévues au 5°, est respecté ; 
+
+7° Le montant total de l'encours des prêts alloués, en application de la présente section, est plafonné à : 
+
+a) 10 000 € par participant et par entreprise pour un projet de création ou de développement d'entreprise ; 
+
+b) 3 000 € par emprunteur lorsque le prêt est accordé à une personne physique pour la réalisation d'un projet d'insertion. 
+
+Les prêts accordés font l'objet d'un suivi financier pendant leur durée. Le comité visé à l'article R. 518-57 détermine les
+conditions dans lesquelles les associations ou fondations doivent effectuer un suivi financier des prêts qu'elles accordent
+et en rendre compte au comité conformément à l'article R. 518-64. 
+
+Les prêts doivent bénéficier d'une garantie apportée par un fonds de garantie ou de cautionnement agréé ou par un
+établissement de crédit.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-652 du 30 avril 2002 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-682 du 12 juin 2009 - art. 6
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-471 du 11 avril 2012 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 18 juillet 2012 - art. 2 (V)
+	  - Arrêté du 18 juillet 2012 - art. 3 (V)
+	  - Arrêté du 18 juillet 2012 - art. 4 (V)
+	  - Arrêté du 18 juillet 2012 - art. 5 (V)
+	  - Arrêté du 20 mai 2015 (V)
+	  - Code monétaire et financier - art. R518-63 (T)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R518-57 (V)
+	  - Code monétaire et financier - art. R518-59 (V)
+	  - Code monétaire et financier - art. R518-64 (V)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R518-61 (V)
+
+
+###### Article R518-63
+
+Les encours de prêts contentieux ou douteux doivent être provisionnés à hauteur des pertes probables. 
+
+La fraction des encours de prêts non provisionnés qui n'est pas couverte par les garanties mentionnées à l'article R. 518-62
+doit donner lieu à la constitution d'un fonds de réserve. Le comité détermine le taux applicable à cette fraction pour chaque
+association ou chaque fondation, selon des modalités fixées par arrêté du ministre chargé de l'économie. Cet arrêté prévoit
+notamment les conditions dans lesquelles est pris en compte, pour la fixation de ce taux, le taux de défaut observé en
+moyenne sur les crédits accordés par l'association dans le passé ou par la fondation.
+
+A tout moment, le montant total des fonds propres et ressources assimilées doit être au moins égal au produit de la fraction
+des encours mentionnée à l'alinéa précédent par un pourcentage fixé par arrêté du ministre chargé de l'économie. 
+
+Cet arrêté détermine la liste des éléments admis en fonds propres et ressources assimilées en sus du fonds de réserve prévu
+au deuxième alinéa.
+
+A tout moment, les encours de crédit doivent être financés par des ressources de durée au moins égale à celle des prêts. Cet
+adossement s'apprécie globalement, dans des conditions fixées par arrêté du ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-652 du 30 avril 2002 - art. 7 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-682 du 12 juin 2009 - art. 7
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-471 du 11 avril 2012 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R518-62 (V)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R518-62 (V)
+
+
+###### Article R518-64
+
+Le comité suit l'activité des associations et des fondations habilitées, sans préjudice des contrôles auxquelles elles sont
+soumises en tant qu'associations sans but lucratif ou fondations reconnues d'utilité publique. Il est destinataire, à ce
+titre, du bilan, du compte de résultats, du rapport d'activité annuel de l'association ou de la fondation et du rapport du
+commissaire aux comptes. Le rapport d'activité comprend notamment un état et une analyse de la production et du remboursement
+des prêts.
+
+Le comité peut entendre les dirigeants et se faire communiquer toute information ou tout document utiles à l'accomplissement
+de sa mission. Il peut recueillir l'avis de tout expert de son choix, y compris des services du secrétariat général de la
+commission bancaire. Ces experts sont tenus, dans l'exercice de leurs missions, de respecter les règles du secret
+professionnel. Le cas échéant, le comité peut demander à un organisme externe un audit de l'association ou de la fondation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-652 du 30 avril 2002 - art. 8 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-682 du 12 juin 2009 - art. 8
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R518-62 (T)
+
+
+##### Sous-section 3 : Les sociétés autorisées à consentir certaines garanties
 
 ### Titre III : Les prestataires de services d'investissement
 
