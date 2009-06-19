@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-06-15
+Version Consolidée au 2009-06-20
 
 # Partie législative
 
@@ -32154,6 +32154,38 @@ Un arrêté du ministre chargé de l'économie précise les modalités d'applica
 	**Cite**:
 
 	  - Code monétaire et financier - art. L511-41 (M)
+
+
+###### Article L511-45
+
+Dans les conditions fixées par arrêté du ministre chargé de l'économie, les établissements de crédit publient en annexe à
+leurs comptes annuels des informations sur leurs implantations et leurs activités dans les Etats ou territoires qui n'ont pas
+conclu avec la France de convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales
+permettant l'accès aux renseignements bancaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-715 du 18 juin 2009 - art. 7
+
+	**Cité par**:
+
+	  - Arrêté du 6 octobre 2009 (V)
+	  - Arrêté du 6 octobre 2009 - art. 1 (V)
+	  - Arrêté du 3 novembre 2014 - art. 57 (V)
+	  - Décret n°2014-1657 du 29 décembre 2014 (V)
+	  - Décret n°2015-564 du 20 mai 2015 (V)
+	  - Code monétaire et financier - art. L745-1-1 (VT)
+	  - Code monétaire et financier - art. L755-1-1 (VT)
+	  - Code monétaire et financier - art. L765-1-1 (VT)
+	  - Code monétaire et financier - art. R511-16-2 (T)
+	  - Code monétaire et financier - art. R511-17-1 (V)
+	  - Code monétaire et financier - art. R533-18-1 (V)
 
 
 #### Chapitre II : Les banques mutualistes ou coopératives
@@ -87956,6 +87988,8 @@ Lorsque les dispositions de l'alinéa précédent ne permettent plus de pourvoir
 
 ##### Sous-section 5 : La Caisse nationale des caisses d'épargne et de prévoyance.
 
+##### Sous-section 5 : L'organe central des caisses d'épargne et des banques populaires
+
 ###### Article R512-56
 
 Les établissements de crédit contrôlés dont il est fait mention au II de l'article L. 512-95 s'entendent de ceux qui sont
@@ -91459,7 +91493,7 @@ sera valablement libérée en lui remboursant le montant du dépôt sur sa quitt
 	  - Ordonnance n°1816-07-03 du 3 juillet 1816 - art. 11 (Ab)
 
 
-##### Section 5 : Les associations sans but lucratif et les sociétés autorisées à effectuer certaines opérations de banque.
+##### Section 5 : Les associations sans but lucratif, les fondations reconnues d'utilité publique et les sociétés autorisées à effectuer certaines opérations de banque.
 
 ##### Sous-section 1 : Dispositions communes.
 
@@ -91562,174 +91596,6 @@ s'il a ou a eu un intérêt direct et personnel dans l'association, la fondation
 
 	  - Code monétaire et financier - art. R518-64 (M)
 
-
-##### Sous-section 3 : Les sociétés autorisées à consentir certaines garanties
-
-###### Article R518-65
-
-I. - La demande d'agrément est déposée auprès du secrétariat du comité. Elle donne lieu, de sa part, à la délivrance d'un
-récépissé dès réception de l'ensemble des documents nécessaires à l'instruction de la demande.
-
-La société présente dans sa demande :
-
-1° La copie intégrale des inscriptions portées au registre du commerce et des sociétés la concernant ;
-
-2° Ses compétences, son activité passée et prévisionnelle ;
-
-3° Ses règles de sélection et de surveillance des risques, le nom et les coordonnées de la personne responsable du contrôle
-de l'application de ces règles, ainsi que le taux de sinistralité passé et prévisionnel pour les opérations qu'elle
-accompagne ou dans lesquelles elle prend un risque financier.
-
-II. - Le comité vérifie si la société demanderesse satisfait aux conditions suivantes :
-
-1° La société dispose de l'expérience nécessaire dans l'accompagnement des projets de développement d'entreprises ;
-
-2° Elle dispose des compétences nécessaires ;
-
-3° Elle dispose d'un contrôle interne des risques.
-
-Le comité peut en outre proposer au ministre de subordonner l'agrément au respect de certaines conditions portant notamment
-sur l'actionnariat ou le niveau de fonds propres de la société.
-
-III. - Le ministre chargé de l'économie statue sur la demande d'agrément après avis du comité, lequel est réputé donné à
-l'expiration d'un délai de deux mois à compter de la date de délivrance du récépissé mentionné au premier alinéa du I. La
-décision du ministre est prise dans un délai de quatre mois à compter de la même date.
-
-La liste des sociétés agréées est publiée au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-334 du 12 mars 2007 - art. 6 () JORF 14 mars 2007
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R518-66 (V)
-
-
-###### Article R518-66
-
-Les sociétés agréées transmettent au comité, chaque année, leurs comptes sociaux et, le cas échéant, consolidés, certifiés
-par un commissaire aux comptes. Elles transmettent également, sur une base semestrielle, un document indiquant les montants
-brut et net des garanties partielles octroyées par la société, ainsi que le montant de ses fonds propres et de ses ressources
-disponibles.
-
-Le comité peut obtenir communication de tout autre document ou information nécessaire à l'exercice de ses missions.
-
-Le comité détermine le modèle et les délais de transmission des documents et informations qui doivent lui être remis.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-334 du 12 mars 2007 - art. 6 () JORF 14 mars 2007
-
-
-###### Article R518-67
-
-Le comité peut proposer au ministre d'adresser à toute société agréée sur le fondement de l'article R. 518-57 toute
-recommandation relative à son activité, son actionnariat ou sa situation financière, notamment au niveau de ses fonds
-propres, engagements et provisions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-334 du 12 mars 2007 - art. 6 () JORF 14 mars 2007
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R518-57 (M)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R518-68 (V)
-
-
-###### Article R518-68
-
-Le ministre chargé de l'économie peut retirer l'agrément :
-
-1° Soit sur demande motivée de la société ;
-
-2° Soit d'office, lorsque la société ne respecte plus les conditions auxquelles l'agrément est subordonné, ou les obligations
-mentionnées à l'article R. 518-69, ou lorsque la société n'a pas fait usage de son agrément dans un délai de vingt-quatre
-mois ou qu'elle n'exerce plus son activité depuis au moins six mois ;
-
-3° Soit si la société ne s'est pas conformée aux recommandations mentionnées à l'article R. 518-67 dans un délai fixé par le
-ministre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-334 du 12 mars 2007 - art. 6 () JORF 14 mars 2007
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R518-67 (V)
-	  - Code monétaire et financier - art. R518-69 (V)
-
-
-###### Article R518-69
-
-L'octroi de garanties partielles par les sociétés agréées sur le fondement de l'article R. 518-57 ou par les sociétés
-retenues pour contribuer à la création d'activités ou au développement des emplois dans le cadre d'une convention passée avec
-l'Etat en application des articles L. 1233-84 à L. 1233-89 du code du travail doit répondre aux caractéristiques suivantes : 
-
-1° Les prêts octroyés par des établissements de crédit faisant l'objet d'une garantie partielle sont effectués à titre
-onéreux ; 
-
-2° Les garanties partielles accordées au profit d'un même établissement de crédit ou d'une même société de caution mutuelle
-artisanale ne peuvent dépasser 30 % de la somme des valeurs nominales des prêts et des cautions accordés par l'ensemble des
-établissements de crédit et des sociétés de caution mutuelle artisanales au titre de leurs opérations garanties par la
-société.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3, en vigueur le 1er mai 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2007-334 du 12 mars 2007 - art. 6 () JORF 14 mars 2007
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. R518-57 (M)
-	  - Code du travail - art. L1233-84 (V)
-	  - Code du travail - art. L1233-89 (V)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R518-68 (V)
-
-
-##### Section 5 : Les associations sans but lucratif, les fondations reconnues d'utilité publique et les sociétés autorisées à effectuer certaines opérations de banque.
-
-##### Sous-section 1 : Dispositions communes.
 
 ##### Sous-section 2 : Les associations sans but lucratif et les fondations reconnues d'utilité publique habilitées à faire certains prêts
 
@@ -92009,6 +91875,168 @@ professionnel. Le cas échéant, le comité peut demander à un organisme extern
 
 
 ##### Sous-section 3 : Les sociétés autorisées à consentir certaines garanties
+
+###### Article R518-65
+
+I. - La demande d'agrément est déposée auprès du secrétariat du comité. Elle donne lieu, de sa part, à la délivrance d'un
+récépissé dès réception de l'ensemble des documents nécessaires à l'instruction de la demande.
+
+La société présente dans sa demande :
+
+1° La copie intégrale des inscriptions portées au registre du commerce et des sociétés la concernant ;
+
+2° Ses compétences, son activité passée et prévisionnelle ;
+
+3° Ses règles de sélection et de surveillance des risques, le nom et les coordonnées de la personne responsable du contrôle
+de l'application de ces règles, ainsi que le taux de sinistralité passé et prévisionnel pour les opérations qu'elle
+accompagne ou dans lesquelles elle prend un risque financier.
+
+II. - Le comité vérifie si la société demanderesse satisfait aux conditions suivantes :
+
+1° La société dispose de l'expérience nécessaire dans l'accompagnement des projets de développement d'entreprises ;
+
+2° Elle dispose des compétences nécessaires ;
+
+3° Elle dispose d'un contrôle interne des risques.
+
+Le comité peut en outre proposer au ministre de subordonner l'agrément au respect de certaines conditions portant notamment
+sur l'actionnariat ou le niveau de fonds propres de la société.
+
+III. - Le ministre chargé de l'économie statue sur la demande d'agrément après avis du comité, lequel est réputé donné à
+l'expiration d'un délai de deux mois à compter de la date de délivrance du récépissé mentionné au premier alinéa du I. La
+décision du ministre est prise dans un délai de quatre mois à compter de la même date.
+
+La liste des sociétés agréées est publiée au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-334 du 12 mars 2007 - art. 6 () JORF 14 mars 2007
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R518-66 (V)
+
+
+###### Article R518-66
+
+Les sociétés agréées transmettent au comité, chaque année, leurs comptes sociaux et, le cas échéant, consolidés, certifiés
+par un commissaire aux comptes. Elles transmettent également, sur une base semestrielle, un document indiquant les montants
+brut et net des garanties partielles octroyées par la société, ainsi que le montant de ses fonds propres et de ses ressources
+disponibles.
+
+Le comité peut obtenir communication de tout autre document ou information nécessaire à l'exercice de ses missions.
+
+Le comité détermine le modèle et les délais de transmission des documents et informations qui doivent lui être remis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-334 du 12 mars 2007 - art. 6 () JORF 14 mars 2007
+
+
+###### Article R518-67
+
+Le comité peut proposer au ministre d'adresser à toute société agréée sur le fondement de l'article R. 518-57 toute
+recommandation relative à son activité, son actionnariat ou sa situation financière, notamment au niveau de ses fonds
+propres, engagements et provisions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-334 du 12 mars 2007 - art. 6 () JORF 14 mars 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R518-57 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R518-68 (V)
+
+
+###### Article R518-68
+
+Le ministre chargé de l'économie peut retirer l'agrément :
+
+1° Soit sur demande motivée de la société ;
+
+2° Soit d'office, lorsque la société ne respecte plus les conditions auxquelles l'agrément est subordonné, ou les obligations
+mentionnées à l'article R. 518-69, ou lorsque la société n'a pas fait usage de son agrément dans un délai de vingt-quatre
+mois ou qu'elle n'exerce plus son activité depuis au moins six mois ;
+
+3° Soit si la société ne s'est pas conformée aux recommandations mentionnées à l'article R. 518-67 dans un délai fixé par le
+ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-334 du 12 mars 2007 - art. 6 () JORF 14 mars 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R518-67 (V)
+	  - Code monétaire et financier - art. R518-69 (V)
+
+
+###### Article R518-69
+
+L'octroi de garanties partielles par les sociétés agréées sur le fondement de l'article R. 518-57 ou par les sociétés
+retenues pour contribuer à la création d'activités ou au développement des emplois dans le cadre d'une convention passée avec
+l'Etat en application des articles L. 1233-84 à L. 1233-89 du code du travail doit répondre aux caractéristiques suivantes : 
+
+1° Les prêts octroyés par des établissements de crédit faisant l'objet d'une garantie partielle sont effectués à titre
+onéreux ; 
+
+2° Les garanties partielles accordées au profit d'un même établissement de crédit ou d'une même société de caution mutuelle
+artisanale ne peuvent dépasser 30 % de la somme des valeurs nominales des prêts et des cautions accordés par l'ensemble des
+établissements de crédit et des sociétés de caution mutuelle artisanales au titre de leurs opérations garanties par la
+société.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3, en vigueur le 1er mai 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2007-334 du 12 mars 2007 - art. 6 () JORF 14 mars 2007
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R518-57 (M)
+	  - Code du travail - art. L1233-84 (V)
+	  - Code du travail - art. L1233-89 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R518-68 (V)
+
 
 ### Titre III : Les prestataires de services d'investissement
 
@@ -95067,49 +95095,6 @@ dans le cadre d'une consultation juridique.
 
 
 #### Chapitre IV : Dispositions relatives à la lutte contre le financement des activités terroristes.
-
-###### Article R564-1
-
-Lorsqu'une mesure de gel des fonds, instruments financiers et ressources économiques mentionnée à l'article L. 564-2 a été
-prise par le ministre chargé de l'économie, la personne qui en a fait l'objet peut faire une demande afin de disposer
-mensuellement, dans la limite des avoirs ou fonds disponibles, d'une somme à caractère alimentaire d'un montant au plus égal
-à celui du revenu mensuel minimum d'insertion.
-
-La demande est adressée au ministre chargé de l'économie, qui notifie sa décision à l'intéressé dans un délai de quinze jours
-à compter de la réception de celle-ci. Il informe l'organisme teneur du compte ou du contrat de sa décision. L'absence de
-notification d'une décision au demandeur dans le délai de quinze jours à compter de la réception de la demande vaut décision
-de rejet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 2 () JORF 13 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-716 du 18 juin 2009 - art. 7
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L564-2
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R563-3 (M)
-	  - Code monétaire et financier - art. R735-10 (Ab)
-	  - Code monétaire et financier - art. R745-10 (V)
-	  - Code monétaire et financier - art. R755-10 (V)
-	  - Code monétaire et financier - art. R765-10 (V)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. R565-1 (V)
-
 
 ###### Article R564-2
 
