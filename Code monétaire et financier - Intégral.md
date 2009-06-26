@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-06-20
+Version Consolidée au 2009-06-27
 
 # Partie législative
 
@@ -54927,6 +54927,41 @@ Pierre-et-Miquelon, de telle sorte que ces mesures y aient des effets identiques
 	  - Code monétaire et financier - art. L711-15 (VT)
 
 
+#### Chapitre Ier : Dispositions applicables à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et à Mayotte
+
+##### Section 1 : Les signes monétaires
+
+##### Section 2 : L'institut d'émission des départements d'outre-mer
+
+##### Section 3 : Dispositions relatives à l'euro à Mayotte et à Saint-Pierre-et-Miquelon
+
+##### Section 4 : Dispositions communes à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et à Mayotte
+
+###### Article L711-17
+
+I.-Pour l'application du titre Ier du livre II à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et à Mayotte,
+les références fiscales des articles L. 211-22 et L. 211-28 sont remplacées par des références aux dispositions applicables
+localement ayant le même objet. 
+
+II.-L'article L. 211-23 n'est pas applicable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-797 du 24 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-22
+	  - Code monétaire et financier - art. L211-23
+	  - Code monétaire et financier - art. L211-28
+
+
 #### Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et dans les îles Wallis-et-Futuna
 
 ##### Section 1 : Les signes monétaires
@@ -55066,20 +55101,18 @@ L'institut d'émission est délié du secret professionnel pour l'exercice de ce
 	  - Code de la consommation - art. L771-7 (VD)
 
 
-##### Section 3 : Les instruments de la monnaie scripturale
-
 ###### Article L712-5
 
 En Nouvelle-Calédonie, en Polynésie française et dans le territoire des îles Wallis-et-Futuna, l'institut d'émission d'outre-
 mer assure, en liaison avec la Banque de France, la centralisation des incidents de paiement et des informations permettant
 d'identifier l'ensemble des comptes détenus par les personnes mentionnées à l'article L. 131-72 et au deuxième alinéa de
-l'article L. 163-6.
+l'article L. 163-6. Il garantit également le respect des dispositions de l'article L. 221-38.
 
 L'institut d'émission d'outre-mer s'assure, en liaison avec la Banque de France, de la sécurité des moyens de paiement tels
 que définis à l'article L. 311-3, autres que la monnaie fiduciaire, et de la pertinence des normes applicables en la matière.
 S'il estime qu'un de ces moyens de paiement présente des garanties de sécurité insuffisantes, il peut recommander à son
 émetteur de prendre toutes mesures destinées à y remédier. Si ces recommandations n'ont pas été suivies d'effet, il peut,
-après avoir recueilli les observations de l'émetteur, décider de formuler un avis négatif publié au Journal officiel.
+après avoir recueilli les observations de l'émetteur, décider de formuler un avis négatif publié au Journal officiel. 
 
 Pour l'exercice de ces missions, l'institut d'émission d'outre-mer procède ou fait procéder par la Banque de France aux
 expertises et se fait communiquer, par l'émetteur ou par toute personne intéressée, les informations utiles concernant les
@@ -55093,13 +55126,14 @@ moyens de paiement et les terminaux ou les dispositifs techniques qui leur sont 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 89 () JORF 7 mai 2005
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L131-72 (M)
-	  - Code monétaire et financier - art. L163-6 (M)
-	  - Code monétaire et financier - art. L311-3 (V)
+	  - Code monétaire et financier - art. L131-72
+	  - Code monétaire et financier - art. L163-6
+	  - Code monétaire et financier - art. L221-38
+	  - Code monétaire et financier - art. L311-3
 
 	**Cité par**:
 
@@ -55119,10 +55153,6 @@ moyens de paiement et les terminaux ou les dispositifs techniques qui leur sont 
 	  - Code monétaire et financier - art. L765-8-4 (V)
 	  - Code monétaire et financier - art. L765-8-5 (V)
 	  - Code monétaire et financier - art. R712-10 (V)
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 74-3
 
 
 ##### Section 4 : Les systèmes de paiement et les systèmes de compensation, de règlement et de livraison des instruments financiers
@@ -55872,7 +55902,7 @@ L'article L. 214-41 n'est pas applicable à Saint-Pierre-et-Miquelon.
 
 ###### Article L722-2
 
-Les articles L. 221-1 à L. 221-28 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+Les articles L. 221-13 à L. 221-27 ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -55882,11 +55912,11 @@ Les articles L. 221-1 à L. 221-28 ne sont pas applicables à Saint-Pierre-et-Mi
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 86 () JORF 7 mai 2005
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier L221-1 à L221-28
+	  - Code monétaire et financier - art. L221-13
 
 
 ###### Article L722-3
@@ -57427,7 +57457,11 @@ Saint-Barthélemy, Saint-Martin, Mayotte, Saint-Pierre-et-Miquelon, la Polynési
 
 ###### Article L742-1
 
-Les articles L. 211-1 à L. 212-6 sont applicables à la Nouvelle-Calédonie.
+I.-Les articles L. 211-1 à L. 211-22, et L. 211-24 à L. 211-41 sont applicables en Nouvelle-Calédonie, sous réserve des
+adaptations prévues au II. 
+
+II.-Les références fiscales des articles L. 211-22 et L. 211-28 sont remplacées par des références aux dispositions
+applicables localement ayant le même objet.
 
 **Liens relatifs à cet article**
 
@@ -57435,7 +57469,6 @@ Les articles L. 211-1 à L. 212-6 sont applicables à la Nouvelle-Calédonie.
 
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 94 (M)
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 53 (Ab)
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
@@ -57443,11 +57476,14 @@ Les articles L. 211-1 à L. 212-6 sont applicables à la Nouvelle-Calédonie.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 1 (V) JORF 20 janvier 2006
+	  - Ordonnance n°2009-797 du 24 juin 2009 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier L211-1 à L212-6
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L211-22
+	  - Code monétaire et financier - art. L211-24
+	  - Code monétaire et financier - art. L211-28
 
 
 ##### Sous-section 2 : Les titres de capital et titres donnant accès au capital
@@ -57604,6 +57640,61 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 ###### Article L742-6-1
 
+Les articles L. 221-1 à L. 221-9 et L. 221-38 sont applicables en Nouvelle-Calédonie sous réserve des adaptations
+suivantes : 
+
+1° Aux articles L. 221-2, L. 221-4 et L. 221-6, les mots : " l'établissement de crédit mentionné à l'article L. 518-25-1 "
+sont remplacés par les mots : " l'office des postes et télécommunications " ; 
+
+2° A l'article L. 221-3 : 
+
+a) Au premier alinéa, les mots : ", aux associations mentionnées au 5 de l'article 206 du code général des impôts et aux
+organismes d'habitations à loyer modéré " sont supprimés ; 
+
+b) Au troisième alinéa, les mots : " ou d'un seul compte spécial sur livret du Crédit mutuel ouvert avant le 1er janvier 2009
+" sont supprimés ; 
+
+3° A l'article L. 221-5 : 
+
+a) Au premier alinéa, les mots : " et du livret de développement durable régi par l'article L. 221-27 " sont supprimés et les
+mots : " l'un ou l'autre livret " sont remplacés par les mots : " ce livret " ; 
+
+b) Au deuxième alinéa, les mots : " et du livret de développement durable " sont supprimés et les mots : " ces livrets " sont
+remplacés par les mots : " ce livret " ; 
+
+c) Aux quatrième et cinquième alinéas, les mots : " ou le livret de développement durable " sont supprimés ; 
+
+d) Au cinquième alinéa, les mots : " ces deux livrets " sont remplacés par les mots : " ce livret " ; 
+
+4° Au premier alinéa de l'article L. 221-6, les mots : " et ceux distribuant le livret de développement durable " sont
+supprimés ; 
+
+5° A l'article L. 221-8, les mots : " ainsi que celles relatives aux comptes spéciaux sur livret du Crédit mutuel ouverts
+avant le 1er janvier 2009 " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-1
+	  - Code monétaire et financier - art. L221-3
+	  - Code monétaire et financier - art. L221-38
+	  - Code monétaire et financier - art. L221-4
+	  - Code monétaire et financier - art. L221-5
+	  - Code monétaire et financier - art. L221-6
+	  - Code monétaire et financier - art. L221-8
+
+
+###### Article L742-6-2
+
 I. ― Les articles L. 221-35 et L. 221-37 sont applicables en Nouvelle-Calédonie sous réserve des adaptations prévues au II. 
 
 II.-1° L'article L. 221-35 est complété par la phrase suivante : " Ces dispositions sont applicables à l'office des postes et
@@ -57611,7 +57702,7 @@ télécommunications. " ;
 
 2° L'article L. 221-37 est remplacé par les dispositions suivantes : 
 
-Art.L. 221-37.-En ce qui concerne les établissements de crédit, des agents de l'Institut d'émission d'outre-mer désignés à
+Art. L. 221-37.-En ce qui concerne les établissements de crédit, des agents de l'Institut d'émission d'outre-mer désignés à
 cet effet sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation par procès-
 verbal des infractions aux dispositions de l'article L. 221-35.
 
@@ -57623,19 +57714,16 @@ verbal des infractions aux dispositions de l'article L. 221-35.
 
 	**Créé par**:
 
-	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L221-35
+	  - Code monétaire et financier - art. L221-35 (V)
+	  - Code monétaire et financier - art. L221-37 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code monétaire et financier - art. L742-6-2 (V)
+	  - Code monétaire et financier - art. L742-6-1 (T)
 
 
 ###### Article L742-7
@@ -57693,7 +57781,20 @@ Les articles L. 311-1 à L. 311-3 sont applicables en Nouvelle-Calédonie.
 ###### Article L743-2
 
 Le chapitre II du titre Ier du livre III est applicable en Nouvelle-Calédonie, à l'exception des articles L. 312-17 et L.
-312-18. 
+312-18.
+
+L'article L. 312-1 est adapté comme suit : 
+
+1° Au deuxième alinéa : 
+
+a) Dans la deuxième phrase, les mots : " la Banque de France afin qu'elle " sont remplacés par les mots : " l'institut
+d'émission d'outre-mer afin qu'il " ; 
+
+b) Dans les troisième et quatrième phrases, les mots : " la Banque de France, sont remplacés par les mots : " l'institut
+d'émission d'outre-mer " ; 
+
+2° Aux sixième et septième alinéas, les mots : " la Banque de France " sont remplacés partout où ils figurent par les mots :
+" l'institut d'émission d'outre-mer ". 
 
 Le premier alinéa du II de l'article L. 312-1-2 est remplacé par les dispositions suivantes : " Des agents de l'institut
 d'émission d'outre-mer sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation
@@ -57709,8 +57810,7 @@ Les articles L. 312-1, L. 312-1-1 et L. 312-1-3 sont applicables à l'office des
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
-	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 2 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 5
 
 	**Cite**:
 
@@ -57871,15 +57971,10 @@ Le titre II du livre III est applicable en Nouvelle-Calédonie sous réserve de 
 
 ###### Article L743-9
 
-Les articles L. 330-1 et L. 330-2 sont applicables en Nouvelle-Calédonie sous réserve, au I de l'article L. 330-1, de
-supprimer au premier alinéa les mots : "ou internationale" et : "ou d'établissement non résident ayant un statut comparable",
-la seconde phrase du deuxième alinéa ainsi que les troisième, quatrième et cinquième alinéas.
+Les articles L. 330-1 et L. 330-2 sont applicables en Nouvelle-Calédonie, à l'exception de la dernière phrase du I et des
+huitième, neuvième et dernier alinéas du II de l'article L. 330-1.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
 
 	**Codifié par**:
 
@@ -57887,12 +57982,11 @@ la seconde phrase du deuxième alinéa ainsi que les troisième, quatrième et c
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 7 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
+	  - Ordonnance n°2009-797 du 24 juin 2009 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L330-1 (M)
-	  - Code monétaire et financier - art. L330-2 (M)
+	  - Code monétaire et financier - art. L330-1
 
 
 ##### Section 4 : Démarchage
@@ -58257,16 +58351,15 @@ L'article L. 211-35 est applicable en Nouvelle-Calédonie.
 
 ###### Article L744-10
 
-Le chapitre III du titre III du livre IV est applicable en Nouvelle-Calédonie et sous réserve de l'adaptation suivante :
+Le chapitre III du titre III du livre IV est applicable en Nouvelle-Calédonie et sous réserve des adaptations suivantes : 
 
-Pour l'application du IV de l'article L. 433-3, après les mots : "marché réglementé", les mots : "d'un Etat partie à l'accord
-sur l'Espace économique européen" sont remplacés par le mot "français".
+Pour l'application du IV de l'article L. 433-3, après les mots : " marché réglementé ", les mots : " d'un Etat partie à
+l'accord sur l'Espace économique européen " sont remplacés par le mot " français ".
+
+A l'article L. 433-4, après les mots : " marché règlementé ", les mots : " d'un Etat membre de la Communauté européenne ou
+d'un autre Etat partie à l'accord sur l'Espace économique européen " sont remplacés par le mot : " français ".
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
@@ -58274,11 +58367,12 @@ sur l'Espace économique européen" sont remplacés par le mot "français".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 6
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L433-3 (M)
+	  - Code monétaire et financier - art. L433-3
+	  - Code monétaire et financier - art. L433-4
 
 
 ##### Section 4 : Les chambres de compensation
@@ -58423,11 +58517,13 @@ L'article L. 500-1 ainsi que les articles L. 570-1 et L. 570-2 sont applicables 
 
 ###### Article L745-1-1
 
-Le chapitre Ier du titre Ier du livre V est applicable en Nouvelle-Calédonie, à l'exception des articles L. 511-12, L. 511-21
-à L. 511-28 et L. 511-34. Les articles L. 571-1 à L. 571-9 y sont également applicables.
+Le chapitre Ier du titre Ier du livre V est applicable en Nouvelle-Calédonie, à l'exception des articles L. 511-12, 
+L. 511-21 à L. 511-28 et L. 511-34. Les articles L. 571-1 à L. 571-9 y sont également applicables.
 
-A l'article L. 511-36, les mots : "règlement de la Commission européenne" sont remplacés par les mots : "arrêté du ministre
-chargé de l'économie".
+A l'article L. 511-36, les mots : " règlement de la Commission européenne " sont remplacés par les mots : " arrêté du
+ministre chargé de l'économie ". 
+
+Le second alinéa de l'article L. 571-4 est applicable à l'office des postes et télécommunications.
 
 **Liens relatifs à cet article**
 
@@ -58437,22 +58533,24 @@ chargé de l'économie".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 3 (V) JORF 29 juillet 2005
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 7
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L511-12 (M)
-	  - Code monétaire et financier - art. L511-34 (M)
-	  - Code monétaire et financier - art. L511-36 (M)
-	  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9, L511-36
+	  - Code monétaire et financier - art. L511-12
+	  - Code monétaire et financier - art. L511-21
+	  - Code monétaire et financier - art. L511-34
+	  - Code monétaire et financier - art. L511-36
+	  - Code monétaire et financier - art. L571-1
+	  - Code monétaire et financier - art. L571-4
+
+	**Anciens textes**:
+
+	  - Code monétaire et financier - art. L745-1 (T)
 
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L745-7-2 (V)
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier art. L745-1
 
 
 ##### Sous-section 3 : Les sociétés financières
@@ -58594,12 +58692,16 @@ Les articles L. 519-1 à L. 519-5 ainsi que les articles L. 571-15 et L. 571-16 
 L'office des postes et télécommunications peut offrir, pour son propre compte ou pour le compte d'autres prestataires, dans
 le respect des règles de la concurrence et selon les règles propres à chacun de ses domaines d'activité, des prestations
 relatives à la mise à disposition de moyens de paiement et de transfert de fonds, comprenant notamment les chèques postaux,
-les cartes de paiement, les mandats et les envois contre remboursement.
+les cartes de paiement, les mandats et les envois contre remboursement. 
 
-Il peut distribuer les livrets A et les livrets supplémentaires de la Caisse nationale d'épargne selon des modalités prévues
-par une convention conclue avec l'Etat et la Caisse des dépôts et consignations qui fixe notamment la commission versée à
-l'office au titre de cette distribution. Les dépôts sur ces livrets sont centralisés par la Caisse des dépôts et
-consignations.
+Le livret A est distribué par l'office des postes et télécommunications dans les conditions fixées par les articles L. 221-2
+à L. 221-4, 
+L. 221-6 à L. 221-9 et L. 221-38. Les sommes excédant le plafond mentionné à l'article L. 221-4 peuvent être versées sur le
+livret supplémentaire mentionné à l'article L. 221-1 dans sa rédaction en vigueur antérieurement à la publication de la loi
+n° 2008-776 du 4 août 2008 de modernisation de l'économie. Le livret supplémentaire est rémunéré au même taux que le livret
+A. La totalité des fonds collectés au titre de ces livrets est centralisée par la Caisse des dépôts et consignations dans le
+fonds mentionné à l'article L. 221-7. L'office perçoit une rémunération dont les modalités sont fixées par le décret prévu au
+premier alinéa de l'article L. 221-6. 
 
 Pour le compte d'établissements de crédit agréés en application de l'article L. 511-10, il peut recevoir les dépôts
 d'épargne-logement et distribuer des prêts d'épargne-logement dans les conditions prévues par les articles L. 315-1 à L.
@@ -58613,15 +58715,20 @@ application de l'article L. 532-1.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-729 du 22 juillet 2004 - art. 1 () JORF 24 juillet 2004
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L511-10 (M)
-	  - Code monétaire et financier - art. L532-1 (M)
-	  - Code de la construction et de l'habitation L315-1 à L315-3
+	  - Code monétaire et financier - art. L221-1
+	  - Code monétaire et financier - art. L221-2
+	  - Code monétaire et financier - art. L221-38
+	  - Code monétaire et financier - art. L221-6
+	  - Code monétaire et financier - art. L221-7
+	  - Code monétaire et financier - art. L511-10
+	  - Code monétaire et financier - art. L532-1
+	  - Code de la construction et de l'habitation. - art. L315-1
 
 
 ###### Article L745-7-2
@@ -59701,16 +59808,26 @@ Saint-Barthélemy, Saint-Martin, Mayotte, Saint-Pierre-et-Miquelon, la Nouvelle-
 
 ###### Article L752-1
 
-Les articles L. 211-1 à L. 211-6 sont applicables en Polynésie française.
+I.-Les articles L. 211-1 à L. 211-22 et L. 211-24 à L. 211-41 sont applicables en Polynésie française, sous réserve des
+adaptations prévues au II. 
+
+II.-1° Les références fiscales des articles L. 211-22 et L. 211-28 sont remplacées par des références aux dispositions
+applicables localement ayant le même objet ; 
+
+2° Aux articles L. 211-2, L. 211-4, L. 211-5, 
+L. 211-10, 
+L. 211-20 et L. 211-40, les références au code de commerce sont remplacées par des références aux dispositions applicables
+localement, ayant le même objet ; 
+
+3° Au 3° de l'article L. 211-22 et à l'article L. 211-35, les références au code civil sont remplacées par des références aux
+dispositions applicables localement, ayant le même objet.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°81-1160 1981-12-30 art. 94 III
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 94 (M)
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 53 (Ab)
-	  - Loi n°96-597 1996-07-02 art. 107 II
 	  - Code de commerce. - art. L940-1 (V)
 
 	**Codifié par**:
@@ -59719,11 +59836,19 @@ Les articles L. 211-1 à L. 211-6 sont applicables en Polynésie française.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 1 (V) JORF 20 janvier 2006
+	  - Ordonnance n°2009-797 du 24 juin 2009 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier L211-1 à L211-6
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L211-10
+	  - Code monétaire et financier - art. L211-2
+	  - Code monétaire et financier - art. L211-20
+	  - Code monétaire et financier - art. L211-22
+	  - Code monétaire et financier - art. L211-24
+	  - Code monétaire et financier - art. L211-28
+	  - Code monétaire et financier - art. L211-35
+	  - Code monétaire et financier - art. L211-40
 
 
 ##### Sous-section 2 : Les actions et titres donnant accès au capital
@@ -59870,6 +59995,61 @@ Les articles L. 231-3 à L. 231-21 sont également applicables en Polynésie fra
 
 ###### Article L752-6-1
 
+Les articles L. 221-1 à L. 221-9 et L. 221-38 sont applicables en Polynésie française sous réserve des adaptations
+suivantes : 
+
+1° Aux articles L. 221-2, L. 221-4 et L. 221-6, les mots : " l'établissement de crédit mentionné à l'article L. 518-25-1 "
+sont remplacés par les mots : " l'office des postes et télécommunications " ; 
+
+2° A l'article L. 221-3 : 
+
+a) Au premier alinéa, les mots : ", aux associations mentionnées au 5 de l'article 206 du code général des impôts et aux
+organismes d'habitations à loyer modéré " sont supprimés ; 
+
+b) Au troisième alinéa, les mots : " ou d'un seul compte spécial sur livret du Crédit mutuel ouvert avant le 1er janvier 2009
+" sont supprimés ; 
+
+3° A l'article L. 221-5 : 
+
+a) Au premier alinéa, les mots : " et du livret de développement durable régi par l'article L. 221-27 " sont supprimés et les
+mots : " l'un ou l'autre livret " sont remplacés par les mots : " ce livret " ; 
+
+b) Au deuxième alinéa, les mots : " et du livret de développement durable " sont supprimés et les mots : " ces livrets " sont
+remplacés par les mots : " ce livret " ; 
+
+c) Aux quatrième et cinquième alinéas, les mots : " ou le livret de développement durable " sont supprimés ; 
+
+d) Au cinquième alinéa, les mots : " ces deux livrets " sont remplacés par les mots : " ce livret " ; 
+
+4° Au premier alinéa de l'article L. 221-6, les mots : " et ceux distribuant le livret de développement durable " sont
+supprimés ; 
+
+5° A l'article L. 221-8, les mots : " ainsi que celles relatives aux comptes spéciaux sur livret du Crédit mutuel ouverts
+avant le 1er janvier 2009 " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-1
+	  - Code monétaire et financier - art. L221-2
+	  - Code monétaire et financier - art. L221-3
+	  - Code monétaire et financier - art. L221-38
+	  - Code monétaire et financier - art. L221-4
+	  - Code monétaire et financier - art. L221-5
+	  - Code monétaire et financier - art. L221-8
+
+
+###### Article L752-6-2
+
 I. ― Les articles L. 221-35 et L. 221-37 sont applicables en Polynésie française sous réserve des adaptations prévues au II. 
 
 II. ― 1° L'article L. 221-35 est complété par la phrase suivante : " Ces dispositions sont applicables à l'office des postes
@@ -59889,19 +60069,15 @@ verbal des infractions aux dispositions de l'article L. 221-35.
 
 	**Créé par**:
 
-	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L221-35
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code monétaire et financier - art. L752-6-2 (V)
+	  - Code monétaire et financier - art. L752-6-1 (T)
 
 
 ###### Article L752-7
@@ -59960,11 +60136,24 @@ Les articles L. 311-1 à L. 311-3 sont applicables en Polynésie française.
 ###### Article L753-2
 
 Le chapitre II du titre Ier du livre III est applicable en Polynésie française, à l'exception des articles L. 312-17 et L.
-312-18. 
+312-18.
+
+L'article L. 312-1 est adapté comme suit : 
+
+1° Au deuxième alinéa : 
+
+a) Dans la deuxième phrase, les mots : " la Banque de France afin qu'elle " sont remplacés par les mots : " l'institut
+d'émission d'outre-mer afin qu'il " ; 
+
+b) Dans les troisième et quatrième phrases, les mots : " la Banque de France, sont remplacés par les mots : " l'institut
+d'émission d'outre-mer " ; 
+
+2° Aux sixième et septième alinéas, les mots : " la Banque de France " sont remplacés partout où ils figurent par les mots :
+" l'institut d'émission d'outre-mer ". 
 
 Le premier alinéa du II de l'article L. 312-1-2 est remplacé par les dispositions suivantes : " Des agents de l'institut
 d'émission d'outre-mer sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation
-par procès-verbal des infractions aux dispositions du I de l'article L. 312-1-1 et au I de l'article L. 312-1-2 ".
+par procès-verbal des infractions aux dispositions du I de l'article L. 312-1-1 et au I de l'article L. 312-1-2 ". 
 
 Les articles L. 312-1, L. 312-1-1 et L. 312-1-3 sont applicables à l'office des postes et télécommunications.
 
@@ -59976,13 +60165,14 @@ Les articles L. 312-1, L. 312-1-1 et L. 312-1-3 sont applicables à l'office des
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
-	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 2 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 5
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L312-1
 	  - Code monétaire et financier - art. L312-1-2
+	  - Code monétaire et financier - art. L312-1-3
+	  - Code monétaire et financier - art. L312-17
 
 
 ##### Sous-section 3 : Crédits
@@ -60138,17 +60328,11 @@ A l'article L. 322-2 et à l'article L. 322-6, la référence aux articles L. 31
 
 ###### Article L753-9
 
-Les articles L. 330-1 et L. 330-2 sont applicables en Polynésie française sous réserve, au I de l'article L. 330-1, de
-supprimer au premier alinéa les mots : "ou internationale" et "ou d'établissement non résident ayant un statut comparable",
-la seconde phrase du deuxième alinéa ainsi que les troisième, quatrième et cinquième alinéas. A l'article L. 330-2, la
-référence au livre VI du code de commerce est remplacée par la référence aux dispositions en vigueur en Polynésie française
-ayant le même objet.
+Les articles L. 330-1 et L. 330-2 sont applicables en Polynésie française à l'exception de la dernière phrase du I et des
+huitième, neuvième et dernier alinéas du II de l'article L. 330-1. A l'article L. 330-2, la référence au livre VI du code de
+commerce est remplacée par la référence aux dispositions en vigueur en Polynésie française ayant le même objet.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 100 I
 
 	**Codifié par**:
 
@@ -60156,12 +60340,11 @@ ayant le même objet.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 7 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
+	  - Ordonnance n°2009-797 du 24 juin 2009 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L330-1 (M)
-	  - Code monétaire et financier - art. L330-2 (M)
+	  - Code monétaire et financier - art. L330-1
 
 
 ##### Section 4 : Démarchage
@@ -60541,18 +60724,17 @@ L'article L. 211-35 est applicable en Polynésie française.
 
 ###### Article L754-10
 
-Le chapitre III du titre III du livre IV est applicable en Polynésie française et sous réserve de l'adaptation suivante :
+Le chapitre III du titre III du livre IV est applicable en Polynésie française et sous réserve des adaptations suivantes : 
 
-Pour l'application du IV de l'article L. 433-3, après les mots :
+Pour l'application du IV de l'article L. 433-3, après les mots : 
 
-"marché réglementé", les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont remplacés par le mot
-"français".
+" marché réglementé ", les mots : " d'un Etat partie à l'accord sur l'Espace économique européen " sont remplacés par le mot
+" français ".
+
+A l'article L. 433-4, après les mots : " marché règlementé ", les mots : " d'un Etat membre de la Communauté européenne ou
+d'un autre Etat partie à l'accord sur l'Espace économique européen " sont remplacés par le mot : " français ".
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
@@ -60560,11 +60742,12 @@ Pour l'application du IV de l'article L. 433-3, après les mots :
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 6
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L433-3 (M)
+	  - Code monétaire et financier - art. L433-3
+	  - Code monétaire et financier - art. L433-4
 
 
 ##### Section 4 : Les chambres de compensation
@@ -60711,14 +60894,12 @@ L'article L. 500-1 ainsi que les articles L. 570-1 et L. 570-2 sont applicables 
 Le chapitre Ier du titre Ier du livre V est applicable en Polynésie française, à l'exception des articles L. 511-12, L.
 511-21 à L. 511-28 et L. 511-34. Les articles L. 571-1 à L. 571-9 sont également applicables en Polynésie française.
 
-A l'article L. 511-36, les mots : "règlement de la Commission européenne" sont remplacés par les mots : "arrêté du ministre
-chargé de l'économie".
+A l'article L. 511-36, les mots : " règlement de la Commission européenne " sont remplacés par les mots : " arrêté du
+ministre chargé de l'économie ". 
+
+Le second alinéa de l'article L. 571-4 est applicable à l'office des postes et télécommunications.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier art. L755-1
 
 	**Codifié par**:
 
@@ -60726,14 +60907,16 @@ chargé de l'économie".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 3 (V) JORF 29 juillet 2005
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 7
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L511-12 (M)
-	  - Code monétaire et financier - art. L511-34 (M)
-	  - Code monétaire et financier - art. L511-36 (M)
-	  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9, L511-36
+	  - Code monétaire et financier - art. L511-12
+	  - Code monétaire et financier - art. L511-21
+	  - Code monétaire et financier - art. L511-34
+	  - Code monétaire et financier - art. L511-36
+	  - Code monétaire et financier - art. L571-1
+	  - Code monétaire et financier - art. L571-4
 
 	**Cité par**:
 
@@ -60881,12 +61064,13 @@ Les articles L. 519-1 à L. 519-5 ainsi que les articles L. 571-15 et L. 571-16 
 L'office des postes et télécommunications peut offrir pour son propre compte ou pour le compte d'autres prestataires, dans le
 respect des règles de la concurrence et selon les règles propres à chacun de ses domaines d'activité, des prestations
 relatives à la mise à disposition de moyens de paiement et de transfert de fonds, comprenant notamment les chèques postaux,
-les cartes de paiement, les mandats et les envois contre remboursement.
+les cartes de paiement, les mandats et les envois contre remboursement. 
 
-Il peut distribuer les livrets A et les livrets supplémentaires de la Caisse nationale d'épargne selon des modalités prévues
-par une convention conclue avec l'Etat et la Caisse des dépôts et consignations qui fixe notamment la commission versée à
-l'office au titre de cette distribution. Les dépôts sur ces livrets sont centralisés par la Caisse des dépôts et
-consignations.
+Le livret A est distribué par l'office des postes et télécommunications dans les conditions fixées par les articles L. 221-2
+à L. 221-4, 
+L. 221-6 à L. 221-9 et L. 221-38. La totalité des fonds collectés au titre de ce livret est centralisée par la Caisse des
+dépôts et consignations dans le fonds mentionné à l'article L. 221-7.L'office perçoit une rémunération dont les modalités
+sont fixées par le décret prévu au premier alinéa de l'article L. 221-6. 
 
 Pour le compte d'établissements de crédit agréés en application de l'article L. 511-10, il peut recevoir les dépôts
 d'épargne-logement et distribuer des prêts d'épargne-logement dans les conditions prévues par les articles L. 315-1 à L.
@@ -60900,15 +61084,19 @@ application de l'article L. 532-1.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-729 du 22 juillet 2004 - art. 2 () JORF 24 juillet 2004
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L511-10 (M)
-	  - Code monétaire et financier - art. L532-1 (M)
-	  - Code de la construction et de l'habitation L315-1 à L315-3
+	  - Code monétaire et financier - art. L221-2
+	  - Code monétaire et financier - art. L221-38
+	  - Code monétaire et financier - art. L221-6
+	  - Code monétaire et financier - art. L221-7
+	  - Code monétaire et financier - art. L511-10
+	  - Code monétaire et financier - art. L532-1
+	  - Code de la construction et de l'habitation. - art. L315-1
 
 
 ###### Article L755-7-2
@@ -62010,7 +62198,19 @@ Saint-Barthélemy, Saint-Martin, Mayotte, Saint-Pierre-et-Miquelon, la Nouvelle-
 
 ###### Article L762-1
 
-Les articles L. 211-1 à L. 211-6 sont applicables dans les îles Wallis-et-Futuna.
+I.-Les articles L. 211-1 à L. 211-22 et L. 211-24 à L. 211-41 sont applicables dans les îles Wallis et Futuna, sous réserve
+des adaptations prévues au II. 
+
+II.-1° Les références fiscales des articles L. 211-22 et L. 211-28 sont remplacées par des références aux dispositions
+applicables localement ayant le même objet ; 
+
+2° a) Aux titres IV, V et VI, l'intitulé de la sous-section 2 de la section 1 du chapitre II est remplacé par l'intitulé
+suivant : " Les actions " ; 
+
+b) Aux articles L. 742-2, 
+L. 752-2 et L. 762-2, avant la référence : " L. 212-1 ", est insérée la référence : " L. 212-1 A " ; 
+
+3° Aux articles L. 742-3, L. 752-3 et L. 762-3, avant la référence : " L. 213-1 ", est insérée la référence : " L. 213-1 A ".
 
 **Liens relatifs à cet article**
 
@@ -62018,7 +62218,6 @@ Les articles L. 211-1 à L. 211-6 sont applicables dans les îles Wallis-et-Futu
 
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 94 (M)
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 53 (Ab)
-	  - Loi n°96-597 1996-07-02 art. 107 II
 	  - Code de commerce. - art. L950-1 (V)
 
 	**Codifié par**:
@@ -62027,11 +62226,22 @@ Les articles L. 211-1 à L. 211-6 sont applicables dans les îles Wallis-et-Futu
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 1 (V) JORF 20 janvier 2006
+	  - Ordonnance n°2009-797 du 24 juin 2009 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier L211-1 à L211-6
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L211-22
+	  - Code monétaire et financier - art. L211-24
+	  - Code monétaire et financier - art. L211-28
+	  - Code monétaire et financier - art. L212-1 A
+	  - Code monétaire et financier - art. L213-1 A
+	  - Code monétaire et financier - art. L742-2
+	  - Code monétaire et financier - art. L742-3
+	  - Code monétaire et financier - art. L752-2
+	  - Code monétaire et financier - art. L752-3
+	  - Code monétaire et financier - art. L762-2
+	  - Code monétaire et financier - art. L762-3
 
 
 ##### Sous-section 2 : Les titres de capital et titres donnant accès au capital
@@ -62201,8 +62411,66 @@ collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au
 
 ###### Article L762-6-1
 
+Les articles L. 221-1, 
+L. 221-3 à L. 221-9 et L. 221-38 sont applicables dans les îles Wallis et Futuna sous réserve des adaptations suivantes : 
+
+1° A l'article L. 221-3 : 
+
+a) Au premier alinéa, les mots : ", aux associations mentionnées au 5 de l'article 206 du code général des impôts et aux
+organismes d'habitations à loyer modéré " sont supprimés ; 
+
+b) Au troisième alinéa, les mots : " ou d'un seul compte spécial sur livret du Crédit mutuel ouvert avant le 1er janvier 2009
+" sont supprimés ; 
+
+2° A l'article L. 221-5 : 
+
+a) Au premier alinéa, les mots : " et du livret de développement durable régi par l'article L. 221-27 " sont supprimés et les
+mots : " l'un ou l'autre livret " sont remplacés par les mots : " ce livret " ; 
+
+b) Au deuxième alinéa, les mots : " et du livret de développement durable " sont supprimés et les mots : " ces livrets " sont
+remplacés par les mots : " ce livret " ; 
+
+c) Aux quatrième et cinquième alinéas, les mots : " ou le livret de développement durable " sont supprimés ; 
+
+d) Au cinquième alinéa, les mots : " ces deux livrets " sont remplacés par les mots : " ce livret " ; 
+
+3° A l'article L. 221-6 : 
+
+a) Au premier alinéa, les mots : " et ceux distribuant le livret de développement durable " sont supprimés ; 
+
+b) Le deuxième alinéa est supprimé ; 
+
+c) Le troisième alinéa est remplacé par les dispositions suivantes : 
+
+" La rémunération mentionnée à l'alinéa précédent est supportée par le fonds prévu par l'article L. 221-7. " ; 
+
+4° A l'article L. 221-8, les mots : " ainsi que celles relatives aux comptes spéciaux sur livret du Crédit mutuel ouverts
+avant le 1er janvier 2009 " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-1
+	  - Code monétaire et financier - art. L221-3
+	  - Code monétaire et financier - art. L221-38
+	  - Code monétaire et financier - art. L221-5
+	  - Code monétaire et financier - art. L221-6
+	  - Code monétaire et financier - art. L221-8
+
+
+###### Article L762-6-2
+
 I. ― Les articles L. 221-35 et L. 221-37 sont applicables dans les îles Wallis et Futuna sous réserve des adaptations prévues
-au II.
+au II. 
 
 II. ― 1° L'article L. 221-35 est complété par la phrase suivante : " Ces dispositions sont applicables au Trésor public. ” ; 
 
@@ -62220,15 +62488,15 @@ verbal des infractions aux dispositions de l'article L. 221-35.
 
 	**Créé par**:
 
-	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Ordonnance n°2009-799 du 24 juin 2009 - art. 1 (V)
+	  - Code monétaire et financier - art. L221-35
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code monétaire et financier - art. L762-6-2 (V)
+	  - Code monétaire et financier - art. L762-6-1 (T)
 
 
 ###### Article L762-7
@@ -62296,6 +62564,19 @@ Les articles L. 311-1 à L. 311-3 sont applicables dans les îles Wallis et Futu
 Le chapitre II du titre Ier du livre III est applicable dans les îles Wallis-et-Futuna, à l'exception des articles L. 312-17
 et L. 312-18.L'article L. 352-1 s'y applique également.
 
+L'article L. 312-1 est adapté comme suit : 
+
+1° Au deuxième alinéa : 
+
+a) Dans la deuxième phrase, les mots : " la Banque de France afin qu'elle " sont remplacés par les mots : " l'institut
+d'émission d'outre-mer afin qu'il " ; 
+
+b) Dans les troisième et quatrième phrases, les mots : " la Banque de France, sont remplacés par les mots : " l'institut
+d'émission d'outre-mer " ; 
+
+2° Aux sixième et septième alinéas, les mots : " la Banque de France " sont remplacés partout où ils figurent par les mots :
+" l'institut d'émission d'outre-mer ".
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -62304,10 +62585,11 @@ et L. 312-18.L'article L. 352-1 s'y applique également.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 1 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 5
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L312-1
 	  - Code monétaire et financier - art. L312-17
 	  - Code monétaire et financier - art. L352-1
 
@@ -62488,15 +62770,10 @@ A l'article L. 322-2 et à l'article L. 322-6 la référence aux articles L. 312
 
 ###### Article L763-9
 
-Les articles L. 330-1 et L. 330-2 sont applicables dans les îles Wallis et Futuna sous réserve, au I de l'article L. 330-1,
-de supprimer au premier alinéa les mots : "ou internationale" et "ou d'établissement non résident ayant un statut
-comparable", la seconde phrase du deuxième alinéa ainsi que les troisième, quatrième et cinquième alinéas.
+Les articles L. 330-1 et L. 330-2 sont applicables dans les îles Wallis et Futuna à l'exception de la dernière phrase du I et
+des huitième, neuvième et dernier alinéas du II de l'article L. 330-1.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-46 1984-01-24 art. 101 I
 
 	**Codifié par**:
 
@@ -62504,12 +62781,11 @@ comparable", la seconde phrase du deuxième alinéa ainsi que les troisième, qu
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 7 (VD) JORF 19 octobre 2007 en vigueur le 1er mai 2008
+	  - Ordonnance n°2009-797 du 24 juin 2009 - art. 3
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L330-1 (M)
-	  - Code monétaire et financier - art. L330-2 (M)
+	  - Code monétaire et financier - art. L330-1
 
 
 ##### Section 4 : Démarchage
@@ -62859,17 +63135,16 @@ L'article L. 211-35 est applicable dans les îles Wallis et Futuna.
 
 ###### Article L764-10
 
-Le chapitre III du titre III du livre IV est applicable dans les îles Wallis-et-Futuna et sous réserve de l'adaptation
-suivante :
+Le chapitre III du titre III du livre IV est applicable dans les îles Wallis-et-Futuna et sous réserve des adaptations
+suivantes : 
 
-Pour l'application du IV de l'article L. 433-3, après les mots "marché réglementés", les mots "d'un Etat partie à l'accord
-sur l'Espace économique européen" sont remplacés par le mot "français".
+Pour l'application du IV de l'article L. 433-3, après les mots " marché réglementés ", les mots " d'un Etat partie à l'accord
+sur l'Espace économique européen " sont remplacés par le mot " français ".
+
+A l'article L. 433-4, après les mots : " marché règlementé ", les mots : " d'un Etat membre de la Communauté européenne ou
+d'un autre Etat partie à l'accord sur l'Espace économique européen " sont remplacés par le mot : " français ".
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
@@ -62877,11 +63152,12 @@ sur l'Espace économique européen" sont remplacés par le mot "français".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 6
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L433-3 (M)
+	  - Code monétaire et financier - art. L433-3
+	  - Code monétaire et financier - art. L433-4
 
 
 ##### Section 4 : Les chambres de compensation
@@ -87985,8 +88261,6 @@ Lorsque les dispositions de l'alinéa précédent ne permettent plus de pourvoir
 
 	  - Décret n°2008-1262 du 4 décembre 2008 - art. 5
 
-
-##### Sous-section 5 : La Caisse nationale des caisses d'épargne et de prévoyance.
 
 ##### Sous-section 5 : L'organe central des caisses d'épargne et des banques populaires
 
