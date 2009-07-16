@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-07-01
+Version Consolidée au 2009-07-17
 
 # Partie législative
 
@@ -46434,16 +46434,18 @@ est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 #### Chapitre II : Changeurs manuels.
 
+##### Section 1 : Changeurs manuels
+
 ###### Article L572-1
 
 Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait, pour toute personne, agissant soit pour son propre
 compte, soit pour le compte d'une personne morale, de méconnaître l'une des interdictions prévues aux deux premiers alinéas
-de l'article L. 520-4. 
+de l'article L. 524-4. 
 
-Est puni de la même peine le fait, pour toute personne, de méconnaître l'interdiction prescrite par l'article L. 520-5. 
+Est puni de la même peine le fait, pour toute personne, de méconnaître l'interdiction prescrite par l'article L. 524-5. 
 
 Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait, pour toute personne soumise à l'obligation de
-déclaration mentionnée au II de l'article L. 520-2, de ne pas la souscrire ou de communiquer des renseignements inexacts à la
+déclaration mentionnée au II de l'article L. 524-2, de ne pas la souscrire ou de communiquer des renseignements inexacts à la
 Commission bancaire.
 
 **Liens relatifs à cet article**
@@ -46454,16 +46456,11 @@ Commission bancaire.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 4
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L520-2
-	  - Code monétaire et financier - art. L520-4
-	  - Code monétaire et financier - art. L520-5
+	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
 
 	**Cité par**:
 
+	  - Code monétaire et financier - art. L520-4 (V)
 	  - Code monétaire et financier - art. L520-7 (VT)
 	  - Code monétaire et financier - art. L524-7 (V)
 	  - Code monétaire et financier - art. L745-8 (VD)
@@ -46473,28 +46470,12 @@ Commission bancaire.
 	  - Code monétaire et financier - art. L765-8 (VD)
 	  - Code monétaire et financier - art. L765-8-3 (V)
 
+	**Cite**:
 
-###### Article L572-4
+	  - Code monétaire et financier - art. L524-2
+	  - Code monétaire et financier - art. L524-4
+	  - Code monétaire et financier - art. L524-5
 
-Est puni d'un emprisonnement de six mois et d'une amende de 7 500 euros, le fait, pour toute personne, de s'opposer à
-l'exercice par les agents des douanes des pouvoirs qu'ils tiennent de l'article L. 520-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 du 12 juillet 1990 - art. 25 bis (Ab)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-
-##### Section 1 : Changeurs manuels
 
 ###### Article L572-2
 
@@ -46537,6 +46518,30 @@ Les dispositions de l'article L. 571-2 sont applicables aux procédures relative
 
 	  - Code monétaire et financier - art. L571-1 (V)
 	  - Code monétaire et financier - art. L571-2 (V)
+
+
+###### Article L572-4
+
+Est puni d'un emprisonnement de six mois et d'une amende de 7 500 euros, le fait, pour toute personne, de s'opposer à
+l'exercice par les agents des douanes des pouvoirs qu'ils tiennent de l'article L. 524-4.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°90-614 du 12 juillet 1990 - art. 25 bis (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L524-4 (VD)
 
 
 #### Chapitre III : Dispositions relatives aux prestataires de services d'investissement et aux conseillers en investissements financiers
@@ -54948,6 +54953,113 @@ II.-L'article L. 211-23 n'est pas applicable.
 	  - Code monétaire et financier - art. L211-28
 
 
+##### Section 5
+
+###### Article L711-18
+
+Pour l'application à Saint-Barthélemy et à Saint-Martin de l'article L. 561-14-2, les références à l'article 537 du code
+général des impôts et aux articles L. 83, L. 85, L. 87 et L. 89 du livre des procédures fiscales sont remplacées par des
+références aux dispositions applicables localement ayant le même objet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 537 (V)
+	  - Livre des procédures fiscales - art. L83 (V)
+	  - Livre des procédures fiscales - art. L85 (V)
+	  - Livre des procédures fiscales - art. L87 (V)
+	  - Livre des procédures fiscales - art. L89 (V)
+	  - Code monétaire et financier - art. L561-14-2 (V)
+
+
+###### Article L711-19
+
+Pour l'application à Saint-Barthélemy et à Saint-Martin des dispositions du II de l'article L. 561-15, est considérée comme
+infraction de fraude fiscale soit l'infraction prévue par les dispositions de l'article 1741 du code général des impôts
+commise par les personnes ou organismes auxquels ces dispositions s'appliquent, soit, pour les personnes et organismes
+relevant de la réglementation fiscale établie localement, le fait de s'être soustrait frauduleusement ou d'avoir tenté de se
+soustraire frauduleusement à l'établissement ou au payement partiel ou total des impôts prévus par celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1741 (V)
+	  - Code monétaire et financier - art. L561-15 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L711-20 (V)
+	  - Code monétaire et financier - art. L711-21 (V)
+
+
+###### Article L711-20
+
+Pour l'application à Saint-Barthélemy et à Saint-Martin des dispositions du dernier alinéa du II de l'article L. 561-23,
+l'infraction définie à l'article 1741 s'entend de l'infraction de fraude fiscale au sens des dispositions de l'article L.
+711-19.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1741 (V)
+	  - Code monétaire et financier - art. L561-23 (V)
+	  - Code monétaire et financier - art. L711-19 (V)
+
+
+###### Article L711-21
+
+Pour l'application à Saint-Barthélemy et à Saint-Martin des dispositions des troisième et quatrième alinéas du II de
+l'article L. 561-29, l'infraction définie à l'article 1741 du code général des impôts s'entend de l'infraction de fraude
+fiscale au sens des dispositions de l'article L. 711-19. Lorsque le service mentionné à l'article L. 561-23 a reçu des
+informations sur des faits de soustraction frauduleuse ou de tentative de soustraction frauduleuse à l'établissement ou au
+payement partiel ou total des impôts prévus par la réglementation fiscale établie localement, il peut les transmettre à
+l'administration fiscale de la collectivité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1741 (V)
+	  - Code monétaire et financier - art. L561-23 (V)
+	  - Code monétaire et financier - art. L561-29 (V)
+	  - Code monétaire et financier - art. L711-19 (V)
+
+
 #### Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et dans les îles Wallis-et-Futuna
 
 ##### Section 1 : Les signes monétaires
@@ -56036,35 +56148,47 @@ applicables à Saint-Pierre-et-Miquelon.
 
 ###### Article L725-3
 
-Les dispositions fiscales mentionnées à l'article L. 563-2 ainsi que les articles L. 152-4 et L. 161-1 ne sont pas
-applicables à Saint-Pierre-et-Miquelon.
+I.-L'article L. 152-4 n'est pas applicable à Saint-Pierre-et-Miquelon. 
 
-Les références aux articles du code général des impôts figurant dans l'article L. 563-2 sont remplacées, pour Saint-Pierre-
-et-Miquelon, par une référence aux dispositions ayant le même objet, prises par le conseil général.
+II.-Pour l'application à Saint-Pierre-et-Miquelon de l'article L. 561-2, les références au code de la sécurité sociale, au
+code rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le
+même objet. 
 
-Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
-rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
-objet.
+III.-Pour l'application à Saint-Pierre-et-Miquelon de l'article L. 561-14-2, les références à l'article 537 du code général
+des impôts et aux articles L. 83, L. 85, L. 87 et L. 89 du livre des procédures fiscales sont remplacées par des références
+aux dispositions applicables localement ayant le même objet. 
 
-Lorsqu'en application de l'article 16 de la loi n° 71-1130 du 31 décembre 1971, le nombre d'avocats inscrits au barreau n'a
-pas permis l'élection d'un conseil de l'ordre, l'avocat effectue directement la déclaration prévue à l'article L. 562-2
-auprès du service institué à l'article L. 562-43.
+IV.-Pour l'application à Saint-Pierre-et-Miquelon des dispositions du II de l'article L. 561-15, est considérée comme
+infraction de fraude fiscale soit l'infraction prévue par les dispositions de l'article 1741 du code général des impôts
+commise par les personnes ou organismes auxquels ces dispositions s'appliquent, soit, pour les personnes et organismes
+relevant de la réglementation fiscale établie localement, le fait de s'être soustrait frauduleusement ou d'avoir tenté de se
+soustraire frauduleusement à l'établissement ou au paiement partiel ou total des impôts prévus par celle-ci.
+
+V.-Pour l'application à Saint-Pierre-et-Miquelon des dispositions du dernier alinéa du II de l'article L. 561-23,
+l'infraction définie à l'article 1741 s'entend de l'infraction de fraude fiscale au sens des dispositions du IV du présent
+article. 
+
+VI.-Pour l'application à Saint-Pierre-et-Miquelon des dispositions des troisième et quatrième alinéas du II de l'article L.
+561-29, l'infraction définie à l'article 1741 du code général des impôts s'entend de l'infraction de fraude fiscale au sens
+des dispositions du IV. Lorsque le service mentionné à l'article L. 561-23 a reçu des informations sur des faits de
+soustraction frauduleuse ou de tentative de soustraction frauduleuse à l'établissement ou au payement partiel ou total des
+impôts prévus par la réglementation fiscale établie localement, il peut les transmettre à l'administration fiscale de la
+collectivité.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°71-1130 du 31 décembre 1971 - art. 16 (V)
-	  - Code monétaire et financier - art. L152-4 (M)
-	  - Code monétaire et financier - art. L161-1 (M)
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L563-2 (M)
-	  - Code monétaire et financier L563-2, L152-4, L161-1, L562-1, L562-2, L562-43
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 27 al. 1 et al. 2
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 16
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. L152-4
+	  - Code monétaire et financier - art. L161-1
+	  - Code monétaire et financier - art. L561-14-2 (V)
+	  - Code monétaire et financier - art. L561-15 (V)
+	  - Code monétaire et financier - art. L561-2 (V)
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L562-2
+	  - Code monétaire et financier - art. L563-2
 
 	**Codifié par**:
 
@@ -56072,8 +56196,7 @@ auprès du service institué à l'article L. 562-43.
 
 	**Modifié par**:
 
-	  - Ordonnance 2006-60 2006-01-19 art. 6 II, III JORF 20 janvier 2006
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V) JORF 20 janvier 2006
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 2
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -56885,26 +57008,29 @@ mots : "en France".
 
 Le titre VI est applicable dans les conditions suivantes : 
 
-1° Les conditions d'application de ce titre aux personnes mentionnées aux 3, 3 bis et 4 de l'article L. 562-1 sont régies par
-les articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et adaptation du droit économique et
+1° Les conditions d'application de ce titre aux personnes mentionnées aux 3 et 4 de l'article L. 561-2 sont régies par les
+articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et adaptation du droit économique et
 financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ; 
 
-2° Lorsqu'en application de l'article 16 de la loi n° 71-1130 du 31 décembre 1971, le nombre d'avocats inscrits au barreau,
-n'a pas permis l'élection d'un conseil de l'ordre, la déclaration prévue à l'article L. 562-2 est adressée directement au
-service institué à l'article L. 562-4 ; 
+2° Pour l'application à Mayotte de l'article L. 561-14-2, les références à l'article 537 du code général des impôts et aux
+articles L. 83, L. 85, L. 87 et L. 89 du livre des procédures fiscales sont remplacées par des références aux dispositions
+applicables localement ayant le même objet ; 
 
-3° Aux articles L. 562-4, L. 562-8 et L. 566-2, les mots : " 415 du code des douanes " sont remplacés par les mots : "283 du
-code des douanes applicables à Mayotte" ; 
+3° Pour l'application à Mayotte des dispositions du II de l'article L. 561-15, est considérée comme infraction de fraude
+fiscale soit l'infraction prévue par les dispositions de l'article 1741 du code général des impôts commise par les personnes
+ou organismes auxquels ces dispositions s'appliquent, soit, pour les personnes et organismes relevant de la réglementation
+fiscale établie localement, le fait de s'être soustrait frauduleusement ou d'avoir tenté de se soustraire frauduleusement à
+l'établissement ou au paiement partiel ou total des impôts prévus par celle-ci ; 
 
-4° A l'article L. 563-2, le premier alinéa est rédigé comme suit : 
+4° Pour l'application à Mayotte des dispositions du dernier alinéa du II de l'article L. 561-23, l'infraction définie à
+l'article 1741 s'entend de l'infraction de fraude fiscale au sens des dispositions du 2° du présent article ; 
 
-Les dispositions de l'article L. 563-1 s'appliquent :
-
-- aux bons du Trésor sur formule, aux bons d'épargne de La Poste, aux bons de la Caisse nationale du crédit agricole, aux
-bons de caisse du Crédit mutuel, aux bons à cinq ans du Crédit foncier de France, aux bons émis par les groupements régionaux
-et de prévoyance, aux bons de la Caisse nationale de l'énergie, aux bons de caisse des établissements de crédit ;
-
-- aux bons et contrats de capitalisation et aux placements de même nature souscrits auprès d'entreprises d'assurance.
+5° Pour l'application à Mayotte des dispositions des troisième et quatrième alinéas du II de l'article L. 561-29,
+l'infraction définie à l'article 1741 du code général des impôts s'entend de l'infraction de fraude fiscale au sens des
+dispositions du 2° du présent article. Lorsque le service mentionné à l'article L. 561-23 a reçu des informations sur des
+faits de soustraction frauduleuse ou de tentative de soustraction frauduleuse à l'établissement ou au paiement partiel ou
+total des impôts prévus par la réglementation fiscale établie localement, il peut les transmettre à l'administration fiscale
+de la collectivité.
 
 **Liens relatifs à cet article**
 
@@ -56914,7 +57040,7 @@ et de prévoyance, aux bons de la Caisse nationale de l'énergie, aux bons de ca
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 3
 
 	**Cite**:
 
@@ -57229,28 +57355,21 @@ l'article 3 de ladite ordonnance.
 
 ###### Article L741-1
 
-L'article L. 112-6 est applicable en Nouvelle-Calédonie. Au I de cet article, les mots : "la somme de cinq mille francs" sont
-remplacés par les mots "la somme de 838 euros". Au II, les mots "la somme de trois mille francs" sont remplacés par les mots
-"la somme de 502,80 euros".
+Les articles L. 112-6 et L. 112-7 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1998-12-31
-	  - SPEC_APPLI: Décret n°98-1152 1998-12-16 (modalités de fixation de la parité du franc CFP avec l'euro)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 5 (V)
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L112-6 (M)
+	  - Code monétaire et financier - art. L112-6
 
 
 ##### Section 2 : Les instruments de la monnaie scripturale
@@ -58504,7 +58623,8 @@ L'article L. 500-1 ainsi que les articles L. 570-1 et L. 570-2 sont applicables 
 ###### Article L745-1-1
 
 Le chapitre Ier du titre Ier du livre V est applicable en Nouvelle-Calédonie, à l'exception des articles L. 511-12, 
-L. 511-21 à L. 511-28 et L. 511-34. Les articles L. 571-1 à L. 571-9 y sont également applicables.
+L. 511-21 à L. 511-28 et des 1°, 3° et 4° de l'article L. 511-34. Les articles L. 571-1 à L. 571-9 y sont également
+applicables.
 
 A l'article L. 511-36, les mots : " règlement de la Commission européenne " sont remplacés par les mots : " arrêté du
 ministre chargé de l'économie ". 
@@ -58519,20 +58639,16 @@ Le second alinéa de l'article L. 571-4 est applicable à l'office des postes et
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 7
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 5 (V)
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L511-12
 	  - Code monétaire et financier - art. L511-21
-	  - Code monétaire et financier - art. L511-34
+	  - Code monétaire et financier - art. L511-34 (V)
 	  - Code monétaire et financier - art. L511-36
 	  - Code monétaire et financier - art. L571-1
 	  - Code monétaire et financier - art. L571-4
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier - art. L745-1 (T)
 
 	**Cité par**:
 
@@ -59012,23 +59128,24 @@ Les réclamations concernant les envois contre remboursement sont reçues dans l
 
 ###### Article L745-8
 
-Les articles L. 520-1 à L. 520-4 sont applicables en Nouvelle-Calédonie.
+Les articles L. 520-1 à L. 520-7 sont applicables en Nouvelle-Calédonie. 
 
 Les articles L. 572-1 à L. 572-4 y sont également applicables.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 27
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 5 (V)
+
 	**Cite**:
 
-	  - Code monétaire et financier L520-1 à L520-4, L572-1 à L572-4
+	  - Code monétaire et financier - art. L520-1
+	  - Code monétaire et financier - art. L572-1
 
 
 ##### Section 3 : Les prestataires de services d'investissement
@@ -59107,24 +59224,28 @@ b) A l'article L. 532-5, les mots : " et bénéficient des dispositions des arti
 
 ###### Article L745-11
 
-Le chapitre III du titre III du livre V est applicable en Nouvelle-Calédonie.
+Le chapitre III du titre III du livre V est applicable en Nouvelle-Calédonie. 
 
-Les articles L. 563-1 à L. 563-6 et L. 573-1 à L. 573-7 s'y appliquent également.
+Les articles L. 573-1 à L. 573-7 s'y appliquent également.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 5 (V)
+
 	**Cite**:
 
-	  - Code monétaire et financier L563-1 à L563-6, L573-1 à L573-7
+	  - Code monétaire et financier - art. L573-1
+	  - Code monétaire et financier - art. L573-7
 
 
 ##### Section 4 : Autres prestataires de services
@@ -59270,26 +59391,87 @@ L'article L. 573-8 s'y applique également.
 
 ###### Article L745-13
 
-Le titre VI du livre V, à l'exception des dispositions fiscales de l'article L. 563-2, ainsi que les articles L. 574-1 à L.
-574-3 sont applicables en Nouvelle-Calédonie.
+I.-Le titre VI du livre V ainsi que les articles L. 574-1 à L. 574-4 sont applicables en Nouvelle-Calédonie dans les
+conditions prévues au II. 
 
-Les références aux articles 415 et 453 à 459 ainsi qu'aux titres II et XII du code des douanes sont remplacées par la
-référence aux dispositions du code des douanes applicable en Nouvelle-Calédonie ayant le même objet.
+II.-1° Les références au code des assurances au 2° de l'article L. 561-2 et à l'article L. 561-20, au code de la sécurité
+sociale et au code rural au 3° de l'article L. 561-2 et au code de la mutualité au 4° du même article sont remplacées par des
+références à des dispositions applicables localement ayant le même objet ; 
 
-Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
-rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
-objet.
+2° Au 8° de l'article L. 561-2, les références à l'article 1er de la loi n° 70-9 du 2 janvier 1970 réglementant les
+conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et fonds de commerce, à
+l'exclusion de l'échange, de la location ou de la sous-location, saisonnière ou non, en nu ou en meublé, sont remplacées par
+des références à des dispositions applicables localement ayant le même objet ; 
 
-Les conditions d'application du titre IV du livre V pour les personnes mentionnées aux 3, 3 bis et 4 de l'article L. 562-1
-sont régies par les articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et adaptation du
-droit économique et financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie françaises et dans les îles Wallis et
-Futuna.
+3° Au 12° de l'article L. 561-2, la référence à l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre
+des experts-comptables et réglementant les titres et la profession d'expert-comptable est remplacée par des références à des
+dispositions applicables localement ayant le même objet ; 
+
+4° Au 13° de l'article L. 561-2, les " administrateurs judiciaires ", les " mandataires judiciaires " et les " commissaires-
+priseurs judiciaires " s'entendent des activités homologues réglementées selon les dispositions applicables localement ; 
+
+5° Pour l'application en Nouvelle-Calédonie de l'article L. 561-14-2, les références à l'article 537 du code général des
+impôts et aux articles L. 83, L. 85, L. 87 et L. 89 du livre des procédures fiscales sont remplacées par des références aux
+dispositions applicables localement ayant le même objet ; 
+
+6° Pour l'application en Nouvelle-Calédonie des dispositions du II de l'article L. 561-15, est considérée comme infraction de
+fraude fiscale soit l'infraction prévue par les dispositions de l'article 1741 du code général des impôts commise par les
+personnes ou organismes auxquels ces dispositions s'appliquent, soit, pour les personnes et organismes relevant de la
+réglementation fiscale établie localement, le fait de s'être soustrait frauduleusement ou d'avoir tenté de se soustraire
+frauduleusement à l'établissement ou au payement partiel ou total des impôts prévus par celle-ci ; 
+
+7° Pour l'application en Nouvelle-Calédonie des dispositions du dernier alinéa du II de l'article L. 561-23, l'infraction
+définie à l'article 1741 s'entend de l'infraction de fraude fiscale au sens des dispositions du 6° du II du présent
+article ; 
+
+8° Pour l'application en Nouvelle-Calédonie des dispositions des troisième et quatrième alinéas du II de l'article L. 561-29,
+l'infraction définie à l'article 1741 du code général des impôts s'entend de l'infraction de fraude fiscale au sens des
+dispositions du 6° du II du présent article. Lorsque le service mentionné à l'article L. 561-23 a reçu des informations sur
+des faits de soustraction frauduleuse ou de tentative de soustraction frauduleuse à l'établissement ou au payement partiel ou
+total des impôts prévus par la réglementation fiscale établie localement, il peut les transmettre à l'administration fiscale
+de la Nouvelle-Calédonie ; 
+
+9° Au 3° du I de l'article L. 561-36, les mots : " en vertu de l'article L. 310-12 du code des assurances " sont remplacés
+par les mots : " en vertu des articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et
+adaptation du droit économique et financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les
+îles Wallis et Futuna " ; 
+
+10° Aux 5°, 6° et 7° de l'article L. 561-36, les références faites respectivement aux chambres des notaires et à l'ordonnance
+n° 45-2590 du 2 novembre 1945 relative au statut du notariat, aux chambres départementales des huissiers de justice et à
+l'ordonnance n° 45-2592 du 2 novembre 1945 relative au statut des huissiers de justice et à la chambre de discipline des
+commissaires-priseurs judiciaires et au titre II du livre VIII du code de commerce sont remplacées par les références aux
+autorités exerçant le pouvoir de contrôle et de sanction sur ces professions selon la réglementation applicable localement et
+aux dispositions applicables localement ayant le même objet ; 
+
+11° Aux 9° et 11° de l'article L. 561-36, les références respectivement faites au titre Ier du livre VIII du code de commerce
+et à l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et réglementant le
+titre et la profession d'experts-comptables sont remplacées par les références aux dispositions applicables localement ayant
+le même objet ; 
+
+12° Les autorités chargées de contrôler le respect des obligations prévues par le chapitre Ier du titre V par les personnes
+mentionnées aux 5°, 6°, 7°, 9°, 11° et 12° du I de l'article L. 561-36 se font communiquer les documents relatifs au respect
+de ces obligations dans des conditions fixées par décret en Conseil d'Etat ; 
+
+13° Au II de l'article L. 561-36, les mots : ", des organismes mentionnés à l'article L. 134-1 du code des juridictions
+financières " sont supprimés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°90-614 1990-07-12 art. 27
+	  - Ordonnance n°45-2138 du 19 septembre 1945
+	  - Loi n°70-9 du 2 janvier 1970 - art. 1
+	  - Code général des impôts, CGI. - art. 1741
+	  - Code général des impôts, CGI. - art. 537
+	  - Livre des procédures fiscales - art. L83
+	  - Code monétaire et financier - art. L561-14-2
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-20
+	  - Code monétaire et financier - art. L561-23
+	  - Code monétaire et financier - art. L561-29
+	  - Code monétaire et financier - art. L561-36
+	  - Code monétaire et financier - art. L574-1
 
 	**Codifié par**:
 
@@ -59299,16 +59481,9 @@ Futuna.
 
 	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 29-1 (VT)
 
-	**Cite**:
-
-	  - Ordonnance 2006-60 2006-01-19 art. 7, art. 8
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L563-2 (M)
-	  - Code monétaire et financier L563-2, L574-1 à L574-3, 415, 453 à 459, L562-1
-
 	**Modifié par**:
 
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V) JORF 24 janvier 2006
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 6
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -59587,29 +59762,21 @@ décision passée en force de chose jugée pour les mêmes faits.
 
 ###### Article L751-1
 
-L'article L. 112-6 est applicable en Polynésie française. Au I de cet article, les mots : "la somme de cinq mille francs"
-sont remplacés par les mots : "la somme de 838 euros". Au II, les mots :
-
-la somme de trois mille francs" sont remplacés par les mots : "la somme de 502,80 euros".
+Les articles L. 112-6 et L. 112-7 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1998-12-31
-	  - SPEC_APPLI: Décret n°98-1152 1998-12-16 (modalités de fixation de la parité franc CFP avec l'euro)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 5 (V)
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L112-6 (M)
+	  - Code monétaire et financier - art. L112-6
 
 
 ##### Section 2 : Les instruments de la monnaie scripturale
@@ -60878,7 +61045,8 @@ L'article L. 500-1 ainsi que les articles L. 570-1 et L. 570-2 sont applicables 
 ###### Article L755-1-1
 
 Le chapitre Ier du titre Ier du livre V est applicable en Polynésie française, à l'exception des articles L. 511-12, L.
-511-21 à L. 511-28 et L. 511-34. Les articles L. 571-1 à L. 571-9 sont également applicables en Polynésie française.
+511-21 à L. 511-28 et des 1°, 3° et 4° de l'article L. 511-34. Les articles L. 571-1 à L. 571-9 sont également applicables en
+Polynésie française.
 
 A l'article L. 511-36, les mots : " règlement de la Commission européenne " sont remplacés par les mots : " arrêté du
 ministre chargé de l'économie ". 
@@ -60893,13 +61061,13 @@ Le second alinéa de l'article L. 571-4 est applicable à l'office des postes et
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 7
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 5 (V)
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L511-12
 	  - Code monétaire et financier - art. L511-21
-	  - Code monétaire et financier - art. L511-34
+	  - Code monétaire et financier - art. L511-34 (V)
 	  - Code monétaire et financier - art. L511-36
 	  - Code monétaire et financier - art. L571-1
 	  - Code monétaire et financier - art. L571-4
@@ -61379,21 +61547,22 @@ Les réclamations concernant les envois contre remboursement sont reçues dans l
 
 ###### Article L755-8
 
-Les articles L. 520-1 à L. 520-4 ainsi que les articles L. 572-1 à L. 572-4 sont applicables en Polynésie française.
+Les articles L. 520-1 à L. 520-7 ainsi que les articles L. 572-1 à L. 572-4 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 27
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 5 (V)
+
 	**Cite**:
 
-	  - Code monétaire et financier L520-1 à L520-4, L572-1 à L572-4
+	  - Code monétaire et financier - art. L520-1
+	  - Code monétaire et financier - art. L572-1
 
 
 ##### Section 3 : Les prestataires de services d'investissement
@@ -61477,24 +61646,24 @@ références aux dispositions applicables localement ayant le même objet.
 
 ###### Article L755-11
 
-Le chapitre III du titre III du livre V est applicable en Polynésie française.
+Le chapitre III du titre III du livre V est applicable en Polynésie française. 
 
-Les articles L. 563-1 à L. 563-6 et L. 573-1 à L. 573-7 s'y appliquent également.
+Les articles L. 573-1 à L. 573-7 s'y appliquent également.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 5 (V)
+
 	**Cite**:
 
-	  - Code monétaire et financier L563-1 à L563-6, L573-1 à L573-7
+	  - Code monétaire et financier - art. L573-1
+	  - Code monétaire et financier - art. L573-7
 
 
 ##### Section 4 : Autres prestataires de services
@@ -61641,26 +61810,73 @@ L'article L. 573-8 s'y applique également.
 
 ###### Article L755-13
 
-Le titre VI du livre V, à l'exception des dispositions fiscales de l'article L. 563-2, ainsi que les articles L. 574-1 à L.
-574-3 sont applicables en Polynésie française.
+I.-Pour l'application en Polynésie française des dispositions du titre VI du livre V relatives à la lutte contre le
+blanchiment de capitaux et le financement du terrorisme : 
 
-Les références aux articles 415 et 453 à 459 ainsi qu'aux titres II et XII du code des douanes sont remplacées par la
-référence aux dispositions du code des douanes applicable en Polynésie française ayant le même objet.
+1° Les références au code des assurances au 2° de l'article L. 561-2 et à l'article L. 561-20, au code de la sécurité sociale
+et au code rural au 3° de l'article L. 561-2, au code de la mutualité au 4° du même article et au code de commerce au 15° du
+même article sont remplacées par des références à des dispositions applicables localement ayant le même objet ; 
 
-Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
-rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
-objet.
+2° Au 8° de l'article L. 561-2, les références à l'article 1er de la loi n° 70-9 du 2 janvier 1970 réglementant les
+conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et fonds de commerce, à
+l'exclusion de l'échange, de la location ou de la sous-location, saisonnière ou non, en nu ou en meublé, sont remplacées par
+des références à des dispositions applicables localement ayant le même objet ; 
 
-Les conditions d'application du titre IV du livre V pour les personnes mentionnées aux 3, 3 bis et 4 de l'article L. 562-1
-sont régies par les articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et adaptation du
-droit économique et financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie françaises et dans les îles Wallis et
-Futuna.
+3° Au 12° de l'article L. 561-2, la référence à l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre
+des experts-comptables et réglementant les titres et la profession d'expert-comptable est remplacée par des références à des
+dispositions applicables localement ayant le même objet et " les commissaires aux comptes " s'entendent des activités
+homologues réglementées selon les dispositions applicables localement ; 
+
+4° Au 13° de l'article L. 561-2, les " administrateurs judiciaires ", les " mandataires judiciaires " et les " commissaires-
+priseurs judiciaires " s'entendent des activités homologues réglementées selon les dispositions applicables localement ; 
+
+5° A l'article L. 561-14-2, les références à l'article 537 du code général des impôts et aux articles L. 83, L. 85, L. 87 et
+L. 89 du livre des procédures fiscales sont remplacées par des références aux dispositions applicables localement ayant le
+même objet ; 
+
+6° Pour l'application des dispositions du II de l'article L. 561-15, est considérée comme infraction de fraude fiscale soit
+l'infraction prévue par les dispositions de l'article 1741 du code général des impôts commise par les personnes ou organismes
+auxquels ces dispositions s'appliquent, soit, pour les personnes et organismes relevant de la réglementation fiscale établie
+localement, le fait de s'être soustrait frauduleusement ou d'avoir tenté de se soustraire frauduleusement à l'établissement
+ou au paiement partiel ou total des impôts prévus par celle-ci ; 
+
+7° Pour l'application des dispositions du dernier alinéa du II de l'article L. 561-23, l'infraction définie à l'article 1741
+s'entend de l'infraction de fraude fiscale au sens des dispositions du 6° du I du présent article ; 
+
+8° Pour l'application des dispositions des troisième et quatrième alinéas du II de l'article L. 561-29, l'infraction définie
+à l'article 1741 du code général des impôts s'entend de l'infraction de fraude fiscale au sens des dispositions du 6° du I du
+présent article. Lorsque le service mentionné à l'article L. 561-23 a reçu des informations sur des faits de soustraction
+frauduleuse ou de tentative de soustraction frauduleuse à l'établissement ou au paiement partiel ou total des impôts prévus
+par la réglementation fiscale établie localement, il peut les transmettre à l'administration fiscale de la Polynésie
+française ; 
+
+9° Au 3° du I de l'article L. 561-36, les mots : " en vertu de l'article L. 310-12 du code des assurances " sont remplacés
+par les mots : " en vertu des articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et
+adaptation du droit économique et financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les
+îles Wallis et Futuna " ; 
+
+10° Aux 5°, 6° et 7° de l'article L. 561-36, les références faites respectivement aux chambres des notaires et à l'ordonnance
+n° 45-2590 du 2 novembre 1945 relative au statut du notariat, aux chambres départementales des huissiers de justice et à
+l'ordonnance n° 45-2592 du 2 novembre 1945 relative au statut des huissiers de justice et à la chambre de discipline des
+commissaires-priseurs judiciaires et au titre II du livre VIII du code de commerce sont remplacées par les références aux
+autorités exerçant le pouvoir de contrôle et de sanction sur ces professions selon la réglementation applicable localement et
+aux dispositions applicables localement ayant le même objet ; 
+
+11° Aux 9°, 10° et 11° de l'article L. 561-36, les références faites respectivement au titre Ier du livre VIII du code de
+commerce, au titre II du même livre du même code et à l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de
+l'ordre des experts-comptables et réglementant les titres et la profession d'expert-comptable sont remplacées par des
+références aux dispositions applicables localement ayant le même objet ; 
+
+12° Les autorités chargées de contrôler le respect des obligations prévues par le chapitre Ier du titre V par les personnes
+mentionnées aux 5°, 6°, 7°, 9°, 11° et 12° du I de l'article L. 561-36 se font communiquer les documents relatifs au respect
+de ces obligations dans des conditions fixées par décret en Conseil d'Etat ; 
+
+13° Au II de l'article L. 561-36, les mots : ", des organismes mentionnés à l'article L. 134-1 du code des juridictions
+financières " sont supprimés. 
+
+II.-L'article L. 562-2 du code monétaire et financier est applicable en Polynésie française.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 27
 
 	**Codifié par**:
 
@@ -61670,16 +61886,21 @@ Futuna.
 
 	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 29-1 (VT)
 
-	**Cite**:
-
-	  - Ordonnance 2006-60 2006-01-19 art. 7, art. 8
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L563-2 (M)
-	  - Code monétaire et financier L563-2, L574-1 à L574-3, 415, 453 à 459, L562-1, L562-43
-
 	**Modifié par**:
 
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V) JORF 24 janvier 2006
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 7
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1741
+	  - Code monétaire et financier - art. L561-14-2
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-20
+	  - Code monétaire et financier - art. L561-23
+	  - Code monétaire et financier - art. L561-29
+	  - Code monétaire et financier - art. L561-36
+	  - Code monétaire et financier - art. L562-2
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -63294,7 +63515,7 @@ L'article L. 500-1 ainsi que les articles L. 570-1 et L. 570-2 sont applicables 
 ###### Article L765-1-1
 
 Le chapitre Ier du titre Ier du livre V est applicable dans les îles Wallis-et-Futuna, à l'exception des articles L. 511-12,
-L. 511-21 à L. 511-28 et L. 511-34.
+L. 511-21 à L. 511-28 et des 1°, 3° et 4° de l'article L. 511-34.
 
 Les articles L. 571-1 à L. 571-9 y sont également applicables. Au dernier alinéa de l'article L. 511-12-1, les mots : "ou
 celle rendue par la Commission européenne en application du règlement (CEE) n° 4064/89 du Conseil du 21 décembre 1989 relatif
@@ -63305,24 +63526,20 @@ chargé de l'économie".
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code monétaire et financier - art. L511-12 (M)
-	  - Code monétaire et financier - art. L511-12-1 (M)
-	  - Code monétaire et financier - art. L511-34 (M)
-	  - Code monétaire et financier - art. L511-36 (M)
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier art. L765-1
-
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 3 (V) JORF 29 juillet 2005
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-12 (M)
+	  - Code monétaire et financier - art. L511-12-1 (M)
+	  - Code monétaire et financier - art. L511-34 (M)
+	  - Code monétaire et financier - art. L511-36 (M)
 
 
 ##### Sous-section 1 : Les sociétés financières
@@ -63491,15 +63708,11 @@ Futuna.
 
 ###### Article L765-8
 
-Les articles L. 520-1 à L. 520-4 sont applicables dans les îles Wallis-et-Futuna.
+Les articles L. 520-1 à L. 520-7 sont applicables dans les îles Wallis-et-Futuna. 
 
 Les articles L. 572-1 à L. 572-4 s'y appliquent également.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 27
 
 	**Codifié par**:
 
@@ -63507,8 +63720,12 @@ Les articles L. 572-1 à L. 572-4 s'y appliquent également.
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L520-1
+	  - Code monétaire et financier - art. L572-1
 
 
 ##### Section 3 : Les prestataires de services d'investissement
@@ -63585,16 +63802,11 @@ b) A l'article L. 532-5, les mots : " et bénéficient des dispositions des arti
 
 ###### Article L765-11
 
-Le chapitre III du titre III du livre V est applicable dans les îles Wallis-et-Futuna.
+Le chapitre III du titre III du livre V est applicable dans les îles Wallis-et-Futuna. 
 
-Les articles L. 563-1 à L. 563-6 et L. 573-1 à L. 573-7 s'y appliquent également.
+Les articles L. 573-1 à L. 573-7 s'y appliquent également.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 49 (Ab)
-	  - Loi n°96-597 1996-07-02 art. 107 II
 
 	**Codifié par**:
 
@@ -63602,12 +63814,11 @@ Les articles L. 563-1 à L. 563-6 et L. 573-1 à L. 573-7 s'y appliquent égalem
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-429 2005-05-06 art. 90 I, II JORF 7 mai 2005
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 5 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier L563-1 à L563-6, L573-1 à L573-7
+	  - Code monétaire et financier - art. L573-1 (V)
 
 
 ##### Section 4 : Autres prestataires de services
@@ -63760,39 +63971,56 @@ l'ordonnance n° 2005-429 a rectifié cette erreur.
 
 ###### Article L765-13
 
-Le titre VI du livre V, à l'exception des dispositions fiscales de l'article L. 563-2, ainsi que les articles L. 574-1 à L.
-574-3 sont applicables dans les îles Wallis-et-Futuna.
+I. - Le titre VI du livre V ainsi que les articles L. 574-1 à L. 574-4 sont applicables dans les îles Wallis et Futuna dans
+les conditions prévues au II. 
 
-Les références aux articles 415 et 453 à 459 ainsi qu'aux titres II et XII du code des douanes sont remplacées par la
-référence aux dispositions du code des douanes applicable dans les îles Wallis-et-Futuna ayant le même objet.
+II. - 1° Les références au code des assurances au 2° de l'article L. 561-2 et à l'article L. 561-20, au code de la sécurité
+sociale et au code rural au 3° de l'article L. 561-2 et au code de la mutualité au 4° du même article sont remplacées par des
+références à des dispositions applicables localement ayant le même objet ; 
 
-Pour l'application de l'article L. 562-1, les références au code des assurances, au code de la sécurité sociale, au code
-rural et au code de la mutualité sont remplacées par des références aux dispositions applicables localement ayant le même
-objet.
+2° Au 8° de l'article L. 561-2, les références à l'article 1er de la loi n° 70-9 du 2 janvier 1970 réglementant les
+conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et fonds de commerce, à
+l'exclusion de l'échange, de la location ou de la sous-location, saisonnière ou non, en nu ou en meublé, sont remplacées par
+des références à des dispositions applicables localement ayant le même objet ; 
 
-Lorsqu'en application de l'article 16 de la loi n° 71-1130 du 31 décembre 1971, le nombre d'avocats inscrits au barreau n'a
-pas permis l'élection d'un conseil de l'ordre, l'avocat effectue directement la déclaration prévue à l'article L. 562-2
-auprès du service institué à l'article L. 562-43.
+3° A l'article L. 561-14-2, les références à l'article 537 du code général des impôts et aux articles L. 83, L. 85, L. 87 et
+L. 89 du livre des procédures fiscales sont remplacées par des références aux dispositions applicables localement ayant le
+même objet ; 
 
-Les conditions d'application du titre IV du livre V pour les personnes mentionnées aux 3, 3 bis et 4 de l'article L. 562-1
-sont régies par les articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et adaptation du
-droit économique et financier applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie françaises et dans les îles Wallis et
-Futuna.
+4° Pour l'application dans les îles Wallis et Futuna des dispositions du II de l'article L. 561-15, est considérée comme
+infraction de fraude fiscale soit l'infraction prévue par les dispositions de l'article 1741 du code général des impôts
+commise par les personnes ou organismes auxquels ces dispositions s'appliquent, soit, pour les personnes et organismes
+relevant de la réglementation fiscale établie localement, le fait de s'être soustrait frauduleusement ou d'avoir tenté de se
+soustraire frauduleusement à l'établissement ou au payement partiel ou total des impôts prévus par celle-ci ; 
+
+5° Pour l'application dans les îles Wallis et Futuna des dispositions du dernier alinéa du II de l'article L. 561-23,
+l'infraction définie à l'article 1741 s'entend de l'infraction de fraude fiscale au sens des dispositions du 6° du II du
+présent article ; 
+
+6° Pour l'application dans les îles Wallis et Futuna des dispositions des troisième et quatrième alinéas du II de l'article
+L. 561-29, l'infraction définie à l'article 1741 du code général des impôts s'entend de l'infraction de fraude fiscale au
+sens des dispositions du 6° du II du présent article. Lorsque le service mentionné à l'article L. 561-23 a reçu des
+informations sur des faits de soustraction frauduleuse ou de tentative de soustraction frauduleuse à l'établissement ou au
+payement partiel ou total des impôts prévus par la réglementation fiscale établie localement, il peut les transmettre à
+l'administration fiscale de la collectivité ; 
+
+7° Au 3° du I de l'article L. 561-36, les mots : " en vertu de l'article L. 310-12 du code des assurances " sont remplacés
+par les mots : " en vertu des articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et
+adaptation du droit économique et financier applicables à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les
+îles Wallis et Futuna " ; 
+
+8° Au II de l'article L. 561-36, les mots : ", des organismes mentionnés à l' article L. 134-1 du code des juridictions
+financières " sont supprimés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°71-1130 du 31 décembre 1971 - art. 16 (V)
-	  - Ordonnance 2006-60 2006-01-19 art. 7, art. 8
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. L563-2 (M)
-	  - Code monétaire et financier L563-2, L574-1 à L574-3, 415, 453 à 459, L562-1, L562-2, L562-43
-
-	**Anciens textes**:
-
-	  - Loi n°90-614 1990-07-12 art. 27
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 16
+	  - Ordonnance n°2006-60 du 19 janvier 2006
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L562-2
+	  - Code monétaire et financier - art. L563-2
 
 	**Codifié par**:
 
@@ -63805,7 +64033,7 @@ Futuna.
 
 	**Modifié par**:
 
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V) JORF 24 janvier 2006
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 8
 
 
 #### Chapitre VI : Les institutions en matière bancaire et financière
@@ -95502,7 +95730,7 @@ situation particulière de chaque catégorie d'organismes financiers ou de perso
 de la nature de leur activité.
 
 Le ministre chargé de l'économie arrête les modalités d'application des obligations de vigilance des organismes financiers
-mentionnés aux 1 et 6 de l'article L. 562-1 et à l'article L. 611-3 dans les conditions prévues aux articles L. 520-2, L.
+mentionnés aux 1 et 6 de l'article L. 562-1 et à l'article L. 611-3 dans les conditions prévues aux articles L. 524-2, L.
 611-1 et L. 611-3.
 
 Le contrôle de l'inspection générale des finances sur La Poste prévu à l'article L. 566-3 est exercé en liaison avec
@@ -95519,25 +95747,24 @@ du 5 mars 2007 JORF 7 mars 2007.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L520-2 (M)
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L566-3 (V)
-	  - Code monétaire et financier - art. L611-1 (M)
-	  - Code monétaire et financier - art. L611-3 (M)
+	  - Code monétaire et financier - art. L520-2
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L566-3
+	  - Code monétaire et financier - art. L611-1
+	  - Code monétaire et financier - art. L611-3
 
 	**Anciens textes**:
 
-	  - Code monétaire et financier - art. R564-1 (M)
 	  - Code monétaire et financier - art. R564-1 (T)
 
 	**Cité par**:
@@ -95945,28 +96172,31 @@ ministre chargé de l'économie, sur proposition du gouverneur de la Banque de F
 ###### Article R613-2
 
 Lorsqu'une décision de la Commission bancaire intervient en application des articles L. 613-18, L. 613-21, L. 613-22 et L.
-613-32 ou des articles L. 520-2 et L. 520-3, la Commission bancaire peut ordonner toutes mesures de publicité qui lui
+613-32 ou des articles L. 524-2 et L. 524-3, la Commission bancaire peut ordonner toutes mesures de publicité qui lui
 paraissent nécessaires.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°84-708 du 24 juillet 1984 - art. 11 (M)
 	  - Décret n°84-708 du 24 juillet 1984 - art. 11 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L520-2 (M)
-	  - Code monétaire et financier - art. L520-3 (M)
-	  - Code monétaire et financier - art. L613-18 (M)
-	  - Code monétaire et financier - art. L613-21 (M)
-	  - Code monétaire et financier - art. L613-22 (M)
-	  - Code monétaire et financier - art. L613-32 (V)
+	  - Code monétaire et financier - art. L520-2
+	  - Code monétaire et financier - art. L520-3
+	  - Code monétaire et financier - art. L613-18
+	  - Code monétaire et financier - art. L613-21
+	  - Code monétaire et financier - art. L613-22
+	  - Code monétaire et financier - art. L613-32
 
 	**Cité par**:
 
@@ -96219,8 +96449,8 @@ des affaires ou à tout autre secret protégé par la loi.
 ###### Article R613-7
 
 Lorsque la Commission bancaire décide de se saisir de certains faits susceptibles de donner lieu à l'application des
-sanctions prévues à l'article L. 520-3 à l'encontre d'un changeur manuel, les procédures prévues au premier alinéa de
-l'article R. 613-4, aux deux premiers alinéas de l'article R. 613-5 et à l'article R. 613-6 sont applicables.
+sanctions prévues à l'article L. 524-3 à l'encontre d'un changeur manuel, les procédures prévues au premier alinéa de
+l'article R. 613-4, aux deux premiers alinéas de l'article R. 613-5 et à l'article R. 613-6 sont applicables. 
 
 Le changeur manuel peut se faire assister par un avocat.
 
@@ -96230,16 +96460,20 @@ Le changeur manuel peut se faire assister par un avocat.
 
 	  - Décret n°84-708 du 24 juillet 1984 - art. 10-1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2010-217 du 3 mars 2010 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L520-3 (M)
-	  - Code monétaire et financier - art. R613-4 (V)
-	  - Code monétaire et financier - art. R613-5 (V)
-	  - Code monétaire et financier - art. R613-6 (V)
+	  - Code monétaire et financier - art. L524-3
+	  - Code monétaire et financier - art. R613-4
+	  - Code monétaire et financier - art. R613-5
+	  - Code monétaire et financier - art. R613-6
 
 
 ###### Article R613-8
