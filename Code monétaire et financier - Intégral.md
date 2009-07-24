@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-07-24
+Version Consolidée au 2009-07-25
 
 # Partie législative
 
@@ -38387,7 +38387,9 @@ L'exercice de la profession de changeur manuel est interdit à toute personne n'
 comité des établissements de crédit et des entreprises d'investissement.
 
 L'exercice de l'activité de change manuel ou la direction de droit ou de fait d'une entreprise exerçant une telle activité
-est interdit à toute personne qui a fait l'objet de la sanction prévue au 3 du II de l'article L. 613-21.
+est interdit à toute personne qui a fait l'objet de la sanction prévue au 3° de l'article L. 613-21-1.
+
+Les personnes exerçant ces activités sont soumises aux incapacités énoncées à l'article L. 500-1.
 
 **Liens relatifs à cet article**
 
@@ -38401,11 +38403,12 @@ est interdit à toute personne qui a fait l'objet de la sanction prévue au 3 du
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 9
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
+	  - Code monétaire et financier - art. L500-1
+	  - Code monétaire et financier - art. L613-21-1
 
 	**Cité par**:
 
@@ -38416,10 +38419,6 @@ est interdit à toute personne qui a fait l'objet de la sanction prévue au 3 du
 	**Nouveaux textes**:
 
 	  - Code monétaire et financier - art. L524-4 (VD)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L613-21
 
 
 ###### Article L520-5
@@ -38463,8 +38462,8 @@ Le ministre chargé de l'économie peut, par arrêté, les soumettre à des règ
 obligations prévues par le titre VI et par le présent titre, ainsi qu'à des règles d'exécution des opérations de change
 manuel, d'organisation et de contrôle interne propres à en assurer le respect. 
 
-II.-La Commission bancaire exerce le pouvoir disciplinaire sur les changeurs manuels dans les conditions prévues au II de
-l'article L. 613-21. 
+II.-La Commission bancaire exerce le pouvoir disciplinaire sur les changeurs manuels dans les conditions prévues à l'article
+L. 613-21-1.
 
 La Commission bancaire exerce le contrôle, notamment sur place, des changeurs manuels dans les conditions prévues aux
 articles L. 613-6 à L. 613-8, L. 613-10, L. 613-11 et L. 613-20. Les agents chargés du contrôle sur place peuvent procéder au
@@ -38482,13 +38481,9 @@ l'application des dispositions du présent titre et du titre VI du présent livr
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 9
 
 	**Cité par**:
 
@@ -38502,11 +38497,8 @@ l'application des dispositions du présent titre et du titre VI du présent livr
 	  - Code monétaire et financier - art. L613-11
 	  - Code monétaire et financier - art. L613-20
 	  - Code monétaire et financier - art. L613-21
+	  - Code monétaire et financier - art. L613-21-1 (V)
 	  - Code monétaire et financier - art. L613-6
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L524-6 (VD)
 
 
 ###### Article L520-7
@@ -38519,7 +38511,7 @@ II.-A cette fin, les agents des douanes mentionnés au I ont accès, durant les 
 manuels, aux locaux à usage professionnel à l'exclusion des parties de ces locaux affectées au domicile privé. 
 
 Ils peuvent se faire communiquer les registres et les documents professionnels que les changeurs manuels sont tenus d'établir
-en application du présent titre et des articles L. 563-2 à L. 563-4. 
+en application du présent titre et de l'article L. 561-12. 
 
 Ils peuvent se faire délivrer copie des documents susmentionnés. 
 
@@ -38550,20 +38542,13 @@ les meilleurs délais à la Commission bancaire.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L524-7 (VD)
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 9
 
 	**Cite**:
 
+	  - Code monétaire et financier - art. L561-12 (V)
 	  - Code monétaire et financier - art. L563-2
 	  - Code monétaire et financier - art. L572-1
 
@@ -46439,8 +46424,7 @@ est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 ###### Article L572-1
 
 Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait, pour toute personne, agissant soit pour son propre
-compte, soit pour le compte d'une personne morale, de méconnaître l'une des interdictions prévues aux deux premiers alinéas
-de l'article L. 524-4. 
+compte, soit pour le compte d'une personne morale, de méconnaître l'une des interdictions prévues à l'article L. 524-4. 
 
 Est puni de la même peine le fait, pour toute personne, de méconnaître l'interdiction prescrite par l'article L. 524-5. 
 
@@ -46456,7 +46440,7 @@ Commission bancaire.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 9
 
 	**Cité par**:
 
@@ -46523,7 +46507,7 @@ Les dispositions de l'article L. 571-2 sont applicables aux procédures relative
 ###### Article L572-4
 
 Est puni d'un emprisonnement de six mois et d'une amende de 7 500 euros, le fait, pour toute personne, de s'opposer à
-l'exercice par les agents des douanes des pouvoirs qu'ils tiennent de l'article L. 524-4.
+l'exercice par les agents des douanes des pouvoirs qu'ils tiennent de l'article L. 524-7.
 
 **Liens relatifs à cet article**
 
@@ -46537,11 +46521,11 @@ l'exercice par les agents des douanes des pouvoirs qu'ils tiennent de l'article 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 9
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L524-4 (VD)
+	  - Code monétaire et financier - art. L524-7 (VD)
 
 
 #### Chapitre III : Dispositions relatives aux prestataires de services d'investissement et aux conseillers en investissements financiers
