@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-07-25
+Version Consolidée au 2009-07-26
 
 # Partie législative
 
@@ -24163,8 +24163,8 @@ fixé par décret ;
 
 2° Aux prises de contact dans les locaux des personnes mentionnées à l'article L. 341-3, sauf lorsque ces personnes sont
 contractuellement liées, en vue de la commercialisation d'instruments financiers et de produits d'épargne, aux sociétés
-exploitant des magasins de grande surface visés par l'article L. 752-1 du code de commerce et l'article 30-2 du code de
-l'industrie cinématographique, et que leurs locaux sont implantés dans les locaux de ces magasins ; 
+exploitant des magasins de grande surface visés par l'article L. 752-1 du code de commerce et aux articles L. 212-7 et L.
+212-8 du code du cinéma et de l'image animée, et que leurs locaux sont implantés dans les locaux de ces magasins ; 
 
 3° Aux démarches dans les locaux professionnels d'une personne morale à la demande de cette dernière ; 
 
@@ -24192,17 +24192,6 @@ visés au titre Ier du livre III du code de la consommation ;
 capital-risque, pour la distribution de produits, la réalisation d'une opération ou la fourniture d'un service, mentionnés à
 l'article L. 341-1, à l'exception des dispositions mentionnées à l'article L. 341-6.
 
-**Nota:**
-
-Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 105 III : Le présent article entre en vigueur à une date fixée par
-décret et au plus tard le 1er janvier 2009. 
-
-Les demandes d'autorisation présentées avant la date d'entrée en vigueur du présent article sont instruites et les
-autorisations accordées dans les conditions prévues par les dispositions en vigueur avant cette date. 
-
-Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 105 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
-la publication du présent décret au Journal officiel de la République française.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -24228,16 +24217,16 @@ la publication du présent décret au Journal officiel de la République frança
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 105 (V)
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 2 (V)
 
 	**Cite**:
 
 	  - Code de commerce - art. L752-1
-	  - Code de l'industrie cinématographique - art. 30-2
 	  - Code monétaire et financier - art. L311-2
 	  - Code monétaire et financier - art. L321-2
 	  - Code monétaire et financier - art. L341-6 (V)
 	  - Code monétaire et financier - art. L411-2
+	  - Code du cinéma et de l'image animée - art. L212-7 (V)
 
 
 ##### Section 2 : Personnes habilitées à procéder au démarchage
@@ -30170,49 +30159,38 @@ dans le respect des limitations qui résultent des textes législatifs et régle
 ###### Article L511-10
 
 Avant d'exercer leur activité, les établissements de crédit doivent obtenir l'agrément délivré par le comité des
-établissements de crédit et des entreprises d'investissement mentionné à l'article L. 612-1.
+établissements de crédit et des entreprises d'investissement mentionné à l'article L. 612-1. 
 
 Le comité des établissements de crédit et des entreprises d'investissement vérifie si l'entreprise satisfait aux obligations
 prévues aux articles L. 511-11, L. 511-13 et L. 511-40 et l'adéquation de la forme juridique de l'entreprise à l'activité
 d'établissement de crédit. Il prend en compte le programme d'activités de cette entreprise, les moyens techniques et
 financiers qu'elle prévoit de mettre en oeuvre ainsi que la qualité des apporteurs de capitaux et, le cas échéant, de leurs
-garants.
+garants. 
 
 Le comité apprécie également l'aptitude de l'entreprise requérante à réaliser ses objectifs de développement dans des
 conditions compatibles avec le bon fonctionnement du système bancaire et qui assurent à la clientèle une sécurité
-satisfaisante.
+satisfaisante. 
 
 Pour fixer les conditions de son agrément, le Comité des établissements de crédit et des entreprises d'investissement peut
 prendre en compte la spécificité de certains établissements de crédit appartenant au secteur de l'économie sociale et
 solidaire. Il apprécie notamment l'intérêt de leur action au regard des missions d'intérêt général relevant de la lutte
-contre les exclusions ou de la reconnaissance effective d'un droit au crédit.
+contre les exclusions ou de la reconnaissance effective d'un droit au crédit. 
 
 Le comité peut limiter l'agrément qu'il délivre à l'exercice de certaines opérations définies par l'objet social du
-demandeur.
+demandeur. 
 
 Enfin, le comité peut assortir l'agrément délivré de conditions particulières visant à préserver l'équilibre de la structure
 financière de l'établissement et le bon fonctionnement du système bancaire en tenant compte, le cas échéant, des objectifs de
 la surveillance complémentaire prévue par le chapitre VII du titre Ier du livre V du présent code. Il peut aussi subordonner
-l'octroi de l'agrément au respect d'engagements souscrits par l'établissement requérant.
+l'octroi de l'agrément au respect d'engagements souscrits par l'établissement requérant. 
 
 Le comité peut refuser l'agrément lorsque l'exercice de la mission de surveillance de l'entreprise requérante est susceptible
 d'être entravé soit par l'existence de liens de capital ou de contrôle directs ou indirects entre l'entreprise et d'autres
 personnes physiques ou morales, soit par l'existence de dispositions législatives ou réglementaires d'un Etat qui n'est pas
-partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de ces personnes.
+partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de ces personnes. 
 
 Le comité peut, en outre, refuser l'agrément si les personnes mentionnées à l'article L. 511-13 ne possèdent pas
 l'honorabilité et la compétence nécessaires ainsi que l'expérience adéquate à leur fonction.
-
-Toute personne physique ou morale envisageant de déposer un projet d'offre publique à l'Autorité des marchés financiers en
-application du chapitre III du titre III du livre IV du présent code, en vue d'acquérir une quantité déterminée de titres
-d'un établissement de crédit agréé en France, est tenue d'en informer le gouverneur de la Banque de France, président du
-Comité des établissements de crédit et des entreprises d'investissement, huit jours ouvrés avant le dépôt de ce projet
-d'offre ou son annonce publique si elle est antérieure.
-
-**Nota:**
-
-Ordonnance 2004-1201 art. 20 : " Les dispositions de la présente ordonnance sont applicables, pour la première fois, à la
-surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année ".
 
 **Liens relatifs à cet article**
 
@@ -30287,7 +30265,13 @@ surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 5 () JORF 16 novembre 2004
+	  - Ordonnance n°2009-897 du 24 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-11
+	  - Code monétaire et financier - art. L511-40 (V)
+	  - Code monétaire et financier - art. L612-1
 
 
 ###### Article L511-11
@@ -30371,29 +30355,32 @@ concernés.
 
 ###### Article L511-12-1
 
-Toute modification des conditions auxquelles était subordonné l'agrément délivré à un établissement de crédit doit faire
-l'objet, selon les cas, d'une autorisation préalable du Comité des établissements de crédit et des entreprises
+I.-Les modifications dans la répartition du capital d'un établissement de crédit doivent être notifiées au Comité des
+établissements de crédit et des entreprises d'investissement. 
+
+Les prises ou extensions de participations, directes ou indirectes, dans un établissement de crédit doivent être autorisées
+par le Comité des établissements de crédit et des entreprises d'investissement. 
+
+Lorsqu'une diminution ou cession de participation, directe ou indirecte, lui est notifiée, le Comité des établissements de
+crédit et des entreprises d'investissement vérifie que cette opération ne remet pas en cause les conditions auxquelles est
+subordonné l'agrément délivré à l'établissement de crédit. 
+
+Un décret en Conseil d'Etat détermine notamment les critères d'appréciation, par le Comité des établissements de crédit et
+des entreprises d'investissement, des opérations mentionnées au deuxième alinéa. Les modalités des procédures mentionnées au
+présent I sont précisées par l'arrêté prévu à l'article L. 611-1. 
+
+II.-Toute autre modification des conditions auxquelles était subordonné l'agrément délivré à un établissement de crédit doit
+faire l'objet, selon les cas, d'une autorisation préalable du Comité des établissements de crédit et des entreprises
 d'investissement, d'une déclaration ou d'une notification, dans les conditions fixées par un arrêté du ministre chargé de
 l'économie. 
 
 Dans les cas où une autorisation doit être délivrée, elle peut, elle-même, être assortie de conditions particulières
 répondant aux finalités mentionnées au sixième alinéa de l'article L. 511-10 ou subordonnée au respect d'engagements pris par
-l'établissement. 
-
-Dans le cadre d'une opération de concentration concernant, directement ou non, un établissement de crédit ou une entreprise
-d'investissement, le Comité des établissements de crédit et des entreprises d'investissement peut, s'il l'estime nécessaire à
-sa complète information, rendre sa décision sur le fondement du présent article après la décision rendue par l'Autorité de la
-concurrence en application des articles L. 430-1 et suivants du titre III du livre IV du code de commerce ou, le cas échéant,
-par le ministre chargé de l'économie en application du II de l'article L. 430-7-1 du même code ou celle rendue par la
-Commission européenne en application du règlement (CE) n° 139 / 2004 du Conseil, du 20 janvier 2004, relatif au contrôle des
-concentrations entre entreprises.
+l'établissement.
 
 **Nota:**
 
-Conformément à l'article 96-V de la loi n° 2008-776 du 4 août 2008, le présent article entre en vigueur à compter de la
-promulgation de l'ordonnance prévue à l'article 97 de la présente loi et, au plus tard, le 1er janvier 2009. L'ordonnance
-visée à l'article 97 de la loi n° 2008-776 (ordonnance n° 2008-1161) a été promulguée le 13 novembre 2008 fixant à cette date
-l'entrée en vigueur de l'article 96.
+
 
 **Liens relatifs à cet article**
 
@@ -30424,13 +30411,11 @@ l'entrée en vigueur de l'article 96.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 96
+	  - Ordonnance n°2009-897 du 24 juillet 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de commerce - art. L430-1
-	  - Code de commerce - art. L430-7-1
-	  - Règlement 4064-89 (CEE) 1989-12-21 (Conseil)
+	  - Code monétaire et financier - art. L611-1
 
 
 ###### Article L511-13
@@ -38799,22 +38784,27 @@ détenir des participations dans des entreprises existantes ou en création.
 
 ###### Article L531-6
 
-Toute modification dans la structure du capital d'une entreprise d'investissement doit être effectuée dans des conditions
-définies par un arrêté du ministre chargé de l'économie. Elle doit être notifiée au comité des établissements de crédit et
-des entreprises d'investissement. Le cas échéant, elle doit être autorisée par le comité des établissements de crédit et des
-entreprises d'investissement.
+I.-Les modifications dans la répartition du capital d'une entreprise d'investissement doivent être notifiées au Comité des
+établissements de crédit et des entreprises d'investissement. 
 
-En cas de manquement aux règles fixées au premier alinéa et sans préjudice des dispositions de l'article L. 233-14 du code de
+Les prises ou extensions de participations, directes ou indirectes, dans une entreprise d'investissement doivent être
+autorisées par le Comité des établissements de crédit et des entreprises d'investissement. 
+
+Lorsqu'une diminution ou cession de participation, directe ou indirecte, lui est notifiée, le Comité des établissements de
+crédit et des entreprises d'investissement vérifie que cette opération ne remet pas en cause les conditions auxquelles est
+subordonné l'agrément délivré à l'entreprise d'investissement. 
+
+Un décret en Conseil d'Etat détermine notamment les critères d'appréciation, par le Comité des établissements de crédit et
+des entreprises d'investissement, des opérations mentionnées au deuxième alinéa. Les modalités des procédures mentionnées au
+présent I sont précisées par l'arrêté prévu à l'article L. 611-4. 
+
+II.-En cas de manquement aux règles fixées au I et sans préjudice des dispositions de l'article L. 233-14 du code de
 commerce, le procureur de la République, le Comité des établissements de crédit et des entreprises d'investissement, la
 Commission bancaire ou tout actionnaire ou détenteur de parts sociales peut demander au juge de suspendre, jusqu'à
 régularisation de la situation, l'exercice des droits de vote attachés aux actions et parts sociales d'entreprise
 d'investissement autre que les sociétés de gestion de portefeuille détenues irrégulièrement, directement ou indirectement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-597 1996-07-02 art. 8 II
 
 	**Cité par**:
 
@@ -38840,11 +38830,11 @@ d'investissement autre que les sociétés de gestion de portefeuille détenues i
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+	  - Ordonnance n°2009-897 du 24 juillet 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de commerce. - art. L233-14 (M)
+	  - Code de commerce - art. L233-14
 
 
 ###### Article L531-7
@@ -39682,15 +39672,29 @@ Les sociétés de gestion de portefeuille doivent satisfaire à tout moment aux 
 
 ###### Article L532-9-1
 
-Toute modification apportée aux conditions auxquelles était subordonné l'agrément délivré à une société de gestion de
-portefeuille doit faire l'objet, selon les cas, d'une autorisation préalable de l'Autorité des marchés financiers, d'une
-déclaration ou d'une notification, dans les conditions fixées par le règlement général de l'Autorité des marchés financiers.
+I.-Les modifications dans la répartition du capital d'une société de gestion de portefeuille doivent être notifiées à
+l'Autorité des marchés financiers. 
+
+Les prises ou extensions de participations, directes ou indirectes, dans une société de gestion de portefeuille doivent être
+autorisées par l'Autorité des marchés financiers. 
+
+Lorsqu'une diminution ou cession de participation, directe ou indirecte, lui est notifiée, l'Autorité des marchés financiers
+vérifie que cette opération ne remet pas en cause les conditions auxquelles est subordonné l'agrément délivré à la société de
+gestion de portefeuille. 
+
+Un décret en Conseil d'Etat détermine notamment les critères d'appréciation, par l'Autorité des marchés financiers, des
+opérations mentionnées au deuxième alinéa. Les modalités des procédures mentionnées au présent I sont précisées par le
+règlement général de l'Autorité des marchés financiers. 
+
+II.-Toute autre modification apportée aux conditions auxquelles était subordonné l'agrément délivré à une société de gestion
+de portefeuille doit faire l'objet, selon les cas, d'une autorisation préalable de l'Autorité des marchés financiers, d'une
+déclaration ou d'une notification, dans les conditions fixées par le règlement général de l'Autorité des marchés financiers. 
 
 En cas de défaut d'information préalable concernant toute modification dans la structure de l'actionnariat d'une société de
 gestion de portefeuille et sans préjudice des dispositions de l'article L. 233-14 du code de commerce, l'Autorité des marchés
 financiers, le procureur de la République ou tout actionnaire ou détenteur de parts sociales peut demander au juge de
 suspendre, jusqu'à régularisation de la situation, l'exercice des droits de vote attachés aux actions et parts sociales de la
-société de gestion détenues irrégulièrement, directement ou indirectement.
+société de gestion détenues irrégulièrement, directement ou indirectement. 
 
 Dans les cas où une autorisation doit être délivrée, elle peut, elle-même, être assortie de conditions particulières
 répondant à la finalité mentionnée à l'antépénultième alinéa de l'article L. 532-9 ou subordonnée au respect d'engagements
@@ -39716,12 +39720,12 @@ pris par la société de gestion.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+	  - Ordonnance n°2009-897 du 24 juillet 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de commerce. - art. L233-14 (M)
-	  - Code monétaire et financier - art. L532-9 (M)
+	  - Code de commerce - art. L233-14
+	  - Code monétaire et financier - art. L532-9
 
 
 ###### Article L532-9-2
@@ -47310,34 +47314,27 @@ capitalisation et de contrats mentionnés à l'article L. 132-5-3 et à l'articl
 
 ###### Article L611-4
 
-Le ministre chargé de l'économie précise également :
+Le ministre chargé de l'économie précise également : 
 
 1. Les conditions dans lesquelles les entreprises d'investissement peuvent effectuer les opérations mentionnées au 2 de
-l'article L. 321-2 ;
+l'article L. 321-2 ; 
 
 2. Les conditions dans lesquelles les entreprises d'investissement autres que les sociétés de gestion de portefeuille peuvent
-effectuer les opérations mentionnées à l'article L. 531-5 ;
+effectuer les opérations mentionnées à l'article L. 531-5 ; 
 
-3. Les conditions dans lesquelles la structure du capital des entreprises d'investissement autres que les sociétés de gestion
-de portefeuille peut être modifiée, conformément à l'article L. 531-6.
+3. Les conditions dans lesquelles des participations directes ou indirectes peuvent être prises, étendues ou cédées dans les
+entreprises d'investissement autres que les sociétés de gestion de portefeuille.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°96-597 1996-07-02 art. 5 al. 2 et art. 8
 	  - Loi n°96-597 du 2 juillet 1996 - art. 5 (Ab)
 	  - Loi n°96-597 du 2 juillet 1996 - art. 8 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 28 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -47348,10 +47345,14 @@ de portefeuille peut être modifiée, conformément à l'article L. 531-6.
 	  - Code monétaire et financier - art. L745-7-2 (V)
 	  - Code monétaire et financier - art. L755-7-2 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-897 du 24 juillet 2009 - art. 1
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L321-2 (M)
-	  - Code monétaire et financier - art. L531-5 (M)
+	  - Code monétaire et financier - art. L321-2
+	  - Code monétaire et financier - art. L531-5
 
 
 ###### Article L611-5
