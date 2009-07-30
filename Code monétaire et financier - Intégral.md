@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-07-26
+Version Consolidée au 2009-07-31
 
 # Partie législative
 
@@ -31312,8 +31312,12 @@ Ses statuts sont soumis à l'approbation ministérielle.
 Pour l'application des dispositions du présent code relatives aux établissements de crédit, sont considérées comme organes
 centraux :
 
-Crédit agricole S.A., la Banque fédérale des banques populaires, la Confédération nationale du crédit mutuel, la Caisse
-nationale des caisses d'épargne et de prévoyance.
+Crédit agricole S.A., l'organe central des caisses d'épargne et des banques populaires, la Confédération nationale du crédit
+mutuel.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -31356,7 +31360,6 @@ nationale des caisses d'épargne et de prévoyance.
 
 	**Anciens textes**:
 
-	  - Loi n°84-46 1984-01-24 art. 20
 	  - Loi n°84-46 du 24 janvier 1984 - art. 20 (Ab)
 
 	**Codifié par**:
@@ -31365,7 +31368,7 @@ nationale des caisses d'épargne et de prévoyance.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1048 du 25 août 2006 - art. 7 (VD) JORF 26 août 2006 en vigueur le 1er janvier 2008
+	  - Loi n°2009-715 du 18 juin 2009 - art. 1
 
 
 ###### Article L511-31
@@ -32269,8 +32272,9 @@ opérations garanties par une société de caution mutuelle.
 
 Elles peuvent également recevoir des dépôts de toute personne ou société.
 
-La caisse centrale des banques populaires est habilitée à consentir des prêts aux fonctionnaires, salariés et travailleurs
-indépendants.
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -32281,6 +32285,10 @@ indépendants.
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-715 du 18 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -32352,16 +32360,20 @@ Les banques populaires sont soumises aux obligations de publicité prévues à l
 Les statuts de chaque banque populaire déterminent le siège, la circonscription territoriale et la durée de la société. Ils
 fixent la composition du capital, la proportion dans laquelle chacun des membres contribue à sa constitution, le mode
 d'administration de la société, le nombre de voix dont dispose chaque sociétaire dans les assemblées générales, eu égard au
-nombre de parts dont il est titulaire, et le nombre maximum de voix qu'il peut avoir quel que soit ce nombre de parts.
+nombre de parts dont il est titulaire, et le nombre maximum de voix qu'il peut avoir quel que soit ce nombre de parts. 
 
 Les statuts de chaque banque populaire indiquent si la société étend à d'autres personnes que ses sociétaires le bénéfice de
-ses opérations.
+ses opérations. 
 
-Ils stipulent que les ouvertures de crédit sont accordées dans les limites déterminées pour la banque par la Banque fédérale
-des banques populaires.
+Ils stipulent que les ouvertures de crédit sont accordées dans les limites déterminées pour la banque par l'organe central
+des caisses d'épargne et des banques populaires . 
 
 Ils fixent les conditions nécessaires à la modification des statuts et à la dissolution de la société. Ils sont modifiés
-après agrément de la banque fédérale des banques populaires.
+après agrément de l'organe central des caisses d'épargne et des banques populaires.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -32371,7 +32383,7 @@ après agrément de la banque fédérale des banques populaires.
 
 	**Modifié par**:
 
-	  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Anciens textes**:
 
@@ -32426,8 +32438,12 @@ membres.
 Lorsque, après remboursement des dettes sociales, y compris les avances de toute nature consenties par la banque fédérale,
 des frais de liquidation et de la fraction libérée des parts sociales, la dissolution ou la liquidation d'une banque
 populaire fait apparaître un excédent d'actif, le montant de cet excédent est versé au fonds collectif de garantie institué
-par l'article L. 512-16. Toutefois, la banque fédérale des banques populaires peut lui donner pour tout ou partie une autre
-affectation conforme aux intérêts des banques populaires.
+par l'article L. 512-16. Toutefois, l'organe central des caisses d'épargne et des banques populaires peut lui donner pour
+tout ou partie une autre affectation conforme aux intérêts des banques populaires.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -32441,11 +32457,11 @@ affectation conforme aux intérêts des banques populaires.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 27 (V) JORF 16 mai 2001
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L512-16 (Ab)
+	  - Code monétaire et financier - art. L512-6 (V)
 
 	**Cité par**:
 
@@ -32454,11 +32470,15 @@ affectation conforme aux intérêts des banques populaires.
 
 ###### Article L512-9
 
-Les dispositions de l'article L. 512-8 sont applicables, après reversement des avances de toute nature reçues de la banque
-fédérale des banques populaires à l'excédent d'actif d'une société qui a perdu, pour quelque cause que ce soit, son titre de
-banque populaire. Le montant de cet excédent est déterminé, à défaut d'entente amiable, par un expert choisi par l'assemblée
-générale extraordinaire de la société et agréé par la banque fédérale des banques populaires. Il est immédiatement exigible à
-l'encontre de la société intéressée.
+Les dispositions de l'article L. 512-8 sont applicables, après reversement des avances de toute nature reçues de l'organe
+central des caisses d'épargne et des banques populaires à l'excédent d'actif d'une société qui a perdu, pour quelque cause
+que ce soit, son titre de banque populaire. Le montant de cet excédent est déterminé, à défaut d'entente amiable, par un
+expert choisi par l'assemblée générale extraordinaire de la société et agréé par l'organe central des caisses d'épargne et
+des banques populaires. Il est immédiatement exigible à l'encontre de la société intéressée.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -32470,19 +32490,21 @@ l'encontre de la société intéressée.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
+
 	**Cite**:
 
-	  - Code monétaire et financier - art. L512-8 (V)
+	  - Code monétaire et financier - art. L512-8
 
 
-##### Sous-section 2 : Banque fédérale des banques populaires
+##### Sous-section 2 : Le réseau des banques populaires
 
-###### Article L512-10
+###### Article L512-11
 
-La Banque fédérale des banques populaires, constituée selon les modalités définies au I de l'article 27 de la loi n° 2001-420
-du 15 mai 2001 relative aux nouvelles régulations économiques, est un établissement de crédit au sens du chapitre Ier du
-titre Ier du livre V. Elle est autorisée à fournir les services d'investissement prévus aux articles L. 321-1 et L. 321-2.
-Ses statuts prévoient que les banques populaires détiennent au moins la majorité absolue du capital et des droits de vote.
+Le réseau des banques populaires comprend les banques populaires, les sociétés de caution mutuelle leur accordant
+statutairement l'exclusivité de leur cautionnement et la société de participations du réseau des banques populaires.
 
 **Nota:**
 
@@ -32494,58 +32516,9 @@ Ses statuts prévoient que les banques populaires détiennent au moins la majori
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Cite**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 27 (V)
-	  - Code monétaire et financier - art. L321-1 (M)
-	  - Code monétaire et financier - art. L321-2 (M)
-
 	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 27 (V) JORF 16 mai 2001
-
-	**Abrogé par**:
 
 	  - Loi n°2009-715 du 18 juin 2009 - art. 1
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 145 (V)
-	  - Code rural - art. L527-3 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1929-07-24 du 24 juillet 1929 - art. 2 (Ab)
-
-
-###### Article L512-11
-
-Le réseau des banques populaires comprend les banques populaires, les sociétés de caution mutuelle leur accordant
-statutairement l'exclusivité de leur cautionnement et la Banque fédérale des banques populaires. La Banque fédérale des
-banques populaires est chargée de :
-
-1° Définir la politique et les orientations stratégiques du réseau des banques populaires ;
-
-2° Négocier et conclure au nom du réseau des banques populaires les accords nationaux et internationaux ;
-
-3° Agréer les dirigeants des banques populaires et définir les conditions de cet agrément ;
-
-4° Approuver les statuts des banques populaires et leurs modifications ;
-
-5° Assurer la centralisation des excédents de trésorerie des banques populaires et leur refinancement ;
-
-6° Prendre toute mesure utile à l'organisation, au bon fonctionnement et au développement du réseau des banques populaires et
-appeler les cotisations nécessaires à l'accomplissement de ses missions d'organe central.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 27 (V)
 
 	**Cité par**:
 
@@ -32559,11 +32532,14 @@ appeler les cotisations nécessaires à l'accomplissement de ses missions d'orga
 
 ###### Article L512-12
 
-La Banque fédérale des banques populaires prend toutes mesures nécessaires pour garantir la liquidité et la solvabilité du
-réseau des banques populaires en définissant et en mettant en oeuvre les mécanismes de solidarité financière interne
-nécessaires. En particulier, elle dispose, à cet effet, des fonds provenant de la dévolution du fonds de garantie de la
-Banque fédérale des banques populaires et inscrits au fonds pour risques bancaires généraux dont, en cas d'utilisation, elle
-peut décider la reconstitution en appelant auprès des banques populaires les cotisations nécessaires.
+L'organe central des caisses d'épargne et des banques populaires mentionné à l'article L. 512-106 dispose pour garantir la
+liquidité et la solvabilité du réseau des banques populaires des fonds de garantie inscrits dans les comptes de la société de
+participations du réseau des banques populaires dont, en cas d'utilisation, il peut décider la reconstitution en appelant
+auprès des banques populaires les cotisations nécessaires.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -32573,7 +32549,11 @@ peut décider la reconstitution en appelant auprès des banques populaires les c
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 27 (V)
+	  - Loi n°2009-715 du 18 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L512-106
 
 	**Cité par**:
 
@@ -33805,11 +33785,15 @@ retrait d'agrément ou de radiation de la liste des établissements agréés.
 Conformément aux orientations définies par le ministre chargé des pêches maritimes, le crédit maritime mutuel a pour objet de
 faciliter le financement des opérations et des investissements relatifs aux pêches maritimes, aux cultures marines et aux
 activités qui s'y rattachent, ainsi qu'à l'extraction des sables, graviers et amendements marins et à la récolte des végétaux
-provenant de la mer ou du domaine maritime.
+provenant de la mer ou du domaine maritime. 
 
 Les établissements de crédit maritime mutuel peuvent également effectuer toute opération de banque en faveur de leurs
-sociétaires et de ceux de la Banque fédérale des banques populaires et recevoir de toute personne des dépôts de fonds et de
-titres.
+sociétaires et de ceux de     l'organe central des caisses d'épargne et des banques populaires  et recevoir de toute personne
+des dépôts de fonds et de titres.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -33833,27 +33817,36 @@ titres.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 93 (V) JORF 2 août 2003
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 
 ###### Article L512-69
 
-Le crédit maritime mutuel est pratiqué par trois catégories d'établissements de crédit affiliés à la Banque fédérale des
-banques populaires :
+Le crédit maritime mutuel est pratiqué par trois catégories d'établissements de crédit affiliés à l'organe central des
+caisses d'épargne et des banques populaires : 
 
-1. Des caisses régionales de crédit maritime mutuel ;
+1. Des caisses régionales de crédit maritime mutuel ; 
 
 2. Des unions de crédit maritime mutuel que des caisses régionales peuvent former entre elles avec, éventuellement, des
-groupements tels que ceux qui sont définis à l'article L. 512-74 ;
+groupements tels que ceux qui sont définis à l'article L. 512-74 ; 
 
-3. Une société centrale de crédit maritime mutuel.
+3. Une société centrale de crédit maritime mutuel. 
 
 La composition et la répartition du capital social de la société centrale de crédit maritime mutuel sont régies par l'article
 19 bis de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération. Les caisses régionales et les unions de
 crédit maritime mutuel doivent détenir la majorité du capital et des droits de vote de cette société, dont les statuts sont
 soumis à approbation ministérielle.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 du 10 septembre 1947
+	  - Code monétaire et financier - art. L512-74
 
 	**Anciens textes**:
 
@@ -33874,7 +33867,7 @@ soumis à approbation ministérielle.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 93 (V) JORF 2 août 2003
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 
 ###### Article L512-70
@@ -33929,29 +33922,35 @@ est fixée par le décret prévu à l'article L. 512-84.
 
 ###### Article L512-72
 
-La Banque fédérale des banques populaires assure le contrôle de la régularité des opérations financières et comptables des
-établissements affiliés mentionnés à l'article L. 512-69 ; elle effectue à leur bénéfice toutes opérations financières ; elle
-leur apporte ses services dans le respect de leur autonomie juridique et financière.
+L'organe central des caisses d'épargne et des banques populaires assure le contrôle de la régularité des opérations
+financières et comptables des établissements affiliés mentionnés à l'article L. 512-69 ; elle effectue à leur bénéfice toutes
+opérations financières ; elle leur apporte ses services dans le respect de leur autonomie juridique et financière. 
 
 Le décret prévu à l'article L. 512-84 détermine les conditions dans lesquelles la caisse centrale exerce ces attributions.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-628 du 11 juillet 1975 - art. 7 (M)
 	  - Loi n°75-628 du 11 juillet 1975 - art. 5 (Ab)
 	  - Loi n°75-628 du 11 juillet 1975 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 93 (V) JORF 2 août 2003
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L512-69
+	  - Code monétaire et financier - art. L512-84
 
 	**Cité par**:
 
@@ -33996,26 +33995,35 @@ dans des conditions déterminées par le décret prévu à l'article L. 512-84.
 ###### Article L512-74
 
 Sans préjudice de l'application des dispositions de l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947 portant statut
-de la coopération, peuvent être sociétaires d'une caisse régionale de crédit maritime mutuel ou d'une union :
+de la coopération, peuvent être sociétaires d'une caisse régionale de crédit maritime mutuel ou d'une union : 
 
 1. Dans les conditions déterminées par le décret prévu à l'article L. 512-84, les personnes physiques qui, à titre principal,
 exercent ou ont exercé l'une des activités professionnelles mentionnées au premier alinéa de l'article L. 512-68 ainsi que
-les ascendants, veuves et orphelins de ces personnes ;
+les ascendants, veuves et orphelins de ces personnes ; 
 
 2. Les groupements qui, se rattachant par leur objet à l'une des activités mentionnées au premier alinéa de l'article L.
-512-68 appartiennent à l'une des catégories déterminées par le décret prévu à l'article L. 512-84 ;
+512-68 appartiennent à l'une des catégories déterminées par le décret prévu à l'article L. 512-84 ; 
 
-3. La Banque fédérale des banques populaires et les organismes dont elle centralise ou contrôle la gestion financière et
-comptable ;
+3. L'organe central des caisses d'épargne et des banques populaires et les organismes dont elle centralise ou contrôle la
+gestion financière et comptable ; 
 
 4. Les autres personnes physiques ou morales qui exercent leur activité ou qui ont une résidence dans les départements
 côtiers.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 du 10 septembre 1947
+	  - Code monétaire et financier - art. L512-68
+	  - Code monétaire et financier - art. L512-84
 
 	**Anciens textes**:
 
-	  - Loi n°75-628 du 11 juillet 1975 - art. 9 (M)
 	  - Loi n°75-628 du 11 juillet 1975 - art. 9 (Ab)
 
 	**Cité par**:
@@ -34028,13 +34036,11 @@ côtiers.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 93 (V) JORF 2 août 2003
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 
 ###### Article L512-75
@@ -34180,31 +34186,38 @@ Il représente la caisse régionale ou l'union dans ses rapports avec les tiers.
 
 Si le conseil d'administration prend des décisions contraires aux dispositions législatives ou réglementaires particulières
 régissant le crédit maritime mutuel ou aux orientations prévues à l'article L. 512-68, ou s'il s'abstient d'exercer ses
-fonctions, la Banque fédérale des banques populaires peut, sans préjudice des dispositions de l'article L. 613-19, après mise
-en demeure restée vaine et dans des conditions définies par le décret prévu à l'article L. 512-84, proposer au ministre
-chargé de l'économie, de dissoudre le conseil d'administration et de désigner un administrateur ou un comité provisoire,
-chargé de l'administration de la caisse ou de l'union.
+fonctions, l'organe central des caisses d'épargne et des banques populaires peut, sans préjudice des dispositions de
+l'article L. 613-19, après mise en demeure restée vaine et dans des conditions définies par le décret prévu à l'article L.
+512-84, proposer au ministre chargé de l'économie, de dissoudre le conseil d'administration et de désigner un administrateur
+ou un comité provisoire, chargé de l'administration de la caisse ou de l'union. 
 
 La mission de l'administrateur ou du comité provisoire ainsi nommé prend fin dès l'élection, à sa diligence, d'un nouveau
 conseil d'administration qui doit intervenir dans un délai maximum de six mois.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°75-628 du 11 juillet 1975 - art. 16 (M)
 	  - Loi n°75-628 du 11 juillet 1975 - art. 15 (Ab)
 	  - Loi n°75-628 du 11 juillet 1975 - art. 16 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 93 (V) JORF 2 août 2003
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L512-68
+	  - Code monétaire et financier - art. L512-84
+	  - Code monétaire et financier - art. L613-19
 
 	**Cité par**:
 
@@ -34382,8 +34395,12 @@ et financière de tous les acteurs de la vie économique, sociale et environneme
 
 ###### Article L512-86
 
-Le réseau des caisses d'épargne comprend les caisses d'épargne et de prévoyance, les sociétés locales d'épargne, la Caisse
-nationale des caisses d'épargne et de prévoyance et la fédération nationale des caisses d'épargne et de prévoyance.
+Le réseau des caisses d'épargne comprend les caisses d'épargne et de prévoyance, les sociétés locales d'épargne, la
+Fédération nationale des caisses d'épargne et de prévoyance et la société de participations du réseau des caisses d'épargne.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -34393,13 +34410,45 @@ nationale des caisses d'épargne et de prévoyance et la fédération nationale 
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2009-715 du 18 juin 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 223 A (V)
+
+
+###### Article L512-86-1
+
+L'organe central des caisses d'épargne et des banques populaires mentionné à l'article L. 512-106 dispose pour garantir la
+liquidité et la solvabilité du réseau des caisses d'épargne du fonds commun de garantie et de solidarité du réseau des
+caisses d'épargne dont, en cas d'utilisation, il peut décider la reconstitution en appelant auprès des caisses d'épargne les
+cotisations nécessaires.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-715 du 18 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L512-106
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L512-107 (V)
 
 
 ##### Sous-section 3 : Les caisses d'épargne et de prévoyance
@@ -34496,19 +34545,23 @@ et de surveillance ne peut être composé de plus de trente-quatre membres et le
 celui des membres élus par les collectivités territoriales ne peuvent être supérieurs à six.
 
 A défaut d'accord entre les caisses concernées, le nombre total des membres du conseil d'orientation et de surveillance,
-ainsi que la répartition de ces derniers par caisse et par catégorie, peuvent être fixés par la Caisse nationale des caisses
-d'épargne et de prévoyance. 
+ainsi que la répartition de ces derniers par caisse et par catégorie, peuvent être fixés par l'organe central des caisses
+d'épargne et des banques populaires. 
 
-Les membres du directoire sont proposés par le conseil d'orientation et de surveillance. Le directoire de la Caisse nationale
-des caisses d'épargne et de prévoyance s'assure qu'ils présentent l'honorabilité nécessaire et l'expérience adéquate pour
-cette fonction et propose leur agrément au conseil de surveillance de la Caisse nationale des caisses d'épargne et de
-prévoyance. Lorsque celui-ci a délivré l'agrément, le conseil d'orientation et de surveillance de la caisse d'épargne et de
-prévoyance procède à la nomination des membres du directoire. 
+Les membres du directoire sont proposés par le conseil d'orientation et de surveillance. Le directoire de l'organe central
+des caisses d'épargne et des banques populaires s'assure qu'ils présentent l'honorabilité nécessaire et l'expérience adéquate
+pour cette fonction et propose leur agrément au conseil de surveillance de l'organe central des caisses d'épargne et des
+banques populaires. Lorsque celui-ci a délivré l'agrément, le conseil d'orientation et de surveillance de la caisse d'épargne
+et de prévoyance procède à la nomination des membres du directoire. 
 
 Sans préjudice de l'application des dispositions de l'article L. 613-21, l'agrément peut être retiré par le conseil de
-surveillance de la Caisse nationale des caisses d'épargne et de prévoyance, sur proposition de son directoire et après
+surveillance de l'organe central des caisses d'épargne et des banques populaires, sur proposition de son directoire et après
 consultation du conseil d'orientation et de surveillance de la caisse d'épargne et de prévoyance concernée. Le retrait
 d'agrément emporte révocation du mandat de l'intéressé.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -34522,11 +34575,11 @@ d'agrément emporte révocation du mandat de l'intéressé.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 149
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L613-21 (V)
+	  - Code monétaire et financier - art. L613-21
 
 
 ##### Sous-section 4 : Les sociétés locales d'épargne
@@ -34543,15 +34596,16 @@ large du capital de cette caisse d'épargne et de prévoyance en animant le soci
 Pour faciliter cette détention, les sociétés locales d'épargne sont habilitées à proposer aux sociétaires définis à l'article
 L. 512-93 une première part sociale à un prix préférentiel. 
 
-Les sociétés locales d'épargne ne peuvent faire d'opérations de banque. Elles sont dispensées de l'immatriculation au
-registre du commerce et des sociétés. Elles sont affiliées à la caisse d'épargne et de prévoyance dans la circonscription
-territoriale de laquelle elles exercent leur activité. 
+Les sociétés locales d'épargne ne peuvent faire d'opérations de banque ou fournir des services de paiement. Elles sont
+dispensées de l'immatriculation au registre du commerce et des sociétés. Elles sont affiliées à la caisse d'épargne et de
+prévoyance dans la circonscription territoriale de laquelle elles exercent leur activité. 
 
 Le niveau de la rémunération des parts sociales détenues par les sociétaires des sociétés locales d'épargne est fixé par
 l'assemblée générale de la caisse d'épargne et de prévoyance à laquelle ces sociétés locales d'épargne sont affiliées. 
 
 La création d'une société locale d'épargne doit être préalablement approuvée par la caisse d'épargne et de prévoyance à
-laquelle la société locale d'épargne est affiliée, ainsi que par la Caisse nationale des caisses d'épargne et de prévoyance.
+laquelle la société locale d'épargne est affiliée, ainsi que par l'organe central des caisses d'épargne et des banques
+populaires.
 
 L'ensemble des sociétés locales d'épargne affiliées à chaque caisse d'épargne et de prévoyance constitue une seule entité
 pour l'application de l'article 145 du code général des impôts. 
@@ -34559,13 +34613,17 @@ pour l'application de l'article 145 du code général des impôts.
 Les dispositions de l'article 16 de la loi n° 47-1775 du 10 septembre 1947 précitée ne s'appliquent pas aux sociétés locales
 d'épargne.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°47-1775 du 10 septembre 1947
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 16
 	  - Code général des impôts, CGI. - art. 145
-	  - Code monétaire et financier - art. L512-93
 
 	**Anciens textes**:
 
@@ -34577,7 +34635,7 @@ d'épargne.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 147
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -34632,212 +34690,6 @@ sociétaires.
 	  - Code monétaire et financier - art. R512-52 (V)
 
 
-##### Sous-section 5 : La Caisse nationale des caisses d'épargne et de prévoyance.
-
-###### Article L512-94
-
-La Caisse nationale des caisses d'épargne et de prévoyance est une société anonyme à directoire et conseil de surveillance
-régie par les articles L. 225-57 à L. 225-93 du code de commerce, dont les caisses d'épargne et de prévoyance détiennent
-ensemble au moins la majorité absolue du capital et des droits de vote. Elle est un établissement de crédit. Elle est
-autorisée à fournir les services d'investissement prévus aux articles L. 321-1 et L. 321-2.
-
-Le conseil de surveillance de la Caisse nationale des caisses d'épargne et de prévoyance comprend notamment des membres élus
-par les salariés du réseau des caisses d'épargne dans les conditions prévues par ses statuts.
-
-I.-(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29
-décembre 2003.) 
-
-II.-Abrogé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°99-532 du 25 juin 1999 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Cité par**:
-
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 30 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 145 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 151 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2009-715 du 18 juin 2009 - art. 1
-
-	**Cite**:
-
-	  - Code de commerce - art. L225-57
-	  - Code de commerce - art. L321-1
-
-
-###### Article L512-95
-
-I.-La Caisse nationale des caisses d'épargne et de prévoyance est l'organe central du réseau des caisses d'épargne. Elle
-propose à l'agrément du comité des établissements de crédit et des entreprises d'investissement la création des caisses
-d'épargne et de prévoyance. Elle est de plus chargée : 
-
-1. De représenter le réseau des caisses d'épargne, y compris en qualité d'employeur, pour faire valoir ses droits et intérêts
-communs ; 
-
-2. De négocier et de conclure, au nom du réseau des caisses d'épargne, les accords nationaux et internationaux ; 
-
-3.D'établir les statuts types des caisses d'épargne et de prévoyance et des sociétés locales d'épargne ; 
-
-4. De créer ou d'acquérir toute société ou tout organisme utile au développement des activités du réseau des caisses
-d'épargne et d'en assurer le contrôle, ou de prendre des participations dans de tels sociétés ou organismes ; 
-
-5. De prendre toute disposition administrative, financière et technique sur l'organisation et la gestion des caisses
-d'épargne et de prévoyance, leurs filiales et organismes communs, notamment en ce qui concerne les moyens informatiques ; 
-
-6. De prendre toute mesure visant à la création de nouvelles caisses d'épargne et de prévoyance ou à la suppression de
-caisses d'épargne et de prévoyance existantes, soit par voie de liquidation amiable, soit par voie de fusion ; 
-
-7. De définir les produits et services offerts à la clientèle et de coordonner la politique commerciale ; 
-
-8.D'assurer la centralisation des excédents de ressources des caisses d'épargne et de prévoyance ; 
-
-9. De réaliser toutes les opérations financières utiles au développement et au refinancement du réseau, notamment en ce qui
-concerne la gestion de sa liquidité et son exposition aux risques de marché ; 
-
-10. De prendre toute mesure utile à l'organisation, au bon fonctionnement et au développement du réseau des caisses
-d'épargne, et d'appeler les cotisations nécessaires à l'accomplissement de ses missions d'organe central du réseau des
-caisses d'épargne ; 
-
-11. De veiller à l'application, par les caisses d'épargne et de prévoyance, des missions énoncées à l'article L. 512-85. 
-
-II.-Les caisses d'épargne et de prévoyance sont affiliées de plein droit à la Caisse nationale des caisses d'épargne et de
-prévoyance. Un décret en Conseil d'Etat détermine les cas et conditions dans lesquels les établissements de crédit contrôlés
-par les caisses d'épargne et de prévoyance ou les établissements dont l'activité est nécessaire au fonctionnement du réseau
-des caisses d'épargne peuvent être affiliés à la Caisse nationale des caisses d'épargne et de prévoyance en vue de l'exercice
-par celle-ci des missions définies à l'article L. 511-31.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°99-532 du 25 juin 1999 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 147
-
-	**Abrogé par**:
-
-	  - Loi n°2009-715 du 18 juin 2009 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L511-31
-	  - Code monétaire et financier - art. L512-85
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L512-97 (V)
-	  - Code monétaire et financier - art. R512-47 (V)
-	  - Code monétaire et financier - art. R512-48 (M)
-	  - Code monétaire et financier - art. R512-56 (V)
-
-
-###### Article L512-96
-
-La Caisse nationale des caisses d'épargne et de prévoyance assure la garantie des déposants et des souscripteurs. Elle prend
-toutes mesures nécessaires pour garantir la liquidité et la solvabilité des caisses d'épargne et de prévoyance et pour
-organiser la solidarité financière au sein du réseau des caisses d'épargne, notamment par la création d'un fonds commun de
-garantie et de solidarité du réseau.
-
-La définition des règles d'organisation, de fonctionnement et de gestion de ce fonds relève de la compétence exclusive de la
-Caisse nationale des caisses d'épargne et de prévoyance. La Caisse nationale des caisses d'épargne et de prévoyance peut
-notamment appeler en tant que de besoin des cotisations auprès des caisses d'épargne et de prévoyance afin de doter ou de
-reconstituer le fonds commun de garantie et de solidarité du réseau.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°99-532 du 25 juin 1999 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2009-715 du 18 juin 2009 - art. 1
-
-
-###### Article L512-97
-
-Le directoire de la Caisse nationale des caisses d'épargne et de prévoyance désigne un censeur auprès de chaque caisse
-d'épargne et de prévoyance. Il peut en désigner un auprès de tout autre établissement affilié au sens du II de l'article L.
-512-95.
-
-Le censeur est chargé de veiller au respect, par la caisse d'épargne et de prévoyance ou l'établissement auprès duquel il est
-nommé, des dispositions législatives et réglementaires en vigueur ainsi que des règles et orientations définies par la Caisse
-nationale des caisses d'épargne et de prévoyance dans le cadre de ses attributions.
-
-Le censeur participe, sans droit de vote, aux réunions du conseil d'orientation et de surveillance des caisses d'épargne et
-de prévoyance ou, pour les autres établissements, du conseil d'administration ou du conseil de surveillance. Il peut demander
-l'inscription de tout sujet à l'ordre du jour ainsi qu'une seconde délibération sur toute question relevant de ses
-attributions. En ce cas, il saisit sans délai la Caisse nationale des caisses d'épargne et de prévoyance de cette question.
-Il est avisé des décisions de l'établissement et est entendu, à sa demande, par le directoire de la caisse d'épargne et de
-prévoyance ou par les instances dirigeantes de l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°99-532 du 25 juin 1999 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2009-715 du 18 juin 2009 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L512-95 (M)
-
-
-###### Article L512-98
-
-La Caisse nationale des caisses d'épargne et de prévoyance peut procéder, notamment sur proposition du censeur, à la
-révocation collective du directoire ou du conseil d'orientation et de surveillance d'une caisse d'épargne et de prévoyance
-dans les cas où il cesserait d'exercer ses fonctions ou prendrait des décisions non conformes aux dispositions législatives
-ou réglementaires ou aux instructions émises dans le cadre de ses compétences par la Caisse nationale des caisses d'épargne
-et de prévoyance. Dans ce cas, celle-ci nomme une commission qui assume provisoirement les missions du directoire ou du
-conseil d'orientation et de surveillance de la caisse d'épargne et de prévoyance en attendant la désignation d'un nouveau
-directoire ou conseil d'orientation et de surveillance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°99-532 du 25 juin 1999 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2009-715 du 18 juin 2009 - art. 1
-
-
 ##### Sous-section 6 : La Fédération nationale des caisses d'épargne et de prévoyance
 
 ###### Article L512-99
@@ -34845,7 +34697,7 @@ directoire ou conseil d'orientation et de surveillance.
 La Fédération nationale des caisses d'épargne et de prévoyance est constituée selon les modalités prévues par la loi du 1er
 juillet 1901 relative au contrat d'association. Elle regroupe l'ensemble des caisses d'épargne et de prévoyance représentées
 par trois membres de leur conseil d'orientation et de surveillance, dont le président, et par deux membres de leur
-directoire, dont le président. . 
+directoire, dont le président.. 
 
 La Fédération nationale des caisses d'épargne et de prévoyance est chargée : 
 
@@ -34855,24 +34707,29 @@ communs, notamment auprès des pouvoir publics ;
 2. De participer à la définition des orientations stratégiques du réseau ; 
 
 3. De définir, coordonner et promouvoir les actions de responsabilité sociétale des caisses d'épargne et de prévoyance en
-cohérence avec les orientations commerciales et financières de la Caisse nationale des caisses d'épargne et de prévoyance ; 
+cohérence avec les orientations commerciales et financières de          l'organe central des caisses d'épargne et des banques
+populaires  ; 
 
-4. De contribuer à la définition, par la Caisse nationale des caisses d'épargne et de prévoyance, des orientations nationales
-en matière de relations sociales dans le réseau ; 
+4. De contribuer à la définition, par          l'organe central des caisses d'épargne et des banques populaires , des
+orientations nationales en matière de relations sociales dans le réseau ; 
 
-5.D'organiser, en liaison avec la Caisse nationale des caisses d'épargne et de prévoyance, la formation des dirigeants et des
-sociétaires par l'organisation régulière de séances d'information gratuites dans le domaine économique entendu au sens
-large ; 
+5.D'organiser, en liaison avec          l'organe central des caisses d'épargne et des banques populaires , la formation des
+dirigeants et des sociétaires par l'organisation régulière de séances d'information gratuites dans le domaine économique
+entendu au sens large ; 
 
 6. De veiller au respect des règles déontologiques au sein du réseau des caisses d'épargne ; 
 
 7. De contribuer à la coopération des caisses d'épargne françaises avec des établissements étrangers de même nature. 
 
-La Fédération nationale des caisses d'épargne et de prévoyance est consultée par la Caisse nationale des caisses d'épargne et
-de prévoyance sur tout projet de réforme concernant les caisses d'épargne et de prévoyance. 
+La Fédération nationale des caisses d'épargne et de prévoyance est consultée par          l'organe central des caisses
+d'épargne et des banques populaires  sur tout projet de réforme concernant les caisses d'épargne et de prévoyance. 
 
 La Fédération nationale des caisses d'épargne et de prévoyance appelle, pour le financement de son budget de fonctionnement,
 des cotisations auprès des caisses d'épargne et de prévoyance.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -34886,8 +34743,7 @@ des cotisations auprès des caisses d'épargne et de prévoyance.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 147
-	  - Loi n°2008-776 du 4 août 2008 - art. 148
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 
 ##### Sous-section 8 : Dispositions générales
@@ -34895,8 +34751,11 @@ des cotisations auprès des caisses d'épargne et de prévoyance.
 ###### Article L512-102
 
 Il est interdit aux organismes qui n'entrent pas dans le champ d'application de la présente section d'utiliser l'une des
-dénominations suivantes : " Caisse nationale des caisses d'épargne et de prévoyance ", " caisse d'épargne et de prévoyance ",
-" caisse d'épargne ", " société locale d'épargne ".
+dénominations suivantes :  " Caisse d'épargne et de prévoyance ", " caisse d'épargne ", " société locale d'épargne ".
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -34906,9 +34765,11 @@ dénominations suivantes : " Caisse nationale des caisses d'épargne et de prév
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2009-715 du 18 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -34969,6 +34830,151 @@ caisses d'épargne, les caisses d'épargne et de prévoyance et les sociétés l
 	**Cite**:
 
 	  - Code monétaire et financier - art. L512-1
+
+
+##### Section 9 : Organe central des caisses d'épargne et des banques populaires 
+
+
+
+###### Article L512-106
+
+L'organe central des caisses d'épargne et des banques populaires est l'organe central du groupe bancaire coopératif composé
+des réseaux des banques populaires et des caisses d'épargne ainsi que des autres établissements de crédit affiliés. Il est
+constitué sous forme de société anonyme dont les banques populaires et les caisses d'épargne et de prévoyance détiennent
+ensemble la majorité absolue du capital social et des droits de vote. Il doit avoir la qualité d'établissement de crédit. 
+
+Peuvent, en outre, lui être affiliés, dans les conditions prévues à l'article L. 511-31 du présent code, les établissements
+de crédit dont le contrôle est détenu, directement ou indirectement, de manière exclusive ou conjointe au sens de l'article
+L. 233-16 du code de commerce, par l'organe central des caisses d'épargne et des banques populaires ou par un ou plusieurs
+établissements appartenant aux réseaux mentionnés au premier alinéa. 
+
+Les représentants des sociétaires proposés par les présidents de conseil d'orientation et de surveillance des caisses
+d'épargne et les présidents de conseil d'administration des banques populaires sont majoritaires au sein du conseil de
+surveillance ou du conseil d'administration de l'organe central des caisses d'épargne et des banques populaires.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-715 du 18 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-16
+	  - Code monétaire et financier - art. L511-31
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L512-12 (VD)
+	  - Code monétaire et financier - art. L512-86-1 (VD)
+	  - Code rural - art. L527-3 (VD)
+
+
+###### Article L512-107
+
+L'organe central des caisses d'épargne et des banques populaires exerce les compétences prévues aux articles L. 511-31 et L.
+511-32 du présent code. Il est à cet effet chargé : 
+
+1° De définir la politique et les orientations stratégiques du groupe ainsi que de chacun des réseaux qui le constituent ; 
+
+2° De coordonner les politiques commerciales de chacun de ces réseaux et de prendre toute mesure utile au développement du
+groupe, notamment en acquérant ou en détenant les participations stratégiques ; 
+
+3° De représenter le groupe et chacun des réseaux pour faire valoir leurs droits et intérêts communs, notamment auprès des
+organismes mentionnés au premier alinéa de l'article L. 511-31, ainsi que de négocier et de conclure en leur nom les accords
+nationaux ou internationaux ; 
+
+4° De représenter le groupe et chacun des réseaux en qualité d'employeur pour faire valoir leurs droits et intérêts communs
+ainsi que de négocier et de conclure en leur nom les accords collectifs de branche ; 
+
+5° De prendre toutes mesures nécessaires pour garantir la liquidité du groupe ainsi que de chacun des réseaux et, à cet
+effet, de déterminer les règles de gestion de la liquidité du groupe, notamment en définissant les principes et modalités du
+placement et de la gestion de la trésorerie des établissements qui le composent et les conditions dans lesquelles ces
+établissements peuvent effectuer des opérations avec d'autres établissements de crédit ou entreprises d'investissement,
+réaliser des opérations de titrisation ou émettre des instruments financiers, et de réaliser toute opération financière
+nécessaire à la gestion de la liquidité ; 
+
+6° De prendre toutes mesures nécessaires pour garantir la solvabilité du groupe ainsi que de chacun des réseaux, notamment en
+mettant en œuvre les mécanismes appropriés de solidarité interne du groupe et en créant un fonds de garantie commun aux deux
+réseaux dont il détermine les règles de fonctionnement, les modalités d'intervention en complément des fonds prévus par les
+articles L. 512-12 et L. 512-86-1, ainsi que les contributions des établissements affiliés pour sa dotation et sa
+reconstitution ; 
+
+7° De définir les principes et conditions d'organisation du dispositif de contrôle interne du groupe et de chacun des réseaux
+ainsi que d'assurer le contrôle de l'organisation, de la gestion et de la qualité de la situation financière des
+établissements affiliés, notamment au travers de contrôles sur place dans le cadre du périmètre d'intervention défini au
+quatrième alinéa de l'article L. 511-31 ; 
+
+8° De définir la politique et les principes de gestion des risques ainsi que les limites de ceux-ci pour le groupe et chacun
+des réseaux et d'en assurer la surveillance permanente sur une base consolidée ; 
+
+9° D'approuver les statuts des établissements affiliés et des sociétés locales d'épargne ainsi que les modifications devant y
+être apportées ; 
+
+10° D'agréer les personnes appelées, conformément à l'article L. 511-13, à assurer la détermination effective de
+l'orientation de l'activité des établissements affiliés ; 
+
+11° D'appeler les cotisations nécessaires à l'accomplissement de ses missions d'organe central ; 
+
+12° De veiller à l'application, par les caisses d'épargne, des missions énoncées à l'article L. 512-85.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-715 du 18 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-13
+	  - Code monétaire et financier - art. L511-31
+	  - Code monétaire et financier - art. L512-12
+	  - Code monétaire et financier - art. L512-85
+	  - Code monétaire et financier - art. L512-86-1
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R512-48 (V)
+
+
+###### Article L512-108
+
+Au cas où un établissement affilié prendrait des décisions non conformes aux dispositions législatives ou réglementaires
+relatives aux activités bancaires et financières ou aux instructions fixées par l'organe central des caisses d'épargne et des
+banques populaires, l'organe central peut procéder à la révocation d'une ou des personnes assurant la détermination effective
+de l'orientation de l'activité de cet établissement ainsi qu'à la révocation collective des membres de son directoire ou de
+son conseil d'administration ou de surveillance et désigner des personnes qui seront chargées d'assumer leurs fonctions
+jusqu'à la désignation de nouveaux titulaires.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-715 du 18 juin 2009 - art. 1
 
 
 #### Chapitre IV : Les caisses de crédit municipal
@@ -87033,10 +87039,10 @@ référés après consultation du gouverneur de la Banque de France, président 
 
 ###### Article R512-1
 
-La Banque fédérale des banques populaires peut autoriser les banques populaires à incorporer à leur capital social une
-fraction de leurs réserves. Cette incorporation ne peut intervenir qu'à l'occasion d'une augmentation de capital réalisée
-pour moitié au plus par ladite incorporation et, pour le reste, par une souscription en numéraire. En outre, la fraction de
-réserves ainsi incorporée ne saurait dépasser la moitié desdites réserves.
+L'organe central des caisses d'épargne et des banques populaires peut autoriser les banques populaires à incorporer à leur
+capital social une fraction de leurs réserves. Cette incorporation ne peut intervenir qu'à l'occasion d'une augmentation de
+capital réalisée pour moitié au plus par ladite incorporation et, pour le reste, par une souscription en numéraire. En outre,
+la fraction de réserves ainsi incorporée ne saurait dépasser la moitié desdites réserves. 
 
 En cas d'incorporations successives, la fraction de réserves incorporables ne peut excéder la moitié de l'accroissement de
 réserves constaté depuis la précédente incorporation.
@@ -87044,16 +87050,27 @@ réserves constaté depuis la précédente incorporation.
 L'augmentation de capital réalisée au moyen de souscriptions en numéraire doit être au moins égale au montant du prélèvement
 opéré sur les réserves.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°42-785 du 18 août 1942 - art. 1 (M)
 	  - Loi n°42-785 du 18 août 1942 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2015-800 du 1er juillet 2015 - art. 4 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R512-1-1 (VD)
 
 
 ##### Section 3 : Le Crédit agricole.
@@ -87801,25 +87818,28 @@ suivantes :
 ###### Article R512-29
 
 Les statuts types prévus à l'article L. 512-73 sont approuvés par un arrêté conjoint des ministres chargés des pêches
-maritimes et de l'économie.
+maritimes et de l'économie. 
 
 Les statuts des caisses régionales de crédit maritime mutuel et de leurs unions ainsi que leurs modifications sont soumis à
-la Banque fédérale des banques populaires, qui vérifie qu'ils sont conformes à ces statuts types.
+l'organe central des caisses d'épargne et des banques populaires, qui vérifie qu'ils sont conformes à ces statuts types.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°76-1011 du 19 octobre 1976 - art. 4 (M)
 	  - Décret n°76-1011 du 19 octobre 1976 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L512-73 (V)
+	  - Code monétaire et financier - art. L512-73
 
 
 ###### Article R512-30
@@ -87873,74 +87893,83 @@ des caisses régionales et des unions.
 
 En cas de vacance d'un poste de directeur de caisse régionale ou d'union, les candidatures font l'objet d'une première
 sélection organisée par le conseil d'administration de la Société centrale de crédit maritime mutuel qui transmet à la caisse
-régionale ou à l'union les dossiers des candidats retenus.
+régionale ou à l'union les dossiers des candidats retenus. 
 
 La nomination d'un directeur est prononcée par le conseil d'administration de la caisse régionale ou de l'union, pour une
 période probatoire d'un an éventuellement renouvelable une fois. A l'issue de cette période probatoire, le conseil
 d'administration décide s'il y a lieu de confirmer cette nomination sous réserve d'obtenir l'agrément du conseil
-d'administration de la Banque fédérale des banques populaires, après avis conforme du conseil d'administration de la Société
-centrale de crédit maritime mutuel. Le directeur général de la Société centrale est nommé par le conseil d'administration de
-cette dernière. Sa nomination est soumise à l'agrément du conseil d'administration de la Banque fédérale des banques
-populaires.
+d'administration de l'organe central des caisses d'épargne et des banques populaires , après avis conforme du conseil
+d'administration de la Société centrale de crédit maritime mutuel. Le directeur général de la Société centrale est nommé par
+le conseil d'administration de cette dernière. Sa nomination est soumise à l'agrément du conseil d'administration de l'organe
+central des caisses d'épargne et des banques populaires.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°76-1011 du 19 octobre 1976 - art. 9 (M)
 	  - Décret n°76-1011 du 19 octobre 1976 - art. 9 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 
 ###### Article R512-33
 
-Le retrait d'agrément du directeur d'une caisse régionale ou d'une union est prononcé par le conseil d'administration de la
-Banque fédérale des banques populaires, après avis du conseil d'administration de la Société centrale de crédit maritime
-mutuel. Le conseil d'administration de la Banque fédérale des banques populaires est saisi par le conseil d'administration de
-la caisse régionale ou de l'union concernée, par le directeur général de la banque fédérale ou par celui de la Société
-centrale de crédit maritime mutuel. Dans ces deux derniers cas, le conseil d'administration de la caisse régionale ou de
-l'union concernée est préalablement consulté.
+Le retrait d'agrément du directeur d'une caisse régionale ou d'une union est prononcé par le conseil d'administration de
+l'organe central des caisses d'épargne et des banques populaires, après avis du conseil d'administration de la Société
+centrale de crédit maritime mutuel. Le conseil d'administration de l'organe central des caisses d'épargne et des banques
+populaires est saisi par le conseil d'administration de la caisse régionale ou de l'union concernée, par le directeur général
+de la banque fédérale ou par celui de la Société centrale de crédit maritime mutuel. Dans ces deux derniers cas, le conseil
+d'administration de la caisse régionale ou de l'union concernée est préalablement consulté. 
 
 Le retrait d'agrément du directeur général de la Société centrale de crédit maritime mutuel est prononcé par le conseil
-d'administration de la Banque fédérale des banques populaires après consultation du conseil d'administration de la Société
-centrale de crédit maritime mutuel.
+d'administration de l'organe central des caisses d'épargne et des banques populaires après consultation du conseil
+d'administration de la Société centrale de crédit maritime mutuel. 
 
 Le retrait d'agrément entraîne la démission d'office de l'intéressé. Préalablement à toute décision, les motifs du retrait
 sont communiqués à l'intéressé et ses observations sont recueillies.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°76-1011 du 19 octobre 1976 - art. 10 (M)
 	  - Décret n°76-1011 du 19 octobre 1976 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 
 ###### Article R512-34
 
 En cas d'urgence, la suspension du directeur général de la Société centrale du crédit maritime mutuel et celle d'un directeur
-de caisse régionale ou d'union sont prononcées par le directeur général de la Banque fédérale des banques populaires, qui
-saisit immédiatement le conseil d'administration de cet établissement.
+de caisse régionale ou d'union sont prononcées par le directeur général de l'organe central des caisses d'épargne et des
+banques populaires, qui saisit immédiatement le conseil d'administration de cet établissement. 
 
 Aucune suspension ne peut excéder six mois.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°76-1011 du 19 octobre 1976 - art. 11 (M)
 	  - Décret n°76-1011 du 19 octobre 1976 - art. 11 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -87949,95 +87978,107 @@ Aucune suspension ne peut excéder six mois.
 
 ###### Article R512-35
 
-Dans les cas prévus à l'article L. 512-80, la Banque fédérale des banques populaires ne peut proposer la dissolution du
-conseil d'administration qu'après avis de la Société centrale de crédit maritime mutuel.
+Dans les cas prévus à l'article L. 512-80, l'organe central des caisses d'épargne et des banques populaires ne peut proposer
+la dissolution du conseil d'administration qu'après avis de la Société centrale de crédit maritime mutuel.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°76-1011 du 19 octobre 1976 - art. 12 (M)
 	  - Décret n°76-1011 du 19 octobre 1976 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L512-80 (M)
+	  - Code monétaire et financier - art. L512-80
 
 
 ##### Sous-section 2 : Administration.
 
 ###### Article R512-36
 
-La Banque fédérale des banques populaires, organe central du crédit maritime mutuel, peut effectuer au bénéfice du crédit
-maritime mutuel toutes opérations financières et lui apporter ses services.
+L'organe central des caisses d'épargne et des banques populaires , organe central du crédit maritime mutuel, peut effectuer
+au bénéfice du crédit maritime mutuel toutes opérations financières et lui apporter ses services. 
 
 Elle consulte la Société centrale de crédit maritime mutuel sur les projets de décisions qu'elle établit dans le cadre de sa
 mission d'organe central. Elle l'informe des conclusions des inspections effectuées dans les caisses régionales et les
-unions.
+unions. 
 
 Elle définit les conditions dans lesquelles la Société centrale de crédit maritime mutuel autorise l'octroi de crédits par
 les caisses régionales et les unions de crédit maritime mutuel.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°76-1011 du 19 octobre 1976 - art. 13 (M)
 	  - Décret n°76-1011 du 19 octobre 1976 - art. 13 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 
 ###### Article R512-37
 
 En cas d'échec de la procédure de conciliation définie au règlement général prévu à l'article R. 512-39, tout litige est
-porté devant une commission spéciale composée de deux représentants de la Banque fédérale des banques populaires, de deux
-représentants de la Société centrale du crédit maritime mutuel, d'un représentant du ministre chargé des pêches maritimes et
-du commissaire du Gouvernement auprès de l'organe central du crédit maritime mutuel. Cette commission élabore un protocole
-d'accord soumis à l'approbation des organes délibérants des établissements concernés.
+porté devant une commission spéciale composée de deux représentants de l'organe central des caisses d'épargne et des banques
+populaires, de deux représentants de la Société centrale du crédit maritime mutuel, d'un représentant du ministre chargé des
+pêches maritimes et du commissaire du Gouvernement auprès de l'organe central du crédit maritime mutuel. Cette commission
+élabore un protocole d'accord soumis à l'approbation des organes délibérants des établissements concernés.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°76-1011 1976-10-19 art 13 bis
 	  - Décret n°76-1011 du 19 octobre 1976 - art. 13 bis (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R512-39 (V)
+	  - Code monétaire et financier - art. R512-39
 
 
 ###### Article R512-38
 
-Pour l'exercice du contrôle prévu à l'article L. 511-31 et à l'article L. 512-72, la Banque fédérale des banques populaires
-procède sur place à toutes investigations et se fait communiquer tous documents qu'elle juge utiles.
+Pour l'exercice du contrôle prévu à l'article L. 511-31 et à l'article L. 512-72, l'organe central des caisses d'épargne et
+des banques populaires procède sur place à toutes investigations et se fait communiquer tous documents qu'elle juge utiles.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°76-1011 du 19 octobre 1976 - art. 14 (M)
 	  - Décret n°76-1011 du 19 octobre 1976 - art. 14 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L511-31 (M)
-	  - Code monétaire et financier - art. L512-72 (M)
+	  - Code monétaire et financier - art. L511-31
+	  - Code monétaire et financier - art. L512-72
 
 
 ###### Article R512-39
@@ -88045,29 +88086,32 @@ procède sur place à toutes investigations et se fait communiquer tous document
 La Société centrale de crédit maritime mutuel peut effectuer au bénéfice des autres établissements de crédit maritime mutuel
 toutes opérations financières et leur apporter ses services. Elle centralise tous les excédents de ressources des caisses
 régionales et des unions et assure la coordination des méthodes financières et comptables de leurs opérations. Elle assure le
-contrôle des engagements selon les règles définies par la Banque fédérale des banques populaires.
+contrôle des engagements selon les règles définies par l'organe central des caisses d'épargne et des banques populaires. 
 
-Elle soumet à l'approbation de la Banque fédérale des banques populaires un règlement général qui énonce les règles relatives
-aux opérations des caisses régionales et de leurs unions. Ce règlement fixe également les principes de la politique commune
-de développement du crédit maritime mutuel et peut définir un dispositif de solidarité financière entre les établissements de
-crédit maritime mutuel.
+Elle soumet à l'approbation de l'organe central des caisses d'épargne et des banques populaires un règlement général qui
+énonce les règles relatives aux opérations des caisses régionales et de leurs unions. Ce règlement fixe également les
+principes de la politique commune de développement du crédit maritime mutuel et peut définir un dispositif de solidarité
+financière entre les établissements de crédit maritime mutuel. 
 
 Le règlement général institue une procédure de conciliation tendant à régler les difficultés qui peuvent survenir dans les
-rapports entre la Banque fédérale des banques populaires, lorsqu'elle n'agit pas en tant qu'organe central, et un
-établissement de crédit maritime mutuel.
+rapports entre l'organe central des caisses d'épargne et des banques populaires , lorsqu'elle n'agit pas en tant qu'organe
+central, et un établissement de crédit maritime mutuel. 
 
 Le règlement général doit être agréé par le ministre chargé de l'économie et par le ministre chargé des pêches maritimes.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°76-1011 du 19 octobre 1976 - art. 15 (M)
 	  - Décret n°76-1011 du 19 octobre 1976 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -88078,13 +88122,17 @@ Le règlement général doit être agréé par le ministre chargé de l'économi
 ###### Article R512-40
 
 Le comité des établissements de crédit et des entreprises d'investissement mentionné à l'article L. 612-1 peut, après avis de
-la Banque fédérale des banques populaires, délivrer un agrément collectif à la Société centrale de crédit maritime mutuel
-pour elle-même et pour celles des caisses régionales ou des unions de crédit maritime mutuel ayant conclu avec cette société
-une convention de nature à garantir leur liquidité et leur solvabilité.
+l'organe central des caisses d'épargne et des banques populaires, délivrer un agrément collectif à la Société centrale de
+crédit maritime mutuel pour elle-même et pour celles des caisses régionales ou des unions de crédit maritime mutuel ayant
+conclu avec cette société une convention de nature à garantir leur liquidité et leur solvabilité. 
 
 Pour l'application de la réglementation mentionnée à l'article L. 611-1, la Société centrale de crédit maritime mutuel et les
 caisses régionales et unions qui ont conclu avec celle-ci la convention mentionnée à l'alinéa ci-dessus sont regardées comme
 un seul établissement de crédit.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -88092,14 +88140,14 @@ un seul établissement de crédit.
 
 	  - Décret n°76-1011 du 19 octobre 1976 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L611-1 (M)
-	  - Code monétaire et financier - art. L612-1 (V)
+	  - Code monétaire et financier - art. L611-1
+	  - Code monétaire et financier - art. L612-1
 
 
 ###### Article R512-41
@@ -88144,56 +88192,52 @@ fonctionnement du fonds central de solidarité sont fixées par le règlement g�
 
 ###### Article R512-43
 
-La Commission supérieure du crédit maritime mutuel est composée comme suit :
+La Commission supérieure du crédit maritime mutuel est composée comme suit : 
 
-1° Six députés désignés par l'Assemblée nationale ;
+1° Six députés désignés par l'Assemblée nationale ; 
 
-2° Trois sénateurs désignés par le Sénat ;
+2° Trois sénateurs désignés par le Sénat ; 
 
-3° Le directeur général du Trésor et de la politique économique ou son représentant ;
+3° Le directeur général du Trésor et de la politique économique ou son représentant ; 
 
-4° Le commissaire du Gouvernement près l'organe central du crédit maritime mutuel ;
+4° Le commissaire du Gouvernement près l'organe central du crédit maritime mutuel ; 
 
-5° Quatre représentants du ministre chargé des pêches maritimes, dont le directeur des pêches maritimes et de l'aquaculture ;
+5° Quatre représentants du ministre chargé des pêches maritimes, dont le directeur des pêches maritimes et de
+l'aquaculture ; 
 
-6° Un représentant du ministre chargé des départements et territoires d'outre-mer ;
+6° Un représentant du ministre chargé des départements et territoires d'outre-mer ; 
 
-7° Le gouverneur de la Banque de France ou son représentant ;
+7° Le gouverneur de la Banque de France ou son représentant ; 
 
-8° Le directeur général de la Banque fédérale des banques populaires ou son représentant ;
+8° Le directeur général de l'organe central des caisses d'épargne et des banques populaires ou son représentant ; 
 
-9° Le président du Comité national des pêches maritimes et des élevages marins ;
+9° Le président du Comité national des pêches maritimes et des élevages marins ; 
 
-10° Le président du Comité national de la conchyliculture ;
+10° Le président du Comité national de la conchyliculture ; 
 
 11° Dix-neuf membres nommés pour trois ans par arrêté du ministre chargé des pêches maritimes et comprenant six représentants
 des établissements de crédit maritime mutuel, trois représentants de la Confédération de la coopération, de la mutualité et
 du crédit maritime, quatre représentants des organisations syndicales de marins pêcheurs, trois représentants des
 organisations de producteurs mentionnées au 6° de l'article R. 512-28 et trois personnalités choisies en raison de leur
-compétence particulière.
+compétence particulière. 
 
-Le président et le vice-président de la commission sont nommés par arrêté du ministre chargé des pêches maritimes.
+Le président et le vice-président de la commission sont nommés par arrêté du ministre chargé des pêches maritimes. 
 
 La commission se réunit au moins une fois par an.
 
 **Nota:**
 
-Décret 2006-665 2006-06-07 art. 61 : Spécificité d'application.
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°76-1011 du 19 octobre 1976 - art. 21 (M)
 	  - Décret n°76-1011 du 19 octobre 1976 - art. 21 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 58 () JORF 8 juin 2006 en vigueur le 1er août 2006
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -88202,28 +88246,31 @@ Décret 2006-665 2006-06-07 art. 61 : Spécificité d'application.
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R512-28 (V)
+	  - Code monétaire et financier - art. R512-28
 
 
 ###### Article R512-44
 
 La Commission supérieure du crédit maritime mutuel peut siéger dans une formation restreinte, comprenant au moins le
 président et le vice-président de la commission, deux députés et un sénateur désignés chaque année par les députés et
-sénateurs membres de la commission, le directeur général de la Banque fédérale des banques populaires ou son représentant, le
-directeur général du Trésor et de la politique économique ou son représentant, le directeur des pêches maritimes et de
-l'aquaculture, ou son représentant, ainsi que trois autres membres élus par la commission parmi ses membres, dont au moins
-deux représentants des établissements du crédit maritime mutuel.
+sénateurs membres de la commission, le directeur général de     l'organe central des caisses d'épargne et des banques
+populaires  ou son représentant, le directeur général du Trésor et de la politique économique ou son représentant, le
+directeur des pêches maritimes et de l'aquaculture, ou son représentant, ainsi que trois autres membres élus par la
+commission parmi ses membres, dont au moins deux représentants des établissements du crédit maritime mutuel.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°76-1011 du 19 octobre 1976 - art. 22 (M)
 	  - Décret n°76-1011 du 19 octobre 1976 - art. 22 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 
 ##### Sous-section 4 : Dispositions diverses.
@@ -88272,21 +88319,25 @@ maritime mutuel.
 
 ###### Article R512-47
 
-Les ressorts géographiques des caisses d'épargne et de prévoyance et des autres établissements de crédits affiliés à la
-Caisse nationale des caisses d'épargne et de prévoyance sont fixés, en application de l'article L. 512-95, par la Caisse
-nationale des caisses d'épargne et de prévoyance. Les caisses d'épargne et de prévoyance ainsi que les établissements de
-crédit susmentionnés peuvent ouvrir des succursales après autorisation de la Caisse nationale des caisses d'épargne et de
-prévoyance.
+Les ressorts géographiques des caisses d'épargne et de prévoyance et des autres établissements de crédits affiliés à l'organe
+central des caisses d'épargne et des banques populaires sont fixés, en application de l'article L. 512-95, par l'organe
+central des caisses d'épargne et des banques populaires. Les caisses d'épargne et de prévoyance ainsi que les établissements
+de crédit susmentionnés peuvent ouvrir des succursales après autorisation de l'organe central des caisses d'épargne et des
+banques populaires.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L512-95 (M)
+	  - Code monétaire et financier - art. L512-95
 
 
 ##### Sous-section 3 : Les caisses d'épargne et de prévoyance.
@@ -88477,8 +88528,12 @@ Lorsque les dispositions de l'alinéa précédent ne permettent plus de pourvoir
 
 Les établissements de crédit contrôlés dont il est fait mention au II de l'article L. 512-95 s'entendent de ceux qui sont
 sous le contrôle direct ou indirect de manière exclusive ou conjointe, au sens de l'article L. 233-16 du code de commerce,
-soit de la Caisse nationale des caisses d'épargne et de prévoyance avec un ou plusieurs établissements qui lui sont affiliés,
-soit d'un ou plusieurs établissements affiliés à la Caisse nationale des caisses d'épargne et de prévoyance.
+soit de l'organe central des caisses d'épargne et des banques populaires avec un ou plusieurs établissements qui lui sont
+affiliés, soit d'un ou plusieurs établissements affiliés à l'organe central des caisses d'épargne et des banques populaires.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -88486,24 +88541,32 @@ soit d'un ou plusieurs établissements affiliés à la Caisse nationale des cais
 
 	  - Décret n°2000-123 du 9 février 2000 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de commerce. - art. L233-16 (M)
-	  - Code monétaire et financier - art. L512-95 (M)
+	  - Code de commerce - art. L233-16
 
 
 ###### Article R512-57
 
-La décision d'affiliation ou de retrait d'affiliation d'un établissement prise par la Caisse nationale des caisses d'épargne
-et de prévoyance fait l'objet d'une notification à l'établissement de crédit concerné et au comité des établissements de
-crédit et des entreprises d'investissement.
+La décision d'affiliation ou de retrait d'affiliation d'un établissement prise par          l'organe central des caisses
+d'épargne et des banques populaires  fait l'objet d'une notification à l'établissement de crédit concerné et au comité des
+établissements de crédit et des entreprises d'investissement. 
 
-Les établissements de crédit affiliés à la Caisse nationale des caisses d'épargne et de prévoyance le 17 février 2000 le
-demeurent, sauf décision expresse de retrait de la Caisse nationale des caisses d'épargne et de prévoyance.
+Les établissements de crédit affiliés à          l'organe central des caisses d'épargne et des banques populaires  le 17
+février 2000 le demeurent, sauf décision expresse de retrait de          l'organe central des caisses d'épargne et des
+banques populaires .
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -88511,9 +88574,9 @@ demeurent, sauf décision expresse de retrait de la Caisse nationale des caisses
 
 	  - Décret n°2000-123 du 9 février 2000 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -88522,8 +88585,12 @@ demeurent, sauf décision expresse de retrait de la Caisse nationale des caisses
 
 ###### Article R512-58
 
-L'affiliation mentionnée à l'article R. 512-57 est subordonnée à l'agrément des dirigeants par la Caisse nationale des
-caisses d'épargne et de prévoyance.
+L'affiliation mentionnée à l'article R. 512-57 est subordonnée à l'agrément des dirigeants par l'organe central des caisses
+d'épargne et des banques populaires.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -88531,13 +88598,13 @@ caisses d'épargne et de prévoyance.
 
 	  - Décret n°2000-123 du 9 février 2000 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Loi n°2009-715 du 18 juin 2009 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R512-57 (V)
+	  - Code monétaire et financier - art. R512-57
 
 
 #### Chapitre IV : Les caisses de crédit municipal.
