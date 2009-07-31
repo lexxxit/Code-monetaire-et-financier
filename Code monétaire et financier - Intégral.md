@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-07-31
+Version Consolidée au 2009-08-01
 
 # Partie législative
 
@@ -28674,16 +28674,31 @@ participation, du nombre total d'actions ou de droits de vote qu'elle possède.
 L'information mentionnée à l'alinéa précédent est également donnée dans les mêmes délais lorsque la participation en capital
 ou en droits de vote devient inférieure aux seuils mentionnés par cet alinéa. 
 
-La personne tenue à l'information prévue au premier alinéa précise le nombre de titres qu'elle possède donnant accès à terme
-au capital ainsi que les droits de vote qui y sont attachés. 
+La personne tenue à l'information prévue au premier alinéa précise en outre dans sa déclaration : 
+
+a) Le nombre de titres qu'elle possède donnant accès à terme aux actions à émettre et les droits de vote qui y seront
+attachés ; 
+
+b) Les actions déjà émises que cette personne peut acquérir, en vertu d'un accord ou d'un instrument financier mentionné à
+l'article L. 211-1 du code monétaire et financier , sans préjudice des dispositions du 4° du I de l'article L. 233-9 du
+présent code. Il en est de même pour les droits de vote que cette personne peut acquérir dans les mêmes conditions ; 
+
+c) Les actions déjà émises sur lesquelles porte tout accord ou instrument financier mentionné à l'article L. 211-1 du code
+monétaire et financier, réglé exclusivement en espèces et ayant pour cette personne un effet économique similaire à la
+possession desdites actions. Il en va de même pour les droits de vote sur lesquels porte dans les mêmes conditions tout
+accord ou instrument financier (1). 
 
 II.-La personne tenue à l'information mentionnée au I informe également l'Autorité des marchés financiers, dans un délai et
 selon des modalités fixés par son règlement général, à compter du franchissement du seuil de participation, lorsque les
 actions de la société sont admises aux négociations sur un marché réglementé ou sur un marché d'instruments financiers autre
-qu'un marché réglementé, à la demande de la personne qui gère ce marché d'instruments financiers. Cette information est
-portée à la connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers. 
+qu'un marché réglementé, à la demande de la personne qui gère ce marché d'instruments financiers. Dans ce dernier cas,
+l'information peut ne porter que sur une partie des seuils mentionnés au I, dans les conditions fixées par le règlement
+général de l'Autorité des marchés financiers. Cette information est portée à la connaissance du public dans les conditions
+fixées par le règlement général de l'Autorité des marchés financiers. 
 
-Le règlement général précise également les modalités de calcul des seuils de participation. 
+Le règlement général précise également les modalités de calcul des seuils de participation et les conditions dans lesquelles
+un accord ou instrument financier, mentionné au c du I, est considéré comme ayant un effet économique similaire à la
+possession d'actions. 
 
 III.-Les statuts de la société peuvent prévoir une obligation supplémentaire d'information portant sur la détention de
 fractions du capital ou des droits de vote inférieures à celle du vingtième mentionnée au I.L'obligation porte sur la
@@ -28696,11 +28711,12 @@ habituel du cycle de règlement à court terme défini par le règlement génér
 
 2° Détenues par les teneurs de comptes conservateurs dans le cadre de leur activité de tenue de compte et de conservation ; 
 
-3° Détenues par un prestataire de services d'investissement dans son portefeuille de négociation au sens de la directive 93 /
-6 / CE du Conseil, du 15 mars 1993, sur l'adéquation des fonds des entreprises d'investissement de crédit à condition que ces
-actions ne représentent pas une quotité du capital ou des droits de vote de l'émetteur de ces titres supérieure à un seuil
-fixé par le règlement général de l'Autorité des marchés financiers et que les droits de vote attachés à ces titres ne soient
-pas exercés ni autrement utilisés pour intervenir dans la gestion de l'émetteur ; 
+3° Détenues par un prestataire de services d'investissement dans son portefeuille de négociation au sens de la directive
+2006 / 49 / CE du Parlement et du Conseil du 14 juin 2006 sur l'adéquation des fonds propres des entreprises d'investissement
+et des établissements de crédit à condition que ces actions ne représentent pas une quotité du capital ou des droits de vote
+de l'émetteur de ces titres supérieure à un seuil fixé par le règlement général de l'Autorité des marchés financiers et que
+les droits de vote attachés à ces titres ne soient pas exercés ni autrement utilisés pour intervenir dans la gestion de
+l'émetteur ; 
 
 4° Remises aux membres du Système européen de banques centrales ou par ceux-ci dans l'exercice de leurs fonctions d'autorités
 monétaires, dans les conditions fixées par le règlement général de l'Autorité des marchés financiers.
@@ -28721,17 +28737,27 @@ verbal de l'assemblée générale, d'un ou plusieurs actionnaires détenant une 
 société émettrice au moins égale à la plus petite fraction du capital dont la détention doit être déclarée. Cette fraction ne
 peut toutefois être supérieure à 5 %. 
 
-VII.-Lorsque les actions de la société sont admises aux négociations sur un marché réglementé, la personne tenue à
-l'information prévue au I est tenue de déclarer, à l'occasion des franchissements de seuil du dixième ou du cinquième du
-capital ou des droits de vote, les objectifs qu'elle a l'intention de poursuivre au cours des douze mois à venir. Cette
-déclaration précise si l'acquéreur agit seul ou de concert, s'il envisage d'arrêter ses achats ou de les poursuivre,
-d'acquérir ou non le contrôle de la société, de demander sa nomination ou celle d'une ou plusieurs personnes comme
-administrateur, membre du directoire ou du conseil de surveillance. Elle est adressée à la société dont les actions ont été
-acquises et à l'Autorité des marchés financiers dans un délai de dix jours de bourse. Cette information est portée à la
-connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers. En cas de
-changement d'intention, lequel ne peut être motivé que par des modifications importantes dans l'environnement, la situation
-ou l'actionnariat des personnes concernées, une nouvelle déclaration doit être établie, communiquée à la société et à
-l'Autorité des marchés financiers et portée à la connaissance du public dans les mêmes conditions." 
+VII. - Lorsque les actions de la société sont admises aux négociations sur un marché réglementé, la personne tenue à
+l'information prévue au I est tenue de déclarer, à l'occasion des franchissements de seuil du dixième, des trois vingtièmes,
+du cinquième ou du quart du capital ou des droits de vote, les objectifs qu'elle a l'intention de poursuivre au cours des six
+mois à venir. 
+
+Cette déclaration précise les modes de financement de l'acquisition, si l'acquéreur agit seul ou de concert, s'il envisage
+d'arrêter ses achats ou de les poursuivre, d'acquérir ou non le contrôle de la société, la stratégie qu'il envisage vis-à-vis
+de l'émetteur et les opérations pour la mettre en œuvre ainsi que tout accord de cession temporaire ayant pour objet les
+actions et les droits de vote. Elle précise si l'acquéreur envisage de demander sa nomination ou celle d'une ou plusieurs
+personnes comme administrateur, membre du directoire ou du conseil de surveillance. Le règlement général de l'Autorité des
+marchés financiers précise le contenu de ces éléments en tenant compte, le cas échéant, du niveau de la participation et des
+caractéristiques de la personne qui procède à la déclaration. 
+
+Cette déclaration est adressée à la société dont les actions ont été acquises et doit parvenir à l'Autorité des marchés
+financiers dans des délais fixés par décret en Conseil d'Etat. Cette information est portée à la connaissance du public dans
+les conditions fixées par le règlement général de l'Autorité des marchés financiers. 
+
+En cas de changement d'intention dans le délai de six mois à compter du dépôt de cette déclaration, une nouvelle déclaration
+motivée doit être adressée à la société et à l'Autorité des marchés financiers sans délai et portée à la connaissance du
+public dans les mêmes conditions. Cette nouvelle déclaration fait courir à nouveau le délai de six mois mentionné au premier
+alinéa."
 
 " Art.L. 233-8-I.-Au plus tard dans les quinze jours qui suivent l'assemblée générale ordinaire, toute société par actions
 informe ses actionnaires du nombre total de droits de vote existant à cette date. Dans la mesure où, entre deux assemblées
@@ -28753,8 +28779,11 @@ I de l'article L. 233-7 :
 
 3° Les actions ou les droits de vote possédés par un tiers avec qui cette personne agit de concert ; 
 
-4° Les actions ou les droits de vote que cette personne, ou l'une des personnes mentionnées aux 1° à 3° est en droit
-d'acquérir à sa seule initiative en vertu d'un accord ; 
+4° Les actions déjà émises que cette personne, ou l'une des personnes mentionnées aux 1° à 3° est en droit d'acquérir à sa
+seule initiative, immédiatement ou à terme, en vertu d'un accord ou d'un instrument financier mentionné à l'article L. 211-1
+du code monétaire et financier. Il en va de même pour les droits de vote que cette personne peut acquérir dans les mêmes
+conditions. Le règlement général de l'Autorité des marchés financiers précise les conditions d'application du présent
+alinéa ; 
 
 5° Les actions dont cette personne a l'usufruit ; 
 
@@ -28771,13 +28800,18 @@ II.-Ne sont pas assimilées aux actions ou aux droits de vote possédés par la 
 l'article L. 233-7 : 
 
 1° Les actions détenues par les organismes de placement collectif en valeurs mobilières ou les SICAF gérés par une société de
-gestion de portefeuille contrôlée par cette personne au sens de l'article L. 233-3, sauf exceptions prévues par le règlement
-général de l'Autorité des marchés financiers ; 
+gestion de portefeuille contrôlée par cette personne au sens de l'article L. 233-3, dans les conditions fixées par le
+règlement général de l'Autorité des marchés financiers sauf exceptions prévues par ce même règlement ; 
 
 2° Les actions détenues dans un portefeuille géré par un prestataire de services d'investissement contrôlé par cette personne
 au sens de l'article L. 233-3, dans le cadre du service de gestion de portefeuille pour compte de tiers dans les conditions
-fixées par le règlement général de l'Autorité des marchés financiers, sauf exceptions prévues par le même règlement
-général." 
+fixées par le règlement général de l'Autorité des marchés financiers, sauf exceptions prévues par ce même règlement ; 
+
+3° Les instruments financiers mentionnés au 4° du I détenus par un prestataire de services d'investissement dans son
+portefeuille de négociation au sens de la directive 2006 / 49 / CE du Parlement et du Conseil du 14 juin 2006 sur
+l'adéquation des fonds propres des entreprises d'investissement et des établissements de crédit à condition que ces
+instruments ne donnent pas accès à une quotité du capital ou des droits de vote de l'émetteur de ces titres supérieure à un
+seuil fixé par le règlement général de l'Autorité des marchés financiers."
 
 " Art.L. 233-10-I.-Sont considérées comme agissant de concert les personnes qui ont conclu un accord en vue d'acquérir ou de
 céder des droits de vote ou en vue d'exercer les droits de vote, pour mettre en oeuvre une politique vis-à-vis de la
@@ -28837,27 +28871,25 @@ assemblées générales. Il fait également apparaître les modifications interv
 des sociétés contrôlées et la part du capital de la société qu'elles détiennent. Il en est fait mention, le cas échéant, dans
 le rapport des commissaires aux comptes." 
 
-" Art.L. 233-14-A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux I et II de l'article L. 233-7,
-les actions excédant la fraction qui aurait dû être déclarée, lorsqu'elles sont admises aux négociations sur un marché
-réglementé d'un Etat partie à l'accord sur l'Espace économique européen ou sur un marché d'instruments financiers admettant
-aux négociations des actions pouvant être inscrites en compte chez un intermédiaire mentionné à l'article L. 211-3 du code
-monétaire et financier, sont privées du droit de vote pour toute assemblée d'actionnaires qui se tiendrait jusqu'à
-l'expiration d'un délai de deux ans suivant la date de régularisation de la notification. 
+" Art.L. 233-14-L'actionnaire qui n'aurait pas procédé régulièrement à la déclaration prévue aux I et II de l'article L.
+233-7 ou au VII de cet article est privé des droits de vote attachés aux actions excédant la fraction qui n'a pas été
+régulièrement déclarée pour toute assemblée d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans
+suivant la date de régularisation de la notification. 
 
 Dans les mêmes conditions, les droits de vote attachés à ces actions et qui n'ont pas été régulièrement déclarés ne peuvent
-être exercés ou délégués par l'actionnaire défaillant.
-
-L'actionnaire qui n'aurait pas procédé à la déclaration prévue au VII de l'article L. 233-7 est privé des droits de vote
-attachés aux titres excédant la fraction du dixième ou du cinquième mentionnée au même alinéa pour toute assemblée
-d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la date de régularisation de la
-notification. 
+être exercés ou délégués par l'actionnaire défaillant. 
 
 Le tribunal de commerce dans le ressort duquel la société a son siège social peut, le ministère public entendu, sur demande
 du président de la société, d'un actionnaire ou de l'Autorité des marchés financiers, prononcer la suspension totale ou
 partielle, pour une durée ne pouvant excéder cinq ans, de ses droits de vote à l'encontre de tout actionnaire qui n'aurait
 pas procédé aux déclarations prévues à l'article L. 233-7 ou qui n'aurait pas respecté le contenu de la déclaration prévue au
-VII de cet article pendant la période de douze mois suivant sa publication dans les conditions fixées par le règlement
-général de l'Autorité des marchés financiers."
+VII de cet article pendant la période de six mois suivant sa publication dans les conditions fixées par le règlement général
+de l'Autorité des marchés financiers."
+
+**Nota:**
+
+1) Ordonnance n° 2009-105 du 30 janvier 2009 art 6 : les dispositions introduites par l'article 2 1° de la présente
+ordonnance entrent en vigueur neuf mois après sa publication au Journal officiel.
 
 **Liens relatifs à cet article**
 
@@ -28867,7 +28899,7 @@ général de l'Autorité des marchés financiers."
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 2
+	  - Ordonnance n°2009-105 du 30 janvier 2009 - art. 2, art. 3, art. 4
 
 	**Cite**:
 
@@ -28875,18 +28907,6 @@ général de l'Autorité des marchés financiers."
 	  - Code de commerce. - art. L228-1 (M)
 	  - Code de commerce. - art. L228-3-3 (M)
 	  - Code monétaire et financier L233-14, L233-7, L233-3, L233-12
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de commerce. - art. L233-10 (V)
-	  - PILOTE_SUIVEUR: Code de commerce. - art. L233-10-1 (V)
-	  - PILOTE_SUIVEUR: Code de commerce. - art. L233-11 (V)
-	  - PILOTE_SUIVEUR: Code de commerce. - art. L233-12 (V)
-	  - PILOTE_SUIVEUR: Code de commerce. - art. L233-13 (V)
-	  - PILOTE_SUIVEUR: Code de commerce. - art. L233-14 (V)
-	  - PILOTE_SUIVEUR: Code de commerce. - art. L233-7 (V)
-	  - PILOTE_SUIVEUR: Code de commerce. - art. L233-8 (V)
-	  - PILOTE_SUIVEUR: Code de commerce. - art. L233-9 (V)
 
 
 ###### Article L451-2-1
@@ -28897,15 +28917,29 @@ pour le contrôle du respect de l'obligation prévue à l'article L. 451-1-1 du 
 V et VII de l'article L. 233-7, ainsi que les articles L. 233-8, L. 233-9, L. 233-10, L. 233-10-1, L. 233-11 et L. 233-12 du
 code de commerce.
 
+L'Autorité des marchés financiers peut dispenser la personne détenant des  participations dans une société dont le siège est
+établi hors du territoire de  l'Espace économique européen des obligations d'information mentionnées au I de  l'article L.
+233-7 du code de commerce si elle estime équivalentes les  obligations auxquelles cette personne est soumise en vertu de la
+législation de  l'Etat tiers qui lui est applicable. 
+
+L'Autorité des marchés  financiers peut dispenser la société dont le siège statutaire est établi hors du  territoire de
+l'Espace économique européen des obligations définies au II de  l'article L. 233-8 du code de commerce si elle estime
+équivalentes les  obligations auxquelles cette société est soumise en vertu de la législation de  l'Etat tiers dans lequel
+cette société a son siège social. 
+
+L'Autorité des marchés financiers arrête, met à jour et publie la liste des  Etats tiers dont les dispositions législatives
+ou réglementaires sont estimées  équivalentes aux obligations définies au I de l'article L. 233-7 et au II de  l'article L.
+233-8 du code de commerce.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1774 du 17 décembre 2007 - art. 10
+	  - Ordonnance n°2009-105 du 30 janvier 2009 - art. 5
 
 	**Cité par**:
 
@@ -28917,8 +28951,8 @@ code de commerce.
 	**Cite**:
 
 	  - Code de commerce - art. L233-7
-	  - Code de commerce. - art. L233-8 (V)
-	  - Code monétaire et financier - art. L451-1-1 (V)
+	  - Code de commerce - art. L233-8
+	  - Code monétaire et financier - art. L451-1-1
 
 
 ##### Section 3 : Obligation d'information sur le rachat d'actions
@@ -58158,28 +58192,24 @@ Le chapitre III du titre IV du livre III ainsi que l'article L. 353-6 sont appli
 
 #### Chapitre IV : Les marchés
 
-##### Section 1 : L'appel public à l'épargne
+##### Section 1 : Opérations
 
-##### Sous-section 1 : Définition.
+##### Sous-section 1 : Définitions et champ d'application
 
 ###### Article L744-1
 
-Les articles L. 411-1 et L. 411-2 sont applicables en Nouvelle-Calédonie et sous réserve de l'adaptation suivante :
+Les articles L. 411-1 à L. 411-4 sont applicables en Nouvelle-Calédonie et sous réserve de l'adaptation suivante : 
 
-Pour l'application de l'article L. 411-2, les mots : "et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution
-de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable" sont supprimés.
+Pour l'application de l'article L. 411-4, les mots : " et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution
+de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable " sont supprimés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance 45-2138 1945-09-19
-	  - Code monétaire et financier - art. L411-1 (V)
-	  - Code monétaire et financier - art. L411-2 (M)
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 14 (M)
+	  - Ordonnance n°45-2138 du 19 septembre 1945
+	  - Code monétaire et financier - art. L411-1
+	  - Code monétaire et financier - art. L411-4 (V)
 
 	**Codifié par**:
 
@@ -58187,20 +58217,19 @@ de l'ordre des experts-comptables et réglementant le titre et la profession d'e
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2009-798 du 24 juin 2009 - art. 1
 
 
-##### Sous-section 2 : Conditions de l'appel public à l'épargne.
+##### Sous-section 2 : Dispositions générales
 
 ###### Article L744-2
 
-Les articles L. 412-1, et L. 412-2 sont applicables en Nouvelle-Calédonie.
+Les articles L. 412-1 à L. 412-3 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°81-1 1981-01-02 art. 15
 	  - Loi n°81-1 du 2 janvier 1981 - art. 15 (Ab)
 
 	**Codifié par**:
@@ -58209,12 +58238,11 @@ Les articles L. 412-1, et L. 412-2 sont applicables en Nouvelle-Calédonie.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2009-798 du 24 juin 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L412-1 (M)
-	  - Code monétaire et financier - art. L412-2 (M)
+	  - Code monétaire et financier - art. L412-1
 
 
 ##### Section 2 : Les plates-formes de négociation
@@ -58517,28 +58545,23 @@ III.-L'article L. 464-1 est également applicable en Nouvelle-Calédonie.
 
 ###### Article L744-12
 
-I. - Les articles L. 451-1-1, L. 451-1-2, L. 451-1-4, L. 451-3, L. 465-1 et L. 465-2 sont applicables en Nouvelle-Calédonie
-sous réserve des adaptations prévues au II.
+I.-Les articles L. 451-1-1, L. 451-1-2, L. 451-1-4, L. 451-1-6, L. 451-3, 
+L. 465-1 et L. 465-2 sont applicables en Nouvelle-Calédonie sous réserve des adaptations prévues au II. 
 
-II. - 1° Pour l'application de l'article L. 451-1-1 :
+II.-1° Pour l'application de l'article L. 451-1-1 : 
 
-a) Les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont remplacés par le mot : "français" ;
+a) Les mots : " d'un Etat partie à l'accord sur l'Espace économique européen " sont remplacés par le mot : " français " ; 
 
-b) Les mots : "dans l'Espace économique européen ou un pays tiers" sont remplacés par les mots : "à l'étranger" ;
+b) Les mots : " dans l'Espace économique européen ou un pays tiers " sont remplacés par les mots : " à l'étranger " ; 
 
-2° Pour l'application de l'article L. 451-1-2 :
+2° Pour l'application de l'article L. 451-1-2 : 
 
-a) Au I, aux 1° et 3° du II, au III et au IV, les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont
-remplacés par le mot : "français" ;
+a) Au I, aux 1° et 3° du II, au III et au IV, les mots : " d'un Etat partie à l'accord sur l'Espace économique européen "
+sont remplacés par le mot : " français " ; 
 
-b) Au 3° du II, les mots : "de l'Espace économique européen" sont remplacés par les mots : "de France".
+b) Au 3° du II, les mots : " de l'Espace économique européen " sont remplacés par les mots : " de France ".
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 14 (M)
-	  - Code de commerce. - art. L930-1 (V)
 
 	**Codifié par**:
 
@@ -58546,16 +58569,17 @@ b) Au 3° du II, les mots : "de l'Espace économique européen" sont remplacés 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2009-798 du 24 juin 2009 - art. 9
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L930-1 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L451-1-1 (V)
-	  - Code monétaire et financier - art. L451-1-2 (V)
-	  - Code monétaire et financier - art. L451-1-4 (V)
-	  - Code monétaire et financier - art. L451-3 (V)
-	  - Code monétaire et financier - art. L465-1 (M)
-	  - Code monétaire et financier - art. L465-2 (M)
+	  - Code monétaire et financier - art. L451-1-1
+	  - Code monétaire et financier - art. L451-3
+	  - Code monétaire et financier - art. L465-1
 
 
 ##### Sous-section 2 : Obligation d'information sur les prises de participation
@@ -60574,28 +60598,23 @@ Le chapitre III du titre IV du livre III ainsi que l'article L. 353-6 sont appli
 
 #### Chapitre IV : Les marchés
 
-##### Section 1 : L'appel public à l'épargne
+##### Section 1 : Opérations
 
-##### Sous-section 1 : Définition.
+##### Sous-section 1 : Définitions et champ d'application
 
 ###### Article L754-1
 
-Les articles L. 411-1 et L. 411-2 sont applicables en Polynésie française et sous réserve de l'adaptation suivante :
+Les articles L. 411-1 à L. 411-4 sont applicables en Polynésie française et sous réserve de l'adaptation suivante : 
 
-Pour l'application de l'article L. 411-2, les mots : "et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution
-de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable" sont supprimés.
+Pour l'application de l'article L. 411-4, les mots : " et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution
+de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable " sont supprimés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance 45-2138 1945-09-19
-	  - Code monétaire et financier - art. L411-1 (V)
-	  - Code monétaire et financier - art. L411-2 (M)
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 14 (M)
+	  - Ordonnance n°45-2138 du 19 septembre 1945
+	  - Code monétaire et financier - art. L411-1
 
 	**Codifié par**:
 
@@ -60603,20 +60622,19 @@ de l'ordre des experts-comptables et réglementant le titre et la profession d'e
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2009-798 du 24 juin 2009 - art. 1
 
 
-##### Sous-section 2 : Conditions de l'appel public à l'épargne.
+##### Sous-section 2 : Dispositions générales
 
 ###### Article L754-2
 
-Les articles L. 412-1, et L. 412-2 sont applicables en Polynésie française.
+Les articles L. 412-1 à L. 412-3 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°81-1 1981-01-02 art. 15
 	  - Loi n°81-1 du 2 janvier 1981 - art. 15 (Ab)
 
 	**Codifié par**:
@@ -60625,12 +60643,11 @@ Les articles L. 412-1, et L. 412-2 sont applicables en Polynésie française.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2009-798 du 24 juin 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L412-1 (M)
-	  - Code monétaire et financier - art. L412-2 (M)
+	  - Code monétaire et financier - art. L412-1
 
 
 ##### Section 2 : Les plates-formes de négociation
@@ -60950,30 +60967,26 @@ III.-L'article L. 464-1 est également applicable en Polynésie française.
 
 ###### Article L754-12
 
-I. - Les articles L. 451-1-1, L. 451-1-2, L. 451-1-4, L. 451-3, L. 465-1 et L. 465-2 sont applicables en Polynésie française
-sous réserve des adaptations prévues au II.
+I.-Les articles L. 451-1-1, L. 451-1-2, L. 451-1-4, L. 451-1-6, L. 451-3, L. 465-1 et L. 465-2 sont applicables en Polynésie
+française sous réserve des adaptations prévues au II. 
 
-II. - 1° Pour l'application de l'article L. 451-1-1 :
+II.-1° Pour l'application de l'article L. 451-1-1 : 
 
-a) Les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont remplacés par le mot : "français" ;
+a) Les mots : " d'un Etat partie à l'accord sur l'Espace économique européen " sont remplacés par le mot : " français " ; 
 
-b) Les mots : "dans l'Espace économique européen ou un pays tiers" sont remplacés par les mots : "à l'étranger" ;
+b) Les mots : " dans l'Espace économique européen ou un pays tiers " sont remplacés par les mots : " à l'étranger " ; 
 
-2° Pour l'application de l'article L. 451-1-2 :
+2° Pour l'application de l'article L. 451-1-2 : 
 
-a) Au I, aux 1° et 3° du II, au III et au IV, les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont
-remplacés par le mot : "français" ;
+a) Au I, aux 1° et 3° du II, au III et au IV, les mots : " d'un Etat partie à l'accord sur l'Espace économique européen "
+sont remplacés par le mot : " français " ; 
 
-b) Au 3° du II, les mots : "de l'Espace économique européen" sont remplacés par les mots : "de France".
+b) Au 3° du II, les mots : " de l'Espace économique européen " sont remplacés par les mots : " de France ". 
 
 3° Pour l'application des articles L. 451-3 et L. 465-1, les références au code de commerce sont remplacées par les
 références aux dispositions applicables localement ayant le même objet.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 14 (M)
 
 	**Codifié par**:
 
@@ -60981,16 +60994,13 @@ références aux dispositions applicables localement ayant le même objet.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2009-798 du 24 juin 2009 - art. 9
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L451-1-1 (V)
-	  - Code monétaire et financier - art. L451-1-2 (V)
-	  - Code monétaire et financier - art. L451-1-4 (V)
-	  - Code monétaire et financier - art. L451-3 (V)
-	  - Code monétaire et financier - art. L465-1 (M)
-	  - Code monétaire et financier - art. L465-2 (M)
+	  - Code monétaire et financier - art. L451-1-1
+	  - Code monétaire et financier - art. L451-3
+	  - Code monétaire et financier - art. L465-1
 
 
 ##### Sous-section 2 : Obligations d'information sur les prises de participation
@@ -63070,28 +63080,23 @@ L'article L. 353-6 s'y applique également.
 
 #### Chapitre IV : Les marchés
 
-##### Section 1 : L'appel public à l'épargne
+##### Section 1 : Opérations
 
-##### Sous-section 1 : Définition.
+##### Sous-section 1 : Définitions et champ d'application
 
 ###### Article L764-1
 
-Les articles L. 411-1 et L. 411-2 sont applicables dans les îles Wallis-et-Futuna et sous réserve de l'adaptation suivante :
+Les articles L. 411-1 à L. 411-4 sont applicables dans les îles Wallis-et-Futuna et sous réserve de l'adaptation suivante : 
 
-Pour l'application de l'article L. 411-2, les mots : "et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution
-de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable" sont supprimés.
+Pour l'application de l'article L. 411-4, les mots : " et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution
+de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable " sont supprimés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance 45-2138 1945-09-19
-	  - Code monétaire et financier - art. L411-1 (V)
-	  - Code monétaire et financier - art. L411-2 (M)
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 14 (M)
+	  - Ordonnance n°45-2138 du 19 septembre 1945
+	  - Code monétaire et financier - art. L411-1
 
 	**Codifié par**:
 
@@ -63099,14 +63104,14 @@ de l'ordre des experts-comptables et réglementant le titre et la profession d'e
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2009-798 du 24 juin 2009 - art. 1
 
 
-##### Sous-section 2 : Conditions de l'appel public à l'épargne.
+##### Sous-section 2 : Dispositions générales
 
 ###### Article L764-2
 
-Les articles L. 412-1, et L. 412-2 sont applicables dans les îles Wallis et Futuna.
+Les articles L. 412-1 à L. 412-3 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -63120,12 +63125,11 @@ Les articles L. 412-1, et L. 412-2 sont applicables dans les îles Wallis et Fut
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2009-798 du 24 juin 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L412-1 (M)
-	  - Code monétaire et financier - art. L412-2 (M)
+	  - Code monétaire et financier - art. L412-1
 
 
 ##### Section 2 : Les plates-formes de négociation
@@ -63414,27 +63418,23 @@ III.-L'article L. 464-1 est également applicable dans les îles Wallis et Futun
 
 ###### Article L764-12
 
-I. - Les articles L. 451-1-1, L. 451-1-2, L. 451-1-4, L. 451-3, L. 465-1 et L. 465-2 sont applicables dans les îles Wallis et
-Futuna sous réserve des adaptations prévues au II.
+I.-Les articles L. 451-1-1, L. 451-1-2, L. 451-1-4, L. 451-1-6, L. 451-3, L. 465-1 et L. 465-2 sont applicables dans les îles
+Wallis et Futuna sous réserve des adaptations prévues au II. 
 
-II. - 1° Pour l'application de l'article L. 451-1-1 :
+II.-1° Pour l'application de l'article L. 451-1-1 : 
 
-a) Les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont remplacés par le mot : "français" ;
+a) Les mots : " d'un Etat partie à l'accord sur l'Espace économique européen " sont remplacés par le mot : " français " ; 
 
-b) Les mots : "dans l'Espace économique européen ou un pays tiers" sont remplacés par les mots : "à l'étranger" ;
+b) Les mots : " dans l'Espace économique européen ou un pays tiers " sont remplacés par les mots : " à l'étranger " ; 
 
-2° Pour l'application de l'article L. 451-1-2 :
+2° Pour l'application de l'article L. 451-1-2 : 
 
-a) Au I, aux 1° et 3° du II, au III et au IV, les mots : "d'un Etat partie à l'accord sur l'Espace économique européen" sont
-remplacés par le mot : "français" ;
+a) Au I, aux 1° et 3° du II, au III et au IV, les mots : " d'un Etat partie à l'accord sur l'Espace économique européen "
+sont remplacés par le mot : " français " ; 
 
-b) Au 3° du II, les mots : "de l'Espace économique européen" sont remplacés par les mots : "de France".
+b) Au 3° du II, les mots : " de l'Espace économique européen " sont remplacés par les mots : " de France ".
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-833 du 28 septembre 1967 - art. 14 (M)
 
 	**Codifié par**:
 
@@ -63442,16 +63442,13 @@ b) Au 3° du II, les mots : "de l'Espace économique européen" sont remplacés 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-931 du 28 juillet 2006 - art. 1 (V) JORF 29 juillet 2006
+	  - Ordonnance n°2009-798 du 24 juin 2009 - art. 9
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L451-1-1 (V)
-	  - Code monétaire et financier - art. L451-1-2 (V)
-	  - Code monétaire et financier - art. L451-1-4 (V)
-	  - Code monétaire et financier - art. L451-3 (V)
-	  - Code monétaire et financier - art. L465-1 (M)
-	  - Code monétaire et financier - art. L465-2 (M)
+	  - Code monétaire et financier - art. L451-1-1
+	  - Code monétaire et financier - art. L451-3
+	  - Code monétaire et financier - art. L465-1
 
 
 ##### Sous-section 2 : Obligations d'information relative aux prises de participation
