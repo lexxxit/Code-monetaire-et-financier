@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-08-01
+Version Consolidée au 2009-08-28
 
 # Partie législative
 
@@ -94728,6 +94728,32 @@ code de commerce.
 
 ### Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes.
 
+#### Chapitre Ier : Déclaration de certaines sommes ou opérations.
+
+###### Article D561-13
+
+Le seuil mentionné au premier alinéa de l'article L. 561-13 est fixé à 2 000 euros par séance.
+
+**Nota:**
+
+Ancien chapitre Ier comprenant l'article D561-13 créé par décret n° 2009-1013 du 25 août 2009, article 2. Le titre VI du
+livre V comporte un autre chapitre Ier créé par décret n° 2009-1087 du 2 septembre 2009, article 1er.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1013 du 25 août 2009 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2010-22 du 7 janvier 2010 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. D561-10-1 (V)
+
+
 #### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite.
 
 ##### Section 1 : Communication et déclaration.
@@ -95708,42 +95734,6 @@ ministre chargé de l'économie.
 
 
 #### Chapitre V : Dispositions diverses.
-
-###### Article D565-2
-
-Pour l'application du premier alinéa de l'article L. 564-1, les casinos doivent enregistrer les noms et adresses des joueurs
-qui remettent ou qui reçoivent des moyens de paiement en échange de jetons ou de plaques, ainsi que la référence du document
-probant d'identité produit, dès lors que les sommes en cause excèdent 1 000 euros par séance.
-
-Le registre doit être conservé pendant dix ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1013 du 25 août 2009 - art. 1
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier - art. D564-2 (T)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L564-1
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R755-10 (V)
-	  - Code monétaire et financier - art. R765-10 (V)
-
 
 ###### Article D565-3
 
