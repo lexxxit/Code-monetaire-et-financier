@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-08-28
+Version Consolidée au 2009-09-05
 
 # Partie législative
 
@@ -83023,10 +83023,15 @@ client.
 ###### Article R312-2
 
 Le banquier doit, préalablement à l'ouverture d'un compte, vérifier le domicile et l'identité du postulant, qui est tenu de
-présenter un document officiel portant sa photographie. Les caractéristiques et les références de ce document sont
-enregistrées par le banquier.
+présenter un document officiel comportant sa photographie. Le banquier doit recueillir et conserver les informations
+suivantes : nom, prénoms, date et lieu de naissance du postulant, nature, date et lieu de délivrance du document présenté et
+nom de l'autorité ou de la personne qui l'a délivré ou authentifié. 
 
-Pour l'application des dispositions qui précèdent, l'adresse du centre communal ou intercommunal d'action sociale ou de
+Pour l'ouverture d'un compte au nom d'une personne morale, le banquier demande la présentation de l'original ou l'expédition
+ou la copie de tout acte ou extrait de registre officiel datant de moins de trois mois constatant la dénomination, la forme
+juridique, l'adresse du siège social et l'identité des dirigeants. 
+
+Pour l'application des dispositions du permier alinéa, l'adresse du centre communal ou intercommunal d'action sociale ou de
 l'organisme agréé au titre de l'article L. 264-2 du code de l'action sociale et des familles figurant sur la carte nationale
 d'identité en application des dispositions du cinquième alinéa de l'article 2 du décret n° 55-1397 du 22 octobre 1955
 instituant la carte nationale d'identité vaut justification du domicile. Il en est de même de l'attestation d'élection de
@@ -83036,21 +83041,16 @@ domicile présentée par la personne ne disposant pas d'un domicile stable insti
 
 	**Cite**:
 
-	  - Décret n°55-1397 du 22 octobre 1955 - art. 2 (M)
-	  - Code de l'action sociale et des familles - art. L264-2 (V)
+	  - Décret n°55-1397 du 22 octobre 1955 - art. 2
+	  - Code de l'action sociale et des familles - art. L264-2
 
 	**Anciens textes**:
 
-	  - Décret n°92-456 1992-05-22 art 33
 	  - Décret n°92-456 du 22 mai 1992 - art. 33 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 	**Modifié par**:
 
-	  - Décret n°2007-893 du 15 mai 2007 - art. 6 () JORF 16 mai 2007 en vigueur le 1er juillet 2007
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 3
 
 
 ###### Article R312-3
@@ -94754,463 +94754,1493 @@ livre V comporte un autre chapitre Ier créé par décret n° 2009-1087 du 2 sep
 	  - Code monétaire et financier - art. D561-10-1 (V)
 
 
-#### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite.
+#### Chapitre Ier : Obligations relatives à la lutte contre le blanchiment de capitaux et le financement du terrorisme
 
-##### Section 1 : Communication et déclaration.
+##### Section 2 : Personnes assujetties aux obligations de lutte contre le blanchiment de capitaux et le financement du terrorisme 
 
-###### Article R562-1
+##### Sous-section 1 : Bénéficiaire effectif 
 
-Tout organisme financier mentionné à l'article L. 562-1 communique au service à compétence nationale TRACFIN et à l'autorité
-de contrôle l'identité de ses dirigeants ou préposés normalement habilités à faire la déclaration prévue à l'article L.
-562-2.
 
-Pour les autres personnes relevant de l'article L. 562-1, la communication de l'identité et de la qualité de la personne
-normalement habilitée à faire cette déclaration est effectuée par document distinct, joint à l'appui de la première
-déclaration de soupçon transmise au service à compétence nationale TRACFIN.
 
-Tout changement concernant les dirigeants, préposés et personnes normalement habilités, mentionnés aux deux alinéas
-précédents, doit être porté, sans délai, à la connaissance de au service à compétence nationale TRACFIN et, le cas échéant,
-de l'autorité de contrôle.
+###### Article R561-1
 
-Tout dirigeant ou préposé d'un organisme financier ou de toute autre personne morale relevant de l'article L. 562-1, même
-s'il n'est pas normalement habilité par application des deux premiers alinéas, peut prendre l'initiative de déclarer lui-même
-au service à compétence nationale TRACFIN, dans des cas exceptionnels et en raison notamment de l'urgence, une opération lui
-paraissant relever de l'article L. 562-2. Il en rend compte dans les meilleurs délais à l'une des personnes normalement
-habilitées qui confirme la déclaration.
-
-Les commissaires aux comptes, les notaires, les huissiers de justice, les administrateurs judiciaires et mandataires
-judiciaires, les avocats au Conseil d'Etat et à la Cour de cassation, les avocats, les avoués près les cours d'appel et les
-commissaires-priseurs judiciaires sont seuls habilités à faire la déclaration mentionnée à l'article L. 562-2, quelles que
-soient les modalités de leur exercice professionnel. Pour les avocats au Conseil d'Etat et à la Cour de cassation, les
-avocats ou les avoués près les cours d'appel, cette déclaration est faite selon les modalités prévues aux huitième et
-neuvième alinéas de l'article L. 562-2-1.
-
-Lorsque la déclaration porte sur une opération qui n'a pas encore été exécutée, elle est assortie de l'indication de son
-délai d'exécution chaque fois que cela est possible.
-
-Le ministre chargé de l'économie définit par arrêté la forme de la déclaration mentionnée à l'article L. 562-2.
+Lorsque le client d'une des personnes mentionnées à l'article L. 561-2 est une société, on entend par bénéficiaire effectif
+de l'opération la ou les personnes physiques qui soit détiennent, directement ou indirectement, plus de 25 % du capital ou
+des droits de vote de la société, soit exercent, par tout autre moyen, un pouvoir de contrôle sur les organes de gestion,
+d'administration ou de direction de la société ou sur l'assemblée générale de ses associés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°91-160 du 13 février 1991 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cité par**:
 
-	  - Code de la mutualité - art. A510-3 (V)
-	  - Code des assurances - art. A310-7 (V)
-	  - Code monétaire et financier - art. R562-2 (V)
-	  - Code monétaire et financier - art. R562-2-1 (Ab)
-	  - Code monétaire et financier - art. R563-3 (M)
-	  - Code monétaire et financier - art. R564-1 (M)
-	  - Code monétaire et financier - art. R735-10 (Ab)
-	  - Code monétaire et financier - art. R745-10 (V)
-	  - Code monétaire et financier - art. R755-10 (V)
-	  - Code monétaire et financier - art. R765-10 (V)
+	  - Code de commerce - art. A823-37 (V)
+	  - Code monétaire et financier - art. R765-10 (VD)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-1
-	  - Code monétaire et financier - art. L562-2
-	  - Code monétaire et financier - art. L562-2-1
+	  - Code monétaire et financier - art. L561-2
 
 
-###### Article R562-2
+###### Article R561-2
 
-Chaque organisme financier communique au service à compétence nationale TRACFIN et à l'autorité de contrôle l'identité de ses
-dirigeants ou préposés chargés de répondre à toute demande, y compris celle mentionnée à l'article R. 563-2, émanant de cette
-cellule ou de l'autorité de contrôle, de recevoir les accusés de réception des déclarations faites par l'organisme en
-application des dispositions de l'article L. 562-2 et d'assurer la diffusion aux membres concernés du personnel des
-informations, avis ou recommandations de caractère général en provenance au service à compétence nationale TRACFIN ou de
-l'autorité de contrôle.
-
-Les autres personnes relevant de l'article L. 562-1 communiquent au service à compétence nationale TRACFIN l'identité et la
-qualité de la personne chargée de répondre à toute demande, y compris celle mentionnée à l'article R. 563-2, de recevoir les
-accusés de réception des déclarations faites au titre de l'article L. 562-2 et d'assurer la diffusion aux membres concernés
-du personnel des informations, avis ou recommandations de caractère général émanant de cette cellule ou de l'instance de
-régulation si cette dernière existe pour la profession. Ces éléments d'information sont transmis dans le document mentionné à
-l'article R. 562-1, accompagnant la première déclaration mentionnée à l'article L. 562-2.
-
-Sous réserve des dispositions du deuxième alinéa de l'article R. 562-2-2, les commissaires aux comptes, les notaires, les
-huissiers de justice, les administrateurs judiciaires et mandataires judiciaires, les avocats au Conseil d'Etat et à la Cour
-de cassation, les avocats et les avoués près les cours d'appel et les commissaires-priseurs judiciaires sont chargés, à titre
-individuel, de répondre aux demandes du service à compétence nationale TRACFIN et de recevoir les accusés de réception,
-quelles que soient les modalités de leur exercice professionnel. 
-  **(1)**
-
-**Nota:**
-
-(1) Le Conseil d'Etat, dans sa décision n° 296845 en date du 10 avril 2008, a annulé l'article 1er du décret du 26 juin 2006
-relatif à la lutte contre le blanchiment de capitaux, en tant qu'il introduit, au troisième alinéa de l'article R. 562-2 du
-code monétaire et financier, des dispositions qui prévoient une relation directe entre les personnes mentionnées au 12 de
-l'article L. 562-1 et la cellule TRACFIN dans les cas où ces personnes répondent aux demandes de cette dernière.
+Lorsque le client d'une des personnes mentionnées à l'article L. 561-2 est un organisme de placements collectifs, on entend
+par bénéficiaire effectif de l'opération la ou les personnes physiques qui soit détiennent, directement ou indirectement,
+plus de 25 % des parts ou actions de l'organisme, soit exercent un pouvoir de contrôle sur les organes d'administration ou de
+direction de l'organisme de placements collectifs ou, le cas échéant, de la société de gestion ou de la société de gestion de
+portefeuille le représentant.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°91-160 du 13 février 1991 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A510-3 (V)
-	  - Code des assurances - art. A310-7 (V)
-	  - Code monétaire et financier - art. R562-2-1 (Ab)
-	  - Code monétaire et financier - art. R563-3 (M)
-	  - Code monétaire et financier - art. R564-1 (M)
-	  - Code monétaire et financier - art. R564-4 (T)
-	  - Code monétaire et financier - art. R565-4 (Ab)
-	  - Code monétaire et financier - art. R735-10 (Ab)
-	  - Code monétaire et financier - art. R745-10 (V)
-	  - Code monétaire et financier - art. R755-10 (V)
-	  - Code monétaire et financier - art. R765-10 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L562-1 (M)
-	  - Code monétaire et financier - art. L562-2 (M)
-	  - Code monétaire et financier - art. R562-1 (M)
-	  - Code monétaire et financier - art. R562-2-2 (M)
-	  - Code monétaire et financier - art. R563-2 (M)
-
-
-###### Article R562-2-1
-
-Les organismes financiers établis en France appartenant à un groupe mentionné notamment à l'article L. 511-34 peuvent
-désigner, pour l'application des articles R. 562-1 et R. 562-2, des personnes spécialement habilitées à cet effet d'un autre
-organisme financier établi en France et appartenant au même groupe, après accord de cet organisme et de la société mère. Dans
-ce cas, le groupe communique l'identité de ces personnes au service à compétence nationale TRACFIN et à chaque autorité de
-contrôle concernée.
-
-Les personnes désignées en application des articles R. 562-1 et R. 562-2 au sein des organismes financiers mentionnés à
-l'alinéa précédent assurent l'organisation de la lutte contre le blanchiment et le financement du terrorisme dans les
-organismes financiers filiales établis en France et, si le droit qui leur est applicable le permet, dans les entités
-étrangères. L'organisation de la lutte contre le blanchiment et le financement du terrorisme mentionnée à l'article L. 511-34
-comprend l'échange des informations nécessaires à la vigilance dans le groupe, y compris des informations relatives à la
-clientèle dans les conditions prévues par ce texte. Elle comprend également la définition des procédures coordonnées
-permettant d'assurer dans les entités étrangères du groupe un niveau de vigilance au moins égal à celui imposé en France,
-sauf si le droit de l'Etat où ces entités sont implantées y fait obstacle. Dans ce cas, l'organisme financier en informe le
-service à compétence nationale TRACFIN et l'autorité de contrôle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L511-34
-	  - Code monétaire et financier - art. R562-1
-	  - Code monétaire et financier - art. R562-2
+	  - Code monétaire et financier - art. L561-2
 
 
-###### Article R562-2-2
+###### Article R561-3
 
-Dans les cas prévus au neuvième alinéa de l'article L. 562-2-1, la déclaration mentionnée à l'article L. 562-2 est transmise
-au service à compétence nationale TRACFIN dans un délai maximum de huit jours francs à compter de sa réception par l'autorité
+Lorsque le client d'une des personnes mentionnées à l'article L. 561-2 est une personne morale qui n'est ni une société ni un
+organisme de placements collectifs, ou lorsque le client intervient dans le cadre d'une fiducie ou de tout autre dispositif
+juridique comparable relevant d'un droit étranger, on entend par bénéficiaire effectif de l'opération la ou les personnes
+physiques qui satisfont à l'une des conditions suivantes : 
+
+1° Elles ont vocation, par l'effet d'un acte juridique les ayant désignées à cette fin, à devenir titulaires de droits
+portant sur 25 % au moins des biens de la personne morale ou des biens transférés à un patrimoine fiduciaire ou à tout autre
+dispositif juridique comparable relevant d'un droit étranger ; 
+
+2° Elles appartiennent à un groupe dans l'intérêt principal duquel la personne morale, la fiducie ou tout autre dispositif
+juridique comparable relevant d'un droit étranger a été constitué ou a produit ses effets, lorsque les personnes physiques
+qui en sont les bénéficiaires n'ont pas encore été désignées ; 
+
+3° Elles sont titulaires de droits portant sur 25 % au moins des biens de la personne morale, de la fiducie ou de tout autre
+dispositif juridique comparable relevant d'un droit étranger ; 
+
+4° Elles ont la qualité de constituant, de fiduciaire ou de bénéficiaire, dans les conditions prévues au titre XIV du livre
+III du code civil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code civil
+	  - Code monétaire et financier - art. L561-2
+
+
+##### Sous-section 2 : Activité financière accessoire 
+
+
+
+###### Article R561-4
+
+Constitue, pour l'application de l'article L. 561-4, une activité financière accessoire l'activité d'intermédiation en
+assurance lorsqu'elle satisfait à l'ensemble des conditions suivantes : 
+
+1° Elle consiste uniquement à présenter, proposer ou aider à conclure des contrats relatifs à des produits d'assurance qui ne
+sont que le complément du produit ou du service fourni dans le cadre de l'activité principale ; 
+
+2° Elle ne dépasse pas 5 % du chiffre d'affaires total de la personne concernée, selon les comptes établis pour le dernier
+exercice comptable ; 
+
+3° Le montant de la prime annuelle par contrat et par client ne dépasse pas 1 000 euros ; 
+
+4° Le montant du chiffre d'affaires annuel de cette activité ne dépasse pas 50 000 euros, qu'il s'agisse de l'assurance vie
+ou de l'assurance dommages, selon les comptes établis pour le dernier exercice comptable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-4
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R765-10 (VD)
+
+
+##### Section 3 : Obligations de vigilance à l'égard de la clientèle 
+
+
+
+##### Sous-section 1 : Identification du client 
+
+
+
+###### Article R561-5
+
+Pour l'application des I et II de l'article L. 561-5, les personnes mentionnées à l'article L. 561-2 vérifient l'identité du
+client et, le cas échéant, l'identité et les pouvoirs des personnes agissant pour le compte de celui-ci, dans les conditions
+suivantes : 
+
+1° Lorsque le client est une personne physique, par la présentation d'un document officiel en cours de validité comportant sa
+photographie. Les mentions à relever et conserver sont les nom, prénoms, date et lieu de naissance de la personne, ainsi que
+la nature, les date et lieu de délivrance du document et les nom et qualité de l'autorité ou de la personne qui a délivré le
+document et, le cas échéant, l'a authentifié ; 
+
+2° Lorsque le client est une personne morale, par la communication de l'original ou de la copie de tout acte ou extrait de
+registre officiel datant de moins de trois mois constatant la dénomination, la forme juridique, l'adresse du siège social et
+l'identité des associés et dirigeants sociaux mentionnés aux 1° et 2° de l'article R. 123-54 du code de commerce ou de leurs
+équivalents en droit étranger ; 
+
+3° Lorsque la vérification de l'identité ne peut avoir lieu en présence de la personne physique ou du représentant de la
+personne morale, les personnes mentionnées à l'article L. 561-2 mettent en œuvre, en application des dispositions du 1° de
+l'article L. 561-10, des mesures de vigilance complémentaires, parmi celles prévues à l'article R. 561-20.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 10 novembre 2009 (V)
+	  - Arrêté du 10 novembre 2009 - art. 1
+	  - Arrêté du 3 novembre 2014 - art. 70 (V)
+	  - Code de la mutualité - art. A114-2 (V)
+	  - Code de la mutualité - art. A510-3 (Ab)
+	  - Code de la sécurité sociale. - art. A951-3-3 (V)
+	  - Code des assurances - art. A310-5 (V)
+	  - Code monétaire et financier - art. R561-16 (VD)
+	  - Code monétaire et financier - art. R561-20 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. R123-54 (V)
+	  - Code monétaire et financier - art. L561-10
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-5
+
+
+###### Article R561-6
+
+Il peut n'être procédé à la vérification de l'identité du client et, le cas échéant, du bénéficiaire effectif, en application
+du II de l'article L. 561-5, que pendant l'établissement de la relation d'affaires, dans les conditions suivantes : 
+
+1° En cas d'ouverture d'un compte, la vérification de l'identité a lieu au plus tard avant la réalisation de la première
+opération sur ce compte ; 
+
+2° En cas de conclusion d'un contrat, la vérification de l'identité a lieu au plus tard au moment de cette conclusion ou
+avant le début de l'opération qui est l'objet du contrat, sous réserve, pour les personnes mentionnées à l'article L. 561-2,
+d'être en mesure de justifier à l'autorité de contrôle leur décision de ne pas vérifier l'identité de leur client avant
+d'entrer en relation d'affaires par la nécessité de poursuivre la relation d'affaires déjà engagée et le faible risque de
+blanchiment de capitaux ou de financement du terrorisme ; 
+
+3° En cas de souscription d'un contrat d'assurances, la vérification de l'identité du bénéficiaire du contrat a lieu au plus
+tard au moment du paiement de la prestation au bénéficiaire du contrat ou au moment où celui-ci entend exercer les droits
+conférés par le contrat ; 
+
+4° En cas d'opération liée au financement d'actifs physiques dont la propriété n'est pas transférée ou ne l'est qu'à la
+cessation de la relation contractuelle, la vérification de l'identité du bénéficiaire du contrat a lieu au plus tard au
+moment du paiement du premier loyer ou de la première redevance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-5
+
+
+##### Sous-section 2 : Identification du bénéficiaire effectif 
+
+
+
+###### Article R561-7
+
+Les personnes mentionnées à l'article L. 561-2 identifient le bénéficiaire effectif de la relation d'affaires, le cas
+échéant, par des moyens adaptés et vérifient les éléments d'identification recueillis sur celui-ci par le recueil de tout
+document ou justificatif approprié, compte tenu des risques de blanchiment de capitaux et de financement du terrorisme. Elles
+doivent être en mesure de justifier leurs diligences auprès des autorités de contrôle. Elles conservent ces documents ou
+justificatifs dans les conditions prévues à l'article L. 561-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de commerce - art. A823-37 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-12
+	  - Code monétaire et financier - art. L561-2
+
+
+###### Article R561-8
+
+L'obligation, pour une personne mentionnée à l'article L. 561-2, d'identifier le bénéficiaire effectif de la relation
+d'affaires est réputée satisfaite lorsque le risque de blanchiment de capitaux ou de financement du terrorisme est faible et
+que le client de cette personne est : 
+
+1° Une personne mentionnée aux 1° à 6° de l'article L. 561-2, établie ou ayant son siège social en France, dans un autre Etat
+membre de l'Union européenne, dans un Etat partie à l'accord sur l'Espace économique européen ou dans un pays tiers imposant
+des obligations équivalentes en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme et
+figurant sur la liste prévue au 2° du II de l'article L. 561-9 ; 
+
+2° Une filiale d'une personne mentionnée aux 1° à 6° de l'article L. 561-2 ayant son siège social dans l'un des Etats
+mentionnés au 1° et à la condition que la société mère atteste à la fois qu'elle vérifie que sa filiale procède à
+l'identification du bénéficiaire effectif et qu'elle a accès aux éléments d'identification réunis par sa filiale ; 
+
+3° Une personne mentionnée aux 1° à 6° de l'article L. 561-2 qui ne satisfait pas aux conditions prévues au 1° ou au 2°, si
+la personne soumise à l'obligation d'identifier s'assure que son client met en œuvre des procédures d'identification
+équivalentes à celles qui sont appliquées dans les Etats membres de l'Union européenne et qu'elle a accès aux éléments
+d'identification des bénéficiaires effectifs. 
+
+Toutefois, l'obligation d'identifier le bénéficiaire effectif ne peut être réputée satisfaite si la personne avec laquelle la
+personne assujettie à cette obligation noue la relation d'affaires est établie ou a son siège social dans un pays qui soit a
+fait l'objet d'une décision de la Commission européenne constatant qu'il n'impose pas d'obligations d'identification
+équivalentes à celles des Etats membres de l'Union européenne, soit a été mentionné par une instance internationale
+intervenant en matière de lutte contre le blanchiment de capitaux ou le financement du terrorisme parmi ceux dont la
+législation ou les pratiques font obstacle à celle-ci ; 
+
+4° Un organisme de placements collectifs, une société de gestion ou une société de gestion de portefeuille le représentant,
+qui sont agréés par l'autorité compétente d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace
+économique européen ou d'un pays tiers imposant des obligations équivalentes en matière de lutte contre le blanchiment des
+capitaux et le financement du terrorisme et figurant sur la liste prévue au 2° du II de l'article L. 561-9, dès lors que la
+personne soumise à l'obligation d'identifier s'est assurée de l'existence de cet agrément.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 10 novembre 2009 (V)
+	  - Code monétaire et financier - art. R561-9 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-9
+
+
+###### Article R561-9
+
+Lorsqu'une société de gestion ou une société de gestion de portefeuille distribue les parts ou actions d'un organisme de
+placements collectifs par l'intermédiaire d'une personne mentionnée aux 1° à 6° de l'article L. 561-2, qui ne répond pas aux
+conditions prévues au 1° ou au 2° de l'article R. 561-8, le dépositaire veille à ce que l'organisme de placements collectifs
+ou, le cas échéant, la société de gestion ou la société de gestion de portefeuille conclue une convention avec cette personne
+stipulant que cette dernière applique des procédures d'identification équivalentes à celle des Etats membres de l'Union
+européenne et qu'elle a accès aux éléments d'identification du bénéficiaire effectif.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 320-20 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2 (VT)
+	  - Code monétaire et financier - art. R561-8 (V)
+
+
+##### Sous-section 3 : Identification du client occasionnel 
+
+###### Article R561-10
+
+I. ― Pour l'application des dispositions de l'article L. 561-5, est considérée comme un client occasionnel toute personne qui
+s'adresse à l'une des personnes mentionnées à l'article L. 561-2 dans le but exclusif de préparer ou de réaliser une
+opération ponctuelle ou d'être assisté dans la préparation ou la réalisation d'une telle opération, que celle-ci soit
+réalisée en une seule opération ou en plusieurs opérations apparaissant comme liées entre elles. 
+
+II. ― Les personnes mentionnées à l'article L. 561-2 sont tenues, même en l'absence de soupçon que l'opération pourrait
+participer au blanchiment de capitaux ou de financement du terrorisme, avant de réaliser l'opération ou de prêter assistance
+à sa préparation ou sa réalisation, d'identifier leur client occasionnel ainsi que, le cas échéant, le bénéficiaire effectif
+de l'opération et de vérifier les éléments de l'identification de ceux-ci, dans les cas suivants : 
+
+1° Lorsque le montant de l'opération ou des opérations liées excède 15 000 euros, pour les personnes autres que celles
+mentionnées aux 7° et 9° du même article ; 
+
+2° Lorsque le montant de l'opération ou des opérations liées excède 8 000 euros, pour les personnes mentionnées au 7° du même
+article ; 
+
+3° Par dérogation aux 1° et 2°, quel que soit le montant de l'opération, lorsqu'elles réalisent une opération de transfert de
+fonds ou offrent des services de garde des avoirs ; 
+
+4° Par dérogation aux 1° et 2°, quel que soit le montant de l'opération, pour les sommes et les opérations mentionnées à
+l'article L. 561-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 10 septembre 2009 - art. 4 (VD)
+	  - Décret n°2012-1125 du 3 octobre 2012 (V)
+	  - Arrêté du 3 novembre 2014 - art. 64 (V)
+	  - Décret n°2015-1338 du 22 octobre 2015 (V)
+	  - Code monétaire et financier - art. R561-16 (VD)
+	  - Code monétaire et financier - art. R755-10 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-5
+
+
+##### Sous-section 4 : Nouvelle identification du client 
+
+
+###### Article R561-11
+
+Lorsque les personnes mentionnées à l'article L. 561-2 ont de bonnes raisons de penser que l'identité de leur client et les
+éléments d'identification précédemment obtenus ne sont plus exacts ou pertinents, elles procèdent à nouveau à
+l'identification du client.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code des assurances - art. A310-8 (V)
+	  - Code monétaire et financier - art. R765-10 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+
+
+##### Sous-section 5 : Obligations de vigilance constante sur la relation d'affaires 
+
+
+
+###### Article R561-12
+
+Pour l'application de l'article L. 561-6, les personnes mentionnées à l'article L. 561-2 : 
+
+1° Avant d'entrer en relation d'affaires, recueillent et analysent les éléments d'information, parmi ceux figurant sur la
+liste dressée par un arrêté du ministre chargé de l'économie, nécessaires à la connaissance de leur client ainsi que de
+l'objet et de la nature de la relation d'affaires, pour évaluer le risque de blanchiment de capitaux et de financement du
+terrorisme ; 
+
+2° Pendant toute la durée de la relation d'affaires, assurent une surveillance adaptée aux risques de blanchiment de capitaux
+et de financement du terrorisme en vue de conserver une connaissance adéquate de leur client ; 
+
+3° A tout moment, sont en mesure de justifier aux autorités de contrôle l'adéquation des mesures de vigilance qu'elles ont
+mises en œuvre aux risques de blanchiment de capitaux et de financement du terrorisme présentés par la relation d'affaires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 2 septembre 2009 - art. 1 (V)
+	  - Arrêté du 22 novembre 2010 (V)
+	  - Arrêté du 3 novembre 2014 (V)
+	  - Code des assurances - art. A310-8 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-6
+
+
+##### Sous-section 6 : Mise en oeuvre des obligations de vigilance par des tiers
+
+###### Article R561-13
+
+I.-Pour l'application de l'article L. 561-7, le tiers, qui met en œuvre les obligations de vigilance prévues aux articles L.
+561-5 et L. 561-6, met sans délai à la disposition des personnes mentionnées aux 1° à 6° de l'article L. 561-2 les éléments
+d'information relatifs à l'identité du client ainsi que, le cas échéant, du bénéficiaire effectif et à l'objet et à la nature
+de la relation d'affaires. 
+
+Le tiers leur transmet, à première demande, copie des documents d'identification du client et, le cas échéant, du
+bénéficiaire effectif ainsi que tout document pertinent pour assurer ces diligences. 
+
+Une convention peut être signée entre le tiers et les personnes mentionnées aux 1° à 6° de l'article L. 561-2 pour préciser
+les modalités de transmission des éléments ainsi recueillis et de contrôle des diligences mises en œuvre. 
+
+II.-Les personnes mentionnées au 1° de l'article L. 561-2 peuvent recourir, dans des conditions définies par un arrêté du
+ministre chargé de l'économie, à des prestataires pour identifier et vérifier l'identité de leur client pour les opérations
+mentionnées à l'article L. 311-2 du code de la consommation, au 6° de l'article L. 311-2 du code monétaire et financier et au
+deuxième alinéa de l'article L. 313-1 du même code. Elles demeurent responsables de l'exécution des obligations
+d'identification.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 63 (V)
+	  - Arrêté du 3 novembre 2014 - art. 73 (V)
+	  - Code des assurances - art. A310-8 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L311-2
+	  - Code monétaire et financier - art. L313-1
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-5
+	  - Code monétaire et financier - art. L561-7
+
+
+##### Sous-section 7 : Obligations lorsqu'il est mis un terme à la relation d'affaires 
+
+
+
+###### Article R561-14
+
+Lorsqu'une personne mentionnée aux 1° à 7° de l'article L. 561-2 met un terme à la relation d'affaires avec son client, en
+application de l'article L. 561-8, elle effectue, le cas échéant, la déclaration prévue à l'article L. 561-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-8
+
+
+##### Sous-section 8 : Obligations en cas de faible risque de blanchiment de capitaux ou de financement du terrorisme 
+
+
+
+###### Article R561-15
+
+En application du II de l'article L. 561-9, les personnes mentionnées à l'article L. 561-2 ne sont pas soumises aux
+obligations de vigilance prévues aux articles L. 561-5 et L. 561-6, pour autant qu'il n'existe pas de soupçons de blanchiment
+de capitaux ou de financement du terrorisme, à l'égard des personnes suivantes : 
+
+1° Le client ou, le cas échéant, le bénéficiaire effectif de la relation d'affaires, lorsqu'il est, soit : 
+
+a) Une personne mentionnée aux 1° à 6° de l'article L. 561-2 établie en France, dans un autre Etat membre de l'Union
+européenne, dans un Etat partie à l'accord sur l'Espace économique européen ou dans un pays tiers imposant des obligations
+équivalentes en matière de lutte contre le blanchiment et le financement du terrorisme et figurant sur la liste prévue au 2°
+du II de l'article L. 561-9 ; 
+
+b) Une société cotée dont les titres sont admis à la négociation sur au moins un marché réglementé en France ou dans un Etat
+partie à l'accord sur l'Espace économique européen ou dans un pays tiers imposant des exigences de publicité compatibles avec
+la législation communautaire, figurant sur une liste arrêtée par le ministre chargé de l'économie ; 
+
+c) Une autorité publique ou un organisme public, désigné comme tel en vertu du traité sur l'Union européenne, des traités
+instituant les Communautés, du droit communautaire dérivé, du droit public d'un Etat membre de l'Union européenne ou de tout
+autre engagement international de la France, et qu'il satisfait aux trois critères suivants : 
+
+i) Son identité est accessible au public, transparente et certaine ; 
+
+ii) Ses activités, ainsi que ses pratiques comptables, sont transparentes ; 
+
+iii) Il est soit responsable devant une institution communautaire ou devant les autorités d'un Etat membre, soit soumis à des
+procédures appropriées de contrôle de son activité ; 
+
+2° Le bénéficiaire effectif des sommes déposées sur les comptes détenus pour le compte de tiers par les notaires, les
+huissiers de justice ou les membres d'une autre profession juridique indépendante établis en France, dans un Etat partie à
+l'accord sur l'Espace économique européen ou dans un pays tiers imposant des obligations équivalentes en matière de lutte
+contre le blanchiment et le financement du terrorisme et figurant sur la liste prévue au 2° du II de l'article L. 561-9, pour
+autant que les informations relatives à l'identité du bénéficiaire effectif soient mises à la disposition des établissements
+agissant en qualité de dépositaires pour ces comptes, lorsqu'ils en font la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de commerce - art. A823-37 (V)
+	  - Code monétaire et financier - art. R561-17 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-5
+	  - Code monétaire et financier - art. L561-9
+
+
+###### Article R561-16
+
+En application du II de l'article L. 561-9, les personnes mentionnées à l'article L. 561-2 ne sont pas soumises aux
+obligations de vigilance prévues aux articles L. 561-5 et L. 561-6, pour autant qu'il n'existe pas de soupçons de blanchiment
+de capitaux ou de financement du terrorisme, lorsque l'opération porte sur les produits suivants : 
+
+1° Les contrats d'assurance vie dont la prime annuelle ne dépasse pas 1 000 euros ou dont la prime unique ne dépasse pas 2
+500 euros ; 
+
+2° Les opérations d'assurance des branches 1 et 2, telles qu'elles sont définies à l'article R. 321-1 du code des assurances,
+à l'article R. 211-2 du code de la mutualité et à l'article R. 931-2-1 du code de la sécurité sociale, les contrats
+d'assurance relatifs aux risques mentionnés à l'article 1er de la loi n° 89-1009 du 31 décembre 1989 renforçant les garanties
+offertes aux personnes assurées contre certains risques et les contrats ayant pour objet la garantie de remboursement d'un
+emprunt ; 
+
+3° Les opérations d'assurance des branches 3 à 18, telles qu'elles sont définies à l'article R. 321-1 du code des assurances,
+à l'article R. 211-2 du code de la mutualité et à l'article R. 931-2-1 du code de la sécurité sociale et en fonction des
+montants de primes, fixés par arrêté du ministre chargé de l'économie ; 
+
+4° Les contrats d'assurance retraite qui ne comportent pas de clause de rachat ne peuvent être utilisés en garantie et dont
+la sortie est faite en rente au moment du départ à la retraite, tels ceux mentionnés aux articles L. 132-23, L. 143-1, 
+L. 144-1, L. 144-2 et L. 441-1 du code des assurances, aux articles L. 222-1, L. 222-2 et L. 223-22 du code de la mutualité
+et aux articles L. 911-1, L. 932-1, L. 932-14 et L. 932-24 du code de la sécurité sociale ; 
+
+5° La monnaie électronique, pour autant que la capacité maximale du support ne soit pas supérieure à 250 euros si le support
+ne peut pas être rechargé ou, si le support peut être rechargé, pour autant qu'une limite de 2 500 euros soit fixée pour le
+montant total des opérations sur une année civile. Toutefois, dès qu'une demande de remboursement porte sur un montant
+unitaire ou sur un montant global d'au moins 2 500 euros au cours de la même année civile, les personnes mentionnées à
+l'article L. 561-2 sont tenues de respecter les obligations prévues aux articles L. 561-5 et L. 561-6 ; 
+
+6° Les financements d'actifs physiques dont la propriété n'est pas transférée au client ou ne peut l'être qu'à la cessation
+de la relation contractuelle et dont le loyer financier ne dépasse pas 15 000 euros hors taxes par an, que la transaction
+soit effectuée en une seule opération ou en plusieurs opérations apparaissant comme liées et sous réserve que le
+remboursement soit effectué exclusivement par un compte ouvert au nom du client auprès d'une personne mentionnée aux 1° à 6°
+de l'article L. 561-2 établie dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace
+économique européen ; 
+
+7° Les opérations de crédit à la consommation prévues aux articles L. 311-1 et suivants du code de la consommation, pour
+autant qu'elles ne dépassent pas 4 000 euros et sous réserve que le remboursement de ce crédit soit effectué exclusivement
+par un compte ouvert au nom du client auprès d'une personne mentionnée aux 1° à 6° de l'article L. 561-2 établie dans un Etat
+membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen ; 
+
+8° Les sommes versées sur un plan d'épargne d'entreprise en application du livre III de la troisième partie du code du
+travail, à l'exception des versements volontaires des bénéficiaires d'un plan d'épargne salariale mentionnés à l'article L.
+3332-11 du même code, lorsque ces versements dépassent 8 000 euros ou qu'ils ne sont pas effectués à partir d'un compte
+ouvert au nom du bénéficiaire ou de son employeur auprès d'une personne mentionnée aux 1° à 6° de l'article L. 561-2 établie
+dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen ; 
+
+9° Les sommes versées sur un plan d'épargne pour la retraite collectif en application du livre III de la troisième partie du
+code du travail, à l'exception des versements volontaires des bénéficiaires d'un plan d'épargne salariale mentionnés à
+l'article L. 3332-11 du même code, lorsque ces versements dépassent 8 000 euros ou qu'ils ne sont pas effectués à partir d'un
+compte ouvert au nom du bénéficiaire ou de son employeur auprès d'une personne mentionnée aux 1° à 6° de l'article L. 561-2
+établie dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen ; 
+
+10° Les comptes-titres aux fins de bénéficier d'une augmentation de capital réservée, d'actions gratuites, d'options de
+souscription ou d'achat d'actions attribuées conformément aux articles L. 225-177 à L. 225-186-1 du code de commerce et pour
+autant qu'ils ne dépassent pas une valeur de 15 000 euros.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 1
+	  - Code de commerce - art. L225-177
+	  - Code de la consommation - art. L311-1
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-5
+	  - Code monétaire et financier - art. L561-6
+	  - Code monétaire et financier - art. L561-9
+	  - Code du travail - art. L3332-11
+	  - Code de la sécurité sociale. - art. L911-1
+	  - Code de la sécurité sociale. - art. L932-1
+	  - Code de la sécurité sociale. - art. L932-14
+	  - Code de la sécurité sociale. - art. L932-24
+	  - Code de la sécurité sociale. - art. R931-2-1
+	  - Code des assurances - art. L132-23
+	  - Code des assurances - art. L143-1
+	  - Code des assurances - art. L144-1
+	  - Code des assurances - art. R*321-1
+	  - Code de la mutualité - art. L222-1
+	  - Code de la mutualité - art. L223-22
+	  - Code de la mutualité - art. R211-2
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 10 novembre 2009 (V)
+	  - Arrêté du 3 novembre 2014 - art. 63 (V)
+	  - Décret n°2016-1523 du 10 novembre 2016 (V)
+	  - Code de la mutualité - art. A114-2 (V)
+	  - Code de la sécurité sociale. - art. A951-3-3 (V)
+	  - Code des assurances - art. A310-6 (V)
+	  - Code monétaire et financier - art. D315-2 (V)
+	  - Code monétaire et financier - art. R561-17 (V)
+	  - Code monétaire et financier - art. R745-10 (V)
+	  - Code monétaire et financier - art. R755-10 (V)
+	  - Code monétaire et financier - art. R765-10 (VD)
+
+
+###### Article R561-17
+
+I. ― Un arrêté du ministre chargé de l'économie fixe la liste des contrats remplissant les conditions prévues au 1° de
+l'article R. 561-16, les montants de primes des opérations d'assurance des branches 3 à 18 mentionnées aux 2° et 3° du même
+article ainsi que les autres modalités d'application de cet article. 
+
+II. ― Pour la mise en œuvre des dérogations prévues aux articles R. 561-15 et R. 561-16, les personnes mentionnées à
+l'article L. 561-2 recueillent, dans chaque cas, des informations suffisantes pour établir si le client ou le produit remplit
+les conditions requises pour bénéficier de ces dérogations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 63 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. R561-15
+	  - Code monétaire et financier - art. R561-16
+
+
+##### Sous-section 9 : Mesures de vigilance complémentaires 
+
+
+###### Article R561-18
+
+I. ― Le client mentionné au 2° de l'article L. 561-10, qui est exposé à des risques particuliers en raison de ses fonctions,
+est une personne résidant dans un pays autre que la France et qui exerce ou a cessé d'exercer depuis moins d'un an l'une des
+fonctions suivantes : 
+
+1° Chef d'Etat, chef de gouvernement, membre d'un gouvernement national ou de la Commission européenne ; 
+
+2° Membre d'une assemblée parlementaire nationale ou du Parlement européen ; 
+
+3° Membre d'une cour suprême, d'une cour constitutionnelle ou d'une autre haute juridiction dont les décisions ne sont pas,
+sauf circonstances exceptionnelles, susceptibles de recours ; 
+
+4° Membre d'une cour des comptes ; 
+
+5° Dirigeant ou membre de l'organe de direction d'une banque centrale ; 
+
+6° Ambassadeur, chargé d'affaires, consul général et consul de carrière ; 
+
+7° Officier général ou officier supérieur assurant le commandement d'une armée ; 
+
+8° Membre d'un organe d'administration, de direction ou de surveillance d'une entreprise publique ; 
+
+9° Dirigeant d'une institution internationale publique créée par un traité. 
+
+II. ― Sont considérées comme des personnes connues pour être des membres directs de la famille du client mentionné au 2° de
+l'article L. 561-10 : 
+
+1° Le conjoint ou le concubin notoire ; 
+
+2° Le partenaire lié par un pacte civil de solidarité ou par un contrat de partenariat enregistré en vertu d'une loi
+étrangère ; 
+
+3° En ligne directe, les ascendants, descendants et alliés, au premier degré, ainsi que leur conjoint, leur partenaire lié
+par un pacte civil de solidarité ou par un contrat de partenariat enregistré en vertu d'une loi étrangère. 
+
+III. ― Sont considérées comme des personnes connues pour être étroitement associées au client mentionné au 2° de l'article L.
+561-10 : 
+
+1° Toute personne physique identifiée comme étant le bénéficiaire effectif d'une personne morale conjointement avec ce
+client ; 
+
+2° Toute personne physique connue comme entretenant des liens d'affaires étroits avec ce client.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 2 septembre 2009 - art. 1 (V)
+	  - Arrêté du 3 novembre 2014 - art. 57 (V)
+	  - Arrêté du 3 novembre 2014 - art. 64 (V)
+	  - Code des assurances - art. A310-8 (V)
+	  - Code monétaire et financier - art. R561-20 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-10
+
+
+###### Article R561-19
+
+Les produits ou opérations mentionnés au 3° de l'article L. 561-10 sont les bons et titres anonymes ainsi que les opérations
+portant sur ces bons et titres anonymes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-10
+
+
+###### Article R561-20
+
+I. ― Dans les cas prévus à l'article L. 561-10, les personnes mentionnées à l'article L. 561-2 appliquent, en sus des mesures
+prévues aux articles L. 561-5 et L. 561-6, au moins une mesure parmi les mesures de vigilance complémentaires suivantes : 
+
+1° Obtenir des pièces justificatives supplémentaires permettant de confirmer l'identité de la personne avec laquelle elles
+sont en relation d'affaires ; 
+
+2° Mettre en œuvre des mesures de vérification et de certification de la copie du document officiel ou de l'extrait de
+registre officiel mentionné à l'article R. 561-5 par un tiers indépendant de la personne à identifier ; 
+
+3° Exiger que le premier paiement des opérations soit effectué en provenance ou à destination d'un compte ouvert au nom du
+client auprès d'une personne mentionnée aux 1° à 6° de l'article L. 561-2 établie dans un Etat membre de l'Union européenne
+ou dans un Etat partie à l'accord sur l'Espace économique européen. 
+
+4° Obtenir une confirmation de l'identité du client de la part d'une personne mentionnée aux 1° à 6° de l'article L. 561-2
+établie dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen. La
+confirmation est adressée directement par cette personne à celle demandant l'identification et précise le nom et les
+coordonnées du représentant de la personne l'ayant délivrée. Cette confirmation peut également être obtenue d'une des
+personnes susmentionnées établies dans un pays tiers imposant des obligations équivalentes en matière de lutte contre le
+blanchiment et le financement du terrorisme et figurant sur la liste prévue au 2° du I de l'article L. 561-9, qui est en
+relation d'affaires suivie avec la personne mentionnée à l'article L. 561-2 établie dans un Etat membre de l'Union européenne
+ou dans un Etat partie à l'accord sur l'Espace économique européen. 
+
+II. ― Toutefois, par dérogation au I, pour l'ouverture d'un compte, sont mises en œuvre la mesure de vigilance complémentaire
+mentionnée au 3° du I ainsi qu'une autre des mesures énumérées au I ; 
+
+III. ― Lorsque le client est une personne mentionnée à l'article R. 561-18 ou le devient au cours de la relation d'affaires,
+les personnes mentionnées à l'article L. 561-2 appliquent l'ensemble des mesures de vigilance complémentaires suivantes, en
+sus des mesures prévues aux articles L. 561-5 et L. 561-6 : 
+
+1° Elles définissent et mettent en œuvre des procédures, adaptées au risque de blanchiment des capitaux et de financement du
+terrorisme, permettant de déterminer si leur client est une personne mentionnée à l'article R. 561-18 ; 
+
+2° La décision de nouer une relation d'affaires avec cette personne ne peut être prise que par un membre de l'organe exécutif
+ou toute personne habilitée à cet effet par l'organe exécutif ; 
+
+3° Elles recherchent, pour l'appréciation des risques de blanchiment de capitaux et de financement du terrorisme, l'origine
+du patrimoine et des fonds impliqués dans la relation d'affaires ou la transaction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2012-1125 du 3 octobre 2012 (V)
+	  - Code de commerce - art. A823-37 (V)
+	  - Code monétaire et financier - art. R561-5 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-10
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-5
+	  - Code monétaire et financier - art. L561-9
+	  - Code monétaire et financier - art. R561-18
+
+
+##### Sous-section 10 : Mesures de vigilance renforcée 
+
+
+
+###### Article R561-21
+
+Lorsqu'elles concluent une convention pour offrir un service de correspondant bancaire, d'encaissement ou d'escompte de
+chèques ou nouer une relation d'affaires en vue de la distribution d'instruments financiers mentionnés à l'article L. 211-1
+avec des organismes financiers mentionnés à l'article L. 561-10-1, les personnes assujetties mentionnées à ce dernier
+article : 
+
+1° Recueillent sur l'établissement cocontractant des informations suffisantes pour connaître la nature de ses activités et
+pour apprécier, sur la base d'informations accessibles au public et exploitables, sa réputation et la qualité de la
+surveillance dont il fait l'objet ; 
+
+2° Evaluent le dispositif de lutte contre le blanchiment de capitaux et le financement du terrorisme mis en place par
+l'établissement cocontractant ; 
+
+3° S'assurent que la décision de nouer une relation d'affaires avec l'établissement cocontractant est prise par un membre de
+l'organe exécutif ou toute personne habilitée à cet effet par l'organe exécutif ; 
+
+4° Prévoient dans la convention de correspondant bancaire ou de distribution des instruments financiers les modalités de
+transmission des informations à la demande de l'établissement assujetti ; 
+
+5° S'assurent, lorsqu'elles accueillent, dans le cadre des services de correspondance bancaire, des comptes de correspondant
+qui sont utilisés directement par des tiers indépendants pour l'exécution d'opérations pour leur propre compte, que
+l'établissement de crédit cocontractant a vérifié l'identité des clients ayant un accès direct à ces comptes de correspondant
+et a mis en œuvre à l'égard de ces clients des mesures de vigilance conformes à celles prévues aux articles L. 561-5 et L.
+561-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2014 - art. 57 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L561-10-1
+	  - Code monétaire et financier - art. L561-5
+
+
+###### Article R561-22
+
+Les résultats de l'examen renforcé prescrit à l'article L. 561-10-2 sont consignés par écrit et conservés selon les modalités
+prévues à l'article L. 561-12.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-55 (V)
+	  - Arrêté du 12 novembre 2004 - art. 320-20 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-10-2
+	  - Code monétaire et financier - art. L561-12
+
+
+##### Section 4 : Obligations de déclaration 
+
+
+##### Sous-section 1 : Désignation d'un déclarant et d'un correspondant 
+
+
+###### Article R561-23
+
+I. ― Les personnes mentionnées aux 1° à 7° de l'article L. 561-2 communiquent au service mentionné à l'article R. 561-33 et à
+leur autorité de contrôle désignée à l'article L. 561-36 l'identité de leurs dirigeants ou préposés habilités à procéder aux
+déclarations prescrites à l'article L. 561-15. 
+
+Pour les autres personnes mentionnées à l'article L. 561-2, la communication de l'identité et de la qualité de la personne
+habilitée à procéder à cette déclaration est effectuée par un document distinct, joint à l'appui de la première déclaration
+transmise au service mentionné à l'article R. 561-33 en application de l'article L. 561-15. 
+
+II. ― Tout changement concernant les personnes habilitées en application du I, qui répondent à l'appellation de déclarant,
+doit être porté, sans délai, à la connaissance de ce service et de leur autorité de contrôle, le cas échéant. 
+
+III. ― Tout dirigeant d'une personne morale mentionnée à l'article L. 561-2 ou préposé de cette personne morale peut prendre
+l'initiative de déclarer lui-même au service mentionné à l'article R. 561-33, dans des cas exceptionnels, en raison notamment
+de l'urgence, une opération lui paraissant devoir l'être en application de l'article L. 561-15. Cette déclaration est
+confirmée, dans les meilleurs délais, par la personne habilitée. 
+
+IV. ― Les personnes mentionnées aux 12° et 13° de l'article L. 561-2 s'acquittent personnellement de l'obligation de
+déclaration mentionnée à l'article L. 561-15, quelles que soient les modalités de leur exercice professionnel.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 315-53 (V)
+	  - Arrêté du 12 novembre 2004 - art. 320-18 (V)
+	  - Arrêté du 12 novembre 2004 - art. 550-10 (V)
+	  - Arrêté du 12 novembre 2004 - art. 560-13 (V)
+	  - Arrêté du 10 septembre 2009 - art. 7 (VD)
+	  - Arrêté du 3 novembre 2014 - art. 54 (V)
+	  - Code de commerce - art. A823-37 (V)
+	  - Code des assurances - art. A310-9 (V)
+	  - Code monétaire et financier - art. D561-31-1 (V)
+	  - Code monétaire et financier - art. R561-24 (V)
+	  - Code monétaire et financier - art. R561-28 (VD)
+	  - Code monétaire et financier - art. R561-30 (V)
+	  - Code monétaire et financier - art. R561-31 (VD)
+	  - Code monétaire et financier - art. R561-37 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-36
+
+
+###### Article R561-24
+
+Les personnes mentionnées aux 1° à 7° de l'article L. 561-2 communiquent au service mentionné à l'article R. 561-33 et à leur
+autorité de contrôle désignée à l'article L. 561-36 l'identité de leurs dirigeants ou préposés, chargés de répondre aux
+demandes de ce service et de cette autorité et d'assurer la diffusion aux membres concernés du personnel des informations,
+avis ou recommandations de caractère général qui en émanent. 
+
+Les autres personnes mentionnées à l'article L. 561-2 procèdent à cette même désignation auprès de ce service dans le
+document distinct mentionné au deuxième alinéa du I de l'article R. 561-23 accompagnant la première déclaration mentionnée à
+l'article L. 561-15. 
+
+Tout changement concernant les personnes ainsi désignées, qui répondent à l'appellation de correspondant, doit être porté,
+sans délai, à la connaissance du service et de leur autorité de contrôle. 
+
+Les personnes mentionnées à l'article L. 561-2 veillent à ce que les fonctions de correspondant soient assurées avec la
+continuité nécessaire pour être en mesure de répondre, dans les délais impartis, aux demandes du service mentionné à
+l'article R. 561-33.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 10 septembre 2009 - art. 7 (VD)
+	  - Arrêté du 3 novembre 2014 - art. 54 (V)
+	  - Code des assurances - art. A310-9 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-36
+	  - Code monétaire et financier - art. R561-23
+
+
+###### Article R561-25
+
+Les commissaires aux comptes, les experts-comptables, les notaires, les huissiers de justice, les administrateurs
+judiciaires, les mandataires judiciaires, les avocats lorsqu'ils agissent en qualité de fiduciaires et les commissaires-
+priseurs judiciaires sont chargés, à titre individuel, quelles que soient les modalités de leur exercice professionnel, de
+répondre à toute demande émanant du service mentionné à l'article R. 561-33 et de recevoir les accusés de réception des
+déclarations faites par l'organisme en application des dispositions de l'article L. 561-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de commerce - art. A823-37 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. R561-33 (V)
+
+
+###### Article R561-26
+
+Pour les avocats au Conseil d'Etat et à la Cour de cassation, les avocats, sauf lorsqu'ils agissent en qualité de
+fiduciaires, et les avoués près les cours d'appel, la personne chargée de répondre à toute demande émanant du service
+mentionné à l'article R. 561-33 et de recevoir les accusés de réception des déclarations faites par l'organisme en
+application des dispositions de l'article L. 561-15 est, selon le cas, avec faculté de délégation pour chacun d'entre eux, le
+président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, le bâtonnier de l'ordre auprès duquel l'avocat
+est inscrit ou le président de la compagnie dont relève l'avoué. 
+
+Ces autorités transmettent la demande ou l'accusé de réception immédiatement au professionnel concerné. Toutefois, la
+transmission de l'accusé de réception n'a pas lieu si le professionnel a indiqué expressément ne pas vouloir en être
 destinataire.
 
-Le service à compétence nationale TRACFIN accuse réception de la déclaration auprès de l'avocat ou de l'avoué ou de l'avocat
-au Conseil d'Etat et à la Cour de cassation à l'origine de la déclaration ainsi qu'auprès de l'autorité qui le lui a
-transmise. Si le déclarant a indiqué, conformément à l'article L. 562-6, ne pas souhaiter recevoir d'accusé de réception, du
-service à compétence nationale TRACFIN n'accuse pas non plus réception auprès de l'autorité ayant transmis la déclaration.
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-2
-	  - Code monétaire et financier - art. L562-2-1
-	  - Code monétaire et financier - art. L562-6
+	  - Code monétaire et financier - art. L561-15
+
+
+###### Article R561-27
+
+Les correspondants et déclarants désignés par la même personne mentionnée à l'article L. 561-2 se communiquent les
+informations portées à leur connaissance par le service mentionné à l'article R. 561-33 et se tiennent informés des demandes
+qui en émanent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. R561-33 (V)
+
+
+###### Article R561-28
+
+Les personnes mentionnées aux 1° à 6° de l'article L. 561-2, les compagnies financières et les compagnies financières holding
+mixtes établies en France ou intervenant en libre prestation de services dans les conditions définies à l'article L. 511-24,
+qui appartiennent à un même groupe, tel que défini au III de l'article L. 511-20, à l'article L. 334-2 du code des
+assurances, à l'article L. 212-7 du code de la mutualité ou au 7° de l'article L. 212-7-1 de ce même code, peuvent convenir,
+en accord avec la société mère, la mutuelle combinante ou l'organisme de référence tel que défini au 1° de l'article L.
+212-7-1 du code de la mutualité, d'une désignation conjointe, pour l'application des articles R. 561-23 et R. 561-24 et sous
+réserve que les personnes ainsi habilitées exercent leurs fonctions en France. Dans ce cas, le groupe communique l'identité
+de ces personnes au service mentionné à l'article R. 561-33 et à chaque autorité de contrôle concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-20
+	  - Code monétaire et financier - art. L511-24
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. R561-23
+	  - Code des assurances - art. L334-2
+	  - Code de la mutualité - art. L212-7
+	  - Code de la mutualité - art. L212-7-1
 
 	**Cité par**:
 
-	  - Code monétaire et financier - art. R562-2 (V)
+	  - Code monétaire et financier - art. R745-10 (V)
+	  - Code monétaire et financier - art. R755-10 (V)
+	  - Code monétaire et financier - art. R765-10 (VD)
 
 
-###### Article R562-2-3
+###### Article R561-29
 
-Les rapports établis par le président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, le président du
-Conseil national des barreaux et le président de la Chambre nationale des avoués sont transmis chaque semestre au garde des
-sceaux, ministre de la justice, en application du dixième alinéa de l'article L. 562-2-1. Ce dernier en rend destinataire le
-service à compétence nationale TRACFIN dans le mois suivant sa réception en application du onzième alinéa de l'article L.
-562-2-1.
+Les personnes mentionnées aux 1° à 6° de l'article L. 561-2 appartenant à un groupe échangent les informations nécessaires à
+la vigilance dans le groupe en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme, y compris
+pour les informations relatives à la clientèle dans les conditions prévues par l'article L. 561-34, avec les organismes
+financiers filiales établis en France et, si le droit qui leur est applicable le permet, avec les entités étrangères. Ces
+personnes définissent également des procédures coordonnées permettant d'assurer, dans les entités étrangères du groupe, un
+niveau de vigilance au moins équivalent à celui imposé en France, sauf si le droit de l'Etat où ces entités sont implantées y
+fait obstacle. Dans ce dernier cas, les personnes mentionnées aux 1° à 6° informent de cette situation le service mentionné à
+l'article R. 561-33 et l'autorité de contrôle concernée, en application de l'article L. 561-34.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
-	**Modifié par**:
+	**Cité par**:
 
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
+	  - Code des assurances - art. A310-8 (V)
 
-	**Abrogé par**:
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-34
+	  - Code monétaire et financier - art. R561-33 (V)
+
+
+###### Article R561-30
+
+Les personnes mentionnées au 1° de l'article L. 561-2 et affiliées à un organe central peuvent, avec l'accord de celui-ci,
+désigner, pour l'application des articles R. 561-23 et R. 561-24, une ou plusieurs personnes spécialement habilitées à cet
+effet dans un autre établissement assujetti appartenant au même réseau et sous réserve que ces dernières exercent leurs
+fonctions en France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-2-1
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. R561-23
 
 
-##### Section 2 : Pôle ministériel de lutte contre les circuits financiers clandestins : service TRACFIN et conseil d'orientation.
+##### Sous-section 2 : Contenu et transmission des déclarations 
 
-###### Article R562-3
 
-Il est créé un pôle ministériel consacré à la lutte contre les circuits financiers clandestins.
+###### Article D561-32-1
 
-Ce pôle comprend :
+I.-La déclaration prévue au II de l'article L. 561-15 du code monétaire et financier est effectuée par les personnes
+mentionnées à l'article L. 561-2 du même code en fonction de la spécificité de leur profession, conformément aux obligations
+de vigilance exercées sur leur clientèle et au regard des pièces et documents qu'elles réunissent à cet effet. 
 
-1° Le service institué par l'article L. 562-4, service à compétence nationale rattaché au ministre chargé de l'économie et au
-ministre chargé du budget, et dénommé TRACFIN (traitement du renseignement et action contre les circuits financiers
-clandestins) ;
+II.-Les critères mentionnés au II de l'article L. 561-15 sont les suivants : 
 
-2° Un conseil d'orientation.
+1° L'utilisation de sociétés écran, dont l'activité n'est pas cohérente avec l'objet social ou ayant leur siège social dans
+un Etat ou un territoire qui n'a pas conclu avec la France une convention fiscale permettant l'accès aux informations
+bancaires, identifié à partir d'une liste publiée par l'administration fiscale, ou à l'adresse privée d'un des bénéficiaires
+de l'opération suspecte ou chez un domiciliataire au sens de l'article L. 123-11 du code de commerce ; 
+
+2° La réalisation d'opérations financières par des sociétés dans lesquelles sont intervenus des changements statutaires
+fréquents non justifiés par la situation économique de l'entreprise ; 
+
+3° Le recours à l'interposition de personnes physiques n'intervenant qu'en apparence pour le compte de sociétés ou de
+particuliers impliqués dans des opérations financières ; 
+
+4° La réalisation d'opérations financières incohérentes au regard des activités habituelles de l'entreprise ou d'opérations
+suspectes dans des secteurs sensibles aux fraudes à la TVA de type carrousel, tels que les secteurs de l'informatique, de la
+téléphonie, du matériel électronique, du matériel électroménager, de la hi-fi et de la vidéo ; 
+
+5° La progression forte et inexpliquée, sur une courte période, des sommes créditées sur les comptes nouvellement ouverts ou
+jusque-là peu actifs ou inactifs, liée le cas échéant à une augmentation importante du nombre et du volume des opérations ou
+au recours à des sociétés en sommeil ou peu actives dans lesquelles ont pu intervenir des changements statutaires récents ; 
+
+6° La constatation d'anomalies dans les factures ou les bons de commande lorsqu'ils sont présentés comme justification des
+opérations financières, telles que l'absence du numéro d'immatriculation au registre du commerce et des sociétés, du numéro
+SIREN, du numéro de TVA, de numéro de facture, d'adresse ou de dates ; 
+
+7° Le recours inexpliqué à des comptes utilisés comme des comptes de passage ou par lesquels transitent de multiples
+opérations tant au débit qu'au crédit, alors que les soldes des comptes sont souvent proches de zéro ; 
+
+8° Le retrait fréquent d'espèces d'un compte professionnel ou leur dépôt sur un tel compte non justifié par le niveau ou la
+nature de l'activité économique ; 
+
+9° La difficulté d'identifier les bénéficiaires effectifs et les liens entre l'origine et la destination des fonds en raison
+de l'utilisation de comptes intermédiaires ou de comptes de professionnels non financiers comme comptes de passage, ou du
+recours à des structures sociétaires complexes et à des montages juridiques et financiers rendant peu transparents les
+mécanismes de gestion et d'administration ; 
+
+10° Les opérations financières internationales sans cause juridique ou économique apparente se limitant le plus souvent à de
+simples transits de fonds en provenance ou à destination de l'étranger notamment lorsqu'elles sont réalisées avec des Etats
+ou des territoires visés au 1° ; 
+
+11° Le refus du client de produire des pièces justificatives quant à la provenance des fonds reçus ou quant aux motifs
+avancés des paiements, ou l'impossibilité de produire ces pièces ; 
+
+12° Le transfert de fonds vers un pays étranger suivi de leur rapatriement sous la forme de prêts ; 
+
+13° L'organisation de l'insolvabilité par la vente rapide d'actifs à des personnes physiques ou morales liées ou à des
+conditions qui traduisent un déséquilibre manifeste et injustifié des termes de la vente ; 
+
+14° L'utilisation régulière par des personnes physiques domiciliées et ayant une activité en France de comptes détenus par
+des sociétés étrangères ; 
+
+15° Le dépôt par un particulier de fonds sans rapport avec son activité ou sa situation patrimoniale connues ; 
+
+16° la réalisation d'une transaction immobilière à un prix manifestement sous-évalué.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Anciens textes**:
 
-	  - Code monétaire et financier - art. D562-3 (T)
+	  - Décret n°2009-874 du 16 juillet 2009 - art. 1 (T)
+	  - Décret n°2009-874 du 16 juillet 2009 - art. 2 (T)
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-4
+	  - Code de commerce - art. L123-11
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-2
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. D765-10-1 (V)
 
 
-###### Article R562-4
+###### Article R561-31
 
-Le service à compétence nationale TRACFIN a pour missions :
+I. ― La déclaration effectuée en application de l'article L. 561-15, dûment signée, doit comporter les éléments
+d'identification et les coordonnées des personnes habilitées conformément aux dispositions de l'article R. 561-23. 
 
-1° De recevoir et de traiter, selon la législation en vigueur, les déclarations prévues à l'article L. 562-2 ainsi que les
-autres déclarations et informations prévues aux chapitres II et III du titre VI du livre V de la partie législative du
-présent code ;
+La déclaration mentionne les éléments d'identification et de connaissance du client et, le cas échéant, du bénéficiaire
+effectif, l'objet et la nature de la relation d'affaires, le descriptif des opérations concernées ainsi que les éléments
+d'analyse qui ont conduit la personne mentionnée à l'article L. 561-2 à nouer cette relation. Elle est accompagnée de toute
+pièce ou document justificatif utile à son exploitation par le service mentionné à l'article R. 561-33. 
 
-2° De recueillir, de traiter et de diffuser le renseignement relatif aux infractions mentionnées à l'article L. 562-2 ;
+Lorsque la déclaration effectuée en application de l'article L. 561-15 porte sur une opération qui n'a pas encore été
+exécutée, elle indique le cas échéant son délai d'exécution. Lorsqu'elle porte sur une tentative de blanchiment, la
+déclaration comporte l'identité du client ainsi que les autres informations qui ont pu être recueillies. 
 
-3° D'animer et de coordonner en tant que de besoin, aux niveaux national et international, les moyens d'investigation dont
+II. ― Le ministre chargé de l'économie définit par arrêté la forme et le mode de transmission de cette déclaration, adaptés,
+le cas échéant, en fonction de l'activité de l'établissement déclarant et de sa taille. 
+
+III. ― Sous réserve de l'exception prévue à l'article L. 561-18, la déclaration peut être recueillie verbalement par le
+service mentionné à l'article R. 561-33, en présence du ou des déclarants désignés conformément au I de l'article R. 561-23.
+La déclaration orale est accompagnée de la remise de toute pièce ou document justificatif venant à son appui.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 6 juin 2013 - art. 1 (V)
+	  - Arrêté du 6 juin 2013 - art. 5 (V)
+	  - Arrêté du 3 novembre 2014 - art. 72 (V)
+	  - Code de commerce - art. A823-37 (V)
+	  - Code monétaire et financier - art. D561-31-3 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-18
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. R561-23
+	  - Code monétaire et financier - art. R561-33 (V)
+
+
+###### Article R561-32
+
+La transmission de la déclaration prévue au premier alinéa de l'article L. 561-17 et celle des pièces communiquées en
+application du II de l'article L. 561-26 sont effectuées dans le délai maximum de huit jours francs à compter de leur
+réception par l'autorité destinataire, dès lors que les conditions fixées à l'article L. 561-3 sont remplies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-17
+	  - Code monétaire et financier - art. L561-26
+	  - Code monétaire et financier - art. L561-3 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R765-10 (VD)
+
+
+##### Section 5 : La cellule de renseignement financier nationale 
+
+
+
+###### Article R561-33
+
+Le service à compétence nationale TRACFIN (traitement du renseignement et action contre les circuits financiers clandestins),
+prévu à l'article L. 561-23, est rattaché au ministre chargé de l'économie et au ministre chargé du budget et a pour missions
+de : 
+
+1° Recevoir et traiter, dans les conditions prévues par la législation en vigueur, les déclarations prescrites à l'article L.
+561-15 ainsi que les autres informations prévues au chapitre Ier du titre VI du livre V de la partie législative du présent
+code ; 
+
+2° Recueillir, traiter et diffuser le renseignement relatif aux infractions mentionnées à l'article L. 561-15 ; 
+
+3° Animer et coordonner, en tant que de besoin, aux niveaux national et international, les moyens d'investigation dont
 disposent les administrations ou services relevant du ministre chargé de l'économie et du ministre chargé du budget, ainsi
-que les organismes qui y sont rattachés, pour la recherche des infractions mentionnées à l'article L. 562-2 ;
+que les organismes qui y sont rattachés, pour la recherche des infractions mentionnées à l'article L. 561-15 ; 
 
-4° De participer à l'étude des mesures à mettre en oeuvre pour faire échec aux circuits financiers clandestins, au
-blanchiment de l'argent et au financement du terrorisme ;
+4° Participer à l'étude des mesures à mettre en œuvre pour faire échec aux circuits financiers clandestins, au blanchiment de
+capitaux et au financement du terrorisme ; 
 
-5° De développer, en relation avec les directions concernées relevant du ministre chargé de l'économie et du ministre chargé
-du budget, l'action internationale de lutte contre les circuits financiers clandestins, le blanchiment de l'argent et le
+5° Développer, en relation avec les directions concernées relevant du ministre chargé de l'économie et du ministre chargé du
+budget, l'action internationale de lutte contre les circuits financiers clandestins, le blanchiment de capitaux et le
 financement du terrorisme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Code monétaire et financier - art. D562-4 (T)
+	  - Arrêté du 7 janvier 2011 - art. 1 (V)
+	  - Code monétaire et financier - art. D561-31-1 (V)
+	  - Code monétaire et financier - art. R561-25 (V)
+	  - Code monétaire et financier - art. R561-27 (V)
+	  - Code monétaire et financier - art. R561-29 (V)
+	  - Code monétaire et financier - art. R561-31 (VD)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-2
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-23
 
 
-###### Article R562-5
-
-I. - Le conseil d'orientation est chargé, dans le domaine de la lutte contre les circuits financiers clandestins, le
-blanchiment de l'argent et le financement du terrorisme :
-
-1° De proposer au ministre chargé de l'économie et au ministre chargé du budget les orientations générales à mettre en oeuvre
-par le service à compétence nationale TRACFIN ainsi que les règles particulières applicables aux agents du service en matière
-de déontologie ;
-
-2° De proposer au ministre chargé de l'économie et au ministre chargé du budget toute réforme législative, réglementaire ou
-administrative nécessaire ;
-
-3° De contribuer à la cohérence des actions des différentes structures opérationnelles placées sous l'autorité du ministre
-chargé de l'économie et du ministre chargé du budget.
-
-Le conseil d'orientation peut, en outre, être consulté par le ministre chargé de l'économie ou le ministre chargé du budget
-sur toute question générale entrant dans son domaine de compétences.
-
-II. - Le conseil d'orientation est composé du chef du service de l'inspection générale des finances, des directeurs généraux
-du Trésor et de la politique économique, des impôts et des douanes et droits indirects, du directeur des affaires juridiques,
-du haut fonctionnaire de défense auprès du ministre chargé de l'économie ou de leurs représentants. Il peut inviter des
-personnalités qualifiées à participer à ses travaux. Il est présidé par une personne qualifiée désignée conjointement par le
-ministre chargé de l'économie et le ministre chargé du budget.
-
-Le secrétariat du conseil est assuré par le service à compétence nationale TRACFIN.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier - art. D562-5 (T)
-
-
-###### Article R562-6
+###### Article R561-34
 
 Le service à compétence nationale TRACFIN est dirigé par un directeur et un directeur adjoint, désignés par arrêté conjoint
-du ministre chargé de l'économie et du ministre chargé du budget.
+du ministre chargé de l'économie et du ministre chargé du budget. 
 
-Il est composé d'un département d'enquêtes, d'un département institutionnel et d'une cellule chargée des affaires générales,
+Il est composé d'un département d'enquêtes, d'un département institutionnel et d'un service chargé des affaires générales,
 dans des conditions fixées par un arrêté conjoint des ministres chargés de l'économie et du budget.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Code monétaire et financier - art. D562-6 (T)
+	  - Arrêté du 7 janvier 2011 - art. 6 (V)
 
 
-###### Article R562-7
+###### Article R561-35
 
-Conformément à la réglementation en vigueur, le ministre chargé de l'économie ou le ministre chargé du budget délivre aux
-fonctionnaires qui travaillent sous l'autorité ou dans le cadre du service à compétence nationale TRACFIN les habilitations
-qui leur sont nécessaires au titre de la protection des secrets relevant de la défense nationale.
+I. ― Peuvent seuls être affectés au service TRACFIN les agents publics de l'Etat préalablement habilités. 
+
+II. ― Les agents affectés au service TRACFIN ou travaillant sous l'autorité de ce service sont, si nécessaire, habilités
+conformément à la réglementation en vigueur relative à la protection des secrets de la défense nationale. 
+
+III. ― Les habilitations prévues au I et II sont délivrées aux agents par le ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Code monétaire et financier - art. D562-7 (T)
+	  - Arrêté du 7 janvier 2011 - art. 1 (V)
 
 
-###### Article R562-8
+###### Article R561-36
 
-Peuvent seuls être affectés au service à compétence nationale TRACFIN les agents publics de l'Etat ayant reçu une
-habilitation préalable délivrée par le ministre chargé de l'économie ou par le ministre chargé du budget.
+I. ― Le service TRACFIN notifie par écrit, directement et par tout moyen, auprès de la personne désignée en application du I
+de l'article R. 561-23, son opposition à la réalisation d'une transaction. 
 
-Le ministre de l'intérieur désigne, parmi les agents affectés au service chargé de la répression de la grande délinquance
-financière, les officiers de police judiciaire mentionnés à l'article L. 563-5.
+II. ― Pour l'avocat au Conseil d'Etat et à la Cour de cassation, l'avocat, sauf lorsqu'il agit en qualité de fiduciaire, et
+l'avoué, la notification est faite, dans les mêmes conditions qu'au I, selon le cas, au président de l'ordre des avocats au
+Conseil d'Etat et à la Cour de cassation, au bâtonnier de l'ordre auprès duquel l'avocat est inscrit ou au président de la
+compagnie dont relève l'avoué. Ces autorités transmettent sans délai la notification de l'opposition à la personne
+concernée. 
 
-Le service à compétence nationale TRACFIN et le service mentionné à l'alinéa précédent se communiquent mutuellement la liste,
-tenue à jour, des agents qui ont reçu l'habilitation prévue à l'article L. 562-4 ou qui ont été désignés conformément aux
-dispositions du deuxième alinéa de l'article L. 563-5. Ces listes et leur mise à jour sont également communiquées pour
-information au ministre de la justice.
+III. ― La requête du service TRACFIN auprès du président du tribunal de grande instance de Paris est dispensée, par
+dérogation à l'article 813 du code de procédure civile, de l'obligation de présentation par un avocat ou par un officier
+public ou ministériel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Code monétaire et financier - art. D562-8 (T)
+	  - Code monétaire et financier - art. R745-10 (V)
+	  - Code monétaire et financier - art. R755-10 (V)
+	  - Code monétaire et financier - art. R765-10 (VD)
+
+
+###### Article R561-37
+
+I. ― Pour l'application du premier alinéa du I de l'article L. 561-28, le service TRACFIN informe, par écrit et par tout
+moyen, la personne désignée en application du I de l'article R. 561-23 de la transmission au procureur de la République de la
+note d'information mentionnée au II de l'article L. 561-23, dans un délai de quinze jours à compter de cette transmission. 
+
+II. ― Pour l'application du deuxième alinéa du I de l'article L. 561-28, le service informe le président de l'ordre des
+avocats au Conseil d'Etat et à la Cour de cassation, le bâtonnier de l'ordre des avocats ou le président de la compagnie des
+avoués de la transmission de la déclaration au procureur de la République, dans les mêmes conditions qu'au I du présent
+article. 
+
+Ces autorités transmettent cette information, sans délai, à la personne concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L562-4
-	  - Code monétaire et financier - art. L563-5
+	  - Code monétaire et financier - art. L561-23
+	  - Code monétaire et financier - art. L561-28
+	  - Code monétaire et financier - art. R561-23
 
+
+##### Section 6 :  Procédures et contrôle interne 
+
+
+###### Article R561-38
+
+I. ― Pour l'application de l'article L. 561-32, les personnes mentionnées aux 1° à 7° de l'article L. 561-2, à l'exception de
+celles sur lesquelles l'Autorité des marchés financiers exerce un pouvoir de contrôle et de sanction en vertu du 2° du I de
+l'article L. 561-36 : 
+
+1° Désignent un membre de la direction comme responsable de la mise en œuvre du dispositif prévu à l'article L. 561-32 ; 
+
+2° Elaborent une classification des risques de blanchiment des capitaux et de financement du terrorisme présentés par leurs
+activités, selon le degré d'exposition à ces risques apprécié en fonction notamment de la nature des produits ou des services
+offerts, des conditions des transactions proposées, des canaux de distribution utilisés ainsi que des caractéristiques des
+clients ; 
+
+3° Déterminent, si besoin est, un profil de la relation d'affaires avec le client, permettant de détecter des anomalies dans
+cette relation, au regard des risques de blanchiment de capitaux ou de financement du terrorisme ; 
+
+4° Définissent les procédures à appliquer pour le contrôle des risques, la mise en œuvre des mesures de vigilance relatives à
+la clientèle, la conservation des pièces, la détection des transactions inhabituelles ou suspectes et le respect de
+l'obligation de déclaration au service TRACFIN ; 
+
+5° Mettent en œuvre des procédures de contrôle, périodique et permanent, des risques de blanchiment de capitaux et de
+financement du terrorisme ; 
+
+6° Prennent en compte, dans le recrutement de leur personnel, selon le niveau des responsabilités exercées, les risques au
+regard de la lutte contre le blanchiment de capitaux et le financement du terrorisme. 
+
+Un arrêté du ministre chargé de l'économie précise les modalités de mise en œuvre de ces procédures et de ces mesures de
+contrôle interne. 
+
+II. ― Les intermédiaires d'assurances assujettis aux obligations de vigilance et de déclaration en vertu du 2° de l'article
+L. 561-2 et les personnes mentionnées au 5° du même article ne mettent en œuvre les procédures et mesures prévues au I que si
+elles sont compatibles avec leur statut, leurs missions et leur niveau d'activité et dans des conditions définies par un
+arrêté du ministre chargé de l'économie. 
+
+III. ― Les personnes mentionnées à l'article L. 561-2 autres que celles mentionnées au I et au II du présent article mettent
+en œuvre les procédures et les mesures de contrôle interne en matière de lutte contre le blanchiment des capitaux et le
+financement du terrorisme définies par leurs autorités de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-586 du 30 mai 1997 - art. 7 (Ab)
+	  - Arrêté du 10 novembre 2009 (V)
+	  - Décret n°2012-432 du 30 mars 2012 - art. 29 (V)
+	  - Code de commerce - art. A823-37 (V)
+	  - Code de commerce - art. Annexe 8-9 (V)
+	  - Code de la mutualité - art. A114-2 (V)
+	  - Code de la sécurité sociale. - art. A951-3-3 (V)
+	  - Code des assurances - art. A310-7 (V)
+	  - Code des assurances - art. A310-8 (V)
+	  - Code des assurances - art. A310-9 (V)
+	  - Code monétaire et financier - art. R561-20 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+	  - Code monétaire et financier - art. L561-32
+	  - Code monétaire et financier - art. L561-36
+
+
+#### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite.
 
 ##### Section 3 : Comité de liaison de la lutte contre le blanchiment des produits des crimes et délits et de la lutte contre le financement des activités terroristes.
 
@@ -95378,524 +96408,72 @@ extraordinaire sur une question importante et urgente.
 	  - Décret n°2010-69 du 18 janvier 2010 - art. 1
 
 
-#### Chapitre III : Autres obligations de vigilance.
+#### Chapitre II : Obligations relatives au gel des avoirs
 
-###### Article R563-1
+###### Article R562-2
 
-I. - Est considérée comme client occasionnel pour l'application de l'article L. 563-1 la personne qui s'adresse à un
-organisme financier ou à une personne mentionnés à l'article L. 562-1 dans le but exclusif de réaliser une opération
-ponctuelle. Ces organismes financiers et ces personnes vérifient l'identité de leur client occasionnel avant de réaliser une
-opération ponctuelle lorsque son montant excède 8 000 euros, qu'elle soit effectuée en une seule ou en plusieurs opérations
-entre lesquelles un lien semble exister.
-
-Cependant, lorsqu'ils réalisent une opération de transfert de fonds pour un client occasionnel, lorsqu'ils ouvrent un compte
-ou un livret ou offrent des services de garde des avoirs ou lorsqu'ils concluent tout contrat d'assurance ou de
-capitalisation donnant lieu à la constitution d'une provision mathématique, les organismes financiers procèdent à la
-vérification d'identité quel que soit le montant.
-
-Les personnes mentionnées au 9 et au 13 de l'article L. 562-1 ne procèdent à l'identification qu'en cas de règlement en
-espèces d'un montant supérieur à 3 000 euros.
-
-Pour les sommes ou opérations mentionnées à l'article L. 562-2, la vérification d'identité a lieu même si le montant de
-l'opération ponctuelle est inférieur au seuil.
-
-II. - Pour l'application de l'article L. 563-1, les organismes financiers et les personnes mentionnés à l'article L. 562-1
-vérifient l'identité d'une personne physique par la présentation d'un document officiel en cours de validité portant sa
-photographie. Ils conservent la copie de ce document ou ses références. Les mentions relatives à l'identité à vérifier
-comprennent les nom, prénoms ainsi que les date et lieu de naissance. Outre ces mentions, les références à conserver incluent
-la nature, le numéro, les date et lieu de délivrance du document ainsi que le nom de l'autorité ou personne qui l'a délivré
-ou authentifié.
-
-Pour les personnes morales, les organismes financiers et les personnes mentionnés à l'article L. 562-1 demandent la
-présentation de l'original ou l'expédition ou la copie certifiée conforme de tout acte ou extrait de registre officiel
-constatant la dénomination, la forme juridique et le siège social. Ils en conservent les références ou la copie.
-
-Les organismes financiers et les personnes mentionnés à l'article L. 562-1 s'assurent, selon les modalités prévues aux deux
-alinéas précédents, de l'identité et des pouvoirs des personnes agissant au nom de leur cocontractant avec lesquelles ils
-sont en relation. Ils conservent les références ou la copie des documents obtenus.
-
-III. - La vérification de l'identité des personnes physiques peut ne pas avoir lieu en présence de la personne à identifier.
-Dans ce cas, outre l'obtention d'une copie du document exigé au II, les organismes financiers et les personnes mentionnés à
-l'article L. 562-1 prennent les dispositions spécifiques et adéquates nécessaires, en adoptant des mesures parmi l'une au
-moins des quatre catégories de mesures suivantes :
-
-1° Obtenir des pièces justificatives supplémentaires permettant d'établir l'identité du cocontractant ;
-
-2° Mettre en oeuvre des mesures de vérification et de certification de la copie de la pièce officielle d'identité mentionnée
-au II par un tiers indépendant de la personne à identifier ;
-
-3° Exiger que le premier paiement des opérations soit effectué par un compte ouvert au nom du client auprès d'un organisme
-financier établi dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen ;
-
-4° Obtenir une attestation de confirmation de l'identité d'un client de la part d'un organisme financier établi dans un Etat
-membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen. L'attestation
-mentionne les éléments d'identification cités au II, est adressée directement par cet organisme à la personne demandant
-l'identification et précise le nom et les coordonnées du représentant de l'organisme l'ayant délivrée. Cette attestation peut
-également être obtenue d'un organisme financier établi sur le territoire d'un Etat figurant sur la liste établie conformément
-aux dispositions du quatrième alinéa du IV, qui est en relation d'affaires suivie avec l'organisme financier ou la personne
-mentionnés à l'article L. 562-1 établis en France et qui déclare avoir procédé à des mesures d'identification équivalentes à
-celles applicables en France.
-
-Les organismes financiers et les personnes mentionnés à l'article L. 562-1 conservent les documents et les résultats obtenus
-à la suite des vérifications.
-
-Pour l'ouverture d'un compte, la mesure prévue au 3° ne constitue pas une disposition suffisante et doit être accompagnée
-d'une autre mesure parmi celles énumérées ci-dessus. Les règlements professionnels ou administratifs prévus à l'article L.
-566-3 (1) précisent en tant que de besoin quelles mesures ou combinaison de mesures parmi celles prévues ci-dessus sont
-spécifiquement nécessaires pour certaines catégories d'opérations.
-
-IV. - Lorsqu'il apparaît aux organismes financiers et aux personnes mentionnés à l'article L. 562-1 que leur cocontractant
-pourrait ne pas agir pour son propre compte, ils se renseignent sur l'identité du bénéficiaire effectif des transactions
-réalisées ou envisagées. Au sens de ce chapitre, est considérée comme bénéficiaire effectif la personne pour le compte de
-laquelle l'opération est en réalité effectuée ou demandée.
-
-Ils demandent à cet effet la présentation de tout document ou justificatif qu'ils estiment nécessaires et en conservent les
-références ou la copie.
-
-Pour les fiducies et les autres structures similaires de gestion d'un patrimoine d'affectation, les bénéficiaires effectifs
-sont les constituants, les fiduciaires et les bénéficiaires de la structure ainsi que toute personne exerçant un pouvoir de
-décision sur le fonctionnement de cette structure.
-
-Les organismes financiers et les personnes mentionnés à l'article L. 562-1 n'ont pas à identifier le bénéficiaire effectif
-lorsque le cocontractant est un organisme financier établi dans un Etat membre de la Communauté européenne, dans un autre
-Etat partie à l'accord sur l'Espace économique européen ou dans un Etat qui impose des obligations équivalentes à celles qui
-s'appliquent aux organismes financiers français en matière de lutte contre le blanchiment et contre le financement du
-terrorisme. Le ministre chargé de l'économie détermine par arrêté la liste de ces derniers Etats. Les Etats membres de
-l'instance internationale de concertation et de coordination en matière de lutte contre le blanchiment d'argent figurent sur
-cette liste à moins que le ministre constate que l'équivalence n'est pas satisfaite.
-
-Lorsque le cocontractant est un organisme financier établi dans un Etat non mentionné à l'alinéa précédent, l'obligation
-d'identification du bénéficiaire effectif est réputée satisfaite si l'organisme financier étranger est la filiale d'un
-organisme financier ayant son siège social dans l'un des Etats mentionnés à l'alinéa précédent et que la société mère atteste
-à l'organisme financier français ou à la personne française mentionné à l'article L. 562-1, d'une part, qu'elle vérifie
-l'application par sa filiale de l'identification du bénéficiaire effectif et, d'autre part, qu'elle a la possibilité
-d'accéder aux éléments d'identification.
-
-Lorsque le cocontractant est un organisme financier qui ne répond pas aux conditions fixées aux deux alinéas précédents,
-l'obligation d'identification du bénéficiaire effectif est réputée satisfaite si l'organisme financier français ou la
-personne française mentionnés à l'article L. 562-1 s'assure que l'organisme financier étranger applique des procédures
-d'identification équivalentes à celles des Etats membres et si l'organisme financier français ou la personne française
-mentionnés à l'article L. 562-1 a accès à l'identité des bénéficiaires effectifs. Toutefois, l'organisme financier français
-ou la personne française mentionnés à l'article L. 562-1 ne peut pas bénéficier de cette présomption si l'organisme financier
-étranger est établi dans un pays tiers :
-
-1° Soit qui a fait l'objet d'une décision de la Commission européenne constatant qu'il n'impose pas d'obligations
-équivalentes à celles des Etats membres ;
-
-2° Soit dont l'instance internationale mentionnée au quatrième alinéa a considéré la législation comme insuffisante ou les
-pratiques comme faisant obstacle à la lutte contre le blanchiment des capitaux.
-
-Les exceptions et présomptions prévues aux cinq alinéas précédents ne s'appliquent pas lorsque le cocontractant est un
-changeur manuel, un intermédiaire en biens divers, un démarcheur, un conseiller en investissements financiers ou relève d'une
-profession étrangère équivalente.
-
-**Nota:**
-
-L'article L565-3 du code monétaire et financier a été transféré à l'article L566-3 du même code par l'article 36 de la loi n°
-2007-297 du 5 mars 2007 JORF 7 mars 2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°91-160 du 13 février 1991 - art. 3 (M)
-	  - Décret n°91-160 du 13 février 1991 - art. 3 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 23 mars 1992 - art. 1 (V)
-	  - Arrêté du 21 juillet 2006 - art. 1 (Ab)
-	  - Code de la mutualité - art. A510-3 (V)
-	  - Code de la sécurité sociale. - art. A951-3-3 (V)
-	  - Code des assurances - art. A310-5 (V)
-	  - Code monétaire et financier - art. R563-3 (M)
-	  - Code monétaire et financier - art. R564-1 (M)
-	  - Code monétaire et financier - art. R735-10 (M)
-	  - Code monétaire et financier - art. R765-10 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L562-1
-	  - Code monétaire et financier - art. L562-2
-	  - Code monétaire et financier - art. L563-1
-	  - Code monétaire et financier - art. L566-3
-
-
-###### Article R563-2
-
-La somme prévue à l'article L. 563-3 est de 150 000 euros.
-
-L'organisme financier ou la personne mentionnés à l'article L. 562-1 prend les mesures d'organisation nécessaires pour être à
-même de communiquer dans les meilleurs délais au service à compétence nationale TRACFIN ou à l'autorité de contrôle si cette
-dernière existe pour la profession, sur leur demande, les documents écrits mentionnés au deuxième alinéa de l'article L.
-563-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°91-160 du 13 février 1991 - art. 4 (M)
-	  - Décret n°91-160 du 13 février 1991 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L562-1
-	  - Code monétaire et financier - art. L563-3
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R562-2 (V)
-	  - Code monétaire et financier - art. R563-3 (M)
-	  - Code monétaire et financier - art. R564-1 (M)
-	  - Code monétaire et financier - art. R735-10 (M)
-	  - Code monétaire et financier - art. R765-10 (M)
-
-
-###### Article R563-3
-
-Les organismes financiers et les personnes mentionnés à l'article L. 562-1 adoptent des procédures internes adaptées à leurs
-activités destinées à mettre en oeuvre les obligations de lutte contre le blanchiment des capitaux et le financement du
-terrorisme prévues par le présent titre VI, ainsi qu'un dispositif de contrôle interne destiné à assurer le respect des
-procédures. Ces procédures, qui sont consignées par écrit, organisent une vigilance constante destinée à permettre la
-détection des opérations devant faire l'objet d'un examen particulier ou d'une déclaration.
-
-Les procédures mentionnées au premier alinéa sont définies le cas échéant soit par arrêté du ministre compétent, soit par des
-règlements professionnels homologués par le ministre compétent, soit par le règlement général de l'Autorité des marchés
-financiers. Les organismes financiers et les personnes mentionnés à l'article L. 562-1 assurent la formation et l'information
-de tous les membres concernés de leur personnel.
-
-Lorsqu'une personne physique relevant de l'article L. 562-1 exerce son activité professionnelle au sein d'une structure dotée
-de la personnalité morale, les obligations fixées par le présent article s'imposent exclusivement à la personne morale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°91-160 du 13 février 1991 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L562-1
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R564-1 (M)
-	  - Code monétaire et financier - art. R735-10 (M)
-	  - Code monétaire et financier - art. R765-10 (M)
-
-
-###### Article R563-4
-
-Les personnes mentionnées au 12 de l'article L. 562-1 n'appliquent les dispositions du présent chapitre que lorsque, dans le
-cadre de leur activité non juridictionnelle, elles réalisent au nom et pour le compte de leur client toute transaction
-financière ou immobilière ou lorsqu'elles participent en assistant leur client à la préparation ou à la réalisation des
-transactions concernant :
-
-1° L'achat et la vente de biens immeubles ou de fonds de commerce ;
-
-2° La gestion de fonds, titres ou autres actifs appartenant au client ;
-
-3° L'ouverture de comptes bancaires, d'épargne ou de titres ;
-
-4° L'organisation des apports nécessaires à la création de sociétés ;
-
-5° La constitution, la gestion ou la direction de sociétés ;
-
-6° La constitution, la gestion ou la direction de fiducies de droit étranger ou de toute autre structure similaire.
-
-**Nota:**
-
-Conseil d'Etat, décision n° 296845 en date du 10 avril 2008 , art. 3 : Le III de l'article 2 du décret du 26 juin 2006
-relatif à la lutte contre le blanchiment de capitaux et modifiant le code monétaire et financier, qui introduit un article R.
-563-4 rappelant les obligations imposées par le chapitre III au personnes mentionnées au 12 de l'article L. 562-1, est annulé
-en tant qu'il n'a pas assorti ce rappel des réserves relatives aux informations que ces personnes détiennent ou reçoivent
-dans le cadre d'une consultation juridique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L562-1
-
-
-#### Chapitre IV : Dispositions relatives à la lutte contre le financement des activités terroristes.
-
-###### Article R564-2
-
-Pour l'application des mesures visées à l'article L. 564-2 :
+Pour l'application des mesures visées à l'article L. 564-2 : 
 
 1° Les organismes et personnes mentionnés à l'article L. 564-1 qui détiennent ou reçoivent des fonds, des instruments
 financiers ou des ressources économiques mentionnés à ce même article pour le compte d'un client habituel ou occasionnel
 faisant l'objet d'une mesure de gel mettent immédiatement en oeuvre cette mesure et en informent sans délai le ministre
-chargé de l'économie.
+chargé de l'économie. 
 
 2° Les organismes et personnes mentionnés à l'article L. 564-1 qui reçoivent l'ordre d'un client habituel ou occasionnel,
 autre qu'un organisme ou une personne mentionné à l'article L. 564-1, d'exécuter pour son compte un transfert hors de France
 de fonds, d'instruments financiers ou de ressources économiques mentionnés à ce même article au profit d'une personne faisant
-l'objet d'une mesure de gel en informent sans délai le ministre chargé de l'économie.
+l'objet d'une mesure de gel en informent sans délai le ministre chargé de l'économie. 
 
-Ils suspendent l'exécution de cet ordre jusqu'à une autorisation ultérieure du ministre chargé de l'économie.
+Ils suspendent l'exécution de cet ordre jusqu'à une autorisation ultérieure du ministre chargé de l'économie. 
 
 Le ministre chargé de l'économie peut, le cas échéant, autoriser la restitution des fonds, instruments financiers ou
-ressources économiques au donneur d'ordre.
+ressources économiques au donneur d'ordre. 
 
 3° Les organismes et personnes mentionnés à l'article L. 564-1 qui reçoivent de l'étranger des fonds, des instruments
 financiers ou des ressources économiques mentionnés au même article d'une personne faisant l'objet d'une mesure de gel au
 profit d'un client habituel ou occasionnel, autre qu'un organisme financier ou une personne mentionné à l'article L. 564-1,
 en informent sans délai le ministre chargé de l'économie. Toutefois, dans le cas d'un transfert en provenance d'un pays de la
 Communauté européenne, cette obligation ne s'applique pas s'ils n'ont pas connaissance de l'identité du donneur d'ordre par
-application du paragraphe 1 de l'article 6 du règlement (CE) n° 1781/2006 du Parlement et du Conseil du 15 novembre 2006
-relatif aux informations concernant le donneur d'ordre accompagnant les virements de fonds.
+application du paragraphe 1 de l'article 6 du règlement (CE) n° 1781 / 2006 du Parlement et du Conseil du 15 novembre 2006
+relatif aux informations concernant le donneur d'ordre accompagnant les virements de fonds. 
 
-Ils suspendent l'exécution de cet ordre jusqu'à une autorisation ultérieure du ministre chargé de l'économie.
+Ils suspendent l'exécution de cet ordre jusqu'à une autorisation ultérieure du ministre chargé de l'économie. 
 
 Ils ne versent les fonds, instruments financiers ou ressources économiques au bénéficiaire que sur autorisation préalable du
 ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+	  - Décret n°91-160 du 13 février 1991 - art. 5 (Ab)
+	  - Code monétaire et financier - art. R564-2 (T)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-545 du 11 avril 2007 - art. 2 () JORF 13 avril 2007
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
 
-	**Liens**:
+	**Cité par**:
 
-	  - TRANSFERE: Décret n°2009-1087 du 2 septembre 2009 - art. 1
+	  - Code de la mutualité - art. A510-3 (V)
+	  - Code des assurances - art. A310-7 (V)
+	  - Code monétaire et financier - art. R562-2-1 (Ab)
+	  - Code monétaire et financier - art. R563-3 (M)
+	  - Code monétaire et financier - art. R564-1 (M)
+	  - Code monétaire et financier - art. R564-4 (T)
+	  - Code monétaire et financier - art. R565-4 (Ab)
+	  - Code monétaire et financier - art. R735-10 (Ab)
+	  - Code monétaire et financier - art. R745-10 (V)
+	  - Code monétaire et financier - art. R755-10 (V)
+	  - Code monétaire et financier - art. R765-10 (V)
 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L564-1
 	  - Code monétaire et financier - art. L564-2
-	  - Règlement (CE) 1781-2006 2006-11-15 art. 6
 
-	**Nouveaux textes**:
 
-	  - Code monétaire et financier - art. R562-2 (V)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R735-10 (Ab)
-	  - Code monétaire et financier - art. R745-10 (V)
-	  - Code monétaire et financier - art. R755-10 (V)
-	  - Code monétaire et financier - art. R765-10 (V)
-
-
-#### Chapitre V : Dispositions diverses.
-
-###### Article D565-3
-
-Les dispositions du deuxième alinéa de l'article L. 564-1 s'appliquent à partir d'un montant de 5 000 euros. Ce montant
-s'apprécie par référence au gain produit pour chaque type de jeu, par prise de jeu, ou pour chaque type de pari, par unité de
-mise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier - art. D564-3 (T)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L564-1
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R735-10 (Ab)
-	  - Code monétaire et financier - art. R745-10 (V)
-	  - Code monétaire et financier - art. R755-10 (V)
-	  - Code monétaire et financier - art. R765-10 (V)
-
-
-###### Article R565-1
-
-Les arrêtés ministériels ou les règlements professionnels homologués par le ministre compétent ou les dispositions du
-règlement général de l'Autorité des marchés financiers pris pour l'application du titre VI du livre V tiennent compte de la
-situation particulière de chaque catégorie d'organismes financiers ou de personnes mentionnés à l'article L. 562-1 ainsi que
-de la nature de leur activité.
-
-Le ministre chargé de l'économie arrête les modalités d'application des obligations de vigilance des organismes financiers
-mentionnés aux 1 et 6 de l'article L. 562-1 et à l'article L. 611-3 dans les conditions prévues aux articles L. 524-2, L.
-611-1 et L. 611-3.
-
-Le contrôle de l'inspection générale des finances sur La Poste prévu à l'article L. 566-3 est exercé en liaison avec
-l'inspection générale des postes et télécommunications.
-
-Les changeurs manuels résidant dans les départements d'outre-mer adressent leur déclaration d'activité à l'Institut
-d'émission des départements d'outre-mer ; ceux qui résident en Nouvelle-Calédonie, en Polynésie française et dans les îles
-Wallis et Futuna adressent leur déclaration d'activité à l'Institut d'émission d'outre-mer.
-
-**Nota:**
-
-L'article L565-3 du code de commerce a été transféré à l'article L566-3 du même code par l'article 36 de la loi n° 2007-297
-du 5 mars 2007 JORF 7 mars 2007.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 10
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L520-2
-	  - Code monétaire et financier - art. L562-1
-	  - Code monétaire et financier - art. L566-3
-	  - Code monétaire et financier - art. L611-1
-	  - Code monétaire et financier - art. L611-3
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier - art. R564-1 (T)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R735-10 (Ab)
-	  - Code monétaire et financier - art. R745-10 (V)
-	  - Code monétaire et financier - art. R755-10 (V)
-	  - Code monétaire et financier - art. R765-10 (V)
-
-
-###### Article R565-2-1
-
-Les informations portées sur le registre prévu à l'article L. 565-1 ne peuvent être utilisées qu'à des fins de lutte contre
-le blanchiment et le financement du terrorisme. Ces informations font mention des sommes apportées ou échangées par le
-joueur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L565-1
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier - art. R564-2-1 (T)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R735-10 (Ab)
-	  - Code monétaire et financier - art. R765-10 (V)
-
-
-###### Article R565-4
-
-Pour l'application du deuxième alinéa de l'article L. 562-6, le service à compétence nationale TRACFIN informe les personnes
-habilitées, mentionnées à l'article R. 562-2, de la saisine du procureur de la République dans un délai de deux semaines
-après cette saisine. L'information est effectuée par envoi recommandé avec accusé de réception ou par tout autre moyen
-sécurisé accepté par les deux parties.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-	**Créé par**:
-
-	  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L562-6
-	  - Code monétaire et financier - art. R562-2
-
-	**Anciens textes**:
-
-	  - Code monétaire et financier - art. R564-4 (M)
-	  - Code monétaire et financier - art. R564-4 (T)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R735-10 (Ab)
-	  - Code monétaire et financier - art. R745-10 (V)
-	  - Code monétaire et financier - art. R755-10 (V)
-	  - Code monétaire et financier - art. R765-10 (V)
-
+##### Section 3 : Comité de liaison de la lutte contre le blanchiment des produits des crimes et délits et de la lutte contre le financement des activités terroristes.
 
 ### Titre VII : Dispositions pénales
 
