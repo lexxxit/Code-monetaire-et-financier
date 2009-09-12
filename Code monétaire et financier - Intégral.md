@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-09-05
+Version Consolidée au 2009-09-13
 
 # Partie législative
 
@@ -92585,6 +92585,89 @@ société.
 	  - Code monétaire et financier - art. R518-68 (V)
 
 
+### Titre II : Les changeurs manuels
+
+###### Article D520-1
+
+Ne constituent pas l'exercice de la profession de changeur manuel : 
+
+1.L'activité de change manuel par les personnes citées à l'article L. 561-2, autres que celles mentionnées au 1° et au 7° de
+l'article L. 561-2, lorsque la somme de leurs opérations d'achat et de vente de devises n'excède pas la contre-valeur de 100
+000 euros au cours d'un même exercice comptable ; 
+
+2.L'activité de change manuel par les personnes autres que celles mentionnées à l'article L. 561-2 lorsqu'elle est exercée
+dans les conditions suivantes :
+
+- l'activité bénéficie aux seuls clients de l'activité professionnelle principale et en lien direct avec cette activité
+principale ;
+
+- la somme des opérations d'achat et de vente de devises effectuées sur un exercice comptable est inférieure à une contre-
+valeur de 50 000 euros et ne dépasse pas 5 % du chiffre d'affaires réalisé pour l'ensemble des activités sur le même exercice
+comptable ;
+
+- le montant en valeur absolue de chaque opération de change manuel n'excède pas 1 000 euros, que celle-ci soit effectuée en
+une seule opération ou en plusieurs opérations apparaissant liées.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Décret n°2009-934 du 29 juillet 2009 - art. 3
+
+	**Créé par**:
+
+	  - Décret n°2009-1108 du 10 septembre 2009 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. D524-1 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-2
+
+
+###### Article D520-2
+
+I.-Pour l'application du c du I de l'article L. 520-3, les bénéficiaires effectifs sont :
+
+- les personnes physiques qui détiennent, directement ou indirectement, au moins 25 % du capital ou des droits de vote de la
+société ;
+
+- les personnes physiques qui exercent par tout autre moyen un pouvoir de contrôle sur les organes de gestion,
+d'administration ou de direction de la société ou encore sur l'assemblée générale des associés. 
+
+II.-Les dirigeants et les bénéficiaires effectifs mentionnés au c du I de l'article L. 520-3 justifient auprès du comité des
+établissements de crédit et des entreprises d'investissement de leur compétence selon l'une des modalités suivantes :
+
+- avoir préalablement exercé une activité de change manuel chez un changeur manuel pendant au moins six mois ;
+
+- disposer, dans les domaines de la comptabilité ou des activités bancaires ou d'autres activités financières, d'une
+expérience d'au moins six mois ou d'une formation qualifiante. 
+
+En outre, un arrêté prévoit les modalités selon lesquelles le comité des établissements de crédit et des entreprises
+d'investissement s'assure de l'honorabilité des mêmes personnes au regard notamment de l'article L. 500-1.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Décret n°2009-934 du 29 juillet 2009 - art. 3
+
+	**Créé par**:
+
+	  - Décret n°2009-1108 du 10 septembre 2009 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. D524-2 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L500-1
+	  - Code monétaire et financier - art. L520-3
+
+
 ### Titre III : Les prestataires de services d'investissement
 
 #### Chapitre Ier : Définitions.
@@ -96240,7 +96323,70 @@ financement du terrorisme définies par leurs autorités de contrôle.
 	  - Code monétaire et financier - art. L561-36
 
 
-#### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite.
+#### Chapitre II : Obligations relatives au gel des avoirs
+
+###### Article R562-2
+
+Pour l'application des mesures visées à l'article L. 564-2 : 
+
+1° Les organismes et personnes mentionnés à l'article L. 564-1 qui détiennent ou reçoivent des fonds, des instruments
+financiers ou des ressources économiques mentionnés à ce même article pour le compte d'un client habituel ou occasionnel
+faisant l'objet d'une mesure de gel mettent immédiatement en oeuvre cette mesure et en informent sans délai le ministre
+chargé de l'économie. 
+
+2° Les organismes et personnes mentionnés à l'article L. 564-1 qui reçoivent l'ordre d'un client habituel ou occasionnel,
+autre qu'un organisme ou une personne mentionné à l'article L. 564-1, d'exécuter pour son compte un transfert hors de France
+de fonds, d'instruments financiers ou de ressources économiques mentionnés à ce même article au profit d'une personne faisant
+l'objet d'une mesure de gel en informent sans délai le ministre chargé de l'économie. 
+
+Ils suspendent l'exécution de cet ordre jusqu'à une autorisation ultérieure du ministre chargé de l'économie. 
+
+Le ministre chargé de l'économie peut, le cas échéant, autoriser la restitution des fonds, instruments financiers ou
+ressources économiques au donneur d'ordre. 
+
+3° Les organismes et personnes mentionnés à l'article L. 564-1 qui reçoivent de l'étranger des fonds, des instruments
+financiers ou des ressources économiques mentionnés au même article d'une personne faisant l'objet d'une mesure de gel au
+profit d'un client habituel ou occasionnel, autre qu'un organisme financier ou une personne mentionné à l'article L. 564-1,
+en informent sans délai le ministre chargé de l'économie. Toutefois, dans le cas d'un transfert en provenance d'un pays de la
+Communauté européenne, cette obligation ne s'applique pas s'ils n'ont pas connaissance de l'identité du donneur d'ordre par
+application du paragraphe 1 de l'article 6 du règlement (CE) n° 1781 / 2006 du Parlement et du Conseil du 15 novembre 2006
+relatif aux informations concernant le donneur d'ordre accompagnant les virements de fonds. 
+
+Ils suspendent l'exécution de cet ordre jusqu'à une autorisation ultérieure du ministre chargé de l'économie. 
+
+Ils ne versent les fonds, instruments financiers ou ressources économiques au bénéficiaire que sur autorisation préalable du
+ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-160 du 13 février 1991 - art. 5 (Ab)
+	  - Code monétaire et financier - art. R564-2 (T)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. A510-3 (V)
+	  - Code des assurances - art. A310-7 (V)
+	  - Code monétaire et financier - art. R562-2-1 (Ab)
+	  - Code monétaire et financier - art. R563-3 (M)
+	  - Code monétaire et financier - art. R564-1 (M)
+	  - Code monétaire et financier - art. R564-4 (T)
+	  - Code monétaire et financier - art. R565-4 (Ab)
+	  - Code monétaire et financier - art. R735-10 (Ab)
+	  - Code monétaire et financier - art. R745-10 (V)
+	  - Code monétaire et financier - art. R755-10 (V)
+	  - Code monétaire et financier - art. R765-10 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L564-1
+	  - Code monétaire et financier - art. L564-2
+
 
 ##### Section 3 : Comité de liaison de la lutte contre le blanchiment des produits des crimes et délits et de la lutte contre le financement des activités terroristes.
 
@@ -96407,73 +96553,6 @@ extraordinaire sur une question importante et urgente.
 
 	  - Décret n°2010-69 du 18 janvier 2010 - art. 1
 
-
-#### Chapitre II : Obligations relatives au gel des avoirs
-
-###### Article R562-2
-
-Pour l'application des mesures visées à l'article L. 564-2 : 
-
-1° Les organismes et personnes mentionnés à l'article L. 564-1 qui détiennent ou reçoivent des fonds, des instruments
-financiers ou des ressources économiques mentionnés à ce même article pour le compte d'un client habituel ou occasionnel
-faisant l'objet d'une mesure de gel mettent immédiatement en oeuvre cette mesure et en informent sans délai le ministre
-chargé de l'économie. 
-
-2° Les organismes et personnes mentionnés à l'article L. 564-1 qui reçoivent l'ordre d'un client habituel ou occasionnel,
-autre qu'un organisme ou une personne mentionné à l'article L. 564-1, d'exécuter pour son compte un transfert hors de France
-de fonds, d'instruments financiers ou de ressources économiques mentionnés à ce même article au profit d'une personne faisant
-l'objet d'une mesure de gel en informent sans délai le ministre chargé de l'économie. 
-
-Ils suspendent l'exécution de cet ordre jusqu'à une autorisation ultérieure du ministre chargé de l'économie. 
-
-Le ministre chargé de l'économie peut, le cas échéant, autoriser la restitution des fonds, instruments financiers ou
-ressources économiques au donneur d'ordre. 
-
-3° Les organismes et personnes mentionnés à l'article L. 564-1 qui reçoivent de l'étranger des fonds, des instruments
-financiers ou des ressources économiques mentionnés au même article d'une personne faisant l'objet d'une mesure de gel au
-profit d'un client habituel ou occasionnel, autre qu'un organisme financier ou une personne mentionné à l'article L. 564-1,
-en informent sans délai le ministre chargé de l'économie. Toutefois, dans le cas d'un transfert en provenance d'un pays de la
-Communauté européenne, cette obligation ne s'applique pas s'ils n'ont pas connaissance de l'identité du donneur d'ordre par
-application du paragraphe 1 de l'article 6 du règlement (CE) n° 1781 / 2006 du Parlement et du Conseil du 15 novembre 2006
-relatif aux informations concernant le donneur d'ordre accompagnant les virements de fonds. 
-
-Ils suspendent l'exécution de cet ordre jusqu'à une autorisation ultérieure du ministre chargé de l'économie. 
-
-Ils ne versent les fonds, instruments financiers ou ressources économiques au bénéficiaire que sur autorisation préalable du
-ministre chargé de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°91-160 du 13 février 1991 - art. 5 (Ab)
-	  - Code monétaire et financier - art. R564-2 (T)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1087 du 2 septembre 2009 - art. 1
-
-	**Cité par**:
-
-	  - Code de la mutualité - art. A510-3 (V)
-	  - Code des assurances - art. A310-7 (V)
-	  - Code monétaire et financier - art. R562-2-1 (Ab)
-	  - Code monétaire et financier - art. R563-3 (M)
-	  - Code monétaire et financier - art. R564-1 (M)
-	  - Code monétaire et financier - art. R564-4 (T)
-	  - Code monétaire et financier - art. R565-4 (Ab)
-	  - Code monétaire et financier - art. R735-10 (Ab)
-	  - Code monétaire et financier - art. R745-10 (V)
-	  - Code monétaire et financier - art. R755-10 (V)
-	  - Code monétaire et financier - art. R765-10 (V)
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L564-1
-	  - Code monétaire et financier - art. L564-2
-
-
-##### Section 3 : Comité de liaison de la lutte contre le blanchiment des produits des crimes et délits et de la lutte contre le financement des activités terroristes.
 
 ### Titre VII : Dispositions pénales
 
