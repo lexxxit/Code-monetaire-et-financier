@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-10-15
+Version Consolidée au 2009-10-20
 
 # Partie législative
 
@@ -28759,6 +28759,19 @@ motivée doit être adressée à la société et à l'Autorité des marchés fin
 public dans les mêmes conditions. Cette nouvelle déclaration fait courir à nouveau le délai de six mois mentionné au premier
 alinéa."
 
+" Art. L. 233-7-1 - Lorsque les actions de la société ont cessé d'être admises aux négociations sur un marché réglementé pour
+être admises aux négociations sur un système multilatéral de négociation qui se soumet aux dispositions législatives ou
+réglementaires visant à protéger les investisseurs contre les opérations d'initiés, les manipulations de cours et la
+diffusion de fausses informations, la personne tenue à l'information mentionnée au I de l'article L. 233-7 informe également
+l'Autorité des marchés financiers dans un délai et selon des modalités fixées par son règlement général, à compter du
+franchissement du seuil de participation, pendant une durée de trois ans à compter de la date à laquelle ces actions ont
+cessé d'être admises aux négociations sur un marché réglementé. Cette information est portée à la connaissance du public dans
+les conditions fixées par le règlement général de l'Autorité des marchés financiers.
+
+L'alinéa précédent est applicable aux sociétés dont la capitalisation boursière est inférieure à un milliard d'euros. 
+
+Le VII de l'article L. 233-7 est également applicable à la personne mentionnée au premier alinéa du présent article."
+
 " Art.L. 233-8-I.-Au plus tard dans les quinze jours qui suivent l'assemblée générale ordinaire, toute société par actions
 informe ses actionnaires du nombre total de droits de vote existant à cette date. Dans la mesure où, entre deux assemblées
 générales ordinaires, le nombre de droits de vote varie d'un pourcentage fixé par arrêté du ministre chargé de l'économie,
@@ -28899,14 +28912,12 @@ ordonnance entrent en vigueur neuf mois après sa publication au Journal officie
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-105 du 30 janvier 2009 - art. 2, art. 3, art. 4
+	  - Loi n°2009-1255 du 19 octobre 2009 - art. 11
 
 	**Cite**:
 
-	  - Code de commerce L233-7 à L233-14, L228-1, L228-3-3
 	  - Code de commerce. - art. L228-1 (M)
 	  - Code de commerce. - art. L228-3-3 (M)
-	  - Code monétaire et financier L233-14, L233-7, L233-3, L233-12
 
 
 ###### Article L451-2-1
