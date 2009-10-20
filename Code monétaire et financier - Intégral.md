@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-10-20
+Version Consolidée au 2009-10-21
 
 # Partie législative
 
@@ -689,6 +689,29 @@ personnes habilités à tenir des comptes sur lesquels des chèques peuvent êtr
 
 	  - Décret-loi 1935-10-30 art. 58
 	  - Décret-loi du 30 octobre 1935 - art. 58 (Ab)
+
+
+###### Article L131-1-1
+
+La date de valeur d'une opération de paiement par chèque libellée en euros ne peut différer de plus d'un jour ouvré de la
+date retenue pour sa comptabilisation sur un compte de dépôts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-1255 du 19 octobre 2009 - art. 17
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L741-2 (VD)
+	  - Code monétaire et financier - art. L751-1 (VT)
+	  - Code monétaire et financier - art. L751-2 (VD)
+	  - Code monétaire et financier - art. L761-1-1 (VD)
 
 
 ##### Section 2 : Création et forme du chèque
@@ -17343,7 +17366,9 @@ Les actifs de la SICAF sont conservés par un prestataire de services d'investis
 société de gestion, et choisi par la SICAF parmi les personnes morales agréées pour fournir le service de conservation
 d'instruments financiers pour compte de tiers. Ce prestataire est désigné dans les statuts de la SICAF. Il s'assure de la
 régularité des décisions de la SICAF et de la société de gestion dans des conditions prévues par décret. Il est regardé comme
-un dépositaire d'organisme de placement collectif pour l'application du 12° du II de l'article L. 621-9. 
+un dépositaire d'organisme de placement collectif pour l'application du 12° du II de l'article L. 621-9. Il est également
+regardé comme le dépositaire mentionné aux articles L. 225-5 à L. 225-7 et aux articles L. 225-13 et L. 225-15 du code de
+commerce. 
 
 La SICAF, le prestataire visé au premier alinéa et la société de gestion doivent agir de façon indépendante, au bénéfice
 exclusif des actionnaires. Ils doivent présenter des garanties suffisantes en ce qui concerne leur organisation, leurs moyens
@@ -17387,14 +17412,17 @@ SICAF conservés par lui.
 	  - Code monétaire et financier - art. D214-239 (V)
 	  - Code monétaire et financier - art. L214-156 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+	  - Loi n°2009-1255 du 19 octobre 2009 - art. 15 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L321-2
-	  - Code monétaire et financier - art. L621-9
+	  - Code de commerce - art. L225-13 (V)
+	  - Code de commerce - art. L225-15 (V)
+	  - Code de commerce - art. L225-5 (V)
+	  - Code monétaire et financier - art. L321-2 (V)
+	  - Code monétaire et financier - art. L621-9 (V)
 
 
 ###### Article L214-151
@@ -17552,9 +17580,8 @@ la règle du secret professionnel.
 
 ###### Article L214-155
 
-Les articles L. 224-1, L. 224-2, L. 225-3 à L. 225-16, le deuxième alinéa de l'article L. 225-68, le deuxième alinéa de
-l'article L. 225-131, les articles L. 225-258 à L. 225-270, L. 232-2, et L. 232-10, du code de commerce ne sont pas
-applicables aux SICAF.
+Les articles L. 224-1, L. 224-2, le deuxième alinéa de l'article L. 225-68, le deuxième alinéa de l'article L. 225-131, les
+articles L. 225-258 à L. 225-270, L. 232-2, et L. 232-10, du code de commerce ne sont pas applicables aux SICAF.
 
 **Liens relatifs à cet article**
 
@@ -17568,24 +17595,21 @@ applicables aux SICAF.
 	  - Code monétaire et financier - art. L214-162-1 (V)
 	  - Code monétaire et financier - art. L752-6 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+	  - Loi n°2009-1255 du 19 octobre 2009 - art. 15 (V)
 
 	**Cite**:
 
 	  - Code de commerce - art. L224-1
 	  - Code de commerce - art. L225-131
 	  - Code de commerce - art. L225-258
-	  - Code de commerce - art. L225-3
 	  - Code de commerce - art. L225-68
 	  - Code de commerce - art. L232-10
 	  - Code de commerce - art. L232-2
 
 
 ###### Article L214-156
-
-Les modalités de constitution de la SICAF sont fixées par le règlement général de l'Autorité des marchés financiers. 
 
 Les statuts de la SICAF fixent la durée des exercices comptables qui ne peut excéder douze mois. Toutefois, le premier
 exercice peut s'étendre sur une durée différente sans excéder dix-huit mois. 
@@ -17604,9 +17628,9 @@ actionnaire qui en fait la demande a droit à la communication de ce document.
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-107 du 30 janvier 2009 - art. 1
+	  - Loi n°2009-1255 du 19 octobre 2009 - art. 15 (V)
 
 	**Cite**:
 
@@ -17906,23 +17930,24 @@ les conditions de mise en œuvre des deux premiers alinéas.
 Les ressources collectées par les établissements distribuant le livret A ou le livret de développement durable et non
 centralisées en application des alinéas précédents sont employées par ces établissements au financement des petites et
 moyennes entreprises, notamment pour leur création et leur développement, ainsi qu'au financement des travaux d'économie
-d'énergie dans les bâtiments anciens. Les dépôts dont l'utilisation ne satisfait pas à cette condition sont centralisés à la
-Caisse des dépôts et consignations. 
+d'énergie dans les bâtiments anciens. 
 
 Les établissements distribuant le livret A ou le livret de développement durable rendent public annuellement un rapport
 présentant l'emploi des ressources collectées au titre de ces deux livrets et non centralisées. 
 
-Ces établissements fournissent, une fois par trimestre, au ministre chargé de l'économie, une information écrite sur les
-concours financiers accordés à l'aide des ressources ainsi collectées. 
+Afin de permettre la vérification du respect de l'obligation d'emploi mentionnée au quatrième alinéa, les établissements
+distribuant le livret A ou le livret de développement durable et qui n'ont pas choisi d'opter, dans les conditions prévues
+par un décret en Conseil d'Etat, pour la centralisation intégrale des ressources qu'ils collectent, fournissent, une fois par
+trimestre, au ministre chargé de l'économie une information écrite sur les concours financiers accordés à l'aide des
+ressources non centralisées. Les dépôts dont l'utilisation, au cours du trimestre écoulé, ne satisfait pas à la condition
+d'emploi susmentionnée sont centralisés au fonds prévu à l'article L. 221-7 pour une durée égale à un trimestre. Le ministre
+chargé de l'économie s'assure de l'effectivité de cette centralisation, qui n'ouvre pas droit à la rémunération mentionnée au
+premier alinéa de l'article L. 221-6. 
 
 La forme et le contenu des informations mentionnées aux deux alinéas précédents sont fixés par arrêté du ministre chargé de
 l'économie.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 145
 
 	**Cité par**:
 
@@ -17946,6 +17971,15 @@ l'économie.
 	  - Code monétaire et financier - art. R221-22 (Ab)
 	  - Code monétaire et financier - art. R221-8 (VD)
 	  - Code monétaire et financier - art. R518-52 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2009-1255 du 19 octobre 2009 - art. 4
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L221-6 (V)
+	  - Code monétaire et financier - art. L221-7 (V)
 
 
 ###### Article L221-6
@@ -21771,8 +21805,9 @@ prescrivent par cinq ans, sauf renouvellement.
 
 Tout concours à durée indéterminée, autre qu'occasionnel, qu'un établissement de crédit consent à une entreprise, ne peut
 être réduit ou interrompu que sur notification écrite et à l'expiration d'un délai de préavis fixé lors de l'octroi du
-concours. Ce délai ne peut, sous peine de nullité de la rupture du concours, être inférieur à une durée fixée, par catégorie
-de crédits et en fonction des usages bancaires, par un décret pris après avis de la Commission bancaire. L'établissement de
+concours. Ce délai ne peut, sous peine de nullité de la rupture du concours, être inférieur à soixante jours. Dans le respect
+des dispositions légales applicables, l'établissement de crédit fournit, sur demande de l'entreprise concernée, les raisons
+de cette réduction ou interruption, qui ne peuvent être demandées par un tiers, ni lui être communiquées. L'établissement de
 crédit ne peut être tenu pour responsable des préjudices financiers éventuellement subis par d'autres créanciers du fait du
 maintien de son engagement durant ce délai.
 
@@ -21786,16 +21821,11 @@ Le non-respect de ces dispositions peut entraîner la responsabilité pécuniair
 
 	**Anciens textes**:
 
-	  - Loi n°84-46 1984-01-24 art. 60
 	  - Loi n°84-46 du 24 janvier 1984 - art. 60 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 46 () JORF 7 mai 2005
 
 	**Cité par**:
 
@@ -21805,6 +21835,55 @@ Le non-respect de ces dispositions peut entraîner la responsabilité pécuniair
 	  - Code monétaire et financier - art. L743-5 (V)
 	  - Code monétaire et financier - art. L753-5 (V)
 	  - Code monétaire et financier - art. L763-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-1255 du 19 octobre 2009 - art. 1
+
+
+###### Article L313-12-1
+
+Les établissements de crédit fournissent aux entreprises qui sollicitent un prêt ou bénéficient d'un prêt une explication sur
+les éléments ayant conduit aux décisions de notation les concernant, lorsqu'elles en font la demande. Ces explications ou
+éléments ne peuvent pas être demandés par un tiers, ni lui être communiqués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-1255 du 19 octobre 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L743-5 (V)
+	  - Code monétaire et financier - art. L753-5 (V)
+	  - Code monétaire et financier - art. L763-5 (V)
+
+
+###### Article L313-12-2
+
+La Banque de France publie chaque trimestre, à partir du volume des encours de crédits et des nouveaux crédits consentis par
+les établissements de crédit aux entreprises, un document faisant apparaître la part et le volume de ceux consentis : 
+
+- aux entreprises créées depuis moins de trois ans ; 
+
+- aux petites et moyennes entreprises. 
+
+Les données précisent, pour chaque catégorie, le nombre d'entreprises concernées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-1255 du 19 octobre 2009 - art. 5
 
 
 ##### Paragraphe 2 : Prêts participatifs
@@ -26711,16 +26790,18 @@ marchés financiers lui communique l'identité des membres du marché réglement
 
 ##### Section 4 : Admission aux négociations, suspension et radiation des instruments financiers
 
+##### Section 4 : Admission aux négociations, suspension, radiation et retrait des instruments financiers
+
 ###### Article L421-14
 
-I.-L'admission d'instruments financiers aux négociations sur un marché réglementé est décidée par l'entreprise de marché,
+I. - L'admission d'instruments financiers aux négociations sur un marché réglementé est décidée par l'entreprise de marché,
 conformément aux règles du marché concerné. 
 
 Ces règles garantissent que tout instrument financier admis aux négociations sur un marché réglementé est susceptible de
 faire l'objet d'une négociation équitable, ordonnée et efficace et, dans le cas des instruments mentionnés aux 1 et 2 du II
 de l'article L. 211-1, d'être négocié librement. 
 
-II.-L'accord exprès de l'émetteur est requis dans le cas des instruments mentionnés aux 1 et 2 du II de l'article L. 211-1
+II. - L'accord exprès de l'émetteur est requis dans le cas des instruments mentionnés aux 1 et 2 du II de l'article L. 211-1
 qui ne sont pas déjà admis aux négociations sur un autre marché réglementé d'un Etat membre de la Communauté européenne ou
 d'un autre Etat partie à l'accord sur l'Espace économique européen. 
 
@@ -26730,13 +26811,26 @@ avec le consentement de l'émetteur, il peut être admis aux négociations sur u
 l'émetteur. Dans ce cas, l'entreprise de marché en informe l'émetteur, qui n'est tenu de son côté à aucune obligation
 d'information vis-à-vis de l'entreprise de marché. 
 
-III.-Les règles du marché doivent garantir que les caractéristiques des instruments financiers à terme permettent une
+III. - Les règles du marché doivent garantir que les caractéristiques des instruments financiers à terme permettent une
 négociation ordonnée et, le cas échéant, une livraison efficace des actifs sous-jacents. 
 
-IV.-L'entreprise de marché est tenue de mettre en place des procédures afin de vérifier que les émetteurs dont elle admet les
-titres aux négociations se conforment aux dispositions qui leur sont applicables et facilitent l'accès des membres du marché
-aux informations que ces émetteurs rendent publiques. Le règlement général de l'Autorité des marchés financiers précise les
-conditions d'application du présent IV.
+IV. - L'entreprise de marché est tenue de mettre en place des procédures afin de vérifier que les émetteurs dont elle admet
+les titres aux négociations se conforment aux dispositions qui leur sont applicables et facilitent l'accès des membres du
+marché aux informations que ces émetteurs rendent publiques. Le règlement général de l'Autorité des marchés financiers
+précise les conditions d'application du présent IV.
+
+V. - Lorsque l'émetteur dont les instruments financiers sont admis aux négociations sur un marché réglementé envisage de
+demander l'admission aux négociations de ses instruments financiers sur un système multilatéral de négociation qui se soumet
+aux dispositions législatives ou réglementaires visant à protéger les investisseurs contre les opérations d'initiés, les
+manipulations de cours et la diffusion de fausses informations, il en informe le public dans les conditions fixées par le
+règlement général de l'Autorité des marchés financiers dans un délai au moins égal à deux mois avant la date envisagée de
+l'admission aux négociations des instruments financiers sur le système multilatéral de négociation concerné. 
+
+Une résolution de l'assemblée générale statue sur toute demande d'admission aux négociations des instruments financiers sur
+le système multilatéral de négociation concerné. Cette admission ne peut intervenir avant l'expiration d'un délai de deux
+mois à compter de la date de la réunion de l'assemblée générale. 
+
+Les alinéas précédents sont applicables aux sociétés dont la capitalisation boursière est inférieure à un milliard d'euros.
 
 **Liens relatifs à cet article**
 
@@ -26754,7 +26848,7 @@ conditions d'application du présent IV.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+	  - Loi n°2009-1255 du 19 octobre 2009 - art. 12
 
 	**Cite**:
 
@@ -28000,6 +28094,38 @@ représentent pas plus de 5 % de la somme des titres de capital existants et sus
 	  - Code de commerce - art. L228-6-3
 	  - Code de commerce - art. L233-10
 	  - Code de commerce - art. L233-3
+
+
+##### Section 4 : Dispositions applicables aux sociétés dont les instruments financiers ont cessé d'être négociés sur un marché réglementé
+
+###### Article L433-5
+
+Les articles L. 433-1 à L. 433-4 sont applicables aux sociétés dont les instruments financiers ont cessé d'être admis aux
+négociations sur un marché réglementé pour être admis aux négociations sur un système multilatéral de négociation qui se
+soumet aux dispositions législatives ou réglementaires visant à protéger les investisseurs contre les opérations d'initiés,
+les manipulations de cours et la diffusion de fausses informations pendant une durée de trois ans à compter de la date à
+laquelle ces instruments financiers ont cessé d'être admis aux négociations sur un marché réglementé.
+
+L'alinéa précédent est applicable aux sociétés dont la capitalisation boursière est inférieure à un milliard d'euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-1255 du 19 octobre 2009 - art. 13
+
+	**Cité par**:
+
+	  - Arrêté du 14 juin 2012 - art. (V)
+	  - Décret n°2015-1454 du 10 novembre 2015 - art. (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L433-1 (V)
 
 
 ### Titre IV : Les chambres de compensation
